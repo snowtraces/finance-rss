@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://yourname.github.io/finance-rss/</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 10 Oct 2025 08:59:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 09:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>en</language>
@@ -156,13 +156,6 @@
             <description><![CDATA[[CNBC] Delta and other carriers are relying more on revenue from the front of the plane.]]></description>
         </item>
         <item>
-            <title><![CDATA[Here are the new federal income tax brackets for 2026—the standard deduction now exceeds $16,000 for single filers]]></title>
-            <link>https://www.cnbc.com/2025/10/09/irs-announces-new-federal-income-tax-brackets-for-2026.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/10/09/irs-announces-new-federal-income-tax-brackets-for-2026.html</guid>
-            <pubDate>Thu, 09 Oct 2025 17:52:29 GMT</pubDate>
-            <description><![CDATA[[CNBC] The IRS announced higher income thresholds, which means taxpayers will get taxed less on lower income amounts.]]></description>
-        </item>
-        <item>
             <title><![CDATA[Funding bills to end government shutdown fail in Senate vote for seventh time]]></title>
             <link>https://www.cnbc.com/2025/10/09/government-shutdown-senate-vote-bills.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/10/09/government-shutdown-senate-vote-bills.html</guid>
@@ -189,6 +182,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2025/10/09/jeff-bezos-this-strategy-increases-odds-of-starting-successful-business.html</guid>
             <pubDate>Thu, 09 Oct 2025 16:32:48 GMT</pubDate>
             <description><![CDATA[[CNBC] Prospective startup founders don't have to follow college dropouts like Bill Gates and Mark Zuckerberg to succeed, says the billionaire Amazon founder.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jim Cramer: This investment strategy is like 'magic,' especially for younger people—'you end up with just a huge amount of stock']]></title>
+            <link>https://www.cnbc.com/2025/10/09/jim-cramer-why-dividend-stocks-are-magic-for-younger-investors.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2025/10/09/jim-cramer-why-dividend-stocks-are-magic-for-younger-investors.html</guid>
+            <pubDate>Thu, 09 Oct 2025 16:26:55 GMT</pubDate>
+            <description><![CDATA[[CNBC] Jim Cramer, host of CNBC's 'Mad Money,' says reinvesting cash payouts can have a bigger impact on returns than you might think — especially for young investors.]]></description>
         </item>
         <item>
             <title><![CDATA[YouTube will give banned creators a 'second chance' after rule rollback]]></title>
