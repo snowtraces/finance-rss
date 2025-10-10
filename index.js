@@ -78,6 +78,7 @@ async function main() {
   fs.writeFileSync("dist/finance_feed.xml", xml);
 
   console.log("📰 Generated: dist/finance_feed.xml");
+  fs.copyFileSync('template/index.html', 'dist/index.html');
 }
 
 main().catch(console.error);
