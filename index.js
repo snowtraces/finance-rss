@@ -49,7 +49,7 @@ async function main() {
       return true;
     })
     .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .slice(0, 50);
+    .slice(0, 100);
 
   console.log(`✅ Collected ${sorted.length} articles.`);
 
