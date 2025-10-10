@@ -15,13 +15,11 @@ const FEED_SOURCES = [
   { name: "华尔街见闻", url: "https://wallstreetcn.com/rss" }
 ];
 
-// 工具函数：抓取所有RSS源
 async function fetchAllFeeds() {
   const allItems = [];
-
   for (const src of FEED_SOURCES) {
     try {
-      console.log(`Fetching feed: ${src.name}`);
+      console.log(`📡 Fetching: ${src.name}`);
       const feed = await parser.parseURL(src.url);
       feed.items.forEach(item => {
         allItems.push({
@@ -33,19 +31,16 @@ async function fetchAllFeeds() {
         });
       });
     } catch (e) {
-      console.error(`❌ Failed to fetch ${src.name}:`, e.message);
+      console.error(`❌ ${src.name} fetch failed: ${e.message}`);
     }
   }
-
   return allItems;
 }
 
-// 主函数
 async function main() {
-  console.log("🚀 Fetching finance feeds...");
+  console.log("🚀 Fetching finance RSS feeds...");
   const items = await fetchAllFeeds();
 
-  // 去重 + 排序
   const seen = new Set();
   const sorted = items
     .filter(i => {
@@ -58,14 +53,12 @@ async function main() {
 
   console.log(`✅ Collected ${sorted.length} articles.`);
 
-  // 生成RSS
   const feed = new Feed({
     title: "Finance News Summary",
     description: "Merged global finance news feed",
-    id: "https://finance-rss.example.com/",
-    link: "https://finance-rss.example.com/",
+    id: "https://yourname.github.io/finance-rss/",
+    link: "https://yourname.github.io/finance-rss/",
     language: "en",
-    favicon: "https://www.cnbc.com/favicon.ico",
     updated: new Date(),
     generator: "Finance-RSS Generator"
   });
@@ -81,8 +74,10 @@ async function main() {
   });
 
   const xml = feed.rss2();
-  fs.writeFileSync("finance_feed.xml", xml);
-  console.log("📰 RSS feed generated: finance_feed.xml");
+  fs.mkdirSync("dist", { recursive: true });
+  fs.writeFileSync("dist/finance_feed.xml", xml);
+
+  console.log("📰 Generated: dist/finance_feed.xml");
 }
 
-main().catch(e => console.error(e));
+main().catch(console.error);
