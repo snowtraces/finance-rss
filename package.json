@@ -1,0 +1,14 @@
+{
+  "name": "finance-rss",
+  "version": "1.0.0",
+  "description": "Merged finance news RSS generator",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "feed": "^5.1.0"
+  }
+}
