@@ -11,8 +11,8 @@ const FEED_SOURCES = [
   { name: "CNBC", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
   { name: "Reuters Business", url: "https://feeds.reuters.com/reuters/businessNews" },
   { name: "FT Chinese", url: "http://www.ftchinese.com/rss/news" },
-  { name: "财新网", url: "https://weekly.caixin.com/rss/" },
-  { name: "华尔街见闻", url: "https://wallstreetcn.com/rss" }
+  { name: "财新网", url: "https://rsshub.rssforever.com/caixin/latest" },
+  { name: "华尔街见闻", url: "https://news.google.com/rss/search?q=site:wallstreetcn.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" }
 ];
 
 async function fetchAllFeeds() {
