@@ -25,6 +25,11 @@
             color: #0066cc;
             text-decoration: none;
         }
+        
+        .news-number {
+            font-weight: bold;
+            margin-right: 10px;
+        }
     </style>
     <link rel="stylesheet" href="https://unpkg.com/missing.css@1.2.0">
 </head>
@@ -42,12 +47,12 @@
                         const xml = parser.parseFromString(t, "application/xml");
                         const items = xml.querySelectorAll("item");
                         const container = document.getElementById("news");
-                        items.forEach(i => {
+                        items.forEach((i, index) => {
                             const title = i.querySelector("title")?.textContent;
                             const link = i.querySelector("link")?.textContent;
                             const desc = i.querySelector("description")?.textContent;
                             const art = document.createElement("article");
-                            art.innerHTML = `<a href="${link}" target="_blank"><h3>${title}</h3></a><p>${desc}</p>`;
+                            art.innerHTML = `<a href="${link}" target="_blank"><h3><span class="news-number">${index + 1}.</span>${title}</h3></a><p>${desc}</p>`;
                             container.appendChild(art);
                         });
                     });
