@@ -1,35 +1,59 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
-  <meta charset="UTF-8" />
-  <title>财经资讯聚合</title>
-  <style>
-    body { font-family: sans-serif; max-width: 700px; margin: 40px auto; line-height: 1.6; }
-    h1 { text-align: center; }
-    article { border-bottom: 1px solid #ddd; padding: 10px 0; }
-    a { color: #0066cc; text-decoration: none; }
-  </style>
+    <meta charset="UTF-8" />
+    <title>财经资讯聚合</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            max-width: 700px;
+            margin: 40px auto;
+            line-height: 1.6;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        article {
+            border-bottom: 1px solid #ddd;
+            padding: 10px 0;
+        }
+
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+    </style>
+    <link rel="stylesheet" href="https://unpkg.com/missing.css@1.2.0">
 </head>
+
 <body>
-  <h1>财经资讯聚合</h1>
-  <div id="news"></div>
-  <script>
-    fetch('finance_feed.xml')
-      .then(r => r.text())
-      .then(t => {
-        const parser = new DOMParser();
-        const xml = parser.parseFromString(t, "application/xml");
-        const items = xml.querySelectorAll("item");
-        const container = document.getElementById("news");
-        items.forEach(i => {
-          const title = i.querySelector("title")?.textContent;
-          const link = i.querySelector("link")?.textContent;
-          const desc = i.querySelector("description")?.textContent;
-          const art = document.createElement("article");
-          art.innerHTML = `<a href="${link}" target="_blank"><h3>${title}</h3></a><p>${desc}</p>`;
-          container.appendChild(art);
-        });
-      });
-  </script>
+    <section class="section">
+        <div class="container">
+            <h1>财经资讯聚合</h1>
+            <div id="news"></div>
+            <script>
+                fetch('finance_feed.xml')
+                    .then(r => r.text())
+                    .then(t => {
+                        const parser = new DOMParser();
+                        const xml = parser.parseFromString(t, "application/xml");
+                        const items = xml.querySelectorAll("item");
+                        const container = document.getElementById("news");
+                        items.forEach(i => {
+                            const title = i.querySelector("title")?.textContent;
+                            const link = i.querySelector("link")?.textContent;
+                            const desc = i.querySelector("description")?.textContent;
+                            const art = document.createElement("article");
+                            art.innerHTML = `<a href="${link}" target="_blank"><h3>${title}</h3></a><p>${desc}</p>`;
+                            container.appendChild(art);
+                        });
+                    });
+            </script>
+        </div>
+    </section>
 </body>
+
 </html>
