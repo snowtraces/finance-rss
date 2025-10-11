@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 * * * *"  # 每小时自动执行
+    - cron: "0,31 * * * *"
   workflow_dispatch:
 
 jobs:
