@@ -16,12 +16,12 @@
 
         h1 {
             text-align: center;
-            margin: 0.5em 0;
+            margin: 0.3em 0 0;
         }
 
         p,
         h3 {
-            margin: 0.5em 0;
+            margin: 0.3em 0;
         }
 
         article {
@@ -44,6 +44,14 @@
             color: #666;
             margin-top: 5px;
         }
+        
+        #last-update {
+            text-align: center;
+            font-size: 0.8em;
+            color: #666;
+            margin-top: -0.5em;
+            margin-bottom: 1em;
+        }
     </style>
 </head>
 
@@ -51,6 +59,7 @@
     <section class="section">
         <div class="container">
             <h1 id="title">财经资讯聚合</h1>
+            <div id="last-update"></div>
             <div id="news"></div>
             <script>
                 fetch('finance_feed.xml', {
@@ -65,7 +74,9 @@
                         const parser = new DOMParser();
                         const xml = parser.parseFromString(t, "application/xml");
                         const lastBuildDate = xml.querySelector("lastBuildDate")
-                        document.getElementById("title").textContent += (lastBuildDate ? ` - 最后更新: ${new Date(lastBuildDate.textContent).toLocaleString('zh-CN')}` : '');
+                        if (lastBuildDate) {
+                            document.getElementById("last-update").textContent = `最后更新: ${new Date(lastBuildDate.textContent).toLocaleString('zh-CN')}`;
+                        }
                         const items = xml.querySelectorAll("item");
                         const container = document.getElementById("news");
                         items.forEach((i, index) => {

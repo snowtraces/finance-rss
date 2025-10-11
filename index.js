@@ -46,7 +46,7 @@ async function fetchAllFeeds() {
 // 新增：翻译文章标题和内容的函数
 async function translateItem(item) {
   // 检查是否需要翻译（基于来源或其他逻辑）
-  const needsTranslation = ['CNBC', 'Reuters Business', 'FT Chinese'].includes(item.source);
+  const needsTranslation = ['CNBC', 'Reuters Business', 'FT Chinese', 'WSJ', 'Bloomberg'].includes(item.source);
 
   if (needsTranslation) {
     try {
