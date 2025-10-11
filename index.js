@@ -4,12 +4,13 @@ import fs from "fs";
 import { translateText } from "./translator.js"; // 添加导入
 // GoogleNewsDecoder
 import GoogleNewsDecoder from "./googleNewsDecoder.js";
+import { log } from "console";
 
 const parser = new Parser({
   headers: {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
-  timeout: 10000,
+  timeout: 5000,
 });
 
 const gnd = new GoogleNewsDecoder({
@@ -81,7 +82,23 @@ async function main() {
       return true;
     })
     .sort((a, b) => new Date(b.date) - new Date(a.date))
-    .slice(0, 100);
+    .slice(0, 100)
+    ;
+
+  // 使用 Promise.all 并行处理所有链接解码
+  const decodedItems = await Promise.all(sorted.map(async item => {
+    try {
+      const decodedLink = await gnd.decode(item.link);
+      return {
+        ...item,
+        link: decodedLink
+      };
+    } catch (error) {
+      console.warn(`Failed to decode link for item from ${item.source}:`, error.message);
+      // 如果解码失败，保留原始链接
+      return item;
+    }
+  }));
 
   console.log(`✅ Collected ${sorted.length} articles.`);
 
@@ -95,11 +112,11 @@ async function main() {
     generator: "Finance-RSS Generator"
   });
 
-  sorted.forEach(item => {
+  decodedItems.forEach(item => {
     feed.addItem({
       title: item.title,
       id: item.link,
-      link: gnd.decode(item.link),
+      link: item.link,
       date: new Date(item.date),
       description: `[${item.source}] ${item.content}`
     });
