@@ -16,7 +16,9 @@ const FEED_SOURCES = [
   { name: "Reuters Business", url: "https://news.google.com/rss/search?q=site:www.reuters.com/business&hl=en-US&gl=US&ceid=US:en" },
   { name: "FT Chinese", url: "http://www.ftchinese.com/rss/news" },
   { name: "财新网", url: "https://news.google.com/rss/search?q=site:finance.caixin.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" },
-  { name: "华尔街见闻", url: "https://news.google.com/rss/search?q=site:wallstreetcn.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" }
+  { name: "华尔街见闻", url: "https://news.google.com/rss/search?q=site:wallstreetcn.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" },
+  { name: "WSJ", url: "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed" },
+  { name: "Bloomberg", url: "https://feeds.bloomberg.com/markets/news.rss" },
 ];
 
 async function fetchAllFeeds() {
