@@ -80,9 +80,9 @@ async function main() {
   const feed = new Feed({
     title: "Finance News Summary",
     description: "Merged global finance news feed",
-    id: "https://yourname.github.io/finance-rss/",
-    link: "https://yourname.github.io/finance-rss/",
-    language: "en",
+    id: "https://rss.snowtraces.com/finance_feed.xml",
+    link: "https://rss.snowtraces.com/finance_feed.xml",
+    language: "zh-CN",
     updated: new Date(),
     generator: "Finance-RSS Generator"
   });
