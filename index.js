@@ -1,6 +1,7 @@
 import Parser from "rss-parser";
 import { Feed } from "feed";
 import fs from "fs";
+import { translateText } from "./translator.js"; // 添加导入
 
 const parser = new Parser({
   headers: { "User-Agent": "Finance-RSS/1.0" },
@@ -9,7 +10,7 @@ const parser = new Parser({
 
 const FEED_SOURCES = [
   { name: "CNBC", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
-  { name: "Reuters Business", url: "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en" },
+  { name: "Reuters Business", url: "https://news.google.com/rss/search?q=site:www.reuters.com/business&hl=en-US&gl=US&ceid=US:en" },
   { name: "FT Chinese", url: "http://www.ftchinese.com/rss/news" },
   { name: "财新网", url: "https://news.google.com/rss/search?q=site:finance.caixin.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" },
   { name: "华尔街见闻", url: "https://news.google.com/rss/search?q=site:wallstreetcn.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" }
@@ -37,9 +38,36 @@ async function fetchAllFeeds() {
   return allItems;
 }
 
+// 新增：翻译文章标题和内容的函数
+async function translateItem(item) {
+  // 检查是否需要翻译（基于来源或其他逻辑）
+  const needsTranslation = ['CNBC', 'Reuters Business', 'FT Chinese'].includes(item.source);
+  
+  if (needsTranslation) {
+    try {
+      // 只翻译英文内容
+      if (/^[A-Za-z\s\.,!?]+$/.test(item.title)) {
+        item.title = await translateText(item.title, 'zh-CN');
+      }
+      
+      if (/^[A-Za-z\s\.,!?]+$/.test(item.content)) {
+        item.content = await translateText(item.content, 'zh-CN');
+      }
+    } catch (error) {
+      console.warn(`Translation error for item from ${item.source}:`, error.message);
+    }
+  }
+  
+  return item;
+}
+
 async function main() {
   console.log("🚀 Fetching finance RSS feeds...");
-  const items = await fetchAllFeeds();
+  let items = await fetchAllFeeds();
+
+  // 新增：翻译所有条目
+  console.log("🌍 Translating English content...");
+  items = await Promise.all(items.map(translateItem));
 
   const seen = new Set();
   const sorted = items

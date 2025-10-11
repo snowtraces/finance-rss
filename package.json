@@ -8,7 +8,8 @@
   },
   "type": "module",
   "dependencies": {
-    "rss-parser": "^3.13.0",
-    "feed": "^5.1.0"
+    "axios": "^1.12.2",
+    "feed": "^5.1.0",
+    "rss-parser": "^3.13.0"
   }
 }
