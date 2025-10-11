@@ -35,7 +35,7 @@ async function fetchAllFeeds() {
       feed.items.forEach(item => {
         allItems.push({
           title: item.title,
-          link:  gnd.decode(item.link),
+          link:  item.link,
           date: item.isoDate || item.pubDate || new Date().toISOString(),
           source: src.name,
           content: item.contentSnippet || item.content || ""
@@ -99,7 +99,7 @@ async function main() {
     feed.addItem({
       title: item.title,
       id: item.link,
-      link: item.link,
+      link: gnd.decode(item.link),
       date: new Date(item.date),
       description: `[${item.source}] ${item.content}`
     });
