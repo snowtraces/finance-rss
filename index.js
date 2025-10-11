@@ -3,11 +3,11 @@ import { Feed } from "feed";
 import fs from "fs";
 import { translateText } from "./translator.js"; // 添加导入
 // GoogleNewsDecoder
-import { GoogleNewsDecoder } from "./googleNewsDecoder.js";
+import GoogleNewsDecoder from "./googleNewsDecoder.js";
 
 const parser = new Parser({
-  headers: { 
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" 
+  headers: {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
   timeout: 10000,
 });
@@ -35,7 +35,7 @@ async function fetchAllFeeds() {
       feed.items.forEach(item => {
         allItems.push({
           title: item.title,
-          link:  item.link,
+          link: item.link,
           date: item.isoDate || item.pubDate || new Date().toISOString(),
           source: src.name,
           content: item.contentSnippet || item.content || ""
@@ -52,7 +52,7 @@ async function fetchAllFeeds() {
 async function translateItem(item) {
   // 检查是否需要翻译（基于来源或其他逻辑）
   const needsTranslation = ['CNBC', 'Reuters Business', 'FT Chinese'].includes(item.source);
-  
+
   if (needsTranslation) {
     try {
       item.title = await translateText(item.title, 'zh-CN');
@@ -61,7 +61,7 @@ async function translateItem(item) {
       console.warn(`Translation error for item from ${item.source}:`, error.message);
     }
   }
-  
+
   return item;
 }
 
