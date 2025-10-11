@@ -1,10 +1,7 @@
-import Parser from "rss-parser";
 import { Feed } from "feed";
 import fs from "fs";
+import Parser from "rss-parser";
 import { translateText } from "./translator.js"; // 添加导入
-// GoogleNewsDecoder
-import GoogleNewsDecoder from "./googleNewsDecoder.js";
-import { log } from "console";
 
 const parser = new Parser({
   headers: {
@@ -13,11 +10,6 @@ const parser = new Parser({
   timeout: 5000,
 });
 
-const gnd = new GoogleNewsDecoder({
-  timeout: 5000, // 可选，默认8000ms
-  cache: true, // 可选，默认true
-  cacheTTL: 5 * 60 * 1000, // 可选，默认5分钟
-});
 
 const FEED_SOURCES = [
   { name: "CNBC", url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664" },
@@ -85,21 +77,6 @@ async function main() {
     .slice(0, 100)
     ;
 
-  // 使用 Promise.all 并行处理所有链接解码
-  const decodedItems = await Promise.all(sorted.map(async item => {
-    try {
-      const decodedLink = await gnd.decode(item.link);
-      return {
-        ...item,
-        link: decodedLink
-      };
-    } catch (error) {
-      console.warn(`Failed to decode link for item from ${item.source}:`, error.message);
-      // 如果解码失败，保留原始链接
-      return item;
-    }
-  }));
-
   console.log(`✅ Collected ${sorted.length} articles.`);
 
   const feed = new Feed({
@@ -112,7 +89,7 @@ async function main() {
     generator: "Finance-RSS Generator"
   });
 
-  decodedItems.forEach(item => {
+  sorted.forEach(item => {
     feed.addItem({
       title: item.title,
       id: item.link,
