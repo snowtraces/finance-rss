@@ -4,7 +4,9 @@ import fs from "fs";
 import { translateText } from "./translator.js"; // 添加导入
 
 const parser = new Parser({
-  headers: { "User-Agent": "Finance-RSS/1.0" },
+  headers: { 
+    "User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" 
+  },
   timeout: 10000,
 });
 
