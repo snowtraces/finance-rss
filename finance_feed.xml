@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 11 Oct 2025 17:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 17:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -258,7 +258,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-10-11/hsbc-s-14-billion-deal-supercharges-exuberant-year-in-hong-kong</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-11/hsbc-s-14-billion-deal-supercharges-exuberant-year-in-hong-kong</guid>
             <pubDate>Sat, 11 Oct 2025 03:27:05 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 直到周四，今年对于香港的交易撮合者来说已经是丰收的一年。 随后，汇丰控股 (HSBC Holdings Plc) 提议以 140 亿美元收购恒生银行 (Hang Seng Bank Ltd.)，真正推动了事情的发展。]]></description>
+            <description><![CDATA[[Bloomberg] 截至周四，今年对于香港的交易撮合者来说已经是丰收的一年。 随后，汇丰控股有限公司 (HSBC Holdings Plc) 提议以 140 亿美元收购恒生银行 (Hang Seng Bank Ltd.)，真正实现了火箭般的发展。]]></description>
         </item>
         <item>
             <title><![CDATA[墨西哥暴雨造成近30人死亡 - 路透中文网]]></title>
@@ -548,13 +548,6 @@
             <description><![CDATA[[Reuters Business] 穆萨勒姆表示，美联储在降息时应“谨慎行事” - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[法国总统马克龙再次任命勒科尔尼担任总理 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kOEtoYnotd1FUNTZVSnAwMEpPM2RxcW5xMVhmTjNxQi1SeGZ4U2hrMWFZLVpKa05Cc1BWSDZZc01ZdmdvMTJDcXY0SHFKZVFGdmpZ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kOEtoYnotd1FUNTZVSnAwMEpPM2RxcW5xMVhmTjNxQi1SeGZ4U2hrMWFZLVpKa05Cc1BWSDZZc01ZdmdvMTJDcXY0SHFKZVFGdmpZ?oc=5</guid>
-            <pubDate>Fri, 10 Oct 2025 20:44:07 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 法国总统马克龙再次任命勒科尔尼担任总理  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国将发布年度社会保障生活成本调整消费者物价指数报告 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWlwSG52TUhFZWRSZUloZ2VYR3RQVV8ydENIQW9PdlMtMDJyRUJOblF6TDZ0cFZ2TFdjcFpyT09SdzJfX1JNa1lDa3J3YmY5d1FJR1lsZTQ5dVBCaTRxUWJnT181QjFoWmNZRS1KN2hmVUhjLTlhRi1vMjJ0YXk0NnNycVNuamM2b2EtdTlwTjBpZndWckNET1hndXgyUnM4UVFWMC04bnRpWS1LZ19ZWms0UDlqUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWlwSG52TUhFZWRSZUloZ2VYR3RQVV8ydENIQW9PdlMtMDJyRUJOblF6TDZ0cFZ2TFdjcFpyT09SdzJfX1JNa1lDa3J3YmY5d1FJR1lsZTQ5dVBCaTRxUWJnT181QjFoWmNZRS1KN2hmVUhjLTlhRi1vMjJ0YXk0NnNycVNuamM2b2EtdTlwTjBpZndWckNET1hndXgyUnM4UVFWMC04bnRpWS1LZ19ZWms0UDlqUQ?oc=5</guid>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://www.ftchinese.com/story/001107834</guid>
             <pubDate>Fri, 10 Oct 2025 16:00:00 GMT</pubDate>
             <description><![CDATA[[FT Chinese] 特朗普还表示要实施出口管制，并取消与习近平的会议之间的威胁。美中可能重新爆发全面贸易战。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[和平奖得主马查多：建立“铁娘子”]]></title>
+            <link>https://www.ftchinese.com/story/001107831</link>
+            <guid isPermaLink="false">https://www.ftchinese.com/story/001107831</guid>
+            <pubDate>Fri, 10 Oct 2025 16:00:00 GMT</pubDate>
+            <description><![CDATA[[FT Chinese] 信自由市场和个人自由的这位反对党领袖，支持上届特朗普政府对马杜罗政权实施严厉的经济制裁，却令试图与马杜罗谈判的拜登政府不爽。]]></description>
         </item>
     </channel>
 </rss>
