@@ -48,7 +48,7 @@
 <body>
     <section class="section">
         <div class="container">
-            <h1>财经资讯聚合</h1>
+            <h1 id="title">财经资讯聚合</h1>
             <div id="news"></div>
             <script>
                 fetch('finance_feed.xml', {
@@ -62,6 +62,8 @@
                     .then(t => {
                         const parser = new DOMParser();
                         const xml = parser.parseFromString(t, "application/xml");
+                        const lastBuildDate = xml.querySelector("lastBuildDate")
+                        document.getElementById("title").textContent += (lastBuildDate ? ` - 最后更新: ${new Date(lastBuildDate.textContent).toLocaleString('zh-CN')}` : '');
                         const items = xml.querySelectorAll("item");
                         const container = document.getElementById("news");
                         items.forEach((i, index) => {
