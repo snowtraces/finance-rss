@@ -45,14 +45,8 @@ async function translateItem(item) {
   
   if (needsTranslation) {
     try {
-      // 只翻译英文内容
-      if (/^[A-Za-z\s\.,!?]+$/.test(item.title)) {
-        item.title = await translateText(item.title, 'zh-CN');
-      }
-      
-      if (/^[A-Za-z\s\.,!?]+$/.test(item.content)) {
-        item.content = await translateText(item.content, 'zh-CN');
-      }
+      item.title = await translateText(item.title, 'zh-CN');
+      item.content = await translateText(item.content, 'zh-CN');
     } catch (error) {
       console.warn(`Translation error for item from ${item.source}:`, error.message);
     }
