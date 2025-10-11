@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 11 Oct 2025 10:38:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 11:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[白银交易商将金条涌向伦敦，历史性的挤压震撼了市场]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-11/silver-squeeze-evokes-hunt-brothers-as-banks-rush-bars-to-london</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-11/silver-squeeze-evokes-hunt-brothers-as-banks-rush-bars-to-london</guid>
+            <pubDate>Sat, 11 Oct 2025 10:47:41 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 伦敦白银市场因大规模空头挤压而陷入混乱，历史上第二次将价格推至每盎司 50 美元以上，并让人回想起亿万富翁亨特兄弟 1980 年臭名昭著的垄断市场行为。]]></description>
+        </item>
         <item>
             <title><![CDATA[雷切尔·里夫斯希望在英国预算紧缩时增加财政缓冲]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-11/rachel-reeves-looks-to-boost-fiscal-buffer-at-crunch-uk-budget</link>
@@ -408,7 +415,7 @@
             <description><![CDATA[[Bloomberg] 就在比特币触及历史新高几天后，加密货币市场交易员就遭受了创纪录的清算打击，波动很大程度上是由美国总统唐纳德·特朗普的最新一轮关税引发的。]]></description>
         </item>
         <item>
-            <title><![CDATA[穆迪因债务风险将塞内加尔信用评级下调至Caa1]]></title>
+            <title><![CDATA[穆迪因流动性风险上升而下调塞内加尔信用评分]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-10/senegal-s-credit-rating-cut-to-caa1-by-moody-s-on-debt-risks</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-10/senegal-s-credit-rating-cut-to-caa1-by-moody-s-on-debt-risks</guid>
             <pubDate>Fri, 10 Oct 2025 21:18:54 GMT</pubDate>
@@ -455,13 +462,6 @@
             <guid isPermaLink="false">https://www.wsj.com/articles/canadas-bank-supervisor-to-propose-easing-of-financial-stability-rules-6f7e333a</guid>
             <pubDate>Fri, 10 Oct 2025 21:05:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 这位官员表示，银行认为2008-09年金融危机后加强的资本缓冲是没有必要的。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加纳削减债务后穆迪上调信用评级]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-10/ghana-s-credit-rating-upgraded-by-moody-s-after-nation-cut-debt</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-10/ghana-s-credit-rating-upgraded-by-moody-s-after-nation-cut-debt</guid>
-            <pubDate>Fri, 10 Oct 2025 21:03:09 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 穆迪评级上调了加纳的主权信用评级，理由是债务削减前景有所改善。]]></description>
         </item>
         <item>
             <title><![CDATA[穆萨利姆表示美联储应“谨慎对待”降息 - 路透中文网]]></title>
