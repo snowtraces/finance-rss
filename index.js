@@ -11,7 +11,7 @@ const parser = new Parser({
 });
 
 const FEED_SOURCES = [
-  { name: "CNBC", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
+  { name: "CNBC", url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664" },
   { name: "Reuters Business", url: "https://news.google.com/rss/search?q=site:www.reuters.com/business&hl=en-US&gl=US&ceid=US:en" },
   { name: "FT Chinese", url: "http://www.ftchinese.com/rss/news" },
   { name: "财新网", url: "https://news.google.com/rss/search?q=site:finance.caixin.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" },
