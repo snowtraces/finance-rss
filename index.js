@@ -2,12 +2,20 @@ import Parser from "rss-parser";
 import { Feed } from "feed";
 import fs from "fs";
 import { translateText } from "./translator.js"; // 添加导入
+// GoogleNewsDecoder
+import { GoogleNewsDecoder } from "./googleNewsDecoder.js";
 
 const parser = new Parser({
   headers: { 
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" 
   },
   timeout: 10000,
+});
+
+const gnd = new GoogleNewsDecoder({
+  timeout: 5000, // 可选，默认8000ms
+  cache: true, // 可选，默认true
+  cacheTTL: 5 * 60 * 1000, // 可选，默认5分钟
 });
 
 const FEED_SOURCES = [
@@ -27,7 +35,7 @@ async function fetchAllFeeds() {
       feed.items.forEach(item => {
         allItems.push({
           title: item.title,
-          link: item.link,
+          link:  gnd.decode(item.link),
           date: item.isoDate || item.pubDate || new Date().toISOString(),
           source: src.name,
           content: item.contentSnippet || item.content || ""
