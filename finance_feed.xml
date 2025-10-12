@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 12 Oct 2025 15:36:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Oct 2025 16:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[德克萨斯州水危机威胁着埃克森美孚和科赫公司蓬勃发展的工业热点]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-12/texas-water-crisis-threatens-booming-industrial-hotspot-for-exxon-koch</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-12/texas-water-crisis-threatens-booming-industrial-hotspot-for-exxon-koch</guid>
+            <pubDate>Sun, 12 Oct 2025 15:56:18 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 德克萨斯州南部的水资源短缺给这个快速发展的工业中心带来了重大风险，而这个工业中心对于唐纳德·特朗普总统主导全球能源市场和削减贸易赤字的双重目标至关重要。]]></description>
+        </item>
         <item>
             <title><![CDATA[PKO 银行考虑向散户投资者出售更多担保债券]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-12/pko-bank-mulls-more-sales-of-covered-bonds-to-retail-investors</link>
@@ -65,7 +72,7 @@
             <description><![CDATA[[Reuters Business] 俄罗斯暂停削减减震器付款补贴 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[在特朗普宣布最新的 100% 关税上调之前，中国的经济增长势头已经放缓，这是北京周日将贸易战升级的一部分，北京方面将其归咎于美国。]]></title>
+            <title><![CDATA[在特朗普宣布最新的 100% 关税上调之前，中国的经济增长势头已经放缓，这是北京周日将贸易战爆发的一部分归咎于美国。]]></title>
             <link>https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d</guid>
             <pubDate>Sun, 12 Oct 2025 13:00:00 GMT</pubDate>
@@ -356,7 +363,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-10-11/stock-bubble-dread-grips-central-bankers-in-washington</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-11/stock-bubble-dread-grips-central-bankers-in-washington</guid>
             <pubDate>Sat, 11 Oct 2025 20:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 各国央行行长已经对贸易紧张局势和公共债务膨胀感到不安，他们将在未来一周共同面临新的担忧：市场崩溃的危险。]]></description>
+            <description><![CDATA[[Bloomberg] 各国央行行长已经对贸易紧张局势和公共债务膨胀感到不安，他们将在未来一周共同面临新的担忧：市场崩盘的危险。]]></description>
         </item>
         <item>
             <title><![CDATA[南非贸易部长表示即将与美国达成关税协议]]></title>
@@ -471,13 +478,6 @@
             <description><![CDATA[[Bloomberg] 据《商报》报道，瑞士宝盛集团有限公司是德国房地产集团 Degag Kapital GmbH 的主要贷款人，该集团去年倒闭，欠下这家瑞士公司近 5000 万欧元（合 5800 万美元）。]]></description>
         </item>
         <item>
-            <title><![CDATA[预测未来和监禁的市场方法]]></title>
-            <link>https://www.bloomberg.com/news/newsletters/2025-10-11/market-approaches-to-telling-the-future-and-incarceration</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2025-10-11/market-approaches-to-telling-the-future-and-incarceration</guid>
-            <pubDate>Sat, 11 Oct 2025 12:00:07 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 预测市场不会取代民意调查。]]></description>
-        </item>
-        <item>
             <title><![CDATA[加沙协议达成，投资者预见“红海航运危机”结束 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zb1E4dm82M0NRa1p5ck9mUGcta25aTHIxZ2NjUzd5bGlVS0YyNmZidEF6VXNEcEpZb2I3bkdPQW4wSEFIOUwzR0U2Ukc3bFFYSDdR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zb1E4dm82M0NRa1p5ck9mUGcta25aTHIxZ2NjUzd5bGlVS0YyNmZidEF6VXNEcEpZb2I3bkdPQW4wSEFIOUwzR0U2Ukc3bFFYSDdR?oc=5</guid>
@@ -506,11 +506,25 @@
             <description><![CDATA[[Reuters Business] 德国部长表示，欧盟对“数字主权”的需求并不意味着保护主义 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[软银要借50亿美元，以ARM股份抵押，投资OpenAI - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rX3phcDdIeUxJbWlqVDBGd3RJQXo0UDZ0QmRlUVkzYXEzUTZYa185cmFlbGRJTWJhbG9Vb3NjS0lYMjZpNnl3dHE5Z0sxbmxuRXdZ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rX3phcDdIeUxJbWlqVDBGd3RJQXo0UDZ0QmRlUVkzYXEzUTZYa185cmFlbGRJTWJhbG9Vb3NjS0lYMjZpNnl3dHE5Z0sxbmxuRXdZ?oc=5</guid>
+            <pubDate>Sat, 11 Oct 2025 08:22:03 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 软银要借50亿美元，以ARM股份抵押，投资OpenAI  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[高估值个股两融折算率归零又上调 直接限制杠杆资金配置空间 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DMnpjanR6eDA0eGlFcUxfb1pGN2VHNlYwWjk0akcweGpwb3JzVHRVSTBSRU1iRGhERHNkVVJxdkhYalZURlRka2dlVzBYSnpxSTNSb2dhV1E4Y2lZVlBBZmx3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DMnpjanR6eDA0eGlFcUxfb1pGN2VHNlYwWjk0akcweGpwb3JzVHRVSTBSRU1iRGhERHNkVVJxdkhYalZURlRka2dlVzBYSnpxSTNSb2dhV1E4Y2lZVlBBZmx3?oc=5</guid>
             <pubDate>Sat, 11 Oct 2025 07:50:00 GMT</pubDate>
             <description><![CDATA[[财新网] 高估值个股两融折算率归零又上调 直接限制杠杆资金配置空间  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[名创开启分拆：TOP TOY“单飞”验成色 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdDBpXy1OdHZuSi0ya1VFWTZjUUtMN0lubGg3M2ZXWksyZHdaMTY5bElJNXRMeDZ5eVE3eTFHLVBGcnJ2ZlJaeWQ0ZEhOc2hMNEhr?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdDBpXy1OdHZuSi0ya1VFWTZjUUtMN0lubGg3M2ZXWksyZHdaMTY5bElJNXRMeDZ5eVE3eTFHLVBGcnJ2ZlJaeWQ0ZEhOc2hMNEhr?oc=5</guid>
+            <pubDate>Sat, 11 Oct 2025 07:49:32 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 名创开启分拆：TOP TOY“单飞”验成色  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[AI引爆美国电力需求，燃气轮机成“关键瓶颈”，GE Vernova、西门子能源和三菱重工“三巨头”面临抉择 - 华尔街见闻]]></title>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxOeTVsaW9zUlNXYWQ3aEp5QzM1d0RwaENrNjFiQUJaT3VxVjZtdDM4T2cxMzRadEo0NERwcFJ2VjVCREFJLVM4OEpWZ1RlMXotV0M3aEZRM3hHeWJ0VmdESllQdU90aXBkOEg0S3ppRTM0YW1qb0tpSDd0RkRlT0NLNjZ1ZTBEZjFNcTdHanhfRnJPbTZHMjdNMERlNDh4bTdXX1E?oc=5</guid>
             <pubDate>Fri, 10 Oct 2025 23:07:33 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 旅游科技公司 Navan 希望在美国 IPO 中估值 64.5 亿美元 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美股重演“四月暴跌”，纳指跌超3%半年最惨，美债黄金拉升，铜油加密货币跳水 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xcGhkRG9NOS1pYkhINHBPS2pzLVFUNzJUc2RUVHRpZDVnMHE1UUtQY21XMjE0X3VUYUVySFNQTG1kMVJlQU5CUGNSZ1UwT3E1Q1NZ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xcGhkRG9NOS1pYkhINHBPS2pzLVFUNzJUc2RUVHRpZDVnMHE1UUtQY21XMjE0X3VUYUVySFNQTG1kMVJlQU5CUGNSZ1UwT3E1Q1NZ?oc=5</guid>
-            <pubDate>Fri, 10 Oct 2025 22:58:13 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 美股重演“四月暴跌”，纳指跌超3%半年最惨，美债黄金拉升，铜油加密货币跳水  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着特朗普升级中美贸易战，比特币跌幅扩大至104,782美元 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9sT01LcXZFOVpxejA5ZGR4bHQ3d1NqeUprUlBGeVBlZmxqcXlLZ0lTT09yc2FScXk5ZHFZQ2dMNjFnMUNUMFQ0TDVvMGluT2dERHNkWFZPRnhaNGJPLVpRaG1ScHJ4WFlxd1NjQm5MVzVBTjNtRnc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE9sT01LcXZFOVpxejA5ZGR4bHQ3d1NqeUprUlBGeVBlZmxqcXlLZ0lTT09yc2FScXk5ZHFZQ2dMNjFnMUNUMFQ0TDVvMGluT2dERHNkWFZPRnhaNGJPLVpRaG1ScHJ4WFlxd1NjQm5MVzVBTjNtRnc?oc=5</guid>
-            <pubDate>Fri, 10 Oct 2025 22:54:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 随着特朗普升级中美贸易战，比特币跌幅扩大至 104,782 美元 路透]]></description>
         </item>
     </channel>
 </rss>
