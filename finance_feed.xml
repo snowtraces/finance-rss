@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 12 Oct 2025 12:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Oct 2025 13:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[在特朗普宣布最新的 100% 关税上调之前，中国的经济增长势头已经放缓，这是北京周日将贸易战爆发的一部分归咎于美国。]]></title>
+            <link>https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/trade/trumps-fresh-tariff-assault-threatens-chinas-fragile-economy-d0b3a00d</guid>
+            <pubDate>Sun, 12 Oct 2025 13:00:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 在特朗普宣布最新 100% 的关税上调之前，北京方面已经看到经济增长放缓，这是中国将贸易战爆发的一部分归咎于美国。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[牛市已过三周，必须有更多股票加入才能维持牛市]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-12/bull-market-turns-3-more-stocks-have-to-join-to-keep-it-going</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-12/bull-market-turns-3-more-stocks-have-to-join-to-keep-it-going</guid>
+            <pubDate>Sun, 12 Oct 2025 13:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 周日，美国股市的牛市即将迎来三周年纪念日，但如果以史为鉴的话，牛市需要很快扩大规模才能继续运行。]]></description>
+        </item>
         <item>
             <title><![CDATA[新兴市场正在发生什么：企业危机吓坏了交易者（播客）]]></title>
             <link>https://www.bloomberg.com/news/audio/2025-10-12/what-s-happening-in-em-corporate-crises-spook-traders-podcast</link>
@@ -286,7 +300,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-10-11/stock-bubble-dread-grips-central-bankers-in-washington</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-11/stock-bubble-dread-grips-central-bankers-in-washington</guid>
             <pubDate>Sat, 11 Oct 2025 20:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 各国央行行长已经对贸易紧张局势和公共债务膨胀感到不安，他们将在未来一周共同面临新的担忧：市场崩溃的危险。]]></description>
+            <description><![CDATA[[Bloomberg] 各国央行行长已经对贸易紧张局势和公共债务膨胀感到不安，他们将在未来一周共同面临新的担忧：市场崩盘的危险。]]></description>
         </item>
         <item>
             <title><![CDATA[南非贸易部长表示即将与美国达成关税协议]]></title>
@@ -534,13 +548,6 @@
             <description><![CDATA[[华尔街见闻] “次贷危机”的味道？华尔街投行旗下信贷基金暴雷，大摩等同业开始撤资  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[为什么黄金的上涨可能才刚刚开始]]></title>
-            <link>https://www.bloomberg.com/news/newsletters/2025-10-11/why-gold-s-flight-is-just-getting-started-merryn-talks-money</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2025-10-11/why-gold-s-flight-is-just-getting-started-merryn-talks-money</guid>
-            <pubDate>Sat, 11 Oct 2025 05:30:11 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] “触摸金子是您距离永恒最近的一次。”]]></description>
-        </item>
-        <item>
             <title><![CDATA[泰康保险、阳光保险披露新一轮员工持股计划 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBja3BuaXlPYk5ldFdSM3RTMU1OT081Z1RWeXJHclotZmJVN1ZVNjlyc3NDS2w5cGdvd1NpQnVIajlCUjZ1XzJDWUlQaGR0TXVpMkJJekFYTmZ3X2xGeUdyTmh3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBja3BuaXlPYk5ldFdSM3RTMU1OT081Z1RWeXJHclotZmJVN1ZVNjlyc3NDS2w5cGdvd1NpQnVIajlCUjZ1XzJDWUlQaGR0TXVpMkJJekFYTmZ3X2xGeUdyTmh3?oc=5</guid>
@@ -581,13 +588,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPbG5NcVlFUFI0SXVvNVJMMm5XTnV2ZGkxbGs2UndyNmRvbWdYdlo0NFF6a2FSVHBPZnRpMHhvUnI0djVSWV9IWExVenJXTnA4VE9YdXhfTkI3U2U0UTVMYmZHNnduV0dwcUpGOWRtRDRFMjRlUm13QjdzYkQtdHRNenJ0TEdfYkZLcXZyQ1p4RE9FZExWVWYyWGV5bEVKWXBVZU5ycmdYNlR5dWpjRkJiSF9fMTNoSEhwWGhxYw?oc=5</guid>
             <pubDate>Sat, 11 Oct 2025 03:26:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] GFZ 称俄罗斯堪察加半岛附近发生里氏 5.8 级地震 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黄金飙升背后的逻辑，美债并不认可？ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HMWtrMHhuSzRKN3Q0UHBFR3VVMlAwelhwQXc3SjhRWkZOMm04RW56b1ZfLXRVRnhpWFVBY3MtRkxsVm9qdE9tUjJYLUkwWmJFbGVz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HMWtrMHhuSzRKN3Q0UHBFR3VVMlAwelhwQXc3SjhRWkZOMm04RW56b1ZfLXRVRnhpWFVBY3MtRkxsVm9qdE9tUjJYLUkwWmJFbGVz?oc=5</guid>
-            <pubDate>Sat, 11 Oct 2025 02:33:09 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 黄金飙升背后的逻辑，美债并不认可？  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[墨西哥暴雨造成近30人死亡 - 路透中文网]]></title>
