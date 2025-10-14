@@ -4,23 +4,65 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 14 Oct 2025 10:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 11:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[摩根大通交易和投资银行业务业绩好于预期，高于预期]]></title>
+            <title><![CDATA[摩根大通交易收入创近 90 亿美元创纪录，超出预期]]></title>
             <link>https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/10/14/jpmorgan-chase-jpm-earnings-q3-2025.html</guid>
-            <pubDate>Tue, 14 Oct 2025 10:43:04 GMT</pubDate>
+            <pubDate>Tue, 14 Oct 2025 11:12:36 GMT</pubDate>
             <description><![CDATA[[CNBC] 摩根大通将让投资者了解美国消费者和企业第三季度的表现。]]></description>
         </item>
         <item>
-            <title><![CDATA[摩根大通Q3经调整后营收471.2亿美元，超出预期 - 华尔街见闻]]></title>
+            <title><![CDATA[瑞士信贷 AT1 减记被撤销，投资者部分获胜]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-14/credit-suisse-at1-writedown-revoked-in-partial-win-for-investors</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/credit-suisse-at1-writedown-revoked-in-partial-win-for-investors</guid>
+            <pubDate>Tue, 14 Oct 2025 11:02:59 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 瑞银集团(UBS Group AG)在政府斡旋的交易中拯救了瑞士信贷集团(Credit Suisse Group AG)，其投资被化为乌有，瑞士一家法院为瑞士信贷集团债券投资者提起的诉讼注入了新的活力，要求赔偿。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国银行基金经理调查发现人工智能股票正处于泡沫之中]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-10-14/ai-stocks-are-in-a-bubble-bofa-survey-finds-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-14/ai-stocks-are-in-a-bubble-bofa-survey-finds-video</guid>
+            <pubDate>Tue, 14 Oct 2025 11:01:52 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美国银行的一项全球调查发现，认为人工智能股票存在泡沫的全球基金经理比例创历史新高，这被视为最大的市场尾部风险。 美国银行证券公司高级投资策略师埃利亚斯·加卢（Elyas Galou）梳理了该银行全球基金经理调查的结果。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尽管存在不确定性，德国金融信心仍有所改善]]></title>
+            <link>https://www.wsj.com/economy/german-financial-confidence-improves-despite-uncertainty-e3d953c9</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/german-financial-confidence-improves-despite-uncertainty-e3d953c9</guid>
+            <pubDate>Tue, 14 Oct 2025 10:59:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] ZEW 调查显示，尽管企业面临持续的不确定性，但金融分析师对德国经济的信心仍保持谨慎弹性。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通交易员和银行家对第三季度的预期最高]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-10-14/jpmorgan-traders-bankers-top-third-quarter-estimates-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-14/jpmorgan-traders-bankers-top-third-quarter-estimates-video</guid>
+            <pubDate>Tue, 14 Oct 2025 10:54:16 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 摩根大通公布第三季度业绩，股票销售和交易收入以及 FICC 销售和交易收入超出预期。 傅斯嘉接受彭博电视台报道。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着贸易紧张局势加剧，股市下跌； 大银行财报揭晓| 彭博简报 2025 年 10 月 14 日]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-10-14/bloomberg-brief-10-14-2025-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-14/bloomberg-brief-10-14-2025-video</guid>
+            <pubDate>Tue, 14 Oct 2025 10:50:37 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着中国制裁韩国航运巨头韩华美国子公司以及美联储主席杰罗姆·鲍威尔即将发表讲话，股市反弹，美国股指期货下跌。 摩根大通、富国银行、高盛和花旗预计将公布银行财报。 德意志银行的亨利·艾伦讨论了尽管贸易战持续不断的市场弹性，摩根大通资产管理公司的凯尔西·贝罗展望了美联储的利率路径。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[贬值交易是华尔街最近的痴迷]]></title>
+            <link>https://www.bloomberg.com/news/newsletters/2025-10-14/the-debasement-trade-is-wall-street-s-latest-obsession</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2025-10-14/the-debasement-trade-is-wall-street-s-latest-obsession</guid>
+            <pubDate>Tue, 14 Oct 2025 10:48:16 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 有一个新的口号来描述“出售美元并购买黄金”策略。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通Q3利润超预期，投行收入激增16%，交易业务创纪录 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE52MEVoeUpWRnUyNVNpWTNEQVFPUzNTT2dRVUtncWo1TDItSFlVdUZJSHhHM0lWcXdaaWVyNWlHUTZkWWVXVnZXc3dMNk5iOGJJWEU4?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE52MEVoeUpWRnUyNVNpWTNEQVFPUzNTT2dRVUtncWo1TDItSFlVdUZJSHhHM0lWcXdaaWVyNWlHUTZkWWVXVnZXc3dMNk5iOGJJWEU4?oc=5</guid>
             <pubDate>Tue, 14 Oct 2025 10:34:47 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 摩根大通Q3经调整后营收471.2亿美元，超出预期  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 摩根大通Q3利润超预期，投行收入激增16%，交易业务创纪录  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[一图读懂TACO交易全流程 - 华尔街见闻]]></title>
@@ -65,6 +107,13 @@
             <description><![CDATA[[Bloomberg] 希腊与一群国际投资者之间就该国在主权债务危机期间发行的证券发生的法律纠纷再次出现令人惊讶的转折，此前一名伦敦法官建议政府律师可以在该案中代表双方。]]></description>
         </item>
         <item>
+            <title><![CDATA[美联储鲍威尔谈及经济增长、就业和物价风险之间的关系 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQY29MTUFoN3g0TXYyMmttNmE1T0NRdGZ6TUZHSWpYWGp6aE93a2RHaFNaLXo4NnlpWkNtOER2VFZndW01Unh1dUQ0V1ZnQnlOUE5DWXd0RjRUOXNZMmpQd2cxRV9zTGtTcXBXNlV4eXR0Q1YyaFc4eFh6bFh1d25tZHMycG40VG5CeGFPa2E4aDN5NXBWM1pIamVQTHQxR19Ud2pJdF9aNEt2NjdyQmZOZVJNYjA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQY29MTUFoN3g0TXYyMmttNmE1T0NRdGZ6TUZHSWpYWGp6aE93a2RHaFNaLXo4NnlpWkNtOER2VFZndW01Unh1dUQ0V1ZnQnlOUE5DWXd0RjRUOXNZMmpQd2cxRV9zTGtTcXBXNlV4eXR0Q1YyaFc4eFh6bFh1d25tZHMycG40VG5CeGFPa2E4aDN5NXBWM1pIamVQTHQxR19Ud2pJdF9aNEt2NjdyQmZOZVJNYjA?oc=5</guid>
+            <pubDate>Tue, 14 Oct 2025 10:03:46 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美联储鲍威尔谈到了经济在增长、就业和价格风险之间的困境 - 路透中文网]]></description>
+        </item>
+        <item>
             <title><![CDATA[私人资产加速增长，贝莱德收入达 2050 亿美元]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-14/blackrock-hauls-in-205-billion-as-private-assets-accelerate</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/blackrock-hauls-in-205-billion-as-private-assets-accelerate</guid>
@@ -86,18 +135,25 @@
             <description><![CDATA[[Reuters Business] 壳牌批准与 Sunlink 合作在尼日利亚开展价值 20 亿美元的海上天然气项目 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[交易员引用竞购兴趣报告 易捷航空股价上涨 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmNmb1FFSUxaU25lTzhiQTdqTWg4UjFjTTBfSzNHbmVTNjlQNk56b19qMmRUYTRXS0x1MWNzaTU3cjJWS3p2R1U5V2cwYi03NWF2bXlkb2c1dGhHRlJNTUw5R0UxQU9NakdDVUlmLW1mVmloeDdZRXR5S1J2UTAzMnU2dTc1d2tuMHY1clQ2MzZ4ckRuODkxYk1MZ0c4Q3c?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmNmb1FFSUxaU25lTzhiQTdqTWg4UjFjTTBfSzNHbmVTNjlQNk56b19qMmRUYTRXS0x1MWNzaTU3cjJWS3p2R1U5V2cwYi03NWF2bXlkb2c1dGhHRlJNTUw5R0UxQU9NakdDVUlmLW1mVmloeDdZRXR5S1J2UTAzMnU2dTc1d2tuMHY1clQ2MzZ4ckRuODkxYk1MZ0c4Q3c?oc=5</guid>
+            <pubDate>Tue, 14 Oct 2025 09:52:12 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 交易员援引竞购兴趣报告，易捷航空股价上涨 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[爱立信盈利超预期股价飙升 淡化关税影响 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1k3eUVWU1gzZUFtUWdGR1JLU3dmQzlFSnVqdHozWXB3Q05vOUNHcU5TZlNjcjNER0tlODltQTJyVGpaX0ZNemRLc0pTa1hUWXM5a0tyWmFISDVpSnBWTmdzenJmaWdsa3BweDd6bS1Dbkt0R21qbkJXUUFXOUgyalY4NV96SG1aTU9mUXhQOHNUb1BCa2pZTURPZ0J5QldaYnZ5U1dEUHBKSlpSWTI4?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1k3eUVWU1gzZUFtUWdGR1JLU3dmQzlFSnVqdHozWXB3Q05vOUNHcU5TZlNjcjNER0tlODltQTJyVGpaX0ZNemRLc0pTa1hUWXM5a0tyWmFISDVpSnBWTmdzenJmaWdsa3BweDd6bS1Dbkt0R21qbkJXUUFXOUgyalY4NV96SG1aTU9mUXhQOHNUb1BCa2pZTURPZ0J5QldaYnZ5U1dEUHBKSlpSWTI4?oc=5</guid>
+            <pubDate>Tue, 14 Oct 2025 09:50:04 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 爱立信股价在利润超出预期后飙升，淡化关税影响 - 路透中文网]]></description>
+        </item>
+        <item>
             <title><![CDATA[据称意大利将向银行寻求 50 亿欧元的预算贡献]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-14/italy-said-to-seek-5-billion-contribution-from-banks-to-budget</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/italy-said-to-seek-5-billion-contribution-from-banks-to-budget</guid>
             <pubDate>Tue, 14 Oct 2025 09:42:12 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 据知情人士透露，乔治亚·梅洛尼 (Giorgia Meloni) 政府计划为即将出台的预算法从贷方提供约 50 亿欧元（合 58 亿美元）的资金，并正在推动与银行就该问题达成协议。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尽管存在不确定性，德国金融信心仍有所改善]]></title>
-            <link>https://www.wsj.com/economy/german-financial-confidence-improves-despite-uncertainty-e3d953c9</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/german-financial-confidence-improves-despite-uncertainty-e3d953c9</guid>
-            <pubDate>Tue, 14 Oct 2025 09:42:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] ZEW 调查显示，尽管企业面临持续的不确定性，但金融分析师对德国经济的信心仍保持谨慎弹性。]]></description>
         </item>
         <item>
             <title><![CDATA[华尔街警告标普 500 指数下跌买家未来将出现更多动荡]]></title>
@@ -121,6 +177,13 @@
             <description><![CDATA[[Reuters Business] IEA表示，随着OPEC+加息，世界石油市场盈余将增加 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[BP表示石油交易疲软而上游产量增长 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnI5aERXZjNhY3JTVkFLYWJBSU8wRlk4amw4bWNiUnViT1dzaW95aE5NSVR1MXFmc3NrMl9lblJpa1k2SUxfd2J1b2tyQnhYMGxaLTNqbzEzbnNIVWtiaVBHMFF1cU9CakdHaV9tclBtdmJKdW00QktXbzFNOE9iVFdtNHFOb2R4ZjJRUTJTa0pxQWZibDNialFhamFyb0FJc1VwU3JSZWRIbWU0M1RJOTRyd3hseGgz?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnI5aERXZjNhY3JTVkFLYWJBSU8wRlk4amw4bWNiUnViT1dzaW95aE5NSVR1MXFmc3NrMl9lblJpa1k2SUxfd2J1b2tyQnhYMGxaLTNqbzEzbnNIVWtiaVBHMFF1cU9CakdHaV9tclBtdmJKdW00QktXbzFNOE9iVFdtNHFOb2R4ZjJRUTJTa0pxQWZibDNialFhamFyb0FJc1VwU3JSZWRIbWU0M1RJOTRyd3hseGgz?oc=5</guid>
+            <pubDate>Tue, 14 Oct 2025 09:23:38 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 英国石油公司 (BP) 表示石油交易疲软，而上游产量增长 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[为AI供电--美国接下来会如何出招？ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5VG9uVWl4cDBZZTM3RFJHQ2xLVnJWSVRhQV9UVzJ4eXBPaVFQZDdmdU9xOVNGNVo2bWNmdFVvTk43R0xPU1paMEVlUWs1ZlFOa2lv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5VG9uVWl4cDBZZTM3RFJHQ2xLVnJWSVRhQV9UVzJ4eXBPaVFQZDdmdU9xOVNGNVo2bWNmdFVvTk43R0xPU1paMEVlUWs1ZlFOa2lv?oc=5</guid>
@@ -133,13 +196,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/chocolate-demand-worsens-even-as-cocoa-s-historic-rally-fades</guid>
             <pubDate>Tue, 14 Oct 2025 09:17:54 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 全球可可工厂的经济放缓继续加深，表明去年价格大幅上涨的影响仍然笼罩着加工商的利润，而甜食的成本不太可能迅速缓解。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BP表示石油交易疲软而上游产量增长 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnI5aERXZjNhY3JTVkFLYWJBSU8wRlk4amw4bWNiUnViT1dzaW95aE5NSVR1MXFmc3NrMl9lblJpa1k2SUxfd2J1b2tyQnhYMGxaLTNqbzEzbnNIVWtiaVBHMFF1cU9CakdHaV9tclBtdmJKdW00QktXbzFNOE9iVFdtNHFOb2R4ZjJRUTJTa0pxQWZibDNialFhamFyb0FJc1VwU3JSZWRIbWU0M1RJOTRyd3hseGgz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcnI5aERXZjNhY3JTVkFLYWJBSU8wRlk4amw4bWNiUnViT1dzaW95aE5NSVR1MXFmc3NrMl9lblJpa1k2SUxfd2J1b2tyQnhYMGxaLTNqbzEzbnNIVWtiaVBHMFF1cU9CakdHaV9tclBtdmJKdW00QktXbzFNOE9iVFdtNHFOb2R4ZjJRUTJTa0pxQWZibDNialFhamFyb0FJc1VwU3JSZWRIbWU0M1RJOTRyd3hseGgz?oc=5</guid>
-            <pubDate>Tue, 14 Oct 2025 09:16:19 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 英国石油公司 (BP) 表示石油交易疲软，而上游产量增长 路透]]></description>
         </item>
         <item>
             <title><![CDATA[摩根大通：如果没有风能和太阳能，美国将无法实现能源目标 - 华尔街见闻]]></title>
@@ -198,13 +254,6 @@
             <description><![CDATA[[华尔街见闻] 中国央行：将继续坚持市场在汇率形成中的决定性作用，强化预期引导  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[美国银行调查显示大多数投资者表示人工智能股票正处于泡沫之中]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-14/most-investors-say-ai-stocks-are-in-a-bubble-bofa-poll-shows</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/most-investors-say-ai-stocks-are-in-a-bubble-bofa-poll-shows</guid>
-            <pubDate>Tue, 14 Oct 2025 08:46:38 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国银行(Bank of America Corp.)的一项调查显示，创纪录比例的全球基金经理表示，人工智能股票在今年的强劲上涨后正处于泡沫之中。]]></description>
-        </item>
-        <item>
             <title><![CDATA[中美贸易紧张局势令油价下跌 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXRlYWpHUVFqT190UHFNalViNFctQl9pOE84WFRWZm1PeWxCTHVkbk9GTTNldzZtdzlWREtqSDIzNjNBaFlUeHNObmJXaU0ySW5uOGFSclNYSVdBeDFpMkd4cXhzYlZlWkRPWGVPd05qS2ItZFl0Q1dDQ0RKRkRfRlc4bVhCS1hDRDAwS2VjOWNKa0dSQUNMb0hBeU5zZHR4X2c?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXRlYWpHUVFqT190UHFNalViNFctQl9pOE84WFRWZm1PeWxCTHVkbk9GTTNldzZtdzlWREtqSDIzNjNBaFlUeHNObmJXaU0ySW5uOGFSclNYSVdBeDFpMkd4cXhzYlZlWkRPWGVPd05qS2ItZFl0Q1dDQ0RKRkRfRlc4bVhCS1hDRDAwS2VjOWNKa0dSQUNMb0hBeU5zZHR4X2c?oc=5</guid>
@@ -226,32 +275,18 @@
             <description><![CDATA[[Reuters Business] Worldpanel 称英国杂货通胀加速至 5.2% 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[杰富瑞 (Jefferies) 因第一批品牌惨败而面临更多危险]]></title>
-            <link>https://www.bloomberg.com/opinion/articles/2025-10-14/first-brands-the-risk-for-jefferies-goes-well-beyond-any-initial-loss</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/opinion/articles/2025-10-14/first-brands-the-risk-for-jefferies-goes-well-beyond-any-initial-loss</guid>
-            <pubDate>Tue, 14 Oct 2025 08:30:18 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 当一家公司发布周末声明来支撑不断下滑的股价时，这绝对不是一件好事。 如果是银行的话，这个数字会加倍。 这就是杰富瑞金融集团 (Jefferies Financial Group Inc.) 周日发现的问题，它正在解决与破产的汽车零部件供应商第一品牌集团 (First Brands Group) 的纠葛。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[未解决的政治风险创造交易机会：3 分钟 MLIV]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-14/unresolved-political-risks-create-trading-opportunities-3-minute-mliv</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-14/unresolved-political-risks-create-trading-opportunities-3-minute-mliv</guid>
-            <pubDate>Tue, 14 Oct 2025 08:25:20 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 安娜·爱德华兹 (Anna Edwards)、盖伊·约翰逊 (Guy Johnson)、丽兹·伯登 (Lizzy Burden) 和斯凯拉·蒙哥马利·科宁 (Skylar Montgomery Koning) 在“彭博社：开盘交易”中为分析师和投资者详细介绍了今天的关键主题。   （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[10月16日“分析师日”，这一次甲骨文吸引全市场目光 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNmVKQXFERE1kamIwaWpMVF95QXdLdHhLWkVzWWFteDJfOFFaUzBkcUR0UlBPWXJsTEpnVlJ2SFNUS1RWeVhoTndReXgwdUVrNGhZ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqNmVKQXFERE1kamIwaWpMVF95QXdLdHhLWkVzWWFteDJfOFFaUzBkcUR0UlBPWXJsTEpnVlJ2SFNUS1RWeVhoTndReXgwdUVrNGhZ?oc=5</guid>
-            <pubDate>Tue, 14 Oct 2025 08:24:45 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 10月16日“分析师日”，这一次甲骨文吸引全市场目光  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[AH股齐跌！创业板跌近4%，半导体芯片股集体走低，恒科指超3%连跌七日，沪金、沪银冲高回落，国债反弹 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVS2xZcVF6VmFKSDJ1dVdCNUx3dk5iRVJlUUU4dkstaVppQUZWelBGZDNXTVo5QkN0cm9iLXpVeXdtbFpWckpWa015NG9GazBiYUx3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVS2xZcVF6VmFKSDJ1dVdCNUx3dk5iRVJlUUU4dkstaVppQUZWelBGZDNXTVo5QkN0cm9iLXpVeXdtbFpWckpWa015NG9GazBiYUx3?oc=5</guid>
             <pubDate>Tue, 14 Oct 2025 08:11:34 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] AH股齐跌！创业板跌近4%，半导体芯片股集体走低，恒科指超3%连跌七日，沪金、沪银冲高回落，国债反弹  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[当地媒体报道，新加坡将严厉打击甘蔗诈骗者和骡子 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmpvZUliZkplMEt6azlvVkxYNll4SkNodVh3Tk1QNGVyY2g1T2FuMXdWRWQyXzNhcld6SlFoMEs2NzZEQkRab0N4YmxsRmtaNHBUZW9iYmNyeUUtUkowR0hTbE00WkNfVDMtN2xwRTRhbHhEcm1CYTI1RWRHamFyQnF4MktEWWNHWjBrOE5pOWtuYzMxWnZsQ05La2FtTXoxNnRyLW9SLUk1OUE1M1NkdFR2VGdLQWVON25EdndCdWJwMEJhT3hVZA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmpvZUliZkplMEt6azlvVkxYNll4SkNodVh3Tk1QNGVyY2g1T2FuMXdWRWQyXzNhcld6SlFoMEs2NzZEQkRab0N4YmxsRmtaNHBUZW9iYmNyeUUtUkowR0hTbE00WkNfVDMtN2xwRTRhbHhEcm1CYTI1RWRHamFyQnF4MktEWWNHWjBrOE5pOWtuYzMxWnZsQ05La2FtTXoxNnRyLW9SLUk1OUE1M1NkdFR2VGdLQWVON25EdndCdWJwMEJhT3hVZA?oc=5</guid>
+            <pubDate>Tue, 14 Oct 2025 08:11:30 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 据当地媒体报道，新加坡根据更严格的法律对甘蔗诈骗者和骡子进行惩罚 路透]]></description>
         </item>
         <item>
             <title><![CDATA[贸易负责人表示，中国的稀土出口管制是欧盟的严重关切]]></title>
@@ -261,34 +296,6 @@
             <description><![CDATA[[WSJ] 马罗斯·塞夫科维奇表示，随着布鲁塞尔和北京之间的紧张局势持续升级，这些措施给欧洲公司带来了很多问题。]]></description>
         </item>
         <item>
-            <title><![CDATA[为什么白银的涨幅甚至超过黄金]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-14/why-silver-price-has-been-surging-even-more-than-gold</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/why-silver-price-has-been-surging-even-more-than-gold</guid>
-            <pubDate>Tue, 14 Oct 2025 08:02:38 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于俄罗斯在乌克兰的战争和美国特朗普政府的非正统经济政策促使投资者和央行寻求避险资产，金价今年出现了戏剧性的上涨。 然而，现在抢尽风头的是白银。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[易捷航空因潜在收购航空公司的报告而股价上涨]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-14/easyjet-jumps-on-report-of-potential-takeover-bid-for-airline</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/easyjet-jumps-on-report-of-potential-takeover-bid-for-airline</guid>
-            <pubDate>Tue, 14 Oct 2025 08:01:26 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 有报道称，地中海航运公司 (Mediterranean Shipping Co. SA) 正在考虑与一家投资公司共同竞购这家廉价航空公司，此后易捷航空 (EasyJet Plc) 股价出现近三年来的最大涨幅。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[IEA上调2026年石油供应过剩创历史新高的预估]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-14/iea-raises-its-estimate-for-record-oil-oversupply-in-2026</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/iea-raises-its-estimate-for-record-oil-oversupply-in-2026</guid>
-            <pubDate>Tue, 14 Oct 2025 08:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 国际能源署表示，创纪录的石油供应过剩将比之前估计的还要严重，而且远洋油轮上已经开始出现过剩情况。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[交易员引用竞购兴趣报告 易捷航空股价上涨 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmNmb1FFSUxaU25lTzhiQTdqTWg4UjFjTTBfSzNHbmVTNjlQNk56b19qMmRUYTRXS0x1MWNzaTU3cjJWS3p2R1U5V2cwYi03NWF2bXlkb2c1dGhHRlJNTUw5R0UxQU9NakdDVUlmLW1mVmloeDdZRXR5S1J2UTAzMnU2dTc1d2tuMHY1clQ2MzZ4ckRuODkxYk1MZ0c4Q3c?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmNmb1FFSUxaU25lTzhiQTdqTWg4UjFjTTBfSzNHbmVTNjlQNk56b19qMmRUYTRXS0x1MWNzaTU3cjJWS3p2R1U5V2cwYi03NWF2bXlkb2c1dGhHRlJNTUw5R0UxQU9NakdDVUlmLW1mVmloeDdZRXR5S1J2UTAzMnU2dTc1d2tuMHY1clQ2MzZ4ckRuODkxYk1MZ0c4Q3c?oc=5</guid>
-            <pubDate>Tue, 14 Oct 2025 07:59:24 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 交易员援引竞购兴趣报告，易捷航空股价上涨 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[埃塞俄比亚与债券持有人未能就违约债务达成协议]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-14/ethiopia-bondholders-fail-to-reach-deal-on-defaulted-debt</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/ethiopia-bondholders-fail-to-reach-deal-on-defaulted-debt</guid>
@@ -296,18 +303,18 @@
             <description><![CDATA[[Bloomberg] 埃塞俄比亚政府与 10 亿美元违约债券持有者之间的谈判因双方同意在未达成协议的情况下终止谈判而破裂。]]></description>
         </item>
         <item>
-            <title><![CDATA[花旗银行的摩尔表示，关税带来的痛苦尚未过去]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-14/not-yet-past-tariff-pain-citi-s-moore-says-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-14/not-yet-past-tariff-pain-citi-s-moore-says-video</guid>
-            <pubDate>Tue, 14 Oct 2025 07:50:20 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 花旗财富首席投资官凯特摩尔讨论了市场前景和美国关税的影响。 她在彭博电视台发表讲话时表示，我们“或许已经度过了关税冲击，但还没有度过关税痛苦”。 摩尔补充说，唐纳德·特朗普总统可能会在其执政期间继续使用关税政策作为谈判策略。 她补充道：“我认为，到今年年底，我们可能会看到价格上涨带来一些影响，特别是对美国的低端消费者。”  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[英国《金融时报》报道称，由于对全球风险控制的担忧，Revolut 的英国银行牌照仍被保留 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPdlpZS29ISnl5NFNsUzd6OG9zajV6eTJ5MHhHLWZvdkh6RXZwb3ItaDAycHpwQlF4c1lFT0RjS05EUHpIRE1rR0ptYkNoVUo3dHNadUtyNzExcDV5Q0paNy1yV3F4VU1KeVpSa0p5UFdzd2YyLUZrT24wSXNVMGxvYXd6NlNqTEpWcXVkX2p0dWRDY2xIQ3lFbW5HZ0JBZWZJUVJiSy1ObHp4Y3AzVVJEOXlnYVhhaENHbWRKeFJuSmxjYWxhZjZVTy02cw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxPdlpZS29ISnl5NFNsUzd6OG9zajV6eTJ5MHhHLWZvdkh6RXZwb3ItaDAycHpwQlF4c1lFT0RjS05EUHpIRE1rR0ptYkNoVUo3dHNadUtyNzExcDV5Q0paNy1yV3F4VU1KeVpSa0p5UFdzd2YyLUZrT24wSXNVMGxvYXd6NlNqTEpWcXVkX2p0dWRDY2xIQ3lFbW5HZ0JBZWZJUVJiSy1ObHp4Y3AzVVJEOXlnYVhhaENHbWRKeFJuSmxjYWxhZjZVTy02cw?oc=5</guid>
             <pubDate>Tue, 14 Oct 2025 07:37:07 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据《金融时报》报道，由于对全球风险控制的担忧，Revolut 的英国银行牌照仍被保留 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[欧洲股市因中美关税再度担忧而下跌]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-14/european-stocks-drop-on-renewed-us-china-tariffs-concerns</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-14/european-stocks-drop-on-renewed-us-china-tariffs-concerns</guid>
+            <pubDate>Tue, 14 Oct 2025 07:16:04 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在中国威胁对美国采取进一步报复措施后，欧洲股市下跌。 瑞典电信设备制造商爱立信公布强劲盈利后，该公司股价飙升。]]></description>
         </item>
         <item>
             <title><![CDATA[渤海银行、广州农商行转让“百亿元级”不良资产 - 财新]]></title>
@@ -376,7 +383,7 @@
             <title><![CDATA[高成本和创造性交易导致前沿债务面临“走向黑暗”的风险 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNTG5uTFFyaXJhQ3FrY0VSanNLa1FpN2FxMzh5c1MtLTZyUUtlWXR1bFlfWnpZVmo5Mm13SDFyVktXYW55VG1YeDY1eVpXYlUyZkJuTWZrZjBZamVHLWswU0F0REI3RERGZ1pWa245eDRCbDdJZ1J0alFEZ1ctZDFjMWVIRmVmVjhHeVBlb1h2RnFici1iNm5xNF93RjlCd0phbHhTRHl5S3JDNDc5Zzh3UDdEVmY?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNTG5uTFFyaXJhQ3FrY0VSanNLa1FpN2FxMzh5c1MtLTZyUUtlWXR1bFlfWnpZVmo5Mm13SDFyVktXYW55VG1YeDY1eVpXYlUyZkJuTWZrZjBZamVHLWswU0F0REI3RERGZ1pWa245eDRCbDdJZ1J0alFEZ1ctZDFjMWVIRmVmVjhHeVBlb1h2RnFici1iNm5xNF93RjlCd0phbHhTRHl5S3JDNDc5Zzh3UDdEVmY?oc=5</guid>
-            <pubDate>Tue, 14 Oct 2025 05:10:00 GMT</pubDate>
+            <pubDate>Tue, 14 Oct 2025 05:10:43 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 由于高成本和创造性交易，前沿债务面临“走向黑暗”的风险 - 路透中文网]]></description>
         </item>
         <item>
@@ -492,6 +499,13 @@
             <description><![CDATA[[华尔街见闻] 帮助特朗普儿子们赚了超过5亿美元--认识下“特朗普的银行家”  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[TACO交易，周一大涨，美股一切照旧？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE43elN6MEJsOWFRMGFPM3hDZElONkNkRkR0YWlmUmJhcVFBMGpub2xNYUFGN1Y3NFlERzhSOVZMbGxuU0RSNTBkdEJMaEUwOVBpd3c?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE43elN6MEJsOWFRMGFPM3hDZElONkNkRkR0YWlmUmJhcVFBMGpub2xNYUFGN1Y3NFlERzhSOVZMbGxuU0RSNTBkdEJMaEUwOVBpd3c?oc=5</guid>
+            <pubDate>Tue, 14 Oct 2025 00:31:09 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] TACO交易，周一大涨，美股一切照旧？  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jRVdreFJsNVBGWWw0alpVSHZNdUdXdjg2d0lPMnZzU3RrSnNzV0pRbTJuQmJuN1lvTVpiajNybWZjYzA3QnMzeTE2TXNLRmhNS3dJ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jRVdreFJsNVBGWWw0alpVSHZNdUdXdjg2d0lPMnZzU3RrSnNzV0pRbTJuQmJuN1lvTVpiajNybWZjYzA3QnMzeTE2TXNLRmhNS3dJ?oc=5</guid>
@@ -511,6 +525,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0VSS2sxdHB5d3JyRXpVVG5ZVjdkT3l4Z1JTNUNkSHRtWFA1bHVqcXBvNjEycTg2cFVsck1BRW94T3U3bWRTdFJRX0ZKbU1QT3dzYjhuaDQwU0dXU2M1aWVuNnpWdTdzMF9NRndwbkxKS2ZITHBhWC1PODAzN3QzdXZKZjZkNmttNXYyN0szTlVxenZ2bk12cXhkWUc3MzBFcnlTQjQtV0xHd0pBbk5tUUN3Mk0wWDZLb2MtMW9KbjhnbEFybTktbFJuaw?oc=5</guid>
             <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 中国开始对美国船舶收取港口费，免除中国制造的船舶 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LG 印度公司首次公开募股 13 亿美元后股价上涨 48%]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-13/lg-india-seen-poised-to-rise-in-debut-after-1-3-billion-ipo</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-13/lg-india-seen-poised-to-rise-in-debut-after-1-3-billion-ipo</guid>
+            <pubDate>Mon, 13 Oct 2025 23:30:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] LG电子印度有限公司(LG Electronics India Ltd.)在孟买上市首日飙升48%，投资者纷纷涌入其首次公开募股，创下印度同类规模交易的最佳上市日表现。]]></description>
         </item>
         <item>
             <title><![CDATA[摩根大通称杠杆ETF加剧了周五华尔街的抛售 - 路透中文网]]></title>
@@ -686,27 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1NSeXNQSEY5ZTNSdm9PNjZZa3Zsbm9qX05IUDNiY0ZIR3Q2bDdCVTBkYmR3R09uQ2h3WFFWOHN0NnpBdWFzbHpoYWY2SG1iQ1FXV3plcDctR0VBTXFESGJCelU4bW5ycXJwMFU1RGJSanZzNk1sM0VsSGxpa3NtbVI0ZVAwajNqQjM3Sm1YQkk0UHlpVjlkMzhjblViNldheWkyVA?oc=5</guid>
             <pubDate>Mon, 13 Oct 2025 18:21:55 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美联储保尔森预计将进一步降息以支持就业市场 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高盛和美国银行在 IPO 后牵头提供 12.15 亿欧元 Verisure 贷款]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-13/goldman-sachs-bofa-lead-1-215-billion-verisure-loan-after-ipo</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-13/goldman-sachs-bofa-lead-1-215-billion-verisure-loan-after-ipo</guid>
-            <pubDate>Mon, 13 Oct 2025 18:07:38 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在 Verisure Plc 完成欧洲三年来最大规模的首次公开募股后，以高盛集团和美国银行为首的银行已准备向 Verisure Plc 提供 12.15 亿欧元贷款。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美联储保尔森称美联储将对通胀爆发做出反应 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQUU11dHVrdkR6YjJvU2dwa3dpUTBlNWtrWWh4UnlpaXhQRGdVcFRZSFdUQ2wtWkF6RGpOTWVvdmNyc2pSc2d2YWh2RmhERGZSMTlpSGloc0kxdHk2YUR0OWMxQVozOFFadEZKYTJkLTBuOThUeDA2emN6TEt2V3NMeENMVUFuel93Mm9uRDFfS2VMZXVyOEgxejln?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxQUU11dHVrdkR6YjJvU2dwa3dpUTBlNWtrWWh4UnlpaXhQRGdVcFRZSFdUQ2wtWkF6RGpOTWVvdmNyc2pSc2d2YWh2RmhERGZSMTlpSGloc0kxdHk2YUR0OWMxQVozOFFadEZKYTJkLTBuOThUeDA2emN6TEt2V3NMeENMVUFuel93Mm9uRDFfS2VMZXVyOEgxejln?oc=5</guid>
-            <pubDate>Mon, 13 Oct 2025 17:43:33 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美联储保尔森表示美联储将对通胀爆发做出反应 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独家：德国将采购价值近70亿美元的装甲车 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkZMY3FGbkdEcGlhb0RBczVqbXNTa25hU090eVdoSURCTm1yQ0FSSWpiRGNZU1FWeVN0Wjc3eHpodzg2V1lqYTVSNUpfSTFudlZPdzdhbW1haDFrSDVyOWdoOTZMUVFNMTQwbWFLTXJqUV9zU2FIZnBCT080VVJJdjVhd0h4OURjWmpkdUNFUkdHdU00N1F5cU9ablVMN3ZqRml4T19kd0R3OWFLUy1PVmdMWVNUcHdMRm1j?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkZMY3FGbkdEcGlhb0RBczVqbXNTa25hU090eVdoSURCTm1yQ0FSSWpiRGNZU1FWeVN0Wjc3eHpodzg2V1lqYTVSNUpfSTFudlZPdzdhbW1haDFrSDVyOWdoOTZMUVFNMTQwbWFLTXJqUV9zU2FIZnBCT080VVJJdjVhd0h4OURjWmpkdUNFUkdHdU00N1F5cU9ablVMN3ZqRml4T19kd0R3OWFLUy1PVmdMWVNUcHdMRm1j?oc=5</guid>
-            <pubDate>Mon, 13 Oct 2025 17:39:46 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：德国将采购价值近 70 亿美元的装甲车 路透]]></description>
         </item>
     </channel>
 </rss>
