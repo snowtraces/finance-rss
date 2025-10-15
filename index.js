@@ -19,6 +19,7 @@ const FEED_SOURCES = [
   { name: "华尔街见闻", url: "https://news.google.com/rss/search?q=site:wallstreetcn.com&hl=zh-CN&gl=CN&ceid=CN:zh-Hans" },
   { name: "WSJ", url: "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed" },
   { name: "Bloomberg", url: "https://feeds.bloomberg.com/markets/news.rss" },
+  { name: "英为财情", url: "https://cn.investing.com/rss/news_25.rss" },
 ];
 
 async function fetchAllFeeds() {
