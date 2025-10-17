@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 17 Oct 2025 07:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 07:38:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[欧洲股市因银行业担忧大幅下跌；欧元区CPI即将公布]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3031447</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3031447</guid>
+            <pubDate>Fri, 17 Oct 2025 07:13:03 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[中国展 2025 年 10 月 17 日（视频）]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-10-17/the-china-show-10-17-2025-video</link>
@@ -79,13 +86,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[财政部等三部门：调整海南离岛旅客免税购物政策 11月1日起执行]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3031417</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3031417</guid>
-            <pubDate>Fri, 17 Oct 2025 07:05:14 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[花旗和法国兴业银行表示欧洲股市最好的反弹已经结束]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-17/citi-and-socgen-say-the-best-of-europe-s-stock-rally-is-over</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-17/citi-and-socgen-say-the-best-of-europe-s-stock-rally-is-over</guid>
@@ -114,11 +114,18 @@
             <description><![CDATA[[华尔街见闻] 美元大逻辑的关键验证：下一次美股大跌  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[据称可口可乐正在考虑印度装瓶部门 10 亿美元的首次公开募股]]></title>
+            <title><![CDATA[可口可乐考虑对印度装瓶部门进行 10 亿美元的首次公开募股]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-17/coca-cola-said-to-mull-1-billion-ipo-of-indian-bottling-unit</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-17/coca-cola-said-to-mull-1-billion-ipo-of-indian-bottling-unit</guid>
             <pubDate>Fri, 17 Oct 2025 06:50:03 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 据知情人士透露，可口可乐公司正在考虑将其印度装瓶部门上市，交易金额可能达 10 亿美元。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普称其政府正在努力降低牛肉价格 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVlZYm9wYWVRRGU3bTR2Q2k5cWxXcFZhMDFlSWU0YnQ2a3pxcl9OVThnYS0xbXp3SnhOeHRuY0FTbHNSdHJVZzM5M2FveWJ1WFBOdUdfajA3LWh5U3pFOVdFamZ2cmhEcHh5R0VxdEhoa1NaREo1ZUJpM0ZhOHE5NThGdTM4LVU3YmRobHhOcVNhbU4wU3hFaEtrcGtDcUR5RmtFbUw1ZzF6Zw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVlZYm9wYWVRRGU3bTR2Q2k5cWxXcFZhMDFlSWU0YnQ2a3pxcl9OVThnYS0xbXp3SnhOeHRuY0FTbHNSdHJVZzM5M2FveWJ1WFBOdUdfajA3LWh5U3pFOVdFamZ2cmhEcHh5R0VxdEhoa1NaREo1ZUJpM0ZhOHE5NThGdTM4LVU3YmRobHhOcVNhbU4wU3hFaEtrcGtDcUR5RmtFbUw1ZzF6Zw?oc=5</guid>
+            <pubDate>Fri, 17 Oct 2025 06:47:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 特朗普称他的政府正在努力降低牛肉价格 路透]]></description>
         </item>
         <item>
             <title><![CDATA[BBVA董事长：萨瓦德尔收购结果出乎意料]]></title>
@@ -187,7 +194,7 @@
             <title><![CDATA[独家：消息人士称，美光科技将在禁令后退出中国服务器芯片业务 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWE4ZkxCa2pLb3NTQjY0NTh5dzhab25GaVlpNTc2NUpkY0J4a3N0TU1Uam9fVkNvNWE5S0NBYXIxcHhOdk1fQm5JbEZZUVI3RFV5MGxtbWw0eEVMVDBrQl9yam5fSVpKYldBR1BiaDhYN1RFTzVWV3pxZWpIYUx0MUs3ZVg2VG1yblVTc1lzYWpxU1FTdGVQR1I2WEl5dlJJS1BaZzFSYU56RktxdnBkSlM1a1U5RUhqMV9wZVozTXhXN0ZOdVE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxOOWE4ZkxCa2pLb3NTQjY0NTh5dzhab25GaVlpNTc2NUpkY0J4a3N0TU1Uam9fVkNvNWE5S0NBYXIxcHhOdk1fQm5JbEZZUVI3RFV5MGxtbWw0eEVMVDBrQl9yam5fSVpKYldBR1BiaDhYN1RFTzVWV3pxZWpIYUx0MUs3ZVg2VG1yblVTc1lzYWpxU1FTdGVQR1I2WEl5dlJJS1BaZzFSYU56RktxdnBkSlM1a1U5RUhqMV9wZVozTXhXN0ZOdVE?oc=5</guid>
-            <pubDate>Fri, 17 Oct 2025 05:51:00 GMT</pubDate>
+            <pubDate>Fri, 17 Oct 2025 05:51:11 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：消息人士称美光科技将在禁令后退出中国服务器芯片业务 路透]]></description>
         </item>
         <item>
@@ -352,7 +359,7 @@
             <description><![CDATA[[华尔街见闻] 野心勃勃的改革--值得重视的越南“增长叙事”  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[比特币在历史性的惨败后努力寻找动力]]></title>
+            <title><![CDATA[比特币在历史性的惨败后努力恢复势头]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-17/bitcoin-btc-struggles-to-find-momentum-after-historic-wipeout</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-17/bitcoin-btc-struggles-to-find-momentum-after-historic-wipeout</guid>
             <pubDate>Fri, 17 Oct 2025 03:15:32 GMT</pubDate>
@@ -513,18 +520,11 @@
             <description><![CDATA[[Reuters Business] 华尔街下跌； 锡安引发人们对地区银行的担忧 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[股票损失扩大，债券因美国信贷危机而上涨：市场总结]]></title>
+            <title><![CDATA[由于信贷担忧驱使人们涌向避风港，股市暴跌：市场结束]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-16/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-16/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Thu, 16 Oct 2025 22:24:05 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在美国地区银行股价因对贷款标准的担忧而下跌后，股市扩大跌幅，投资者寻求政府债券的安全。 黄金有望连续第九周上涨。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普称其政府正在努力降低牛肉价格 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVlZYm9wYWVRRGU3bTR2Q2k5cWxXcFZhMDFlSWU0YnQ2a3pxcl9OVThnYS0xbXp3SnhOeHRuY0FTbHNSdHJVZzM5M2FveWJ1WFBOdUdfajA3LWh5U3pFOVdFamZ2cmhEcHh5R0VxdEhoa1NaREo1ZUJpM0ZhOHE5NThGdTM4LVU3YmRobHhOcVNhbU4wU3hFaEtrcGtDcUR5RmtFbUw1ZzF6Zw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVlZYm9wYWVRRGU3bTR2Q2k5cWxXcFZhMDFlSWU0YnQ2a3pxcl9OVThnYS0xbXp3SnhOeHRuY0FTbHNSdHJVZzM5M2FveWJ1WFBOdUdfajA3LWh5U3pFOVdFamZ2cmhEcHh5R0VxdEhoa1NaREo1ZUJpM0ZhOHE5NThGdTM4LVU3YmRobHhOcVNhbU4wU3hFaEtrcGtDcUR5RmtFbUw1ZzF6Zw?oc=5</guid>
-            <pubDate>Thu, 16 Oct 2025 22:23:14 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 特朗普称他的政府正在努力降低牛肉价格 路透]]></description>
+            <description><![CDATA[[Bloomberg] 由于对美国地区银行信贷健康状况的疑虑促使交易员降低风险，股市延续跌势，结束了动荡的一周，暴露了市场接近历史最高水平的脆弱性。 随着投资者纷纷涌向避险资产，黄金和债券成为主要受益者。]]></description>
         </item>
         <item>
             <title><![CDATA[罗氏将以 50 美元的价格向支付现金的美国患者出售流感药 - 路透中文网]]></title>
