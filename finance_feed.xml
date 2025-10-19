@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 19 Oct 2025 19:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Oct 2025 19:37:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,13 +14,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-19/treasuries-rally-drives-home-haven-role-as-credit-worries-swirl</guid>
             <pubDate>Sun, 19 Oct 2025 19:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 只需要一轮经典的避险买盘，就能唤醒沉睡的国债市场，并将基准收益率推至数月来的最低水平。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[反对派候选人赢得北塞浦路斯总统选举]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-19/opposition-candidate-wins-northern-cyprus-presidential-vote</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-19/opposition-candidate-wins-northern-cyprus-presidential-vote</guid>
-            <pubDate>Sun, 19 Oct 2025 17:44:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 根据最高选举委员会宣布的非官方结果，居住在土耳其控制的北部的塞浦路斯人在周日举行的投票中选举了分裂岛屿统一的倡导者图凡·埃尔赫曼 (Tufan Erhurman) 为总统。]]></description>
         </item>
         <item>
             <title><![CDATA[欧洲央行拉加德表示，对俄罗斯资产采取共同做法至关重要]]></title>
@@ -513,6 +506,13 @@
             <description><![CDATA[[华尔街见闻] Andrej Karpathy最新万字采访：AGI还需10年，RL其实很糟糕，AGI不会导致经济大爆发  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[十亿桶船队迎来期待已久的过剩石油]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-18/oil-s-long-awaited-surplus-arrives-on-billion-barrel-flotilla</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-18/oil-s-long-awaited-surplus-arrives-on-billion-barrel-flotilla</guid>
+            <pubDate>Sat, 18 Oct 2025 11:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 观察全球石油市场变化的最佳地点是海上。]]></description>
+        </item>
+        <item>
             <title><![CDATA[全球电影业对特朗普新一轮电影关税威胁不屑一顾 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc29GQzZBa25UdjUyY21LcnU3UHN5WDFkNzhleXRDVzF0UnBaZ3cwRlljcWZuZm02THdHejByTmR6ZjdGcXAxVXV1dDZQSnNTYXlRMHMzT1FPMElXUjYwM3dzczlIanBIUTlxV25OSFFkRVd0bE1wLVBJeFZwR1o1VmpOMHNmMDJhN1FSR09MdGlWM1hrNDJCLWRSbmVEc205QVpjOEl0SGpURWdsQjhlaVNHOWhNSUZnVkNRaHl4NVpNUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc29GQzZBa25UdjUyY21LcnU3UHN5WDFkNzhleXRDVzF0UnBaZ3cwRlljcWZuZm02THdHejByTmR6ZjdGcXAxVXV1dDZQSnNTYXlRMHMzT1FPMElXUjYwM3dzczlIanBIUTlxV25OSFFkRVd0bE1wLVBJeFZwR1o1VmpOMHNmMDJhN1FSR09MdGlWM1hrNDJCLWRSbmVEc205QVpjOEl0SGpURWdsQjhlaVNHOWhNSUZnVkNRaHl4NVpNUQ?oc=5</guid>
@@ -691,7 +691,7 @@
             <title><![CDATA[银行股的波动揭示了人们对信贷风险日益增长的不安 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjVXNUJMLUNOeFdiVFM2QmhhdUlINjdiRWstd1NkY0ttNk1YMEJmQ3dVdjItNFBxa2JUZzdCVl9ocmphNmZCNnBHdWExTThiNGU1dHNkX091bjVwc1NZaXZUSWJMeUlCMnBUQVhTTVJMcjlLSEpTZEd3Vm40UTZhUWQtRDU4aGJCVXp3WDdsTnNuemVzdTFVVHluWllCTS1VNGJlQ25zQzZqaVk3WEJGZmR3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjVXNUJMLUNOeFdiVFM2QmhhdUlINjdiRWstd1NkY0ttNk1YMEJmQ3dVdjItNFBxa2JUZzdCVl9ocmphNmZCNnBHdWExTThiNGU1dHNkX091bjVwc1NZaXZUSWJMeUlCMnBUQVhTTVJMcjlLSEpTZEd3Vm40UTZhUWQtRDU4aGJCVXp3WDdsTnNuemVzdTFVVHluWllCTS1VNGJlQ25zQzZqaVk3WEJGZmR3?oc=5</guid>
-            <pubDate>Fri, 17 Oct 2025 23:22:22 GMT</pubDate>
+            <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 银行股的波动揭示了人们对信用风险日益增长的不安 路透]]></description>
         </item>
         <item>
