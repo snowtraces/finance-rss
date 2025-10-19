@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 19 Oct 2025 14:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Oct 2025 14:37:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国和欧洲制造自动驾驶卡车的悄然竞赛]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-10-19/the-quiet-race-to-build-self-driving-trucks-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-19/the-quiet-race-to-build-self-driving-trucks-video</guid>
+            <pubDate>Sun, 19 Oct 2025 14:23:43 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 虽然机器人出租车占据了头条新闻，但真正的革命正在 18 个轮子上发生。 在美国和欧洲，Aurora、Waabi 和 Fernride 等公司正在测试自动驾驶卡车，这些卡车可以使货运更快、更安全、更便宜，但它们也迫使人们对监管、就业和驾驶本身的未来进行反思。  （来源：彭博社）]]></description>
+        </item>
         <item>
             <title><![CDATA[五角大楼的人工智能革命内部]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-10-19/inside-the-pentagon-s-ai-revolution-video</link>
@@ -132,7 +139,7 @@
             <link>https://www.wsj.com/economy/jobs/these-jobs-often-go-overseas-one-company-is-bringing-them-to-rural-america-127f110c</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/jobs/these-jobs-often-go-overseas-one-company-is-bringing-them-to-rural-america-127f110c</guid>
             <pubDate>Sun, 19 Oct 2025 11:00:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] Provalus 没有选择离岸外包，而是寻找收入较低且人们渴望能够教授 21 世纪技能的职位的小镇。]]></description>
+            <description><![CDATA[[WSJ] Provalus 没有选择离岸外包，而是寻找收入较低且人们渴望能教授 21 世纪技能的职位的小镇。]]></description>
         </item>
         <item>
             <title><![CDATA[中债资信称将陆续发布主动评级结果 对债券投资有何影响？ - 财新]]></title>
@@ -664,7 +671,14 @@
             <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjVXNUJMLUNOeFdiVFM2QmhhdUlINjdiRWstd1NkY0ttNk1YMEJmQ3dVdjItNFBxa2JUZzdCVl9ocmphNmZCNnBHdWExTThiNGU1dHNkX091bjVwc1NZaXZUSWJMeUlCMnBUQVhTTVJMcjlLSEpTZEd3Vm40UTZhUWQtRDU4aGJCVXp3WDdsTnNuemVzdTFVVHluWllCTS1VNGJlQ25zQzZqaVk3WEJGZmR3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjVXNUJMLUNOeFdiVFM2QmhhdUlINjdiRWstd1NkY0ttNk1YMEJmQ3dVdjItNFBxa2JUZzdCVl9ocmphNmZCNnBHdWExTThiNGU1dHNkX091bjVwc1NZaXZUSWJMeUlCMnBUQVhTTVJMcjlLSEpTZEd3Vm40UTZhUWQtRDU4aGJCVXp3WDdsTnNuemVzdTFVVHluWllCTS1VNGJlQ25zQzZqaVk3WEJGZmR3?oc=5</guid>
             <pubDate>Fri, 17 Oct 2025 23:22:22 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 银行股的波动揭示了人们对信用风险日益增长的不安 路透]]></description>
+            <description><![CDATA[[Reuters Business] 银行股的波动揭示了人们对信贷风险日益增长的不安 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yZi1hdzhXOEhhbDZTOFQ3ZjVMSngyd0c5RVVBa3JUSUx0YktSbGYtam1qeUE1WkY1Y1lIc2IxNldoR1JJUjZPMUduVEdMMUlwR1JB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yZi1hdzhXOEhhbDZTOFQ3ZjVMSngyd0c5RVVBa3JUSUx0YktSbGYtam1qeUE1WkY1Y1lIc2IxNldoR1JJUjZPMUduVEdMMUlwR1JB?oc=5</guid>
+            <pubDate>Fri, 17 Oct 2025 23:15:56 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[随着投资者消化特朗普的贸易评论，华尔街收高 - 路透中文网]]></title>
@@ -672,13 +686,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3pzZlI2T2k0Q24tR00ybFZnUFk0Z0w1REh1MTdZa1FaS3p6M2lFRWJYdE1jMTJGODRjVGh2WExJaUpzRDJmbEEtV1JZckk4Zmxkb1V3TU5vVGtJVTdxbEZPV09ma3R2em5zc0I1ZlQxeHpveW8wM2JiTFE5cEMySjR5N2oxcm9zaUx6ZEdEdTd6V0RCSUkyRzNlNS00QkRKbzE4YzZZQnFldWJ2dnVuR0kzQUVsWjA1d1E?oc=5</guid>
             <pubDate>Fri, 17 Oct 2025 22:45:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着投资者消化特朗普的贸易评论，华尔街收高 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[标准普尔意外下调法国评级，法国收到债务警告]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-17/france-s-gets-debt-warning-as-s-p-downgrades-in-unscheduled-move</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-17/france-s-gets-debt-warning-as-s-p-downgrades-in-unscheduled-move</guid>
-            <pubDate>Fri, 17 Oct 2025 22:27:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 标准普尔全球评级下调了法国的评级，对该国的信誉造成了又一次打击，因为弱势的少数派政府正在努力通过立法来解决不断增加的债务负担。]]></description>
         </item>
         <item>
             <title><![CDATA[八个月内三度见泽连斯基，特朗普提高供乌“战斧”导弹门槛，排除美俄乌三方会 - 华尔街见闻]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVlVZWdvazhJNDdycFgzMnI0X3pMYW1RZ3dYcUlVc2xHSksyeDNxRjhPazlCNVprbG9pd0h4SjB0bVB5c0sxcC1GNjBGNzdVb3dTV1dJRXVUU1BEMDZGLU0yY0d0NnZQNzQwUS1BXzhYN3RQeWFHUHFWa2FBSVpsSE9Zb0tZOUM4Q0dMV2xKRlhUZ0lpeDhJWFJFSDI?oc=5</guid>
             <pubDate>Fri, 17 Oct 2025 19:57:29 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着全球冲突缓和、供应过剩迹象出现，石油将每周下跌 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长蒂夫·麦克勒姆 (Tiff Macklem) 表示，下周衡量企业销售前景和通胀的数据可能会影响央行是否会在本月晚些时候继 9 月份降息之后再次降息。]]></title>
-            <link>https://www.wsj.com/articles/bank-of-canada-survey-cpi-data-to-weigh-on-next-rate-decision-gov-macklem-says-d7183763</link>
-            <guid isPermaLink="false">https://www.wsj.com/articles/bank-of-canada-survey-cpi-data-to-weigh-on-next-rate-decision-gov-macklem-says-d7183763</guid>
-            <pubDate>Fri, 17 Oct 2025 19:56:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 央行的季度商业前景调查和 9 月份消费者价格指数数据定于下周发布。]]></description>
         </item>
     </channel>
 </rss>
