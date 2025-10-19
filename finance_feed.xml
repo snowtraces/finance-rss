@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 19 Oct 2025 18:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Oct 2025 18:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -84,6 +84,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-19/south-africa-unveils-nuclear-ambitions-in-new-energy-plan</guid>
             <pubDate>Sun, 19 Oct 2025 13:23:35 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 根据南非电力和能源部长公布的新能源政策蓝图，南非打算重启一项有争议的模块化核反应堆计划，并加大对天然气发电的依赖。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[纳米比亚卫生部宣布斯瓦科普蒙德爆发mpox - 路透社]]></title>
+            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxONXpSdERPWVFMdGlsaFRBc2IxWWM1RWRxVlV4Zzhlaml0TmtmZGMwUHBUWUhYa2M5WXNGdmZfcHQ3SFBrLWJwclRJWUR2c0RJMTZLSzdmbjdYRk1DRmZLVnlVeTN0eWFpTG5fTmljcjB6QW1VdUNLc3lSbTl1NlRJcm5EMF8xeDVXOG9xcC04S3lPVzVxU3lUbWIwVVJMeTdrLWEtaXhROU9OcmVUV2pxUVJlaVB2cUV0ZjZsY3d1Q0NfZ2g0MnZINkV3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxONXpSdERPWVFMdGlsaFRBc2IxWWM1RWRxVlV4Zzhlaml0TmtmZGMwUHBUWUhYa2M5WXNGdmZfcHQ3SFBrLWJwclRJWUR2c0RJMTZLSzdmbjdYRk1DRmZLVnlVeTN0eWFpTG5fTmljcjB6QW1VdUNLc3lSbTl1NlRJcm5EMF8xeDVXOG9xcC04S3lPVzVxU3lUbWIwVVJMeTdrLWEtaXhROU9OcmVUV2pxUVJlaVB2cUV0ZjZsY3d1Q0NfZ2g0MnZINkV3?oc=5</guid>
+            <pubDate>Sun, 19 Oct 2025 13:19:46 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 纳米比亚卫生部宣布斯瓦科普蒙德爆发mpox 路透]]></description>
         </item>
         <item>
             <title><![CDATA[A股修复行情即将展开？投资主线有哪些？十大券商策略来了]]></title>
@@ -352,7 +359,7 @@
             <description><![CDATA[[Reuters Business] 随着特朗普定价压力的加大，诺和诺德聘请了美国制药资深人士 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[工会表示已达成协议以避免百老汇演员罢工 - 路透中文网]]></title>
+            <title><![CDATA[工会称已达成协议以避免百老汇演员罢工 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPdC1taGRJdUF4ZnZlenNQN0x0T0diSUZNYjMzUG9hdFJodmduSjJmUHNaVmcyeUVEaE9KeXBhWU9QR3I4QXNZNlZtZjVlYzE3MG41OFpkcG04bW1oRWpGa1hMWUNLVmliX1lyUjdTRGVxeWZCZU45b0M2ZTMxeFdleWtGZm1sOEw1eHFuRzhIc1g1U1hPeHpFUm5YVnQ2bTc2akxnSUNXSDMtZ1F6bkJHa2dEUHFWUGc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPdC1taGRJdUF4ZnZlenNQN0x0T0diSUZNYjMzUG9hdFJodmduSjJmUHNaVmcyeUVEaE9KeXBhWU9QR3I4QXNZNlZtZjVlYzE3MG41OFpkcG04bW1oRWpGa1hMWUNLVmliX1lyUjdTRGVxeWZCZU45b0M2ZTMxeFdleWtGZm1sOEw1eHFuRzhIc1g1U1hPeHpFUm5YVnQ2bTc2akxnSUNXSDMtZ1F6bkJHa2dEUHFWUGc?oc=5</guid>
             <pubDate>Sat, 18 Oct 2025 18:01:22 GMT</pubDate>
@@ -392,6 +399,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTUpJWkFtQi1pRkNBMjc5OW1mbHdVbDZLN21FcXJMc1JsRlhjZlVEQXlONGpNWVBSd2pIQXVvUmd3bHVxMWZrSTZMZnpldEhCckJyNXBLSGx0Rm1ER0ZvRU9pU2VicTgzWHJ4bktYT3F2NWg3NUlSNDQ3NENvTGt5c3ZRNDl0b25YRTFnXzNOMFRYZXVmNV9EajBnV1lkdlFSMW9zWHZSSlQta0xtVEFrc3hNcUpHSE9aSFd5a25RWUJEanBiYXd1RFE3ZjhubEp5WlJDQ0dKclhrZw?oc=5</guid>
             <pubDate>Sat, 18 Oct 2025 14:37:37 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 阿斯利康的 Enhertu 在早期乳腺癌治疗中显示出前景 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安斯泰来-辉瑞联合疗法将膀胱癌患者的死亡风险降低一半 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbEJYMW92MUFwYlU5UkxMMlNURmU1enJjVkhQZ3h0TU4tRUZWYmpLYXEzYmxhV3BYN285X3lXSTNiZUFtbTZmT3c5NnZYZkRQTUtJblR4cHlBdlpCWGdla29yMXpiTWdubTBVLUFhamFKWG96QnBqdmcyVEcyenBoX0daTllzYkFSLXA0bFNqX2d5Z1U2WHBfZjlsTEVKYmx3ekVULW5PalpQQ2puR3pJUDgzX0FZSTUwMzl0ZXlWc01UOFpsU0NnckYyTlR6ZlhuUExxTE1CdFcyV1BoaGpMbE9BWEo?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbEJYMW92MUFwYlU5UkxMMlNURmU1enJjVkhQZ3h0TU4tRUZWYmpLYXEzYmxhV3BYN285X3lXSTNiZUFtbTZmT3c5NnZYZkRQTUtJblR4cHlBdlpCWGdla29yMXpiTWdubTBVLUFhamFKWG96QnBqdmcyVEcyenBoX0daTllzYkFSLXA0bFNqX2d5Z1U2WHBfZjlsTEVKYmx3ekVULW5PalpQQ2puR3pJUDgzX0FZSTUwMzl0ZXlWc01UOFpsU0NnckYyTlR6ZlhuUExxTE1CdFcyV1BoaGpMbE9BWEo?oc=5</guid>
+            <pubDate>Sat, 18 Oct 2025 14:37:32 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 安斯泰来-辉瑞联合疗法将膀胱癌患者的死亡风险降低一半 路透]]></description>
         </item>
         <item>
             <title><![CDATA[日本新移民时代的内幕]]></title>
@@ -678,7 +692,7 @@
             <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjVXNUJMLUNOeFdiVFM2QmhhdUlINjdiRWstd1NkY0ttNk1YMEJmQ3dVdjItNFBxa2JUZzdCVl9ocmphNmZCNnBHdWExTThiNGU1dHNkX091bjVwc1NZaXZUSWJMeUlCMnBUQVhTTVJMcjlLSEpTZEd3Vm40UTZhUWQtRDU4aGJCVXp3WDdsTnNuemVzdTFVVHluWllCTS1VNGJlQ25zQzZqaVk3WEJGZmR3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjVXNUJMLUNOeFdiVFM2QmhhdUlINjdiRWstd1NkY0ttNk1YMEJmQ3dVdjItNFBxa2JUZzdCVl9ocmphNmZCNnBHdWExTThiNGU1dHNkX091bjVwc1NZaXZUSWJMeUlCMnBUQVhTTVJMcjlLSEpTZEd3Vm40UTZhUWQtRDU4aGJCVXp3WDdsTnNuemVzdTFVVHluWllCTS1VNGJlQ25zQzZqaVk3WEJGZmR3?oc=5</guid>
             <pubDate>Fri, 17 Oct 2025 23:22:22 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 银行股的波动揭示了人们对信贷风险日益增长的不安 路透]]></description>
+            <description><![CDATA[[Reuters Business] 银行股的波动揭示了人们对信用风险日益增长的不安 路透]]></description>
         </item>
         <item>
             <title><![CDATA[银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫 - 华尔街见闻]]></title>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3pzZlI2T2k0Q24tR00ybFZnUFk0Z0w1REh1MTdZa1FaS3p6M2lFRWJYdE1jMTJGODRjVGh2WExJaUpzRDJmbEEtV1JZckk4Zmxkb1V3TU5vVGtJVTdxbEZPV09ma3R2em5zc0I1ZlQxeHpveW8wM2JiTFE5cEMySjR5N2oxcm9zaUx6ZEdEdTd6V0RCSUkyRzNlNS00QkRKbzE4YzZZQnFldWJ2dnVuR0kzQUVsWjA1d1E?oc=5</guid>
             <pubDate>Fri, 17 Oct 2025 22:45:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着投资者消化特朗普的贸易评论，华尔街收高 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[八个月内三度见泽连斯基，特朗普提高供乌“战斧”导弹门槛，排除美俄乌三方会 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KLVFPUmdCMHlFSjZ3WWplZlBVRVVTeTVzY0RLWjhfU1ltTkpEVjgzMlpyQlF2Nklab3RQWTFOUzZKUTRacVJ2SzNRYmxfSFg2MXBz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KLVFPUmdCMHlFSjZ3WWplZlBVRVVTeTVzY0RLWjhfU1ltTkpEVjgzMlpyQlF2Nklab3RQWTFOUzZKUTRacVJ2SzNRYmxfSFg2MXBz?oc=5</guid>
-            <pubDate>Fri, 17 Oct 2025 20:42:27 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 八个月内三度见泽连斯基，特朗普提高供乌“战斧”导弹门槛，排除美俄乌三方会  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[杰富瑞 (Jefferies) 首席执行官称银行被汽车零部件制造商 First Brands 诈骗 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ1QtVElsWWhseU0zN1hQWFlUWW1kbWxON2RteTRyRDRDTGtDWkNzRl83TXVmc0YxaThJeDlJZEh5amUyODFQdDZIV2psN1lOZWpNaUk0YktPLTZXZVptMjRLSWRnNTdxVk80SnQ3M2JCNG5FTW1HZ1dnc3o2YklfeHRYYnFjSlJIc2lOQnJoSDBnZ1VyUnhPUHQ2ZHViR3BicjFzdGRIVGxnT2VXMWR0bTFOU0lEaHQ2QzFXSGVzOU9ZY1ozTlE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ1QtVElsWWhseU0zN1hQWFlUWW1kbWxON2RteTRyRDRDTGtDWkNzRl83TXVmc0YxaThJeDlJZEh5amUyODFQdDZIV2psN1lOZWpNaUk0YktPLTZXZVptMjRLSWRnNTdxVk80SnQ3M2JCNG5FTW1HZ1dnc3o2YklfeHRYYnFjSlJIc2lOQnJoSDBnZ1VyUnhPUHQ2ZHViR3BicjFzdGRIVGxnT2VXMWR0bTFOU0lEaHQ2QzFXSGVzOU9ZY1ozTlE?oc=5</guid>
-            <pubDate>Fri, 17 Oct 2025 20:26:02 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Jefferies 首席执行官称银行被汽车零部件制造商 First Brands 诈骗 路透]]></description>
         </item>
     </channel>
 </rss>
