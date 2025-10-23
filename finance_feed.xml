@@ -4,16 +4,44 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 23 Oct 2025 11:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 11:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[彭博简报 2025 年 10 月 23 日（视频）]]></title>
+            <title><![CDATA[特朗普对俄罗斯石油的新制裁可能导致石油桶退出市场]]></title>
+            <link>https://www.bloomberg.com/news/newsletters/2025-10-23/trump-s-new-sanctions-on-russian-oil-threaten-to-push-barrels-off-market</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2025-10-23/trump-s-new-sanctions-on-russian-oil-threaten-to-push-barrels-off-market</guid>
+            <pubDate>Thu, 23 Oct 2025 11:34:31 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 如果印度被迫停止购买莫斯科原油，大量石油将寻找新买家。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通胀上升后土耳其央行放慢降息步伐]]></title>
+            <link>https://www.wsj.com/articles/turkeys-central-bank-slows-pace-of-interest-rate-cuts-after-inflation-uptick-b890380c</link>
+            <guid isPermaLink="false">https://www.wsj.com/articles/turkeys-central-bank-slows-pace-of-interest-rate-cuts-after-inflation-uptick-b890380c</guid>
+            <pubDate>Thu, 23 Oct 2025 11:26:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 土耳其央行将基准利率从 40.5% 下调至 39.5%。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Verizon 商业赞助商聚焦]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-10-23/verizon-business-sponsor-spotlight-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-23/verizon-business-sponsor-spotlight-video</guid>
+            <pubDate>Thu, 23 Oct 2025 11:15:08 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Verizon 业务集团副总裁兼欧洲、中东和非洲地区主管 Sanjiv Gossain 和泰晤士自由港临时首席执行官 Stuart Rimmer 在伦敦彭博科技与彭博社的 Sepideh Shokrpour 讨论了网络如何为数字生态系统提供动力，推动连接、创新和可持续增长。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国航空报告亏损较小，保费收入增加]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-23/american-airlines-reports-smaller-loss-sees-premium-revenue-up</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-23/american-airlines-reports-smaller-loss-sees-premium-revenue-up</guid>
+            <pubDate>Thu, 23 Oct 2025 11:08:39 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美国航空集团 (American Airlines Group Inc.) 报告称，受国内市场商务和休闲旅行反弹的推动，亏损小于预期。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国制裁俄罗斯，油价飙升； 成本上涨导致特斯拉利润下降 彭博简报 2025 年 10 月 23 日]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-10-23/bloomberg-brief-10-23-2025-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-23/bloomberg-brief-10-23-2025-video</guid>
             <pubDate>Thu, 23 Oct 2025 11:06:23 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] ]]></description>
+            <description><![CDATA[[Bloomberg] 随着特朗普总统将俄罗斯石油生产商俄罗斯石油公司和卢克石油公司列入黑名单，向普京总统加大施压，要求其通过谈判结束乌克兰战争，油价飙升。 尽管电动汽车季度销量创纪录，但特斯拉股价在盘前交易中下跌，其利润大幅下滑。 中国表示，何立峰副总理计划本周在马来西亚会见美国官员。 摩根大通资产管理公司的 Priya Misra 对周五延迟公布的消费者物价指数 (CPI) 数据进行了展望。 加拿大皇家银行资本市场的汤姆·纳拉扬 (Tom Narayan) 回顾了特斯拉的业绩并展望了福特的盈利。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[特斯拉的“人工智能转型”是分析师丹·艾夫斯关注的焦点]]></title>
@@ -177,6 +205,13 @@
             <description><![CDATA[[Bloomberg] 市场预计高市早苗将延续安倍晋三的部分政策，在安倍晋三的领导下，日元走弱，股市飙升。]]></description>
         </item>
         <item>
+            <title><![CDATA[尽管销量创历史新高，但受成本上涨和信贷减少的影响，特斯拉利润仍不足 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGtncVlFbnh3eWxGM2wtamItcVg5WXpULTRyTEJMOERXRnY2d25zdXVtZXNodGk1X3phbTZYcTdQVl9mZXV3UXFsNk9rOEpDMVlBc2wtN1ExRVUyUkZxNGdLOUx1Z1VEZ0RFWGg1SEFVWHp3TVJBWHJnTWU3aUdFVFhzRUlVLWUyZS1EN3JqVGswWURRRmtHYnNCcEI1MnFndEdXXzZyNlBMcjVsUE1HemtDeTJ4RHp3d3hhUGZLb3d1LWE1Mm1ocGM3NzNPUTRFSExPRlB3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGtncVlFbnh3eWxGM2wtamItcVg5WXpULTRyTEJMOERXRnY2d25zdXVtZXNodGk1X3phbTZYcTdQVl9mZXV3UXFsNk9rOEpDMVlBc2wtN1ExRVUyUkZxNGdLOUx1Z1VEZ0RFWGg1SEFVWHp3TVJBWHJnTWU3aUdFVFhzRUlVLWUyZS1EN3JqVGswWURRRmtHYnNCcEI1MnFndEdXXzZyNlBMcjVsUE1HemtDeTJ4RHp3d3hhUGZLb3d1LWE1Mm1ocGM3NzNPUTRFSExPRlB3?oc=5</guid>
+            <pubDate>Thu, 23 Oct 2025 09:57:41 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 尽管销量创历史新高，但受成本上涨和信用衰退的影响，特斯拉利润仍不足 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[伦敦证券交易所集团出售贸易服务股权并宣布回购，股价上涨 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjdSM3YwLTdmRmotUjBGMktHZWVVRUZoVHYxbmdzYUd1ZUpJMjNOZG1DaUt0X2NuTUVnamF0SmpYcTZMamxBZkl3R3VhS1BOOWQ0YWM4dGYteWMtdWZkV1FJYy1NLXQ3QlUzSnZuWEF0YTN4ZGk5MXVtY01FSGtMa2NHc2Rwd3kyNWxTc1NILVNwUzhTQWxFcWljdVhUU05rbVZUOENCdnA1M2FVbDdfUUJ6Y3I5SXFy?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjdSM3YwLTdmRmotUjBGMktHZWVVRUZoVHYxbmdzYUd1ZUpJMjNOZG1DaUt0X2NuTUVnamF0SmpYcTZMamxBZkl3R3VhS1BOOWQ0YWM4dGYteWMtdWZkV1FJYy1NLXQ3QlUzSnZuWEF0YTN4ZGk5MXVtY01FSGtMa2NHc2Rwd3kyNWxTc1NILVNwUzhTQWxFcWljdVhUU05rbVZUOENCdnA1M2FVbDdfUUJ6Y3I5SXFy?oc=5</guid>
@@ -214,6 +249,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQMnhJaW1ZMVNpSGViYUdyQzVwOTMtNHRJWGRhclJMRHV2OW05Q1lmUWZuMDR0Z19zWXAzVWxWM1lvVzFfbFZULUtOakZVdU5qYlVKanBGaHBaekQ4RWZjRndlb3Rrb3lvbjc3a01aZl9hYXphX3dpWmVQUmpOVnJWNDR4c0JOWVFKZFdHbFdSdW1GbmdCX0RRckR3RFFhNDA0T2VvVmpDMjk0V2NQVnB1ZEpQM2d2dw?oc=5</guid>
             <pubDate>Thu, 23 Oct 2025 09:18:42 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 欧洲航空航天公司联手太空对抗马斯克 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[与马斯克 X 发生争执后，印度将内容删除权限制在少数官员手中 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSktKd0ZBMVIyMzFzS253eERRWWpscDVPMXd4LWpDZ3ppcHBrZXkwaTIyQnpKU1BNT1NjSXBmQnN0VGl2cDA4YTdQVjNlRlNOdkZveW9Ua1U1Z0ZnMlVlRGdtQTk1b043MFdsMFNtbWRRRXJPREZ5WHFZczRDR3l1OXh5R1BET1Niczlyb3pSQ2EwT0hmUlhaTzFCLWZWdFZpaFpkeFVJQ3B4RmlyZmI5LWVaZkVCUFF2N0FXbmpTUFhpOTkzcU5OTnQwUHZUMUxC?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSktKd0ZBMVIyMzFzS253eERRWWpscDVPMXd4LWpDZ3ppcHBrZXkwaTIyQnpKU1BNT1NjSXBmQnN0VGl2cDA4YTdQVjNlRlNOdkZveW9Ua1U1Z0ZnMlVlRGdtQTk1b043MFdsMFNtbWRRRXJPREZ5WHFZczRDR3l1OXh5R1BET1Niczlyb3pSQ2EwT0hmUlhaTzFCLWZWdFZpaFpkeFVJQ3B4RmlyZmI5LWVaZkVCUFF2N0FXbmpTUFhpOTkzcU5OTnQwUHZUMUxC?oc=5</guid>
+            <pubDate>Thu, 23 Oct 2025 09:15:20 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 与马斯克的 X 发生争执后，印度将内容删除权限制在少数官员身上 路透]]></description>
         </item>
         <item>
             <title><![CDATA[瑞士央行首个“软政策”利率摘要令分析师意见不一]]></title>
@@ -256,27 +298,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxNeVhfOFdKSzZUaUJacURWR29leWxwNHcyZ2J5WnhsRFkycVhDZzAzTVZLS2tESEdQeHFpN0VWUS1YRWQwd2pTdjcxY19Fc212U185MEd5VmptdjRkRVdlQnlQY1BsVlpWN0NQcmIwRXIyUjdOOTFnRTZxWHBQVzl1d2RJandlZ2hOREtDS2UyRVNERUJmZVRoTllLeWNJMkUtZmNnQXFqbW9UREEzQWxPbll5LTU2MTVsQk84Y0lST0VmdC12cDZHZ0pxQlpmUQ?oc=5</guid>
             <pubDate>Thu, 23 Oct 2025 08:51:59 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 泽伦斯基赞扬对俄罗斯的新能源制裁，寻求对莫斯科施加更多压力 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[穆迪警告政治风险威胁土耳其的经济收益]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-23/moody-s-warns-political-risks-threaten-turkey-s-economic-gains</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-23/moody-s-warns-political-risks-threaten-turkey-s-economic-gains</guid>
-            <pubDate>Thu, 23 Oct 2025 08:45:15 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 穆迪评级表示，政治紧张局势可能会抵消土耳其回归正统政策所带来的经济收益，并警告称，新一轮的骚乱可能会让投资者感到不安，并使货币政策复杂化。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[默克尔前顾问表示，是时候让德国人担任欧洲央行行长了]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-23/time-for-a-german-to-head-ecb-former-merkel-advisor-says</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-23/time-for-a-german-to-head-ecb-former-merkel-advisor-says</guid>
-            <pubDate>Thu, 23 Oct 2025 08:44:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 德国总理安格拉·默克尔 (Angela Merkel) 的前经济顾问表示，当克里斯蒂娜·拉加德 (Christine Lagarde) 行长任期于 2027 年底结束时，德国最终应该会获得欧洲央行 (European Central Bank) 最高职位。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[索迪斯 (Sodexo) 预测 2026 年增长放缓，股价暴跌]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-23/sodexo-plunges-after-forecasting-slower-growth-in-2026</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-23/sodexo-plunges-after-forecasting-slower-growth-in-2026</guid>
-            <pubDate>Thu, 23 Oct 2025 08:44:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 法国餐饮公司索迪斯 (Sodexo SA) 预计，由于结构性挑战依然存在，尤其是美国高等教育领域的结构性挑战，2026 年收入增长将放缓，该公司股价创下七个月来最大跌幅。]]></description>
         </item>
         <item>
             <title><![CDATA[但斌最新持仓来了！第一大重仓仍是英伟达，首次买入阿里、博通，大幅减持亚马逊、奈飞 - 华尔街见闻]]></title>
@@ -340,13 +361,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFFiWGczZ1A0MVNkOUk0UDdNM2dkR21sYU9NZEZISFp1UThMSHQwdzlMYUw3NjI0Y2h0U0tJR29MS1hZZ0ZIWm96RWMzckgwb1VqUjNtS2pRUGdJZVBoakhqbGo2ZlVlR0hIY0pJZlZJaTVhd2dzQkV6Yk1ZRWF3enltNnR2QmY2Z0dVb1RvUDhQckpTb0F4Q0RySjNyWm9MY2MtOFEtdFpkaXgzVWowcm4zTG5MMHNzakhGN182WWdEblFKbXlmWG1Sbw?oc=5</guid>
             <pubDate>Thu, 23 Oct 2025 07:55:56 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：消息人士称，英国制裁后，卖家取消了与中国炼油企业玉龙集团的交易 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普出手，印度每日160万桶俄油供应悬了！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE40am9YOFAzbFY3QlJSeXJPSWF1UGtTWDBobW42a0plU2J1MV9qZlF4cUlIYk1acERGWG9xQmcwTTZJZWhYeVBlcjB0X2NoVTYwY2tF?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE40am9YOFAzbFY3QlJSeXJPSWF1UGtTWDBobW42a0plU2J1MV9qZlF4cUlIYk1acERGWG9xQmcwTTZJZWhYeVBlcjB0X2NoVTYwY2tF?oc=5</guid>
-            <pubDate>Thu, 23 Oct 2025 07:53:28 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 特朗普出手，印度每日160万桶俄油供应悬了！  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[人工智能、云需求推动光学器件销售，诺基亚利润超出预期 - 路透中文网]]></title>
@@ -417,6 +431,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkYyVjZVc0ZiMEtSdmVpYm1YdUZLRWN1b2tqVmVGQUVQbW9sM0kweGQ0ZE80SE1DTFNMXzhmZndwRTJzZjdDVWMtVm1Xd3VjMk9tVUR4aDVtZjE3eTRRd2J3ZjRvYjE4bFU0TTJEazY0ZDdwVlZ5XzVhTVdzNlhxOEg3RXVoa0paZDB5UjVWOHk4Y2J5VFozbUtkMXJQUU94S2lOUEh6ZEdWc3g3bDRnWFNwcVJVLXJFR19r?oc=5</guid>
             <pubDate>Thu, 23 Oct 2025 06:00:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据《华尔街日报》报道，特朗普政府正在就入股量子计算公司进行谈判 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[石油价格上涨和盈利强劲，富时 100 指数创下新纪录]]></title>
+            <link>https://www.bloomberg.com/news/live-blog/2025-10-23/ftse-100-lloyds-unilever-earnings-pound-gilts-oil-what-s-moving-uk-markets-right-now-markets-today-mh2ztuck</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2025-10-23/ftse-100-lloyds-unilever-earnings-pound-gilts-oil-what-s-moving-uk-markets-right-now-markets-today-mh2ztuck</guid>
+            <pubDate>Thu, 23 Oct 2025 05:40:19 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] ]]></description>
         </item>
         <item>
             <title><![CDATA[荷兰芯片制造商通知日本汽车零部件制造商可能出现供应中断 - 路透中文网]]></title>
@@ -545,13 +566,6 @@
             <description><![CDATA[[WSJ] 总理马克·卡尼表示，预算计划的目标之一是在十年内将对非美国市场的出口水平增加一倍。]]></description>
         </item>
         <item>
-            <title><![CDATA[尽管销量创历史新高，但受成本上涨和信贷减少的影响，特斯拉利润仍不足 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGtncVlFbnh3eWxGM2wtamItcVg5WXpULTRyTEJMOERXRnY2d25zdXVtZXNodGk1X3phbTZYcTdQVl9mZXV3UXFsNk9rOEpDMVlBc2wtN1ExRVUyUkZxNGdLOUx1Z1VEZ0RFWGg1SEFVWHp3TVJBWHJnTWU3aUdFVFhzRUlVLWUyZS1EN3JqVGswWURRRmtHYnNCcEI1MnFndEdXXzZyNlBMcjVsUE1HemtDeTJ4RHp3d3hhUGZLb3d1LWE1Mm1ocGM3NzNPUTRFSExPRlB3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGtncVlFbnh3eWxGM2wtamItcVg5WXpULTRyTEJMOERXRnY2d25zdXVtZXNodGk1X3phbTZYcTdQVl9mZXV3UXFsNk9rOEpDMVlBc2wtN1ExRVUyUkZxNGdLOUx1Z1VEZ0RFWGg1SEFVWHp3TVJBWHJnTWU3aUdFVFhzRUlVLWUyZS1EN3JqVGswWURRRmtHYnNCcEI1MnFndEdXXzZyNlBMcjVsUE1HemtDeTJ4RHp3d3hhUGZLb3d1LWE1Mm1ocGM3NzNPUTRFSExPRlB3?oc=5</guid>
-            <pubDate>Thu, 23 Oct 2025 00:28:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 尽管销量创历史新高，但受成本上涨和信用衰退的影响，特斯拉利润仍不足 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[连续两天大幅下跌后金价小幅走高]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-23/gold-extends-pullback-from-record-high-for-a-third-day</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-23/gold-extends-pullback-from-record-high-for-a-third-day</guid>
@@ -654,7 +668,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-10-22/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-22/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Wed, 22 Oct 2025 22:21:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着第三季度收益持续流入，美国期货稳定，欧洲股市徘徊在历史最高点附近。美国总统唐纳德·特朗普对俄罗斯最大生产商实施制裁后，原油飙升至两周高点。]]></description>
+            <description><![CDATA[[Bloomberg] 随着第三季度收益持续流入，美国期货稳定，欧洲股市创历史新高。美国总统唐纳德·特朗普对俄罗斯最大生产商实施制裁后，原油价格飙升。]]></description>
         </item>
         <item>
             <title><![CDATA[福特因后视摄像头故障召回 140 万辆美国汽车 - 路透中文网]]></title>
@@ -697,20 +711,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDBPTDNrYUpnSXA4a2tSQllHbjF5MkhOelpZUEdfaHNYTThaajR4akN1bkVnMWY0a0tFZHc2alMxMmJYSzN2bVlaRzg2Rldob3owV3lLM3FHRVVneXNqR3V5Wmljb0tXc2cwZnRVMzlyeFg0MldQYWFoeEtMN3l4OGkzN2ZCWXRFbHcxVmhJN3BXVHVvTXNCOVRkNG1CRHJXbE9Tc0VFNk45NUZpc2dyQjlrczE?oc=5</guid>
             <pubDate>Wed, 22 Oct 2025 21:19:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Lam Research 预计，芯片制造工具的需求将带来乐观的季度收入 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[盘后涨幅最大的股票：IBM、特斯拉、Moderna 等]]></title>
-            <link>https://www.cnbc.com/2025/10/22/stocks-making-the-biggest-moves-after-hours-ibm-tesla-moderna-and-more.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/10/22/stocks-making-the-biggest-moves-after-hours-ibm-tesla-moderna-and-more.html</guid>
-            <pubDate>Wed, 22 Oct 2025 21:16:43 GMT</pubDate>
-            <description><![CDATA[[CNBC] 这些是在盘中交易中涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊借助高科技驾驶员眼镜和人工智能实现更快的送货速度 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSEdlWVZDZUxxamM0bVE0dkhiN3V0MXlZVlEtQk5fenh0dy15TXg5ZVFlc05XNDZmYUVBTTZpNEktRk1zQTBvNXZHUWltUWlXZndwS3g2a2VrVk5mR1pFVnhBWHBLdE11bTljZ1dSYTAxakU3UDRmczNxZ0lJNWIxYnVwUzB5Wm1QSW41VHpDQ0JFVXFJODI1QjNGdlZpaGtsd0pJbk00ZHQ5V2toS2xON0hsMWo0aFdVcUgzMkZKaVNVbzliMTl0YQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSEdlWVZDZUxxamM0bVE0dkhiN3V0MXlZVlEtQk5fenh0dy15TXg5ZVFlc05XNDZmYUVBTTZpNEktRk1zQTBvNXZHUWltUWlXZndwS3g2a2VrVk5mR1pFVnhBWHBLdE11bTljZ1dSYTAxakU3UDRmczNxZ0lJNWIxYnVwUzB5Wm1QSW41VHpDQ0JFVXFJODI1QjNGdlZpaGtsd0pJbk00ZHQ5V2toS2xON0hsMWo0aFdVcUgzMkZKaVNVbzliMTl0YQ?oc=5</guid>
-            <pubDate>Wed, 22 Oct 2025 21:07:39 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 亚马逊借助高科技驾驶员眼镜和人工智能实现更快的送货速度 路透]]></description>
         </item>
     </channel>
 </rss>
