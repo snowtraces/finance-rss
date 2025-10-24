@@ -4,10 +4,31 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 24 Oct 2025 04:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 04:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[国际货币基金组织警告亚洲经济增长将因贸易风险而降温]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-10-24/imf-warns-asia-s-growth-will-cool-on-trade-risks-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-24/imf-warns-asia-s-growth-will-cool-on-trade-risks-video</guid>
+            <pubDate>Fri, 24 Oct 2025 04:23:50 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 国际货币基金组织表示，亚太地区仍然是世界上增长最快的地区，尽管关税上升和保护主义抬头​​可能会减少其出口需求，并最终拖累经济活动。 亚太部副主任托马斯·赫尔布林 (Thomas Helbling) 在上海外滩峰会期间接受了彭博社的斯蒂芬·恩格尔 (Stephen Engle) 的采访。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国商务部长表示美国和中国可以找到解决方案]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-24/china-commerce-minister-says-us-and-china-can-find-solutions</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-24/china-commerce-minister-says-us-and-china-can-find-solutions</guid>
+            <pubDate>Fri, 24 Oct 2025 04:21:21 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 中国商务部长对与美国的谈判持乐观态度，称北京和华盛顿可以在两国关键贸易谈判之前找到解决方案。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[东京天然气公司签署协议探索从阿拉斯加项目购买液化天然气]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-24/tokyo-gas-inks-deal-to-explore-buying-lng-from-alaska-project</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-24/tokyo-gas-inks-deal-to-explore-buying-lng-from-alaska-project</guid>
+            <pubDate>Fri, 24 Oct 2025 04:19:58 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 就在美国总统访问日本的几天前，东京燃气公司签署了一项初步协议，探索从阿拉斯加一个长期停滞的项目购买液化天然气，该项目一直受到唐纳德·特朗普的支持。]]></description>
+        </item>
         <item>
             <title><![CDATA[传苹果(AAPL.US)卫星通信服务或弃用全球星(GSAT.US) 转投马斯克SpaceX]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3042308</link>
@@ -107,7 +128,7 @@
             <description><![CDATA[[Reuters Business] 阿拉斯加航空在停飞所有航班后恢复运营 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[亚洲股市在美国消费者物价指数和特习贸易谈判之前上涨 亚洲贸易，25 年 10 月 24 日]]></title>
+            <title><![CDATA[亚洲股市在美国消费物价指数和特习贸易谈判之前上涨 亚洲贸易，25 年 10 月 24 日]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-10-24/the-asia-trade-10-24-2025-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-24/the-asia-trade-10-24-2025-video</guid>
             <pubDate>Fri, 24 Oct 2025 03:25:27 GMT</pubDate>
@@ -126,7 +147,7 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-24/asm-ceo-smith-on-supply-chain-opportunities-video</guid>
             <pubDate>Fri, 24 Oct 2025 03:24:08 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 澳大利亚战略材料公司是澳大利亚最大的稀土和关键矿产生产商之一，其董事总经理兼首席执行官罗威娜·史密斯 (Rowena Smith) 表示，中国的稀土限制对她的公司来说是一个红利，而 ASM 是一个很好的替代供应商，该公司长期以来一直在为地缘政治紧张局势中的供应链转移做好准备。
- 她与安娜贝尔·德鲁勒斯和艾薇儿·洪就“亚洲贸易”进行了对话。  （来源：彭博社）]]></description>
+ 她与安娜贝尔·德鲁勒斯和艾薇儿·洪就“亚洲贸易”进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[英金管局首次起诉加密货币公司非法推广 火币被指“违反金融销售制度” - 财新网]]></title>
@@ -269,6 +290,13 @@
             <description><![CDATA[[Reuters Business] 特习会确认华尔街股市收高，盈利好坏参半 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TN1ExV2xObWRLWFZvZUd0bGVQWElyVjJKZzVOd2h4YXVQMTRZQXJrb1dEaXE4b05VdXJockVueE1fcFNGU1ZGN2ZFNktlczRaMnhB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TN1ExV2xObWRLWFZvZUd0bGVQWElyVjJKZzVOd2h4YXVQMTRZQXJrb1dEaXE4b05VdXJockVueE1fcFNGU1ZGN2ZFNktlczRaMnhB?oc=5</guid>
+            <pubDate>Fri, 24 Oct 2025 00:57:46 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] “AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[特朗普和习近平将于下周四在亚太经合组织峰会上会面]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-10-24/trump-xi-to-meet-next-thursday-at-apec-summit-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-24/trump-xi-to-meet-next-thursday-at-apec-summit-video</guid>
@@ -344,7 +372,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-10-23/nike-uses-lab-innovation-to-fuel-turnaround</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-23/nike-uses-lab-innovation-to-fuel-turnaround</guid>
             <pubDate>Thu, 23 Oct 2025 23:00:09 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Neuberger Berman 高级研究分析师凯文·麦卡锡 (Kevin McCarthy) 表示，耐克的跨职能团队重组不仅旨在增加收入，还旨在提高盈利能力。 他在“The Close”节目中与 Romaine Bostick 进行了交谈。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] Neuberger Berman 高级研究分析师凯文·麦卡锡 (Kevin McCarthy) 表示，耐克的跨职能团队重组不仅旨在增加收入，还旨在提高盈利能力。 他在“The Close”节目中与罗曼·博斯蒂克进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[橡树资本总经理：“透明度将有助于”私人信贷]]></title>
@@ -352,13 +380,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-23/-transparency-will-help-in-private-credit-oaktree-pm-video</guid>
             <pubDate>Thu, 23 Oct 2025 22:59:14 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 橡树资本美国私人债务策略董事总经理兼联席投资组合经理克里斯蒂娜·李 (Christina Lee) 表示，夹层债务是一种利基产品，因其提供固定利率而重新引起人们的兴趣。 她在“The Close”节目中告诉 Romaine Bostick，投资者被其锁定收益率的能力所吸引。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[KBW 首席执行官：银行在信贷正常化方面处于有利地位]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-23/banks-in-good-position-for-credit-normalization-kbw-ceo-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-23/banks-in-good-position-for-credit-normalization-kbw-ceo-video</guid>
-            <pubDate>Thu, 23 Oct 2025 22:58:31 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Keefe Bruyette & Woods 总裁兼首席执行官 Thomas Michaud 表示，47 年来最长的反向收益率曲线于去年 9 月结束，帮助银行获得了更好的回报。 他在“The Close”节目中告诉罗曼·博斯蒂克（Romaine Bostick）和卡罗琳·海德（Caroline Hyde），随着曲线不再倒挂，情况最终转向对银行有利的方向。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[波音工会将于 10 月 26 日就 3,200 名罢工工人的合同报价进行投票 - 路透中文网]]></title>
@@ -389,13 +410,6 @@
             <description><![CDATA[[Reuters Business] 美国 FDA 批准葛兰素史克的血癌治疗药物 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[特朗普政府创建事实上的主权财富基金，美国考虑推动量子计算]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-23/us-weighs-quantum-computing-boost-as-trump-admin-creates-de-facto-sovereign-wealth-fund</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-23/us-weighs-quantum-computing-boost-as-trump-admin-creates-de-facto-sovereign-wealth-fund</guid>
-            <pubDate>Thu, 23 Oct 2025 22:41:41 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 特朗普政府正在与量子计算公司进行早期对话，讨论对该行业的潜在财政支持，该行业是与中国日益激烈的技术霸主竞赛的一部分。 据知情人士透露，商务部官员已与行业高管讨论了使用《芯片法案》资金来支持其认为对国家安全至关重要的项目和公司的可能性。 这一最新举措出台之际，专家表示，由于政府最近入股英特尔、五角大楼计划入股 MP Materials 等，特朗普政府实际上一直在运营一个事实上的主权财富基金。 彭博新闻社经济治国记者 Joe Deaux 和白宫高级记者 Josh Wingrove 加入《彭博商业周刊》进行讨论。 他们与卡罗尔·马萨和蒂姆·斯特诺维克进行了交谈。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[英特尔第三季度利润超出预期，成本削减、投资回报 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29tY2FleUM1ZTJZc3h4dk12VE51azlseko3VUY1R01uMHNpOVdzTWp6UDhiUkJBdm5xVF85SlRpWF9sV05oWmZWRmtlNm5hYzVuSXNRSlQtTXZFdmdPRVppSmRReW8ySHRSSXlXS2taRjJpWERUNlJrczRaLWhiTXc2V2d0ZXlCMThtSGF4WXNuVEJzRm9ON3FHcENWbGNnZlZPbVlwejdSZHExWU04aUhjRkdaY2Zi?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd29tY2FleUM1ZTJZc3h4dk12VE51azlseko3VUY1R01uMHNpOVdzTWp6UDhiUkJBdm5xVF85SlRpWF9sV05oWmZWRmtlNm5hYzVuSXNRSlQtTXZFdmdPRVppSmRReW8ySHRSSXlXS2taRjJpWERUNlJrczRaLWhiTXc2V2d0ZXlCMThtSGF4WXNuVEJzRm9ON3FHcENWbGNnZlZPbVlwejdSZHExWU04aUhjRkdaY2Zi?oc=5</guid>
@@ -403,25 +417,11 @@
             <description><![CDATA[[Reuters Business] 由于成本削减和投资回报，英特尔第三季度利润超出预期 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[美国国债下跌，石油价格先于消费者物价指数上涨| 收盘价 2025 年 10 月 23 日]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-23/the-close-10-23-2025-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-23/the-close-10-23-2025-video</guid>
-            <pubDate>Thu, 23 Oct 2025 22:34:18 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 彭博电视台为您带来华尔街收市前后最后几分钟和几秒的最新新闻和分析。 今天的嘉宾包括摩根士丹利投资管理公司的 Jitania Kandhari、奥纬咨询的 Daniel Tannebaum、Texas Capital Bancshares 的 Rob Holmes、Keefe Bruyette & Woods 的 Thomas Michaud、Cohen & Steers 的 Jeffrey Palma、CFRA 研究部的 Angelo Zino、福特的 Jim Farley、PG&E 的 Patti Poppe、橡树资本的   克里斯蒂娜·李，纽伯格·伯曼的凯文·麦卡锡。   （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[Advantest 面临关键盈利测试，股票估值超越 Nvidia]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-23/advantest-faces-key-earnings-test-as-stock-valuation-tops-nvidia</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-23/advantest-faces-key-earnings-test-as-stock-valuation-tops-nvidia</guid>
             <pubDate>Thu, 23 Oct 2025 22:30:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] Advantest Corp. 在本财报季面临重大挑战，因为其股价今年飙升 85%，使其估值超过其主要客户 Nvidia Corp.。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PG&E 首席执行官 Poppe 认为在火灾季节结束之前不会进行信用升级]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-23/pg-e-ceo-poppe-sees-no-credit-upgrades-until-fire-season-ends</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-23/pg-e-ceo-poppe-sees-no-credit-upgrades-until-fire-season-ends</guid>
-            <pubDate>Thu, 23 Oct 2025 22:25:47 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 虽然 PG&E Corp. 上个月被一家主要评级公司升级，但加州最大的公用事业公司预计其他公司要等到野火季节结束后才会效仿。]]></description>
         </item>
         <item>
             <title><![CDATA[由于税收抵免到期后电动汽车需求疲软，Rivian 将裁员 600 多人 - 路透中文网]]></title>
@@ -443,13 +443,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxQRlptdDRUX29EX1ZmVGdlZ2VlY2tzZkdYSlRQSm8yX1FZNEZDZ0hqdGhYb0xUVkdiTjVSUEhwc3JyaEZzSzJRMHdwam9ZTTVmYjhnMGRXNEpoeHR4TTgyZGI3dVA4TUw0QUJ4Wl9QWXROSnIzYVh4d0ZKT3lTeEhGOFlpZVlZaG9KUVVjREg3YlhheWhWbDRpUjBkdFR4VlRRcHlnYWItZ0lXcE1MQzhWSDJoS3laWlo0N0pIQ2ZJSXY1OVVYbW90b0NGTWY?oc=5</guid>
             <pubDate>Thu, 23 Oct 2025 22:11:47 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 朝鲜金正恩表示与俄罗斯的军事关系将“不断发展” 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉因照明缺陷召回超过 63,000 辆 Cyber​​truck，并发布软件修复 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOdU1TbDM0UUxYT3VDR3B6Mk80ZkdNQWIwWjd1N2NWVGt5alRhWW5fWlJqTm90c1IzeG1HeXdaMjNaeFJtWVhpQS1nVll5TVEwalIzZ05ZZzlrVlBkeUlOOFAwSGRBaWstSEstUHZCU1FWMTkzSGI1clA0X2M1Y1g2OEozaTJDcXFXUTlXb2Q0b1pIZTQwTEtNaV9qVVdENGtxUHR2azRYa0F6S1p4Ri1vOE9BWjgxTFd2aTNEYjJB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxOdU1TbDM0UUxYT3VDR3B6Mk80ZkdNQWIwWjd1N2NWVGt5alRhWW5fWlJqTm90c1IzeG1HeXdaMjNaeFJtWVhpQS1nVll5TVEwalIzZ05ZZzlrVlBkeUlOOFAwSGRBaWstSEstUHZCU1FWMTkzSGI1clA0X2M1Y1g2OEozaTJDcXFXUTlXb2Q0b1pIZTQwTEtNaV9qVVdENGtxUHR2azRYa0F6S1p4Ri1vOE9BWjgxTFd2aTNEYjJB?oc=5</guid>
-            <pubDate>Thu, 23 Oct 2025 22:08:36 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 特斯拉因照明缺陷召回超过 63,000 辆 Cyber​​truck，并发布软件修复 路透]]></description>
         </item>
         <item>
             <title><![CDATA[随着美中担忧缓解，科技股上涨：市场结束]]></title>
@@ -491,7 +484,7 @@
             <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1QxMHJXelNNU083U0lIdGVSVkN5Umh3WXRJZmYtVVlVcXVJNkZnczZPM1U0ZlpaaDZWNDN3T1pvNGlwRnVuc3piQ1hVSWNrY1FGYWhFNU9Edk9Rd1FMQVBJeVRubUw1dGFCY1FKUDhBR1VzRTZfUzBoM1JVOFFfbzJpdlZfRVZGX0JXeUJPQ2x5dzU1RnVTdEcxaDRoSExuSFAzeA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1QxMHJXelNNU083U0lIdGVSVkN5Umh3WXRJZmYtVVlVcXVJNkZnczZPM1U0ZlpaaDZWNDN3T1pvNGlwRnVuc3piQ1hVSWNrY1FGYWhFNU9Edk9Rd1FMQVBJeVRubUw1dGFCY1FKUDhBR1VzRTZfUzBoM1JVOFFfbzJpdlZfRVZGX0JXeUJPQ2x5dzU1RnVTdEcxaDRoSExuSFAzeA?oc=5</guid>
             <pubDate>Thu, 23 Oct 2025 21:12:06 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 应用材料公司将裁员 4% 以简化运营 路透]]></description>
+            <description><![CDATA[[Reuters Business] 应用材料公司将裁员 4% 以简化运营 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[独家：公司备忘录显示康菲石油公司将于 11 月裁员加拿大员工 - 路透中文网]]></title>
@@ -613,7 +606,7 @@
             <description><![CDATA[[Reuters Business] 卡尼表示，如果贸易谈判失败，加拿大不会允许美国不公平地进入市场]]></description>
         </item>
         <item>
-            <title><![CDATA[合同谈判陷入僵局，星巴克工会开始就罢工进行投票 - 路透中文网]]></title>
+            <title><![CDATA[合同谈判陷入僵局 星巴克工会将开始罢工投票 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2YwZzhEN1VfRHVYTDdGNkFCQ3IxV2Z0aVZETlRaS0VUZ0VkZm8xVk55Q0VjN05QRXRoMURudWpnaVIzbjJRbFQzXy16RDJibWpCTUgwWjFuVkR6QTNIYzM3NXRldTZrbGxRV1F3SEhfNUJYRmJuT0x4OUZhZTZlMEx1YW5vWG9Bem51RXZqWlBNZVFVNHNpZEtlb2E3dTY4eUg3bmZNa1F0V1lmSENTWnotZjd6V0dINWt2aVlOcG5aRHBSZE1mOTlB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2YwZzhEN1VfRHVYTDdGNkFCQ3IxV2Z0aVZETlRaS0VUZ0VkZm8xVk55Q0VjN05QRXRoMURudWpnaVIzbjJRbFQzXy16RDJibWpCTUgwWjFuVkR6QTNIYzM3NXRldTZrbGxRV1F3SEhfNUJYRmJuT0x4OUZhZTZlMEx1YW5vWG9Bem51RXZqWlBNZVFVNHNpZEtlb2E3dTY4eUg3bmZNa1F0V1lmSENTWnotZjd6V0dINWt2aVlOcG5aRHBSZE1mOTlB?oc=5</guid>
             <pubDate>Thu, 23 Oct 2025 17:19:11 GMT</pubDate>
@@ -709,6 +702,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlEtNlpBQ0hVZ205T0I0TzhFQlNoVEJjRG5qQS1sVmgtZmhtNllkMUF0d1RvNWRaWFJQNHV3V0RmUEV0NVFPZ1Z6dElxVmRNXzl0S29xRGl1X1BBWXctS000V21mTkRTZmwwZXZRXzcyOG1PNXlRQlkxbEZzaTFOcXU2YlZEQk1MM2M4LTNRYzVuT1YycHA0Sm1n?oc=5</guid>
             <pubDate>Thu, 23 Oct 2025 15:53:19 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 摩根大通预计到 2026 年底金价平均将达到每盎司 5,055 美元 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ortex 数据显示，Beyond Meat 的空头兴趣飙升至超过公开股票的 100% - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNQU04Ny1XZE9PSzFndUxoLS1VZGpfRUw0UGw1eG9VeThQVXVUMEpCSTlxanA0T2tKUG54ckRXZUFtTHZuWWNwTkNkaFVmRTB0UXFSLWZBYVp4VjQ0Q3B2emRhVWJIZzhyU1UzNDg1U1dWTFltSWxBSHZfc0t1NkNfMG1IbUF6LXBaLVBQUkcxcVJZbjRfQlcwZ3k1cVNER1ZTMnNHOGgwamlMODdmaGxyaXZnamZLWmtORUE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxNQU04Ny1XZE9PSzFndUxoLS1VZGpfRUw0UGw1eG9VeThQVXVUMEpCSTlxanA0T2tKUG54ckRXZUFtTHZuWWNwTkNkaFVmRTB0UXFSLWZBYVp4VjQ0Q3B2emRhVWJIZzhyU1UzNDg1U1dWTFltSWxBSHZfc0t1NkNfMG1IbUF6LXBaLVBQUkcxcVJZbjRfQlcwZ3k1cVNER1ZTMnNHOGgwamlMODdmaGxyaXZnamZLWmtORUE?oc=5</guid>
+            <pubDate>Thu, 23 Oct 2025 15:39:31 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Ortex 数据显示，Beyond Meat 的空头兴趣飙升至超过公开股票的 100% 路透]]></description>
         </item>
     </channel>
 </rss>
