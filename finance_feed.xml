@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 25 Oct 2025 16:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 16:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -12,8 +12,22 @@
             <title><![CDATA[“VOO and chill：”为什么这种流行的投资策略可能会失去吸引力——即使股市处于历史高位]]></title>
             <link>https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html</guid>
-            <pubDate>Sat, 25 Oct 2025 15:00:01 GMT</pubDate>
+            <pubDate>Sat, 25 Oct 2025 16:40:51 GMT</pubDate>
             <description><![CDATA[[CNBC] Tidal Financial 的 Gavin Filmore 发现他的许多客户不再满足于购买与市场指数挂钩的流行 ETF。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[热带风暴梅丽莎袭击多个加勒比国家]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-10-25/tropical-storm-melissa-poised-to-hit-jamaica-caribbean-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-25/tropical-storm-melissa-poised-to-hit-jamaica-caribbean-video</guid>
+            <pubDate>Sat, 25 Oct 2025 16:40:44 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 热带风暴梅丽莎的强度将会爆发，因为它增加了牙买加和加勒比海地区发生灾难性洪水和风灾的风险，该地区已造成至少四人死亡。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[道达尔莫桑比克液化天然气项目延迟多年后将重新启动]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-25/totalenergies-makes-call-to-end-force-majeure-at-mozambique-lng</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-25/totalenergies-makes-call-to-end-force-majeure-at-mozambique-lng</guid>
+            <pubDate>Sat, 25 Oct 2025 16:01:23 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] TotalEnergies SE及其合作伙伴将结束莫桑比克液化天然气项目的不可抗力，为该出口码头在停工多年后正式重启工作铺平道路。]]></description>
         </item>
         <item>
             <title><![CDATA[“违规”“不提供任何检验和售后服务”，让酒企“发飙”的开盖酒是什么？]]></title>
@@ -345,7 +359,7 @@
             <description><![CDATA[[Bloomberg] 一家总部位于密苏里州的建筑设备租赁公司为快速增长提供资金，从私人债券市场大量借贷，该公司的债务价格周五大幅下跌，原因是与一名前董事会成员发生了法律纠纷，该公司已爆发欺诈和不当行为指控的对决。]]></description>
         </item>
         <item>
-            <title><![CDATA[巴西国家石油公司报告称，随着产量增加，第三季度石油出口创历史新高 - 路透中文网]]></title>
+            <title><![CDATA[巴西国家石油公司报告称，随着产量增加，第三季度石油出口创纪录 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUdRQzVGUkxsWUZheko5NVhzYXNLa0FGVXpwZ0o1c1JfcHM0SEpYTUptSVZ2Qm56MjJVbVE1SjY4Nk5VX1BMQTdCSFltaWxpOW5HeDl0LUdXODE1UVFqM0RKSlZBZUZfMzB0ZFpia3R5RTFQWjVJSWsybWd4Ym9YWTFFanVGV2tvOWxrNzdPN2V4YXJnTWRSdTZvVDNDLV9zYXBV?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUdRQzVGUkxsWUZheko5NVhzYXNLa0FGVXpwZ0o1c1JfcHM0SEpYTUptSVZ2Qm56MjJVbVE1SjY4Nk5VX1BMQTdCSFltaWxpOW5HeDl0LUdXODE1UVFqM0RKSlZBZUZfMzB0ZFpia3R5RTFQWjVJSWsybWd4Ym9YWTFFanVGV2tvOWxrNzdPN2V4YXJnTWRSdTZvVDNDLV9zYXBV?oc=5</guid>
             <pubDate>Sat, 25 Oct 2025 00:19:00 GMT</pubDate>
@@ -380,25 +394,11 @@
             <description><![CDATA[[Bloomberg] 彭博电视台为您带来华尔街收市前后最后几分钟和几秒的最新新闻和分析。 今天的嘉宾包括毕马威的黛安·斯旺克 (Diane Swonk)、Horizo​​n Investments 的斯科特·拉德纳 (Scott Ladner)、Coresight Research 的黛博拉·温斯威格 (Deborah Weinswig)、Coursera 的格雷格·哈特 (Greg Hart)、Bahnsen Group 的大卫·巴恩森 (David Bahnsen)、密歇根大学的贝西·史蒂文森 (Betsey Stevenson)、国防部前美国国防部助理部长埃里克·罗森巴赫 (Eric Rosenbach)、Veda Partners 的 Henrietta Treyz、Wedbush Securities 的 Dan   艾夫斯。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[澳大利亚新婚夫妇和橄榄球迷从新西兰特价商品中获利]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-24/aussie-newlyweds-rugby-fans-cash-in-on-new-zealand-bargains</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-24/aussie-newlyweds-rugby-fans-cash-in-on-new-zealand-bargains</guid>
-            <pubDate>Fri, 24 Oct 2025 23:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 新西兰的经济和旅游业一直处于低迷状态，但西方国家正在松一口气。 澳大利亚人带着三年来兑新西兰元最强劲的美元涌入塔斯曼河。]]></description>
-        </item>
-        <item>
             <title><![CDATA[阿拉斯加航空承诺在停电导致 400 架航班取消后进行 IT 升级 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlIyYncxcTZXb2hQclRrQmFnRC1MZ3hEN0l6SEQyVWZkeGhxTnBDMGZCVDlXZXBCMXhTbjdENGFrVXlNTFlVcDBSLXhWSmxrVUtCNzQ3Y09GVkFURGNGRzRSZHExa3JfdUg4ang2MXZlemFzLVItaktuU2FEaDhfT2ZlcF9RV0xyTTJv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRlYTRtQkV0Zm1FdDJ6QUI1bkhZeTNjdS1SYmNjMWhhTmRqR28xRDYtZXUtV3hfVlIyYncxcTZXb2hQclRrQmFnRC1MZ3hEN0l6SEQyVWZkeGhxTnBDMGZCVDlXZXBCMXhTbjdENGFrVXlNTFlVcDBSLXhWSmxrVUtCNzQ3Y09GVkFURGNGRzRSZHExa3JfdUg4ang2MXZlemFzLVItaktuU2FEaDhfT2ZlcF9RV0xyTTJv?oc=5</guid>
             <pubDate>Fri, 24 Oct 2025 22:46:06 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 阿拉斯加航空在停电迫使 400 架航班取消后誓言进行 IT 升级 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[投资者关注太平洋两岸的人工智能赢家：艾夫斯]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-24/investors-eye-ai-winners-on-both-sides-of-pacific-ives</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-24/investors-eye-ai-winners-on-both-sides-of-pacific-ives</guid>
-            <pubDate>Fri, 24 Oct 2025 22:22:30 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Wedbush Securities 董事总经理兼全球技术研究主管 Dan Ives 表示，网络安全处于局外人的地位，但“在人工智能革命中将非常强大”。 他在“The Close”节目中告诉 Romaine Bostick 和 Katie Greifeld，CrowdStrike 和 Palo Alto 等具有连锁反应的名字处于有利位置。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[Netflix 关闭《Squid Game: Unleashed》背后的游戏工作室 - 路透中文网]]></title>
@@ -583,13 +583,6 @@
             <description><![CDATA[[Reuters Business] 消息人士称，俄罗斯第四大炼油厂在无人机袭击后暂停加工装置 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[丹麦首相弗雷德里克森敦促乌克兰在圣诞节前达成赔偿贷款协议 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGRvYmplZzhrOTNBNEZHWmJvZF9iNGJzWnN6NFhfeTZlRkdjTHVoZ01WQ29yczhwT2pqQjIteXdSVUpSa1hHdGY0a05WbEpqOHhEaVhha1RlOUZ2SkNHWTlJUDVZNm9nR2ktWVc0TER2TVV0SVJ1c0pGT3lZMXNUOXBPeDE3dUszai1EWjNaUncyVHFRWE13Vlo3TVprLXlVNE9oem53NWI5a1NwX3hPR08wNXJYel9w?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGRvYmplZzhrOTNBNEZHWmJvZF9iNGJzWnN6NFhfeTZlRkdjTHVoZ01WQ29yczhwT2pqQjIteXdSVUpSa1hHdGY0a05WbEpqOHhEaVhha1RlOUZ2SkNHWTlJUDVZNm9nR2ktWVc0TER2TVV0SVJ1c0pGT3lZMXNUOXBPeDE3dUszai1EWjNaUncyVHFRWE13Vlo3TVprLXlVNE9oem53NWI5a1NwX3hPR08wNXJYel9w?oc=5</guid>
-            <pubDate>Fri, 24 Oct 2025 16:52:10 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 丹麦弗雷德里克森敦促乌克兰在圣诞节前达成赔偿贷款协议 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[法国动物园工作人员告别中国两只大熊猫即将退休 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOU21vTlpITmdOR2hSQVk2bmZfalFNbEdFRC1TaVh4M3pXQThvaGc2V1oxTk90Rkt2N3BNV0UySU5DMVRCeXA1ZThTRFVJR3dwTFE1ckpuaURmMDR0N3d5Q0VEZDZHaWlONXY4UVVxd193SS1tcDEzaG9NUEJXLXdpVmRpOUI3MGdWUUY2MjVfSTNvbllwR1VWS3RCVXhhTDhRcmVMcjRsb1RpRm41WjM4RFRGOC1YemVkZXNZU3lnS1A2ekFEaHc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxOU21vTlpITmdOR2hSQVk2bmZfalFNbEdFRC1TaVh4M3pXQThvaGc2V1oxTk90Rkt2N3BNV0UySU5DMVRCeXA1ZThTRFVJR3dwTFE1ckpuaURmMDR0N3d5Q0VEZDZHaWlONXY4UVVxd193SS1tcDEzaG9NUEJXLXdpVmRpOUI3MGdWUUY2MjVfSTNvbllwR1VWS3RCVXhhTDhRcmVMcjRsb1RpRm41WjM4RFRGOC1YemVkZXNZU3lnS1A2ekFEaHc?oc=5</guid>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/global/eurozone-business-activity-picks-up-in-continued-show-of-resilience-49628839</guid>
             <pubDate>Fri, 24 Oct 2025 14:17:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 美国、欧洲和亚洲经济活动的增加表明，面对更高的关税和强国之间关系的更大不确定性，全球经济仍然具有弹性。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[欧洲新的太空合并探索了 FOMO 前沿 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVVPMy1PZzJENFJ0UGt3VWlXNW9ydHMtSlVSdlEzeUVGcjRMQTNZTmlHbTFvS3B5aGphRzdyajA0VXpxVi1PUUdmTVJuV2xLS0FCLS1ydnZHdklmUjA5SEp6em9YYm1yMV9iNktDcEI5UEs1b0VzSnRwdGthbWFlbFZOZURhVk96N3ZTRDRlZU5OUWVnM3NhdkpmeVBpbnlkNWVoajZXT0tkRERNRDZj?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVVPMy1PZzJENFJ0UGt3VWlXNW9ydHMtSlVSdlEzeUVGcjRMQTNZTmlHbTFvS3B5aGphRzdyajA0VXpxVi1PUUdmTVJuV2xLS0FCLS1ydnZHdklmUjA5SEp6em9YYm1yMV9iNktDcEI5UEs1b0VzSnRwdGthbWFlbFZOZURhVk96N3ZTRDRlZU5OUWVnM3NhdkpmeVBpbnlkNWVoajZXT0tkRERNRDZj?oc=5</guid>
+            <pubDate>Fri, 24 Oct 2025 14:15:07 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 欧洲新的太空合并探索了 FOMO 前沿 路透]]></description>
         </item>
     </channel>
 </rss>
