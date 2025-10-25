@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 25 Oct 2025 15:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 16:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -112,6 +112,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2025-10-25/ai-is-transforming-arizona-state-university-tariffs-are-hitting-tiny-lesotho</guid>
             <pubDate>Sat, 25 Oct 2025 12:00:01 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 人工智能正在改变亚利桑那州立大学，关税正在给一个小国带来损失]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普关税给世界牛仔布中心敲响了“警钟”]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-25/trump-tariffs-deliver-shock-wake-up-call-to-a-world-denim-hub</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-25/trump-tariffs-deliver-shock-wake-up-call-to-a-world-denim-hub</guid>
+            <pubDate>Sat, 25 Oct 2025 12:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 世界上最贫穷的国家之一正受到美国总统唐纳德·特朗普关税制度的影响，该制度削弱了其关键的纺织业，并加剧了本已很高的失业率。]]></description>
         </item>
         <item>
             <title><![CDATA[Sora做社交，ChatGPT上广告，OpenAI正在复刻早期的Facebook？ - 华尔街见闻]]></title>
@@ -338,7 +345,7 @@
             <description><![CDATA[[Bloomberg] 一家总部位于密苏里州的建筑设备租赁公司为快速增长提供资金，从私人债券市场大量借贷，该公司的债务价格周五大幅下跌，原因是与一名前董事会成员发生了法律纠纷，该公司已爆发欺诈和不当行为指控的对决。]]></description>
         </item>
         <item>
-            <title><![CDATA[巴西国家石油公司报告称，随着产量增加，第三季度石油出口创纪录 - 路透中文网]]></title>
+            <title><![CDATA[巴西国家石油公司报告称，随着产量增加，第三季度石油出口创历史新高 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUdRQzVGUkxsWUZheko5NVhzYXNLa0FGVXpwZ0o1c1JfcHM0SEpYTUptSVZ2Qm56MjJVbVE1SjY4Nk5VX1BMQTdCSFltaWxpOW5HeDl0LUdXODE1UVFqM0RKSlZBZUZfMzB0ZFpia3R5RTFQWjVJSWsybWd4Ym9YWTFFanVGV2tvOWxrNzdPN2V4YXJnTWRSdTZvVDNDLV9zYXBV?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUdRQzVGUkxsWUZheko5NVhzYXNLa0FGVXpwZ0o1c1JfcHM0SEpYTUptSVZ2Qm56MjJVbVE1SjY4Nk5VX1BMQTdCSFltaWxpOW5HeDl0LUdXODE1UVFqM0RKSlZBZUZfMzB0ZFpia3R5RTFQWjVJSWsybWd4Ym9YWTFFanVGV2tvOWxrNzdPN2V4YXJnTWRSdTZvVDNDLV9zYXBV?oc=5</guid>
             <pubDate>Sat, 25 Oct 2025 00:19:00 GMT</pubDate>
@@ -422,13 +429,6 @@
             <description><![CDATA[[Reuters Business] Grindr 股东提出以 34.6 亿美元将约会应用程序私有化 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[先生。 国防部官员敦促美中军事热线]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-24/fmr-dod-official-urges-us-china-military-hotline-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-24/fmr-dod-official-urges-us-china-military-hotline-video</guid>
-            <pubDate>Fri, 24 Oct 2025 22:05:49 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国前助理国防部长埃里克·罗森巴赫表示，近年来，美国和中国的军事资产已经危险地接近碰撞或其他冲突。 他在“The Close”节目中告诉凯蒂·格雷菲尔德和罗曼·博斯蒂克，特朗普应该在两军之间建立热线。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[通胀降温、盈利稳健，华尔街收盘创历史新高 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxObFpqQnFLZ1dILXZKRGdhaTlKSTRTZ29JcktmeXdIYUtaOHNQR2FXZjZLdlgwakc1T3lyNlNfMlh3S0VRT0NfeURkNzQ3bWF3TGU2UGdKWjliWVB4dUlxY2N6VGNPZF9tNHJfTHRKOVd5NDBvczFRZGhsb0w1dnBSUHFUWUd6S3NTRFd0dU1WaWFGUkI4QWdSbDhLY1dTc2M?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxObFpqQnFLZ1dILXZKRGdhaTlKSTRTZ29JcktmeXdIYUtaOHNQR2FXZjZLdlgwakc1T3lyNlNfMlh3S0VRT0NfeURkNzQ3bWF3TGU2UGdKWjliWVB4dUlxY2N6VGNPZF9tNHJfTHRKOVd5NDBvczFRZGhsb0w1dnBSUHFUWUd6S3NTRFd0dU1WaWFGUkI4QWdSbDhLY1dTc2M?oc=5</guid>
@@ -448,6 +448,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQckZvaUZkOThQeEhLMzJyeVR4LTVFNnYwOE5rb3Z3WlZEdndKdmJEaWppZ1RDRUgxLWs3Z0FHYktPRm1GX2tCeWxoak9KTlNSVnhxZVBzbV9oZWVsUk5sbWVCQ21fX0FiREhjc0l6Y3NRelZfcE5DNXUxX1VEM3JmZHJMOTNuVlk1ZksxcWNTd0RiSzc0amlvY1VlbFk0S2F4ZTFVNnowMElOYkhiblhnWmx0M3FCWldlY2Iw?oc=5</guid>
             <pubDate>Fri, 24 Oct 2025 21:37:44 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 穆迪维持法国评级，将前景下调至“负面” 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥国家石油公司表示，在现任政府领导下，其供应商债务减半 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJCQ2dDeE5pNWI5MW1IOGg2M1l0RV9VclNXd09GdUtNM1A5ai1JR2dZTzFXeU9mdkFOMnZnT3NYa3c1ejB2VzVaSzVZWGFOOEZpdlVHa3hpVmExMmItX1JWSVIzR3RuLWtucko5d2xvVU5OWERtYlVUajlnWkFFUjlGdHdSaTBQOGtFeXVhTFBUMDhoS1Q0YWtSQTNOV0FuRV9NMzFNTUlkR2NGckoxRHdYbXN1N2J2?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEJCQ2dDeE5pNWI5MW1IOGg2M1l0RV9VclNXd09GdUtNM1A5ai1JR2dZTzFXeU9mdkFOMnZnT3NYa3c1ejB2VzVaSzVZWGFOOEZpdlVHa3hpVmExMmItX1JWSVIzR3RuLWtucko5d2xvVU5OWERtYlVUajlnWkFFUjlGdHdSaTBQOGtFeXVhTFBUMDhoS1Q0YWtSQTNOV0FuRV9NMzFNTUlkR2NGckoxRHdYbXN1N2J2?oc=5</guid>
+            <pubDate>Fri, 24 Oct 2025 21:24:36 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 墨西哥国家石油公司表示，在现任政府领导下，其供应商债务减少了一半 路透]]></description>
         </item>
         <item>
             <title><![CDATA[穆迪评级转为负面 法国再次收到债务警告]]></title>
@@ -576,6 +583,20 @@
             <description><![CDATA[[Reuters Business] 消息人士称，俄罗斯第四大炼油厂在无人机袭击后暂停加工装置 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[丹麦首相弗雷德里克森敦促乌克兰在圣诞节前达成赔偿贷款协议 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGRvYmplZzhrOTNBNEZHWmJvZF9iNGJzWnN6NFhfeTZlRkdjTHVoZ01WQ29yczhwT2pqQjIteXdSVUpSa1hHdGY0a05WbEpqOHhEaVhha1RlOUZ2SkNHWTlJUDVZNm9nR2ktWVc0TER2TVV0SVJ1c0pGT3lZMXNUOXBPeDE3dUszai1EWjNaUncyVHFRWE13Vlo3TVprLXlVNE9oem53NWI5a1NwX3hPR08wNXJYel9w?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGRvYmplZzhrOTNBNEZHWmJvZF9iNGJzWnN6NFhfeTZlRkdjTHVoZ01WQ29yczhwT2pqQjIteXdSVUpSa1hHdGY0a05WbEpqOHhEaVhha1RlOUZ2SkNHWTlJUDVZNm9nR2ktWVc0TER2TVV0SVJ1c0pGT3lZMXNUOXBPeDE3dUszai1EWjNaUncyVHFRWE13Vlo3TVprLXlVNE9oem53NWI5a1NwX3hPR08wNXJYel9w?oc=5</guid>
+            <pubDate>Fri, 24 Oct 2025 16:52:10 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 丹麦弗雷德里克森敦促乌克兰在圣诞节前达成赔偿贷款协议 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[法国动物园工作人员告别中国两只大熊猫即将退休 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOU21vTlpITmdOR2hSQVk2bmZfalFNbEdFRC1TaVh4M3pXQThvaGc2V1oxTk90Rkt2N3BNV0UySU5DMVRCeXA1ZThTRFVJR3dwTFE1ckpuaURmMDR0N3d5Q0VEZDZHaWlONXY4UVVxd193SS1tcDEzaG9NUEJXLXdpVmRpOUI3MGdWUUY2MjVfSTNvbllwR1VWS3RCVXhhTDhRcmVMcjRsb1RpRm41WjM4RFRGOC1YemVkZXNZU3lnS1A2ekFEaHc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxOU21vTlpITmdOR2hSQVk2bmZfalFNbEdFRC1TaVh4M3pXQThvaGc2V1oxTk90Rkt2N3BNV0UySU5DMVRCeXA1ZThTRFVJR3dwTFE1ckpuaURmMDR0N3d5Q0VEZDZHaWlONXY4UVVxd193SS1tcDEzaG9NUEJXLXdpVmRpOUI3MGdWUUY2MjVfSTNvbllwR1VWS3RCVXhhTDhRcmVMcjRsb1RpRm41WjM4RFRGOC1YemVkZXNZU3lnS1A2ekFEaHc?oc=5</guid>
+            <pubDate>Fri, 24 Oct 2025 16:48:04 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 法国动物园工作人员告别中国两只大熊猫即将退休 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[中午涨幅最大的股票：福特汽车、Alphabet、阿拉斯加航空、Coinbase、波士顿啤酒等]]></title>
             <link>https://www.cnbc.com/2025/10/24/stocks-making-the-biggest-moves-midday-f-googl-alk-coin-sam-and-more.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/10/24/stocks-making-the-biggest-moves-midday-f-googl-alk-coin-sam-and-more.html</guid>
@@ -646,6 +667,13 @@
             <description><![CDATA[[Bloomberg] 支出削减对中产阶级造成了沉重打击，让自由主义者在本周末关键的中期选举后面临成为跛脚鸭的风险。]]></description>
         </item>
         <item>
+            <title><![CDATA[备忘录显示，摩根大通任命美国银行投资银行和并购资深主席 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGxBLU82TEFLMmdjcFI5UU8zS05iYWRFYnNsT2xPR1JmUklKNWQ4bHV3TUdUbVV3dlU0cGhHVW5iT3ZyQmJTNUk0UlRSdUFLeWpjcHFYVGxNNVhNYTltMVFnMVZjVEJDQWxDV1dRdGJIUEQzMjQ3aWZyXzh5VnRTVEFDZ2xXUUtwRHlOVkRhTHdYQzZybE12NFZQODRQdjdybkM3TElCVXdVLXZod0QwdHYxdC1JRWktcHln?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRGxBLU82TEFLMmdjcFI5UU8zS05iYWRFYnNsT2xPR1JmUklKNWQ4bHV3TUdUbVV3dlU0cGhHVW5iT3ZyQmJTNUk0UlRSdUFLeWpjcHFYVGxNNVhNYTltMVFnMVZjVEJDQWxDV1dRdGJIUEQzMjQ3aWZyXzh5VnRTVEFDZ2xXUUtwRHlOVkRhTHdYQzZybE12NFZQODRQdjdybkM3TElCVXdVLXZod0QwdHYxdC1JRWktcHln?oc=5</guid>
+            <pubDate>Fri, 24 Oct 2025 14:48:13 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 备忘录显示，摩根大通任命美国银行投资银行和并购资深主席 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[白宫顾问称特朗普对加拿大的贸易感到非常失望 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVlMQXViNXBOQzN4WFFELTlLU3huWmdyeVIwXy1rSmpwMU82c0JWbUJKNzl2WGNNQUw1dEJyMXZXaFNkbjFnc0FBc1d6VXZ2QVpDajlobmwwZHJ0OEdrUlctNVBlclFJNmt0eWppUWhMQ0NmWlM2MjJBblNsLTdPaHIxeUp2MnZ5NWpKem5NTThlYWF2cW9SdGRMTnliT0J5d2p3dUlMY1duRDRtUkE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVlMQXViNXBOQzN4WFFELTlLU3huWmdyeVIwXy1rSmpwMU82c0JWbUJKNzl2WGNNQUw1dEJyMXZXaFNkbjFnc0FBc1d6VXZ2QVpDajlobmwwZHJ0OEdrUlctNVBlclFJNmt0eWppUWhMQ0NmWlM2MjJBblNsLTdPaHIxeUp2MnZ5NWpKem5NTThlYWF2cW9SdGRMTnliT0J5d2p3dUlMY1duRDRtUkE?oc=5</guid>
@@ -679,34 +707,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/global/eurozone-business-activity-picks-up-in-continued-show-of-resilience-49628839</guid>
             <pubDate>Fri, 24 Oct 2025 14:17:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 美国、欧洲和亚洲经济活动的增加表明，面对更高的关税和强国之间关系的更大不确定性，全球经济仍然具有弹性。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧洲新的太空合并探索了 FOMO 前沿 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVVPMy1PZzJENFJ0UGt3VWlXNW9ydHMtSlVSdlEzeUVGcjRMQTNZTmlHbTFvS3B5aGphRzdyajA0VXpxVi1PUUdmTVJuV2xLS0FCLS1ydnZHdklmUjA5SEp6em9YYm1yMV9iNktDcEI5UEs1b0VzSnRwdGthbWFlbFZOZURhVk96N3ZTRDRlZU5OUWVnM3NhdkpmeVBpbnlkNWVoajZXT0tkRERNRDZj?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVVPMy1PZzJENFJ0UGt3VWlXNW9ydHMtSlVSdlEzeUVGcjRMQTNZTmlHbTFvS3B5aGphRzdyajA0VXpxVi1PUUdmTVJuV2xLS0FCLS1ydnZHdklmUjA5SEp6em9YYm1yMV9iNktDcEI5UEs1b0VzSnRwdGthbWFlbFZOZURhVk96N3ZTRDRlZU5OUWVnM3NhdkpmeVBpbnlkNWVoajZXT0tkRERNRDZj?oc=5</guid>
-            <pubDate>Fri, 24 Oct 2025 14:15:07 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 欧洲新的太空合并探索了 FOMO 前沿 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于通胀低于预期，美联储预计将进一步降息 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0dYbk5sQ0E0RExCRG1FVElvLXdYN2dYZUc2Z0lrYUM3al9hdmphNE9xeElaNlNMcUIzWmw1U2tsRW9haUNkeURNQk9LMG02dlRWOXoteEk3Z3FwcEVJMWcyM0VXb21ETTF6dnBKSUliWkxhVE9odEd6bGFLY09nTG5yYmJtOU5ZSHAwcFY2MmpTRnBaRjVFenJzdEk4dGZsT01Vdng1amhucTBUMWNLX2w3YWZ4cjRB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS0dYbk5sQ0E0RExCRG1FVElvLXdYN2dYZUc2Z0lrYUM3al9hdmphNE9xeElaNlNMcUIzWmw1U2tsRW9haUNkeURNQk9LMG02dlRWOXoteEk3Z3FwcEVJMWcyM0VXb21ETTF6dnBKSUliWkxhVE9odEd6bGFLY09nTG5yYmJtOU5ZSHAwcFY2MmpTRnBaRjVFenJzdEk4dGZsT01Vdng1amhucTBUMWNLX2w3YWZ4cjRB?oc=5</guid>
-            <pubDate>Fri, 24 Oct 2025 13:42:26 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于通胀低于预期，美联储预计将进一步降息 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[千亿市值岌岌可危！利润暴跌20%后，“中药茅”片仔癀靠什么翻盘？ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aU3ZjcENPdHZoRm1jTFhyZHhOQkdZTHRONXgwSEE2Q1hSR20ycGdKa0diRXVjVWdMUC1UVkNHS2NDU09WS1lEdzJyaGVaV1hwZGtv?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aU3ZjcENPdHZoRm1jTFhyZHhOQkdZTHRONXgwSEE2Q1hSR20ycGdKa0diRXVjVWdMUC1UVkNHS2NDU09WS1lEdzJyaGVaV1hwZGtv?oc=5</guid>
-            <pubDate>Fri, 24 Oct 2025 13:33:28 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 千亿市值岌岌可危！利润暴跌20%后，“中药茅”片仔癀靠什么翻盘？  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国实施新石油制裁后俄罗斯央行“象征性”下调关键利率50个基点 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUFXZUV4clJzdWlPa0lDWDZkY2JYdU5NMnl2cUxJaHc0Z2lxY1otVkFvQ0JGcVQzOHpBczVhb2dJS3RkOGpSWmJwR3NvWUlkY296Q0RjVW1NcWJVblRtRVRqc2s1YW93djJCeVZVS0tRc29Rd3VETDNoSGxFeG9LWG9hc1M0TjdHa3B6TkxSdno0aV9wUmVTcVdiRFpvbktfR3hnUVdHSXc1eVg5X2pMT0pmMHUzTzVqSU9NUWJWYjh5Zw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUFXZUV4clJzdWlPa0lDWDZkY2JYdU5NMnl2cUxJaHc0Z2lxY1otVkFvQ0JGcVQzOHpBczVhb2dJS3RkOGpSWmJwR3NvWUlkY296Q0RjVW1NcWJVblRtRVRqc2s1YW93djJCeVZVS0tRc29Rd3VETDNoSGxFeG9LWG9hc1M0TjdHa3B6TkxSdno0aV9wUmVTcVdiRFpvbktfR3hnUVdHSXc1eVg5X2pMT0pmMHUzTzVqSU9NUWJWYjh5Zw?oc=5</guid>
-            <pubDate>Fri, 24 Oct 2025 13:22:46 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国实施新的石油制裁后，俄罗斯央行“象征性”下调关键利率 50 个基点 路透]]></description>
         </item>
     </channel>
 </rss>
