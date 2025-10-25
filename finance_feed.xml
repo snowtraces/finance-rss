@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 25 Oct 2025 05:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 05:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -147,13 +147,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-25/japan-s-new-leadership-prods-investors-to-take-expansionary-bets</guid>
             <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 高市早苗作为日本新领导人的迅速崛起刺激了投资者，他们将股市推至历史新高，同时抛售长期政府债券并抛售日元。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国白酒制造商试图用温和的酒来吸引清醒的Z世代]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-25/china-baijiu-makers-try-to-woo-sober-gen-z-with-milder-liquor</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-25/china-baijiu-makers-try-to-woo-sober-gen-z-with-milder-liquor</guid>
-            <pubDate>Sat, 25 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 中国陷入困境的白酒酿酒商正在转向生产中国烈性白酒的温和版本，希望能吸引年轻一代的轻度饮酒者。]]></description>
         </item>
         <item>
             <title><![CDATA[华尔街周刊 | 高等教育中的人工智能、特朗普的关税打击莱索托、独角兽公司避免首次公开募股]]></title>
@@ -429,6 +422,13 @@
             <description><![CDATA[[Reuters Business] 消息人士称，俄罗斯第四大炼油厂在无人机袭击后暂停加工装置 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[福特股价三年来涨幅最大 通用汽车裁员数百人]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-10-24/gm-cuts-hundreds-of-workers-as-ford-profit-surges-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-24/gm-cuts-hundreds-of-workers-as-ford-profit-surges-video</guid>
+            <pubDate>Fri, 24 Oct 2025 16:45:25 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 通用汽车公司周五裁员数百人，而就在几天前，通用汽车公司提高了今年的利润指引，此举导致股价飙升。  福特汽车公司(Ford Motor Co.)表示，该公司明年将在很大程度上从一场毁灭性的火灾中恢复过来，这场火灾导致其最畅销的 F-150 皮卡的主要供应商陷入困境，导致股价创下三年多来的最大涨幅，同时缓解了对该汽车制造商最赚钱的公司之一的担忧。 彭博社的克雷格·特鲁德尔报道。  （来源：彭博社）]]></description>
+        </item>
+        <item>
             <title><![CDATA[中午涨幅最大的股票：福特汽车、Alphabet、阿拉斯加航空、Coinbase、波士顿啤酒等]]></title>
             <link>https://www.cnbc.com/2025/10/24/stocks-making-the-biggest-moves-midday-f-googl-alk-coin-sam-and-more.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/10/24/stocks-making-the-biggest-moves-midday-f-googl-alk-coin-sam-and-more.html</guid>
@@ -525,13 +525,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZE5wMHZOb0xkUDQ5Y0tfNVFHY29sX2ctLURTM3l3aWVxMmJTYkt3UDlhLTRaSFp6UFpCX1NzX2JHalQ4QWliVGxRN3BnTlV5NUFNQ3hEaVo5RTJPT3R3MzU5dGh5clBxOXFMM3kycUExWHU0OEY4RG9OYlI0dVpwNDFZNTFiamhDRHkzR1VmU2tlemZoWEp5Z0o2SFJpRWYwczY3a3dwdEduQWk1WHFwUWVvNGZBZzdHUlVkRFB6LVJJUjg?oc=5</guid>
             <pubDate>Fri, 24 Oct 2025 14:26:32 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 卡尼称加拿大已准备好与美国展开贸易谈判 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通用动力公司公务机交付量强劲，业绩超出预期 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOdS1pT3IzMUQtRmRTRnZQMUpsU2VrbGJhSWJpR3NqY1BqOEVURENrWUJNMU1xRU1JN1V1M1NERmk4THV5S0JCWjVzaEtLRzJjWTlxY2M4MkVIXzJkWWhGZU9MdFlXLTFRWEdaQ2ViTkNFcHVaMEFCdnJoVzhCYktLS0JMQmxjTzlYZ0hCY0lIckVFQmJxRmxtUlpiUUtKWW5KdTBWY1BfQWhRVjNGazVTTmtDN1F0Tm13S2tPUVEtWGt3UnNUWHozUUh4QTZWQQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxOdS1pT3IzMUQtRmRTRnZQMUpsU2VrbGJhSWJpR3NqY1BqOEVURENrWUJNMU1xRU1JN1V1M1NERmk4THV5S0JCWjVzaEtLRzJjWTlxY2M4MkVIXzJkWWhGZU9MdFlXLTFRWEdaQ2ViTkNFcHVaMEFCdnJoVzhCYktLS0JMQmxjTzlYZ0hCY0lIckVFQmJxRmxtUlpiUUtKWW5KdTBWY1BfQWhRVjNGazVTTmtDN1F0Tm13S2tPUVEtWGt3UnNUWHozUUh4QTZWQQ?oc=5</guid>
-            <pubDate>Fri, 24 Oct 2025 14:22:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 通用动力公司公务机交付量强劲，超出预期 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[美国和欧洲商业活动持续复苏]]></title>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2d3ZDhReG9LUEp0QUJDVnozd3hvMGFZSi1QdGVpSXlLd2VycjRyLTctTlQ5TTgtbzc4Vk5GdkZTa2hoOHNGS2VweERueDdsNVJlWTZ4eS1YSXlDRzc5QWplOE84aE9LLUp6WVdURlA3Sktqb01aT2J2d2hsUlZmTFNnZTVsbXdKS2ljVUx0eGVuN3d2Znl3YTVvWnMzbVZuRHZDaXBtbDhja1gwRmR6cldBaTQ?oc=5</guid>
             <pubDate>Fri, 24 Oct 2025 09:17:23 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国指控高管以 130 万美元向俄罗斯出售机密 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PMI显示欧元区商业活动增长随着需求跃升而加速 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFVVSTJDUXhNejJFYW1MVWtTT1hZbEk0X0hYaTZoNndXLWE2ZmxNVEVyY2c3OGJ5bHBlbXVBVl9XY1ViNWhucURqS2RxU0NDeWhuaEM1MXpQQk42NHlnajk3MlVCa1JwS3JyLU1ocGNXcmZGLWxtSVJEN3FueHAtOVdlZXA5aXpLZTgwR2JuZ3pDWkVZd0NuQWJINGNhOFhKd3NWMEFuQi1BUlE1TmQ5Qm1GcHQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFVVSTJDUXhNejJFYW1MVWtTT1hZbEk0X0hYaTZoNndXLWE2ZmxNVEVyY2c3OGJ5bHBlbXVBVl9XY1ViNWhucURqS2RxU0NDeWhuaEM1MXpQQk42NHlnajk3MlVCa1JwS3JyLU1ocGNXcmZGLWxtSVJEN3FueHAtOVdlZXA5aXpLZTgwR2JuZ3pDWkVZd0NuQWJINGNhOFhKd3NWMEFuQi1BUlE1TmQ5Qm1GcHQ?oc=5</guid>
+            <pubDate>Fri, 24 Oct 2025 09:12:20 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] PMI 显示欧元区商业活动增长随着需求跃升而加速 路透]]></description>
         </item>
     </channel>
 </rss>
