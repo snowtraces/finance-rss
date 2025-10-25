@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 25 Oct 2025 19:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 19:37:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国首部监管法案落地后 稳定币支付规模激增70%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3044422</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3044422</guid>
+            <pubDate>Sat, 25 Oct 2025 19:05:27 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[埃克森美孚起诉加州，称新绿色法违反言论]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-25/exxonmobil-sues-california-claims-new-green-laws-violate-speech</link>
@@ -41,7 +48,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-10-25/totalenergies-makes-call-to-end-force-majeure-at-mozambique-lng</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-25/totalenergies-makes-call-to-end-force-majeure-at-mozambique-lng</guid>
             <pubDate>Sat, 25 Oct 2025 16:01:23 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] TotalEnergies SE及其合作伙伴将结束莫桑比克液化天然气项目的不可抗力，为该出口码头在停工多年后正式重启工作铺平道路。]]></description>
+            <description><![CDATA[[Bloomberg] TotalEnergies SE及其合作伙伴将结束莫桑比克液化天然气项目的不可抗力，为出口码头在停工多年后正式重启铺平道路。]]></description>
         </item>
         <item>
             <title><![CDATA[“违规”“不提供任何检验和售后服务”，让酒企“发飙”的开盖酒是什么？]]></title>
@@ -219,13 +226,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[“Taco交易”再现，机构瞄准投资机会，APEC峰会成关键节点]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3044374</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3044374</guid>
-            <pubDate>Sat, 25 Oct 2025 10:05:27 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[安省省长的里根广告再次激怒特朗普 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOTThFMFhlbHhCR0hjaXNuSmxvMjNOR0R6ekw4V1gwTkktS1FqQWZDVW9ETHI2QmU3eWFZXzBFaFdJcDZoS3FmOFJSLTlobnFuaEZRX0dDUDZvaEREdDJpMGdla3h2dnBKQWxWdnI5aXVVR2lXNjhrMDU4M3BrcjFRRUV4czdSWUN1SGRZOEdsVnVleWNLT0J5RWg1MDZfZjMtbS1nUDZiOU5JcVNBZFg1VkpQWGdwNFVYMjUyWg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxOTThFMFhlbHhCR0hjaXNuSmxvMjNOR0R6ekw4V1gwTkktS1FqQWZDVW9ETHI2QmU3eWFZXzBFaFdJcDZoS3FmOFJSLTlobnFuaEZRX0dDUDZvaEREdDJpMGdla3h2dnBKQWxWdnI5aXVVR2lXNjhrMDU4M3BrcjFRRUV4czdSWUN1SGRZOEdsVnVleWNLT0J5RWg1MDZfZjMtbS1nUDZiOU5JcVNBZFg1VkpQWGdwNFVYMjUyWg?oc=5</guid>
@@ -387,7 +387,7 @@
             <description><![CDATA[[Bloomberg] 一家总部位于密苏里州的建筑设备租赁公司为快速增长提供资金，从私人债券市场大量借贷，该公司的债务价格周五大幅下跌，原因是与一名前董事会成员发生了法律纠纷，该公司已爆发欺诈和不当行为指控的对决。]]></description>
         </item>
         <item>
-            <title><![CDATA[巴西国家石油公司报告称，随着产量增加，第三季度石油出口创纪录 - 路透中文网]]></title>
+            <title><![CDATA[巴西国家石油公司报告称，随着产量增加，第三季度石油出口创历史新高 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUdRQzVGUkxsWUZheko5NVhzYXNLa0FGVXpwZ0o1c1JfcHM0SEpYTUptSVZ2Qm56MjJVbVE1SjY4Nk5VX1BMQTdCSFltaWxpOW5HeDl0LUdXODE1UVFqM0RKSlZBZUZfMzB0ZFpia3R5RTFQWjVJSWsybWd4Ym9YWTFFanVGV2tvOWxrNzdPN2V4YXJnTWRSdTZvVDNDLV9zYXBV?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQcUdRQzVGUkxsWUZheko5NVhzYXNLa0FGVXpwZ0o1c1JfcHM0SEpYTUptSVZ2Qm56MjJVbVE1SjY4Nk5VX1BMQTdCSFltaWxpOW5HeDl0LUdXODE1UVFqM0RKSlZBZUZfMzB0ZFpia3R5RTFQWjVJSWsybWd4Ym9YWTFFanVGV2tvOWxrNzdPN2V4YXJnTWRSdTZvVDNDLV9zYXBV?oc=5</guid>
             <pubDate>Sat, 25 Oct 2025 00:19:00 GMT</pubDate>
