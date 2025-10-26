@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 26 Oct 2025 05:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 06:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[哈里斯释放强烈暗示：可能再次竞选美国总统]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3044489</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3044489</guid>
+            <pubDate>Sun, 26 Oct 2025 06:05:26 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[巴西航空工业公司警告关税订单延迟和取消]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-26/embraer-warns-of-delays-and-cancellations-of-orders-on-tariffs</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-26/embraer-warns-of-delays-and-cancellations-of-orders-on-tariffs</guid>
+            <pubDate>Sun, 26 Oct 2025 05:56:01 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 巴西航空工业公司警告说，如果美国总统唐纳德·特朗普的惩罚性关税得到实施，该飞机制造商将面临订单取消和延误的问题。]]></description>
+        </item>
         <item>
             <title><![CDATA[【图解牛熊股】存储芯片概念涨幅居前，CPO概念股异动拉升]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3044487</link>
@@ -44,11 +58,11 @@
             <description><![CDATA[[Bloomberg] 唐纳德·特朗普总统抵达马来西亚，受到马来西亚总理安瓦尔·易卜拉欣的迎接。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[格里尔赞扬特习会前中国谈判取得进展]]></title>
+            <title><![CDATA[贝森特称中美达成特习会框架]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-26/us-china-trade-talks-approach-final-details-greer-says</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-26/us-china-trade-talks-approach-final-details-greer-says</guid>
             <pubDate>Sun, 26 Oct 2025 02:53:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国贸易代表杰米森·格里尔表示，美国和中国官员正在讨论马来西亚贸易协议提案的最终细节，双方正在为周四举行的领导人峰会做准备。]]></description>
+            <description><![CDATA[[Bloomberg] 美国财政部长斯科特·贝森特在马来西亚举行为期两天的会谈后表示，美国和中国官员为即将举行的领导人峰会达成了“非常成功”的框架。]]></description>
         </item>
         <item>
             <title><![CDATA[决定市场命运的一周，来了 - 华尔街见闻]]></title>
@@ -191,13 +205,6 @@
             <description><![CDATA[[Reuters Business] 美国可能因乌克兰战争而对俄罗斯实施更多制裁，但也希望欧洲加大压力 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美国首部监管法案落地后 稳定币支付规模激增70%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3044422</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3044422</guid>
-            <pubDate>Sat, 25 Oct 2025 19:05:27 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[埃克森美孚起诉加州，称新绿色法违反言论]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-25/exxonmobil-sues-california-claims-new-green-laws-violate-speech</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-25/exxonmobil-sues-california-claims-new-green-laws-violate-speech</guid>
@@ -230,7 +237,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-10-25/totalenergies-makes-call-to-end-force-majeure-at-mozambique-lng</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-25/totalenergies-makes-call-to-end-force-majeure-at-mozambique-lng</guid>
             <pubDate>Sat, 25 Oct 2025 16:01:23 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] TotalEnergies SE及其合作伙伴将结束莫桑比克液化天然气项目的不可抗力，为该出口码头在停工多年后正式重启工作铺平道路。]]></description>
+            <description><![CDATA[[Bloomberg] TotalEnergies SE及其合作伙伴将结束莫桑比克液化天然气项目的不可抗力，为出口码头在停工多年后正式重启铺平道路。]]></description>
         </item>
         <item>
             <title><![CDATA[法国社会主义者提出征收财富税作为拯救政府的提议]]></title>
@@ -338,6 +345,13 @@
             <description><![CDATA[[Bloomberg] 欧盟委员会主席乌苏拉·冯德莱恩表示，布鲁塞尔正在考虑所有选项来应对中国的稀土威胁。]]></description>
         </item>
         <item>
+            <title><![CDATA[英国电讯报称英国将削减11月预算中的免税现金储蓄津贴 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1ROcHVyQ2ZTMXRjUk5vNkZKbzRZV0NKVFpGbzVtclBiRGwxdGpDOV9fTENESVc0b1BfMkNqVm9iN0RXYWtLSmNRbThUYXItU1FWdDNrenhBYXhrcm9RVHJZM2k4elRkT09kQllacHc2VFpZQlBYLWlRVG0tSzlUS0dvOHFEblduaG5fREk4dHRxWXhlbmh1bzZSRzRFWE1ualY1YjhZTEVWQ1oxM3B5VXdKTW5DM1RBdU9nV19XMA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1ROcHVyQ2ZTMXRjUk5vNkZKbzRZV0NKVFpGbzVtclBiRGwxdGpDOV9fTENESVc0b1BfMkNqVm9iN0RXYWtLSmNRbThUYXItU1FWdDNrenhBYXhrcm9RVHJZM2k4elRkT09kQllacHc2VFpZQlBYLWlRVG0tSzlUS0dvOHFEblduaG5fREk4dHRxWXhlbmh1bzZSRzRFWE1ualY1YjhZTEVWQ1oxM3B5VXdKTW5DM1RBdU9nV19XMA?oc=5</guid>
+            <pubDate>Sat, 25 Oct 2025 09:51:26 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 英国电讯报称英国将削减 11 月预算中的免税现金储蓄津贴 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[美国因仪表板问题对超过 232,000 辆克莱斯勒汽车展开调查 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPd09VQ05qVDNncGV0R2g0dXc5dFdwVFVvSWNkNDRMQW9yR2Y1ZmtFTzdBNFdEZWlYa2w1QkhWQ2RSLXNIYmktX3puaklwU0F4Zk5zT3FnbVg3ME1UU1p5bHhxaE5oNzZkcC1NY1ZKQUhNYklIUHFrRHRleG5DdjdZcTJhYWpnWVE5MmFqd2FXbTJnYlVRTkRkNl9idk1YMkttWExSR1ZNMW1xellRZHYzY0dmcGxRcnB5Q3V6eUlR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxPd09VQ05qVDNncGV0R2g0dXc5dFdwVFVvSWNkNDRMQW9yR2Y1ZmtFTzdBNFdEZWlYa2w1QkhWQ2RSLXNIYmktX3puaklwU0F4Zk5zT3FnbVg3ME1UU1p5bHhxaE5oNzZkcC1NY1ZKQUhNYklIUHFrRHRleG5DdjdZcTJhYWpnWVE5MmFqd2FXbTJnYlVRTkRkNl9idk1YMkttWExSR1ZNMW1xellRZHYzY0dmcGxRcnB5Q3V6eUlR?oc=5</guid>
@@ -392,13 +406,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzg3N29EZjAwWTJCQUw0UVNhUjE0VXluRGhPUzFCQ1prQ2g0MktiNVJBejJpMVRfd0czY1F2UlJsU1VSeVhqY0M4NE5WM1RKMkpYeXZ4dkV3QS1XYVZXM1JsMlZHVmxJeUtaMENZVzdkTjhYMW1sMElPeGMzM1dVM0tqcmNEeE5ka3l1VDZtSEM3alk3MDJQSWxPVlRWc3Jpd05nVjFaSGFJRzBXemdZcno1cHZlSmc?oc=5</guid>
             <pubDate>Sat, 25 Oct 2025 07:17:08 GMT</pubDate>
             <description><![CDATA[[Reuters Business] NHTSA 称克莱斯勒将在美国召回超过 291,000 辆汽车 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德国公司交出中国可以利用的秘密]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-25/german-firms-hand-over-secrets-that-china-could-use-for-leverage</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-25/german-firms-hand-over-secrets-that-china-could-use-for-leverage</guid>
-            <pubDate>Sat, 25 Oct 2025 05:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 当德国企业努力应对中国对稀土的新管制时，他们正在向北京提供敏感的供应链信息，北京可能会利用这些信息来挤压制造商或关闭欧洲最大经济体的生产线。]]></description>
         </item>
         <item>
             <title><![CDATA[中国誓言保持市场稳定，深化人民币改革]]></title>
@@ -653,6 +660,13 @@
             <description><![CDATA[[Reuters Business] 遭受危机打击的保时捷季度亏损跌至 11 亿美元 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[随着收入下降，美国企业努力应对经济鸿沟 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGhqSHJoQ0FxQW5HVE5uLVpGS2JKSHlYeTlRTjRhZEdqVHh1bmFYdUtfZlFlS2FQb0FDYVhWVXdnWXkxUnB5eWd5V05fQ1dPZmczVThBMHdJc3ZTNk1aQnJwa21BYXhwOGpGMm9kNHV0UFZMMVA1Z0pqNHJDNWY3VU0xTFN4XzlVSW9zc1F5S19tNkF4QUxDdWJjWFVjN09vU2xoZjdzODlUOHkwUC1MSQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGhqSHJoQ0FxQW5HVE5uLVpGS2JKSHlYeTlRTjRhZEdqVHh1bmFYdUtfZlFlS2FQb0FDYVhWVXdnWXkxUnB5eWd5V05fQ1dPZmczVThBMHdJc3ZTNk1aQnJwa21BYXhwOGpGMm9kNHV0UFZMMVA1Z0pqNHJDNWY3VU0xTFN4XzlVSW9zc1F5S19tNkF4QUxDdWJjWFVjN09vU2xoZjdzODlUOHkwUC1MSQ?oc=5</guid>
+            <pubDate>Fri, 24 Oct 2025 17:36:56 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 随着收入下降，美国公司努力应对经济鸿沟 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[消息人士称，俄罗斯第四大炼油厂在无人机袭击后暂停加工装置 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOano1RXF6cmI0VDdXMlBHRXFIT3ROd3ZubEUyMVZPTklaZzByd2s1a2dHLUVNVzZVZjNKMlVsQThWZHdMZXN3NWtVUm0zd1Y2WnNPbFJyTk1kUzZONnh1YTVxV2hLREZzYzVZYjVTNjJCNWtDcmJ3d1V5QVc5ekE3M3RBNmNTcmFDZjk3eV9iWlpaMklzQm9mR0pfX29WeG5kZ2l1YjVmZmlhWGtXYjBDQnVqUWpoWEhLcUtacUdvX0lkSVpIa3dr?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxOano1RXF6cmI0VDdXMlBHRXFIT3ROd3ZubEUyMVZPTklaZzByd2s1a2dHLUVNVzZVZjNKMlVsQThWZHdMZXN3NWtVUm0zd1Y2WnNPbFJyTk1kUzZONnh1YTVxV2hLREZzYzVZYjVTNjJCNWtDcmJ3d1V5QVc5ekE3M3RBNmNTcmFDZjk3eV9iWlpaMklzQm9mR0pfX29WeG5kZ2l1YjVmZmlhWGtXYjBDQnVqUWpoWEhLcUtacUdvX0lkSVpIa3dr?oc=5</guid>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFI4cHZRX2RtdkQ5R2prRXBOcU1QdDZoaC05TEJDenZHb3dZcTdvWEJabFl6aGVZOXVNN0lzOFNJQnJ6THlkRXNiZnd1b2RoQmdjSV9fb3NISExGd1BleXJ2UHpkTDUxNFpjbTVkRjFVVkJVVXVMcEtlYlQ2bkhXU1lzZXN5NS10Z0YzSXJSS2JvT1RCbkdfdTlGTGRoejZaWmpISTJYSHhMMDZ5SEVva25vVWFkLVhjM1A2dXhBVXVHQnpCNFE?oc=5</guid>
             <pubDate>Fri, 24 Oct 2025 15:53:46 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 俄罗斯最大的印度石油买家信实集团表示将遵守西方制裁 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国机构向特斯拉询问“疯狂麦克斯”驾驶辅助模式 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2ptSHdqOUt5dE00SzUtXzE1M0VSNGtxeEtZN3U4Y3J2dzNQX2RKcl9DdGRXcXNBcmw2TDNOR3BUWWhaVnp2bDgyZ3gzVmV5Skhwc0FEMjdhbTJwM285SHhVcEhTb0h5Wkxwdk9HV0w3YUhmbm1XVVBYbUxvVDZTQ0tZUGhSTjRLOHZjLWt1ekV4TWhyYThKSlNQeXU5VWpSVFNkdkFwTnJmeHdhLXhvS1d1cGpIbEM4SGpXNnpXaEVlZ0U?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2ptSHdqOUt5dE00SzUtXzE1M0VSNGtxeEtZN3U4Y3J2dzNQX2RKcl9DdGRXcXNBcmw2TDNOR3BUWWhaVnp2bDgyZ3gzVmV5Skhwc0FEMjdhbTJwM285SHhVcEhTb0h5Wkxwdk9HV0w3YUhmbm1XVVBYbUxvVDZTQ0tZUGhSTjRLOHZjLWt1ekV4TWhyYThKSlNQeXU5VWpSVFNkdkFwTnJmeHdhLXhvS1d1cGpIbEM4SGpXNnpXaEVlZ0U?oc=5</guid>
-            <pubDate>Fri, 24 Oct 2025 15:49:21 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国机构向特斯拉询问“疯狂麦克斯”驾驶辅助模式 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[盘前涨幅最大的股票：英特尔、福特、Deckers、宝洁、Comfort Systems 等]]></title>
-            <link>https://www.cnbc.com/2025/10/24/stocks-making-the-biggest-moves-premarket-intel-ford-deckers-pg-comfort-systems-more.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/10/24/stocks-making-the-biggest-moves-premarket-intel-ford-deckers-pg-comfort-systems-more.html</guid>
-            <pubDate>Fri, 24 Oct 2025 15:46:53 GMT</pubDate>
-            <description><![CDATA[[CNBC] 看看哪些股票在盘前出现大幅波动。]]></description>
         </item>
     </channel>
 </rss>
