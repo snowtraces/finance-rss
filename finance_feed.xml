@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 30 Oct 2025 23:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 23:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[日本央行谨慎态度后等待两年期债券拍卖]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-30/japan-awaits-two-year-bond-auction-after-boj-s-cautious-tone</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-30/japan-awaits-two-year-bond-auction-after-boj-s-cautious-tone</guid>
+            <pubDate>Thu, 30 Oct 2025 23:21:57 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于猜测日本央行不会急于进行下一次加息，日本债券市场周五开始出售对政策敏感的两年期债券。]]></description>
+        </item>
         <item>
             <title><![CDATA[新股消息 | 汉森软件递表港交所 2024年收入在全球所有独立打印控制系统供应商中排名第一]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3055385</link>
@@ -44,11 +51,32 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
+            <title><![CDATA[美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE84U2xpT0Mtem5nY3JJME1RTFpLWFJMVnJLTko2OE1CeHgteGFpS2g0NTFkUWMyQVY1STB6SkRfenZyejQ2MzJ1eWxUd0J3OFFidG1R?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE84U2xpT0Mtem5nY3JJME1RTFpLWFJMVnJLTko2OE1CeHgteGFpS2g0NTFkUWMyQVY1STB6SkRfenZyejQ2MzJ1eWxUd0J3OFFidG1R?oc=5</guid>
+            <pubDate>Thu, 30 Oct 2025 23:00:32 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[人工智能狂热助长技术主导地位改写亚洲市场剧本]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-30/ai-frenzy-fueling-tech-dominance-rewrites-asia-s-market-playbook</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-30/ai-frenzy-fueling-tech-dominance-rewrites-asia-s-market-playbook</guid>
             <pubDate>Thu, 30 Oct 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 对人工智能的狂热帮助亚洲股市今年跑赢全球。 它还正在以一种让基金经理竞相跟上的方式改变该地区的市场。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着交易量激增，加密货币交易所 Coinbase 超出了华尔街的预期 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXZmM1d0S2hQZnBDS1d0QWxLd0lxRWd4WWNXSnRWUGNGc0lhX25oSE1KZDFjbXNsT1FCYldMYkJzRVB5NnNkZ01sT1N5aUZWZ2R6LVFvaWdzdXBCLXIzTEFtU3FSSHBMR3g3YWZDQkViVTd2Z0JZUnNaZTJ5UWViMmdlZlBlXzJrbDFtVkV0dXV4T3RiczZDS2VZNy1KY0pG?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxNSXZmM1d0S2hQZnBDS1d0QWxLd0lxRWd4WWNXSnRWUGNGc0lhX25oSE1KZDFjbXNsT1FCYldMYkJzRVB5NnNkZ01sT1N5aUZWZ2R6LVFvaWdzdXBCLXIzTEFtU3FSSHBMR3g3YWZDQkViVTd2Z0JZUnNaZTJ5UWViMmdlZlBlXzJrbDFtVkV0dXV4T3RiczZDS2VZNy1KY0pG?oc=5</guid>
+            <pubDate>Thu, 30 Oct 2025 22:57:05 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 随着交易量激增，加密货币交易所 Coinbase 超出了华尔街的预期 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[独家：Netflix 与银行探讨竞购华纳兄弟探索频道 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzBYd2cwemVCRzVDWFVjSDlLc0Eza0JIeDFzQWVTVEhpaFlSWk1aWmZuV3dkNGZWZVFYcG0yNF96SlRWLUdxd2N5YWpLOXJ6Mm9YZk5CX3dkdUQ0VFBrZFpneFRodVJsbEhmSm1PQ3pWOEhYWnViREVGTU9nWlNpamRiT3B6T0tvWmVIWGVhaFZraTlIbUx0N3ctMkpOTFJacGRxSElfbDdtWEVWYzVj?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzBYd2cwemVCRzVDWFVjSDlLc0Eza0JIeDFzQWVTVEhpaFlSWk1aWmZuV3dkNGZWZVFYcG0yNF96SlRWLUdxd2N5YWpLOXJ6Mm9YZk5CX3dkdUQ0VFBrZFpneFRodVJsbEhmSm1PQ3pWOEhYWnViREVGTU9nWlNpamRiT3B6T0tvWmVIWGVhaFZraTlIbUx0N3ctMkpOTFJacGRxSElfbDdtWEVWYzVj?oc=5</guid>
+            <pubDate>Thu, 30 Oct 2025 22:56:16 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 独家：Netflix 与银行探讨竞购华纳兄弟探索频道 路透]]></description>
         </item>
         <item>
             <title><![CDATA[迹象表明客户信心：爱德华·琼斯的彭宁顿]]></title>
@@ -118,7 +146,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-10-30/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-30/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Thu, 30 Oct 2025 22:29:06 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 亚马逊公司和苹果公司的强劲业绩引发了盘后科技股上涨，部分抵消了前一交易日的大量抛售。 亚洲股指期货涨跌互现，美国国债下跌，美元因美联储缓和降息预期而走强。]]></description>
+            <description><![CDATA[[Bloomberg] 亚马逊和苹果公司的强劲盈利引发盘后科技股上涨，部分抵消了前一交易日的大量抛售，美国股指期货在亚洲早盘上涨。]]></description>
         </item>
         <item>
             <title><![CDATA[美参议院通过终止特朗普全面关税政策决议 - 华尔街见闻]]></title>
@@ -294,13 +322,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-30/bloomberg-businessweek-daily-10-30-2025-video</guid>
             <pubDate>Thu, 30 Oct 2025 20:17:23 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 在今天的《彭博商业周刊》节目中，卡罗尔·马萨 (Carol Massar) 和蒂姆·斯特诺维克 (Tim Stenovec) 讨论了 Meta 破纪录的巨额债券发行，就在首席执行官马克·扎克伯格 (Mark Zuckerberg) 表示该公司正在寻求在人工智能领域大举投资的一天后。 彭博社的埃里克·韦纳 (Eric Weiner) 加入节目并对其进行了剖析。 同样在今天的节目中，加州大学圣地亚哥分校全球政策与战略学院院长卡罗琳·弗罗因德 (Caroline Freund) 详细介绍了特朗普总统与中国国家主席习近平的会面，Evercore ISI 互联网研究主管马克·马哈尼 (Mark Mahaney) 谈论了 Meta 的人工智能计划、微软盈利等。 此外，伊坎医学院神经病学副教授 Fanny Elahi 博士研究了如何识别和降低女性患阿尔茨海默病的风险。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Roblox 看到用户大幅增长，成本上升]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-30/roblox-sees-big-gain-in-users-driving-up-costs-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-30/roblox-sees-big-gain-in-users-driving-up-costs-video</guid>
-            <pubDate>Thu, 30 Oct 2025 20:13:37 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Roblox 报告称，由于热门游戏的用户增长，最新季度的综合净亏损为 2.574 亿美元。  Roblox 首席执行官 David Baszucki 在“彭博科技”节目中与 Caroline Hyde 和 Ed Ludlow 讨论了公司第三季度的收益。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[英特尔正在洽谈收购人工智能芯片初创公司 SambaNova]]></title>
@@ -534,13 +555,6 @@
             <description><![CDATA[[华尔街见闻] 交通银行的三季报：既能看到“热闹”，也能看到“门道”  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[百时美施贵宝 (Bristol Myers) 因 Opdivo 销售强劲而超出季度收入预期 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN1hIaXk2alhYRDJWSFFscXF3TU1Xd0RfVzF5U2RCZ0VzOEd1UzdLVmJ6NC0tQXI1aF8wQnpRM3dFTzU5WmlueTkybDJZcUF4ampYYXhJd2toWWpZZzNSN3BlNHR0V1Y2SzgwLUtxU0VJZEpIVHllQm1HcWhDRURsWXczcmxNLWtQU004RDFvdFRENUNTTU5QVDdDV2d0VmVFR1N4LUdmR2VoaDNrT3BJTEJ2NVc2d3FTREE1d3JfcXg3Sm1MZk1JZmFFcTA3UExvbjV2VFRn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN1hIaXk2alhYRDJWSFFscXF3TU1Xd0RfVzF5U2RCZ0VzOEd1UzdLVmJ6NC0tQXI1aF8wQnpRM3dFTzU5WmlueTkybDJZcUF4ampYYXhJd2toWWpZZzNSN3BlNHR0V1Y2SzgwLUtxU0VJZEpIVHllQm1HcWhDRURsWXczcmxNLWtQU004RDFvdFRENUNTTU5QVDdDV2d0VmVFR1N4LUdmR2VoaDNrT3BJTEJ2NVc2d3FTREE1d3JfcXg3Sm1MZk1JZmFFcTA3UExvbjV2VFRn?oc=5</guid>
-            <pubDate>Thu, 30 Oct 2025 14:05:10 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 百时美施贵宝 (Bristol Myers) 因 Opdivo 销售强劲而超出季度收入预期 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[诺和诺德表示对 Metsera 的收购要约遵守辉瑞交易的限制 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2k2Nk1QVWFhY0M3VF84azhLNEd4bXYyTUtEdkVqdlBiRmxKNmp2QWxXLUdMcGVOdDBnZV8yOVN5OFdEWmNvaXJYRVBJQjlUU09LZHBYMUxNWTlBUndCMTNRb292Mm5BM0liMDhZVFJqbVN1WFlmcVdiUzdfUm5lbnpvUzV1NkxJRjFhMXY4V2ZJbVU4bFJOdE9jdGJ0WVl2SlFKR3lMY2s5dWNYeXZPWUJWREUwV3NENDE0U212X0Y4WHNTd2tlWFlreVFSQTMybTBpbHhxM2cwQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2k2Nk1QVWFhY0M3VF84azhLNEd4bXYyTUtEdkVqdlBiRmxKNmp2QWxXLUdMcGVOdDBnZV8yOVN5OFdEWmNvaXJYRVBJQjlUU09LZHBYMUxNWTlBUndCMTNRb292Mm5BM0liMDhZVFJqbVN1WFlmcVdiUzdfUm5lbnpvUzV1NkxJRjFhMXY4V2ZJbVU4bFJOdE9jdGJ0WVl2SlFKR3lMY2s5dWNYeXZPWUJWREUwV3NENDE0U212X0Y4WHNTd2tlWFlreVFSQTMybTBpbHhxM2cwQQ?oc=5</guid>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxOZFpZSjJCdmdXOTFzNUppTjF4S0lpRzVic2FBOE9IVTRtekRaMUw1YzJnbnpGOWd2YmVmeW5vVTlkbVpSSnlqVnM5QU1GeVhUbTl6V0ZjUS1xQkJ4S1FfTWdYNXJzQ2xIR0FJYlJ0QWNjc0x3SmNNVmFtVG91OFFEV0Nn?oc=5</guid>
             <pubDate>Thu, 30 Oct 2025 11:34:24 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 早盘竞价：对“已成定局”的犹豫 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独家：OpenAI 为估值高达 1 万亿美元的巨头 IPO 奠定基础 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVFlSTVFKMUhBMkVOaVVJNzVfRXJDTFhNQ2xzTnk2eTl3YjNzbUtKdEcwN3BIQ2w2V1hfSlE1dGh5UmRLa3FrdHNGM09mZTZoTDJOSmkyYTRkbkkwSVg0bFpiT1ZxYVhLVU5HNHRTWndhMHRYc3FxUXByaFpSRFp2eVZHdTVkY0ZHVXlneHhfX2dVRHRWLUdJRFU3OGQtYnBuYWpaX0hGcUlZQQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVFlSTVFKMUhBMkVOaVVJNzVfRXJDTFhNQ2xzTnk2eTl3YjNzbUtKdEcwN3BIQ2w2V1hfSlE1dGh5UmRLa3FrdHNGM09mZTZoTDJOSmkyYTRkbkkwSVg0bFpiT1ZxYVhLVU5HNHRTWndhMHRYc3FxUXByaFpSRFp2eVZHdTVkY0ZHVXlneHhfX2dVRHRWLUdJRFU3OGQtYnBuYWpaX0hGcUlZQQ?oc=5</guid>
-            <pubDate>Thu, 30 Oct 2025 11:24:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：OpenAI 为估值高达 1 万亿美元的巨头 IPO 奠定基础 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[养老理财产品试点扩大至全国 鼓励发行10年期以上产品 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE45U3RzTXlVS0djUkE5bFhyN2JUWkduYVJFRHRhWlBoMEhfZGdFR3FlMFZzZGZwQnVNZDJJNFpqUUl3UERFSDdQUkltd1pFa0p4MEZfdnJHdTBoUVdaOUpYbTNn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE45U3RzTXlVS0djUkE5bFhyN2JUWkduYVJFRHRhWlBoMEhfZGdFR3FlMFZzZGZwQnVNZDJJNFpqUUl3UERFSDdQUkltd1pFa0p4MEZfdnJHdTBoUVdaOUpYbTNn?oc=5</guid>
-            <pubDate>Thu, 30 Oct 2025 11:19:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 养老理财产品试点扩大至全国 鼓励发行10年期以上产品  财新]]></description>
         </item>
     </channel>
 </rss>
