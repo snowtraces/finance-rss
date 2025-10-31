@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 31 Oct 2025 18:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 19:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[华尔街繁荣将使纽约预算赤字减少 30 亿美元]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-31/wall-street-boom-to-reduce-new-york-budget-deficit-by-3-billion</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/wall-street-boom-to-reduce-new-york-budget-deficit-by-3-billion</guid>
+            <pubDate>Fri, 31 Oct 2025 19:00:14 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 纽约州预计预算赤字将缩小超过 30 亿美元，因为该州预计股市将创纪录，华尔街奖金前景将改善。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase正在就20亿美元收购BVNK进行后期谈判 - 彭博社]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3057509</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3057509</guid>
+            <pubDate>Fri, 31 Oct 2025 18:54:52 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[五角大楼在“炸药屋”的描述中戳破了漏洞]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-10-31/pentagon-pokes-holes-in-a-house-of-dynamite-depiction-video</link>
@@ -135,7 +149,7 @@
             <description><![CDATA[[Bloomberg] 因与社交媒体帖子相关的交易而被美国起诉的著名卖空者安德鲁·莱夫特(Andrew Left)正在起诉一家总部位于多伦多的对冲基金，指控该基金的高管在向他付款的问题上向联邦调查人员撒谎，以“保全自己的利益”。]]></description>
         </item>
         <item>
-            <title><![CDATA[牛市迎来新的人工智能燃料 | 彭博未平仓合约 25 年 10 月 31 日]]></title>
+            <title><![CDATA[牛市迎来了新的人工智能燃料| 彭博未平仓合约 25 年 10 月 31 日]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-10-31/bloomberg-open-interest-10-31-25-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-31/bloomberg-open-interest-10-31-25-video</guid>
             <pubDate>Fri, 31 Oct 2025 17:14:58 GMT</pubDate>
@@ -191,13 +205,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[一场“榛子大战”，正在土耳其火热上演]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3057452</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057452</guid>
-            <pubDate>Fri, 31 Oct 2025 17:05:33 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[特朗普称他与中国习近平进行了“精彩”会面]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-10-31/trump-says-he-had-an-amazing-meeting-with-china-s-xi-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-31/trump-says-he-had-an-amazing-meeting-with-china-s-xi-video</guid>
@@ -238,13 +245,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/cenovus-says-meg-vote-delay-related-to-complaint-by-ex-employee</guid>
             <pubDate>Fri, 31 Oct 2025 16:38:20 GMT</pubDate>
             <description><![CDATA[[Bloomberg] Cenovus 首席执行官表示，MEG Energy Corp. 推迟了对 Cenovus Energy Inc. 76 亿加元（54 亿美元）收购提案的股东投票，原因是一名持有约 4,000 票的 MEG 前员工提出投诉。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Brightline 与通勤债券持有人达成还款协议]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-31/brightline-strikes-deal-with-commuter-bond-holders-on-repayment</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/brightline-strikes-deal-with-commuter-bond-holders-on-repayment</guid>
-            <pubDate>Fri, 31 Oct 2025 16:36:22 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Brightline 是 100 年来第一家新建的美国私人客运铁路，它与 9.85 亿美元市政债券的持有者达成协议，将债务回购推迟八个月。]]></description>
         </item>
         <item>
             <title><![CDATA[亚马逊乐观前景后华尔街预计月度强劲上涨 - 路透中文网]]></title>
@@ -457,11 +457,11 @@
             <description><![CDATA[[Reuters Business] 对于中国玩具制造商来说，贸易解冻带来了稳定，但疑虑依然存在 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[南向“ETF通”产品再扩容 含美股资产产品获纳入 - 财新]]></title>
+            <title><![CDATA[南向“ETF通”产品再扩容 含美股资产产品获纳入 - Caixin]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aN1FjWFhBTlhTLXZwdldKcGJsT0NtdTlLRWRIWDNCMGhKeVZaX0xTN3h4ZUVUZWJSS1kyb085Uy1BZlFtX2R1YmgzMUxSVVowUTNPSVJISlhfd1NxSHJOZkJR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aN1FjWFhBTlhTLXZwdldKcGJsT0NtdTlLRWRIWDNCMGhKeVZaX0xTN3h4ZUVUZWJSS1kyb085Uy1BZlFtX2R1YmgzMUxSVVowUTNPSVJISlhfd1NxSHJOZkJR?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 12:12:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 南向“ETF通”产品再扩容 含美股资产产品获纳入  财新]]></description>
+            <description><![CDATA[[财新网] 南向“ETF通”产品再扩容 含美股资产产品获纳入  Caixin]]></description>
         </item>
         <item>
             <title><![CDATA[“大空头”Burry隐晦警告：有时我们会看到泡沫，唯一获胜的招式就是不玩 - 华尔街见闻]]></title>
@@ -471,11 +471,11 @@
             <description><![CDATA[[华尔街见闻] “大空头”Burry隐晦警告：有时我们会看到泡沫，唯一获胜的招式就是不玩  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[公募业绩比较基准指引出炉 防止产品风格漂移 - 财新]]></title>
+            <title><![CDATA[公募业绩比较基准指引出炉 防止产品风格漂移 - Caixin]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PczFlXzhDUkhJU2M5NW16UzMzSmk4ZnBGSEhqNmkxQXZHUm9sOU10MzBISW0zQlJYZDNrQjhTSGUteXV4WU15bGtrWkpRQkF5WXZub2JxLUlHM2dmTTlNVVV3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PczFlXzhDUkhJU2M5NW16UzMzSmk4ZnBGSEhqNmkxQXZHUm9sOU10MzBISW0zQlJYZDNrQjhTSGUteXV4WU15bGtrWkpRQkF5WXZub2JxLUlHM2dmTTlNVVV3?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 11:49:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 公募业绩比较基准指引出炉 防止产品风格漂移  财新]]></description>
+            <description><![CDATA[[财新网] 公募业绩比较基准指引出炉 防止产品风格漂移  Caixin]]></description>
         </item>
         <item>
             <title><![CDATA[人工智能将谷歌云从失败者变成了 Alphabet 的增长动力 - 路透中文网]]></title>
@@ -499,7 +499,7 @@
             <description><![CDATA[[Reuters Business] 克里姆林宫向国防部提出有关俄罗斯导弹袭击乌克兰的问题 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[世卫组织表示现在更多国家发现了 MPOX，六周内非洲有 17 人死亡 - 路透中文网]]></title>
+            <title><![CDATA[世卫组织表示现在更多国家发现了 MPOX，非洲六周内有 17 人死亡 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVA3NlZOVTJXZ3U1MEJ6VEdNZVZ5QTV2a2wwNTQwNDN5c0dneXY1ZTE5ZWc4ckp2SWRPWUpQY3ZzMTFVaENsQmNjNGdYZ2VGaGRIMDJwVWRtamFvZW82ejIwTGxSNnVXbThUanRJRHo1dnJETkx4OXV3MG9IYUxxcXlWTUpUaC1jemFpQnpUMmtqZWpEeXZ3bktUeGoxQ09pUzNTWUFQbDJiWDlpTXNxQ1ZIbU1feHA5bUIxcGNqMV9tN2wzZG5QYlZRM0o0M0tFWENnN3ozeGJsd1VwTU0tLTdGeXA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVA3NlZOVTJXZ3U1MEJ6VEdNZVZ5QTV2a2wwNTQwNDN5c0dneXY1ZTE5ZWc4ckp2SWRPWUpQY3ZzMTFVaENsQmNjNGdYZ2VGaGRIMDJwVWRtamFvZW82ejIwTGxSNnVXbThUanRJRHo1dnJETkx4OXV3MG9IYUxxcXlWTUpUaC1jemFpQnpUMmtqZWpEeXZ3bktUeGoxQ09pUzNTWUFQbDJiWDlpTXNxQ1ZIbU1feHA5bUIxcGNqMV9tN2wzZG5QYlZRM0o0M0tFWENnN3ozeGJsd1VwTU0tLTdGeXA?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 11:21:37 GMT</pubDate>
@@ -562,11 +562,11 @@
             <description><![CDATA[[Reuters Business] 尽管竞争对手的公开上市重塑了格局，Coinbase 在美国加密货币竞争中仍保持优势 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[2025年国际金价已50次创新高 三季度全球黄金需求刷新历史纪录 - 财新]]></title>
+            <title><![CDATA[2025年国际金价已50次创新高 三季度全球黄金需求刷新历史纪录 - Caixin]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oQVNuWHZheTZGcTIzVmtMUU5ZY1RDenVjTXVublZIUVR0aGstT2NCVk9ReWxOMEFtRzhTSmdfZGVGWTNLY2U1ajUxSUhmTWFlSkVUV1NXakJ3U0pzYi1YbHln?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oQVNuWHZheTZGcTIzVmtMUU5ZY1RDenVjTXVublZIUVR0aGstT2NCVk9ReWxOMEFtRzhTSmdfZGVGWTNLY2U1ajUxSUhmTWFlSkVUV1NXakJ3U0pzYi1YbHln?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 09:59:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 2025年国际金价已50次创新高 三季度全球黄金需求刷新历史纪录  财新]]></description>
+            <description><![CDATA[[财新网] 2025年国际金价已50次创新高 三季度全球黄金需求刷新历史纪录  Caixin]]></description>
         </item>
         <item>
             <title><![CDATA[为了抢印度AI市场，谷歌、OpenAI、Perplexity集体送会员！ - 华尔街见闻]]></title>
@@ -590,11 +590,11 @@
             <description><![CDATA[[Reuters Business] 消息人士称，俄罗斯支持的受制裁印度炼油厂将原油产量提高至 90% 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[央行：清理整合跨境人民币相关政策 消除不同渠道政策差异 - 财新]]></title>
+            <title><![CDATA[央行：清理整合跨境人民币相关政策 消除不同渠道政策差异 - Caixin]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BR09QQ3dGMHQ1X3ZjOWs1eW5zdE1VWUFPN0I2cW13eWdrMUJnRnNROHQxck9YU0o2QnB0RnFheGlQNGI0YkFIMWwyaVZtQXlic3hWTng4NTduakVnb2wwQ01R?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BR09QQ3dGMHQ1X3ZjOWs1eW5zdE1VWUFPN0I2cW13eWdrMUJnRnNROHQxck9YU0o2QnB0RnFheGlQNGI0YkFIMWwyaVZtQXlic3hWTng4NTduakVnb2wwQ01R?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 09:49:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 央行：清理整合跨境人民币相关政策 消除不同渠道政策差异  财新]]></description>
+            <description><![CDATA[[财新网] 央行：清理整合跨境人民币相关政策 消除不同渠道政策差异  Caixin]]></description>
         </item>
         <item>
             <title><![CDATA[第五次：11 月统治 - 路透社]]></title>
@@ -625,18 +625,18 @@
             <description><![CDATA[[Reuters Business] 欧洲央行调查显示，欧元区商业状况改善，人工智能蓬勃发展 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[保险人群预期寿命持续提升 保费要降？ - 财新]]></title>
+            <title><![CDATA[保险人群预期寿命持续提升 保费要降？ - Caixin]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WcXIzNzNwWGZ5U3I5R2lnU2F6WnY4WDIwZUdHa2E2cExvbmYxTHZhMDN3bEFYQndndExNaFpvVzBjNTIyWVVlcWhuM2g3cnlncFRVTEJiRjZ3OFBYNGN3M2VB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WcXIzNzNwWGZ5U3I5R2lnU2F6WnY4WDIwZUdHa2E2cExvbmYxTHZhMDN3bEFYQndndExNaFpvVzBjNTIyWVVlcWhuM2g3cnlncFRVTEJiRjZ3OFBYNGN3M2VB?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 08:48:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 保险人群预期寿命持续提升 保费要降？  财新]]></description>
+            <description><![CDATA[[财新网] 保险人群预期寿命持续提升 保费要降？  Caixin]]></description>
         </item>
         <item>
-            <title><![CDATA[人身险预定利率研究值降至1.9% 产品暂时无需“降息” - 财新]]></title>
+            <title><![CDATA[人身险预定利率研究值降至1.9% 产品暂时无需“降息” - Caixin]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nWW1sWGhtTEFuakRrTEFCS2trUENTZ3BDTGV5bmdoQzdWaTNpU0J2LTBkN01tS0NTM0NqaGhMekpjM3dwLWlSX1A3SXZoX3ZQQnh2MC16NnpFSWJMdklYRzNn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nWW1sWGhtTEFuakRrTEFCS2trUENTZ3BDTGV5bmdoQzdWaTNpU0J2LTBkN01tS0NTM0NqaGhMekpjM3dwLWlSX1A3SXZoX3ZQQnh2MC16NnpFSWJMdklYRzNn?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 08:40:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 人身险预定利率研究值降至1.9% 产品暂时无需“降息”  财新]]></description>
+            <description><![CDATA[[财新网] 人身险预定利率研究值降至1.9% 产品暂时无需“降息”  Caixin]]></description>
         </item>
         <item>
             <title><![CDATA[铜价突破“11000美元上限”！高盛“唱空”：任何突破都是暂时的，明年初铜价将逆转 - 华尔街见闻]]></title>
