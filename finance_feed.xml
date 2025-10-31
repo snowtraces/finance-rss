@@ -4,10 +4,73 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 31 Oct 2025 17:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 17:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[未来一周外汇、债券：美国 ISM 数据成为焦点]]></title>
+            <link>https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-ism-data-in-focus-0791eaac</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-ism-data-in-focus-0791eaac</guid>
+            <pubDate>Fri, 31 Oct 2025 17:27:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 投资者将密切关注美国ISM调查数据，评估美联储是否会在12月再次降息。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Orange将以42.5亿欧元收购MasOrange剩余50%股权]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3057470</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3057470</guid>
+            <pubDate>Fri, 31 Oct 2025 17:22:27 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[卖空者安德鲁·莱夫特 (Andrew Left) 表示，对冲基金在交易调查中就付款问题向 SEC 撒谎]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-10-31/short-seller-andrew-left-says-hedge-fund-lied-to-sec-about-payment-to-him</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/short-seller-andrew-left-says-hedge-fund-lied-to-sec-about-payment-to-him</guid>
+            <pubDate>Fri, 31 Oct 2025 17:21:50 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 因与社交媒体帖子相关的交易而被美国起诉的著名卖空者安德鲁·莱夫特(Andrew Left)正在起诉一家总部位于多伦多的对冲基金，指控该基金的高管在向他付款的问题上向联邦调查人员撒谎，以“保全自己的利益”。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英国股市收低；截至收盘Investing.com 英国 100下跌0.40%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3057461</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057461</guid>
+            <pubDate>Fri, 31 Oct 2025 17:09:53 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[西班牙股市收低；截至收盘西班牙IBEX35指数下跌0.04%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3057460</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057460</guid>
+            <pubDate>Fri, 31 Oct 2025 17:09:20 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[葡萄牙股市收低；截至收盘PSI下跌0.23%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3057459</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057459</guid>
+            <pubDate>Fri, 31 Oct 2025 17:08:48 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[荷兰股市收低；截至收盘荷兰AEX指数下跌1.03%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3057458</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057458</guid>
+            <pubDate>Fri, 31 Oct 2025 17:08:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[意大利股市上涨；截至收盘Investing.com 意大利 40上涨0.01%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3057456</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057456</guid>
+            <pubDate>Fri, 31 Oct 2025 17:07:43 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[德国股市收低；截至收盘DAX 30下跌0.68%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3057455</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057455</guid>
+            <pubDate>Fri, 31 Oct 2025 17:06:52 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[法国股市收低；截至收盘法国CAC40指数下跌0.44%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3057453</link>
@@ -27,27 +90,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3057451</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057451</guid>
             <pubDate>Fri, 31 Oct 2025 17:05:32 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新一轮抢锂大战蓄势待发？盛新锂能发起定增 中创新航等下游重金入股 |速读公告]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3057450</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057450</guid>
-            <pubDate>Fri, 31 Oct 2025 17:05:31 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[比利时股市收低；截至收盘比利时BEL20指数下跌0.80%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3057449</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057449</guid>
-            <pubDate>Fri, 31 Oct 2025 17:05:15 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芬兰股市收低；截至收盘芬兰OMX赫尔辛基25指数下跌0.81%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3057446</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057446</guid>
-            <pubDate>Fri, 31 Oct 2025 17:00:16 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -86,34 +128,6 @@
             <description><![CDATA[[CNBC] 这些是中午涨幅最大的一些股票。]]></description>
         </item>
         <item>
-            <title><![CDATA[Affirm股价因扩大与New York Life资本合作伙伴关系而上涨]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3057436</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3057436</guid>
-            <pubDate>Fri, 31 Oct 2025 16:48:09 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Canaan股价飙升，因暂停2025年剩余时间的ATM发行计划]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3057432</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3057432</guid>
-            <pubDate>Fri, 31 Oct 2025 16:43:04 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[波兰股市收低；截至收盘波兰华沙WIG30指数下跌1.32%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3057430</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057430</guid>
-            <pubDate>Fri, 31 Oct 2025 16:40:15 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Eos Energy股票在获得英国大型能源存储订单后反弹]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3057429</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3057429</guid>
-            <pubDate>Fri, 31 Oct 2025 16:39:33 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[Cenovus 称 MEG 投票延迟与前员工投诉有关]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-31/cenovus-says-meg-vote-delay-related-to-complaint-by-ex-employee</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/cenovus-says-meg-vote-delay-related-to-complaint-by-ex-employee</guid>
@@ -135,7 +149,7 @@
             <description><![CDATA[[Reuters Business] 埃克森美孚因圭亚那和二叠纪产量增加而超出第三季度利润预期 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Coinbase CEO 特技暴露了预测市场的漏洞]]></title>
+            <title><![CDATA[Coinbase CEO 特技暴露预测市场漏洞]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-10-31/coinbase-ceo-stunt-exposes-vulnerability-in-prediction-markets</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/coinbase-ceo-stunt-exposes-vulnerability-in-prediction-markets</guid>
             <pubDate>Fri, 31 Oct 2025 16:30:54 GMT</pubDate>
@@ -161,6 +175,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTlRoVzFmbjdfa3dhQmlReEQ3dFZwS3liQTNoeVJwN1BvSnVsNVNyNlJuR1dqaVdjYVFLSGd4cFVuVzB5T1ZQWDczeE5iaV9GX1RCeGJOcXV4Q3BQZm9xRnhzVFhZNm5qSlFaNEEwcGN5My1GZWdYOWk0WGt6VXBRWHI1aVd5TUhzbFB3Tk43OUQycEJscmtKQWJwLWFzVGdac2o2TjNOUkV1SFlwMV9Yam1OaWNHSTF3MXJ6bnNXNEw?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 16:22:07 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 人工智能热潮推动 AWS 云部门强劲增长，亚马逊股价飙升 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[赫斯交易后，雪佛龙第三季度盈利创历史新高，超出预期 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWTF0OTQ5eFEzckFSY2wzY2hUWjNoVUxiNHJTMHFtZkRHcVpyVlBLSnNaZ2pmbEpFYVhjQVNLMXZCRjAzeTRwTC1JUkR1UHBSbUpfRno4YTVHN3pVMHdwMDU1ZnpmYWxZRnp4Yi1XQTdlTkJqcGo1b3lTclRDSGZ0ek5VOGo1azY0ZDYzeWxBSEVIUXlteFg4UDZrQWQyUWRucXliT2pGMDNtMGV5S0loR2kxZm5IV0J2OEh6WV9VeVhFaXM?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWTF0OTQ5eFEzckFSY2wzY2hUWjNoVUxiNHJTMHFtZkRHcVpyVlBLSnNaZ2pmbEpFYVhjQVNLMXZCRjAzeTRwTC1JUkR1UHBSbUpfRno4YTVHN3pVMHdwMDU1ZnpmYWxZRnp4Yi1XQTdlTkJqcGo1b3lTclRDSGZ0ek5VOGo1azY0ZDYzeWxBSEVIUXlteFg4UDZrQWQyUWRucXliT2pGMDNtMGV5S0loR2kxZm5IV0J2OEh6WV9VeVhFaXM?oc=5</guid>
+            <pubDate>Fri, 31 Oct 2025 16:20:45 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 赫斯交易后，雪佛龙第三季度盈利创历史新高，超出预期 路透]]></description>
         </item>
         <item>
             <title><![CDATA[联合国数据显示，外国投资将连续第三年下降]]></title>
@@ -209,7 +230,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-10-31/blue-owl-s-lipschultz-says-private-credit-ecosystem-is-very-healthy</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-31/blue-owl-s-lipschultz-says-private-credit-ecosystem-is-very-healthy</guid>
             <pubDate>Fri, 31 Oct 2025 15:30:23 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Blue Owl Capital Inc. 联席首席执行官马克·利普舒尔茨 (Marc Lipschultz) 表示，对私人信贷行业的担忧有些过分，财富流动正在加速。 他表示，投资者正在“看穿噪音”和“大众的歇斯底里”。 他还表示，该公司的投资组合公司非常健康，技术正在提高一些公司的生产力。 他在“彭博社未平仓合约”上发表讲话。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] Blue Owl Capital Inc. 联席首席执行官马克·利普舒尔茨 (Marc Lipschultz) 表示，对私人信贷行业的担忧被夸大了，财富流动正在加速。 他表示，投资者正在“看穿噪音”和“大众的歇斯底里”。 他还表示，该公司的投资组合公司非常健康，技术正在提高一些公司的生产力。 他在“彭博社未平仓合约”上发表讲话。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[东盟的区块链]]></title>
@@ -223,7 +244,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-10-31/wall-street-packages-up-american-state-capitalism-into-an-etf</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/wall-street-packages-up-american-state-capitalism-into-an-etf</guid>
             <pubDate>Fri, 31 Oct 2025 15:26:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 华尔街正在顺应美国国家资本主义的时代——追踪它、包装它并通过新的 ETF 将其返还给投资者。]]></description>
+            <description><![CDATA[[Bloomberg] 华尔街正乘着美国国家资本主义的时代——追踪它、包装它并通过新的 ETF 将其返还给投资者。]]></description>
         </item>
         <item>
             <title><![CDATA[由于通胀担忧加剧，美联储施密德投票反对降息]]></title>
@@ -238,6 +259,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/argentina-midterm-election-kirchner-blames-kicillof-for-loss-to-milei</guid>
             <pubDate>Fri, 31 Oct 2025 15:26:09 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 阿根廷前总统克里斯蒂娜·费尔南德斯·德基什内尔指责她的弟子之一、布宜诺斯艾利斯省长阿克塞尔·基西洛夫在上周日的中期选举中惨败给哈维尔·米莱，这是迄今为止庇隆主义运动再次陷入内讧的最明显迹象。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个"工业AI云"！ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTHdMdnRyUVB0czhfWFBfNFQwdkk4bWN5TjJnbTVNUzlhanFqMlZ5elVyY21CS1I2c0lsTGxxVGJ3Wl91V3BwTTBZN0Z3R0E2dlA0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTHdMdnRyUVB0czhfWFBfNFQwdkk4bWN5TjJnbTVNUzlhanFqMlZ5elVyY21CS1I2c0lsTGxxVGJ3Wl91V3BwTTBZN0Z3R0E2dlA0?oc=5</guid>
+            <pubDate>Fri, 31 Oct 2025 15:25:59 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个"工业AI云"！  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[诺和诺德首席执行官表示影响 9,000 名员工的裁员即将完成 - 路透中文网]]></title>
@@ -289,20 +317,6 @@
             <description><![CDATA[[Bloomberg] 主要石油生产商表示，化学品市场的低迷状况几乎没有缓解的迹象，中国供应激增和需求低迷继续抑制市场。]]></description>
         </item>
         <item>
-            <title><![CDATA[亚洲的 ESG 时刻：将承诺转化为进步]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-31/asia-s-esg-moment-turning-pledges-into-progress-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-31/asia-s-esg-moment-turning-pledges-into-progress-video</guid>
-            <pubDate>Fri, 31 Oct 2025 14:41:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] City Developments Limited 首席可持续发展官 Esther An、印度尼西亚可持续发展商业理事会执行董事 Indah Budiani 和 Masverse 首席执行官 Chew Kian Kok 在吉隆坡东盟峰会上与彭博社的 Ram Anand 共同探讨亚洲如何将可持续发展承诺转化为可衡量的成果。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[东盟的人工智能：绘制下一个前沿]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-10-31/ai-in-asean-charting-the-next-frontier-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-31/ai-in-asean-charting-the-next-frontier-video</guid>
-            <pubDate>Fri, 31 Oct 2025 14:36:23 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 马来西亚国家人工智能办公室首席执行官 Sam Majid 在吉隆坡东盟峰会上与彭博社的马克·道森 (Mark Dawson) 讨论了该地区人工智能的未来、影响其发展的政策以及未​​来的机遇和风险。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国儿科医生组织建议不要常规使用治疗自闭症药物 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaTNqNWdiVFFyR2d4RFQ1ZlpRdEgtajM5Q3BTdHlGM1JNdFE5UDIxbTF2d3RFVFBZLTI1T3lDYWJYZm9QT0xEUFJmYUpJaTdBYm9oUDBVYnl5NnBHSjdSOHZnLXhlVDN1TWdfS25JSVc1WnV1dEI3cTZVNGdvWmRvbGM2T1plZTBvcmJETi1ObzB6VVMzbVROMUxua2tXUFZmVlFncTNFSWdnRWxjNjZjTXBsd3dwVEYtVGYyMjZVbWtCUGM2OUk1eTQ1R2NxczZfb3c?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaTNqNWdiVFFyR2d4RFQ1ZlpRdEgtajM5Q3BTdHlGM1JNdFE5UDIxbTF2d3RFVFBZLTI1T3lDYWJYZm9QT0xEUFJmYUpJaTdBYm9oUDBVYnl5NnBHSjdSOHZnLXhlVDN1TWdfS25JSVc1WnV1dEI3cTZVNGdvWmRvbGM2T1plZTBvcmJETi1ObzB6VVMzbVROMUxua2tXUFZmVlFncTNFSWdnRWxjNjZjTXBsd3dwVEYtVGYyMjZVbWtCUGM2OUk1eTQ1R2NxczZfb3c?oc=5</guid>
@@ -352,6 +366,13 @@
             <description><![CDATA[[华尔街见闻] 美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[两位美联储官员放鹰：就业市场趋稳但通胀仍高，12月降息希望渺茫 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TEJlNlczRFBkTjVhSHdhYWpJNm1kSFBGVndraDUxWk1GLXpNZmZZeXNsb1ZDVWVUeHlLNTZVNXVSU0o4M3R4Wi1wN0otd2l6RzhJ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TEJlNlczRFBkTjVhSHdhYWpJNm1kSFBGVndraDUxWk1GLXpNZmZZeXNsb1ZDVWVUeHlLNTZVNXVSU0o4M3R4Wi1wN0otd2l6RzhJ?oc=5</guid>
+            <pubDate>Fri, 31 Oct 2025 13:16:42 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 两位美联储官员放鹰：就业市场趋稳但通胀仍高，12月降息希望渺茫  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[由于美元和OPEC+供应承压，油价将连续第三个月下跌 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDZVemx0VUoyM2dxdUVHMnJBYmZHQkVTOUp6dmxSN1ZfbXR4QXJCaGpOdVo1OXUtd2hnRXk4MS1LZzRPc1IzMXFkM3I2eE05X21ZS3ZqVUtpNFpXY0R4eUFIRGJ4S0dzX2xRbjBIVVNUUnA3OHNhcHNnOWRVUTRwRkJOMGZXRFowV0ZJZGlxdVkwcldJbm9jWlRhWVZNRkwzdXZXR0toVFk0Z3lqdjVXV3lfX2hzR0k?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDZVemx0VUoyM2dxdUVHMnJBYmZHQkVTOUp6dmxSN1ZfbXR4QXJCaGpOdVo1OXUtd2hnRXk4MS1LZzRPc1IzMXFkM3I2eE05X21ZS3ZqVUtpNFpXY0R4eUFIRGJ4S0dzX2xRbjBIVVNUUnA3OHNhcHNnOWRVUTRwRkJOMGZXRFowV0ZJZGlxdVkwcldJbm9jWlRhWVZNRkwzdXZXR0toVFk0Z3lqdjVXV3lfX2hzR0k?oc=5</guid>
@@ -387,18 +408,18 @@
             <description><![CDATA[[CNBC] 这些是盘前交易中涨幅最大的一些股票。]]></description>
         </item>
         <item>
-            <title><![CDATA[美联储Schmid：就业市场总体平衡，通胀过高 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TEJlNlczRFBkTjVhSHdhYWpJNm1kSFBGVndraDUxWk1GLXpNZmZZeXNsb1ZDVWVUeHlLNTZVNXVSU0o4M3R4Wi1wN0otd2l6RzhJ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TEJlNlczRFBkTjVhSHdhYWpJNm1kSFBGVndraDUxWk1GLXpNZmZZeXNsb1ZDVWVUeHlLNTZVNXVSU0o4M3R4Wi1wN0otd2l6RzhJ?oc=5</guid>
-            <pubDate>Fri, 31 Oct 2025 12:33:13 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 美联储Schmid：就业市场总体平衡，通胀过高  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[更多退休投资者选择“足够好”的股票投资组合策略来保护他们的市场资金]]></title>
             <link>https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html</guid>
             <pubDate>Fri, 31 Oct 2025 12:30:01 GMT</pubDate>
             <description><![CDATA[[CNBC] 退休人员处境艰难，需要股市增长来对抗通货膨胀，但他们的个人理财计划无法承受市场的重大调整。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[国常会：研究深化重点领域改革扩大制度型开放工作，部署加快场景培育和开放推动新场景大规模应用有关举措 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE42ZjZ5cmJ2NWhycnY0cFdrY21QMGY0VmowTjdGOEhYZzlBeTItVVUxbGF0MzZURFpXYW8wcE9hQ2p2SnozZ0NwRTJyMkJDOU55UERn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE42ZjZ5cmJ2NWhycnY0cFdrY21QMGY0VmowTjdGOEhYZzlBeTItVVUxbGF0MzZURFpXYW8wcE9hQ2p2SnozZ0NwRTJyMkJDOU55UERn?oc=5</guid>
+            <pubDate>Fri, 31 Oct 2025 12:18:06 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 国常会：研究深化重点领域改革扩大制度型开放工作，部署加快场景培育和开放推动新场景大规模应用有关举措  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[对于中国玩具制造商来说，贸易解冻带来了稳定，但疑虑依然存在 - 路透中文网]]></title>
@@ -429,13 +450,6 @@
             <description><![CDATA[[财新网] 公募业绩比较基准指引出炉 防止产品风格漂移  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[赫斯交易后，雪佛龙第三季度盈利创历史新高，超出预期 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWTF0OTQ5eFEzckFSY2wzY2hUWjNoVUxiNHJTMHFtZkRHcVpyVlBLSnNaZ2pmbEpFYVhjQVNLMXZCRjAzeTRwTC1JUkR1UHBSbUpfRno4YTVHN3pVMHdwMDU1ZnpmYWxZRnp4Yi1XQTdlTkJqcGo1b3lTclRDSGZ0ek5VOGo1azY0ZDYzeWxBSEVIUXlteFg4UDZrQWQyUWRucXliT2pGMDNtMGV5S0loR2kxZm5IV0J2OEh6WV9VeVhFaXM?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWTF0OTQ5eFEzckFSY2wzY2hUWjNoVUxiNHJTMHFtZkRHcVpyVlBLSnNaZ2pmbEpFYVhjQVNLMXZCRjAzeTRwTC1JUkR1UHBSbUpfRno4YTVHN3pVMHdwMDU1ZnpmYWxZRnp4Yi1XQTdlTkJqcGo1b3lTclRDSGZ0ek5VOGo1azY0ZDYzeWxBSEVIUXlteFg4UDZrQWQyUWRucXliT2pGMDNtMGV5S0loR2kxZm5IV0J2OEh6WV9VeVhFaXM?oc=5</guid>
-            <pubDate>Fri, 31 Oct 2025 11:34:46 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 赫斯交易后，雪佛龙第三季度盈利创历史新高，超出预期 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[人工智能将谷歌云从失败者变成了 Alphabet 的增长动力 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHEzZDFVQ1hOU0hYeFFBWEV4ZnNJR0ZCaXRabkpSVm1lZ2lqOFJEekc2VlhLQ21VRkFRNTJTYWFQT1ZGQUFUbTJ4OFNaVFl2SUlPYkN3czdGLVZlQThqaVlSNThRTXB4VkJWb1JSNS1PV0h6aHZfczc0SlZUbFRWeGl3Rjc3bmlldS14ajA5V21xZDNrcXJ0XzNqTnV1OVluanVRSjZBRXk?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHEzZDFVQ1hOU0hYeFFBWEV4ZnNJR0ZCaXRabkpSVm1lZ2lqOFJEekc2VlhLQ21VRkFRNTJTYWFQT1ZGQUFUbTJ4OFNaVFl2SUlPYkN3czdGLVZlQThqaVlSNThRTXB4VkJWb1JSNS1PV0h6aHZfczc0SlZUbFRWeGl3Rjc3bmlldS14ajA5V21xZDNrcXJ0XzNqTnV1OVluanVRSjZBRXk?oc=5</guid>
@@ -457,7 +471,7 @@
             <description><![CDATA[[Reuters Business] 克里姆林宫向国防部提出有关俄罗斯导弹袭击乌克兰的问题 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[世卫组织表示现在更多国家发现了 MPOX，非洲六周内有 17 人死亡 - 路透中文网]]></title>
+            <title><![CDATA[世卫组织表示现在更多国家发现了 MPOX，六周内非洲有 17 人死亡 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVA3NlZOVTJXZ3U1MEJ6VEdNZVZ5QTV2a2wwNTQwNDN5c0dneXY1ZTE5ZWc4ckp2SWRPWUpQY3ZzMTFVaENsQmNjNGdYZ2VGaGRIMDJwVWRtamFvZW82ejIwTGxSNnVXbThUanRJRHo1dnJETkx4OXV3MG9IYUxxcXlWTUpUaC1jemFpQnpUMmtqZWpEeXZ3bktUeGoxQ09pUzNTWUFQbDJiWDlpTXNxQ1ZIbU1feHA5bUIxcGNqMV9tN2wzZG5QYlZRM0o0M0tFWENnN3ozeGJsd1VwTU0tLTdGeXA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVA3NlZOVTJXZ3U1MEJ6VEdNZVZ5QTV2a2wwNTQwNDN5c0dneXY1ZTE5ZWc4ckp2SWRPWUpQY3ZzMTFVaENsQmNjNGdYZ2VGaGRIMDJwVWRtamFvZW82ejIwTGxSNnVXbThUanRJRHo1dnJETkx4OXV3MG9IYUxxcXlWTUpUaC1jemFpQnpUMmtqZWpEeXZ3bktUeGoxQ09pUzNTWUFQbDJiWDlpTXNxQ1ZIbU1feHA5bUIxcGNqMV9tN2wzZG5QYlZRM0o0M0tFWENnN3ozeGJsd1VwTU0tLTdGeXA?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 11:21:37 GMT</pubDate>
@@ -625,13 +639,6 @@
             <description><![CDATA[[Reuters Business] 英国10月房价上涨，无视预算前的紧张情绪 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个"工业AI云"！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTHdMdnRyUVB0czhfWFBfNFQwdkk4bWN5TjJnbTVNUzlhanFqMlZ5elVyY21CS1I2c0lsTGxxVGJ3Wl91V3BwTTBZN0Z3R0E2dlA0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTHdMdnRyUVB0czhfWFBfNFQwdkk4bWN5TjJnbTVNUzlhanFqMlZ5elVyY21CS1I2c0lsTGxxVGJ3Wl91V3BwTTBZN0Z3R0E2dlA0?oc=5</guid>
-            <pubDate>Fri, 31 Oct 2025 07:29:54 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个"工业AI云"！  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[飓风梅丽莎在加勒比地区造成 49 人死亡，并向北移动 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGNmX1o3UG5GMUkwaUtGUzBHVEJaUkpLdVZmVnFWcUYyb256dG80TElUcUhGQ29VNUVGQ24yQUE2UkhNREdaemtrYWE0cWN5QVNGV3M1cmlLVWlacHUyWmFMOUUwaEp6WXJ3MVUtV0NNOUJlM1JMNjAtb1psaWVuS2pla0x2OGJ0Y1hFVUV0cXN0ZUl6M3paVzAyTzdqTkZrSmRpejUwV1JPOUJROHFlMTY2b0JvbE8yQV9RQ3lrWEtvNmZnbHpJ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxOSGNmX1o3UG5GMUkwaUtGUzBHVEJaUkpLdVZmVnFWcUYyb256dG80TElUcUhGQ29VNUVGQ24yQUE2UkhNREdaemtrYWE0cWN5QVNGV3M1cmlLVWlacHUyWmFMOUUwaEp6WXJ3MVUtV0NNOUJlM1JMNjAtb1psaWVuS2pla0x2OGJ0Y1hFVUV0cXN0ZUl6M3paVzAyTzdqTkZrSmRpejUwV1JPOUJROHFlMTY2b0JvbE8yQV9RQ3lrWEtvNmZnbHpJ?oc=5</guid>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNbW9XWUFoYkxZaVI0SEtjV2dMNWItSnctSGQ5ZGs2MG9CcTVKNnRKMGoxLTlibVJnbmp2WWFzQ01YRGlXYnBVMjdiWWp5VU90SDNMUktpMlAxRi1keDNDUXVNN24yRlV5UVlBd3ZsRDlVczgzeWF1bTU5Yko3amU2aU84LU1OZ1VzUkloQkIyZUE4eXp6RlFmeUVKYnktNmE2SnN1dzdmM0NLOVhYOFF6c2lGUV9yMUJFekFKdA?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 06:03:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Nvidia 将向韩国供应超过 260,000 个 Blackwell AI 芯片 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工会谈判破裂南非汽车制造商罢工迫在眉睫]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-31/south-africa-automakers-locked-in-wage-dispute-strike-possible</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/south-africa-automakers-locked-in-wage-dispute-strike-possible</guid>
-            <pubDate>Fri, 31 Oct 2025 05:54:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 工资谈判破裂后，南非最大的工会威胁要对多家汽车制造商进行罢工，这可能会扰乱这个占该国制造业产出五分之一以上的行业，并给垂死的经济增加压力。]]></description>
         </item>
     </channel>
 </rss>
