@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 01 Nov 2025 15:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 16:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[如果你有现金的话，派对将在纽约举行]]></title>
+            <link>https://www.wsj.com/economy/consumers/new-york-city-wealth-e0ef94dc</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/consumers/new-york-city-wealth-e0ef94dc</guid>
+            <pubDate>Sat, 01 Nov 2025 16:00:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 这个城市有成千上万的百万富翁，他们不断消费，为当地经济的蓬勃发展提供动力，以满足富人的需求。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[巨额电费与不断上涨的食品价格和通货膨胀重叠，令许多美国人感到沮丧]]></title>
+            <link>https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/consumers/surging-power-costs-are-putting-the-squeeze-on-customers-f8b2c04b</guid>
+            <pubDate>Sat, 01 Nov 2025 16:00:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 由于高昂的能源费用使当地政治紧张，数据中心正在推高价格。]]></description>
+        </item>
         <item>
             <title><![CDATA[高盛前 ETF 负责人表示，利率背景支持对债券发起进攻]]></title>
             <link>https://www.cnbc.com/2025/11/01/bonds-fed-rate-cuts-former-goldman-sachs-etf-head.html</link>
@@ -21,6 +35,13 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/slavery-us-economy-role-94ba2ad0</guid>
             <pubDate>Sat, 01 Nov 2025 15:00:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 世界上最大的奴隶社会是该国经济腾飞的关键因素，超出了人们的普遍想象。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大规模集会标志着震惊塞尔维亚的悲伤和抗议之年]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-01/mass-rally-marks-a-year-of-grief-and-protests-that-shook-serbia</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-01/mass-rally-marks-a-year-of-grief-and-protests-that-shook-serbia</guid>
+            <pubDate>Sat, 01 Nov 2025 14:48:42 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 数万人在塞尔维亚城市诺维萨德游行，纪念火车站致命事件的周年纪念日。自事件震撼巴尔干国家以来，这一事件在今年引发了反政府抗议浪潮，加剧了政治紧张局势并加深了分歧。]]></description>
         </item>
         <item>
             <title><![CDATA[小米交付周期大幅缩短、鸿蒙智行销量创新高 流通协会：终端需求释放动能持续增强]]></title>
@@ -107,7 +128,7 @@
             <description><![CDATA[[Bloomberg] 本周，美国前财政部长劳伦斯·萨默斯（Lawrence H. Summers）同意美联储主席鲍威尔不愿锁定 12 月降息的观点。 而且，随着国会的新势头和中期选举的胜利，阿根廷总统哈维尔·米莱得到了选民的支持，继续进行已取得好坏参半结果的经济改革。 此外，“人工智能教父”杰弗里·辛顿（Geoffrey Hinton）警告说，建造更智能机器的竞赛正在超过控制它们的努力，人类必须采取行动，以免为时已晚。 那么，特朗普总统的10万美元H-1B签证费能否真正解决滥用和低薪问题，还是会让美国缺乏全球人才？  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[巴菲特的伯克希尔现金达到创纪录的3820亿美元，盈利飙升]]></title>
+            <title><![CDATA[巴菲特伯克希尔现金达3820亿美元，盈利飙升]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-01/buffett-s-berkshire-hathaway-cash-pile-soars-to-381-7-billion</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-01/buffett-s-berkshire-hathaway-cash-pile-soars-to-381-7-billion</guid>
             <pubDate>Sat, 01 Nov 2025 12:10:52 GMT</pubDate>
@@ -210,6 +231,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057832</guid>
             <pubDate>Sat, 01 Nov 2025 10:35:11 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[数据显示，俄罗斯1-10月液化天然气出口量下降3.4%，10月增长21% - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3hmY0hmSHpjN3pFSTZuT2cxOUpiakN0MmRkcG5YeGM5LWRjWTlKVWU2ODhWSWFaRUFOTVdQV2dUdjIzb0lRQ1JJX2Z2T3dWVmV1M2szeEdyaFZfXy1iVjNaZDZDTlRiaVhld3VBYldqZ2o0ZzI2R0d6MEh5WEplTFBrQTVfWHgxVzFYeThjWXN6eURLemdRWjV1d2MtLTlTOGo3RlZfTW9GWTFQTjc0Z1k5SzR1VmhmYlBtdFB3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3hmY0hmSHpjN3pFSTZuT2cxOUpiakN0MmRkcG5YeGM5LWRjWTlKVWU2ODhWSWFaRUFOTVdQV2dUdjIzb0lRQ1JJX2Z2T3dWVmV1M2szeEdyaFZfXy1iVjNaZDZDTlRiaVhld3VBYldqZ2o0ZzI2R0d6MEh5WEplTFBrQTVfWHgxVzFYeThjWXN6eURLemdRWjV1d2MtLTlTOGo3RlZfTW9GWTFQTjc0Z1k5SzR1VmhmYlBtdFB3?oc=5</guid>
+            <pubDate>Sat, 01 Nov 2025 10:12:26 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 数据显示，俄罗斯 1-10 月液化天然气出口量下降 3.4%，10 月增长 21% 路透]]></description>
         </item>
         <item>
             <title><![CDATA[10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万 - 华尔街见闻]]></title>
@@ -485,6 +513,13 @@
             <description><![CDATA[[Reuters Business] 迫于月末压力，银行动用美联储常备回购工具的数量创历史新高 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[缺芯影响扩大，大众宝马核心供应商被迫减产 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VOFV0RTNtNU1POG9OaWFmcXF0Wkxqd2g5aTZGRV90RUgzM2loblBCMXpqWUNWYTZFVjdwSXAwakJIcXlLY2JjakNqVVZuUy1VODdF?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VOFV0RTNtNU1POG9OaWFmcXF0Wkxqd2g5aTZGRV90RUgzM2loblBCMXpqWUNWYTZFVjdwSXAwakJIcXlLY2JjakNqVVZuUy1VODdF?oc=5</guid>
+            <pubDate>Fri, 31 Oct 2025 19:59:20 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 缺芯影响扩大，大众宝马核心供应商被迫减产  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[石油收盘小幅上涨，交易波动，因报道否认美国对委内瑞拉的袭击计划 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDZVemx0VUoyM2dxdUVHMnJBYmZHQkVTOUp6dmxSN1ZfbXR4QXJCaGpOdVo1OXUtd2hnRXk4MS1LZzRPc1IzMXFkM3I2eE05X21ZS3ZqVUtpNFpXY0R4eUFIRGJ4S0dzX2xRbjBIVVNUUnA3OHNhcHNnOWRVUTRwRkJOMGZXRFowV0ZJZGlxdVkwcldJbm9jWlRhWVZNRkwzdXZXR0toVFk0Z3lqdjVXV3lfX2hzR0k?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDZVemx0VUoyM2dxdUVHMnJBYmZHQkVTOUp6dmxSN1ZfbXR4QXJCaGpOdVo1OXUtd2hnRXk4MS1LZzRPc1IzMXFkM3I2eE05X21ZS3ZqVUtpNFpXY0R4eUFIRGJ4S0dzX2xRbjBIVVNUUnA3OHNhcHNnOWRVUTRwRkJOMGZXRFowV0ZJZGlxdVkwcldJbm9jWlRhWVZNRkwzdXZXR0toVFk0Z3lqdjVXV3lfX2hzR0k?oc=5</guid>
@@ -590,13 +625,6 @@
             <description><![CDATA[[WSJ] 联合国表示，由于贸易不确定性、地缘政治紧张局势和高利率，今年前六个月外国直接投资下降了 3%。]]></description>
         </item>
         <item>
-            <title><![CDATA[由于数据无效、鹰派美联储，美元在 2025 年表现第二好]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-31/dollar-has-second-best-month-of-2025-on-data-void-hawkish-fed</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/dollar-has-second-best-month-of-2025-on-data-void-hawkish-fed</guid>
-            <pubDate>Fri, 31 Oct 2025 16:11:08 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于缺乏官方数据，美国经济前景和美联储利率路径变得混乱，美元迎来了今年第二好的月份。]]></description>
-        </item>
-        <item>
             <title><![CDATA[特朗普大力推进核反应堆引发安全担忧 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekt1eDd5LUlfdERWc1pzNkNCaUI2R3FpZ3J5M1l6c3hCSXVOYXo4SW1TYm80NUxMMkNGR2Y3Vlg2QTFMTk1SdmVzQnhYMFRGMXpuVEczR3dDdmQ3MUpVbFQydFhMcE5fQnp0V0trcUd2M3dfR1hzU2M3QkJHTkdOeVllZm81blIzUkZkUWh5b0dWV3BXQmNCbUhWcTNLVHZkVFhuU0h4Q3dRUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxOekt1eDd5LUlfdERWc1pzNkNCaUI2R3FpZ3J5M1l6c3hCSXVOYXo4SW1TYm80NUxMMkNGR2Y3Vlg2QTFMTk1SdmVzQnhYMFRGMXpuVEczR3dDdmQ3MUpVbFQydFhMcE5fQnp0V0trcUd2M3dfR1hzU2M3QkJHTkdOeVllZm81blIzUkZkUWh5b0dWV3BXQmNCbUhWcTNLVHZkVFhuU0h4Q3dRUQ?oc=5</guid>
@@ -679,34 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNS21QaTctcHNDeF9TeFB2a2duMmYwUF9uNjdCbW95NmV6QVR1eVRNcGxia3lETlQyVjVnUnN5c2NISkVhbjJVZ1lTMVlBNWN2clhpSHl4ckw0UTk5NlpiZWFiektaTHZVOGVFSXRjRXU5ZTBmcTBMM2w4aDJ5d1NQcW84Mnk4bnJzYVlvbE1lT3lnX1F2dDl6OXM1U0p1RlZXSVlfc2MwQ052U3NKc0xDTG1vSQ?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 13:28:33 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 巴基斯坦授予数十年来首个海上石油勘探区块 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yMHdqUER2a2tHMW5iYXdQTWlTckNqX3BpSzN3WDJDb2pnS0hjcllZdW9kdnMzYUo5ODNOLWRfdzItVldOR0VQRFNRZjZDNVFsVmtZ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yMHdqUER2a2tHMW5iYXdQTWlTckNqX3BpSzN3WDJDb2pnS0hjcllZdW9kdnMzYUo5ODNOLWRfdzItVldOR0VQRFNRZjZDNVFsVmtZ?oc=5</guid>
-            <pubDate>Fri, 31 Oct 2025 13:25:38 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[两位美联储官员放鹰：就业市场趋稳但通胀仍高，12月降息希望渺茫 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TEJlNlczRFBkTjVhSHdhYWpJNm1kSFBGVndraDUxWk1GLXpNZmZZeXNsb1ZDVWVUeHlLNTZVNXVSU0o4M3R4Wi1wN0otd2l6RzhJ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TEJlNlczRFBkTjVhSHdhYWpJNm1kSFBGVndraDUxWk1GLXpNZmZZeXNsb1ZDVWVUeHlLNTZVNXVSU0o4M3R4Wi1wN0otd2l6RzhJ?oc=5</guid>
-            <pubDate>Fri, 31 Oct 2025 13:16:42 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 两位美联储官员放鹰：就业市场趋稳但通胀仍高，12月降息希望渺茫  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独家：Netflix 与银行探讨竞购华纳兄弟探索频道 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzBYd2cwemVCRzVDWFVjSDlLc0Eza0JIeDFzQWVTVEhpaFlSWk1aWmZuV3dkNGZWZVFYcG0yNF96SlRWLUdxd2N5YWpLOXJ6Mm9YZk5CX3dkdUQ0VFBrZFpneFRodVJsbEhmSm1PQ3pWOEhYWnViREVGTU9nWlNpamRiT3B6T0tvWmVIWGVhaFZraTlIbUx0N3ctMkpOTFJacGRxSElfbDdtWEVWYzVj?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzBYd2cwemVCRzVDWFVjSDlLc0Eza0JIeDFzQWVTVEhpaFlSWk1aWmZuV3dkNGZWZVFYcG0yNF96SlRWLUdxd2N5YWpLOXJ6Mm9YZk5CX3dkdUQ0VFBrZFpneFRodVJsbEhmSm1PQ3pWOEhYWnViREVGTU9nWlNpamRiT3B6T0tvWmVIWGVhaFZraTlIbUx0N3ctMkpOTFJacGRxSElfbDdtWEVWYzVj?oc=5</guid>
-            <pubDate>Fri, 31 Oct 2025 13:11:24 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：Netflix 与银行探讨竞购华纳兄弟探索频道 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[早盘竞价：华尔街“不给糖就捣蛋” - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnhSeGQxa3JURXA5ZldfSG0yT2dxR1c1N2FxZDFybG9zM01NR2hub0VoM2lSVUpKNEFsakwtOGpfN1FvdUxQTGpZNlNzY3M4R2o3YlY2T0Y5clFwQ2NQa0ZqZlhoYTVRUmczSmhxOGh3bzVXVE9LdFZGandpWHFNUjNzREV6NDk2Q0ZlVUthQQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnhSeGQxa3JURXA5ZldfSG0yT2dxR1c1N2FxZDFybG9zM01NR2hub0VoM2lSVUpKNEFsakwtOGpfN1FvdUxQTGpZNlNzY3M4R2o3YlY2T0Y5clFwQ2NQa0ZqZlhoYTVRUmczSmhxOGh3bzVXVE9LdFZGandpWHFNUjNzREV6NDk2Q0ZlVUthQQ?oc=5</guid>
-            <pubDate>Fri, 31 Oct 2025 13:00:23 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 早盘竞价：华尔街的“不给糖就捣蛋”路透社]]></description>
         </item>
     </channel>
 </rss>
