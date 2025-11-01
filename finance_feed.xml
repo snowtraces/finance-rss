@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 01 Nov 2025 20:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 20:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057903</guid>
             <pubDate>Sat, 01 Nov 2025 20:05:31 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于英国预算决策迫在眉睫，英国央行将维持利率不变]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-01/boe-set-to-hold-rates-as-uk-budget-looms-over-decision</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-01/boe-set-to-hold-rates-as-uk-budget-looms-over-decision</guid>
+            <pubDate>Sat, 01 Nov 2025 20:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 预计英国央行周四将跳过降息，进一步放缓一年多以来每季度一次的政策宽松步伐。]]></description>
         </item>
         <item>
             <title><![CDATA[OPEC+讨论重点关注12月小幅石油产量上调]]></title>
@@ -497,13 +504,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-31/sweatpals-raises-12-million-to-redefine-fitness-bonds-video</guid>
             <pubDate>Fri, 31 Oct 2025 22:24:05 GMT</pubDate>
             <description><![CDATA[[Bloomberg] SweatPals 首席执行官 Salar Shahini 表示，该公司是一个提供面对面健身体验的市场，人们通过健康和锻炼而不是饮料或夜生活来联系。  a16z Speedrun 首席执行官安德鲁·陈 (Andrew Chen) 在《The Close》节目中告诉凯蒂·格雷菲尔德 (Katie Greifeld)，该计划在最早阶段就与创始人合作，向仍只是创意的公司投资最多 100 万美元。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[范围赞扬梅洛尼领导下的财政修复，意大利前景提振]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-10-31/italy-s-outlook-lifted-as-scope-lauds-fiscal-repair-under-meloni</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-10-31/italy-s-outlook-lifted-as-scope-lauds-fiscal-repair-under-meloni</guid>
-            <pubDate>Fri, 31 Oct 2025 22:10:39 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着范围评级公司上调对该国的前景，总理乔治亚·梅洛尼 (Giorgia Meloni) 推动意大利恢复借款国地位的努力又向前迈进了一步。]]></description>
         </item>
         <item>
             <title><![CDATA[鹰派施压暂停政策，美联储沃勒呼吁12月降息 - 路透中文网]]></title>
