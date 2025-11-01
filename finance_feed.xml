@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 01 Nov 2025 11:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 11:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[新势力“银十”再迎交付潮：零跑、小鹏、蔚来创新高 理想一大问题待解]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3057841</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057841</guid>
+            <pubDate>Sat, 01 Nov 2025 11:05:30 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国上市公司协会：前三季度上市公司整体业绩持续改善 科创引领作用凸显]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3057840</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057840</guid>
+            <pubDate>Sat, 01 Nov 2025 11:05:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[尼日利亚丹格特表示燃料产量现已超过当地需求]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-01/nigeria-s-dangote-says-fuel-output-now-exceeds-local-demand</link>
@@ -100,24 +114,10 @@
             <description><![CDATA[[Bloomberg] 加拿大总理马克·卡尼表示，在他周五与中国国家主席习近平的会晤中，立即采取行动降低中国对油菜籽等加拿大商品的关税从来都不是一个现实的结果。]]></description>
         </item>
         <item>
-            <title><![CDATA[蔚来(09866)10月新车交付首次超过4万台]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3057813</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057813</guid>
-            <pubDate>Sat, 01 Nov 2025 08:05:08 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Investing.com本周股票动态]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3057812</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057812</guid>
-            <pubDate>Sat, 01 Nov 2025 08:00:16 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[坦桑尼亚哈桑因暴力事件宣布在选举中获得压倒性胜利 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjRHbWRJTEpYeHFDSzhYWDNBVlpQT01BZlZFNjBlN2Y3STB1d01zZE55bjJTZG9ObTRlOUFqT2pyQzZqR2ZCdzFySWthOXRLazZSekRPMlVsTWZkeEhuTDk1d0JRSVR2NHBWby1FQnN6NFpWeWpfcUl6WktSWExpa2NkYkM3Z3ZxWmZGelVZWDlCQ3p2dndlSEJXTkR2d2k1TUo3RWdGcHZVdi04cWxlTnU1WTUwM0NTTUxJalNOMEljUG5pXzZnTmtR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjRHbWRJTEpYeHFDSzhYWDNBVlpQT01BZlZFNjBlN2Y3STB1d01zZE55bjJTZG9ObTRlOUFqT2pyQzZqR2ZCdzFySWthOXRLazZSekRPMlVsTWZkeEhuTDk1d0JRSVR2NHBWby1FQnN6NFpWeWpfcUl6WktSWExpa2NkYkM3Z3ZxWmZGelVZWDlCQ3p2dndlSEJXTkR2d2k1TUo3RWdGcHZVdi04cWxlTnU1WTUwM0NTTUxJalNOMEljUG5pXzZnTmtR?oc=5</guid>
-            <pubDate>Sat, 01 Nov 2025 06:12:00 GMT</pubDate>
+            <pubDate>Sat, 01 Nov 2025 06:12:03 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 坦桑尼亚哈桑因暴力事件宣布在选举中获得压倒性胜利 路透]]></description>
         </item>
         <item>
@@ -194,7 +194,7 @@
             <title><![CDATA[白宫限制记者进入新闻秘书办公室 - 路透社]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHphMjRYVm4yZ2pXOWRkN3J0bmY3RWpJbzZBeUVqNHRTX2h2ODZfXzRTVUZuUEx3VVpidHIxM0tUQW1sS252Q3ZTRDhGc0wzTU5BRXBHR3d1YW40SEhCTDAwYmEzb0FfRnI5MjBaREVmbXctYkl5ZnFhWHBHeWNvbldiWDRTcmEyZzN1eFkwYU1pTnRVLWFQMUN0TUtYclY2QVlEREZwWnY0bUhZVzNLSm5TcTR3cHdy?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHphMjRYVm4yZ2pXOWRkN3J0bmY3RWpJbzZBeUVqNHRTX2h2ODZfXzRTVUZuUEx3VVpidHIxM0tUQW1sS252Q3ZTRDhGc0wzTU5BRXBHR3d1YW40SEhCTDAwYmEzb0FfRnI5MjBaREVmbXctYkl5ZnFhWHBHeWNvbldiWDRTcmEyZzN1eFkwYU1pTnRVLWFQMUN0TUtYclY2QVlEREZwWnY0bUhZVzNLSm5TcTR3cHdy?oc=5</guid>
-            <pubDate>Sat, 01 Nov 2025 00:22:46 GMT</pubDate>
+            <pubDate>Sat, 01 Nov 2025 00:22:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 白宫限制记者进入新闻秘书办公室路透社]]></description>
         </item>
         <item>
@@ -237,7 +237,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-10-31/we-want-to-create-an-intimate-experience-eugene-remm-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-31/we-want-to-create-an-intimate-experience-eugene-remm-video</guid>
             <pubDate>Fri, 31 Oct 2025 22:58:04 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 联合创始人兼合伙人表示，他们所做的一切都是为了创造真实的体验。 他在“The Close”节目中向凯蒂·格雷菲尔德 (Katie Greifeld) 和罗曼·博斯蒂克 (Romaine Bostick) 讲述了开设第 21 家餐厅的事情。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 联合创始人兼合伙人表示，他们所做的一切都是为了创造真实的体验。 他在“The Close”节目中向凯蒂·格雷菲尔德 (Katie Greifeld) 和罗曼·博斯蒂克 (Romaine Bostick) 讲述了自己开设第 21 家餐厅的事情。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[古巴救援飓风梅丽莎后被洪水困住的居民 - 路透中文网]]></title>
@@ -366,7 +366,7 @@
             <description><![CDATA[[Bloomberg] Rithm Capital 首席执行官迈克尔·尼伦伯格 (Michael Nierenberg) 表示，他对纽约市市长领跑者佐兰·马丹尼 (Zohran Mamdani) 的政策感到担忧。 尼伦伯格还表示，无论谁成为该市市长，他都对 Rithm 的办公空间组合充满信心。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[强劲盈利后股市上涨 结束钟声]]></title>
+            <title><![CDATA[强劲盈利后股市上涨| 结束钟声]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-10-31/stocks-rise-after-strong-earnings-closing-bell-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-10-31/stocks-rise-after-strong-earnings-closing-bell-video</guid>
             <pubDate>Fri, 31 Oct 2025 20:36:22 GMT</pubDate>
@@ -688,7 +688,7 @@
             <description><![CDATA[[Reuters Business] 克里姆林宫向国防部提出有关俄罗斯导弹袭击乌克兰的问题 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[世卫组织表示现在更多国家发现了 MPOX，非洲六周内有 17 人死亡 - 路透中文网]]></title>
+            <title><![CDATA[世卫组织表示现在更多国家发现了 MPOX，六周内非洲有 17 人死亡 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVA3NlZOVTJXZ3U1MEJ6VEdNZVZ5QTV2a2wwNTQwNDN5c0dneXY1ZTE5ZWc4ckp2SWRPWUpQY3ZzMTFVaENsQmNjNGdYZ2VGaGRIMDJwVWRtamFvZW82ejIwTGxSNnVXbThUanRJRHo1dnJETkx4OXV3MG9IYUxxcXlWTUpUaC1jemFpQnpUMmtqZWpEeXZ3bktUeGoxQ09pUzNTWUFQbDJiWDlpTXNxQ1ZIbU1feHA5bUIxcGNqMV9tN2wzZG5QYlZRM0o0M0tFWENnN3ozeGJsd1VwTU0tLTdGeXA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTVA3NlZOVTJXZ3U1MEJ6VEdNZVZ5QTV2a2wwNTQwNDN5c0dneXY1ZTE5ZWc4ckp2SWRPWUpQY3ZzMTFVaENsQmNjNGdYZ2VGaGRIMDJwVWRtamFvZW82ejIwTGxSNnVXbThUanRJRHo1dnJETkx4OXV3MG9IYUxxcXlWTUpUaC1jemFpQnpUMmtqZWpEeXZ3bktUeGoxQ09pUzNTWUFQbDJiWDlpTXNxQ1ZIbU1feHA5bUIxcGNqMV9tN2wzZG5QYlZRM0o0M0tFWENnN3ozeGJsd1VwTU0tLTdGeXA?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 11:21:37 GMT</pubDate>
