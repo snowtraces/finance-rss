@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 02 Nov 2025 21:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 21:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3058133</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3058133</guid>
+            <pubDate>Sun, 02 Nov 2025 21:25:15 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[Pimco押注澳洲联储进一步降息，澳大利亚债券反弹]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-02/pimco-bets-on-australian-bond-rebound-on-deeper-rba-rate-cuts</link>
@@ -168,13 +175,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-02/ai-rally-and-volatility-define-stock-run-since-trump-s-return</guid>
             <pubDate>Sun, 02 Nov 2025 13:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 唐纳德·特朗普的连任本应带来股市的繁荣。 它确实做到了，只是不是出于预言家预期的原因。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿拉伯股市收低；截至收盘沙特阿拉伯TASI指数下跌1.03%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3058105</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3058105</guid>
-            <pubDate>Sun, 02 Nov 2025 12:45:16 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[印度稀土磁铁计划将增加三倍至 7.88 亿美元]]></title>
