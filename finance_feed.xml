@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 02 Nov 2025 17:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 18:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -632,13 +632,6 @@
             <description><![CDATA[[财新网] 江苏破局小微融资：以“可信数据空间”破解信用难题  Caixin]]></description>
         </item>
         <item>
-            <title><![CDATA[决议后第一波美联储高官发声：3位反对本周降息，沃勒支持12月降息 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxSzNOLWdJcExNa3NqQjRnYTZXb1dxekt4bTl6TEU1clloWVlRYTVxaXU4emU3dHVEZ29YUWRyQkZwRVpNQmxCV01fdVkyUkdUY1pV?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxSzNOLWdJcExNa3NqQjRnYTZXb1dxekt4bTl6TEU1clloWVlRYTVxaXU4emU3dHVEZ29YUWRyQkZwRVpNQmxCV01fdVkyUkdUY1pV?oc=5</guid>
-            <pubDate>Sat, 01 Nov 2025 02:25:29 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 决议后第一波美联储高官发声：3位反对本周降息，沃勒支持12月降息  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[高盛交易员：美股涨势"极端窄化"，七巨头屡创新高但整体跑输全球市场 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE14OTBHWWZ1WEZHcUh2WkRXdzZnajdGWmV0OVVMRkNzTk5wVWlic2lYQnRmeGYzeE52SGJtRkJ6MnF4YVNUSmtpeml5QXVGR2pXQ1Z3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE14OTBHWWZ1WEZHcUh2WkRXdzZnajdGWmV0OVVMRkNzTk5wVWlic2lYQnRmeGYzeE52SGJtRkJ6MnF4YVNUSmtpeml5QXVGR2pXQ1Z3?oc=5</guid>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXhhaGk0VERocWczSENyUEMtNTlPSlBMbzg3TzE1X1o4WEVHeGFIcmlZN3RCVGZWU1g4cTdmNDVXQkZaSkUzQUdSRGMtYkIyZlJvS2gxVVl3YkhRdzlLdFFoM3JMYzVCSHNGTWFCdjlaQjNteWE4bHhFYklGQ2ZpdkFoeVBNM2xNUUh5bkpTU3Zsb3pJY1NDdHJ2ckJqME4wVGZmY0NrRXFHLWRKWXAw?oc=5</guid>
             <pubDate>Fri, 31 Oct 2025 22:02:27 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 鹰派施压暂停政策，美联储沃勒呼吁 12 月降息 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国国防公司Anduril首次驾驶无人驾驶喷气式无人机 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYUZhdDR6Y2NlcWJFeWxnTjRjNGlpSHdUNEFtSlcwTVI2eEpyT3V1NUk5NVI3Vm9SeGZaYl94TktkOVJmLUY4NUliS01RZFV0RGVfZDg0LS10YTAtSHhtYXQxUU4tc0tUakhveUlZbGJuWWN6OUtkbFc2TTROTWVSSjdicm4xZUJYTVkyajdPTnB0YTRCMnNHbVlqM3dHaFVjeE04aU9hZTdFTW5CVl9PbzhmYWxQbG13TVl4cFJpc3U5Yk14dUFpZg?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYUZhdDR6Y2NlcWJFeWxnTjRjNGlpSHdUNEFtSlcwTVI2eEpyT3V1NUk5NVI3Vm9SeGZaYl94TktkOVJmLUY4NUliS01RZFV0RGVfZDg0LS10YTAtSHhtYXQxUU4tc0tUakhveUlZbGJuWWN6OUtkbFc2TTROTWVSSjdicm4xZUJYTVkyajdPTnB0YTRCMnNHbVlqM3dHaFVjeE04aU9hZTdFTW5CVl9PbzhmYWxQbG13TVl4cFJpc3U5Yk14dUFpZg?oc=5</guid>
+            <pubDate>Fri, 31 Oct 2025 21:43:20 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国国防公司 Anduril 首次驾驶无人驾驶喷气式无人机 路透]]></description>
         </item>
     </channel>
 </rss>
