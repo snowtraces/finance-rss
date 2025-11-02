@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 02 Nov 2025 06:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 07:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -28,6 +28,20 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3057991</guid>
             <pubDate>Sun, 02 Nov 2025 06:05:09 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[向黄仁勋汇报的英伟达36人 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZaTdkVXRtQVR5dUpZZnZsX1ZFUDVpZTBrY2NhYWVpZ2JKclJpVHllVjFIVVNKbFpwU0NOT2hFMlljWDNveGtHUl9aRlVvWEUwRGhj?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZaTdkVXRtQVR5dUpZZnZsX1ZFUDVpZTBrY2NhYWVpZ2JKclJpVHllVjFIVVNKbFpwU0NOT2hFMlljWDNveGtHUl9aRlVvWEUwRGhj?oc=5</guid>
+            <pubDate>Sun, 02 Nov 2025 06:04:22 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 向黄仁勋汇报的英伟达36人  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[刚刚，亚马逊的“AI转折点”出现了？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KT19QZmFLcGJaXy1fQXJhYlp3enRPdkZDcVI2YjhPeFF5RlZkdF9tNlRiYm1LMVJuZzhpN04zTzJXUE90SExaRTlUd1c2U09pVFlZ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KT19QZmFLcGJaXy1fQXJhYlp3enRPdkZDcVI2YjhPeFF5RlZkdF9tNlRiYm1LMVJuZzhpN04zTzJXUE90SExaRTlUd1c2U09pVFlZ?oc=5</guid>
+            <pubDate>Sun, 02 Nov 2025 05:30:16 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 刚刚，亚马逊的“AI转折点”出现了？  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[沙特化学巨头公布利润，打破连续亏损]]></title>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/global/foreign-investment-on-track-for-third-year-of-decline-un-figures-show-1fed5561</guid>
             <pubDate>Fri, 31 Oct 2025 16:18:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 联合国表示，由于贸易不确定性、地缘政治紧张局势和高利率，今年前六个月外国直接投资下降了 3%。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[达拉斯联储洛根称央行本周降息是错误的]]></title>
-            <link>https://www.wsj.com/articles/dallas-feds-logan-says-central-bank-was-wrong-to-cut-this-rates-week-175eb315</link>
-            <guid isPermaLink="false">https://www.wsj.com/articles/dallas-feds-logan-says-central-bank-was-wrong-to-cut-this-rates-week-175eb315</guid>
-            <pubDate>Fri, 31 Oct 2025 15:31:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 洛里·洛根(Lorie Logan)反对美联储本周降息25个基点，认为就业市场放缓的风险并不能成为放弃控制通胀任务的理由。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个"工业AI云"！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTHdMdnRyUVB0czhfWFBfNFQwdkk4bWN5TjJnbTVNUzlhanFqMlZ5elVyY21CS1I2c0lsTGxxVGJ3Wl91V3BwTTBZN0Z3R0E2dlA0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTHdMdnRyUVB0czhfWFBfNFQwdkk4bWN5TjJnbTVNUzlhanFqMlZ5elVyY21CS1I2c0lsTGxxVGJ3Wl91V3BwTTBZN0Z3R0E2dlA0?oc=5</guid>
-            <pubDate>Fri, 31 Oct 2025 15:25:59 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个"工业AI云"！  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
