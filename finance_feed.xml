@@ -4,93 +4,107 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 05 Nov 2025 06:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Nov 2025 07:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[港股异动 | 煤炭股再度活跃 当前煤炭供需均出利好 机构看好煤价有望继续提升]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063647</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063647</guid>
-            <pubDate>Wed, 05 Nov 2025 06:46:05 GMT</pubDate>
+            <title><![CDATA[Orsted 维持利润指引，以安抚投资者]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-05/orsted-keeps-profit-guidance-as-it-seeks-to-reassure-investors</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-05/orsted-keeps-profit-guidance-as-it-seeks-to-reassure-investors</guid>
+            <pubDate>Wed, 05 Nov 2025 07:09:43 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Orsted A/S 确认了全年利润指引，试图让投资者放心其财务稳定性，此前美国遭遇的挫折迫使这家海上风电开发商从股东那里筹集了超过 90 亿美元的资金。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Novo 下调展望，理由是 Wegovy 和 Ozempic 销售额下降]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-11-05/novo-cuts-outlook-citing-lower-wegovy-ozempic-sales-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-05/novo-cuts-outlook-citing-lower-wegovy-ozempic-sales-video</guid>
+            <pubDate>Wed, 05 Nov 2025 07:06:42 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 诺和诺德公司今年第四次下调预期，理由是其重磅药物 Wegovy 和 Ozempic 的销售额低于预期。 这家丹麦制药商正努力在不断增长的肥胖药物市场上与礼来公司竞争。 彭博社的萨拉·索林报道。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[丰田(TM.US)Q2营业利润同比下滑27%逊于预期 但上调全年盈利及销量指引]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063714</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063714</guid>
+            <pubDate>Wed, 05 Nov 2025 07:06:38 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[杀入“预测未来”新赛道！加密货币交易所Gemini(GEMI.US)也要来分一杯羹]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063713</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063713</guid>
+            <pubDate>Wed, 05 Nov 2025 07:06:37 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[本土竞争倒逼星巴克(SBUX.US)“放手” 博裕资本40亿美元入股如何破局？]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063712</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063712</guid>
+            <pubDate>Wed, 05 Nov 2025 07:06:36 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[无人配送车进入爆发期：10个月吸金近百亿元、4年成本降幅达80%！]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063711</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063711</guid>
+            <pubDate>Wed, 05 Nov 2025 07:06:12 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[华尔街从未见过这样的美联储：鸽派“中央军”VS鹰派“地方军”]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063708</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063708</guid>
+            <pubDate>Wed, 05 Nov 2025 07:05:43 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[净利润增至9030亿，五大亮点看深市上市公司三季度成绩单]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063707</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063707</guid>
+            <pubDate>Wed, 05 Nov 2025 07:05:42 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[央行开展7000亿元买断式逆回购操作 银行负债压力缓解 流动性相对充裕]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063706</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063706</guid>
+            <pubDate>Wed, 05 Nov 2025 07:05:41 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[申万宏源：三季度业绩稳健性凸显 引领银行价值回归]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063705</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063705</guid>
+            <pubDate>Wed, 05 Nov 2025 07:05:20 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[国泰海通：维持耐世特(01316)“增持”评级 目标价上调至9.45港元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063704</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063704</guid>
+            <pubDate>Wed, 05 Nov 2025 07:05:18 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新享时代(08519)因“4并1”基准进行股份合并而削减4.35亿股]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3063703</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063703</guid>
+            <pubDate>Wed, 05 Nov 2025 07:05:17 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[菲律宾幸存者面临毁灭，卡尔马吉死亡人数攀升至 66 人 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOQV9scXI0RWdFenJOdkVMMGFJOFg2eU9wa0Myb3JOTm0wclNweVNWeEZYTTlSNW9IOG5yV1FKd3R0Q3NoTFVuSmNoWkNjU3VIREpoakZwWFJPSGdsY0liVWhoMlo2VEtydWlsTGtTaGVGMDN0b2x0Rm5zMzJZWmUwUGF4eHVucmVyRmRxRnlXbm8ydGREMVJORG8zMTJpZlk5Qk5lVTdKUzZ6T3ZmMldyMlFhekVQbmh0MElteUlB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxOQV9scXI0RWdFenJOdkVMMGFJOFg2eU9wa0Myb3JOTm0wclNweVNWeEZYTTlSNW9IOG5yV1FKd3R0Q3NoTFVuSmNoWkNjU3VIREpoakZwWFJPSGdsY0liVWhoMlo2VEtydWlsTGtTaGVGMDN0b2x0Rm5zMzJZWmUwUGF4eHVucmVyRmRxRnlXbm8ydGREMVJORG8zMTJpZlk5Qk5lVTdKUzZ6T3ZmMldyMlFhekVQbmh0MElteUlB?oc=5</guid>
-            <pubDate>Wed, 05 Nov 2025 06:36:00 GMT</pubDate>
+            <pubDate>Wed, 05 Nov 2025 06:53:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 菲律宾幸存者面临毁灭，Kalmaegi 死亡人数攀升至 66 人 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[“10万户俱乐部”三季末扩容至7家，私人银行仍是上市银行竞争焦点，多家客户数增幅超10%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063652</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063652</guid>
-            <pubDate>Wed, 05 Nov 2025 06:35:49 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7倍超募，资金疯抢巴西ETF的背后]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063651</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063651</guid>
-            <pubDate>Wed, 05 Nov 2025 06:35:48 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[广发证券：投资驱动业绩+新单驱动价值 三季度险企业绩全面超预期]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063649</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063649</guid>
-            <pubDate>Wed, 05 Nov 2025 06:35:17 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港股异动 | 老铺黄金(06181)反弹近4% 产品涨价及近期金价下跌 有望部分抵消黄金税收新政影响]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063648</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063648</guid>
-            <pubDate>Wed, 05 Nov 2025 06:35:16 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港股异动 | 中国大冶有色金属(00661)午后涨超16% 冶炼端反内卷利好频出 冶炼费存在向上改善空间]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063646</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063646</guid>
-            <pubDate>Wed, 05 Nov 2025 06:35:14 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[海通国际：首予蓝思科技(06613)“优于大市”评级 目标价36.5港元]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063645</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063645</guid>
-            <pubDate>Wed, 05 Nov 2025 06:35:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第一上海：维持中国神华(01088)“买入”评级 目标价47.7港元]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063644</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063644</guid>
-            <pubDate>Wed, 05 Nov 2025 06:35:12 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港股异动 | 潍柴动力(02338)涨超4% 重卡行业景气旺盛叠加新业务高增 公司三季度业绩亮眼]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063643</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063643</guid>
-            <pubDate>Wed, 05 Nov 2025 06:35:11 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港股异动 | 鹰普精密(01286)涨超8%创新高 前三季度收入增近17% 公司受益AIDC及机器人高景气度]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3063642</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3063642</guid>
-            <pubDate>Wed, 05 Nov 2025 06:35:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[受交易量和IPO激增推动，港交所三季度利润猛增56% - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JZHljamFuazZuMUJsMmNsTXhsSkpzM0JUMzBmNUFrVGxaOWd2ZlhBRXZxSHhTejVQUkxoYTNFQ0FHUVBsVEt4cnZia3pWS2lTdVIw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JZHljamFuazZuMUJsMmNsTXhsSkpzM0JUMzBmNUFrVGxaOWd2ZlhBRXZxSHhTejVQUkxoYTNFQ0FHUVBsVEt4cnZia3pWS2lTdVIw?oc=5</guid>
-            <pubDate>Wed, 05 Nov 2025 06:19:27 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 受交易量和IPO激增推动，港交所三季度利润猛增56%  华尔街见闻]]></description>
+            <title><![CDATA[随着全球股票抛售，富时 100 指数将下跌]]></title>
+            <link>https://www.bloomberg.com/news/live-blog/2025-11-05/ftse-100-live-pound-marks-spencer-ai-rally-oil-prices-what-s-moving-uk-markets-right-now-markets-today-mhlmwo0k</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2025-11-05/ftse-100-live-pound-marks-spencer-ai-rally-oil-prices-what-s-moving-uk-markets-right-now-markets-today-mhlmwo0k</guid>
+            <pubDate>Wed, 05 Nov 2025 06:46:13 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] ]]></description>
         </item>
         <item>
             <title><![CDATA[美银：市场波动率上升预示泡沫正在形成，但仍处于早期阶段 - 华尔街见闻]]></title>
@@ -128,11 +142,11 @@
             <description><![CDATA[[Reuters Business] 人工智能数据中心热潮中的五个债务热点 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[股市动荡令策略师将国债收益率瞄准 3.8%]]></title>
+            <title><![CDATA[投资者纷纷涌向美国国债，显示出一些担忧，股市暴跌仍有上涨空间]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-05/flight-to-treasuries-shows-fears-stocks-slump-has-room-to-run</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-05/flight-to-treasuries-shows-fears-stocks-slump-has-room-to-run</guid>
             <pubDate>Wed, 05 Nov 2025 05:35:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 全球股市抛售引发的避险情绪引发了关于美国国债收益率可能会跌至多低的争论。]]></description>
+            <description><![CDATA[[Bloomberg] 周三，避险资产增多，全球股市抛售令投资者准备迎接更多损失，债券价格上涨。]]></description>
         </item>
         <item>
             <title><![CDATA[立法者希望他们能够达成两党协议以结束政府关闭，因为特朗普再次要求共和党绕过民主党并重新开放政府]]></title>
@@ -191,7 +205,7 @@
             <description><![CDATA[[Bloomberg] 随着交易和首次公开募股的猛增，香港证券交易所公布了另一个创纪录的季度业绩。]]></description>
         </item>
         <item>
-            <title><![CDATA[中国工商银行将开设金库，提振香港的黄金雄心]]></title>
+            <title><![CDATA[中国工商银行将开设金库助推香港的黄金雄心]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-05/china-s-icbc-to-open-vault-boosting-hong-kong-s-gold-ambitions</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-05/china-s-icbc-to-open-vault-boosting-hong-kong-s-gold-ambitions</guid>
             <pubDate>Wed, 05 Nov 2025 04:13:30 GMT</pubDate>
@@ -226,11 +240,11 @@
             <description><![CDATA[[Bloomberg] 比特币再次下跌——但这一次，不是杠杆打破了市场。]]></description>
         </item>
         <item>
-            <title><![CDATA[跨境诈骗集团涉洗黑钱 香港警方冻结太子集团27.5亿港元资产 - Caixin]]></title>
+            <title><![CDATA[跨境诈骗集团涉洗黑钱 香港警方冻结太子集团27.5亿港元资产 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IV3lfdElZQ1o1anVMRTdFN0t0TU5HUXZsRng4NkJPbzgxZ2NEbE1BSS0zTVlDdVQ3STNBRGlQcFo4dnVETGtWa0pGMFlBZ1FkMFVxR2x4dVJYeXNUUmlZTXRR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IV3lfdElZQ1o1anVMRTdFN0t0TU5HUXZsRng4NkJPbzgxZ2NEbE1BSS0zTVlDdVQ3STNBRGlQcFo4dnVETGtWa0pGMFlBZ1FkMFVxR2x4dVJYeXNUUmlZTXRR?oc=5</guid>
             <pubDate>Wed, 05 Nov 2025 03:15:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 跨境诈骗集团涉洗黑钱 香港警方冻结太子集团27.5亿港元资产  Caixin]]></description>
+            <description><![CDATA[[财新网] 跨境诈骗集团涉洗黑钱 香港警方冻结太子集团27.5亿港元资产  财新]]></description>
         </item>
         <item>
             <title><![CDATA[日本交易商三井物产将回购高达 13 亿美元的股票]]></title>
@@ -251,7 +265,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-11-05/typhoon-kalmaegi-kills-59-in-philippines-as-it-threatens-vietnam</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-05/typhoon-kalmaegi-kills-59-in-philippines-as-it-threatens-vietnam</guid>
             <pubDate>Wed, 05 Nov 2025 02:26:38 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 周三，一名官员表示，台风海鸥在菲律宾造成至少 66 人死亡，数十人失踪，该国正准备迎接新的风暴。]]></description>
+            <description><![CDATA[[Bloomberg] 一名官员周三表示，台风“海鸥”在菲律宾造成至少 66 人死亡，数十人失踪，该国正准备迎接新的风暴。]]></description>
         </item>
         <item>
             <title><![CDATA[美国“裁员潮”密集爆发，就业市场警报拉响 - 华尔街见闻]]></title>
@@ -310,11 +324,11 @@
             <description><![CDATA[[Bloomberg] 一项私人调查显示，尽管增速为三个月以来最弱，但中国的服务业活动在 10 月份有所扩张，因为在经济放缓加剧期间，假期支出和家庭旅行支撑了该行业。]]></description>
         </item>
         <item>
-            <title><![CDATA[由于科技股估值担忧，日本日经指数跌幅为 4 月份以来最大]]></title>
+            <title><![CDATA[由于科技股估值担忧削弱风险情绪，日本股市暴跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-05/japan-s-nikkei-225-slumps-4-led-by-losses-in-tech-sector</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-05/japan-s-nikkei-225-slumps-4-led-by-losses-in-tech-sector</guid>
             <pubDate>Wed, 05 Nov 2025 01:43:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于担心人工智能的乐观情绪推高了科技股的估值过高，全球风险偏好回落给科技股带来压力，日本股市跌幅为六个月以来最大。]]></description>
+            <description><![CDATA[[Bloomberg] 日本股市周三下跌，原因是全球风险偏好回落打压科技股，人们担心人工智能的看涨情绪导致科技股估值过高。]]></description>
         </item>
         <item>
             <title><![CDATA[Seres 集团总裁谈香港上市及扩张计划]]></title>
@@ -331,11 +345,11 @@
             <description><![CDATA[[Bloomberg] 多年来，塞雷斯集团公司依靠中国科技龙头企业华为技术有限公司，将一家廉价小型货车组装商转变为中国最畅销的豪华汽车制造商。 现在，它已准备好发挥自己的作用。]]></description>
         </item>
         <item>
-            <title><![CDATA[今日开盘：两市双双低开沪指跌幅0.95% - Caixin]]></title>
+            <title><![CDATA[今日开盘：两市双双低开沪指跌幅0.95% - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oeW5meE5vRzV6RHlZX1B1UXR3b1FRWkhwQTJnSE1CaWhsSVVYTTY2Zm5pajBzWkVPZjVfcE8zWS1GOTRTT19HeVF3Y0lFWk51X0xDRkg4cXk0WkhCaTliYTR3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oeW5meE5vRzV6RHlZX1B1UXR3b1FRWkhwQTJnSE1CaWhsSVVYTTY2Zm5pajBzWkVPZjVfcE8zWS1GOTRTT19HeVF3Y0lFWk51X0xDRkg4cXk0WkhCaTliYTR3?oc=5</guid>
             <pubDate>Wed, 05 Nov 2025 01:29:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 今日开盘：两市双双低开沪指跌幅0.95%  Caixin]]></description>
+            <description><![CDATA[[财新网] 今日开盘：两市双双低开沪指跌幅0.95%  财新]]></description>
         </item>
         <item>
             <title><![CDATA[美国谋划关键矿产交易俱乐部 - 华尔街见闻]]></title>
@@ -356,7 +370,7 @@
             <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNS0g1dEZaNHBMZHpORFRlMTJ0S1E2T3o5c05IRHpDd1Z2Q1pjNTd2S0R3TS02bFp3RDFGVUdkUkdrbzUtZzBpY3lzdUVWV29LSldVOXI1dlQyX28xZ3hPazN3ejhGOVRINkxQd2hEY3hxdzdaWmZPS2xfNDJpeFZCR1J4RG1LV1BvQWRjUzBfOGxfU25WUHJtaGFDNTZNZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxNS0g1dEZaNHBMZHpORFRlMTJ0S1E2T3o5c05IRHpDd1Z2Q1pjNTd2S0R3TS02bFp3RDFGVUdkUkdrbzUtZzBpY3lzdUVWV29LSldVOXI1dlQyX28xZ3hPazN3ejhGOVRINkxQd2hEY3hxdzdaWmZPS2xfNDJpeFZCR1J4RG1LV1BvQWRjUzBfOGxfU25WUHJtaGFDNTZNZw?oc=5</guid>
             <pubDate>Wed, 05 Nov 2025 00:34:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于人工智能芯片需求强劲，AMD 预测第四季度营收高于预期 - 路透中文网]]></description>
+            <description><![CDATA[[Reuters Business] 由于人工智能芯片需求强劲，AMD 预测第四季度收入高于预期 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[避险情绪扰乱市场，黄金因避险需求而反弹]]></title>
@@ -429,11 +443,11 @@
             <description><![CDATA[[Reuters Business] 由于银行首席执行官警告可能出现回调，华尔街股市收低，加剧了科技泡沫的不安 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[财经早知道｜春节连休9天 2026年部分节假日安排公布 - Caixin]]></title>
+            <title><![CDATA[财经早知道｜春节连休9天 2026年部分节假日安排公布 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBST0pQaF9LdERKaklCQV96MF9tdURNT3llUjN2U21oSnNobmVjTldwd0hSaEpqQlMzUzh3a1pubUhSNFRncmEyMkh2c1IwTGdkVHVQb2xaMHJJck40MkZac3BB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBST0pQaF9LdERKaklCQV96MF9tdURNT3llUjN2U21oSnNobmVjTldwd0hSaEpqQlMzUzh3a1pubUhSNFRncmEyMkh2c1IwTGdkVHVQb2xaMHJJck40MkZac3BB?oc=5</guid>
             <pubDate>Tue, 04 Nov 2025 23:31:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 财经早知道｜春节连休9天 2026年部分节假日安排公布  Caixin]]></description>
+            <description><![CDATA[[财新网] 财经早知道｜春节连休9天 2026年部分节假日安排公布  财新]]></description>
         </item>
         <item>
             <title><![CDATA[交易员权衡美国库存与贸易休战，油价稳定]]></title>
@@ -450,11 +464,11 @@
             <description><![CDATA[[Reuters Business] Super Micro 未达到交货延迟的季度预期 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[时隔九个月央行重启公开市场国债买卖 10月买入200亿元 - Caixin]]></title>
+            <title><![CDATA[时隔九个月央行重启公开市场国债买卖 10月买入200亿元 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wQ2FhMkJuU3lyelRPcmJkWHRPaG1hcE5BeTBtdGJ5N0pfVlF2NjU5SkVDa29iNVVycDNKUGFkd1hsUzlTY2pHVjl4TnFEZXJnMWJkZDA4bWl2VUZTbTBRS3ZR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wQ2FhMkJuU3lyelRPcmJkWHRPaG1hcE5BeTBtdGJ5N0pfVlF2NjU5SkVDa29iNVVycDNKUGFkd1hsUzlTY2pHVjl4TnFEZXJnMWJkZDA4bWl2VUZTbTBRS3ZR?oc=5</guid>
             <pubDate>Tue, 04 Nov 2025 23:13:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 时隔九个月央行重启公开市场国债买卖 10月买入200亿元  Caixin]]></description>
+            <description><![CDATA[[财新网] 时隔九个月央行重启公开市场国债买卖 10月买入200亿元  财新]]></description>
         </item>
         <item>
             <title><![CDATA[Pinterest 疲弱的收入预测预示着广告收入的激烈竞争 - 路透中文网]]></title>
@@ -478,20 +492,6 @@
             <description><![CDATA[[华尔街见闻] “黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[全球贸易中的人民币需求刺激 Ebury 增加中国员工数量]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-04/yuan-demand-in-global-trade-spurs-ebury-to-boost-china-headcount</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-04/yuan-demand-in-global-trade-spurs-ebury-to-boost-china-headcount</guid>
-            <pubDate>Tue, 04 Nov 2025 23:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 受本土公司扩大海外贸易以及人民币在全球商业中使用日益增加的推动，总部位于英国的跨境支付公司 Ebury 正寻求在中国增加招聘。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[汽车制造商 18 亿美元上市后 Seres 在香港上市首日下跌]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-04/seres-huawei-partner-that-rose-1-600-in-china-to-debut-in-hk</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-04/seres-huawei-partner-that-rose-1-600-in-china-to-debut-in-hk</guid>
-            <pubDate>Tue, 04 Nov 2025 23:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 中国最畅销的豪华汽车制造商塞雷斯集团有限公司 (Seres Group Co.) 在公开发行期间筹集了 143 亿港元（合 18 亿美元）的资金，并为该市新上市的一年增添了色彩，该公司在香港上市首日股价下跌。]]></description>
-        </item>
-        <item>
             <title><![CDATA[新西兰失业率创2016年以来最高]]></title>
             <link>https://www.wsj.com/economy/central-banking/new-zealands-unemployment-highest-since-2016-f394da9d</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/new-zealands-unemployment-highest-since-2016-f394da9d</guid>
@@ -506,11 +506,11 @@
             <description><![CDATA[[华尔街见闻] AMD营收大超预期但指引未能打动投资者，股价盘后震荡下挫 | 财报见闻  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[股市扩大跌幅，债券因避险需求而上涨：市场总结]]></title>
+            <title><![CDATA[股市扩大跌幅，黄金因避险买盘而上涨：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-04/asian-stocks-look-sluggish-after-wall-street-slump-markets-wrap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-04/asian-stocks-look-sluggish-after-wall-street-slump-markets-wrap</guid>
             <pubDate>Tue, 04 Nov 2025 22:34:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于对估值过高的担忧，全球股市在遭受近一个月来最大跌幅后扩大跌幅。 债券上涨，投资者寻求日元等避险货币的安全。]]></description>
+            <description><![CDATA[[Bloomberg] 由于对估值过高的担忧，全球股市在遭受近一个月来最大跌幅后扩大跌幅。 由于投资者寻求避险资产，债券随黄金上涨。]]></description>
         </item>
         <item>
             <title><![CDATA[盘后涨幅最大的股票：AMD、Super Micro、Live Nation、Axon Enterprise 等]]></title>
@@ -531,7 +531,7 @@
             <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHFXeTJhMXpXVF9ReGZnRXZqa255cEtUVWZRWkk1OHNJeE10UzBhd3MyX1pQSW80anNxcXBUalhSbUJSMkNsZVpuWVgxaVo5VHhBRVBrbTNRZTA1OHVQVkM2c0Vha2UzaHg3Nm01TTdNRHNEb1ZGdkl2Vy1qT0RwZ0NEaXRuSmJCbjV2Y00zcVB4NkhNcGVWMFpMNFNfc1Y4Ml9VdzFZTnBqdVVsY1BRb0htaGxBal9kcTAtRXFJUXh6OHcyZWhMVlh0X19ZeXVTY0dmYXhxU3dDYlhDT0gw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOHFXeTJhMXpXVF9ReGZnRXZqa255cEtUVWZRWkk1OHNJeE10UzBhd3MyX1pQSW80anNxcXBUalhSbUJSMkNsZVpuWVgxaVo5VHhBRVBrbTNRZTA1OHVQVkM2c0Vha2UzaHg3Nm01TTdNRHNEb1ZGdkl2Vy1qT0RwZ0NEaXRuSmJCbjV2Y00zcVB4NkhNcGVWMFpMNFNfc1Y4Ml9VdzFZTnBqdVVsY1BRb0htaGxBal9kcTAtRXFJUXh6OHcyZWhMVlh0X19ZeXVTY0dmYXhxU3dDYlhDT0gw?oc=5</guid>
             <pubDate>Tue, 04 Nov 2025 22:13:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 消息人士称，礼来公司 (Lilly) 和诺和诺德 (Novo) 即将与白宫达成降低肥胖药物价格、获得医疗保险的协议 路透]]></description>
+            <description><![CDATA[[Reuters Business] 消息人士称，礼来 (Lilly) 和 Novo 即将与白宫达成降低肥胖药物价格、获得医疗保险的协议 路透]]></description>
         </item>
         <item>
             <title><![CDATA[加拿大计划扩大赤字以震动经济]]></title>
