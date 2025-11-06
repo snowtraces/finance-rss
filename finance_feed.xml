@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 06 Nov 2025 15:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 15:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[随着中国人工智能竞赛的升温，阿里巴巴支持的Moonshot发布了四个月内的第二次人工智能更新]]></title>
+            <link>https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html</guid>
+            <pubDate>Thu, 06 Nov 2025 15:38:09 GMT</pubDate>
+            <description><![CDATA[[CNBC] 这家中国人工智能初创公司周四发布了最新的“Kimi K2 Thinking”人工智能模型。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[花旗的凯特·摩尔表示，劳动力市场“冻结但稳固”]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-11-06/labor-market-frozen-but-solid-citi-s-kate-moore-says-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-06/labor-market-frozen-but-solid-citi-s-kate-moore-says-video</guid>
+            <pubDate>Thu, 06 Nov 2025 15:32:02 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 花旗财富首席信息官凯特·摩尔表示：“通货膨胀的情况比我们想象的要温暖一些。” 摩尔在接受马特·米勒的“彭博未平仓合约”采访时表示，美联储的货币政策适合当前的通胀和劳动力市场状况。  （来源：彭博社）]]></description>
+        </item>
         <item>
             <title><![CDATA[可自动赎回交易所交易基金指南]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-06/podcast-your-guide-to-autocallable-exchange-traded-funds</link>
@@ -86,11 +100,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[特朗普政府将铜、煤添加到关键矿产清单中]]></title>
+            <title><![CDATA[铜和银加入修订后的美国关键矿物清单]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-06/trump-administration-adds-copper-coal-to-critical-minerals-list</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-06/trump-administration-adds-copper-coal-to-critical-minerals-list</guid>
             <pubDate>Thu, 06 Nov 2025 15:03:31 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着特朗普政府扩大其认为对美国经济和国家安全至关重要的商品范围，美国将铀、铜和银添加到政府关键矿产清单中。]]></description>
+            <description><![CDATA[[Bloomberg] 随着特朗普政府扩大其认为对美国经济和国家安全至关重要的商品范围，美国将铜、银和铀添加到政府关键矿产清单中。]]></description>
         </item>
         <item>
             <title><![CDATA[由于稳定币占据一些市场份额的威胁，凯西·伍德(Cathie Wood)削减了她的比特币牛市理由]]></title>
@@ -154,6 +168,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxQYkhkSjNaS003eHJEc0YwOXplT3A1VWtQdWk2YkZMM3VSUFgyQVUyMU5EbzB3UHRJX3JxN3VJdDRtcDM5MVI5SXpkVkcwOTZ0Zld1b3d2dGV1NUhXVjJMMkFpZkZKZUNNdDM4VmVWZkVkdWd6d0trWWVNWVZDd1NNbVRxa0ZIcjVmVko5bF9XcHpTLTJseDV0Y29Lc0lEX2JzS3JJNQ?oc=5</guid>
             <pubDate>Thu, 06 Nov 2025 14:33:35 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 由于投资者评估企业盈利和好坏参半的经济数据，华尔街开盘走低 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[巴西进入2010年以来最繁忙的债务市场]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-06/brazil-tapping-debt-markets-in-busiest-spree-since-2010</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-06/brazil-tapping-debt-markets-in-busiest-spree-since-2010</guid>
+            <pubDate>Thu, 06 Nov 2025 14:26:05 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 巴西计划今年第四次出售美元债券，利用投资者对高收益债券兴趣激增的机会，以实现自 2010 年以来最繁忙的年度狂欢。]]></description>
         </item>
         <item>
             <title><![CDATA[AI股波动表明美国市场对科技的依赖 - 路透中文网]]></title>
@@ -254,25 +275,11 @@
             <description><![CDATA[[Reuters Business] 随着白宫交易临近，Novo 和礼来公司股价上涨 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[新的美国关税疑虑将如何在贸易伙伴中产生]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-06/how-fresh-us-tariff-doubts-will-play-out-among-trading-partners</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-06/how-fresh-us-tariff-doubts-will-play-out-among-trading-partners</guid>
-            <pubDate>Thu, 06 Nov 2025 13:38:59 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 最高法院对唐纳德·特朗普总统利用广泛权力来证明其大规模关税合理性的质疑，导致实际缴纳关税的企业面临数月的潜在不确定性。]]></description>
-        </item>
-        <item>
             <title><![CDATA[KFF民意调查发现，大多数美国人支持在政府关门期间延长奥巴马医改税收抵免 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWFJDZnRQUmFDRVlxVDZFdDRRZDFQUkM4cGE0N0c4S0hvRW9PTVFlcnU2LTBLMTFiaW1vRVdhQW94Z3ppX3ppNTVvcGlxMXBXV0NGVWExVkF0c0FZWGdHVnRha09SaFU3VEVlYjlPczRuclVVSWlZZ19TelVxd05hWVZrZEZjdjl3QVkxQWhTRUdDcTg1azRjek1ZSDJXTU1yM2NtcktwSlNYS0xfaURqZHZOTjJ3d21ORkxiQ3F2blpCTXYtWURmSnFVV0kwR2REaEdneVJzSmtzdmNQcHNRMndGbmxDdm8?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWFJDZnRQUmFDRVlxVDZFdDRRZDFQUkM4cGE0N0c4S0hvRW9PTVFlcnU2LTBLMTFiaW1vRVdhQW94Z3ppX3ppNTVvcGlxMXBXV0NGVWExVkF0c0FZWGdHVnRha09SaFU3VEVlYjlPczRuclVVSWlZZ19TelVxd05hWVZrZEZjdjl3QVkxQWhTRUdDcTg1azRjek1ZSDJXTU1yM2NtcktwSlNYS0xfaURqZHZOTjJ3d21ORkxiQ3F2blpCTXYtWURmSnFVV0kwR2REaEdneVJzSmtzdmNQcHNRMndGbmxDdm8?oc=5</guid>
             <pubDate>Thu, 06 Nov 2025 13:38:20 GMT</pubDate>
             <description><![CDATA[[Reuters Business] KFF 民意调查发现，大多数美国人支持在政府关门期间延长奥巴马医改税收抵免 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国特使敦促在不确定性中与英国加强对话]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-06/china-s-top-envoy-urges-stronger-dialog-with-uk-amid-uncertainty</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-06/china-s-top-envoy-urges-stronger-dialog-with-uk-amid-uncertainty</guid>
-            <pubDate>Thu, 06 Nov 2025 13:31:38 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 中国外交部长王毅告诉英国外交大臣伊维特·库珀，两国应加强战略沟通，以在全球紧张局势加剧的情况下稳定关系，并警告称，两国关系可能面临倒退的风险。]]></description>
         </item>
         <item>
             <title><![CDATA[扎兰多通过德国足球协议加强对体育的关注 - 路透中文网]]></title>
@@ -317,7 +324,7 @@
             <description><![CDATA[[Bloomberg] 由于食客（尤其是低收入食客）减少外出就餐，棒约翰国际公司 (Papa John’s International Inc.) 的可比销售额意外萎缩，并且该披萨连锁店大幅下调了预期，股价下跌。]]></description>
         </item>
         <item>
-            <title><![CDATA[亚马逊股价暴涨 3000 亿美元，让股票重新回到人工智能话题中]]></title>
+            <title><![CDATA[亚马逊交易员押注 3000 亿美元的涨势才刚刚开始]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-06/amazon-s-300-billion-jump-puts-stock-back-in-ai-conversation</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-06/amazon-s-300-billion-jump-puts-stock-back-in-ai-conversation</guid>
             <pubDate>Thu, 06 Nov 2025 12:37:16 GMT</pubDate>
@@ -385,6 +392,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGwycUJXc3RSX3c5dmZuZXdiUDh2RWRLRnc0Q1dXNDg1YU53c3A5aFdqaUtMdlBRRFdQcWVqdGJkVXktVkhOOXpmYWhxYVJwNFFaWHhKbkVzOGd3TWVmMmhjdFJSakotVTFRaE1jYUs0UjJsRVZDVU1kZTZkd0FFUHB3?oc=5</guid>
             <pubDate>Thu, 06 Nov 2025 11:44:15 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 早盘竞价：随着经济繁荣、裁员增加，抛售减弱 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[4 亿美元的 Perplexity 交易重燃人工智能雄心 Snap 股价飙升 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzlRYnVHRi0xY09vTFdnYzhpLTBqcFpldzRRYWctcGlhMl9UdDFCTVRwSHlpa1NzREpnUDVXMGdHbUxSazQyUUhSR0hfcEpMSmk5MmFXaV9XQUt5aEJiazNfQk1RYjVGMEstaWdfUFJLeFhjVGJUbEc2Nl9tR3JUZXNCcWkxQTRsMTZXdkc4eWxUeVA3UEEyckxCV0lGMVJROFhyOExZYkd6XzJJWmhfWHpRNA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzlRYnVHRi0xY09vTFdnYzhpLTBqcFpldzRRYWctcGlhMl9UdDFCTVRwSHlpa1NzREpnUDVXMGdHbUxSazQyUUhSR0hfcEpMSmk5MmFXaV9XQUt5aEJiazNfQk1RYjVGMEstaWdfUFJLeFhjVGJUbEc2Nl9tR3JUZXNCcWkxQTRsMTZXdkc4eWxUeVA3UEEyckxCV0lGMVJROFhyOExZYkd6XzJJWmhfWHpRNA?oc=5</guid>
+            <pubDate>Thu, 06 Nov 2025 11:31:59 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 4 亿美元的 Perplexity 交易重燃 AI 雄心 Snap 股价飙升 路透]]></description>
         </item>
         <item>
             <title><![CDATA[尽管费用上涨，美国液化天然气生产商的合同量仍接近创纪录水平 - 路透中文网]]></title>
@@ -489,7 +503,7 @@
             <link>https://www.wsj.com/articles/norways-central-bank-confirms-it-is-in-no-rush-to-lower-borrowing-costs-further-993dc76e</link>
             <guid isPermaLink="false">https://www.wsj.com/articles/norways-central-bank-confirms-it-is-in-no-rush-to-lower-borrowing-costs-further-993dc76e</guid>
             <pubDate>Thu, 06 Nov 2025 09:44:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 挪威央行周四将关键政策利率维持在 4%，并重申未来几年缓慢放松货币政策的计划。]]></description>
+            <description><![CDATA[[WSJ] 挪威央行周四将关键政策利率维持在4%，并重申未来几年缓慢放松货币政策的计划。]]></description>
         </item>
         <item>
             <title><![CDATA[德国央行警告德国面临金融稳定风险上升 - 路透中文网]]></title>
@@ -628,7 +642,7 @@
             <title><![CDATA[随着OPEC+增产，沙特阿拉伯下调12月亚洲油价 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTRfazRLeUw4YXQ1d1VzdGRLWTVXNzNURmphY0dIdWh6c3ZtVzZBdE0zZnBkeVhVeGswQUMyZFlmNWNfUVhDSkZpSUdNclloaFlwLWNDdnZEYTljbXFBc0hDOWJEeEZNX2ZzRTJhLVp2NGh5aXFyc0pTeTZnOGxsbTByTXRRUTZ2bmxWUXRlSTE3ajZ2U1BWOHZCekZuUDNMUGxVTjBtTHk2Y1RmbEM2VWV1OA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTRfazRLeUw4YXQ1d1VzdGRLWTVXNzNURmphY0dIdWh6c3ZtVzZBdE0zZnBkeVhVeGswQUMyZFlmNWNfUVhDSkZpSUdNclloaFlwLWNDdnZEYTljbXFBc0hDOWJEeEZNX2ZzRTJhLVp2NGh5aXFyc0pTeTZnOGxsbTByTXRRUTZ2bmxWUXRlSTE3ajZ2U1BWOHZCekZuUDNMUGxVTjBtTHk2Y1RmbEM2VWV1OA?oc=5</guid>
-            <pubDate>Thu, 06 Nov 2025 03:17:00 GMT</pubDate>
+            <pubDate>Thu, 06 Nov 2025 03:17:05 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着 OPEC+ 增产，沙特阿拉伯下调 12 月亚洲石油价格 路透]]></description>
         </item>
         <item>
@@ -684,7 +698,7 @@
             <title><![CDATA[参议院共和党人对特朗普结束阻挠政治的努力不予理睬 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTVIMmZERmVabXZqNjlKQUI0OEwyU2gzdEtRM1hDUEJKYWYzZ2NZaEdydUU4cngyOTB0YktiQVRYYmRPcFJRd3c4VHVUSno1MDlEMGdDVDNrQUFFWWpPVlN1SzhyRUJ5NzVNQ2JQeXFDUnZ5VUJVeHNmaFIzMWxQal9zVjNncEx4TDJkNWdSSVhmOXBnOFkwZm1hUU9KSHBiMmN5S0xKU0RDaVhlZnZoMG15Z2I4VmU0?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTVIMmZERmVabXZqNjlKQUI0OEwyU2gzdEtRM1hDUEJKYWYzZ2NZaEdydUU4cngyOTB0YktiQVRYYmRPcFJRd3c4VHVUSno1MDlEMGdDVDNrQUFFWWpPVlN1SzhyRUJ5NzVNQ2JQeXFDUnZ5VUJVeHNmaFIzMWxQal9zVjNncEx4TDJkNWdSSVhmOXBnOFkwZm1hUU9KSHBiMmN5S0xKU0RDaVhlZnZoMG15Z2I4VmU0?oc=5</guid>
-            <pubDate>Thu, 06 Nov 2025 00:37:14 GMT</pubDate>
+            <pubDate>Thu, 06 Nov 2025 00:37:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 参议院共和党人对特朗普结束阻挠政治的努力不予理会 路透]]></description>
         </item>
         <item>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxPelBwLUtmYnpGNG5DaGc2NEQzX09pMkFEcG85c1JCWHcwY0VGb0hSY0cwZ3FCN1l3dzVPaDlSVUs4VE5jTDJwSHhsUWdSbEdXckZQYnRQYUFUX1FZMkZvLUFuTXF4bjhUanhJUTRDcjY5V0t2OVRwNmctUi12WVNCemxTdkQ2dHRBY1BMOVYtVWp6ZzVOeTJGM0R1Qmpmdw?oc=5</guid>
             <pubDate>Thu, 06 Nov 2025 00:31:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 由于可靠的数据和强劲的盈利抵消了估值担忧，华尔街收高 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国疲弱就业数据提振降息前景，金价上涨]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-06/gold-steadies-as-traders-assess-outlook-for-us-interest-rates</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-06/gold-steadies-as-traders-assess-outlook-for-us-interest-rates</guid>
-            <pubDate>Thu, 06 Nov 2025 00:26:41 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 数据显示美国就业市场大幅疲软，提高了降息前景，金价连续第二天上涨。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[应对全球变暖，马斯克提出疯狂构想：用AI卫星遮住太阳！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1c1lNNjF0aGdmVDdEcGxUeGhURmxVUThVTmxzdklnN1lsMzdlQWV5d1p4ZUlKUURvbFA1QWNuYjd0X2tZS0czVk1JanE5bF9SQlE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1c1lNNjF0aGdmVDdEcGxUeGhURmxVUThVTmxzdklnN1lsMzdlQWV5d1p4ZUlKUURvbFA1QWNuYjd0X2tZS0czVk1JanE5bF9SQlE?oc=5</guid>
-            <pubDate>Thu, 06 Nov 2025 00:24:46 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 应对全球变暖，马斯克提出疯狂构想：用AI卫星遮住太阳！  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
