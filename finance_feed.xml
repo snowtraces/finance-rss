@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 07 Nov 2025 18:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Nov 2025 18:46:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[密歇根大学的月度调查显示，11 月份消费者情绪进一步下降]]></title>
+            <link>https://www.wsj.com/economy/consumers/u-s-consumer-confidence-slides-in-november-8b5a459a</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/consumers/u-s-consumer-confidence-slides-in-november-8b5a459a</guid>
+            <pubDate>Fri, 07 Nov 2025 18:44:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 密歇根大学的调查读数略高于 2022 年历史性通胀期间情绪下跌的水平。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CarMax 分析师认输，前景变得更加不明朗]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-07/carmax-analysts-throw-in-the-towel-as-road-ahead-gets-murkier</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-07/carmax-analysts-throw-in-the-towel-as-road-ahead-gets-murkier</guid>
+            <pubDate>Fri, 07 Nov 2025 18:35:43 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] CarMax Inc. 灾难性的季度业绩促使至少五家华尔街公司降低了该股的评级，因为这家二手车零售商面临着长期的挑战和不确定性。]]></description>
+        </item>
         <item>
             <title><![CDATA[迪士尼继续与YouTube TV谈判以恢复ABC和ESPN频道]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3071975</link>
@@ -35,6 +49,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3071972</guid>
             <pubDate>Fri, 07 Nov 2025 18:02:31 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于政府关门加剧焦虑，美国消费者信心接近 3-1/2 年低点 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXlZTG1oQzNqbWU1UGk4NjlyeXlENjB2UHdWaHV3b09fa0JteHJCOVVuS2tmR2hNZVctdFlZdlpWVmdvb21wMTJIMmxsLWJxN3pxQlI3VE1FZ1RBdEJZbnVrWTVPbTFtM1BIdGhodlp1V0N2TENuQ1U0WHZSaXlVczJzUG9iYXZITXBwVkR5WU9ZQ1pjTVVBemJZQlFvSkpmN3QyaHlUakhvOHB6R0E?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXlZTG1oQzNqbWU1UGk4NjlyeXlENjB2UHdWaHV3b09fa0JteHJCOVVuS2tmR2hNZVctdFlZdlpWVmdvb21wMTJIMmxsLWJxN3pxQlI3VE1FZ1RBdEJZbnVrWTVPbTFtM1BIdGhodlp1V0N2TENuQ1U0WHZSaXlVczJzUG9iYXZITXBwVkR5WU9ZQ1pjTVVBemJZQlFvSkpmN3QyaHlUakhvOHB6R0E?oc=5</guid>
+            <pubDate>Fri, 07 Nov 2025 17:58:30 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 由于政府关门加剧焦虑，美国消费者信心接近 3-1/2 年低点 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国联邦航空局关闭指令后，美国航空公司周五削减了数百个航班 - 路透中文网]]></title>
@@ -100,13 +121,6 @@
             <description><![CDATA[[Bloomberg] 唐纳德·特朗普(Donald Trump)第二个任期还不到一年，由于销售停滞、盈利能力仍然难以捉摸，他的社交媒体公司股票的选举后的热情已经消失。]]></description>
         </item>
         <item>
-            <title><![CDATA[密歇根大学的月度调查显示，11 月份消费者情绪进一步下降]]></title>
-            <link>https://www.wsj.com/economy/consumers/u-s-consumer-confidence-slides-in-november-8b5a459a</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/consumers/u-s-consumer-confidence-slides-in-november-8b5a459a</guid>
-            <pubDate>Fri, 07 Nov 2025 17:30:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 密歇根大学的调查读数略高于 2022 年历史性通胀期间情绪下跌的水平。]]></description>
-        </item>
-        <item>
             <title><![CDATA[索尔上涨 11% 后秘鲁央行再次买入美元]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-07/peru-s-central-bank-is-buying-dollars-again-after-sol-rallies-11</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-07/peru-s-central-bank-is-buying-dollars-again-after-sol-rallies-11</guid>
@@ -161,6 +175,20 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3071932</guid>
             <pubDate>Fri, 07 Nov 2025 17:09:35 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[瑞银将清算因 First Brands 破产而遭受打击的奥康纳基金 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWEyeEpLa01DbkpweFNWOGlwajJyTWhYSE5SWmZmdTRFcjlLZVNWRFk0OXQ0cm41Y1dIblR4WUhmaGVONkUteE5zWHJ1dlVYOFdfQTlfRFh5UDQ5SUxWNVFseDNoaFhyYWpBX1AtZmtXb0pvYUk3VTRfZThOQjR1NE9kVG55Y3hhT01xaG9VOTVpQXQtX0lQWUJmUEdnb2NjaEFLbXJKOWgyWUlyaWZLNQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxOQWEyeEpLa01DbkpweFNWOGlwajJyTWhYSE5SWmZmdTRFcjlLZVNWRFk0OXQ0cm41Y1dIblR4WUhmaGVONkUteE5zWHJ1dlVYOFdfQTlfRFh5UDQ5SUxWNVFseDNoaFhyYWpBX1AtZmtXb0pvYUk3VTRfZThOQjR1NE9kVG55Y3hhT01xaG9VOTVpQXQtX0lQWUJmUEdnb2NjaEFLbXJKOWgyWUlyaWZLNQ?oc=5</guid>
+            <pubDate>Fri, 07 Nov 2025 17:06:55 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 瑞银将清算因 First Brands 破产而遭受打击的奥康纳资金 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[NHTSA 称本田将因车轮脱落问题召回超过 406,000 辆美国汽车 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlhIdHNpUURpaEdRd3E5ajBBdEZIOGRUM3dWMzZUYjFVLURoSjhBTjZUZmNKaXpUUjdRTnR1M0xKQ3NGRzk5SDJMekpJVHNQV0RtaGhWaVhuaVF1NDZOWVRKYVNETWdhYmFGVlpieDNieGplWk80QVBza0h4ckp3UUZ6VGlpNHBDeExFVnRBckpDQXdTc3ZrMjh1NUdUdTFZTkZaZXBmNUlnOGZuaWJsQ3Q0em8yZjdKNnAtVlp3akJ5WGZRdnVTQlNoWko0ZTEtaXE5Vy1ISGI?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlhIdHNpUURpaEdRd3E5ajBBdEZIOGRUM3dWMzZUYjFVLURoSjhBTjZUZmNKaXpUUjdRTnR1M0xKQ3NGRzk5SDJMekpJVHNQV0RtaGhWaVhuaVF1NDZOWVRKYVNETWdhYmFGVlpieDNieGplWk80QVBza0h4ckp3UUZ6VGlpNHBDeExFVnRBckpDQXdTc3ZrMjh1NUdUdTFZTkZaZXBmNUlnOGZuaWJsQ3Q0em8yZjdKNnAtVlp3akJ5WGZRdnVTQlNoWko0ZTEtaXE5Vy1ISGI?oc=5</guid>
+            <pubDate>Fri, 07 Nov 2025 17:06:22 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] NHTSA 称本田将因车轮脱落问题召回超过 406,000 辆美国汽车 路透]]></description>
         </item>
         <item>
             <title><![CDATA[FHFA 的普尔特表示房利美、房地美正在考虑入股科技公司]]></title>
@@ -282,13 +310,6 @@
             <description><![CDATA[[Bloomberg] 高盛董事长兼首席执行官大卫·所罗门表示，如果增长速度没有改善，美国债务将面临经济“清算”的风险。 他还表示，他认为近期经济衰退的可能性“很低”，并对美元作为世界储备货币的未来发表了评论。 所罗门出现在本周的《大卫·鲁宾斯坦秀：点对点对话》节目中。 本次采访于 10 月 30 日在华盛顿特区经济俱乐部录制。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[由于政府关门拖延，美国11月消费者信心减弱 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXlZTG1oQzNqbWU1UGk4NjlyeXlENjB2UHdWaHV3b09fa0JteHJCOVVuS2tmR2hNZVctdFlZdlpWVmdvb21wMTJIMmxsLWJxN3pxQlI3VE1FZ1RBdEJZbnVrWTVPbTFtM1BIdGhodlp1V0N2TENuQ1U0WHZSaXlVczJzUG9iYXZITXBwVkR5WU9ZQ1pjTVVBemJZQlFvSkpmN3QyaHlUakhvOHB6R0E?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXlZTG1oQzNqbWU1UGk4NjlyeXlENjB2UHdWaHV3b09fa0JteHJCOVVuS2tmR2hNZVctdFlZdlpWVmdvb21wMTJIMmxsLWJxN3pxQlI3VE1FZ1RBdEJZbnVrWTVPbTFtM1BIdGhodlp1V0N2TENuQ1U0WHZSaXlVczJzUG9iYXZITXBwVkR5WU9ZQ1pjTVVBemJZQlFvSkpmN3QyaHlUakhvOHB6R0E?oc=5</guid>
-            <pubDate>Fri, 07 Nov 2025 15:49:38 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于政府关闭拖累美国 11 月消费者信心减弱 - 路透中文网]]></description>
-        </item>
-        <item>
             <title><![CDATA[贝莱德的罗森伯格看到了曲线中间的“最佳点”]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-11-07/rosenberg-sees-sweet-spot-in-middle-of-the-curve-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-07/rosenberg-sees-sweet-spot-in-middle-of-the-curve-video</guid>
@@ -315,13 +336,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-07/ubs-joins-list-of-star-tenants-in-gic-backed-mumbai-tower</guid>
             <pubDate>Fri, 07 Nov 2025 15:31:54 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 知情人士称，瑞银集团将于明年初在 GIC Pte 的支持下，在孟买的一栋摩天大楼中租用新的办公空间，成为知名租户之一。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国消费者信心跌至三年多低点]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-11-07/us-consumer-sentiment-falls-to-more-than-three-year-low-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-07/us-consumer-sentiment-falls-to-more-than-three-year-low-video</guid>
-            <pubDate>Fri, 07 Nov 2025 15:24:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 根据密歇根大学的数据，11 月份信心指数初值从上个月的 53.6 降至 50.3，为 2022 年 6 月以来的最低水平。 这比彭博社对经济学家的调查中除了一个人之外的所有估计都要弱。 迈克·麦基报道“彭博未平仓合约”。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[《华盛顿邮报》表示，它是与甲骨文软件相关的网络漏洞的受害者之一 - 路透中文网]]></title>
@@ -618,13 +632,6 @@
             <description><![CDATA[[Reuters Business] 独家：消息人士称，中国开始放宽稀土出口规定，但未达到特朗普的希望 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[NHTSA 称本田将因车轮脱落问题召回超过 406,000 辆美国汽车 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlhIdHNpUURpaEdRd3E5ajBBdEZIOGRUM3dWMzZUYjFVLURoSjhBTjZUZmNKaXpUUjdRTnR1M0xKQ3NGRzk5SDJMekpJVHNQV0RtaGhWaVhuaVF1NDZOWVRKYVNETWdhYmFGVlpieDNieGplWk80QVBza0h4ckp3UUZ6VGlpNHBDeExFVnRBckpDQXdTc3ZrMjh1NUdUdTFZTkZaZXBmNUlnOGZuaWJsQ3Q0em8yZjdKNnAtVlp3akJ5WGZRdnVTQlNoWko0ZTEtaXE5Vy1ISGI?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZlhIdHNpUURpaEdRd3E5ajBBdEZIOGRUM3dWMzZUYjFVLURoSjhBTjZUZmNKaXpUUjdRTnR1M0xKQ3NGRzk5SDJMekpJVHNQV0RtaGhWaVhuaVF1NDZOWVRKYVNETWdhYmFGVlpieDNieGplWk80QVBza0h4ckp3UUZ6VGlpNHBDeExFVnRBckpDQXdTc3ZrMjh1NUdUdTFZTkZaZXBmNUlnOGZuaWJsQ3Q0em8yZjdKNnAtVlp3akJ5WGZRdnVTQlNoWko0ZTEtaXE5Vy1ISGI?oc=5</guid>
-            <pubDate>Fri, 07 Nov 2025 08:22:47 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] NHTSA 称本田将因车轮脱落问题召回超过 406,000 辆美国汽车 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[德国九月出口因美国贸易协议而攀升]]></title>
             <link>https://www.wsj.com/economy/trade/german-exports-climbed-in-september-on-u-s-trade-deal-fd42a70e</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/trade/german-exports-climbed-in-september-on-u-s-trade-deal-fd42a70e</guid>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wWWJQSWxRSGZDNHVNcWVGeXNqeF9ycm9TV181MkZ5NFJlSmRXZndRUEdXMnF3MlZtRHRVbDNZZnhTOFYxU3ZSSkVtaXQydkVhMjk0?oc=5</guid>
             <pubDate>Fri, 07 Nov 2025 06:18:18 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[挪威央行确认不急于进一步降低借贷成本]]></title>
-            <link>https://www.wsj.com/articles/norways-central-bank-confirms-it-is-in-no-rush-to-lower-borrowing-costs-further-993dc76e</link>
-            <guid isPermaLink="false">https://www.wsj.com/articles/norways-central-bank-confirms-it-is-in-no-rush-to-lower-borrowing-costs-further-993dc76e</guid>
-            <pubDate>Fri, 07 Nov 2025 06:13:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 挪威央行周四将关键政策利率维持在4%，并重申未来几年缓慢放松货币政策的计划。]]></description>
         </item>
     </channel>
 </rss>
