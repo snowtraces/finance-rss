@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 08 Nov 2025 14:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Nov 2025 14:38:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[1,900% 的股票涨幅和仇恨邮件：欢迎来到量子投资]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-08/1-900-stock-gains-and-hate-mail-welcome-to-quantum-investing</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-08/1-900-stock-gains-and-hate-mail-welcome-to-quantum-investing</guid>
+            <pubDate>Sat, 08 Nov 2025 14:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Rigetti Computer Inc. 和 D-Wave Quantum Inc. 生产的产品迄今为止在实际应用中还很少。 他们正在烧钱，预计多年来都不会产生大量收入。 尽管如此，投资者仍欲罢不能。]]></description>
+        </item>
         <item>
             <title><![CDATA[华尔街周刊 | 马姆达尼的胜利、关税斗争、儿科、蛋白质热潮]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-11-08/wall-street-week-mamdani-s-win-tariffs-fight-video</link>
@@ -56,6 +63,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072337</guid>
             <pubDate>Sat, 08 Nov 2025 12:35:51 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大型零售商承诺感恩节价格更便宜，但情况却有所不同 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXMyc0tGVG1pV002c01ISXlnQmN0QUFCRTY2UGhpWm1IX1JodTQ1d3VVZFltTE9lWE1lRnFfY2dmVXFuaWcweVlyUTM0RUExNG1TRlpFUUozbzl0UmYzTXR4Qk8tcTVTR0ZneUdmbWhSblNfRHpDNlFTYXFaSHhTODNyeE5VTUNEQ3NCaWJQMTdsX3hleGRxSG5SVThFS2hvdFFnNQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXMyc0tGVG1pV002c01ISXlnQmN0QUFCRTY2UGhpWm1IX1JodTQ1d3VVZFltTE9lWE1lRnFfY2dmVXFuaWcweVlyUTM0RUExNG1TRlpFUUozbzl0UmYzTXR4Qk8tcTVTR0ZneUdmbWhSblNfRHpDNlFTYXFaSHhTODNyeE5VTUNEQ3NCaWJQMTdsX3hleGRxSG5SVThFS2hvdFFnNQ?oc=5</guid>
+            <pubDate>Sat, 08 Nov 2025 12:20:33 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 大型零售商承诺感恩节价格更便宜，但情况却有所不同 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[“果链”再造“机器人链”，造完 iPhone 造机器人和机器狗]]></title>
@@ -191,13 +205,6 @@
             <description><![CDATA[[华尔街见闻] 特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[科技巨头的资本开支逼近极限了？ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxN0NfZkoyZjZKWFNWOVFCREdHdVhNUXRVLUdMcHdOQlA3N1lqaDZMWHk4RVdjdDNoSTRRQkdtRFlPTm8zRlN2SHUyN0VUcmNqZXc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxN0NfZkoyZjZKWFNWOVFCREdHdVhNUXRVLUdMcHdOQlA3N1lqaDZMWHk4RVdjdDNoSTRRQkdtRFlPTm8zRlN2SHUyN0VUcmNqZXc?oc=5</guid>
-            <pubDate>Sat, 08 Nov 2025 01:19:00 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 科技巨头的资本开支逼近极限了？  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[亚马逊将低成本电子商务服务推向全球 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZERQeDVQQkVkeV85QnF3RnFUa3habVRweVB2NGFDTzhEcTFERzg5UW11Wjk2QkxyMXQ5bm1zTlI4TkVVLTRPcWdpN0lyRENjODNyVktCemZMZ3N3cE54bFhxeDRsd3g0bXNNWjRpR1JONF82WVlCOEZQbEkxcVZIZGZ1bFRjcG1BOFptOGtxY3RlMk9rdjdxTG04VDduVFpSMl9ldmU0WjNTUFU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZERQeDVQQkVkeV85QnF3RnFUa3habVRweVB2NGFDTzhEcTFERzg5UW11Wjk2QkxyMXQ5bm1zTlI4TkVVLTRPcWdpN0lyRENjODNyVktCemZMZ3N3cE54bFhxeDRsd3g0bXNNWjRpR1JONF82WVlCOEZQbEkxcVZIZGZ1bFRjcG1BOFptOGtxY3RlMk9rdjdxTG04VDduVFpSMl9ldmU0WjNTUFU?oc=5</guid>
@@ -244,7 +251,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-11-08/pfizer-sweetens-its-offer-for-metsera-in-bidding-war-against-novo</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-08/pfizer-sweetens-its-offer-for-metsera-in-bidding-war-against-novo</guid>
             <pubDate>Sat, 08 Nov 2025 00:25:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 辉瑞公司 (Pfizer Inc.) 同意以高达 100 亿美元的价格收购丹麦制药商 Metsera Inc.，在一场激烈的竞购战中击败了丹麦制药商诺和诺德公司 (Novo Nordisk A/S)。]]></description>
+            <description><![CDATA[[Bloomberg] 辉瑞公司 (Pfizer Inc.) 同意以高达 100 亿美元的价格收购丹麦制药商 Metsera Inc.，在一场激烈的竞购战中击败了诺和诺德公司 (Novo Nordisk A/S)。]]></description>
         </item>
         <item>
             <title><![CDATA[为什么美国人痴迷于蛋白质]]></title>
@@ -583,13 +590,6 @@
             <description><![CDATA[[Bloomberg] 本周美国国债市场多头和空头打成平局，因为有关美国劳动力市场健康状况的私营部门数据相互矛盾，导致美联储 12 月再次降息的预期陷入困境。]]></description>
         </item>
         <item>
-            <title><![CDATA[埃克森美孚首席执行官预计石油和天然气将长期发挥作用，但可能不是作为燃料 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZjcwRXIxeXlnczExRFdtRlFjWHpvVmtwdHN2eVh1UFRkc2k1c2NKM2V5ckdSNDZ0aVQyMDN0TENiUzJteUN2blFPY2ZZeEdZeDU2QlRZNndBYzM5aUNEbDhfTkNfMUExZld4bFVUVUpZRXc4VTN2TjgyckVfWFFsNVRwRVdqc2FFQ3FtVDA1RDRnTDFkQWdCMTd3dVN5a2JrcE5GeVJsMXNIbzA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZjcwRXIxeXlnczExRFdtRlFjWHpvVmtwdHN2eVh1UFRkc2k1c2NKM2V5ckdSNDZ0aVQyMDN0TENiUzJteUN2blFPY2ZZeEdZeDU2QlRZNndBYzM5aUNEbDhfTkNfMUExZld4bFVUVUpZRXc4VTN2TjgyckVfWFFsNVRwRVdqc2FFQ3FtVDA1RDRnTDFkQWdCMTd3dVN5a2JrcE5GeVJsMXNIbzA?oc=5</guid>
-            <pubDate>Fri, 07 Nov 2025 17:48:13 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 埃克森美孚首席执行官预计石油和天然气将发挥长期作用，但可能不是作为燃料 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[快餐休闲连锁店失去年轻食客，麦当劳、Chili 赢得价值 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHpGTjM1a3dWdDJUeF9xc3lZQ0xuVG0xNWFQMHEzSGNjS3hfb2JkNDBETWdmY1hhbnBzdC1mcmRxN2NvaTI4T2ZfVXM4VF9JLWw1LWZ2dVplWUNXRlVyZlBWb0NVeHh0NEJoYzMxTkZOWWh0cEh2dmFuSEFna0NFY1piUkgxa1Y1aFI4RXppamRRVDZSTE9LbGlfWHZseGUtVUhZbXRmQzhnR1lHQ2xJ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHpGTjM1a3dWdDJUeF9xc3lZQ0xuVG0xNWFQMHEzSGNjS3hfb2JkNDBETWdmY1hhbnBzdC1mcmRxN2NvaTI4T2ZfVXM4VF9JLWw1LWZ2dVplWUNXRlVyZlBWb0NVeHh0NEJoYzMxTkZOWWh0cEh2dmFuSEFna0NFY1piUkgxa1Y1aFI4RXppamRRVDZSTE9LbGlfWHZseGUtVUhZbXRmQzhnR1lHQ2xJ?oc=5</guid>
@@ -602,13 +602,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxQcm92QjRMYS1jYTRWS0NZVXkwcllMampjaXNPZ0FxdlhLcHRsRHpxcElzQmxUR21naXZnZXpzclMwMkE2SHpQbnl3RW9xWE9GcnJldDJUWVdkSVhEaG1Wb25ka1dVaVFUTzR2RFhYUG95dnFabER3ajRVLVBKLWI0ZzMtWEVlU0lDOTZSOVdneVhNZWlYTkoxTl9qbF83cGRERTdoWTlzVUFUMlo2UlJIOEJNLTl6Z09pSS1TZUx3?oc=5</guid>
             <pubDate>Fri, 07 Nov 2025 17:33:45 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 卢克石油公司业务面临特朗普制裁的影响，贡沃尔放弃竞购 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着选举高峰的消除，特朗普媒体股票暴跌加剧，损失加大]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-07/trump-media-djt-stock-slump-deepens-as-election-bump-erased-losses-mount</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-07/trump-media-djt-stock-slump-deepens-as-election-bump-erased-losses-mount</guid>
-            <pubDate>Fri, 07 Nov 2025 17:32:47 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 唐纳德·特朗普(Donald Trump)第二个任期还不到一年，由于销售停滞、盈利能力仍然难以捉摸，他的社交媒体公司股票的选举后的热情已经消失。]]></description>
         </item>
         <item>
             <title><![CDATA[未来一周外汇、债券：关注美国停摆事态发展、中国数据]]></title>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1pxS0UwWC1TWkRkQzZsSnp3Z0d4cDV2X2ZVUHd5LWRiU1RMcWN5eEVJMXBoazRyYmZNZkNHcTBsQUJJQi1VRUEwVlUyN1o3V1UxU0xZTmhaVWpaZzdwTkpzVFk4MTNNX0ZOTDF2al9Sd0xDQlF6WjV2MVJCd1BaOHVSYjl1eW5XZGNTOWZDUkpCZVRMd1I3NjhHcmhjdVF0?oc=5</guid>
             <pubDate>Fri, 07 Nov 2025 14:40:08 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着扭亏为盈策略获得关注，Peloton 股价上涨 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文件显示意大利有条件批准依维柯出售给塔塔汽车 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNGZmNzgzSDE0TVVJYVhnSE8wZndSOUQ4MXRDTWhPTlZGajQwUDk2bFFyRGZkaWxlVGE3X2tPeWZVOWxmdHp1MU9NWXdCWWZQaHR3TnNBSEFJUERhNmlOeHhybW1SZVFQYnpsOXpzUjI5bnJqUXcwN2FCQlZGa0EyWjJuQzk5V05qeF9tek12OFZVemtZeHM1M1lHTmg4NmdFYzlfUVpvTkdCVUgtRGVqODRha0hSWkdwMktsYm5ERDRsbXFDMGI4Wg?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNGZmNzgzSDE0TVVJYVhnSE8wZndSOUQ4MXRDTWhPTlZGajQwUDk2bFFyRGZkaWxlVGE3X2tPeWZVOWxmdHp1MU9NWXdCWWZQaHR3TnNBSEFJUERhNmlOeHhybW1SZVFQYnpsOXpzUjI5bnJqUXcwN2FCQlZGa0EyWjJuQzk5V05qeF9tek12OFZVemtZeHM1M1lHTmg4NmdFYzlfUVpvTkdCVUgtRGVqODRha0hSWkdwMktsYm5ERDRsbXFDMGI4Wg?oc=5</guid>
+            <pubDate>Fri, 07 Nov 2025 14:34:29 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 文件显示，意大利有条件批准依维柯出售给塔塔汽车 - 路透中文网]]></description>
         </item>
     </channel>
 </rss>
