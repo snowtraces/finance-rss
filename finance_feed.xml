@@ -4,10 +4,38 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 09 Nov 2025 14:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Nov 2025 15:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[29亿现金“输血” 合肥国资入主维信诺|速读公告]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3072498</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072498</guid>
+            <pubDate>Sun, 09 Nov 2025 15:05:28 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[卫宁健康董事长周炜辞职 曾涉行贿案被留置 数日前一审判刑|速读公告]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3072497</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072497</guid>
+            <pubDate>Sun, 09 Nov 2025 15:05:27 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文旅客流带动创新消费 名创优品靠“首发经济”“IP效应”吸睛|直击进博会]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3072496</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072496</guid>
+            <pubDate>Sun, 09 Nov 2025 15:05:26 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[冷风袭击东海岸，大雪将袭击芝加哥]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-09/snow-set-to-wallop-chicago-as-cold-blast-aims-for-east-coast</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-09/snow-set-to-wallop-chicago-as-cold-blast-aims-for-east-coast</guid>
+            <pubDate>Sun, 09 Nov 2025 14:37:23 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 周日晚些时候，芝加哥将降下大雪，进入周一的通勤时间，进一步扰乱因美国政府关门而中断的航空旅行，并迎来一股冷风，为纽约市、佛罗里达州和德克萨斯州带来接近冰点的气温。]]></description>
+        </item>
         <item>
             <title><![CDATA[专访惟德精准谢卫国：AI重塑医学影像，助力国产手术机器人弯道超车 | 直击进博会]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3072492</link>
@@ -93,6 +121,13 @@
             <description><![CDATA[[华尔街见闻] 科技股估值超过Mag 7，日股面临调整风险  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[大众汽车表示 Nexperia 芯片供应已恢复 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDhiemlxUWlxdnk5cEFiUTRLRkZodkZrb1lRa3lMenE1OGFhNkhtQUs4WUZ4WF92OV9hME1DbnVRcVJZOWFaalRVQ2pVMDNEQVdRT2JoMFZrdS03VUdxTHpSUUY4MW00YklwS3BYWGpZdHdISkNyM1VqbUZPMTh3VmFaLWYycG5XMUg2V2E1bDE4TGN3dDdxVGRQd2RORDUzRmx4VFZsLWhaYldvQWgteWRTVG4?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDhiemlxUWlxdnk5cEFiUTRLRkZodkZrb1lRa3lMenE1OGFhNkhtQUs4WUZ4WF92OV9hME1DbnVRcVJZOWFaalRVQ2pVMDNEQVdRT2JoMFZrdS03VUdxTHpSUUY4MW00YklwS3BYWGpZdHdISkNyM1VqbUZPMTh3VmFaLWYycG5XMUg2V2E1bDE4TGN3dDdxVGRQd2RORDUzRmx4VFZsLWhaYldvQWgteWRTVG4?oc=5</guid>
+            <pubDate>Sun, 09 Nov 2025 12:08:29 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 大众汽车称 Nexperia 芯片供应已恢复 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[股市增速放缓，但投资者仍看涨 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmRUWEFQWUk4S1M2OE5OTlAwcWZGNzVmUXVjeFQ3cnFnZkx2SG45MzNoR1lBZ2NMTTk1YTRpY1F3WWhrdWdqRE1ELUp0SU0wd1NyNnNxR1M1YnVLRUNVWlRUWGVRQ0Z0eVFjZERseVZpRXVJcW9nM0xzMkMxelQyQzRNSVE0SWdnN3V4QWVxWFY4Z2R2dnduMDlYSkZpWmltdnNv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxNQmRUWEFQWUk4S1M2OE5OTlAwcWZGNzVmUXVjeFQ3cnFnZkx2SG45MzNoR1lBZ2NMTTk1YTRpY1F3WWhrdWdqRE1ELUp0SU0wd1NyNnNxR1M1YnVLRUNVWlRUWGVRQ0Z0eVFjZERseVZpRXVJcW9nM0xzMkMxelQyQzRNSVE0SWdnN3V4QWVxWFY4Z2R2dnduMDlYSkZpWmltdnNv?oc=5</guid>
@@ -121,13 +156,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[合肥国资拟入主！面板细分龙头明日复牌|盘后公告集锦]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3072474</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072474</guid>
-            <pubDate>Sun, 09 Nov 2025 11:35:31 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[塞内加尔桑科在财务紧张之际反对债务重组]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-09/senegal-s-sonko-opposes-debt-restructuring-amid-financial-strain</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-09/senegal-s-sonko-opposes-debt-restructuring-amid-financial-strain</guid>
@@ -142,13 +170,6 @@
             <description><![CDATA[[Bloomberg] 小费迪南德·马科斯 (Ferdinand Marcos Jr.) 总统已就从 2026 年开始对世界最大进口国菲律宾的大米关税进行计划调整制定了指导方针。]]></description>
         </item>
         <item>
-            <title><![CDATA[高涛退休，陈亮接棒，中金财富两大突破值得关注]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3072472</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072472</guid>
-            <pubDate>Sun, 09 Nov 2025 11:05:29 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[大摩：AI的应用率正在增强 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JS0NZRWdXU2ZuUFEyR0VqUjNWNVRNQ1NHaGYwYkM5VVpleFNJUTJhdEdnRllqQlhpeUJpaVlUYTlEcjJuVWxjVzNoMEpmVXhQSkhV?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JS0NZRWdXU2ZuUFEyR0VqUjNWNVRNQ1NHaGYwYkM5VVpleFNJUTJhdEdnRllqQlhpeUJpaVlUYTlEcjJuVWxjVzNoMEpmVXhQSkhV?oc=5</guid>
@@ -161,13 +182,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPQTgwcXpTTGthR25QMnIxdDl1S0VEMVRETHV1SVlCOHJEdG5KU0c3dENFbXdXX0pvSDJxNHIwVjU1V0RmOU52ei1leVRPSkZBVTRFUlJCWXNOODRJRFIzV0JERDJHbEtIRHVoVmwxVThXSjlYcHNLckxkTUs2UlQtRGs4OUhkYmw5SWpsRGtTYjcwR1d4WjA1em16S2JXUU5XZzNtamdoSHd1YVA5Qnh2YWhCRFluREJ5cDZVTlE1bHQtUFRzSlNncW53?oc=5</guid>
             <pubDate>Sun, 09 Nov 2025 10:30:25 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 英国派遣国防设备帮助比利时应对破坏性无人机 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【图解牛熊股】电网设备板块涨幅居前，海南自贸区概念异动拉升]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3072468</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072468</guid>
-            <pubDate>Sun, 09 Nov 2025 10:05:32 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台 - 华尔街见闻]]></title>
@@ -523,7 +537,7 @@
             <title><![CDATA[美国警告称，如果政府继续关闭，可能会强制削减20%的航班 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTU4Q20xd2FJRGtnSVlOcDFfUVBmLXFEVlZmdGF5SUNxV3ZYQncxWE9sY2NkY2ExR3k3U1B2X2t1eHFhN2NabXpoX2tueVdueVRJYlFPTkJpWGo1TUxZem56OGdVbmREOEZORkVLei0yWlRTLU40d3RSUlpKck5rR2kxZzRlOXlpLTJmb0ZrX3M4WUtuQnFRQ1BvSTdDMUlveXFtUw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTU4Q20xd2FJRGtnSVlOcDFfUVBmLXFEVlZmdGF5SUNxV3ZYQncxWE9sY2NkY2ExR3k3U1B2X2t1eHFhN2NabXpoX2tueVdueVRJYlFPTkJpWGo1TUxZem56OGdVbmREOEZORkVLei0yWlRTLU40d3RSUlpKck5rR2kxZzRlOXlpLTJmb0ZrX3M4WUtuQnFRQ1BvSTdDMUlveXFtUw?oc=5</guid>
-            <pubDate>Sat, 08 Nov 2025 00:51:00 GMT</pubDate>
+            <pubDate>Sat, 08 Nov 2025 00:51:15 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国警告称，如果继续关闭，可能会强制削减 20% 的航班 路透]]></description>
         </item>
         <item>
@@ -581,13 +595,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-07/the-close-11-7-2025-video</guid>
             <pubDate>Fri, 07 Nov 2025 23:33:01 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 彭博电视台为您带来华尔街收市前后最后几分钟和几秒的最新新闻和分析。 今天的嘉宾包括 RockCreek 的 Afsaneh Beschloss、Cox Automotive 的 Erin Keating、Celsius Holding 的 John Fieldly、Ritholtz Wealth Management 的 Callie Cox、Veda Partners 的 Henrietta Treyz、Wedbush 的 Rick Sherlund 和 Reclaim 的 Kamran Razavi。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HF Sinclair、Phillips 66 赢得 EPA 生物燃料混合豁免]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-07/hf-sinclair-phillips-66-win-epa-biofuel-blending-exemptions</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-07/hf-sinclair-phillips-66-win-epa-biofuel-blending-exemptions</guid>
-            <pubDate>Fri, 07 Nov 2025 23:13:30 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] HF Sinclair Corp. 和 Phillips 66 Co. 旗下的炼油厂周五获得了特朗普政府生物燃料混合指令的豁免，而雪佛龙公司的请求遭到拒绝。]]></description>
         </item>
         <item>
             <title><![CDATA[美联储报告：政策不确定性成头号金融稳定风险，央行独立性首次被点名，关注金融杠杆 - 华尔街见闻]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWW1xM29PZDBmc0pYNGhYaW9KMkl2Y3ExQ0I2cVhNVkJSdlUxZ2NSVTZDYXZTMjJNVWVWbzRrOFlrSVJodU1NdDRLcmtoYUlVTmRBb2dMQjB6Z3F5ajZfaUx5T21xZllnTGtGVE8yVXg3ZFJGR0t1YUZjaUtPWGJZMEJEdkljRXBzN0dfX2hLbUhBRmhYcl90QXNxVldNS19RaTIyMDRZdVIwLW9wNkFsWXpXVkJZS1VMVFJuby1SN18xZw?oc=5</guid>
             <pubDate>Fri, 07 Nov 2025 19:57:25 GMT</pubDate>
             <description><![CDATA[[Reuters Business] DNA 双螺旋的共同发现者詹姆斯·沃森 (James Watson) 去世，享年 97 岁 路透社]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Altimeter 的 Brad Gerstner 表示市场回调是健康的，认为科技领域没有泡沫]]></title>
-            <link>https://www.cnbc.com/2025/11/07/altimeters-brad-gerstner-says-market-pullback-is-healthy-sees-no-bubble-in-tech.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/11/07/altimeters-brad-gerstner-says-market-pullback-is-healthy-sees-no-bubble-in-tech.html</guid>
-            <pubDate>Fri, 07 Nov 2025 19:52:10 GMT</pubDate>
-            <description><![CDATA[[CNBC] 格斯特纳反驳了市场处于泡沫区域的观点。]]></description>
         </item>
     </channel>
 </rss>
