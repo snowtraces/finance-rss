@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 09 Nov 2025 10:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Nov 2025 10:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072468</guid>
             <pubDate>Sun, 09 Nov 2025 10:05:32 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[日本东北海岸连续发生地震，但没有出现大停电]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-09/japan-s-northeast-coast-hit-by-series-of-quakes-no-major-outage</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-09/japan-s-northeast-coast-hit-by-series-of-quakes-no-major-outage</guid>
+            <pubDate>Sun, 09 Nov 2025 10:05:12 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 周日，日本东北海岸发生一系列地震，引发海啸警报并造成一些小规模停电。]]></description>
         </item>
         <item>
             <title><![CDATA[杰富瑞分析美国政策如何重塑关键矿产格局]]></title>
@@ -77,6 +84,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072454</guid>
             <pubDate>Sun, 09 Nov 2025 08:35:29 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[“深海”的万亿机遇 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DVHpZTTBDRnRYS0d1WkpvUUJibHBURHJsUnpZc2FXOWxMS2NNZkM2LUZCU1lDaldJNk5NTDduNi1iN3VmbDYyRjJQTmdvSjVDc0Y4?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DVHpZTTBDRnRYS0d1WkpvUUJibHBURHJsUnpZc2FXOWxMS2NNZkM2LUZCU1lDaldJNk5NTDduNi1iN3VmbDYyRjJQTmdvSjVDc0Y4?oc=5</guid>
+            <pubDate>Sun, 09 Nov 2025 07:16:34 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] “深海”的万亿机遇  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[菲律宾仍受“卡尔马吉”影响，准备迎接超级台风“凤黄” - 路透中文网]]></title>
@@ -467,7 +481,7 @@
             <title><![CDATA[白宫官员称匈牙利获得美国对俄罗斯能源使用制裁的豁免 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzVxRGk5cmxwLUJ6Q2diUmt4bUVBYnplQWZtYUtyQldpRzZwWGVWSXpuRnpKckVkMm9xRUtKV0tKRE9reElGRHc3MFFYeDJZT19mYk9SMHFWWnNta0c0UzlPcm90bFkxbU5ydmJLYnJLLUgyU0FmWlZMMmlLZjhrdHptMmtZWTBEVlVkS204eG5Xbm9VdC1oRlJwSXdQNjJFanZMLUllT0t5WVhVR2VlVkZ5MkQwQ1R6ZDlLZ3c2SEdNS3drVUs4OE5HSjg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxQRzVxRGk5cmxwLUJ6Q2diUmt4bUVBYnplQWZtYUtyQldpRzZwWGVWSXpuRnpKckVkMm9xRUtKV0tKRE9reElGRHc3MFFYeDJZT19mYk9SMHFWWnNta0c0UzlPcm90bFkxbU5ydmJLYnJLLUgyU0FmWlZMMmlLZjhrdHptMmtZWTBEVlVkS204eG5Xbm9VdC1oRlJwSXdQNjJFanZMLUllT0t5WVhVR2VlVkZ5MkQwQ1R6ZDlLZ3c2SEdNS3drVUs4OE5HSjg?oc=5</guid>
-            <pubDate>Sat, 08 Nov 2025 00:05:00 GMT</pubDate>
+            <pubDate>Sat, 08 Nov 2025 00:05:04 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 白宫官员称匈牙利获得美国对俄罗斯能源使用制裁的豁免 路透]]></description>
         </item>
         <item>
@@ -532,13 +546,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-07/celsius-ceo-portfolio-growing-faster-than-category-video</guid>
             <pubDate>Fri, 07 Nov 2025 22:42:09 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 摄氏控股公司首席执行官约翰·菲尔德利 (John Fieldly) 表示，今年对公司来说是转型的一年，完成了对 Rockstar Inc. 和 Alani Nu 的收购。 他在“The Close”节目中告诉 Scarlet Fu 和 Kristine Aquino，健康和保健类别持续增长。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[彭博市场 11/7/2025]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-11-07/bloomberg-markets-11-7-2025-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-07/bloomberg-markets-11-7-2025-video</guid>
-            <pubDate>Fri, 07 Nov 2025 22:41:21 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 《彭博市场》追踪全球所有资产类别的市场走势，并讨论华尔街面临的最大问题。 今日嘉宾：B MO Private Wealth首席市场策略师Carol Schleif、Grindr首席执行官George Arison（来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[401(k) 退休计划中的低成本 ETF？ 基金巨头道富银行表示，你可能很快就会看到类似的事情]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXlZTG1oQzNqbWU1UGk4NjlyeXlENjB2UHdWaHV3b09fa0JteHJCOVVuS2tmR2hNZVctdFlZdlpWVmdvb21wMTJIMmxsLWJxN3pxQlI3VE1FZ1RBdEJZbnVrWTVPbTFtM1BIdGhodlp1V0N2TENuQ1U0WHZSaXlVczJzUG9iYXZITXBwVkR5WU9ZQ1pjTVVBemJZQlFvSkpmN3QyaHlUakhvOHB6R0E?oc=5</guid>
             <pubDate>Fri, 07 Nov 2025 18:45:09 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 由于政府关门加剧焦虑，美国消费者信心接近 3-1/2 年低点 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[密歇根大学的月度调查显示，11 月份消费者情绪进一步下降]]></title>
-            <link>https://www.wsj.com/economy/consumers/u-s-consumer-confidence-slides-in-november-8b5a459a</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/consumers/u-s-consumer-confidence-slides-in-november-8b5a459a</guid>
-            <pubDate>Fri, 07 Nov 2025 18:44:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 密歇根大学的调查读数略高于 2022 年历史性通胀期间情绪下跌的水平。]]></description>
         </item>
     </channel>
 </rss>
