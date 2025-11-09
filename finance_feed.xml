@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 09 Nov 2025 23:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Nov 2025 23:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -30,11 +30,11 @@
             <description><![CDATA[[财新网] 财经早知道｜国办：加快场景培育，推动大数据、脑机接口等新一代技术集成应用  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[亚洲交易商对科技、停工担忧持谨慎态度：市场总结]]></title>
+            <title><![CDATA[股市期货因关闭协议的希望而上涨：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-09/asian-traders-cautious-on-tech-shutdown-concerns-markets-wrap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-09/asian-traders-cautious-on-tech-shutdown-concerns-markets-wrap</guid>
             <pubDate>Sun, 09 Nov 2025 22:28:40 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于投资者权衡科技股挥之不去的压力以及美国政府长期关门带来的不确定性，亚洲市场本周将谨慎开局。]]></description>
+            <description><![CDATA[[Bloomberg] 由于希望达成协议以结束美国政府最长的关门，美国股指期货在亚洲早盘上涨。]]></description>
         </item>
         <item>
             <title><![CDATA[超强台风“凤黄”袭击菲律宾造成两人死亡 - 路透中文网]]></title>
@@ -79,7 +79,7 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[白宫经济顾问称，如果政府关门持续下去，美国第四季度GDP可能为负 - 路透中文网]]></title>
+            <title><![CDATA[白宫经济顾问称，如果政府关门拖延下去，美国第四季度GDP可能为负 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1NOQmFBU0lTdEZlSEtZdzJkS1diTk1ycWJnZVVfYW95anB4VTIxS0ZkZ2gtQlhYcGNtRF9YR0VuQmJvSTVURTAyc3ByVjZ2X3NuV1BZcmtvdGdqWFFoZzJkTEdXcF81U0dtWEd4OUVLYkFIZ0tHTWViaXNQNnlDaVNONndJVm12cmFraXVYd2NuZkVUNVczR1VzVHhDZFUxV1FPUW1IajVtdlBmaVlrblFNTWI0WEVqdkhGZXV5dFhyYkttRWNmZlM2aHF2blQxRHg5Q1B0bnpMc0h6?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM1NOQmFBU0lTdEZlSEtZdzJkS1diTk1ycWJnZVVfYW95anB4VTIxS0ZkZ2gtQlhYcGNtRF9YR0VuQmJvSTVURTAyc3ByVjZ2X3NuV1BZcmtvdGdqWFFoZzJkTEdXcF81U0dtWEd4OUVLYkFIZ0tHTWViaXNQNnlDaVNONndJVm12cmFraXVYd2NuZkVUNVczR1VzVHhDZFUxV1FPUW1IajVtdlBmaVlrblFNTWI0WEVqdkhGZXV5dFhyYkttRWNmZlM2aHF2blQxRHg5Q1B0bnpMc0h6?oc=5</guid>
             <pubDate>Sun, 09 Nov 2025 16:32:26 GMT</pubDate>
@@ -105,6 +105,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3072505</guid>
             <pubDate>Sun, 09 Nov 2025 16:00:17 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[伦敦发展促进署科创产业董事总经理科伊尔：中企以北极的速度进入伦敦]]></title>
+            <link>https://www.ftchinese.com/story/001108135</link>
+            <guid isPermaLink="false">https://www.ftchinese.com/story/001108135</guid>
+            <pubDate>Sun, 09 Nov 2025 16:00:00 GMT</pubDate>
+            <description><![CDATA[[FT Chinese] 科伊尔表示，伦敦对中国投资持非常开放的态度，企业可以充分了解伦敦商业环境的基础上，有效地在伦敦自身建立的存在。]]></description>
         </item>
         <item>
             <title><![CDATA[美国对俄石油制裁将庇护匈牙利]]></title>
@@ -275,6 +282,13 @@
             <description><![CDATA[[Bloomberg] 塞内加尔总理奥斯曼·桑科表示反对该国债务重组的提议，表明政府决心维护金融主权和保留市场准入。]]></description>
         </item>
         <item>
+            <title><![CDATA[近期的商品涨价行情对A股市场有何影响？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxUXFoWDdOQzc3RXVBUVI2WDJkQWFEeGZzQ21KSUMyYThtNXF0WjFEc0NJRWk5a2RfSHcwUjYySXVlUXpiWG1LckZMMDhmdGtCa0FB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxUXFoWDdOQzc3RXVBUVI2WDJkQWFEeGZzQ21KSUMyYThtNXF0WjFEc0NJRWk5a2RfSHcwUjYySXVlUXpiWG1LckZMMDhmdGtCa0FB?oc=5</guid>
+            <pubDate>Sun, 09 Nov 2025 11:32:49 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 近期的商品涨价行情对A股市场有何影响？  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[菲律宾最大大米进口国制定关税变化规则]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-09/top-rice-importer-philippines-sets-rules-on-tariff-changes</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-09/top-rice-importer-philippines-sets-rules-on-tariff-changes</guid>
@@ -334,7 +348,7 @@
             <title><![CDATA[据《华尔街日报》报道，Visa 和万事达卡即将与商户达成和解，将降低费用 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXZNY2RVVV9vbV9FUExjYmdvZkJLV2dQb0Z3YmkySG5wZ0NTamlYX0QzZUVRNXRFQXpxX1RwMUhCaXk3czh1THRPeXN3MTFucnktMnh0MTJmQTItT1Q2WEpDQzJKZllXT3ctQnZDMjlaeVk1ZlNVdm4wWkdvdVB6ZEI2aXhVejFGQ2E1THUyaUNySHJuWnZfZVVNRGVlTlNVN3o1YmJPLVhqVzdwNGl6bnBkTEdMNDBsOEs2ZA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXZNY2RVVV9vbV9FUExjYmdvZkJLV2dQb0Z3YmkySG5wZ0NTamlYX0QzZUVRNXRFQXpxX1RwMUhCaXk3czh1THRPeXN3MTFucnktMnh0MTJmQTItT1Q2WEpDQzJKZllXT3ctQnZDMjlaeVk1ZlNVdm4wWkdvdVB6ZEI2aXhVejFGQ2E1THUyaUNySHJuWnZfZVVNRGVlTlNVN3o1YmJPLVhqVzdwNGl6bnBkTEdMNDBsOEs2ZA?oc=5</guid>
-            <pubDate>Sun, 09 Nov 2025 03:02:00 GMT</pubDate>
+            <pubDate>Sun, 09 Nov 2025 03:02:14 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据《华尔街日报》报道，Visa 和万事达卡即将与商户达成和解，费用将降低 路透]]></description>
         </item>
         <item>
@@ -429,7 +443,7 @@
             <description><![CDATA[[Reuters Business] 路易斯维尔致命空难发生后 UPS 和联邦快递停飞 MD-11 车队 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[大型零售商承诺感恩节价格更便宜，但情况却有所不同 - 路透中文网]]></title>
+            <title><![CDATA[各大零售商承诺感恩节价格更便宜，但情况却有所不同 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXMyc0tGVG1pV002c01ISXlnQmN0QUFCRTY2UGhpWm1IX1JodTQ1d3VVZFltTE9lWE1lRnFfY2dmVXFuaWcweVlyUTM0RUExNG1TRlpFUUozbzl0UmYzTXR4Qk8tcTVTR0ZneUdmbWhSblNfRHpDNlFTYXFaSHhTODNyeE5VTUNEQ3NCaWJQMTdsX3hleGRxSG5SVThFS2hvdFFnNQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXMyc0tGVG1pV002c01ISXlnQmN0QUFCRTY2UGhpWm1IX1JodTQ1d3VVZFltTE9lWE1lRnFfY2dmVXFuaWcweVlyUTM0RUExNG1TRlpFUUozbzl0UmYzTXR4Qk8tcTVTR0ZneUdmbWhSblNfRHpDNlFTYXFaSHhTODNyeE5VTUNEQ3NCaWJQMTdsX3hleGRxSG5SVThFS2hvdFFnNQ?oc=5</guid>
             <pubDate>Sat, 08 Nov 2025 17:04:24 GMT</pubDate>
@@ -510,7 +524,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-11-08/wall-street-week-mamdani-s-win-tariffs-fight-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-08/wall-street-week-mamdani-s-win-tariffs-fight-video</guid>
             <pubDate>Sat, 08 Nov 2025 13:15:11 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 本周，国会能否将贸易和关税的权力委托给总统？ 最高法院质疑特朗普政府的论点，即国会通过的一项法规赋予总统在全球范围内征收关税的权力。 但如果法院不同意政府的意见，谁来支付费用以及支付多少费用？ 而且，纽约市当选市长佐兰·马姆达尼 (Zohran Mamdani) 誓言要让这座城市变得更加经济实惠，但商界领袖表示，这更加复杂。 此外，美国卫生与公众服务部部长小罗伯特·RFK 声称医生从疫苗中获得了巨额利润，但儿科医生表示这与事实相去甚远。 后来美国人为什么要吃那么多蛋白质呢？ 特朗普总统与制药商礼来公司 (Eli Lilly) 和诺和诺德公司 (Novo Nordisk) 达成协议，让更多美国人更容易获得 GLP-1，而蛋白质生产商（无论新老）都可能从中受益。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 本周，国会能否将贸易和关税的权力委托给总统？ 最高法院质疑特朗普政府的论点，即国会通过的一项法规赋予总统在全球范围内征收关税的权力。 但如果法院不同意政府的观点，那么谁来支付费用以及支付多少费用？ 而且，纽约市当选市长佐兰·马姆达尼 (Zohran Mamdani) 誓言要让这座城市变得更加经济实惠，但商界领袖表示，这更加复杂。 此外，美国卫生与公众服务部部长小罗伯特·RFK 声称医生从疫苗中获得了巨额利润，但儿科医生表示这与事实相去甚远。 后来美国人为什么要吃那么多蛋白质呢？ 特朗普总统与制药商礼来公司 (Eli Lilly) 和诺和诺德公司 (Novo Nordisk) 达成协议，让更多美国人更容易获得 GLP-1，而蛋白质生产商（无论新老）都可能从中受益。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普关税审判：最高法院里程碑式案件的利害关系]]></title>
@@ -657,7 +671,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-11-08/pfizer-sweetens-its-offer-for-metsera-in-bidding-war-against-novo</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-08/pfizer-sweetens-its-offer-for-metsera-in-bidding-war-against-novo</guid>
             <pubDate>Sat, 08 Nov 2025 00:25:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 辉瑞公司 (Pfizer Inc.) 同意以高达 100 亿美元的价格收购丹麦制药商 Metsera Inc.，在一场激烈的竞购战中击败了丹麦制药商诺和诺德公司 (Novo Nordisk A/S)。]]></description>
+            <description><![CDATA[[Bloomberg] 辉瑞公司 (Pfizer Inc.) 同意以高达 100 亿美元的价格收购丹麦制药商 Metsera Inc.，在一场激烈的竞购战中击败了诺和诺德公司 (Novo Nordisk A/S)。]]></description>
         </item>
         <item>
             <title><![CDATA[白宫官员称匈牙利获得美国对俄罗斯能源使用制裁的豁免 - 路透中文网]]></title>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE55a3FsTjJCV0ZVM0tGZDhkdUdyOWZoSkZmdzBidlNxQ0RVZzU4S2RpcnJtQkNpejVoNkdIdmxoRGlMWXM5Q0cyUHBjNTNKYXktcWNn?oc=5</guid>
             <pubDate>Fri, 07 Nov 2025 22:13:02 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 特朗普称希望继续在布达佩斯与普京会晤  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[被特朗普铜关税暴击才过三个月，"史上最赚钱"套利交易卷土重来？ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kc0RWS2w3cG5VVmNKdTE2Z2JaVDEzdWpldXV4YzM3X0xNV1Z1QkYweGZhTk5NUDBGQ0ZrbTFyWEM5eUpQWFd3cnZOeXZYNnM0ZWJv?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kc0RWS2w3cG5VVmNKdTE2Z2JaVDEzdWpldXV4YzM3X0xNV1Z1QkYweGZhTk5NUDBGQ0ZrbTFyWEM5eUpQWFd3cnZOeXZYNnM0ZWJv?oc=5</guid>
-            <pubDate>Fri, 07 Nov 2025 22:12:40 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 被特朗普铜关税暴击才过三个月，"史上最赚钱"套利交易卷土重来？  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[肯德里克·拉马尔 (Kendrick Lamar) 和 Lady Gaga 领衔 2026 年格莱美提名 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFkzbHVVZXE3OUVjOTc0TUwwSzJjSHhtX0RMSlJLNkJlWEZSdTF4VV9iYVV6eUk5ZG1rSDdhQ3M5Y2NvOFpOekl0Sk1TeFV2LVZQenhZQ2FpejF6NXJnWWlTNUZNTDkwa19MUGRqSFFCM3Z4WDcxaEJ2dnUxS2hqWVl2OUtrd0FNekF0TFdVcFdYdHBQXzJ2VXRkZGZac3JEY01KQk84bHYzbEZBSmg1SjJ3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQUFkzbHVVZXE3OUVjOTc0TUwwSzJjSHhtX0RMSlJLNkJlWEZSdTF4VV9iYVV6eUk5ZG1rSDdhQ3M5Y2NvOFpOekl0Sk1TeFV2LVZQenhZQ2FpejF6NXJnWWlTNUZNTDkwa19MUGRqSFFCM3Z4WDcxaEJ2dnUxS2hqWVl2OUtrd0FNekF0TFdVcFdYdHBQXzJ2VXRkZGZac3JEY01KQk84bHYzbEZBSmg1SjJ3?oc=5</guid>
-            <pubDate>Fri, 07 Nov 2025 21:48:24 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 肯德里克·拉马尔 (Kendrick Lamar) 和 Lady Gaga 领衔 2026 年格莱美奖提名 路透]]></description>
         </item>
     </channel>
 </rss>
