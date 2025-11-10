@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 10 Nov 2025 05:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 05:42:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[随着美国停摆临近结束，新兴市场股票和货币上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-10/em-stocks-currencies-gain-as-us-shutdown-approaches-end</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-10/em-stocks-currencies-gain-as-us-shutdown-approaches-end</guid>
+            <pubDate>Mon, 10 Nov 2025 05:29:09 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于对美国政府有史以来最长关门结束的乐观情绪提振了风险偏好，亚洲新兴市场股市上涨。]]></description>
+        </item>
         <item>
             <title><![CDATA[沃达康公布十多年来利润最大增幅]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-10/vodacom-reports-biggest-jump-in-profit-in-more-than-a-decade</link>
@@ -249,7 +256,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-11-10/lenskart-set-for-mumbai-trading-debut-after-821-million-ipo</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-10/lenskart-set-for-mumbai-trading-debut-after-821-million-ipo</guid>
             <pubDate>Mon, 10 Nov 2025 02:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 软银集团支持的 Lenskart Solutions Ltd. 在筹集了 728 亿卢比（8.21 亿美元）资金后，在孟买首次交易中暴跌，引发了关于印度初创企业估值飙升的可持续性的争论。]]></description>
+            <description><![CDATA[[Bloomberg] 软银集团支持的 Lenskart Solutions Ltd. 在孟买首次公开募股筹集了 728 亿卢比（8.21 亿美元）资金后，在孟买上市时涨跌互现，引发了有关印度初创企业估值飙升的争论。]]></description>
         </item>
         <item>
             <title><![CDATA[Evenflow Macro 的 Sumerlin 谈美国停摆]]></title>
@@ -388,7 +395,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-11-09/asian-traders-cautious-on-tech-shutdown-concerns-markets-wrap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-09/asian-traders-cautious-on-tech-shutdown-concerns-markets-wrap</guid>
             <pubDate>Sun, 09 Nov 2025 22:28:40 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 股市随美国股指期货上涨，因希望达成一项协议来结束美国政府最长的关门，在经历了动荡的一周后，投资者因对人工智能估值过高的担忧而提振了市场情绪。]]></description>
+            <description><![CDATA[[Bloomberg] 股市上涨，国债下跌，因希望达成一项协议来结束美国政府最长的关门，这提振了市场情绪。在经历了动荡的一周后，投资者努力应对人工智能估值过高的担忧。]]></description>
         </item>
         <item>
             <title><![CDATA[超强台风“凤黄”袭击菲律宾造成两人死亡 - 路透中文网]]></title>
@@ -396,13 +403,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxQM0lMOURwdWNUalpaMVU0ODFGUzlkMnk5VGpfYm9pRWJKNTFZOVpCVGlPM3ZGN3NoX1pORE1heEwyRHJ1SU16TklueG9uQ0NQWkFMNnhleGs2bzlwODlPZTRVb0k3Smk0ZlVrXy1Ic1JVQW1mdHdqcHR2N1ZUdjZzNE1WNnZaVk56YU5CZVMzRFV2SlpkVGlPQVNsbHpXMF9zWmpjMVNOMHdRYTgzOXZqaDNsTzBLZHVGUmU1YXZYeGdYVnlUMEtkM3ltVm5oUQ?oc=5</guid>
             <pubDate>Sun, 09 Nov 2025 21:21:29 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 超强台风“凤黄”袭击菲律宾，造成两人死亡 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高盛认为随着日经指数飙升，美国投资者纷纷涌向日本]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-09/goldman-sees-us-investors-flocking-to-japan-as-nikkei-surges</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-09/goldman-sees-us-investors-flocking-to-japan-as-nikkei-surges</guid>
-            <pubDate>Sun, 09 Nov 2025 21:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 高盛集团表示，美国投资者越来越多地购买专注于科技和人工智能的日本股票，因为日本股票与美国股票相比回报率较高。]]></description>
         </item>
         <item>
             <title><![CDATA[彭博社记者称，英国 BBC 老板蒂姆·戴维将辞职 - 路透中文网]]></title>
@@ -590,7 +590,7 @@
             <title><![CDATA[据《华尔街日报》报道，Visa 和万事达卡即将与商户达成和解，将降低费用 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXZNY2RVVV9vbV9FUExjYmdvZkJLV2dQb0Z3YmkySG5wZ0NTamlYX0QzZUVRNXRFQXpxX1RwMUhCaXk3czh1THRPeXN3MTFucnktMnh0MTJmQTItT1Q2WEpDQzJKZllXT3ctQnZDMjlaeVk1ZlNVdm4wWkdvdVB6ZEI2aXhVejFGQ2E1THUyaUNySHJuWnZfZVVNRGVlTlNVN3o1YmJPLVhqVzdwNGl6bnBkTEdMNDBsOEs2ZA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXZNY2RVVV9vbV9FUExjYmdvZkJLV2dQb0Z3YmkySG5wZ0NTamlYX0QzZUVRNXRFQXpxX1RwMUhCaXk3czh1THRPeXN3MTFucnktMnh0MTJmQTItT1Q2WEpDQzJKZllXT3ctQnZDMjlaeVk1ZlNVdm4wWkdvdVB6ZEI2aXhVejFGQ2E1THUyaUNySHJuWnZfZVVNRGVlTlNVN3o1YmJPLVhqVzdwNGl6bnBkTEdMNDBsOEs2ZA?oc=5</guid>
-            <pubDate>Sun, 09 Nov 2025 03:02:00 GMT</pubDate>
+            <pubDate>Sun, 09 Nov 2025 03:02:14 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据《华尔街日报》报道，Visa 和万事达卡即将与商户达成和解，费用将降低 路透]]></description>
         </item>
         <item>
@@ -650,7 +650,7 @@
             <description><![CDATA[[Reuters Business] 路易斯维尔致命空难发生后 UPS 和联邦快递停飞 MD-11 车队 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[各大零售商承诺感恩节价格更便宜，但情况却有所不同 - 路透中文网]]></title>
+            <title><![CDATA[大型零售商承诺感恩节价格更便宜，但情况却有所不同 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXMyc0tGVG1pV002c01ISXlnQmN0QUFCRTY2UGhpWm1IX1JodTQ1d3VVZFltTE9lWE1lRnFfY2dmVXFuaWcweVlyUTM0RUExNG1TRlpFUUozbzl0UmYzTXR4Qk8tcTVTR0ZneUdmbWhSblNfRHpDNlFTYXFaSHhTODNyeE5VTUNEQ3NCaWJQMTdsX3hleGRxSG5SVThFS2hvdFFnNQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXMyc0tGVG1pV002c01ISXlnQmN0QUFCRTY2UGhpWm1IX1JodTQ1d3VVZFltTE9lWE1lRnFfY2dmVXFuaWcweVlyUTM0RUExNG1TRlpFUUozbzl0UmYzTXR4Qk8tcTVTR0ZneUdmbWhSblNfRHpDNlFTYXFaSHhTODNyeE5VTUNEQ3NCaWJQMTdsX3hleGRxSG5SVThFS2hvdFFnNQ?oc=5</guid>
             <pubDate>Sat, 08 Nov 2025 17:04:24 GMT</pubDate>
