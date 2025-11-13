@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 13 Nov 2025 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 05:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[澳大利亚股市收低；截至收盘澳大利亚S&P/ASX200指数下跌0.52%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3079681</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3079681</guid>
+            <pubDate>Thu, 13 Nov 2025 05:30:18 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印尼今年外国债券流入量接近消失]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-13/idr-usd-indonesia-close-to-wiping-out-foreign-bond-inflows-this-year</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-13/idr-usd-indonesia-close-to-wiping-out-foreign-bond-inflows-this-year</guid>
+            <pubDate>Thu, 13 Nov 2025 05:10:43 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着全球资金纷纷撤离印度尼西亚，今年政府债券市场的资金流入接近消失。]]></description>
+        </item>
         <item>
             <title><![CDATA[港澳赛事经济学：从一场比赛到一座城的狂欢]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3079676</link>
@@ -90,13 +104,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3079660</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3079660</guid>
             <pubDate>Thu, 13 Nov 2025 04:35:12 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[兴达国际(01899)授出1.1亿港元贷款]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3079659</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3079659</guid>
-            <pubDate>Thu, 13 Nov 2025 04:35:11 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -290,18 +297,11 @@
             <description><![CDATA[[Bloomberg] 白宫新闻秘书卡罗琳·莱维特周三表示，由于政府关闭，十月份就业和消费者价格指数报告不太可能发布。 彭博社的玛格丽特·柯林斯讲述了我们迄今为止所知道的情况。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[新世界投资者关注竞争对手如何制定 19 亿美元计划]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-13/bond-investors-are-gaming-out-new-world-s-1-9-billion-debt-plan</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-13/bond-investors-are-gaming-out-new-world-s-1-9-billion-debt-plan</guid>
-            <pubDate>Thu, 13 Nov 2025 00:04:40 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 债券投资者在权衡香港最大房地产开发商之一的关键交换要约时，面临着一个经典的博弈论困境：他们的最佳选择取决于其他人的做法。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于美国经济数据无效，黄金保持上涨]]></title>
+            <title><![CDATA[交易员评估美国封锁结束后的利率走势，金价上涨]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-13/gold-holds-gains-as-traders-contend-with-data-void-on-us-economy</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-13/gold-holds-gains-as-traders-contend-with-data-void-on-us-economy</guid>
             <pubDate>Thu, 13 Nov 2025 00:03:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 周三金价上涨近 2% 后保持稳定，交易员权衡美国经济前景的不确定性，加上六周停工期间缺乏可靠数据，加剧了这种情况。]]></description>
+            <description><![CDATA[[Bloomberg] 随着华盛顿重新开放后交易员将注意力转向美联储的利率前景，金价上涨。]]></description>
         </item>
         <item>
             <title><![CDATA[日本货币贬值加剧了有关干预的争论]]></title>
@@ -315,7 +315,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-11-12/droneshield-plummets-most-since-2024-as-ceo-vornik-sells-shares</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-12/droneshield-plummets-most-since-2024-as-ceo-vornik-sells-shares</guid>
             <pubDate>Wed, 12 Nov 2025 23:24:21 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在首席执行官奥列格·沃尼克 (Oleg Vornik) 出售这家澳大利亚国防公司价值 4,950 万澳元（合 3,240 万美元）的股票后，DroneShield Ltd. 的股价创下了有记录以来的最大跌幅。]]></description>
+            <description><![CDATA[[Bloomberg] 在首席执行官 Oleg Vornik 出售这家澳大利亚国防公司价值 4950 万澳元（合 3200 万美元）的股票后，DroneShield Ltd. 的股价创下了有记录以来的最大跌幅。]]></description>
         </item>
         <item>
             <title><![CDATA[全球供过于求已到来，油价暴跌 4% 后企稳]]></title>
@@ -353,7 +353,7 @@
             <description><![CDATA[[Reuters Business] 美国财政部长在费城造币厂铸造最后一枚便士 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[随着美国结束封锁，股市保持三天上涨：市场结束]]></title>
+            <title><![CDATA[股市保持上涨，金价因降息押注而上涨：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-12/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-12/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Wed, 12 Nov 2025 22:23:29 GMT</pubDate>
@@ -647,13 +647,6 @@
             <description><![CDATA[[Reuters Business] 受金融股和美国停摆缓解的提振，欧洲股市收盘创历史新高 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[自动驾驶卡车公司 Einride 将通过 SPAC 交易上市，估值 18 亿美元 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPb28xS2k4M3ZrcjdrWWN4TUNUYkxLOFNJeDVUaTVXektFVUFxeDBmMEt6TTE1bWtzbkl1TzhKQnFpdWlRZnhoM3pBbWpjb1JhYm84STdaMmVKcllTZWdqWGlFNjRPNGZoXy16V1J5T1B6TmdzclNQb3dmcU9mZDJNc3p1WjJWN2tEY2dMR0kzR1VsMXdBUDFaTjdpc0ZpdkN1SEt4MDkwdDhQdmJTWS1TNVVrWnpVZlI5OE4yS29B?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxPb28xS2k4M3ZrcjdrWWN4TUNUYkxLOFNJeDVUaTVXektFVUFxeDBmMEt6TTE1bWtzbkl1TzhKQnFpdWlRZnhoM3pBbWpjb1JhYm84STdaMmVKcllTZWdqWGlFNjRPNGZoXy16V1J5T1B6TmdzclNQb3dmcU9mZDJNc3p1WjJWN2tEY2dMR0kzR1VsMXdBUDFaTjdpc0ZpdkN1SEt4MDkwdDhQdmJTWS1TNVVrWnpVZlI5OE4yS29B?oc=5</guid>
-            <pubDate>Wed, 12 Nov 2025 17:23:20 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 自动驾驶卡车公司 Einride 将通过 SPAC 交易上市，估值为 18 亿美元 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国第一家：Alphabet旗下Waymo将供应高速公路无人驾驶出租车 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE90RXBoVjBlbWNYWE1UVEtsc0pNdE0wdGdSYkItcFpMUkY0M0xyTk93RzBvV3hCdklseE5LWnhTSGJkMXZxSk9nYVFwQWpiMlB5X2E0?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE90RXBoVjBlbWNYWE1UVEtsc0pNdE0wdGdSYkItcFpMUkY0M0xyTk93RzBvV3hCdklseE5LWnhTSGJkMXZxSk9nYVFwQWpiMlB5X2E0?oc=5</guid>
@@ -708,6 +701,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYS1ISGNfdWUzSlFDd0hNR25xZDVacWF1UHVKV3F5SjFOTGtNSG9OZzNtZkJEVERSWGtfaG96LWpONDJtdF9ibEc3M0Nua2lGVHZTZDBiZjlCYVpYMFFXRzI1VWZfQkhxZDB3OHR1bkxjUjcxT2xZRFhCSnUxSVpGN3ptamlSUEVnZFd3R2prdmtKTlNDdGNWOUZCMFBYZDJ6MUprVVk3aDJtRl9UU1VrWkRCSmU4SW5JeTZ2TlR6T1I2UQ?oc=5</guid>
             <pubDate>Wed, 12 Nov 2025 16:41:15 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 欧佩克调整石油前景，预计 2026 年将出现小幅盈余 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新华分红险转型追踪：10月保费增速放缓、“开门红”压力仍在 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE03YVR2M0YwZ3N5MUZPZ0xtMVpJWld2bWN2ZGo1QW5uUjVndHFZMzAybEFjX25OS05uTnFXZDdsN0hSLWx6NzBjOVVaODRiNUpGREF3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE03YVR2M0YwZ3N5MUZPZ0xtMVpJWld2bWN2ZGo1QW5uUjVndHFZMzAybEFjX25OS05uTnFXZDdsN0hSLWx6NzBjOVVaODRiNUpGREF3?oc=5</guid>
+            <pubDate>Wed, 12 Nov 2025 16:10:50 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 新华分红险转型追踪：10月保费增速放缓、“开门红”压力仍在  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
