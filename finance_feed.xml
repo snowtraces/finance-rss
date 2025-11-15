@@ -4,16 +4,30 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 15 Nov 2025 11:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Nov 2025 11:36:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[聚焦十五五投资主线与ETF生态建设，中泰证券高峰论坛干货回放，数字类财富管理品牌再多一例]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3084146</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3084146</guid>
+            <pubDate>Sat, 15 Nov 2025 11:05:26 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[里夫斯因英国 ISA 最低分配额面临行业阻力]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-15/reeves-faces-industry-pushback-over-minimum-isa-allocation-to-uk</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-15/reeves-faces-industry-pushback-over-minimum-isa-allocation-to-uk</guid>
             <pubDate>Sat, 15 Nov 2025 10:44:30 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 雷切尔·里夫斯(Rachel Reeves)的一项改革个人储蓄账户的提议正面临一些主要投资平台的抵制，这对英国财政大臣来说是一个挫折，距离她的预算提前不到两周。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[《泰晤士报》称 WPP 吸引了 Havas 和私募股权公司的兴趣]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-15/wpp-draws-interest-from-havas-and-private-equity-times-reports</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-15/wpp-draws-interest-from-havas-and-private-equity-times-reports</guid>
+            <pubDate>Sat, 15 Nov 2025 10:37:56 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 据《泰晤士报》报道，广告公司 Havas N.V. 以及私募股权公司 Apollo 和 KKR 均表达了对 WPP Plc 的兴趣，但未透露该信息是如何获得的。]]></description>
         </item>
         <item>
             <title><![CDATA[“神秘分公司”现身营业部龙虎榜，新锐还是老牌？牛市下龙虎榜显见四大特征]]></title>
@@ -107,6 +121,13 @@
             <description><![CDATA[[Bloomberg] 土耳其媒体大亨阿昆·伊利卡利（Acun Ilicali）围绕拍摄全球真人秀节目并针对当地观众进行改编，建立了娱乐特许经营权，他正准备测试投资者对其黄金时段帝国的兴趣。]]></description>
         </item>
         <item>
+            <title><![CDATA[印尼官方媒体称中爪哇山体滑坡已造成 6 人死亡、17 人失踪 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZEtnakRtWVJScV9BNW1DNFZhNGFlUnJLcWlFVzJvY3lNdzJSZEZfeVRQNUloNVhDUE9yQmxrNkQya284TV9uSkhpQTJpMWIzVy12dzdjTDlxa1JPQmt6aUZjQzlFSG13OS0yMWJRXzV6TVRLZlZHdzRqUmVyYUozUHFoOXdQYnU1ajJOMkkzT3FIRGNuc1ROOEJKNW0wNVgtRDAxSDRESmh3R0lMTXlZbV9qOUs4OVhtMWd3MUM0V2JCM0k?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZEtnakRtWVJScV9BNW1DNFZhNGFlUnJLcWlFVzJvY3lNdzJSZEZfeVRQNUloNVhDUE9yQmxrNkQya284TV9uSkhpQTJpMWIzVy12dzdjTDlxa1JPQmt6aUZjQzlFSG13OS0yMWJRXzV6TVRLZlZHdzRqUmVyYUozUHFoOXdQYnU1ajJOMkkzT3FIRGNuc1ROOEJKNW0wNVgtRDAxSDRESmh3R0lMTXlZbV9qOUs4OVhtMWd3MUM0V2JCM0k?oc=5</guid>
+            <pubDate>Sat, 15 Nov 2025 08:37:54 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 印尼官方媒体称中爪哇山体滑坡已造成 6 人死亡、17 人失踪 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[盘后大涨！Quantum Computing(QUBT.US)Q3营收激增280% 手握超15亿美元流动性]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3084120</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3084120</guid>
@@ -128,13 +149,6 @@
             <description><![CDATA[[Bloomberg] 莫桑比克的圣卡罗莱纳岛因全球真人秀《幸存者》而闻名，南非一家豪华游猎旅游公司计划斥资 1.02 亿美元对莫桑比克的圣卡罗莱纳岛进行升级改造。]]></description>
         </item>
         <item>
-            <title><![CDATA[张家界签署重整投资协议 电广传媒、芒果超媒、凯撒旅业拟组团进场]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3084109</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3084109</guid>
-            <pubDate>Sat, 15 Nov 2025 05:35:30 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国陪审团称苹果必须在智能手表专利案中向 Masimo 支付 6.34 亿美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmFRMEpwTFlOY2lxQUw1S28xN0c5ZjF0OUVxNllYVHFGYkFhN1BoOGsweFpjQjlDRjlaanY3OHZwNy1GOHA2NXJyTmpGcnl1T2l3dFM0TzBDWTZHajJISUpsZjhpZU9RUjFWSEdnazBqMEJZcFlFdTFsbDY0VFFmcnJlWElWQXVhdzJ5eGxSdW02NVpDM0piX0psbkxwVVFCZVZMUE56LVNRRDVIcjY3QjJZLW0?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmFRMEpwTFlOY2lxQUw1S28xN0c5ZjF0OUVxNllYVHFGYkFhN1BoOGsweFpjQjlDRjlaanY3OHZwNy1GOHA2NXJyTmpGcnl1T2l3dFM0TzBDWTZHajJISUpsZjhpZU9RUjFWSEdnazBqMEJZcFlFdTFsbDY0VFFmcnJlWElWQXVhdzJ5eGxSdW02NVpDM0piX0psbkxwVVFCZVZMUE56LVNRRDVIcjY3QjJZLW0?oc=5</guid>
@@ -152,7 +166,7 @@
             <title><![CDATA[迪士尼与 YouTube TV 达成协议，结束数周的混乱局面 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUtXY1l6ZTRoR2NlVm5QZm8wTjgxcmpXbHJ4am0wYWtNNUNGakIyR1VjYTdHalJEcVB4bGNRVDlJYW5Ed1ppZUtUWWRKc0p4MjBtWGgxeDYyelgyLTB1UE9TVDhsQkdnZ3ZSU1Q4eEVvWUpOdDVvQV9BZ1Z2R1QyVkZ2NWRQMW9XbUV4LWVOdzh6blo0a21nZ3BoZ3ZmS0NzSzg0bjdtT1VaUHpGaGFDRlh1RzMxdnVqV2N4Mw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUtXY1l6ZTRoR2NlVm5QZm8wTjgxcmpXbHJ4am0wYWtNNUNGakIyR1VjYTdHalJEcVB4bGNRVDlJYW5Ed1ppZUtUWWRKc0p4MjBtWGgxeDYyelgyLTB1UE9TVDhsQkdnZ3ZSU1Q4eEVvWUpOdDVvQV9BZ1Z2R1QyVkZ2NWRQMW9XbUV4LWVOdzh6blo0a21nZ3BoZ3ZmS0NzSzg0bjdtT1VaUHpGaGFDRlh1RzMxdnVqV2N4Mw?oc=5</guid>
-            <pubDate>Sat, 15 Nov 2025 03:54:00 GMT</pubDate>
+            <pubDate>Sat, 15 Nov 2025 03:54:06 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 迪士尼与 YouTube TV 达成协议，结束数周的混乱局面 路透]]></description>
         </item>
         <item>
@@ -201,7 +215,7 @@
             <title><![CDATA[随着美联储鹰派人士施压，交易员押注 12 月不会降息 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDNzVko3MkZKcG1hVV9ON2NUS3hlVEdFaXR4cm9GZWJ6aHNtemk5bGpDUFRjczlOQzFMTXB4eDNuVFYwcTNIWjZmN3dzM0J5NUpiZ3M2ZDBWRXJHVVhkSnBRYjNzRThIbGl6TVNTMGpvYlh2cWpwOTVhWm9hc0xtODZndDZsWF9VczRmNjljSzVpdm9XYVU0UEpzdUF6YnBMWmY5S2ZkRkZ5UQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMDNzVko3MkZKcG1hVV9ON2NUS3hlVEdFaXR4cm9GZWJ6aHNtemk5bGpDUFRjczlOQzFMTXB4eDNuVFYwcTNIWjZmN3dzM0J5NUpiZ3M2ZDBWRXJHVVhkSnBRYjNzRThIbGl6TVNTMGpvYlh2cWpwOTVhWm9hc0xtODZndDZsWF9VczRmNjljSzVpdm9XYVU0UEpzdUF6YnBMWmY5S2ZkRkZ5UQ?oc=5</guid>
-            <pubDate>Sat, 15 Nov 2025 00:52:00 GMT</pubDate>
+            <pubDate>Sat, 15 Nov 2025 00:52:45 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着美联储鹰派人士施压，交易员押注 12 月不会降息 路透]]></description>
         </item>
         <item>
@@ -215,7 +229,7 @@
             <title><![CDATA[瑞士赢得美国关税下调至15%，承诺向美国投资2000亿美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnUwYWlVc3J2M0UyejVTTVRsSmFYZmZ1dm1QZ2Q5RmRua1ZqZ1VmVW1sQ2VCUm5jdHcwcURZc09sV2FDdlMzOWZmWHpOem90ZUM1VDNrTmNxbEJIYTY1VEVpSndCS1NsZW9WajdkUE1lWHg5UDFCVVlRSEpkTm10YkplWU4zbmhjTTY4NGZOTm5oTkhGTnRxUFl1RFhicUJpai1ILXB6dVZpeFgz?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxOcnUwYWlVc3J2M0UyejVTTVRsSmFYZmZ1dm1QZ2Q5RmRua1ZqZ1VmVW1sQ2VCUm5jdHcwcURZc09sV2FDdlMzOWZmWHpOem90ZUM1VDNrTmNxbEJIYTY1VEVpSndCS1NsZW9WajdkUE1lWHg5UDFCVVlRSEpkTm10YkplWU4zbmhjTTY4NGZOTm5oTkhGTnRxUFl1RFhicUJpai1ILXB6dVZpeFgz?oc=5</guid>
-            <pubDate>Sat, 15 Nov 2025 00:46:13 GMT</pubDate>
+            <pubDate>Sat, 15 Nov 2025 00:46:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 瑞士赢得美国关税税率降至 15% 承诺向美国投资 2000 亿美元 路透]]></description>
         </item>
         <item>
@@ -223,7 +237,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-11-15/the-close-11-14-2025-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-15/the-close-11-14-2025-video</guid>
             <pubDate>Sat, 15 Nov 2025 00:27:04 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 彭博电视台为您带来华尔街收市前后最后几分钟和几秒的最新新闻和分析。 今天的嘉宾包括威尔明顿信托公司的托尼·罗斯、纽约投资公司的斯蒂芬妮·皮尔斯、摩根士丹利的约瑟夫·摩尔、斯珀林经济公司的吉恩·斯珀林、富国银行投资研究所的维罗妮卡·威利斯、晨星公司的杰克·香农、联邦爱迪生公司的吉尔·奎尼奥内斯、Jamba Juice 的詹姆斯·D·怀特、It’s A 10 Haircare 的卡罗琳·阿伦森、奈特委员会的艾米 普里维特·佩尔科。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 彭博电视台为您带来华尔街收市前后最后几分钟和几秒的最新新闻和分析。 今天的嘉宾包括威尔明顿信托公司的托尼·罗斯、纽约投资公司的斯蒂芬妮·皮尔斯、摩根士丹利的约瑟夫·摩尔、斯珀林经济公司的吉恩·斯珀林、富国银行投资研究所的维罗妮卡·威利斯、晨星公司的杰克·香农、联邦爱迪生公司的吉尔·奎尼奥内斯、Jamba Juice 的詹姆斯·D·怀特、It's A 10 Haircare 的卡罗琳·阿伦森、奈特委员会的艾米 普里维特·佩尔科。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[桑坦德银行的博廷表示，监管正在阻碍欧洲银行的发展]]></title>
@@ -247,7 +261,7 @@
             <description><![CDATA[[Reuters Business] 萨博与哥伦比亚签署价值 36 亿美元的“鹰狮”战斗机协议 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[相关集团首席执行官谈房地产、移民政策]]></title>
+            <title><![CDATA[相关集团首席执行官房地产、移民政策]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-11-14/related-group-ceo-on-real-estate-immigration-policy</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-14/related-group-ceo-on-real-estate-immigration-policy</guid>
             <pubDate>Fri, 14 Nov 2025 23:51:32 GMT</pubDate>
@@ -286,7 +300,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-11-14/it-s-a-10-haircare-ceo-on-building-a-beauty-empire-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-14/it-s-a-10-haircare-ceo-on-building-a-beauty-empire-video</guid>
             <pubDate>Fri, 14 Nov 2025 23:23:10 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] It’s a 10 Haircare 的创始人兼首席执行官卡罗琳·阿伦森 (Carolyn Aronson) 表示，她是通过免费提供 Miracle Leave-In 产品样品而创办了这家公司。 她在“The Close”节目中告诉 Romaine Bostick 和 Katie Greifeld，该品牌继续受到年轻消费者的喜爱和欢迎。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] It’s a 10 Haircare 的创始人兼首席执行官卡罗琳·阿伦森 (Carolyn Aronson) 表示，她是通过免费提供 Miracle Leave-In 产品样品而创办了这家公司。 她在《The Close》节目中告诉 Romaine Bostick 和 Katie Greifeld，该品牌继续受到年轻消费者的喜爱和欢迎。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[伯克希尔哈撒韦公司斥资 43 亿美元增持 Alphabet 股份，并出售更多苹果公司 - 路透中文网]]></title>
@@ -303,7 +317,7 @@
             <description><![CDATA[[Bloomberg] Jamba Juice 前首席执行官 James D. White 讨论了人工智能如何重塑商业和企业转型，并与 Romaine Bostick 和 Katie Greifeld 谈论了他在《The Close》中的新书《文化设计》。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[安克雷奇仅押注阿根廷西装就筹集了一笔稀有资金]]></title>
+            <title><![CDATA[安克雷奇仅通过押注阿根廷西装筹集了一笔稀有资金]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-14/anchorage-raises-a-rare-fund-with-just-one-bet-on-argentine-suit</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-14/anchorage-raises-a-rare-fund-with-just-one-bet-on-argentine-suit</guid>
             <pubDate>Fri, 14 Nov 2025 23:04:09 GMT</pubDate>
@@ -427,13 +441,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2ZQQmFCaXFYeXhmZW5lYkVIOGREMldVOXJDZFFmV3ZsZzl3dDFzSkE0NmRxMWc0Smp1ay1BQjRFbEw4SEpMLWs0MGY3Z1VVWGtCcHlWcjZ4WkhUZnVZN1MyTkM4YnlzOEQzZzYtVUFSZGxNcXlJUTBBMHVXc3FCbV9EWi0tQTAwWjgtd05aSzJxU2d2ME94TnNpamJxYTNXSlV0OWRzTTUzaTNva3dURjFWM0k?oc=5</guid>
             <pubDate>Fri, 14 Nov 2025 21:57:16 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 麦克米伦领导下的沃尔玛回报率位列近期离职首席执行官中最强的 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴菲特旗下的伯克希尔哈撒韦公司斥资 49 亿美元收购 Alphabet]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-14/buffett-acquires-4-9-billion-stake-in-google-parent-alphabet</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-14/buffett-acquires-4-9-billion-stake-in-google-parent-alphabet</guid>
-            <pubDate>Fri, 14 Nov 2025 21:53:50 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 沃伦·巴菲特的伯克希尔哈撒韦公司在第三季度收购了谷歌母公司Alphabet Inc.的1790万股股票，同时进一步减持了美国银行和苹果公司的股份。]]></description>
         </item>
         <item>
             <title><![CDATA[谷歌将在德州投资400亿美元建设数据中心 - 华尔街见闻]]></title>
@@ -597,6 +604,13 @@
             <description><![CDATA[[Reuters Business] NHTSA 称 Stellantis 将召回近 113,000 辆美国车辆 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[乌克兰开始大规模生产拦截无人机以加强防空 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQOTlvVzhxRmxPdC1zMEIzaDBuSnNnSDZNbUowU1U0SXdTak1fejgtVXpoblBNWHNuNG5lSFcxaUZNYnlQeXIzOWVEejVsY2V6cHlRUWl5aGlpVE05YW9kMWRYdVRXMmNzeDJUM2Zmem9MYWd6S1dmZFVOTl85cW43ekVpSEp3TjIwMmxheUN1TWpXQ0xrMUdPNm1hNmZuTUtWal8yMVU1aGgzanJjdEVsUzJfN1VLU2k0MlZORGo3RmlWSDJVVVl6RlV0VUk?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxQOTlvVzhxRmxPdC1zMEIzaDBuSnNnSDZNbUowU1U0SXdTak1fejgtVXpoblBNWHNuNG5lSFcxaUZNYnlQeXIzOWVEejVsY2V6cHlRUWl5aGlpVE05YW9kMWRYdVRXMmNzeDJUM2Zmem9MYWd6S1dmZFVOTl85cW43ekVpSEp3TjIwMmxheUN1TWpXQ0xrMUdPNm1hNmZuTUtWal8yMVU1aGgzanJjdEVsUzJfN1VLU2k0MlZORGo3RmlWSDJVVVl6RlV0VUk?oc=5</guid>
+            <pubDate>Fri, 14 Nov 2025 16:41:30 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 乌克兰开始大规模生产拦截无人机以加强防空能力 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[特朗普兄弟支持的美国比特币因利润率扩张而获利 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHdvTDNydllVTEhWeTkwcUFMRUxYMUhIMjhhZXZrYlRXVFdKTjJ3eUpQM1lDMDBveFFSSnhrcjdzbUZRaC1ab0oxTjRMMlZkSHRqRHF5TV9vT0ZMbTk0MW9Pcm1XeFJzZThlcVBNNGJKOHdKNkU5SUI4SXlObXdzblk3MFphMURtZTZ0RU15OV93b21iOTMyb1BSVWI4SW1xd1JWcVJHelVRNmROa0NvUXNRRjBUWFF1dDNmWA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQaHdvTDNydllVTEhWeTkwcUFMRUxYMUhIMjhhZXZrYlRXVFdKTjJ3eUpQM1lDMDBveFFSSnhrcjdzbUZRaC1ab0oxTjRMMlZkSHRqRHF5TV9vT0ZMbTk0MW9Pcm1XeFJzZThlcVBNNGJKOHdKNkU5SUI4SXlObXdzblk3MFphMURtZTZ0RU15OV93b21iOTMyb1BSVWI4SW1xd1JWcVJHelVRNmROa0NvUXNRRjBUWFF1dDNmWA?oc=5</guid>
@@ -622,7 +636,7 @@
             <link>https://www.wsj.com/economy/consumers/will-trumps-trade-war-break-americas-addiction-to-cheap-stuff-ff21df9e</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/consumers/will-trumps-trade-war-break-americas-addiction-to-cheap-stuff-ff21df9e</guid>
             <pubDate>Fri, 14 Nov 2025 16:00:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 总统曾表示，美国孩子应该满足于两个洋娃娃，而不是 30 个。但该国的购物习惯是几十年来从亚洲进口的大量商品养成的。]]></description>
+            <description><![CDATA[[WSJ] 总统曾表示，美国儿童应该满足于两个洋娃娃，而不是 30 个。但该国的购物习惯是几十年来从亚洲进口的大量商品养成的。]]></description>
         </item>
         <item>
             <title><![CDATA[独家：Teamshares 将通过 T. Rowe Price 支持的 7.46 亿美元 SPAC 交易在美国上市 - 路透中文网]]></title>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbkJYb3pseF9ZcnpDcWVKaTBadzY5Z1pHVUJYTWFIWHo0bnZBT2N1N0ZZZE9oQzJibU9RdlY4cVk4OFRsYjdUc2NpdTZ5TG5pbGIzSHl0OFVXRkFqVDduOTFLbkF4VkR4c3dUdHRsbUZHanIyeEY1dDZINlpIOHF0R2hXRFA2a3pZV1NaVVNGanktZzhLQ3hwRHFMVWhfc3k2ZndGYmpMUFVnV0JoX0tHY1VicjBJTnlGVFB1UmNBc0Zmd2M?oc=5</guid>
             <pubDate>Fri, 14 Nov 2025 14:56:59 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：消息人士称，沙特阿美公司将在王储访问华盛顿期间签署美国液化天然气协议 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独家：乌克兰情报机构称，俄罗斯计划今年制造多达12万枚滑翔炸弹 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGV1NzlVaHRnLXRsR1o1WDFoaFJ1QzBQVVI5WERpUUU2azYzU0FqYVRiNE54bmdGSGN3UThYYTNzRmVVMXVjM05ob09FRUZpLWRtaHBPeVBmT3RQUmZtSF90U1I0bmxRY2JJSzY1UWRGbEF4eXZ0cVo1TExmdEU2MGVncE5Rcmx1Z3U1YkZ5YnVXNnBjRHY3RUJHbjh4dEtwbHNhaGU1MzRSQjBYQ3FtdVZCSG1ZUHVwR1hEU0NkWVl1bHptVGhrcmlENXk1MW1sNnpuU3Fycw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaGV1NzlVaHRnLXRsR1o1WDFoaFJ1QzBQVVI5WERpUUU2azYzU0FqYVRiNE54bmdGSGN3UThYYTNzRmVVMXVjM05ob09FRUZpLWRtaHBPeVBmT3RQUmZtSF90U1I0bmxRY2JJSzY1UWRGbEF4eXZ0cVo1TExmdEU2MGVncE5Rcmx1Z3U1YkZ5YnVXNnBjRHY3RUJHbjh4dEtwbHNhaGU1MzRSQjBYQ3FtdVZCSG1ZUHVwR1hEU0NkWVl1bHptVGhrcmlENXk1MW1sNnpuU3Fycw?oc=5</guid>
-            <pubDate>Fri, 14 Nov 2025 14:51:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：乌克兰情报机构称，俄罗斯计划今年制造多达 12 万枚滑翔炸弹 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，俄罗斯萨拉托夫炼油厂在无人机袭击后于 11 月 11 日停止运行 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNRTdIVFhrYTNpT2NuT01odDZiNGNfTXE2VXRYX0lMaUYydGxZRmhjSjhIRW1WbkpsQmlERFNRanpRZkhMLVItd3REYTdydTVKbFNqdG9WY3hFM1NuR0FqRFRsLXFiMURud3ZYcVZPVFNMb0t3ZnQ1Rm9zcVhBdTR3UE5tQ1FNVjk4cnZ1N0lMWmhzY1U0a2lPQjc1RXF5RnVwNkI5SjR2am1IQVU2Si1SNW5maDg0VFRDTlIyRk14Wm1GVTQ4dTRuS1l1X0U?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxNRTdIVFhrYTNpT2NuT01odDZiNGNfTXE2VXRYX0lMaUYydGxZRmhjSjhIRW1WbkpsQmlERFNRanpRZkhMLVItd3REYTdydTVKbFNqdG9WY3hFM1NuR0FqRFRsLXFiMURud3ZYcVZPVFNMb0t3ZnQ1Rm9zcVhBdTR3UE5tQ1FNVjk4cnZ1N0lMWmhzY1U0a2lPQjc1RXF5RnVwNkI5SjR2am1IQVU2Si1SNW5maDg0VFRDTlIyRk14Wm1GVTQ4dTRuS1l1X0U?oc=5</guid>
-            <pubDate>Fri, 14 Nov 2025 14:31:40 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 消息人士称，俄罗斯萨拉托夫炼油厂在无人机袭击后于 11 月 11 日停止运行 路透]]></description>
         </item>
     </channel>
 </rss>
