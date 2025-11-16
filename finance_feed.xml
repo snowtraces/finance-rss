@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 16 Nov 2025 21:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 21:36:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国退休储蓄的离岸外包]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-11-16/the-offshoring-of-america-s-retirement-savings-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-16/the-offshoring-of-america-s-retirement-savings-video</guid>
+            <pubDate>Sun, 16 Nov 2025 21:22:14 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着阿波罗计划重塑华尔街处理保险和养老基金的方式，企业正在向百慕大实体提供数千亿美元的资金，这些实体在进行不透明、复杂的押注时失去了美国的保护。 彭博社的 Alexandre Rajbhandari 解释道（来源：彭博社）]]></description>
+        </item>
         <item>
             <title><![CDATA[纽约联储与华尔街公司就关键贷款安排进行会面：金融时报]]></title>
             <link>https://www.cnbc.com/2025/11/16/new-york-fed-met-with-wall-street-firms-about-key-lending-facility-ft.html</link>
@@ -83,7 +90,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-11-16/finland-s-big-idea-turning-data-center-heat-into-power-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-16/finland-s-big-idea-turning-data-center-heat-into-power-video</guid>
             <pubDate>Sun, 16 Nov 2025 15:05:23 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着人工智能和数据中心在全球范围内消耗更多的电力，芬兰正在寻找一种将问题转化为解决方案的方法。  Tom Mackenzie 在赫尔辛基报道，那里的能源公司 Helen 从 Equinix 数据中心捕获多余的热量，并将其重新用于为当地家庭供暖，从而立即减少排放和成本。 随着微软和其他公司现在扩大类似项目，芬兰的模式可以重新定义建立可持续数字经济的含义。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 随着人工智能和数据中心在全球范围内消耗越来越多的电力，芬兰正在寻找一种将问题转化为解决方案的方法。  Tom Mackenzie 在赫尔辛基报道，那里的能源公司 Helen 从 Equinix 数据中心捕获多余的热量，并将其重新用于为当地家庭供暖，从而立即减少排放和成本。 随着微软和其他公司现在扩大类似项目，芬兰的模式可以重新定义建立可持续数字经济的含义。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[乌克兰确保美国从希腊进口液化天然气以满足冬季需求 - 路透中文网]]></title>
@@ -153,7 +160,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-11-16/greece-to-supply-ukraine-with-us-natural-gas-from-december</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-16/greece-to-supply-ukraine-with-us-natural-gas-from-december</guid>
             <pubDate>Sun, 16 Nov 2025 13:26:09 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 乌克兰表示，它已与希腊达成协议，这将有助于确保即将到来的冬季供暖季的天然气供应。]]></description>
+            <description><![CDATA[[Bloomberg] 乌克兰表示，它已与希腊达成协议，这将有助于确保即将到来的冬季供暖季节的天然气供应。]]></description>
         </item>
         <item>
             <title><![CDATA[世界能负担得起退休吗？ 一个国家如何应对危机]]></title>
@@ -513,13 +520,6 @@
             <description><![CDATA[[Bloomberg] 随着美国出口大幅下滑，企业纷纷削减工人工作时间]]></description>
         </item>
         <item>
-            <title><![CDATA[<strong>花旗银行的德克·威勒谈如何知道泡沫何时结束</strong>]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-15/citi-s-dirk-willer-on-how-you-know-when-the-bubble-is-over</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-15/citi-s-dirk-willer-on-how-you-know-when-the-bubble-is-over</guid>
-            <pubDate>Sat, 15 Nov 2025 09:00:36 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 只要接受你无法完美把握时机的事实。]]></description>
-        </item>
-        <item>
             <title><![CDATA[独家：消息人士称，俄罗斯利用闲置炼油能力来抵消乌克兰无人机造成的损害 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPUFBRS01RbTZ0UjNTVGNRVVdBUWhVUXVtaGxTT0I5RjdBTkRzbDZIeFl6N05KUm1tSFJIVXI1Q0tHazRqcW84MWwySXlvQy1mT096QTFaYzJ3ellFZGpqcVV3VWN2ajBIaUhVbmw2OHJMNnVvc0ZSLWdBbHBVLU5vdmF4YXlGdkR3NFdibW5zQ1NZWXJraml5d1BuUmtrN3JhRzdmZzM0c2Vjc1llZW1oWm9XTTFkS29mVE1NcFZUNWViTDM3T2FZSTlR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPUFBRS01RbTZ0UjNTVGNRVVdBUWhVUXVtaGxTT0I5RjdBTkRzbDZIeFl6N05KUm1tSFJIVXI1Q0tHazRqcW84MWwySXlvQy1mT096QTFaYzJ3ellFZGpqcVV3VWN2ajBIaUhVbmw2OHJMNnVvc0ZSLWdBbHBVLU5vdmF4YXlGdkR3NFdibW5zQ1NZWXJraml5d1BuUmtrN3JhRzdmZzM0c2Vjc1llZW1oWm9XTTFkS29mVE1NcFZUNWViTDM3T2FZSTlR?oc=5</guid>
@@ -586,7 +586,7 @@
             <title><![CDATA[仲裁失败后，壳牌被责令支付 Venture Global 的律师费 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWZkd3FlQzgxN1VzblU0Q3NCTVdtZnVoT0hUSWlvSlMzTFRyZzRjUHA4RVlYdUhjZUhURGJjbFp4Mi1FSzF6bHNfSG1saWJIVVE3M2J4Zm9mdTNOc1U1dTluXzZuQUxwdlRwMTdSc1ptLWlaUUVPVURHdFlObmlWWVV3UzFuYWdrSUs2T1pwNkx2UWhjUFJNeWloTG5NMVcxU0pzSFU1cWZWeE5NZ0REVFRBS29CU1duVktv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQWZkd3FlQzgxN1VzblU0Q3NCTVdtZnVoT0hUSWlvSlMzTFRyZzRjUHA4RVlYdUhjZUhURGJjbFp4Mi1FSzF6bHNfSG1saWJIVVE3M2J4Zm9mdTNOc1U1dTluXzZuQUxwdlRwMTdSc1ptLWlaUUVPVURHdFlObmlWWVV3UzFuYWdrSUs2T1pwNkx2UWhjUFJNeWloTG5NMVcxU0pzSFU1cWZWeE5NZ0REVFRBS29CU1duVktv?oc=5</guid>
-            <pubDate>Sat, 15 Nov 2025 00:48:00 GMT</pubDate>
+            <pubDate>Sat, 15 Nov 2025 00:48:54 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 仲裁失败后，壳牌被责令支付 Venture Global 的律师费 路透]]></description>
         </item>
         <item>
