@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 17 Nov 2025 23:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 23:39:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[由于美国降息前景因数据空白而混乱，黄金保持跌势]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-17/gold-holds-losses-as-us-rate-cut-outlook-muddled-by-data-void</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-17/gold-holds-losses-as-us-rate-cut-outlook-muddled-by-data-void</guid>
+            <pubDate>Mon, 17 Nov 2025 23:17:45 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于美国下个月降息的预期减弱，金价连续三天下跌，随后企稳。]]></description>
+        </item>
         <item>
             <title><![CDATA[Grayscale 将比特币视为“长期赌注”，申请 IPO]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-11-17/grayscale-sees-bitcoin-as-long-term-bet-files-for-ipo-video</link>
@@ -105,6 +112,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-17/lumexa-imaging-files-for-us-ipo-revealing-shrinking-losses</guid>
             <pubDate>Mon, 17 Nov 2025 22:53:26 GMT</pubDate>
             <description><![CDATA[[Bloomberg] Lumexa Imaging Holdings Inc. 是一家由私募股权公司 Welsh Carson Anderson & Stowe 支持的连锁诊断影像提供商，该公司已申请首次公开募股，披露了收入的增长和亏损的缩小。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[财经早知道｜宁德时代联合创始人减持，百亿规模55家机构抢筹 - 财新]]></title>
+            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vTG5vM2pBV1pqWkZGa1k5cTJpWHkyZ0k5eW9ZSjZOZnVybV81Y3Vma2M5ejJaYk9zOGxtaThsQ1RsQWN4T0xhelZNcFYzTGtSTVhtUGlvZUZaX0VDbWdRam5R?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vTG5vM2pBV1pqWkZGa1k5cTJpWHkyZ0k5eW9ZSjZOZnVybV81Y3Vma2M5ejJaYk9zOGxtaThsQ1RsQWN4T0xhelZNcFYzTGtSTVhtUGlvZUZaX0VDbWdRam5R?oc=5</guid>
+            <pubDate>Mon, 17 Nov 2025 22:49:00 GMT</pubDate>
+            <description><![CDATA[[财新网] 财经早知道｜宁德时代联合创始人减持，百亿规模55家机构抢筹  财新]]></description>
         </item>
         <item>
             <title><![CDATA[华平全球私募股权基金首轮融资 120 亿美元]]></title>
@@ -212,6 +226,13 @@
             <description><![CDATA[[Bloomberg] 随着 Cantor Fitzgerald LP 敲定了对冲基金部门的收购计划，瑞银奥康纳资本解决方案战略的联席主管将不再管理其基金。]]></description>
         </item>
         <item>
+            <title><![CDATA[华尔街收盘大幅走低，国债收益率下滑，因投资者关注英伟达业绩和数据冲击 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1NzdjZDbFZxTWhFS05PRm1aaWRRMW5sdkF1R3JiNzY2MExJcXVoZ2lxajFsQWNqTTdNWUF1NmxvaUpfV1Uza0R0NkRRTVBKVjB2Y1dSWHZJb1ZRMTJaSkRBNUJyYU5GbVJjV1MzdmVMVmYtYTJUZ1NKM2lCdTJhR0hHMTE0LUVMVlR3YWY1SF9RYnVV?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1NzdjZDbFZxTWhFS05PRm1aaWRRMW5sdkF1R3JiNzY2MExJcXVoZ2lxajFsQWNqTTdNWUF1NmxvaUpfV1Uza0R0NkRRTVBKVjB2Y1dSWHZJb1ZRMTJaSkRBNUJyYU5GbVJjV1MzdmVMVmYtYTJUZ1NKM2lCdTJhR0hHMTE0LUVMVlR3YWY1SF9RYnVV?oc=5</guid>
+            <pubDate>Mon, 17 Nov 2025 21:39:15 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 由于投资者关注英伟达业绩和数据冲击，华尔街收盘大幅走低，国债收益率下滑 - 路透中文网]]></description>
+        </item>
+        <item>
             <title><![CDATA[芝加哥的“就业杀手”企业税收计划被委员会拒绝]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-17/chicago-s-job-killer-corporate-tax-plan-rejected-by-committee</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-17/chicago-s-job-killer-corporate-tax-plan-rejected-by-committee</guid>
@@ -268,13 +289,6 @@
             <description><![CDATA[[Bloomberg] 澳大利亚首富吉娜·莱因哈特 (Gina Rinehart) 已成为美国稀土生产商 MP Materials Corp. 的最大股东，加大了她对战略矿产的全球押注。]]></description>
         </item>
         <item>
-            <title><![CDATA[《小鲨鱼》创作者碰碰狐将在首次公开募股后首次亮相首尔]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-17/-baby-shark-creator-pinkfong-set-for-seoul-debut-after-popular-ipo</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-17/-baby-shark-creator-pinkfong-set-for-seoul-debut-after-popular-ipo</guid>
-            <pubDate>Mon, 17 Nov 2025 21:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Pinkfong Co.是流行歌曲《Baby Shark》歌曲背后的公司，在投资者蜂拥而至其首次公开募股后，该公司将于周二在首尔开始交易。]]></description>
-        </item>
-        <item>
             <title><![CDATA[彭博社报道亚马逊将通过发行美国债券筹集 150 亿美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVdYTlpDUzBwTGNVWi12TWdmczBhTmp1a05MQURqLTRnTWNFazNDbWlLcm1HZnYyY1hEdjhpVDhKTXhVOXZ1RlVWX01xcmhOTlBMMFRnV1F0Snd5RmtMVElWWW1JY0VtZjZRR0xFSm5aVk5YQ192cjZmajAxUThFNElDZkttMDQ4eUlBU2E5elFaNG9waGRMM2VnbGljc3dnR0dxeU53Y0hEcElOV1Jpd3pxYUFBV09kcUx3YkNzSUhUMTNf?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNUVdYTlpDUzBwTGNVWi12TWdmczBhTmp1a05MQURqLTRnTWNFazNDbWlLcm1HZnYyY1hEdjhpVDhKTXhVOXZ1RlVWX01xcmhOTlBMMFRnV1F0Snd5RmtMVElWWW1JY0VtZjZRR0xFSm5aVk5YQ192cjZmajAxUThFNElDZkttMDQ4eUlBU2E5elFaNG9waGRMM2VnbGljc3dnR0dxeU53Y0hEcElOV1Jpd3pxYUFBV09kcUx3YkNzSUhUMTNf?oc=5</guid>
@@ -303,11 +317,11 @@
             <description><![CDATA[[Bloomberg] 在遭到至少一位最大成员的反对后，加州大学的投资部门正在给十大成员更多的时间来考虑其 24 亿美元的新业务。]]></description>
         </item>
         <item>
-            <title><![CDATA[由于投资者关注英伟达业绩和数据冲击，华尔街下跌，国债收益率下滑 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1NzdjZDbFZxTWhFS05PRm1aaWRRMW5sdkF1R3JiNzY2MExJcXVoZ2lxajFsQWNqTTdNWUF1NmxvaUpfV1Uza0R0NkRRTVBKVjB2Y1dSWHZJb1ZRMTJaSkRBNUJyYU5GbVJjV1MzdmVMVmYtYTJUZ1NKM2lCdTJhR0hHMTE0LUVMVlR3YWY1SF9RYnVV?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1NzdjZDbFZxTWhFS05PRm1aaWRRMW5sdkF1R3JiNzY2MExJcXVoZ2lxajFsQWNqTTdNWUF1NmxvaUpfV1Uza0R0NkRRTVBKVjB2Y1dSWHZJb1ZRMTJaSkRBNUJyYU5GbVJjV1MzdmVMVmYtYTJUZ1NKM2lCdTJhR0hHMTE0LUVMVlR3YWY1SF9RYnVV?oc=5</guid>
-            <pubDate>Mon, 17 Nov 2025 20:16:27 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于投资者关注英伟达业绩和数据冲击，华尔街下跌，国债收益率下滑 - 路透中文网]]></description>
+            <title><![CDATA[俄罗斯出口中心恢复装货后油价回落 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVBNYTdIak9jSTVnY1psQ2VsektWTzZWUm1FcFVXaXFJYXZLOVU2bzlyc09xbWVIZ3pob1dZYzZXRW9xRFVaY04wQTdtcHluT0JhM2UtWDc5ZlVZV2xqbDlOc2ttbk9yODd3NDhKVjU1UmJaTXAxVVJQTWpqUl90bUpEbUFTdW12RHYyUG1OazZseEwxMFRpMmlSeXhDMU5UVEtwdUZzZHpUQQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVBNYTdIak9jSTVnY1psQ2VsektWTzZWUm1FcFVXaXFJYXZLOVU2bzlyc09xbWVIZ3pob1dZYzZXRW9xRFVaY04wQTdtcHluT0JhM2UtWDc5ZlVZV2xqbDlOc2ttbk9yODd3NDhKVjU1UmJaTXAxVVJQTWpqUl90bUpEbUFTdW12RHYyUG1OazZseEwxMFRpMmlSeXhDMU5UVEtwdUZzZHpUQQ?oc=5</guid>
+            <pubDate>Mon, 17 Nov 2025 20:23:36 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 俄罗斯出口中心恢复装货后油价回落 路透]]></description>
         </item>
         <item>
             <title><![CDATA[TotalEnergies 旨在通过价值 60 亿美元的 Kretinsky 天然气发电厂交易促进电力交易 - 路透中文网]]></title>
@@ -387,13 +401,6 @@
             <description><![CDATA[[Reuters Business] 欧盟欧洲投资银行将与澳大利亚政府就关键原材料开展合作 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[俄罗斯出口中心恢复装货后油价稳定 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVBNYTdIak9jSTVnY1psQ2VsektWTzZWUm1FcFVXaXFJYXZLOVU2bzlyc09xbWVIZ3pob1dZYzZXRW9xRFVaY04wQTdtcHluT0JhM2UtWDc5ZlVZV2xqbDlOc2ttbk9yODd3NDhKVjU1UmJaTXAxVVJQTWpqUl90bUpEbUFTdW12RHYyUG1OazZseEwxMFRpMmlSeXhDMU5UVEtwdUZzZHpUQQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVBNYTdIak9jSTVnY1psQ2VsektWTzZWUm1FcFVXaXFJYXZLOVU2bzlyc09xbWVIZ3pob1dZYzZXRW9xRFVaY04wQTdtcHluT0JhM2UtWDc5ZlVZV2xqbDlOc2ttbk9yODd3NDhKVjU1UmJaTXAxVVJQTWpqUl90bUpEbUFTdW12RHYyUG1OazZseEwxMFRpMmlSeXhDMU5UVEtwdUZzZHpUQQ?oc=5</guid>
-            <pubDate>Mon, 17 Nov 2025 18:11:40 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 俄罗斯出口中心恢复装货后油价保持稳定 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国银行表示人工智能正在提高银行家的生产力和收入 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUdNZlR2MlIyMDJGT1JGTFgweG1rNmpBWVRxOE1yTkVYb1NPcUxTdjV0LVBfSHZmdUxCaWNqenBENWg3d2YtV0pLQm9pcHVwR25WWlVqYlRjaFJWN3pyakZKcGgzS3lQNGtJdkd2ZnFWWGF3dEtCZGE3WUtXN3lUZWlFS2xMM2szVTJFSXBwd2tNWmxlSU5pNXlyU3RiU19PWm80MlBUS24zQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSUdNZlR2MlIyMDJGT1JGTFgweG1rNmpBWVRxOE1yTkVYb1NPcUxTdjV0LVBfSHZmdUxCaWNqenBENWg3d2YtV0pLQm9pcHVwR25WWlVqYlRjaFJWN3pyakZKcGgzS3lQNGtJdkd2ZnFWWGF3dEtCZGE3WUtXN3lUZWlFS2xMM2szVTJFSXBwd2tNWmxlSU5pNXlyU3RiU19PWm80MlBUS24zQQ?oc=5</guid>
@@ -469,6 +476,20 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTgzUVpGdHE5SVBFWHVOZWh2cVVCcEJ6QmpJNlVmeVhvR1pmTmNna2lnck5UaUp4ZkxwbUJsTWsyM2g5S1pyY3R0Wi03aWg0QXM5RUNvV3pFMjhYT2stVjlUNWFadjZCTDNkNDBzQkFBb1FqOFJtYjJ1ZUNtNURSTHJMd1h4dUZTeWg0dDdNSkxOYURIRlhxRXUtWGt2YVJ4Zk1IWlkyOGlmNlZpeFNWZFFCQTBrT2I0eHdyc1lpRUFZU0NsS09QQzh0U0YxQXF3?oc=5</guid>
             <pubDate>Mon, 17 Nov 2025 16:05:03 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 武装分子称他们处决了被俘的尼日利亚军事指挥官，军方否认抓获 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[瑞银就迁址美国向贝森特“问路”]]></title>
+            <link>https://www.ftchinese.com/story/001108226</link>
+            <guid isPermaLink="false">https://www.ftchinese.com/story/001108226</guid>
+            <pubDate>Mon, 17 Nov 2025 16:00:00 GMT</pubDate>
+            <description><![CDATA[[FT Chinese] 瑞士中的新任董事长瑞银将持有额外260亿美元资本金；该行称其为“极限”。该行董事长已与美国财长探讨迁往美国的可能性。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AI投资者坦承对巨额投资感到“紧张”]]></title>
+            <link>https://www.ftchinese.com/story/001108225</link>
+            <guid isPermaLink="false">https://www.ftchinese.com/story/001108225</guid>
+            <pubDate>Mon, 17 Nov 2025 16:00:00 GMT</pubDate>
+            <description><![CDATA[[FT Chinese] Klarna创始人、AI的积极参与者谢米亚科夫斯基成为最新一位对科技行业砸重金建设数据中心的做法向知名AI投资者发出警告。]]></description>
         </item>
         <item>
             <title><![CDATA[伯克希尔哈撒韦公司罕见地斥资 49 亿美元持有科技股，Alphabet 股价创下历史新高 - 路透中文网]]></title>
@@ -686,27 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxOTklBTVRIWE9QS1BfVGsyazZuMzBSV2VBcmxnMTNvWjJiLUhLUXpsa1RnejZSejNTTnlNNzVLenpuV2QtTG9QY1BZZFRGS2tsN2licDRqWHE4WmpSYXdtSTBSczJ6TDdybTV0YmJJOHpsSlJ6X3c3YTVFUm1WanFDRVlR?oc=5</guid>
             <pubDate>Mon, 17 Nov 2025 11:45:14 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 早盘竞价：英伟达和数据下跌之前恢复平静 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰主要国防公司任命迈克·蓬佩奥为新顾问委员会成员 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXlkVlNWZTlPc0xldXVMVzdDQUhMdklCeDRmRlJXa1RSNzZtU2NwQXQ4UHU4WEFXX1A2ajE3OWJVNWg1czItbk1CQWtKelJEQmMzVHQ0QXZGWlBaaVJ3Sm5FWmp3ZkJlWWhsLTFLVzNYT18tM0c4dHFNMzFjd1NUS0VtaXpxbkVKUnFiR1VlUHJiWmZWUFV0bGljQ1VibnBsUHFpU2l3akl1Q0M1YkJYZEVMcFd3emFVYnZ4VVFrb1JxaC04Smww?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXlkVlNWZTlPc0xldXVMVzdDQUhMdklCeDRmRlJXa1RSNzZtU2NwQXQ4UHU4WEFXX1A2ajE3OWJVNWg1czItbk1CQWtKelJEQmMzVHQ0QXZGWlBaaVJ3Sm5FWmp3ZkJlWWhsLTFLVzNYT18tM0c4dHFNMzFjd1NUS0VtaXpxbkVKUnFiR1VlUHJiWmZWUFV0bGljQ1VibnBsUHFpU2l3akl1Q0M1YkJYZEVMcFd3emFVYnZ4VVFrb1JxaC04Smww?oc=5</guid>
-            <pubDate>Mon, 17 Nov 2025 11:24:07 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 乌克兰主要国防公司任命迈克·蓬佩奥为新顾问委员会成员 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[散户投资者对美国股市逢低买入的信心减弱 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWx0V0tpSWJnaDZMZzJoNXQxNTRoRkctdW5xUGdUZVdrU3VVaENsTVBpdzllZ2p4NjZnX2ZjNnBTMENwSTJKdDJYOTlQX0pZU1lhc0lOaVoxa2Y4QTFxeHFJZC14bHRBTUp5WVNnbkJYYXBnY2pjdkVybWVYNkIxdlAwbUVua2hVdkxqNC0xUTBpVlM3U0w1cU1pamp3U3Z2SXdLLUppU1hCTjlpNGEwLUpxa1dDVHY4RUppNDYza3QwN0xZ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWx0V0tpSWJnaDZMZzJoNXQxNTRoRkctdW5xUGdUZVdrU3VVaENsTVBpdzllZ2p4NjZnX2ZjNnBTMENwSTJKdDJYOTlQX0pZU1lhc0lOaVoxa2Y4QTFxeHFJZC14bHRBTUp5WVNnbkJYYXBnY2pjdkVybWVYNkIxdlAwbUVua2hVdkxqNC0xUTBpVlM3U0w1cU1pamp3U3Z2SXdLLUppU1hCTjlpNGEwLUpxa1dDVHY4RUppNDYza3QwN0xZ?oc=5</guid>
-            <pubDate>Mon, 17 Nov 2025 11:10:04 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 散户投资者对美国股市逢低买入的信心减弱 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国《金融时报》称，柏林和巴黎正在讨论取消联合制造战斗机的计划 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFFTdkIxZnYzbVVmTEhpT2JCemJkb3NjaWVSQUl6cEE3Mk9kakRlbEVsMXdQRTg3bE1mN0d6blFHRU5iZHdRNG1NdmtJZnp0eUtuZHN0U3dKdmFYMWR0VVlTZUkxWFpuSE1TYXFPaXB6V0k4a1lkdi1NNGVreHdMTHQxOUExbVhSSUljbGo0LU1zX0xySlFVcTg0eFpZdTNyc0tZSVoyWTg3Mll6OGZwTWxtRGVQYWdnRS03QmxjNXJCM0swR0FyOHZEbXM?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFFTdkIxZnYzbVVmTEhpT2JCemJkb3NjaWVSQUl6cEE3Mk9kakRlbEVsMXdQRTg3bE1mN0d6blFHRU5iZHdRNG1NdmtJZnp0eUtuZHN0U3dKdmFYMWR0VVlTZUkxWFpuSE1TYXFPaXB6V0k4a1lkdi1NNGVreHdMTHQxOUExbVhSSUljbGo0LU1zX0xySlFVcTg0eFpZdTNyc0tZSVoyWTg3Mll6OGZwTWxtRGVQYWdnRS03QmxjNXJCM0swR0FyOHZEbXM?oc=5</guid>
-            <pubDate>Mon, 17 Nov 2025 10:58:50 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 英国《金融时报》称，柏林和巴黎正在讨论取消联合制造战斗机的计划 路透]]></description>
         </item>
     </channel>
 </rss>
