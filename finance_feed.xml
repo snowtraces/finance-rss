@@ -4,16 +4,44 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 17 Nov 2025 22:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 22:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美联储理事沃勒支持12月降息以支撑疲软的劳动力市场]]></title>
+            <link>https://www.cnbc.com/2025/11/17/fed-governor-waller-backs-december-rate-cut-as-support-for-weakening-labor-market.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2025/11/17/fed-governor-waller-backs-december-rate-cut-as-support-for-weakening-labor-market.html</guid>
+            <pubDate>Mon, 17 Nov 2025 22:29:34 GMT</pubDate>
+            <description><![CDATA[[CNBC] 沃勒的言论使他完全站在了那些寻求放松货币政策以阻止就业形势进一步危险的人的行列中。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[债务期限临近，新堡垒能源公司正在进行债务减免谈判]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-17/new-fortress-energy-in-forbearance-talks-as-debt-deadline-looms</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-17/new-fortress-energy-in-forbearance-talks-as-debt-deadline-looms</guid>
+            <pubDate>Mon, 17 Nov 2025 22:27:55 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 韦斯·伊登斯 (Wes Edens) 旗下的 New Fortress Energy Inc. 正在与债权人就暂缓协议进行谈判，因为由于项目延误和现金流问题，该公司没有时间支付部分债务到期利息。]]></description>
+        </item>
         <item>
             <title><![CDATA[美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3086417</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3086417</guid>
             <pubDate>Mon, 17 Nov 2025 22:05:34 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[早期基金受阻后 Blue Owl 暴跌至 2023 年低点]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-17/blue-owl-plunges-to-2023-low-after-blocking-exit-from-early-fund</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-17/blue-owl-plunges-to-2023-low-after-blocking-exit-from-early-fund</guid>
+            <pubDate>Mon, 17 Nov 2025 22:02:22 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Blue Owl Capital Inc. 的股价已跌至 2023 年 12 月以来的最低水平，此前这家另类资产管理公司限制投资者从其最古老的私人信贷基金之一赎回资本。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[“丑陋”的技术面使美股反弹面临修正风险]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-17/-ugly-technicals-put-the-us-stock-rally-at-risk-of-correction</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-17/-ugly-technicals-put-the-us-stock-rally-at-risk-of-correction</guid>
+            <pubDate>Mon, 17 Nov 2025 22:01:48 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 研究美国股市图表模式的分析师们敲响了警钟，引发了人们对最新一轮下跌可能会演变成至少 10% 的全面调整的担忧。]]></description>
         </item>
         <item>
             <title><![CDATA[沃伦·巴菲特的伯克希尔哈撒韦公司增持 Alphabet 股份]]></title>
@@ -170,13 +198,6 @@
             <description><![CDATA[[Bloomberg] City Index Financial Markets 的高级分析师 Fiona Cincotta 表示，在人工智能投资方面，市场表现得很理性，并提出了正确的问题。 她与卡罗琳·海德一起参加“彭博科技”节目。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[美联储理事沃勒支持12月降息以支撑疲软的劳动力市场]]></title>
-            <link>https://www.cnbc.com/2025/11/17/fed-governor-waller-backs-december-rate-cut-as-support-for-weakening-labor-market.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/11/17/fed-governor-waller-backs-december-rate-cut-as-support-for-weakening-labor-market.html</guid>
-            <pubDate>Mon, 17 Nov 2025 20:53:38 GMT</pubDate>
-            <description><![CDATA[[CNBC] 沃勒的言论使他完全站在了那些寻求放松货币政策以阻止就业形势进一步危险的人的行列中。]]></description>
-        </item>
-        <item>
             <title><![CDATA[Ramp 在最新一轮融资中估值达到 320 亿美元]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-11-17/ramp-hits-32-billion-valuation-in-latest-funding-round-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-17/ramp-hits-32-billion-valuation-in-latest-funding-round-video</guid>
@@ -238,29 +259,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1NzdjZDbFZxTWhFS05PRm1aaWRRMW5sdkF1R3JiNzY2MExJcXVoZ2lxajFsQWNqTTdNWUF1NmxvaUpfV1Uza0R0NkRRTVBKVjB2Y1dSWHZJb1ZRMTJaSkRBNUJyYU5GbVJjV1MzdmVMVmYtYTJUZ1NKM2lCdTJhR0hHMTE0LUVMVlR3YWY1SF9RYnVV?oc=5</guid>
             <pubDate>Mon, 17 Nov 2025 20:16:27 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 由于投资者关注英伟达业绩和数据冲击，华尔街下跌，国债收益率下滑 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿丽亚娜·库格勒 (Ariana Kugler) 辞职，阿波罗 (Apollo) 将退休人员推向私人市场 彭博市场 11/17/2025]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-11-17/bloomberg-markets-11-17-2025-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-17/bloomberg-markets-11-17-2025-video</guid>
-            <pubDate>Mon, 17 Nov 2025 20:14:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 《彭博市场》追踪全球所有资产类别的市场走势，并讨论华尔街面临的最大问题。 今天的嘉宾：彭博社的 Laura Davison、Sridhar Natarajan、Muyao Shen 和 Alex Rajbhandari。 
-
-  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果将​​改变设计和发布时间表]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-11-17/apple-to-change-designs-and-release-schedule-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-17/apple-to-change-designs-and-release-schedule-video</guid>
-            <pubDate>Mon, 17 Nov 2025 20:07:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 苹果公司将于明年改变其 iPhone 设计和发布周期。 彭博社高级技术编辑达纳·沃尔曼 (Dana Wollman) 与卡罗琳·海德 (Caroline Hyde) 一起在“彭博科技”节目中讨论了客户和竞争的影响。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加密货币撤退打击比特币牛市和山寨币]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-11-17/crypto-retreat-hits-bitcoin-bulls-and-altcoins-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-17/crypto-retreat-hits-bitcoin-bulls-and-altcoins-video</guid>
-            <pubDate>Mon, 17 Nov 2025 20:04:40 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 从比特币和以太坊到风险最高的代币，加密货币在过去一个月一直在下跌。 彭博社的沉慕尧在“彭博科技”节目中与卡罗琳·海德讨论了推动抛售的原因以及谁仍在买入。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[跨价值链的人工智能投资者：贝莱德的雅各布斯（正确）]]></title>
@@ -389,7 +387,7 @@
             <description><![CDATA[[Reuters Business] 美国银行表示人工智能正在提高银行家的生产力和收入 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[独家：消息人士称，随着人工智能风险的增加，韦恩斯坦的萨巴出售大型科技公司的信用衍生品 - 路透中文网]]></title>
+            <title><![CDATA[独家：消息人士称，随着人工智能风险的增加，温斯坦的萨巴出售大型科技公司的信用衍生品 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPM3pjR2FpdjBhNEJJeUk0T2dNWHhGR05uQ1kzdVFDQVoyQkd2Ui1vS1B0NFJ0MnBOLVpVX2NQYkcwTWIwVzM3aHRhT3NxRGgxQUFuTDBvcjBrXzZLODRwOUNjNG9kdUF6cUEtWjQyVG9VMVkxQlFYc0NIVHduaTd4ZHBnVFZqQWhoVmd0ME5DV1Q2eElraUozTDJ5OWd0WUlOSk04LVg5TDNEOXNDc3pGNUhYa1RBTzhKUEZYaDFYUUlKWWVMZ19WWEczUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxPM3pjR2FpdjBhNEJJeUk0T2dNWHhGR05uQ1kzdVFDQVoyQkd2Ui1vS1B0NFJ0MnBOLVpVX2NQYkcwTWIwVzM3aHRhT3NxRGgxQUFuTDBvcjBrXzZLODRwOUNjNG9kdUF6cUEtWjQyVG9VMVkxQlFYc0NIVHduaTd4ZHBnVFZqQWhoVmd0ME5DV1Q2eElraUozTDJ5OWd0WUlOSk04LVg5TDNEOXNDc3pGNUhYa1RBTzhKUEZYaDFYUUlKWWVMZ19WWEczUQ?oc=5</guid>
             <pubDate>Mon, 17 Nov 2025 18:08:02 GMT</pubDate>
@@ -634,6 +632,13 @@
             <description><![CDATA[[Bloomberg] 周一，厄瓜多尔债券在新兴市场领跌，此前选民拒绝了总统丹尼尔·诺博亚的宪法改革提案——这是对他巩固权力企图的尖锐而令人惊讶的否定。]]></description>
         </item>
         <item>
+            <title><![CDATA[亚马逊三年来首次发行美国债券筹集 150 亿美元]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-17/amazon-kicks-off-first-us-high-grade-bond-sale-in-three-years</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-17/amazon-kicks-off-first-us-high-grade-bond-sale-in-three-years</guid>
+            <pubDate>Mon, 17 Nov 2025 13:20:51 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 亚马逊公司三年来首次发行美元债券，筹集了 150 亿美元资金，科技公司竞相为人工智能基础设施提供资金，因此发行了大量债券。]]></description>
+        </item>
+        <item>
             <title><![CDATA[伊拉克总理与卢克石油公司前首席执行官讨论美国制裁后的解决方案 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWtKMXN5WEpjUUlGOVlaXzdUOHZ2QUE4WjkwT1E0dTJQWUdGSldQRXBOM3ZrMVhydEhJdUxEMVowSEtJUkMzWlQ4RmRtcHh3WTBvenBDX1VDTldDM01WTE53X1FrbFBrSnZFOGZSWVhhNmZEWndsX1c5TDd0WERFTkNDTURaYndUU0N1V0QwVWZIVHNuV24zLU1IQ0gwSnN4MmVFRXl5TTJrZ0lqU0tHZmpoZ0s1dw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWtKMXN5WEpjUUlGOVlaXzdUOHZ2QUE4WjkwT1E0dTJQWUdGSldQRXBOM3ZrMVhydEhJdUxEMVowSEtJUkMzWlQ4RmRtcHh3WTBvenBDX1VDTldDM01WTE53X1FrbFBrSnZFOGZSWVhhNmZEWndsX1c5TDd0WERFTkNDTURaYndUU0N1V0QwVWZIVHNuV24zLU1IQ0gwSnN4MmVFRXl5TTJrZ0lqU0tHZmpoZ0s1dw?oc=5</guid>
@@ -702,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWZrSkdCV2tLa28xcmlQX1pHU1FrY2h6aGwwR3pMRVBrLVR4NFJENTRFUERNZ0dEWWo2LXpsVUwtRzYxd1dqUVpTemRTZVBpeXBlbFRoR0g5SDdQX2VyckZ0S1FTSWxQd0ZvbGx0YnYzSzRTNmxpS1Rjb3NLM0JNejFtWXMxLUg2a3JFQkx0TlROREdRcy1aUTJzSURTdlZRSFZ1UU04V0NlR2JTbmF6aF95Tlc2ZlZ5TlVj?oc=5</guid>
             <pubDate>Mon, 17 Nov 2025 10:48:50 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 埃塞俄比亚称马尔堡病毒爆发造成三人死亡 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国陪审团称苹果必须在智能手表专利案中向 Masimo 支付 6.34 亿美元 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmFRMEpwTFlOY2lxQUw1S28xN0c5ZjF0OUVxNllYVHFGYkFhN1BoOGsweFpjQjlDRjlaanY3OHZwNy1GOHA2NXJyTmpGcnl1T2l3dFM0TzBDWTZHajJISUpsZjhpZU9RUjFWSEdnazBqMEJZcFlFdTFsbDY0VFFmcnJlWElWQXVhdzJ5eGxSdW02NVpDM0piX0psbkxwVVFCZVZMUE56LVNRRDVIcjY3QjJZLW0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmFRMEpwTFlOY2lxQUw1S28xN0c5ZjF0OUVxNllYVHFGYkFhN1BoOGsweFpjQjlDRjlaanY3OHZwNy1GOHA2NXJyTmpGcnl1T2l3dFM0TzBDWTZHajJISUpsZjhpZU9RUjFWSEdnazBqMEJZcFlFdTFsbDY0VFFmcnJlWElWQXVhdzJ5eGxSdW02NVpDM0piX0psbkxwVVFCZVZMUE56LVNRRDVIcjY3QjJZLW0?oc=5</guid>
-            <pubDate>Mon, 17 Nov 2025 10:40:30 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国陪审团称苹果必须在智能手表专利案中向 Masimo 支付 6.34 亿美元 - 路透中文网]]></description>
         </item>
     </channel>
 </rss>
