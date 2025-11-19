@@ -4,16 +4,30 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 19 Nov 2025 09:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 09:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[雀巢赢得巴黎水法律战，为潜在退出铺平道路]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3089299</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3089299</guid>
+            <pubDate>Wed, 19 Nov 2025 09:20:26 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Viridien股价在宣布CEO继任计划后下跌]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3089296</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3089296</guid>
+            <pubDate>Wed, 19 Nov 2025 09:16:49 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[印尼央行再次维持利率以维持卢比稳定]]></title>
             <link>https://www.wsj.com/articles/bank-indonesia-holds-rate-again-to-maintain-rupiah-stability-5ed0278c</link>
             <guid isPermaLink="false">https://www.wsj.com/articles/bank-indonesia-holds-rate-again-to-maintain-rupiah-stability-5ed0278c</guid>
             <pubDate>Wed, 19 Nov 2025 09:13:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 印尼央行周三将基准 7 天逆回购利率维持在 4.75%，基本符合《华尔街日报》民意调查的预期，其中 8 名经济学家中有 7 名预测不会发生变化。]]></description>
+            <description><![CDATA[[WSJ] 印尼央行行长表示，在全球不确定性上升的情况下，短期重点是稳定卢比和吸引外国投资。]]></description>
         </item>
         <item>
             <title><![CDATA[对冲基金 Davide Leone 押注卫星公司 SES Defense Pivot]]></title>
@@ -21,6 +35,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/hedge-fund-davide-leone-bets-on-satellite-firm-ses-defense-pivot</guid>
             <pubDate>Wed, 19 Nov 2025 09:08:05 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 对冲基金经理 Davide Leone 今年增持了 SES SA 的股份，认为这家卫星公司向国防的战略转变将释放长期价值——即使在最近的盈利受挫之后，这一论点仍然成立。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[经理称，伊朗扣押的油轮已被释放]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-19/oil-tanker-seized-by-iran-has-been-released-manager-says</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/oil-tanker-seized-by-iran-has-been-released-manager-says</guid>
+            <pubDate>Wed, 19 Nov 2025 09:07:14 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 该船经理表示，上周被伊朗军队扣押的一艘油轮已被释放。]]></description>
         </item>
         <item>
             <title><![CDATA[慧与科技(HPE.US)收购瞻博网络或再受阻 美国多州获准介入]]></title>
@@ -79,27 +100,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[五矿资本(600390.SH)子公司五矿信托拟与五矿地产控股共设合资公司]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089266</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089266</guid>
-            <pubDate>Wed, 19 Nov 2025 09:05:44 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大丰实业(603081.SH)中标约1.65亿元舞台工艺设备工程]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089265</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089265</guid>
-            <pubDate>Wed, 19 Nov 2025 09:05:43 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独家：消息人士称，俄罗斯诺瓦泰克公司为向中国买家出售受制裁的液化天然气提供大幅折扣 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQb09sQ1pRYnhseDhvMlZrU1pvZ3RXVFRoTHRKVVJqVjJsMGo3VVpfMnVrWVc3aTJObE12YlMtZTFwSUpKRS1yNTRySm5mR2p6UGprcGdKWDVya2lTQ2FpMEdOWmdUWHZFOU5QdHdlZXJwTktQTlkxdzFrMG4tMmxPYlhrMktLdTFlT3dTZ2g4R050bVM2VTRfMWpjZGhWWElHMWlpVGExSEdBVDFKdlpDdkU4SjhBOERIaE9Od29DZzZIbFZYOFBJY05uTQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQb09sQ1pRYnhseDhvMlZrU1pvZ3RXVFRoTHRKVVJqVjJsMGo3VVpfMnVrWVc3aTJObE12YlMtZTFwSUpKRS1yNTRySm5mR2p6UGprcGdKWDVya2lTQ2FpMEdOWmdUWHZFOU5QdHdlZXJwTktQTlkxdzFrMG4tMmxPYlhrMktLdTFlT3dTZ2g4R050bVM2VTRfMWpjZGhWWElHMWlpVGExSEdBVDFKdlpDdkU4SjhBOERIaE9Od29DZzZIbFZYOFBJY05uTQ?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 09:04:21 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：消息人士称，俄罗斯诺瓦泰克公司为向中国买家出售受制裁的液化天然气提供大幅折扣 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[人工智能的政治即将爆发]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-19/how-the-politics-of-ai-will-shape-2028-s-election</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/how-the-politics-of-ai-will-shape-2028-s-election</guid>
@@ -119,6 +119,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-19/equities-pullback-is-liquidity-driven-schroder-cio-says-video</guid>
             <pubDate>Wed, 19 Nov 2025 08:52:27 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 施罗德投资管理公司多资产首席信息官帕特里克·布伦纳表示，最近股市的回调与流动性有关，他对市场仍然持乐观态度。 布伦纳在彭博电视上解释说：“那些美国大盘、高质量的科技公司实际上一直表现得很好。”  “对我们来说，这在某种程度上表明这可能更多是流动性驱动的，而不是基本面驱动的。”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国合作伙伴克罗格关闭机器人仓库，Ocado 股价下跌 17% - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPaklQV1hNVHp5MlluazV4ZUczUFZCdWhOTGRWN1VFaDNGeUJVRUxybHJ5WDFtWVYyRTBZeV9hQ0FZeXlUb2gwbzM0Z3dFMVpDMG9SdmVIcVlGV1NzNjJHVEFKMDhZaUJHMERFckdJVDdLUVlFdHRILXNwLWhwNlIxLTB4MGFEUXplSDFTbGp2dUhKVGVYd0cyYWxLdmwta3h2MjQ2eFlFYjY0a2NndXQyRWgzZWoyUGdwY1l3c3lucDdZMjJZbURPNFk0QzI?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxPaklQV1hNVHp5MlluazV4ZUczUFZCdWhOTGRWN1VFaDNGeUJVRUxybHJ5WDFtWVYyRTBZeV9hQ0FZeXlUb2gwbzM0Z3dFMVpDMG9SdmVIcVlGV1NzNjJHVEFKMDhZaUJHMERFckdJVDdLUVlFdHRILXNwLWhwNlIxLTB4MGFEUXplSDFTbGp2dUhKVGVYd0cyYWxLdmwta3h2MjQ2eFlFYjY0a2NndXQyRWgzZWoyUGdwY1l3c3lucDdZMjJZbURPNFk0QzI?oc=5</guid>
+            <pubDate>Wed, 19 Nov 2025 08:46:22 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国合作伙伴克罗格关闭机器人仓库，Ocado 股价下跌 17% 路透]]></description>
         </item>
         <item>
             <title><![CDATA[中东和非洲地平线 11/19/2025]]></title>
@@ -262,7 +269,7 @@
             <description><![CDATA[[Bloomberg] 南苏丹表示，在邻国苏丹能源设施遭受袭击扰乱活动后，该国已恢复石油运输。]]></description>
         </item>
         <item>
-            <title><![CDATA[法航荷航集团是首家收购葡萄牙 TAP 股份的已知收购者]]></title>
+            <title><![CDATA[法航荷航集团是葡萄牙 TAP 股份的第一家收购者]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-19/air-france-klm-is-first-known-suitor-for-stake-in-portugal-s-tap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/air-france-klm-is-first-known-suitor-for-stake-in-portugal-s-tap</guid>
             <pubDate>Wed, 19 Nov 2025 07:16:07 GMT</pubDate>
@@ -293,7 +300,7 @@
             <title><![CDATA[紧张局势加剧，日本计算中国抵制旅行的成本 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnFyZ0FKNEFRUTJUdl9EYjlESHMtX1B5SlhDY0RKYmpkaHVSUWoySFh0QkV3SGVSTVhPTDVVM0hTY2d4VUJwVnhYMkJmWFBJX1RmTGpfZlZJOHRGNHVmeDM1Y3FET3pQdldDVXBNNkJZM3U4WV9NbllEVV9UNnZnUkJkNUVQTEVRT21aQ24wUl9saHRfM2RkMmVrV0tYSnhPSmtWd3kybEVGMGNDTHRqM1pHWQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnFyZ0FKNEFRUTJUdl9EYjlESHMtX1B5SlhDY0RKYmpkaHVSUWoySFh0QkV3SGVSTVhPTDVVM0hTY2d4VUJwVnhYMkJmWFBJX1RmTGpfZlZJOHRGNHVmeDM1Y3FET3pQdldDVXBNNkJZM3U4WV9NbllEVV9UNnZnUkJkNUVQTEVRT21aQ24wUl9saHRfM2RkMmVrV0tYSnhPSmtWd3kybEVGMGNDTHRqM1pHWQ?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 06:50:00 GMT</pubDate>
+            <pubDate>Wed, 19 Nov 2025 06:50:05 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 紧张局势加剧，日本计算中国抵制旅行的成本 路透]]></description>
         </item>
         <item>
@@ -302,6 +309,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-19/lseg-ceo-schwimmer-on-uk-ipo-pipeline-video</guid>
             <pubDate>Wed, 19 Nov 2025 06:46:05 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 伦敦证券交易所集团首席执行官 David Schwimmer 表示，英国 IPO 管道看起来健康，凸显了将人工智能嵌入工作流程的机会。 他在彭博新经济论坛间隙与哈斯琳达·阿明进行了独家交谈。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英国通胀放缓促使英国央行加大降息押注]]></title>
+            <link>https://www.bloomberg.com/news/live-blog/2025-11-19/ftse-100-live-cpi-inflation-uk-budget-pound-gilts-what-s-moving-uk-markets-right-now-markets-today</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2025-11-19/ftse-100-live-cpi-inflation-uk-budget-pound-gilts-what-s-moving-uk-markets-right-now-markets-today</guid>
+            <pubDate>Wed, 19 Nov 2025 06:43:01 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] ]]></description>
         </item>
         <item>
             <title><![CDATA[A股三大指数午后翻红，锂矿涨幅居前，碳酸锂期货突破10万关口，港股高开低走，能源板逆势走强 - 华尔街见闻]]></title>
@@ -318,6 +332,13 @@
             <description><![CDATA[[Reuters Business] 日本近 50 年来最严重的火灾烧毁了 170 栋建筑，造成 1 人死亡 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[日本知事将批准重启世界最大核电站 - 媒体 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3Y1cl9oajVCczZKTXZDZTBkRXJWOGItMjVKUkJmbUwyUXJ1bklmNXVESjVPOXVFUXNLRGFFSzVmVkZ2Y0FDODQzakpIQ3lVREU5M3htSWlMQTBLeXNEZzdadDloUHFGT0tYRTUwVWJZd0oyZGdLc01lVE10MWdLeG1LZ3R4ZGF5U1FXVE9rM0pKM0k4T08tVF94RF9wTlBPNEhjQm9DOUZ4cmQ3MEdPbTNKaVpUYkNualE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3Y1cl9oajVCczZKTXZDZTBkRXJWOGItMjVKUkJmbUwyUXJ1bklmNXVESjVPOXVFUXNLRGFFSzVmVkZ2Y0FDODQzakpIQ3lVREU5M3htSWlMQTBLeXNEZzdadDloUHFGT0tYRTUwVWJZd0oyZGdLc01lVE10MWdLeG1LZ3R4ZGF5U1FXVE9rM0pKM0k4T08tVF94RF9wTlBPNEhjQm9DOUZ4cmQ3MEdPbTNKaVpUYkNualE?oc=5</guid>
+            <pubDate>Wed, 19 Nov 2025 06:29:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 日本知事将批准重启世界最大核电站 - 媒体 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[乌克兰下个月敦促欧盟就冻结资产做出政治决定 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnV3Y3lOOG5tOHhmSUNMandOU2xpLVhhR2FxXzUyQVBod2w4QjlOZS1lbVhwRzExS3VIUkRPQVVlb2JQTHFRUXJVY2NidWI2aHNJaTUzZTk4ZjRFOHJER1paYXFiUVJkME5FZngzcFN5UlduYllIWC0wRU9QMGx1X1h4dWNlX0lUanBnOXM5SzFMdXkxRU9LZzNPbTNrODN2eDNvcV9BR3U3eFlIY3BUZlY1LWU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnV3Y3lOOG5tOHhmSUNMandOU2xpLVhhR2FxXzUyQVBod2w4QjlOZS1lbVhwRzExS3VIUkRPQVVlb2JQTHFRUXJVY2NidWI2aHNJaTUzZTk4ZjRFOHJER1paYXFiUVJkME5FZngzcFN5UlduYllIWC0wRU9QMGx1X1h4dWNlX0lUanBnOXM5SzFMdXkxRU9LZzNPbTNrODN2eDNvcV9BR3U3eFlIY3BUZlY1LWU?oc=5</guid>
@@ -328,7 +349,7 @@
             <title><![CDATA[英国市场面临高风险预算 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzdVMW4zYlNrT0VzT0Q2NUNocXVEeExFcDZDRG5SQWhKRmpJQUMyX2s3b0UwMV9LN2U5b2dmeDFpaVE3cWFYczYwdlNiOTZlckhQZHRvcDA5cFRfZkx1SjRfR3VmdFY2N2FlNkU0anlPb2kxUlFxdVlrZm4wTFB4U1o5M08xU3VXQU55OG5lWGE0ZnJJMW5WTA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimAFBVV95cUxQSzdVMW4zYlNrT0VzT0Q2NUNocXVEeExFcDZDRG5SQWhKRmpJQUMyX2s3b0UwMV9LN2U5b2dmeDFpaVE3cWFYczYwdlNiOTZlckhQZHRvcDA5cFRfZkx1SjRfR3VmdFY2N2FlNkU0anlPb2kxUlFxdVlrZm4wTFB4U1o5M08xU3VXQU55OG5lWGE0ZnJJMW5WTA?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 05:39:30 GMT</pubDate>
+            <pubDate>Wed, 19 Nov 2025 05:39:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 急需英国市场的高风险预算 路透]]></description>
         </item>
         <item>
@@ -377,14 +398,14 @@
             <title><![CDATA[特斯拉获得亚利桑那州叫车服务许可 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPamdobW1BZXlmb2xHdjFkamd1QWpJLXFKem1ya1ZWc3gyVHNGMVdWN29HMVhxY0dMRDduSG1sV3hNUnBlSWNuVEpZZjlfTVEwenJtbVM2MmdvRzUxMy1IOG9uVlNHbElaWGxBd1dYbG90Tk00SW9KeV9pQ0FmODFGMlZWcFZTWUd1WU4yUzA5aURMNG5tSUlBN3puVFJPb1c0MkZlSUwtbkdnUGFrVUVHcFJfOGVGRnd6OFN3M0pnV3MzenM2SUQ4ZnVIRE8tek0?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxPamdobW1BZXlmb2xHdjFkamd1QWpJLXFKem1ya1ZWc3gyVHNGMVdWN29HMVhxY0dMRDduSG1sV3hNUnBlSWNuVEpZZjlfTVEwenJtbVM2MmdvRzUxMy1IOG9uVlNHbElaWGxBd1dYbG90Tk00SW9KeV9pQ0FmODFGMlZWcFZTWUd1WU4yUzA5aURMNG5tSUlBN3puVFJPb1c0MkZlSUwtbkdnUGFrVUVHcFJfOGVGRnd6OFN3M0pnV3MzenM2SUQ4ZnVIRE8tek0?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 01:56:32 GMT</pubDate>
+            <pubDate>Wed, 19 Nov 2025 01:56:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 特斯拉获得亚利桑那州叫车服务许可 路透]]></description>
         </item>
         <item>
             <title><![CDATA[韩国同意加入阿联酋 Stargate 人工智能数据中心项目 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMzM0SlIwY3V2ckVHSXVsX2QwbTVhclpmTnNadmlZRHM4X1BmaktLNE9aUjZleWQ1Y0kxRHN2bHVRLXUxbUlqenVxVWFxQ1ZodldmeWRrRm5iMnFRRnJ1Ql9ic01yd1cyWjdBeXpyN1FvSGR3U2ZUUUxWdFpYaUNUN3dkczhWLVptUnBBZzhhNkZKQXFnQkE1cGZPLWM5dzlsU1dRaFF4eHM2QUU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMzM0SlIwY3V2ckVHSXVsX2QwbTVhclpmTnNadmlZRHM4X1BmaktLNE9aUjZleWQ1Y0kxRHN2bHVRLXUxbUlqenVxVWFxQ1ZodldmeWRrRm5iMnFRRnJ1Ql9ic01yd1cyWjdBeXpyN1FvSGR3U2ZUUUxWdFpYaUNUN3dkczhWLVptUnBBZzhhNkZKQXFnQkE1cGZPLWM5dzlsU1dRaFF4eHM2QUU?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 01:37:54 GMT</pubDate>
+            <pubDate>Wed, 19 Nov 2025 01:37:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 韩国同意加入阿联酋的 Stargate 人工智能数据中心项目 路透]]></description>
         </item>
         <item>
@@ -409,11 +430,18 @@
             <description><![CDATA[[Reuters Business] 据 Axios 报道，华纳兄弟探索公司希望派拉蒙将其报价提高至每股 30 美元 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[高盛沃尔德伦表示市场可能进一步下跌]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-19/bob-diamond-sees-healthy-correction-not-bear-market-precursor</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/bob-diamond-sees-healthy-correction-not-bear-market-precursor</guid>
-            <pubDate>Wed, 19 Nov 2025 00:21:19 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 高盛集团总裁约翰·沃尔德伦表示，市场已经做好了可能进一步下跌的准备，投资者将密切关注技术领军企业英伟达公司即将发布的重要盈利报告。]]></description>
+            <title><![CDATA[独家：消息人士称，俄罗斯诺瓦泰克公司为向中国买家出售受制裁的液化天然气提供大幅折扣 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQb09sQ1pRYnhseDhvMlZrU1pvZ3RXVFRoTHRKVVJqVjJsMGo3VVpfMnVrWVc3aTJObE12YlMtZTFwSUpKRS1yNTRySm5mR2p6UGprcGdKWDVya2lTQ2FpMEdOWmdUWHZFOU5QdHdlZXJwTktQTlkxdzFrMG4tMmxPYlhrMktLdTFlT3dTZ2g4R050bVM2VTRfMWpjZGhWWElHMWlpVGExSEdBVDFKdlpDdkU4SjhBOERIaE9Od29DZzZIbFZYOFBJY05uTQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQb09sQ1pRYnhseDhvMlZrU1pvZ3RXVFRoTHRKVVJqVjJsMGo3VVpfMnVrWVc3aTJObE12YlMtZTFwSUpKRS1yNTRySm5mR2p6UGprcGdKWDVya2lTQ2FpMEdOWmdUWHZFOU5QdHdlZXJwTktQTlkxdzFrMG4tMmxPYlhrMktLdTFlT3dTZ2g4R050bVM2VTRfMWpjZGhWWElHMWlpVGExSEdBVDFKdlpDdkU4SjhBOERIaE9Od29DZzZIbFZYOFBJY05uTQ?oc=5</guid>
+            <pubDate>Wed, 19 Nov 2025 00:28:05 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 独家：消息人士称，俄罗斯诺瓦泰克公司为向中国买家出售受制裁的液化天然气提供大幅折扣 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高工锂电董事长张小飞：锂电出货量，未来10年或增3倍 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xV0FoLV9YTm9UbjZsQl9xbUt4N1ZmeThad21FZTh0N0pnUzFaSkNXXy1maFl6SUtaSWdlZ1RuYlJhQWlhUGI3eVRtSDRCd3NSdm5B?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xV0FoLV9YTm9UbjZsQl9xbUt4N1ZmeThad21FZTh0N0pnUzFaSkNXXy1maFl6SUtaSWdlZ1RuYlJhQWlhUGI3eVRtSDRCd3NSdm5B?oc=5</guid>
+            <pubDate>Wed, 19 Nov 2025 00:13:58 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 高工锂电董事长张小飞：锂电出货量，未来10年或增3倍  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[标普 500 指数连续第四天下跌，估值忧虑重重，家得宝下跌 - 路透中文网]]></title>
@@ -421,13 +449,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGM0Qk13Z3F2YTNjSGVKUWIwaWJucGhtdFFhMGFJLXpGZ1Vkby1rTlBsejFrNTVmdk83amdDZ3laUFRiZXYzTm9NS2VnQlRWTkN5eVFNNVI0ZUszaWJmRkROcU5VT08wck8xb3ZIektaejhsMGN4eEpHZUFucjFWejNudDM2c3pTSkJDbDBFQU0xV3pHQmtTQ25tSzF6ZTVYSXhpSW9WWngyb1BBUlAxV2ZB?oc=5</guid>
             <pubDate>Tue, 18 Nov 2025 23:50:09 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 标普 500 指数连续第四天下跌，估值忧虑重重，家得宝下跌 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国库存和制裁风险成为焦点，油价下跌]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-18/latest-oil-market-news-and-analysis-for-november-19</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-18/latest-oil-market-news-and-analysis-for-november-19</guid>
-            <pubDate>Tue, 18 Nov 2025 23:34:39 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 报告显示美国库存增加有助于抵消西方对俄罗斯制裁影响的担忧，油价下跌。]]></description>
         </item>
         <item>
             <title><![CDATA[专家警告称，超加工食品对全球公共卫生构成威胁 - 路透中文网]]></title>
@@ -458,11 +479,11 @@
             <description><![CDATA[[财新网] 财经早知道｜市场聚焦英伟达财报：AI需求迎大考  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[英伟达市场谨慎情绪升温，股市波动：市场结束]]></title>
+            <title><![CDATA[英伟达倒计时，股票抛售暂停：市场结束]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-18/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-18/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Tue, 18 Nov 2025 22:39:48 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 股市在大幅下跌后趋于稳定，交易员在周三晚些时候英伟达公布财报之前没有进行大额押注，这将是对科技股推动的反弹的关键考验。]]></description>
+            <description><![CDATA[[Bloomberg] 在经历了严重的亏损之后，股市趋于稳定，交易员们在英伟达公布财报之前没有进行大额押注，这将是对大型科技公司的关键考验。]]></description>
         </item>
         <item>
             <title><![CDATA[加密货币交易所 Kraken 在最新一轮融资中估值达 200 亿美元 - 路透中文网]]></title>
@@ -553,7 +574,7 @@
             <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQRDJfc2FBaVJGSVRIMHlFUEVZak01S3NKSzNhVlk1R2xIX3RnWHlEVENhUVhJTEduWTQ3MkJMN3VQUU9nMXEya1VWQ3U3T3RndjJkOEpWMUFmaDh3UkpKbjdRYWp5ZHZkVWxLWFRHdnJ1dVBVZHA5WERqbklQS2QyNS1kX3kyUVdLaUU2RE5nZ2Y1NVdnMk4wQmJBclpjMGllc1hwVVdMQmFjazZucHc0?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxQRDJfc2FBaVJGSVRIMHlFUEVZak01S3NKSzNhVlk1R2xIX3RnWHlEVENhUVhJTEduWTQ3MkJMN3VQUU9nMXEya1VWQ3U3T3RndjJkOEpWMUFmaDh3UkpKbjdRYWp5ZHZkVWxLWFRHdnJ1dVBVZHA5WERqbklQS2QyNS1kX3kyUVdLaUU2RE5nZ2Y1NVdnMk4wQmJBclpjMGllc1hwVVdMQmFjazZucHc0?oc=5</guid>
             <pubDate>Tue, 18 Nov 2025 20:48:02 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 市场下滑让投资者对人工智能交易和降息疑虑感到紧张 路透]]></description>
+            <description><![CDATA[[Reuters Business] 市场下滑令投资者对人工智能交易和降息疑虑感到紧张 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国FDA批准Arrowhead的遗传性疾病药物 - 路透中文网]]></title>
@@ -568,13 +589,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUXZYdWtEOU5wMGJ0MDJtMFB2UEJXLWREWEp1NkxVTXVTajA1RW1kYk5EcWtiTUpEMzJSS2FRWjJ2RXJtMFlqd0dhMGFKR1lsUWdYcXZ3VlB4LXFmT0wxSzlNaU95ODZ5LVl2OWRnSG9tQUlHSlBYcThsLWUwbmZPM29vUFVCYW81MlM4VnZabW40TW4tX0IzNkVvaVMyUDBXXzVXRDVsaU1uY2M?oc=5</guid>
             <pubDate>Tue, 18 Nov 2025 20:28:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 克罗格将关闭三个自动配送站点，产生 26 亿美元费用 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国航空集团敦促国会在未来停工期间向管制员支付工资 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPSnNiQk1rVXlKaWh0Y19iOW1Icl9vb2NBXy1UU0oxTWhtWFU1RHlhUVczbnFnVENKTmt3d2J1ejZJNjFCY2lwMkxpdG83Z29KZVF4RU1WbmdzdU5OQzBXUWx2d21MRkNRWUc1YVdoYXNqNHFZYjM3N3Y0UjRMWUp5TVdtTGpFRVhUbzVPWjVyVWdmR1JlRUpobHBnUWlZb2JxTGlqd3gtVUkyNzVYOFNGblJ1LU5sNzJyNUxsdi13TGRkTFE1QnduLUJn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPSnNiQk1rVXlKaWh0Y19iOW1Icl9vb2NBXy1UU0oxTWhtWFU1RHlhUVczbnFnVENKTmt3d2J1ejZJNjFCY2lwMkxpdG83Z29KZVF4RU1WbmdzdU5OQzBXUWx2d21MRkNRWUc1YVdoYXNqNHFZYjM3N3Y0UjRMWUp5TVdtTGpFRVhUbzVPWjVyVWdmR1JlRUpobHBnUWlZb2JxTGlqd3gtVUkyNzVYOFNGblJ1LU5sNzJyNUxsdi13TGRkTFE1QnduLUJn?oc=5</guid>
-            <pubDate>Tue, 18 Nov 2025 20:19:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国航空集团敦促国会在未来停工期间向管制员支付费用 路透]]></description>
         </item>
         <item>
             <title><![CDATA[监管机构称美国数据中心需求增加今年冬季电力风险 - 路透中文网]]></title>
@@ -675,13 +689,6 @@
             <description><![CDATA[[Reuters Business] Waymo 在迈阿密推出全自动机器人出租车，并将扩展到美国另外四个城市 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美国合作伙伴克罗格关闭机器人仓库，Ocado 股价下跌 17% - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPaklQV1hNVHp5MlluazV4ZUczUFZCdWhOTGRWN1VFaDNGeUJVRUxybHJ5WDFtWVYyRTBZeV9hQ0FZeXlUb2gwbzM0Z3dFMVpDMG9SdmVIcVlGV1NzNjJHVEFKMDhZaUJHMERFckdJVDdLUVlFdHRILXNwLWhwNlIxLTB4MGFEUXplSDFTbGp2dUhKVGVYd0cyYWxLdmwta3h2MjQ2eFlFYjY0a2NndXQyRWgzZWoyUGdwY1l3c3lucDdZMjJZbURPNFk0QzI?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxPaklQV1hNVHp5MlluazV4ZUczUFZCdWhOTGRWN1VFaDNGeUJVRUxybHJ5WDFtWVYyRTBZeV9hQ0FZeXlUb2gwbzM0Z3dFMVpDMG9SdmVIcVlGV1NzNjJHVEFKMDhZaUJHMERFckdJVDdLUVlFdHRILXNwLWhwNlIxLTB4MGFEUXplSDFTbGp2dUhKVGVYd0cyYWxLdmwta3h2MjQ2eFlFYjY0a2NndXQyRWgzZWoyUGdwY1l3c3lucDdZMjJZbURPNFk0QzI?oc=5</guid>
-            <pubDate>Tue, 18 Nov 2025 17:40:06 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国合作伙伴克罗格关闭机器人仓库，Ocado 股价下跌 17% 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[空客与迪拜航空签署价值 240 亿美元的 150 架喷气式飞机协议 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPby1rbGpWTnRCWmVuNEV4d2FqRllmSFNLSUJHcmZ4Rzk4a2htTGtCVnhDQUp3eXdKSmlxYUNOZU1jUEgwZDE1V2psRTR5aEFHMkQtZE9GMERadDRjSHNHVlU1UkRJM01qRDR2WEFTM3l0dmpYU0RlR0lManJaaTlLSTk5WERJcVFnaU9PMkJIanRfaEZTNXNzZ0JLaklkZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxPby1rbGpWTnRCWmVuNEV4d2FqRllmSFNLSUJHcmZ4Rzk4a2htTGtCVnhDQUp3eXdKSmlxYUNOZU1jUEgwZDE1V2psRTR5aEFHMkQtZE9GMERadDRjSHNHVlU1UkRJM01qRDR2WEFTM3l0dmpYU0RlR0lManJaaTlLSTk5WERJcVFnaU9PMkJIanRfaEZTNXNzZ0JLaklkZw?oc=5</guid>
@@ -696,25 +703,18 @@
             <description><![CDATA[[CNBC] 这些是午盘涨幅最大的股票。]]></description>
         </item>
         <item>
+            <title><![CDATA[法国面临数十年来首次食品贸易赤字 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3lLNU5valZfOEh5NmdrQ3NiakxjRWV3bHVFLWtZcnQzTF9WWWVpZkFzQXdqaVlzandUdW54aktSdW5zRVNiYU1QVXNmYldsRUhaT2tYMFo5XzlYTGpfVGRFVXh0bkI4Q1MyV3dnWFJRajBUZVpEeFZLaTZZTnB0OGFoX3hTbVJQOFZmZEdJeFRKM2J0NEVPcnVMTTE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3lLNU5valZfOEh5NmdrQ3NiakxjRWV3bHVFLWtZcnQzTF9WWWVpZkFzQXdqaVlzandUdW54aktSdW5zRVNiYU1QVXNmYldsRUhaT2tYMFo5XzlYTGpfVGRFVXh0bkI4Q1MyV3dnWFJRajBUZVpEeFZLaTZZTnB0OGFoX3hTbVJQOFZmZEdJeFRKM2J0NEVPcnVMTTE?oc=5</guid>
+            <pubDate>Tue, 18 Nov 2025 16:56:47 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 法国面临数十年来首次食品贸易逆差 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[“比特币概念股龙头”MSTR已经跌残了 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFBockFER1phZDkxUlBHNXdDTUxDMkF3QVlkVmhDckZNeDJHcGRUMkJ5dWdiWkpTVjFKVlQ3d0ZOeFVobkVfVjVxUExvWnh4QkRnakE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTFBockFER1phZDkxUlBHNXdDTUxDMkF3QVlkVmhDckZNeDJHcGRUMkJ5dWdiWkpTVjFKVlQ3d0ZOeFVobkVfVjVxUExvWnh4QkRnakE?oc=5</guid>
             <pubDate>Tue, 18 Nov 2025 16:32:00 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] “比特币概念股龙头”MSTR已经跌残了  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[NHTSA 称本田将因软件错误召回超过 256,000 辆美国汽车 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNQlBtZXd1UEY0UzU5TGhiM0N4MW9pcTU0ZWdVMi1WVUkzU0hQZURrVzN0V0dfX2NDSWpfOERDZ2Q3dlhUeFdBZ2REcm1yMHJ1T1RDWFBLWF9ZR2xrYjNRa2l3RG42UDNBVzMyV05FSFY3b1VZSkpQTTcwVTdYam9IRW5PaFlMYjhQcHZSSzZ4TkowSl92WkZtR0gtNmtyQ1E5cDRxTnhUcTdLdXZpNlltQkxvYXlHNlM3UzFTeGUxSXpBcUNXcFc0WE5iSk05UQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxNQlBtZXd1UEY0UzU5TGhiM0N4MW9pcTU0ZWdVMi1WVUkzU0hQZURrVzN0V0dfX2NDSWpfOERDZ2Q3dlhUeFdBZ2REcm1yMHJ1T1RDWFBLWF9ZR2xrYjNRa2l3RG42UDNBVzMyV05FSFY3b1VZSkpQTTcwVTdYam9IRW5PaFlMYjhQcHZSSzZ4TkowSl92WkZtR0gtNmtyQ1E5cDRxTnhUcTdLdXZpNlltQkxvYXlHNlM3UzFTeGUxSXpBcUNXcFc0WE5iSk05UQ?oc=5</guid>
-            <pubDate>Tue, 18 Nov 2025 16:06:45 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] NHTSA 称本田将因软件错误召回超过 256,000 辆美国汽车 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着股市下跌，美国企业信用利差扩大 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNTk1fSmxKZHVobk14ZFZzSWoxNGp5R3FnaGtTSkxLcVRtYmIxYmw2LTEyaEV1RS02TF9iLU4wcjVMTzJpdmpFaHJ2aUZTNXQ3NGlhNThYT1hNSDlKZlI2TXhjRzRUNVpLcFY5MWp6MlBWdXI0ZkVRS21BTGJHVG53RXlQdWZBQnlPTDJ4LW5wbEptZExWN05SRE43WDFHQk8zekg3SW1Sc3l0VGc1?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNTk1fSmxKZHVobk14ZFZzSWoxNGp5R3FnaGtTSkxLcVRtYmIxYmw2LTEyaEV1RS02TF9iLU4wcjVMTzJpdmpFaHJ2aUZTNXQ3NGlhNThYT1hNSDlKZlI2TXhjRzRUNVpLcFY5MWp6MlBWdXI0ZkVRS21BTGJHVG53RXlQdWZBQnlPTDJ4LW5wbEptZExWN05SRE43WDFHQk8zekg3SW1Sc3l0VGc1?oc=5</guid>
-            <pubDate>Tue, 18 Nov 2025 16:03:31 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 随着股市下跌，美国企业信用利差扩大 路透]]></description>
         </item>
     </channel>
 </rss>
