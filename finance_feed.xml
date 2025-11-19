@@ -4,16 +4,128 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 19 Nov 2025 08:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 09:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[中东和非洲地平线 11/19/2025（视频）]]></title>
+            <title><![CDATA[印尼央行再次维持利率以维持卢比稳定]]></title>
+            <link>https://www.wsj.com/articles/bank-indonesia-holds-rate-again-to-maintain-rupiah-stability-5ed0278c</link>
+            <guid isPermaLink="false">https://www.wsj.com/articles/bank-indonesia-holds-rate-again-to-maintain-rupiah-stability-5ed0278c</guid>
+            <pubDate>Wed, 19 Nov 2025 09:13:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 印尼央行周三将基准 7 天逆回购利率维持在 4.75%，基本符合《华尔街日报》民意调查的预期，其中 8 名经济学家中有 7 名预测不会发生变化。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金 Davide Leone 押注卫星公司 SES Defense Pivot]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-19/hedge-fund-davide-leone-bets-on-satellite-firm-ses-defense-pivot</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/hedge-fund-davide-leone-bets-on-satellite-firm-ses-defense-pivot</guid>
+            <pubDate>Wed, 19 Nov 2025 09:08:05 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 对冲基金经理 Davide Leone 今年增持了 SES SA 的股份，认为这家卫星公司向国防的战略转变将释放长期价值——即使在最近的盈利受挫之后，这一论点仍然成立。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[慧与科技(HPE.US)收购瞻博网络或再受阻 美国多州获准介入]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089279</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089279</guid>
+            <pubDate>Wed, 19 Nov 2025 09:07:00 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美股最新评级 | 交银国际给予博通“买入”评级，目标价425美元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089273</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089273</guid>
+            <pubDate>Wed, 19 Nov 2025 09:06:10 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【每日收评】沪指、创业板指小幅收红，全市场连续两日超4000股收跌，水产股异军突起]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089272</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089272</guid>
+            <pubDate>Wed, 19 Nov 2025 09:06:09 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[债市收盘|10年期国债期货收于5日均线之下，债市仍处窄幅震荡区间]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089271</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089271</guid>
+            <pubDate>Wed, 19 Nov 2025 09:06:08 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[财联社发出私募业重大邀约！]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089270</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089270</guid>
+            <pubDate>Wed, 19 Nov 2025 09:06:07 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[东方财富证券：25Q3煤炭供给边际同比明显收缩 关注行业反内卷政策逻辑演绎]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089269</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089269</guid>
+            <pubDate>Wed, 19 Nov 2025 09:05:48 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[申万宏源：油价波动收窄 石油化工“反内卷”推动景气复苏]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089268</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089268</guid>
+            <pubDate>Wed, 19 Nov 2025 09:05:46 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[港股收盘(11.19) | 恒指收跌0.38% 黄金股走势强劲 石油股全天活跃]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089267</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089267</guid>
+            <pubDate>Wed, 19 Nov 2025 09:05:45 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[五矿资本(600390.SH)子公司五矿信托拟与五矿地产控股共设合资公司]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089266</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089266</guid>
+            <pubDate>Wed, 19 Nov 2025 09:05:44 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大丰实业(603081.SH)中标约1.65亿元舞台工艺设备工程]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3089265</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089265</guid>
+            <pubDate>Wed, 19 Nov 2025 09:05:43 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[独家：消息人士称，俄罗斯诺瓦泰克公司为向中国买家出售受制裁的液化天然气提供大幅折扣 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQb09sQ1pRYnhseDhvMlZrU1pvZ3RXVFRoTHRKVVJqVjJsMGo3VVpfMnVrWVc3aTJObE12YlMtZTFwSUpKRS1yNTRySm5mR2p6UGprcGdKWDVya2lTQ2FpMEdOWmdUWHZFOU5QdHdlZXJwTktQTlkxdzFrMG4tMmxPYlhrMktLdTFlT3dTZ2g4R050bVM2VTRfMWpjZGhWWElHMWlpVGExSEdBVDFKdlpDdkU4SjhBOERIaE9Od29DZzZIbFZYOFBJY05uTQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQb09sQ1pRYnhseDhvMlZrU1pvZ3RXVFRoTHRKVVJqVjJsMGo3VVpfMnVrWVc3aTJObE12YlMtZTFwSUpKRS1yNTRySm5mR2p6UGprcGdKWDVya2lTQ2FpMEdOWmdUWHZFOU5QdHdlZXJwTktQTlkxdzFrMG4tMmxPYlhrMktLdTFlT3dTZ2g4R050bVM2VTRfMWpjZGhWWElHMWlpVGExSEdBVDFKdlpDdkU4SjhBOERIaE9Od29DZzZIbFZYOFBJY05uTQ?oc=5</guid>
+            <pubDate>Wed, 19 Nov 2025 09:04:21 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 独家：消息人士称，俄罗斯诺瓦泰克公司为向中国买家出售受制裁的液化天然气提供大幅折扣 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人工智能的政治即将爆发]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-19/how-the-politics-of-ai-will-shape-2028-s-election</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/how-the-politics-of-ai-will-shape-2028-s-election</guid>
+            <pubDate>Wed, 19 Nov 2025 09:00:38 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 准备好让数据中心在选举中占据主导地位。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[奇怪的事情：人工智能的政治即将爆炸（播客）]]></title>
+            <link>https://www.bloomberg.com/news/audio/2025-11-19/odd-lots-the-politics-of-ai-are-about-to-explode-podcast</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/audio/2025-11-19/odd-lots-the-politics-of-ai-are-about-to-explode-podcast</guid>
+            <pubDate>Wed, 19 Nov 2025 09:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 人工智能在 2024 年大选中并不是一个重要的话题。 但几乎可以肯定，到 2028 年，甚至可能到 2026 年中期选举时，它都会很重要。 人们担心所有的钱都被花掉了，以及有一天是否需要联邦支持或救助。 人们对能源使用和电价感到担忧。 人们担心劳动力流失。 人们担心我们是否可以信任人工智能的输出。 我们已经看到许多政客以这样或那样的方式反对人工智能。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[施罗德首席信息官表示，股市回调是流动性驱动的]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-11-19/equities-pullback-is-liquidity-driven-schroder-cio-says-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-19/equities-pullback-is-liquidity-driven-schroder-cio-says-video</guid>
+            <pubDate>Wed, 19 Nov 2025 08:52:27 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 施罗德投资管理公司多资产首席信息官帕特里克·布伦纳表示，最近股市的回调与流动性有关，他对市场仍然持乐观态度。 布伦纳在彭博电视上解释说：“那些美国大盘、高质量的科技公司实际上一直表现得很好。”  “对我们来说，这在某种程度上表明这可能更多是流动性驱动的，而不是基本面驱动的。”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中东和非洲地平线 11/19/2025]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-11-19/horizons-middle-east-africa-11-19-2025-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-19/horizons-middle-east-africa-11-19-2025-video</guid>
             <pubDate>Wed, 19 Nov 2025 08:42:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] ]]></description>
+            <description><![CDATA[[Bloomberg] 《地平线中东和非洲》是您每日关注的世界上增长最快的地区之一的焦点。 我们在迪拜现场直播，为您带来最新的全球市场和分析，以及新闻采访，特别关注 MEA。 当您前往海湾的办公室、在香港停下来吃午餐、或者在伦敦或约翰内斯堡开始新的一天时，所有这些以及更多。   （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[Nvidia 的领先优势：7GC & Co 的 Leeney]]></title>
@@ -23,6 +135,13 @@
             <description><![CDATA[[Bloomberg] 投资者等待英伟达第三季度财报，以对人工智能热潮进行健康检查。  7GC & Co 联合创始人兼执行合伙人 Jack Leeney 表示，该公司在竞争对手中遥遥领先，他并不担心循环投资，因为 Nvidia 的资产负债表非常强劲。  Leeney还表示，市场上存在泡沫，但“单位经济效益和利润率正在朝着正确的方向发展”。 他与汤姆·麦肯齐一起拍摄《彭博黎明：欧洲》。  （来源：彭博社）]]></description>
         </item>
         <item>
+            <title><![CDATA[对冲基金版本增加了能源交易商在市场艰难的一年中的表现]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-19/hedge-fund-verition-adds-energy-traders-in-tough-year-for-market</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/hedge-fund-verition-adds-energy-traders-in-tough-year-for-market</guid>
+            <pubDate>Wed, 19 Nov 2025 08:30:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 对冲基金 Verition Fund Management 正在能源领域招聘人才，这与许多交易员赚钱困难的一年背道而驰。]]></description>
+        </item>
+        <item>
             <title><![CDATA[随着英国预算临近，交易者正在为英镑波动做好准备]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-19/traders-are-bracing-for-pound-volatility-as-uk-budget-draws-near</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/traders-are-bracing-for-pound-volatility-as-uk-budget-draws-near</guid>
@@ -30,18 +149,11 @@
             <description><![CDATA[[Bloomberg] 交易员们正在付出代价，以抵御英国秋季预算公布前英镑波动的影响。]]></description>
         </item>
         <item>
-            <title><![CDATA[福特汽车因电池故障风险召回超过2万辆汽车]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3089165</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3089165</guid>
-            <pubDate>Wed, 19 Nov 2025 08:15:26 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ithaca Energy宣布2025年第二次中期股息]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3089162</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3089162</guid>
-            <pubDate>Wed, 19 Nov 2025 08:13:39 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[中国锂价上涨引发人们对其是否有腿的警惕]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-19/lithium-rally-in-china-prompts-caution-over-whether-it-has-legs</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/lithium-rally-in-china-prompts-caution-over-whether-it-has-legs</guid>
+            <pubDate>Wed, 19 Nov 2025 08:14:19 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于需求乐观，中国锂价连续第三天上涨，尽管大幅上涨引发了人们对涨势可持续性的担忧。]]></description>
         </item>
         <item>
             <title><![CDATA[爱泼斯坦文件：参议院同意发布文件和 Nvidia 收益迫在眉睫 欧洲黎明 11/19/2025]]></title>
@@ -58,68 +170,12 @@
  今天的嘉宾：Valérie Urbain，Euroclear 集团首席执行官；  Runa Alam，DPI 联合创始人兼首席执行官；Jack Leeney，7GC & Co. 联合创始人兼执行合伙人（来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[欧洲股市在Nvidia财报发布前保持稳定；英国CPI下降]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089156</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089156</guid>
-            <pubDate>Wed, 19 Nov 2025 08:08:40 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[特朗普北约特使：欧盟应对俄罗斯采取“激进”路线]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-11-19/trump-nato-envoy-eu-should-take-aggressive-line-on-russia</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-19/trump-nato-envoy-eu-should-take-aggressive-line-on-russia</guid>
             <pubDate>Wed, 19 Nov 2025 08:07:32 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 唐纳德·特朗普总统驻北约特使表示，欧洲盟友应该对莫斯科采取“更积极”的态度，并推进利用俄罗斯固定资产为乌克兰战争提供资金的计划。
  美国大使马修·惠特克在柏林安全会议期间与柏林的彭博社记者奥利弗·克鲁克进行了交谈。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[锂价复苏提振智利矿业化工(SQM.US)业绩！Q3净利润同比增长近36% 当季锂销量创新高]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089142</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089142</guid>
-            <pubDate>Wed, 19 Nov 2025 08:06:35 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊(AMZN.US)自动驾驶部门Zoox向旧金山部分早期用户推出免费乘车服务]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089141</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089141</guid>
-            <pubDate>Wed, 19 Nov 2025 08:06:34 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日子好起来了！全球第二大锂矿企SQM报告近两年最高盈利]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089135</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089135</guid>
-            <pubDate>Wed, 19 Nov 2025 08:05:46 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港股评级汇总：中金维持小米集团跑赢行业评级]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089134</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089134</guid>
-            <pubDate>Wed, 19 Nov 2025 08:05:45 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中信建投：国产厂家加速骨科全产业布局 看好行业未来成长空间]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089132</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089132</guid>
-            <pubDate>Wed, 19 Nov 2025 08:05:23 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[民生证券：钢铁25前三季度板块上涨 产能优化将是未来主线]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089131</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089131</guid>
-            <pubDate>Wed, 19 Nov 2025 08:05:21 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港股异动 | 安井食品(02648)尾盘涨近5% 机构称近期动销环比加快 后续春节有望继续加速]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3089130</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3089130</guid>
-            <pubDate>Wed, 19 Nov 2025 08:05:20 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[印度尼西亚 Danantara 向银行提供 10 亿美元信贷额度]]></title>
@@ -132,15 +188,15 @@
             <title><![CDATA[俄罗斯称乌克兰向沃罗涅日发射了美制ATACMS导弹 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOazNsX1VMMDk3QTlxLTBRWDV2dFA3dU9EMHMyYU84Wmd6R3FOdkJKNkFsNmZIdi1UTDJjbERhNVBPVmtMSjFndmFZQjJObEduRVpScEIxSWpfaFJnSDVwNGNfN2Z1ajQyV3l1VndJbm02czcxR0p6SlZIZWxvMDJwQkNzcGNXVXZ4cGZUTXdMeGtJMlZjelF0cl94cnBQLS1RUzE5bllPaTBZM0tkUXBRdHlHVDFmLXlzQ1VXRl9R?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxOazNsX1VMMDk3QTlxLTBRWDV2dFA3dU9EMHMyYU84Wmd6R3FOdkJKNkFsNmZIdi1UTDJjbERhNVBPVmtMSjFndmFZQjJObEduRVpScEIxSWpfaFJnSDVwNGNfN2Z1ajQyV3l1VndJbm02czcxR0p6SlZIZWxvMDJwQkNzcGNXVXZ4cGZUTXdMeGtJMlZjelF0cl94cnBQLS1RUzE5bllPaTBZM0tkUXBRdHlHVDFmLXlzQ1VXRl9R?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 07:59:22 GMT</pubDate>
+            <pubDate>Wed, 19 Nov 2025 07:59:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 俄罗斯称乌克兰向沃罗涅日发射了美制 ATACMS 导弹 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[印尼央行再次维持利率以维持卢比稳定]]></title>
-            <link>https://www.wsj.com/articles/bank-indonesia-holds-rate-again-to-maintain-rupiah-stability-5ed0278c</link>
-            <guid isPermaLink="false">https://www.wsj.com/articles/bank-indonesia-holds-rate-again-to-maintain-rupiah-stability-5ed0278c</guid>
-            <pubDate>Wed, 19 Nov 2025 07:55:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 印尼央行周三将基准 7 天逆回购利率维持在 4.75%，基本符合《华尔街日报》民意调查的预期，其中 8 名经济学家中有 7 名预测不会发生变化。]]></description>
+            <title><![CDATA[英国将建造新的军火工厂以提高战备水平 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFRzQ0U0NkhfVEdZTF9RR3hHOGJvZHdaZ245M2NWQUM1cGFOTW1leVNkdnZ1cHRqSkhtTVoyOS16Y1luZzhvTkFCMlBObXEyRHhSWkZ0TWdlLWE4VEZzbzRhekh1STFkbDhHTTRTZnBkWEdYaHJvWGwyZUpyMi1UZl82ZV93eVNiTUk2aTF4OVA3bEJoOWEwLXMteDZjYjJyd0dNWW1jekR3SzVEQnZNX1NQZlQyMmFzZ3YwWUJydVY?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFRzQ0U0NkhfVEdZTF9RR3hHOGJvZHdaZ245M2NWQUM1cGFOTW1leVNkdnZ1cHRqSkhtTVoyOS16Y1luZzhvTkFCMlBObXEyRHhSWkZ0TWdlLWE4VEZzbzRhekh1STFkbDhHTTRTZnBkWEdYaHJvWGwyZUpyMi1UZl82ZV93eVNiTUk2aTF4OVA3bEJoOWEwLXMteDZjYjJyd0dNWW1jekR3SzVEQnZNX1NQZlQyMmFzZ3YwWUJydVY?oc=5</guid>
+            <pubDate>Wed, 19 Nov 2025 07:55:37 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 英国将建造新的军火工厂以提高战备水平 路透]]></description>
         </item>
         <item>
             <title><![CDATA[英国通胀下降，可能巩固英格兰银行 12 月降息]]></title>
@@ -234,13 +290,6 @@
             <description><![CDATA[[Bloomberg] Nubank 董事长、首席执行官兼联合创始人 David Vélez 讨论了数字金融服务和人工智能的新兴趋势。 他还在彭博新经济论坛间隙与哈斯琳达·阿明进行独家对话，分享了公司的业务前景和扩张计划。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[新的数字鸿沟：人工智能的富人和穷人]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-11-19/the-new-digital-divide-ai-s-haves-and-have-nots-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-19/the-new-digital-divide-ai-s-haves-and-have-nots-video</guid>
-            <pubDate>Wed, 19 Nov 2025 06:54:45 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 谷歌 DeepMind 首席运营官 Lila Ibrahim 和新加坡共和国数字发展与信息部长 Josephine Teo 在新加坡举行的 2025 年彭博新经济论坛上与彭博社的哈斯琳达·阿明 (Haslinda Amin) 交谈，探讨人工智能基础设施的不平等如何加深全球鸿沟，以及什么可能推动缩小差距的努力。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[紧张局势加剧，日本计算中国抵制旅行的成本 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnFyZ0FKNEFRUTJUdl9EYjlESHMtX1B5SlhDY0RKYmpkaHVSUWoySFh0QkV3SGVSTVhPTDVVM0hTY2d4VUJwVnhYMkJmWFBJX1RmTGpfZlZJOHRGNHVmeDM1Y3FET3pQdldDVXBNNkJZM3U4WV9NbllEVV9UNnZnUkJkNUVQTEVRT21aQ24wUl9saHRfM2RkMmVrV0tYSnhPSmtWd3kybEVGMGNDTHRqM1pHWQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnFyZ0FKNEFRUTJUdl9EYjlESHMtX1B5SlhDY0RKYmpkaHVSUWoySFh0QkV3SGVSTVhPTDVVM0hTY2d4VUJwVnhYMkJmWFBJX1RmTGpfZlZJOHRGNHVmeDM1Y3FET3pQdldDVXBNNkJZM3U4WV9NbllEVV9UNnZnUkJkNUVQTEVRT21aQ24wUl9saHRfM2RkMmVrV0tYSnhPSmtWd3kybEVGMGNDTHRqM1pHWQ?oc=5</guid>
@@ -255,18 +304,11 @@
             <description><![CDATA[[Bloomberg] 伦敦证券交易所集团首席执行官 David Schwimmer 表示，英国 IPO 管道看起来健康，凸显了将人工智能嵌入工作流程的机会。 他在彭博新经济论坛间隙与哈斯琳达·阿明进行了独家交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[英国通胀率放缓至 3.6%]]></title>
-            <link>https://www.bloomberg.com/news/live-blog/2025-11-19/ftse-100-live-cpi-inflation-uk-budget-pound-gilts-what-s-moving-uk-markets-right-now-markets-today</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2025-11-19/ftse-100-live-cpi-inflation-uk-budget-pound-gilts-what-s-moving-uk-markets-right-now-markets-today</guid>
-            <pubDate>Wed, 19 Nov 2025 06:43:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高盛沃尔德伦雷蒙多谈美国的全球角色]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-11-19/raimondo-goldman-s-waldron-on-america-s-global-role-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-19/raimondo-goldman-s-waldron-on-america-s-global-role-video</guid>
-            <pubDate>Wed, 19 Nov 2025 06:39:26 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国前商务部长吉娜·雷蒙多和高盛总裁兼首席运营官约翰·沃尔德伦在新加坡举行的 2025 年彭博新经济论坛上与彭博社的蒂姆·奥布莱恩讨论了美国政府在全球舞台上的角色。  （来源：彭博社）]]></description>
+            <title><![CDATA[A股三大指数午后翻红，锂矿涨幅居前，碳酸锂期货突破10万关口，港股高开低走，能源板逆势走强 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hdGJOcW9kREFTQWQ3VWtZQThwQjJISjRBWmdVYUJKV1d1VFVnX3p1WmhHWTRCSVdVN1VfZGNNN2xaMzB2SkJQQnQtVXhuT19xbnlN?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hdGJOcW9kREFTQWQ3VWtZQThwQjJISjRBWmdVYUJKV1d1VFVnX3p1WmhHWTRCSVdVN1VfZGNNN2xaMzB2SkJQQnQtVXhuT19xbnlN?oc=5</guid>
+            <pubDate>Wed, 19 Nov 2025 06:38:57 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] A股三大指数午后翻红，锂矿涨幅居前，碳酸锂期货突破10万关口，港股高开低走，能源板逆势走强  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[日本近50年来最严重的火灾烧毁170座建筑，造成1人死亡 - 路透中文网]]></title>
@@ -276,24 +318,10 @@
             <description><![CDATA[[Reuters Business] 日本近 50 年来最严重的火灾烧毁了 170 栋建筑，造成 1 人死亡 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[恒天然首席执行官赫雷尔谈中国业务]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-11-19/fonterra-ceo-hurrell-on-china-business-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-19/fonterra-ceo-hurrell-on-china-business-video</guid>
-            <pubDate>Wed, 19 Nov 2025 06:16:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 恒天然合作集团首席执行官迈尔斯·赫雷尔 (Miles Hurrell) 表示，该公司在中国市场的持续显着增长。 他对维持 10 新西兰元/公斤的牛奶价格仍有信心。 他在彭博新经济论坛间隙与哈斯琳达·阿明进行了独家交谈。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[淡马锡表示，美元下跌使得一些交易更难证明其合理性]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-19/temasek-says-dollar-s-drop-makes-some-deals-harder-to-justify</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/temasek-says-dollar-s-drop-makes-some-deals-harder-to-justify</guid>
-            <pubDate>Wed, 19 Nov 2025 06:15:08 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 新加坡国家投资者淡马锡控股私人有限公司 该公司首席执行官表示，今年该公司“被迫对冲”美元，称美元疲软对外国投资者来说是一个大问题。]]></description>
-        </item>
-        <item>
             <title><![CDATA[乌克兰下个月敦促欧盟就冻结资产做出政治决定 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnV3Y3lOOG5tOHhmSUNMandOU2xpLVhhR2FxXzUyQVBod2w4QjlOZS1lbVhwRzExS3VIUkRPQVVlb2JQTHFRUXJVY2NidWI2aHNJaTUzZTk4ZjRFOHJER1paYXFiUVJkME5FZngzcFN5UlduYllIWC0wRU9QMGx1X1h4dWNlX0lUanBnOXM5SzFMdXkxRU9LZzNPbTNrODN2eDNvcV9BR3U3eFlIY3BUZlY1LWU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnV3Y3lOOG5tOHhmSUNMandOU2xpLVhhR2FxXzUyQVBod2w4QjlOZS1lbVhwRzExS3VIUkRPQVVlb2JQTHFRUXJVY2NidWI2aHNJaTUzZTk4ZjRFOHJER1paYXFiUVJkME5FZngzcFN5UlduYllIWC0wRU9QMGx1X1h4dWNlX0lUanBnOXM5SzFMdXkxRU9LZzNPbTNrODN2eDNvcV9BR3U3eFlIY3BUZlY1LWU?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 06:05:00 GMT</pubDate>
+            <pubDate>Wed, 19 Nov 2025 06:05:44 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 乌克兰下个月敦促欧盟就冻结资产做出政治决定 - 路透中文网]]></description>
         </item>
         <item>
@@ -339,7 +367,7 @@
             <description><![CDATA[[华尔街见闻] 小鹏真能成“中国版特斯拉”？  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[日经新闻称，日本知事将批准东京电力核电站重启]]></title>
+            <title><![CDATA[日本知事批准东电核电站重启]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-19/japan-governor-will-decide-soon-on-major-nuclear-plant-restart</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/japan-governor-will-decide-soon-on-major-nuclear-plant-restart</guid>
             <pubDate>Wed, 19 Nov 2025 02:42:40 GMT</pubDate>
@@ -374,13 +402,6 @@
             <description><![CDATA[[Bloomberg] 自九月份国家放宽境内回购市场准入以来，海外投资者逐渐增加使用新的债券回购工具来购买中国债券。]]></description>
         </item>
         <item>
-            <title><![CDATA[特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HVGhXY014SXVpYWN1MThIWWhQS1FJTGFFbWttYW9Lb29JZXlKTk5JckEzUUJLS01tMWVTREVXYkJteExsRGhrSUNZRU42dWZFYmJN?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HVGhXY014SXVpYWN1MThIWWhQS1FJTGFFbWttYW9Lb29JZXlKTk5JckEzUUJLS01tMWVTREVXYkJteExsRGhrSUNZRU42dWZFYmJN?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 01:07:52 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[据 Axios 报道，华纳兄弟探索公司希望派拉蒙将报价提高至每股 30 美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdmlpTDFYWGctczdEQ1ROUXRQYmlXVWNTUWNFOHIzX3Q0N0lMYlZTSk1tQXBEWURIWjZTVHR4YnBWY1dTWWZvNWtDc3Y1VzQ2LTJfby1VU1l2ck1zS0lYallOUG81N2hpN3pyeDVpeklqdDJaM294TTlpTTA4YlZrTUtRWXZ4X0wySGtkLXdvdW1xLVNhUTRjLU5NcDhlMmU2a2F3MG1DMWszQzk5MjlCcXdPc2lnQTEta0VOMHF0ODdxMEgzMGEtbmxrcTBNZ1lScU1j?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdmlpTDFYWGctczdEQ1ROUXRQYmlXVWNTUWNFOHIzX3Q0N0lMYlZTSk1tQXBEWURIWjZTVHR4YnBWY1dTWWZvNWtDc3Y1VzQ2LTJfby1VU1l2ck1zS0lYallOUG81N2hpN3pyeDVpeklqdDJaM294TTlpTTA4YlZrTUtRWXZ4X0wySGtkLXdvdW1xLVNhUTRjLU5NcDhlMmU2a2F3MG1DMWszQzk5MjlCcXdPc2lnQTEta0VOMHF0ODdxMEgzMGEtbmxrcTBNZ1lScU1j?oc=5</guid>
@@ -388,25 +409,11 @@
             <description><![CDATA[[Reuters Business] 据 Axios 报道，华纳兄弟探索公司希望派拉蒙将其报价提高至每股 30 美元 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[独家：消息人士称，俄罗斯诺瓦泰克公司为向中国买家出售受制裁的液化天然气提供大幅折扣 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQb09sQ1pRYnhseDhvMlZrU1pvZ3RXVFRoTHRKVVJqVjJsMGo3VVpfMnVrWVc3aTJObE12YlMtZTFwSUpKRS1yNTRySm5mR2p6UGprcGdKWDVya2lTQ2FpMEdOWmdUWHZFOU5QdHdlZXJwTktQTlkxdzFrMG4tMmxPYlhrMktLdTFlT3dTZ2g4R050bVM2VTRfMWpjZGhWWElHMWlpVGExSEdBVDFKdlpDdkU4SjhBOERIaE9Od29DZzZIbFZYOFBJY05uTQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQb09sQ1pRYnhseDhvMlZrU1pvZ3RXVFRoTHRKVVJqVjJsMGo3VVpfMnVrWVc3aTJObE12YlMtZTFwSUpKRS1yNTRySm5mR2p6UGprcGdKWDVya2lTQ2FpMEdOWmdUWHZFOU5QdHdlZXJwTktQTlkxdzFrMG4tMmxPYlhrMktLdTFlT3dTZ2g4R050bVM2VTRfMWpjZGhWWElHMWlpVGExSEdBVDFKdlpDdkU4SjhBOERIaE9Od29DZzZIbFZYOFBJY05uTQ?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 00:28:05 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：消息人士称，俄罗斯诺瓦泰克公司为向中国买家出售受制裁的液化天然气提供大幅折扣 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[高盛沃尔德伦表示市场可能进一步下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-19/bob-diamond-sees-healthy-correction-not-bear-market-precursor</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-19/bob-diamond-sees-healthy-correction-not-bear-market-precursor</guid>
             <pubDate>Wed, 19 Nov 2025 00:21:19 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 高盛集团总裁约翰·沃尔德伦表示，市场已经做好了可能进一步下跌的准备，投资者将密切关注技术领军企业英伟达公司即将发布的重要盈利报告。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国将建造新的军火工厂以提高战备水平 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFRzQ0U0NkhfVEdZTF9RR3hHOGJvZHdaZ245M2NWQUM1cGFOTW1leVNkdnZ1cHRqSkhtTVoyOS16Y1luZzhvTkFCMlBObXEyRHhSWkZ0TWdlLWE4VEZzbzRhekh1STFkbDhHTTRTZnBkWEdYaHJvWGwyZUpyMi1UZl82ZV93eVNiTUk2aTF4OVA3bEJoOWEwLXMteDZjYjJyd0dNWW1jekR3SzVEQnZNX1NQZlQyMmFzZ3YwWUJydVY?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxObFRzQ0U0NkhfVEdZTF9RR3hHOGJvZHdaZ245M2NWQUM1cGFOTW1leVNkdnZ1cHRqSkhtTVoyOS16Y1luZzhvTkFCMlBObXEyRHhSWkZ0TWdlLWE4VEZzbzRhekh1STFkbDhHTTRTZnBkWEdYaHJvWGwyZUpyMi1UZl82ZV93eVNiTUk2aTF4OVA3bEJoOWEwLXMteDZjYjJyd0dNWW1jekR3SzVEQnZNX1NQZlQyMmFzZ3YwWUJydVY?oc=5</guid>
-            <pubDate>Wed, 19 Nov 2025 00:05:46 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 英国将建造新的军火工厂以提高战备水平 路透]]></description>
         </item>
         <item>
             <title><![CDATA[标普 500 指数连续第四天下跌，估值忧虑重重，家得宝下跌 - 路透中文网]]></title>
@@ -687,13 +694,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2025/11/18/stocks-making-the-biggest-moves-midday-net-klar-mstr-enr.html</guid>
             <pubDate>Tue, 18 Nov 2025 16:56:57 GMT</pubDate>
             <description><![CDATA[[CNBC] 这些是午盘涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2025 年比特币大崩盘使其落后于债券、黄金]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-18/great-bitcoin-crash-of-2025-has-it-lagging-bonds-gold-and-more</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-18/great-bitcoin-crash-of-2025-has-it-lagging-bonds-gold-and-more</guid>
-            <pubDate>Tue, 18 Nov 2025 16:47:39 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 这种曾经有望“登上月球”的资产正在努力跟上美国国债的步伐。 比特币已较 2025 年的峰值下跌近 30%，落后于从科技股到国债的所有资产。]]></description>
         </item>
         <item>
             <title><![CDATA[“比特币概念股龙头”MSTR已经跌残了 - 华尔街见闻]]></title>
