@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 22 Nov 2025 19:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 20:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[私募股权公司涌入垃圾债市场以自给自足]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-22/pe-firms-flood-junk-debt-market-to-pay-themselves-credit-weekly</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-22/pe-firms-flood-junk-debt-market-to-pay-themselves-credit-weekly</guid>
+            <pubDate>Sat, 22 Nov 2025 20:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 私募股权公司正在努力寻找投资买家，他们正在转向前所未有的旧策略。]]></description>
+        </item>
         <item>
             <title><![CDATA[美联储票委：货币政策处于合适位置 12月降息“并无必要”]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3095395</link>
@@ -21,6 +28,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-22/swiss-inflation-to-pick-up-in-coming-months-snb-s-schlegel-says</guid>
             <pubDate>Sat, 22 Nov 2025 18:21:45 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 瑞士国家银行行长马丁·施莱格尔表示，瑞士的消费者价格增长预计将略有加快。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[本周两大市场“核心叙事”生变！ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TWW1NUUE0SWt5Y2pFV0VrQ01MMW8zcExlWG5sejEyTkdkcElFZXk4VkFOSzJId2p6ODRicllKSzlqbGZiVEJRYnJ6WFFmeG9fZGc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TWW1NUUE0SWt5Y2pFV0VrQ01MMW8zcExlWG5sejEyTkdkcElFZXk4VkFOSzJId2p6ODRicllKSzlqbGZiVEJRYnJ6WFFmeG9fZGc?oc=5</guid>
+            <pubDate>Sat, 22 Nov 2025 17:56:00 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 本周两大市场“核心叙事”生变！  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[Chiikawa又出联名，这次是和肯德基，秒空！]]></title>
@@ -296,13 +310,6 @@
             <description><![CDATA[[WSJ] 艾丹·托纳-罗杰斯在一个渴望新见解和启示性研究的领域赢得了学术声誉。 但一位计算机科学家认为有些不对劲。]]></description>
         </item>
         <item>
-            <title><![CDATA[本周两大市场“核心叙事”生变！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TWW1NUUE0SWt5Y2pFV0VrQ01MMW8zcExlWG5sejEyTkdkcElFZXk4VkFOSzJId2p6ODRicllKSzlqbGZiVEJRYnJ6WFFmeG9fZGc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TWW1NUUE0SWt5Y2pFV0VrQ01MMW8zcExlWG5sejEyTkdkcElFZXk4VkFOSzJId2p6ODRicllKSzlqbGZiVEJRYnJ6WFFmeG9fZGc?oc=5</guid>
-            <pubDate>Sat, 22 Nov 2025 01:59:39 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 本周两大市场“核心叙事”生变！  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[何小鹏：2026年汽车市场的竞争会更加残酷和血腥 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHRXl2Q1QyNTczZHN3aTNZM3B1VHNQeV9GbkZaRnZSNE1kU0tVN1dMUjNMYWx6MlY1XzA2T000eGFVdkZuVkM3Q0k2Xy1iRUFwVkhv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHRXl2Q1QyNTczZHN3aTNZM3B1VHNQeV9GbkZaRnZSNE1kU0tVN1dMUjNMYWx6MlY1XzA2T000eGFVdkZuVkM3Q0k2Xy1iRUFwVkhv?oc=5</guid>
@@ -313,7 +320,7 @@
             <title><![CDATA[AI交易“风向标”：云大厂债券CDS - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hSV81UG5oUWR0WE5pdkVOMEduak1Ib2dHQWtON1FDWGk3S01MNU5lSTVPWU04NmZkc2hqLV9xSEdRTzN6dFRZTjV2anFRQTFTS3c?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hSV81UG5oUWR0WE5pdkVOMEduak1Ib2dHQWtON1FDWGk3S01MNU5lSTVPWU04NmZkc2hqLV9xSEdRTzN6dFRZTjV2anFRQTFTS3c?oc=5</guid>
-            <pubDate>Sat, 22 Nov 2025 01:34:52 GMT</pubDate>
+            <pubDate>Sat, 22 Nov 2025 01:32:00 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] AI交易“风向标”：云大厂债券CDS  华尔街见闻]]></description>
         </item>
         <item>
@@ -518,13 +525,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmFTMHN1eGNwNGFYelJuajQxZDNwZEV6R2J1cXpOZV9BM3h3WHZkU21OMXVHbm9rcHA5b0VQLW02TllHaGhZOE14WFdyWGd3Y0ZIWTNQOFlpUmFSVFpyYTFXRlctWGxIVTRIbHpNbldyV25kNnpQSlVtR2wteFZFeGstX3U0eGFsMlFCUWFnU2N0bVUtOEhZbjRiVm9xRWstS0IwODZFblI3UzJSRTZiQmZfNzZHN3J6ZzZFTEF5bjhJaGxoNVA3alBn?oc=5</guid>
             <pubDate>Fri, 21 Nov 2025 21:38:11 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国 FDA 在儿童死亡后调查武田的血液疾病药物 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[消费者信心跌至接近历史低点| 彭博商业周刊日报 11/21/2025]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-11-21/bloomberg-businessweek-daily-11-21-2025-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-21/bloomberg-businessweek-daily-11-21-2025-video</guid>
-            <pubDate>Fri, 21 Nov 2025 21:36:15 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在《彭博商业周刊》今天的节目中，卡罗尔·马萨和蒂姆·斯特诺维克讨论了美国消费者信心跌至接近历史最低水平的问题。 安永首席经济学家格雷格·达科 (Greg Daco) 加入节目，剖析支撑经济的三大“A 柱”。 同样在今天的节目中，Tikehau Capital 的 Raphael Thuin 谈到了欧洲股市因人工智能贸易和美联储政策主导市场情绪而波动，而匹兹堡国际机场首席执行官 Christina Cassotis 则谈到了假日旅行前景、新航站楼设计和关闭后的旅行复苏。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[泡沫麻烦：投资者质疑风险，人工智能涨势出现裂痕 - 路透中文网]]></title>
