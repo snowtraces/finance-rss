@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 22 Nov 2025 10:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 10:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3095349</guid>
             <pubDate>Sat, 22 Nov 2025 10:05:54 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[白俄罗斯领导人根据特朗普协议赦免31名乌克兰人]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-22/belarusian-leader-pardons-31-ukrainians-under-accords-with-trump</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-22/belarusian-leader-pardons-31-ukrainians-under-accords-with-trump</guid>
+            <pubDate>Sat, 22 Nov 2025 09:58:33 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 作为与美国总统唐纳德·特朗普达成的协议的一部分，白俄罗斯总统亚历山大·卢卡申科赦免了在前苏联共和国被定罪的 31 名乌克兰人。]]></description>
         </item>
         <item>
             <title><![CDATA[接棒华为、出任轮值会长！千亿国产算力巨头新动作]]></title>
@@ -216,7 +223,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-11-22/inside-mbs-s-push-to-shift-saudi-s-oil-wealth-to-tech-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-22/inside-mbs-s-push-to-shift-saudi-s-oil-wealth-to-tech-video</guid>
             <pubDate>Sat, 22 Nov 2025 00:05:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在特朗普总统对沙特阿拉伯王储穆罕默德·本·萨勒曼进行盛大欢迎后，沙特王国从石化到科技的战略转变预计将以投资的形式实现。 我们与巴西林纳的黛博拉·莱尔和外交关系委员会的史蒂文·库克一起详细分析了投资者的期望。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 在特朗普总统对沙特阿拉伯王储穆罕默德·本·萨勒曼进行盛大欢迎后，沙特从石化到科技的战略转变预计将以投资的形式实现。 我们与巴西林纳的黛博拉·莱尔和外交关系委员会的史蒂文·库克一起详细分析了投资者的期望。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[五张图表显示日本债券和日元压力加大]]></title>
@@ -273,13 +280,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-21/bofa-tower-gets-chicago-s-biggest-mortgage-bond-deal-since-covid</guid>
             <pubDate>Fri, 21 Nov 2025 23:14:45 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 据知情人士透露，芝加哥美国银行大厦的抵押贷款正在通过 7 亿美元的债券进行再融资，这对于该市低迷的房地产市场来说是一个罕见的亮点。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[穆迪提前确认英国 Aa3 评级 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlNvTWpKLVM5SEVESjJqRlBqZ2xURlZKcjUyNFlFNUZpSTRpWVh1YnR5MzBRUzA5V1pfZUpXTU56YkRHZW5jamk4LTQ5X0k5SG43R3g4WjVmbTFBWHNpNTI3Sl9xQ2xCNlB0ZndKUnVuNlZ0Zk1kRDIxY2lKMTg0NjI0VWtqbDZ6aDloMi04NEE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNTlNvTWpKLVM5SEVESjJqRlBqZ2xURlZKcjUyNFlFNUZpSTRpWVh1YnR5MzBRUzA5V1pfZUpXTU56YkRHZW5jamk4LTQ5X0k5SG43R3g4WjVmbTFBWHNpNTI3Sl9xQ2xCNlB0ZndKUnVuNlZ0Zk1kRDIxY2lKMTg0NjI0VWtqbDZ6aDloMi04NEE?oc=5</guid>
-            <pubDate>Fri, 21 Nov 2025 23:12:58 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 穆迪在预算之前确认英国 Aa3 评级 路透]]></description>
         </item>
         <item>
             <title><![CDATA[英国与印度尼西亚达成价值52.4亿美元的海事协议 - 路透中文网]]></title>
@@ -471,13 +471,6 @@
             <description><![CDATA[[Reuters Business] 美国疾病预防控制中心在改版网站上采纳肯尼迪的反疫苗观点 路透社]]></description>
         </item>
         <item>
-            <title><![CDATA[ADNOC对科思创的收购获得德国监管机构的最终批准 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUxMRWN4eWNSMEFYZ2M5WnNFZ3lYN1NRajRVb3djSl81M09EaE5FdUliaHVaczhqekZqclBmNXNKQ01QOWJUM3Q3ZmN1MnBxZnJnRmJ0ckxyYm1pZFFtSmQ3cnlISHhDdUdjMzN0RGlHNTJCbjhTX0doWjFtYkdxN09mb29ISVEwRTg4OVFlSVRuZF9ha3VDVnpUaTZQX0pzUXctMDNNb3BxdlZ5SUR6RWtBQ0RvZw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxPdUxMRWN4eWNSMEFYZ2M5WnNFZ3lYN1NRajRVb3djSl81M09EaE5FdUliaHVaczhqekZqclBmNXNKQ01QOWJUM3Q3ZmN1MnBxZnJnRmJ0ckxyYm1pZFFtSmQ3cnlISHhDdUdjMzN0RGlHNTJCbjhTX0doWjFtYkdxN09mb29ISVEwRTg4OVFlSVRuZF9ha3VDVnpUaTZQX0pzUXctMDNNb3BxdlZ5SUR6RWtBQ0RvZw?oc=5</guid>
-            <pubDate>Fri, 21 Nov 2025 20:11:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] ADNOC 的科思创收购案获得德国监管机构最终批准 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[华纳兄弟探索公司的竞标者面临一系列政治和监管风险 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3ZRSC1ON0ZfZlFzc3RRMWlNRGpyQmlSZlJIbmViYWFzbHFsNmxlekY3WmFkWW96VkRoeTZHd1Q1OWtpWFd1VG54N1hiTExRUmgyd2x2eUpKN1loQWZoejFjWlVpaW9qdjl0d3NNbTdqTWxQQ1dqdnE3eUhvU0wzUTZwaUY3Y3RDU0hMZXJ0QWFDQ3lxckpVU0xHc0FoR2dDMWQxNTVkckg1VHZTWmhUeDdTalRvMDlLbzZIQ1JYdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ3ZRSC1ON0ZfZlFzc3RRMWlNRGpyQmlSZlJIbmViYWFzbHFsNmxlekY3WmFkWW96VkRoeTZHd1Q1OWtpWFd1VG54N1hiTExRUmgyd2x2eUpKN1loQWZoejFjWlVpaW9qdjl0d3NNbTdqTWxQQ1dqdnE3eUhvU0wzUTZwaUY3Y3RDU0hMZXJ0QWFDQ3lxckpVU0xHc0FoR2dDMWQxNTVkckg1VHZTWmhUeDdTalRvMDlLbzZIQ1JYdw?oc=5</guid>
@@ -513,7 +506,7 @@
             <description><![CDATA[[CNBC] 他的职位使他成为美联储领导三驾马车的成员，该小组还包括主席杰罗姆·鲍威尔和副主席菲利普·杰斐逊。]]></description>
         </item>
         <item>
-            <title><![CDATA[阿斯利康将投资 20 亿美元推动美国制造业发展 - 路透中文网]]></title>
+            <title><![CDATA[阿斯利康将投资 20 亿美元作为美国制造业发展的一部分 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ085MFo4Z1N6M2FGcXB2Qjg1Ni1oSU1kaXdSM1g4Zm9LeFBnUFM0QUhTLU51SWI2WjdGVzhaTUlSel9QWjVCbXU2NkJPWE0yb080WlgyMC1tcnMxVkpGaUp1WmhmaEU3NEtWNjRRdlFwenlaY1c4LXRmUGlzMUtKelQxdVBWQ2dGaXRCZEZSaWZ4eUNOVGRSS2ZZOWxLc1ZBVU5VdkVPMTFmSVNncmVnQVZzMVp0NlFjS3lhU2U1N2l6ekNYcHc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNZ085MFo4Z1N6M2FGcXB2Qjg1Ni1oSU1kaXdSM1g4Zm9LeFBnUFM0QUhTLU51SWI2WjdGVzhaTUlSel9QWjVCbXU2NkJPWE0yb080WlgyMC1tcnMxVkpGaUp1WmhmaEU3NEtWNjRRdlFwenlaY1c4LXRmUGlzMUtKelQxdVBWQ2dGaXRCZEZSaWZ4eUNOVGRSS2ZZOWxLc1ZBVU5VdkVPMTFmSVNncmVnQVZzMVp0NlFjS3lhU2U1N2l6ekNYcHc?oc=5</guid>
             <pubDate>Fri, 21 Nov 2025 19:08:40 GMT</pubDate>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMXA1TWVGZ2hUQ0gzMDhvLTA0a2hfaTU4YWw0aGFscGNTQ1N0SVotZXVkZnp6SXVfalFSYkxBRTFzTEVYVHJBV3R3MVExcHg0bVlFVjZ3bjdQa3N2dmZ3VTJTYUhJZE1YYjA5Uk1iSFh1ZlNLcWxUQ0hCSURPUDVEaFVnTC1wcWJ5U1lPSm9lT2tlN3ZPenRVYlhPZGo4eUNXTjA4d2pab0ptaGczS0M4OGxnNDdJemc2YjN1OENKYmlVdw?oc=5</guid>
             <pubDate>Fri, 21 Nov 2025 14:18:39 GMT</pubDate>
             <description><![CDATA[[Reuters Business] RTX JV 与以色列达成价值 12.5 亿美元的铁穹导弹协议 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印度新劳动法：对工人和企业意味着什么 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkYxTUNpM0QxQUNyYndmeGFpZ0NWMTAwcGVINlE5V3lxbC1YQkRnc0RISlR3c184SXVJRWlScEtyd1lGbDA0TWs3VzhweTRXQmkwUGFlVVpaQkpZekxiVWxpMldCdWFLQk9uVWVIWno5Yl85X3dqVU80Wm8xdF9LZmtLVG5ZNndGY1FfbXE2NUVrZjlJTWhJTW5vMVNmNXhZbWtxS2Q3SWZ2ODFfUklvN0JtX1M4d3M?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkYxTUNpM0QxQUNyYndmeGFpZ0NWMTAwcGVINlE5V3lxbC1YQkRnc0RISlR3c184SXVJRWlScEtyd1lGbDA0TWs3VzhweTRXQmkwUGFlVVpaQkpZekxiVWxpMldCdWFLQk9uVWVIWno5Yl85X3dqVU80Wm8xdF9LZmtLVG5ZNndGY1FfbXE2NUVrZjlJTWhJTW5vMVNmNXhZbWtxS2Q3SWZ2ODFfUklvN0JtX1M4d3M?oc=5</guid>
+            <pubDate>Fri, 21 Nov 2025 14:14:52 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 印度新劳动法：对工人和企业意味着什么 路透]]></description>
         </item>
     </channel>
 </rss>
