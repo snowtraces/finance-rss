@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 22 Nov 2025 06:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 06:47:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -70,6 +70,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3095279</guid>
             <pubDate>Sat, 22 Nov 2025 02:05:09 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据《华尔街日报》报道，比尔·阿克曼计划为潘兴广场和新基金进行双重公开发行 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0FkU2NSV0owODVkdkhIWV96MC0yQTRsd2U4OWFGSGlUTVpuNVNIZHFYdnAzRXRHWXd2ZmppalVER01KN01yekhGdTFDYW5WTlZHb3Q1Skp2VnQxaUdvbXA3emNkRHI1Q1Uzd2FqX3I1Q2xxdTFhbWJHbVh5V2llMXY3Nld2TjBRTEw1dDlXR0JsaDk5V2hoLW1xQ1UwQTBFbnJjcnJCTGxDM1k?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0FkU2NSV0owODVkdkhIWV96MC0yQTRsd2U4OWFGSGlUTVpuNVNIZHFYdnAzRXRHWXd2ZmppalVER01KN01yekhGdTFDYW5WTlZHb3Q1Skp2VnQxaUdvbXA3emNkRHI1Q1Uzd2FqX3I1Q2xxdTFhbWJHbVh5V2llMXY3Nld2TjBRTEw1dDlXR0JsaDk5V2hoLW1xQ1UwQTBFbnJjcnJCTGxDM1k?oc=5</guid>
+            <pubDate>Sat, 22 Nov 2025 02:04:30 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 据《华尔街日报》报道，比尔·阿克曼 (Bill Ackman) 计划为潘兴广场 (Pershing Square) 和新基金进行双重公开发行 路透]]></description>
         </item>
         <item>
             <title><![CDATA[麻省理工学院的一名研究生因一篇关于工作场所人工智能的有趣论文而一举成名。 很快他的导师就问：这一切都是他编的吗？]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxPUEEzSWRKNFRIZ2hsMHl1aXB5N3BtYlozWml2NUh1V3pSRkd5eUVUMmZqQkYtU01XRUQ5dTZjZDVnMGtGeDlJdHI5NHJzRFBGODE4VVBqUUNCS2xfd2kzWk5sN1h6UnVwSVNvd1NJNjBwNkwyZ2FwdzIzTmEyelFjZlBlbkdSWWxjcDdQZnRZZ0U?oc=5</guid>
             <pubDate>Fri, 21 Nov 2025 12:53:36 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 投资者对市场持续抛售的看法 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独家：阿布扎比 IHC 对卢克石油公司的海外资产感兴趣 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQRDdncHdwRlNudUFVSmU5MTBSOFp4UUZzMnhjTlE1RWxhMkZLOUpIVHl2RDI3WVVRZmtyUU9qMFJUU1FQTTJPMUxIUmhiZmFSN0xnM28yNGxYMkw3WDhZQjZHZ0lESmlSemZlaGpZVkJFdmZQUGFib0ZtdWZVQUg2UER2RmJJRHlNS3RuNGc1MHh2MU5aRUZFU1NpUDlScXpnSEE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxQRDdncHdwRlNudUFVSmU5MTBSOFp4UUZzMnhjTlE1RWxhMkZLOUpIVHl2RDI3WVVRZmtyUU9qMFJUU1FQTTJPMUxIUmhiZmFSN0xnM28yNGxYMkw3WDhZQjZHZ0lESmlSemZlaGpZVkJFdmZQUGFib0ZtdWZVQUg2UER2RmJJRHlNS3RuNGc1MHh2MU5aRUZFU1NpUDlScXpnSEE?oc=5</guid>
-            <pubDate>Fri, 21 Nov 2025 12:04:29 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：阿布扎比 IHC 对卢克石油公司的海外资产感兴趣 路透]]></description>
         </item>
     </channel>
 </rss>
