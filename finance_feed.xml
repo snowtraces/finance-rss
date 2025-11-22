@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 22 Nov 2025 13:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 13:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[5年6次增资至150亿！腾讯财付通小贷跻身全国第二，尾部玩家陆续离场]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3095367</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3095367</guid>
+            <pubDate>Sat, 22 Nov 2025 13:06:09 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[华创证券：就业数据真空期或促使美联储在12月份暂停降息]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3095366</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3095366</guid>
+            <pubDate>Sat, 22 Nov 2025 13:05:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[“药中茅台”片仔癀10年增长终结：上半年推18个在研新药，还研发癌性疼痛药]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3095363</link>
@@ -107,11 +121,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[尼日利亚几天内大规模逮捕学生后关闭学校]]></title>
+            <title><![CDATA[尼日利亚关闭学校 300 多名学生被绑架]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-11-22/nigeria-shuts-schools-after-mass-seizure-of-students-within-days</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-22/nigeria-shuts-schools-after-mass-seizure-of-students-within-days</guid>
             <pubDate>Sat, 22 Nov 2025 08:43:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 本周，尼日利亚发生了一系列绑架事件，数百名儿童被绑架，该国已关闭了数十所学校。]]></description>
+            <description><![CDATA[[Bloomberg] 周五，武装人员袭击了尼日利亚北部一所天主教学校，确认有 300 多名学生失踪，这是非洲人口最多国家发生的一系列大规模绑架事件中的最新一起。]]></description>
         </item>
         <item>
             <title><![CDATA[AI又团灭一个行业 - 华尔街见闻]]></title>
@@ -119,20 +133,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FaW5TVWtwMVJXZGxGcy1MRkU0dk5UNkhwTXYwRWVDV2gtZXFrcnA4WW13dHpsa0VzX0pOamtITGhiSVZGRm9CX0ZBUU1RQmd0dTJB?oc=5</guid>
             <pubDate>Sat, 22 Nov 2025 08:20:29 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] AI又团灭一个行业  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[直击2025广州车展|自主“百花齐放”：鸿蒙智行定下“200万辆”交付周期 长城坚持“油电同强”战略]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3095329</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3095329</guid>
-            <pubDate>Sat, 22 Nov 2025 08:05:54 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[UBS预测富时100指数将在2026年缓慢上涨]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3095328</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3095328</guid>
-            <pubDate>Sat, 22 Nov 2025 08:00:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[印度工会谴责新劳动法并计划全国抗议 - 路透中文网]]></title>
@@ -597,6 +597,13 @@
             <description><![CDATA[[Reuters Business] 法国无人机制造商在资金不确定的情况下关注乌克兰交易 - 路透中文网]]></description>
         </item>
         <item>
+            <title><![CDATA[SpaceX 首个用于升级星舰的助推器在德克萨斯州测试期间失败 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxONmdxMzlyZ2w2QnQzNlVpYmVfUFFaT0E4dDRPWV9xbmRySzNLN3pfcGZpVHNsM3hSalZWaXJoaFlET0cyY3hKdUlvNGdoTVZFWERVaDBPTGJiVENrMlV2eERnX04wTzlnUjYwZXQwM1RpYm8yMzBHSDZac045dG5TeUZTSlFOV2RuMHFkSkMycjFiWHdnZldCcEVtN2kwRE50LUw0ZlFJRmNDVnRyVFZXVTJzMnNuQkpvdjRnNDc4WncyTTg?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxONmdxMzlyZ2w2QnQzNlVpYmVfUFFaT0E4dDRPWV9xbmRySzNLN3pfcGZpVHNsM3hSalZWaXJoaFlET0cyY3hKdUlvNGdoTVZFWERVaDBPTGJiVENrMlV2eERnX04wTzlnUjYwZXQwM1RpYm8yMzBHSDZac045dG5TeUZTSlFOV2RuMHFkSkMycjFiWHdnZldCcEVtN2kwRE50LUw0ZlFJRmNDVnRyVFZXVTJzMnNuQkpvdjRnNDc4WncyTTg?oc=5</guid>
+            <pubDate>Fri, 21 Nov 2025 17:20:12 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] SpaceX 的首个用于升级星舰的助推器在德克萨斯州测试期间失败 - 路透中文网]]></description>
+        </item>
+        <item>
             <title><![CDATA[加拿大零售贸易在九月份下跌后仍然疲软]]></title>
             <link>https://www.wsj.com/economy/consumers/canadian-retail-trade-remains-soft-after-fall-in-september-67c3f1ea</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/consumers/canadian-retail-trade-remains-soft-after-fall-in-september-67c3f1ea</guid>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxNcncwQ293eUpsV2NVSDJMT1NiQ0VzUFhYbDFvZ1BXOTJjTUhXQW4weGNCUi1OYmYxeC1DeXM4Zmp5VHhhTGZHUXYtR05xYzRscTdob1luVkR1Z05BUk9pQlFQMS1hbTZ5MVdCbGxrcnkyVnM4NUZWNGRwQ3hWOVZGcUt0Nlh0YUpPYVZUQ0pzOHlJb05weFc4TFo5WWY0Y2ZzUEJCTUZOVWNpWkxHbGZyN3d6eEVYd2tacjBBVm9EcDlMRXdXUzJZOW1B?oc=5</guid>
             <pubDate>Fri, 21 Nov 2025 15:20:13 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 消息人士称派拉蒙、康卡斯特和 Netflix 已提交对华纳兄弟探索频道的竞标 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[礼来公司和诺和诺德公司支持直接面向雇主的计划，以扩大减肥药物的获取 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZVB0X2dxd2JhSURxRHpTeXZDdmtDN2pHNlhrakQydU9xaDhXb0pIMjN6TllXMFpVTm1BLUgyUVJrSGlrRFJzZ0pqdmRnOWhEUmhIel9BQlI1aENvUlV0RklnUWduVjlhaUFaajJXZ3BPeE9pTkJPRVQ5bFV0ZTdIRVREQzEwdXhIWVA4ekFJMzFKNldIQUY3WHZXcEMxMjdHX1h3c2FKSWR1Y2VpbWdBNUxsVXFUVWFwSUtoNWFWUFNIMmRkWVpDbG1oM1FqU3BsdkZhOU92ZjhZWDI3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZVB0X2dxd2JhSURxRHpTeXZDdmtDN2pHNlhrakQydU9xaDhXb0pIMjN6TllXMFpVTm1BLUgyUVJrSGlrRFJzZ0pqdmRnOWhEUmhIel9BQlI1aENvUlV0RklnUWduVjlhaUFaajJXZ3BPeE9pTkJPRVQ5bFV0ZTdIRVREQzEwdXhIWVA4ekFJMzFKNldIQUY3WHZXcEMxMjdHX1h3c2FKSWR1Y2VpbWdBNUxsVXFUVWFwSUtoNWFWUFNIMmRkWVpDbG1oM1FqU3BsdkZhOU92ZjhZWDI3?oc=5</guid>
-            <pubDate>Fri, 21 Nov 2025 15:10:46 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 礼来公司 (Lilly) 和诺和诺德 (Novo Nordisk) 支持直接面向雇主的计划，以扩大减肥药物的获取范围 路透]]></description>
         </item>
     </channel>
 </rss>
