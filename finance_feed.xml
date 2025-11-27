@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 27 Nov 2025 19:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 20:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[摩科瑞和维托是 Raizen 阿根廷炼油厂的竞标者之一]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-27/mercuria-vitol-are-among-bidders-for-raizen-argentina-refinery</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-27/mercuria-vitol-are-among-bidders-for-raizen-argentina-refinery</guid>
+            <pubDate>Thu, 27 Nov 2025 19:41:50 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 据知情人士透露，能源贸易巨头摩科瑞能源集团(Mercuria Energy Group)和维托集团(Vitol Group)是Raizen SA出售阿根廷一家炼油厂和数百个加油站的最终入围者之一。]]></description>
+        </item>
         <item>
             <title><![CDATA[黄表示对中国股市仍具建设性]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-11-27/still-constructive-on-chinese-equities-huynh-says-video</link>
@@ -28,6 +35,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3103113</guid>
             <pubDate>Thu, 27 Nov 2025 19:05:36 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[意大利防务集团莱昂纳多推出“米开朗基罗圆顶”防空系统 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbmtDWXBvQUV5c2ZSQmdrVEhEX3Z0V25JNThodWhrTU1wU1ZJYmRzeVM2LXJ1aU5GREEtamFYb1FPR21XaHlIX2pHRFNmTzZVY01TUURQZWlZek5ET1BDSFlhZnVFRFFyMUJlUGFrUXdmMjdnbUNrNnRoWGd1VTU2amM5cEVtTTA4a3JjWENZcGZNZTY0WG9qUHRHeFZTckNBR24ybm9vWlZhZDFQN3ozQU5DbVVQVW9pMWdDc21HWVdDcmc1NkViUzBFaE9xSEdTbHhkOA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbmtDWXBvQUV5c2ZSQmdrVEhEX3Z0V25JNThodWhrTU1wU1ZJYmRzeVM2LXJ1aU5GREEtamFYb1FPR21XaHlIX2pHRFNmTzZVY01TUURQZWlZek5ET1BDSFlhZnVFRFFyMUJlUGFrUXdmMjdnbUNrNnRoWGd1VTU2amM5cEVtTTA4a3JjWENZcGZNZTY0WG9qUHRHeFZTckNBR24ybm9vWlZhZDFQN3ozQU5DbVVQVW9pMWdDc21HWVdDcmc1NkViUzBFaE9xSEdTbHhkOA?oc=5</guid>
+            <pubDate>Thu, 27 Nov 2025 18:47:21 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 意大利防务集团莱昂纳多推出“米开朗基罗穹顶”防空系统 路透]]></description>
         </item>
         <item>
             <title><![CDATA[国际清算银行行长警告对冲基金债券市场押注风险收益率飙升]]></title>
@@ -223,7 +237,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-11-27/westbourne-s-whelan-on-2026-outlook-and-global-stimulus-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-11-27/westbourne-s-whelan-on-2026-outlook-and-global-stimulus-video</guid>
             <pubDate>Thu, 27 Nov 2025 14:21:30 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Westbourne Research Services 全球宏观策略师 Sharmila Whelan 讨论了近期地缘政治和经济发展背景下的投资策略。 她在欧洲黎明节目中接受了彭博社的汤姆·麦肯齐的采访。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] Westbourne Research Services 全球宏观策略师 Sharmila Whelan 讨论了近期地缘政治和经济发展背景下的投资策略。 她在《欧洲黎明》节目中接受了彭博社的汤姆·麦肯齐的采访。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[法国马克龙在“威胁加剧”之际宣布自愿服兵役 - 路透中文网]]></title>
@@ -231,6 +245,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMVlaNkQxLS1WQ09hdHV2NlFkbXVLU1lUcXM4YklGTjdjRk9YWEhIWUV2bTYzV2RPTm0xZ3RTZWZKSzV5a3VZaTREaV8yMVp0XzdoTlUzbXByUjRDYThOelpWcXRhYk5wbEhIbXpHWEVhXzBEUmVWREVLWGVtY2NHZjk5X2p0QUtCOTNDTXJtc2hGTTFLVzBPX0NuUTFuRW1OdDNYZDBXUUkwV0pLLWNPcElONHZZb3Z0ai1vRUZkN1dXcWQ5anltQ0EyVk9NWDNncUdoanFlSDB6bFU?oc=5</guid>
             <pubDate>Thu, 27 Nov 2025 13:37:51 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 法国马克龙在“威胁加剧”之际宣布自愿服兵役 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[“双十一”手机销量同比仅增长3%，苹果iPhone 17独撑大局 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zaE83Q19tb1N0Wm9ILWp4aWVCZG1MS3BkV0FYRFVLbEptNjg3R200cDE4cFZ4ZlJkUEN2cmFmdGZqTGJ0RHFKcWNtdzJzU0UtM1dF?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zaE83Q19tb1N0Wm9ILWp4aWVCZG1MS3BkV0FYRFVLbEptNjg3R200cDE4cFZ4ZlJkUEN2cmFmdGZqTGJ0RHFKcWNtdzJzU0UtM1dF?oc=5</guid>
+            <pubDate>Thu, 27 Nov 2025 13:19:44 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] “双十一”手机销量同比仅增长3%，苹果iPhone 17独撑大局  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[由于债务水平上升，穆迪将巴西 Raízen 评级为垃圾级]]></title>
@@ -331,13 +352,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxPcUluY0pnQkZzSVY5SUdvQkU0LUs0b2dVOGVsMUtHdjBMQjZfUjgxUFQ5S0p6ZS10SUNMSEwyRDdwQTZjaXdtM0Rhb1JLMVRWUmhwYUszNVJEdkY1M09zTkxQU2pRc28wR09QU045SnRPbGYxTzJNMlZucmV3bloxa0NfMllpams0WG1uYUlJQTNCa2UtRFFvZGhuMExTa0JxRWxLWlFPZFM2VC1BWGoyY1ZrSEJZWGZKVjNEYy1rQQ?oc=5</guid>
             <pubDate>Thu, 27 Nov 2025 11:33:27 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 意大利有条件批准中国京东收购 Ceconomy 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[南非工业天然气用户成立公司以集中需求]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-27/south-africa-s-industrial-gas-users-form-company-to-pool-demand</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-27/south-africa-s-industrial-gas-users-form-company-to-pool-demand</guid>
-            <pubDate>Thu, 27 Nov 2025 11:26:12 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 一群南非工业天然气用户创建了一家公司，为当前燃料供应的预期下降做好准备。]]></description>
         </item>
         <item>
             <title><![CDATA[由于对预算的担忧重新浮现，金边债券收益率上升，英镑下跌]]></title>
@@ -695,20 +709,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE93WWhfd0FKMzJoVFctdUxBSU91cnkzUWdWUGsxVnBULXpibTNBZlJVb05qbkk5X05NNW1PTTZlbkc3ZXJvSTBBbnMtclhaS1RjRVdV?oc=5</guid>
             <pubDate>Wed, 26 Nov 2025 22:53:11 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全球股市在四天反弹后保持稳定：市场总结]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-26/stock-market-today-dow-s-p-live-updates</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-26/stock-market-today-dow-s-p-live-updates</guid>
-            <pubDate>Wed, 26 Nov 2025 22:30:39 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 全球股市在连续四天上涨后保持坚挺，因押注美联储降息速度将快于此前预期而推动复苏。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MIT研究发现：人工智能已经可以取代美国11.7%的劳动力 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE91RUxUbWVCMnZfWUJGLXcxYjZmdzE0a19xYzl6OEZrRDh3bHFobUI1OVFiN1MwMGFMRzQ3Umk0dXpaRXNVejUzVzd2N0duZklDRkQ4?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE91RUxUbWVCMnZfWUJGLXcxYjZmdzE0a19xYzl6OEZrRDh3bHFobUI1OVFiN1MwMGFMRzQ3Umk0dXpaRXNVejUzVzd2N0duZklDRkQ4?oc=5</guid>
-            <pubDate>Wed, 26 Nov 2025 22:01:17 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] MIT研究发现：人工智能已经可以取代美国11.7%的劳动力  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
