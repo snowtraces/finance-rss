@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 27 Nov 2025 19:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 19:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -168,6 +168,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-27/uk-s-obr-says-it-had-no-hand-in-tax-u-turn-that-shocked-markets</guid>
             <pubDate>Thu, 27 Nov 2025 15:23:41 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 雷切尔·里夫斯 (Rachel Reeves) 在 11 月初的一次不同寻常的预算前演讲中开始让公众为打破宣言的所得税上涨做好准备。 更令人惊讶的是，她是在私下得知自己的财政回旋余地远超预期后才这样做的。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英国零售商敦促政府尽快结束包裹关税漏洞 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1RjM2VJT0ltR05pTTFqTzRQRWJxbU1sRFR1Z19ZMmVRRnJsREUyMTd1QzVkcjJmTDFlWXhvdFJCaVRJR2ExdnI4Y2EzR1ZIZlZoWnhia2k0WHRiaW8ycHNNRzJ4RUxFaXRmY016VTJscFI4UFpiM0cyd3FtYnR1YnpEY2lHWjJqdGg0YlR2cmhDci1qZ01PSUdTYjA1MFR3YTM4LUF2ZEdRRzM5ellWX0dza1AwTlFtWVdFYWItSlA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1RjM2VJT0ltR05pTTFqTzRQRWJxbU1sRFR1Z19ZMmVRRnJsREUyMTd1QzVkcjJmTDFlWXhvdFJCaVRJR2ExdnI4Y2EzR1ZIZlZoWnhia2k0WHRiaW8ycHNNRzJ4RUxFaXRmY016VTJscFI4UFpiM0cyd3FtYnR1YnpEY2lHWjJqdGg0YlR2cmhDci1qZ01PSUdTYjA1MFR3YTM4LUF2ZEdRRzM5ellWX0dza1AwTlFtWVdFYWItSlA?oc=5</guid>
+            <pubDate>Thu, 27 Nov 2025 15:23:23 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 英国零售商敦促政府尽快结束包裹关税漏洞 路透]]></description>
         </item>
         <item>
             <title><![CDATA[Allfunds 据称将吸引德意志交易所的收购兴趣]]></title>
@@ -702,13 +709,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE91RUxUbWVCMnZfWUJGLXcxYjZmdzE0a19xYzl6OEZrRDh3bHFobUI1OVFiN1MwMGFMRzQ3Umk0dXpaRXNVejUzVzd2N0duZklDRkQ4?oc=5</guid>
             <pubDate>Wed, 26 Nov 2025 22:01:17 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] MIT研究发现：人工智能已经可以取代美国11.7%的劳动力  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织与乌克兰就 82 亿美元的四年期计划达成工作人员级协议 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQRTlZSjl0MUd2cWdHZDNYQkxJU3FUNm9UT2M5MXZQaGxqQk9mLXNHTTIyS3V4S3NKSjZaZ0NVQ2E2TzNtTEF1bUcwb0RYNXBySS1wUjNCZy1oc0RSMWFSQlJvVjRIZHJUeExndmJiQkhWOU5NMWJhbGlldDRBTmxzZm1rT0pXU3dlQ1FVb2pORGRPZUE3NUFPc09Ub0IwbldYRklBNHN6dUNRV0hSWjh3V1ZsMjZiZw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQRTlZSjl0MUd2cWdHZDNYQkxJU3FUNm9UT2M5MXZQaGxqQk9mLXNHTTIyS3V4S3NKSjZaZ0NVQ2E2TzNtTEF1bUcwb0RYNXBySS1wUjNCZy1oc0RSMWFSQlJvVjRIZHJUeExndmJiQkhWOU5NMWJhbGlldDRBTmxzZm1rT0pXU3dlQ1FVb2pORGRPZUE3NUFPc09Ub0IwbldYRklBNHN6dUNRV0hSWjh3V1ZsMjZiZw?oc=5</guid>
-            <pubDate>Wed, 26 Nov 2025 21:17:24 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 国际货币基金组织与乌克兰就 82 亿美元的四年期计划达成工作人员级协议 路透]]></description>
         </item>
     </channel>
 </rss>
