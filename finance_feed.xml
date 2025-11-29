@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 29 Nov 2025 20:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 20:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -198,6 +198,13 @@
             <description><![CDATA[[WSJ] 图表显示了总统如何放松征税，但一些关键因素可能仍会给消费者带来压力。]]></description>
         </item>
         <item>
+            <title><![CDATA[部长表示，自猪瘟爆发以来，西班牙三分之一的猪肉出口证书被封锁 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSF9pbFZyd09pTWEzSDdCYTcwbXZvaEIzQUxZcExXbTE0YTBpLVpBdGY2SnFYZlhycGR0dEJmRC1JaTlhdXhuVVVqT3MxWkx1MDNJU1lrT0NsRE9GUEhtWG1MeTgxN3p5VklJeXEyQkM1MFFlME1kRmZuYzJNbHpLMHR1Qld1WnJFLXJpVV9YOE9DaFdJa2RFU0pGd2p4aW04YzN0ME9uc1d2U29USElCM1hNYnltSi1UTHgzVjlHa0QtVldhZDNWX0E2M3A3bWlOMl9mTHdYVGZVWTIzbkNKM3JCcw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSF9pbFZyd09pTWEzSDdCYTcwbXZvaEIzQUxZcExXbTE0YTBpLVpBdGY2SnFYZlhycGR0dEJmRC1JaTlhdXhuVVVqT3MxWkx1MDNJU1lrT0NsRE9GUEhtWG1MeTgxN3p5VklJeXEyQkM1MFFlME1kRmZuYzJNbHpLMHR1Qld1WnJFLXJpVV9YOE9DaFdJa2RFU0pGd2p4aW04YzN0ME9uc1d2U29USElCM1hNYnltSi1UTHgzVjlHa0QtVldhZDNWX0E2M3A3bWlOMl9mTHdYVGZVWTIzbkNKM3JCcw?oc=5</guid>
+            <pubDate>Sat, 29 Nov 2025 12:46:35 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 西班牙部长表示，自猪瘟爆发以来，西班牙三分之一的猪肉出口证书被冻结 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[俄罗斯连夜对乌克兰发动大规模袭击，造成三人死亡、数十人受伤 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxONE5WeW56TEJCUV92M0IxNjJsT2lxS1VBRzlVckJMQ08waUpQR0ItX2VzRmVqUjRzVm5WeWpDVDdYZktuRXRGNzlYQjdJZ00ydUNkM18tbVk4eEJKS2NfYXpoVUl5MTZYSkptdDBwVXBIN2owY3FsMGVYWlNMRGl3dmVmbWdjdnhjMXI0ems0S05lbnFmYVVMOWJZS0hJdWpmUUdmWnhXVlp2bjd4a21xQ1Nnb0xaT29lRTFhRFM4bDZSdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxONE5WeW56TEJCUV92M0IxNjJsT2lxS1VBRzlVckJMQ08waUpQR0ItX2VzRmVqUjRzVm5WeWpDVDdYZktuRXRGNzlYQjdJZ00ydUNkM18tbVk4eEJKS2NfYXpoVUl5MTZYSkptdDBwVXBIN2owY3FsMGVYWlNMRGl3dmVmbWdjdnhjMXI0ems0S05lbnFmYVVMOWJZS0hJdWpmUUdmWnhXVlp2bjd4a21xQ1Nnb0xaT29lRTFhRFM4bDZSdw?oc=5</guid>
@@ -287,13 +294,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-29/china-to-inspect-high-rise-blocks-for-risks-after-hong-kong-fire</guid>
             <pubDate>Sat, 29 Nov 2025 08:44:01 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 根据应急管理部网站周六发布的一份声明，本周早些时候香港发生致命火灾后，中国政府将检查高层建筑的火灾风险。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[官方媒体称，修复后的萨汉德号驱逐舰和浮动基地加入伊朗海军 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFctaXdJdGRZOFI0NWgzT3NtLVBlb0k3UklXNVJfN0Q0YmdlcUo2amNhSUZoMWR6azJ4YnZybUpnU29FTzhlVEZEclVGd3dPQXNYUk0temhUNXpfa1ZTckR1Q0xWQlVWTlM0OFJuZWs2V1N3eGhCaW9kZThTUUVmU2R4VGxhYTlJM3hUajV6WEZVeUxiY29hekpQa0NlVUtmcXF6UUZ6dXlibFhNMHN5VDd1NGc4Z3FRLVZmMk9OSF9jX0hxT1dTSUJ0dDQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFctaXdJdGRZOFI0NWgzT3NtLVBlb0k3UklXNVJfN0Q0YmdlcUo2amNhSUZoMWR6azJ4YnZybUpnU29FTzhlVEZEclVGd3dPQXNYUk0temhUNXpfa1ZTckR1Q0xWQlVWTlM0OFJuZWs2V1N3eGhCaW9kZThTUUVmU2R4VGxhYTlJM3hUajV6WEZVeUxiY29hekpQa0NlVUtmcXF6UUZ6dXlibFhNMHN5VDd1NGc4Z3FRLVZmMk9OSF9jX0hxT1dTSUJ0dDQ?oc=5</guid>
-            <pubDate>Sat, 29 Nov 2025 08:25:16 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 官方媒体称，修复后的萨汉德号驱逐舰和浮动基地加入伊朗海军 路透]]></description>
         </item>
         <item>
             <title><![CDATA[工银投资冯军伏：AIC服务科技型企业应坚持四项原则和四个维度｜济南科技金融论坛 - Caixin]]></title>
@@ -426,7 +426,7 @@
             <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2o3dzZ3VU9BdmY1ckstOTk4NnNyRzhSc3BNX3I3Z0JLMTBBenVDLU94bDk1X2RIN2FMY1dORTNicnNnTFZEbEFBbnhoOHg4czZBUHFtSGpGQ0Vnc0ZPNXRzbGVNd0ZQWFBobFd2RkluSHFlUTJNa3h2dXg3NU5wb25CMnU4SXNDNEdwcXVtcEFWbXJQWnliT0VsR2ZDUDVyMTNNaHJzejhnUkdkMWc5RlJkN3pPWElGbHBCaVgxS0gybGdiWmc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2o3dzZ3VU9BdmY1ckstOTk4NnNyRzhSc3BNX3I3Z0JLMTBBenVDLU94bDk1X2RIN2FMY1dORTNicnNnTFZEbEFBbnhoOHg4czZBUHFtSGpGQ0Vnc0ZPNXRzbGVNd0ZQWFBobFd2RkluSHFlUTJNa3h2dXg3NU5wb25CMnU4SXNDNEdwcXVtcEFWbXJQWnliT0VsR2ZDUDVyMTNNaHJzejhnUkdkMWc5RlJkN3pPWElGbHBCaVgxS0gybGdiWmc?oc=5</guid>
             <pubDate>Sat, 29 Nov 2025 01:25:26 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国航空将需要空中客车软件修复的飞机数量减少至 209 架 路透]]></description>
+            <description><![CDATA[[Reuters Business] 美国航空将需要空客软件修复的飞机数量减少至 209 架 路透社]]></description>
         </item>
         <item>
             <title><![CDATA[Banco Master 的 Vorcaro 出狱，被告知佩戴脚踝监视器]]></title>
