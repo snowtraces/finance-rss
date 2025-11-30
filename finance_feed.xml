@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 30 Nov 2025 06:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Nov 2025 06:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -77,6 +77,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3105097</guid>
             <pubDate>Sun, 30 Nov 2025 03:05:08 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[“特朗普交易”遭重创 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uLVJSUFVMaGFMZDFGQ1hZZGVvRUV0UmZHS3JTRWNQSHlRNzJhMUpPX2tRQzV4Rm02Ukw1aHZVeUhVRDlFVDlnMFFENTN3dm9LUnpv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uLVJSUFVMaGFMZDFGQ1hZZGVvRUV0UmZHS3JTRWNQSHlRNzJhMUpPX2tRQzV4Rm02Ukw1aHZVeUhVRDlFVDlnMFFENTN3dm9LUnpv?oc=5</guid>
+            <pubDate>Sun, 30 Nov 2025 02:56:48 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] “特朗普交易”遭重创  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[曾曝董事长打伤总经理的华信信托进入破产重整 大连国资主导 - Caixin]]></title>
@@ -566,7 +573,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-11-29/human-made-seeks-growth-beyond-china-as-tensions-with-japan-rise</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-29/human-made-seeks-growth-beyond-china-as-tensions-with-japan-rise</guid>
             <pubDate>Sat, 29 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 日本时尚品牌 Human Made Inc. 将中国视为其计划的核心，在东京和北京之间紧张局势加剧的背景下，该品牌正在扩大其增长战略，以减少对单一市场的依赖。]]></description>
+            <description><![CDATA[[Bloomberg] 日本时装品牌 Human Made Inc. 将中国视为其计划的核心，在东京和北京之间紧张局势加剧的背景下，该品牌正在扩大其增长战略，以减少对任何单一市场的依赖。]]></description>
         </item>
         <item>
             <title><![CDATA[中国机器人股票因泡沫担忧而面临投资者密切关注]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcElfYU9BZHFIdm9tRHo4cVZUd1lZQk01R0x6YnpKeTVYcF9yNkdHTGtfSEtSX3ZYSEdoUjRZMi16enhSLVVTcmZ3RmZScFBPWkpibDYwUmlFYWowUEQ2ZDdxQmxTMURiTFVZcnVUeEZ4XzRvb281VlNGZ0w3c2hrUXFxTkhrMUpSaTdWMVlCa3lhak8tMVBRaHR5ZGVOdF9IOGl5bjBsNkJFbHkxV3dOaUo2VHhETlRVQk5J?oc=5</guid>
             <pubDate>Fri, 28 Nov 2025 15:49:32 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 英国表示加入欧盟国防基金的谈判已破裂 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰声称俄罗斯“影子舰队”黑海油轮遭到袭击]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-11-28/oil-tanker-at-risk-of-sinking-after-mine-strike-near-turkey</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-28/oil-tanker-at-risk-of-sinking-after-mine-strike-near-turkey</guid>
-            <pubDate>Fri, 28 Nov 2025 15:49:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 乌克兰安全部门声称，两艘因运输俄罗斯石油而受到制裁的远洋油轮遭到袭击，这两艘油轮在过去一天遭到土耳其黑海沿岸的爆炸袭击。]]></description>
         </item>
     </channel>
 </rss>
