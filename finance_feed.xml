@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 30 Nov 2025 07:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Nov 2025 07:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[香港在致命建筑火灾后采取行动平息公众愤怒]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-11-30/hong-kong-acts-to-quell-public-anger-after-deadly-building-fire</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-30/hong-kong-acts-to-quell-public-anger-after-deadly-building-fire</guid>
+            <pubDate>Sun, 30 Nov 2025 07:10:54 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 香港发生近 80 年来最严重的火灾，造成至少 128 人死亡，引发公众对未发出警报的质疑，随后政府采取行动平息公众日益高涨的愤怒情绪。]]></description>
+        </item>
         <item>
             <title><![CDATA[美股新股前瞻|高成长难掩经营挑战，香港医疗IT服务商极高点赴美“补血”]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3105116</link>
@@ -126,6 +133,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-30/chinese-factory-activity-slump-reaches-longest-stretch-on-record</guid>
             <pubDate>Sun, 30 Nov 2025 01:43:28 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 11 月份中国工厂活动有所改善，但仍处于收缩状态，随着中国经济放缓的加剧，其连续下滑趋势扩大至创纪录水平。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[万科展期影响再思考 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FUUFWWTVVSGRrempYZnktZHRkRXdHVldFTWlCLTQtMnNQYmZkUHg1bFdCRnZHemctamRyQWpuTG9kZUVzOU5DVUlyUDQ0V2pnTEtj?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FUUFWWTVVSGRrempYZnktZHRkRXdHVldFTWlCLTQtMnNQYmZkUHg1bFdCRnZHemctamRyQWpuTG9kZUVzOU5DVUlyUDQ0V2pnTEtj?oc=5</guid>
+            <pubDate>Sun, 30 Nov 2025 01:10:42 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 万科展期影响再思考  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[日本财务大臣表示外汇走势并非基于基本面]]></title>
@@ -279,7 +293,7 @@
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkx6RXZzZ05kVU5pY0FDQXNtdzdPS3lVc3Atcm41RW9JMklFOVlLTFV3LVE5ZURRaVlnTm44WGpJQ0RYeExsVzNUM3ZXR2xPT2ozVE9Ed3ZMNkpUQW5HVVc1eGExanBITVZLc2hFcnVGUzFfaEkxTkd4SEs5V3p6Z09sREd3ei0xN3kybmo4aUI1YmR2SXlMOWFwSzg3d0hxQWRBSktfdmtueFlQa3ZpUFROWUJuYjVCUEF3d2tuWUtEYksyR0Nwcw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkx6RXZzZ05kVU5pY0FDQXNtdzdPS3lVc3Atcm41RW9JMklFOVlLTFV3LVE5ZURRaVlnTm44WGpJQ0RYeExsVzNUM3ZXR2xPT2ozVE9Ed3ZMNkpUQW5HVVc1eGExanBITVZLc2hFcnVGUzFfaEkxTkd4SEs5V3p6Z09sREd3ei0xN3kybmo4aUI1YmR2SXlMOWFwSzg3d0hxQWRBSktfdmtueFlQa3ZpUFROWUJuYjVCUEF3d2tuWUtEYksyR0Nwcw?oc=5</guid>
             <pubDate>Sat, 29 Nov 2025 13:37:14 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 消息人士称，伊拉克埃尔比勒附近的拉纳兹炼油厂外，安全部队造成至少两人死亡、三人受伤]]></description>
+            <description><![CDATA[[Reuters Business] 消息人士称，伊拉克埃尔比勒附近的拉纳兹炼油厂外，安全部队造成至少两人死亡、三人受伤。]]></description>
         </item>
         <item>
             <title><![CDATA[CPC表示石油出口停止，设备被无人机严重损坏 - 路透中文网]]></title>
@@ -513,13 +527,6 @@
             <description><![CDATA[[Reuters Business] 独家：消息人士称，随着最后期限的临近，《经济学人》的股份引起了人们的兴趣 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DX0hNTGN2Ymt4SGdKZzg1TzV5c2xKMFVxbkRVOG1oNGRfenNDUTl0d3hsYTJLZE9FVnkyZlItanlHTHluZVQ4YzNTWHg3eVphdjAw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DX0hNTGN2Ymt4SGdKZzg1TzV5c2xKMFVxbkRVOG1oNGRfenNDUTl0d3hsYTJLZE9FVnkyZlItanlHTHluZVQ4YzNTWHg3eVphdjAw?oc=5</guid>
-            <pubDate>Sat, 29 Nov 2025 02:01:08 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[但斌发声：国内能对标谷歌的公司，我觉得可能只有两家 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CLXhlNUlNZEdtWnkzNURrNnlVTjk4XzFvTHowY0pRRDVkd2FfSmJ3UmVWNkZGcjNKdVhfSHVrTW5IYzBXWjdteWtHa25lbjA1dUlz?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CLXhlNUlNZEdtWnkzNURrNnlVTjk4XzFvTHowY0pRRDVkd2FfSmJ3UmVWNkZGcjNKdVhfSHVrTW5IYzBXWjdteWtHa25lbjA1dUlz?oc=5</guid>
@@ -538,7 +545,7 @@
             <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2o3dzZ3VU9BdmY1ckstOTk4NnNyRzhSc3BNX3I3Z0JLMTBBenVDLU94bDk1X2RIN2FMY1dORTNicnNnTFZEbEFBbnhoOHg4czZBUHFtSGpGQ0Vnc0ZPNXRzbGVNd0ZQWFBobFd2RkluSHFlUTJNa3h2dXg3NU5wb25CMnU4SXNDNEdwcXVtcEFWbXJQWnliT0VsR2ZDUDVyMTNNaHJzejhnUkdkMWc5RlJkN3pPWElGbHBCaVgxS0gybGdiWmc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2o3dzZ3VU9BdmY1ckstOTk4NnNyRzhSc3BNX3I3Z0JLMTBBenVDLU94bDk1X2RIN2FMY1dORTNicnNnTFZEbEFBbnhoOHg4czZBUHFtSGpGQ0Vnc0ZPNXRzbGVNd0ZQWFBobFd2RkluSHFlUTJNa3h2dXg3NU5wb25CMnU4SXNDNEdwcXVtcEFWbXJQWnliT0VsR2ZDUDVyMTNNaHJzejhnUkdkMWc5RlJkN3pPWElGbHBCaVgxS0gybGdiWmc?oc=5</guid>
             <pubDate>Sat, 29 Nov 2025 01:25:26 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国航空将需要空中客车软件修复的飞机数量减少至 209 架 路透]]></description>
+            <description><![CDATA[[Reuters Business] 美国航空将需要空客软件修复的飞机数量减少至 209 架 路透社]]></description>
         </item>
         <item>
             <title><![CDATA[Banco Master 的 Vorcaro 出狱，被告知佩戴脚踝监视器]]></title>
@@ -580,7 +587,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-11-29/human-made-seeks-growth-beyond-china-as-tensions-with-japan-rise</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-11-29/human-made-seeks-growth-beyond-china-as-tensions-with-japan-rise</guid>
             <pubDate>Sat, 29 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 日本时尚品牌 Human Made Inc. 将中国视为其计划的核心，在东京和北京之间紧张局势加剧的背景下，该品牌正在扩大其增长战略，以减少对单一市场的依赖。]]></description>
+            <description><![CDATA[[Bloomberg] 日本时装品牌 Human Made Inc. 将中国视为其计划的核心，在东京和北京之间紧张局势加剧的背景下，该品牌正在扩大其增长战略，以减少对任何单一市场的依赖。]]></description>
         </item>
         <item>
             <title><![CDATA[中国机器人股票因泡沫担忧而面临投资者密切关注]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxPWE1uWkNEUDdQQk9XSWpSdHNKUzAyamZkYnQyOXQwN05IdENqZVRIVUtYMjh2eHFCLUN6RlRxRi1hbVk2c1JSb2FaOHhhTUZyTnM1WGZlSTBoZHZMTV9xa3h4M21LVXk5M3ZjaFVlNTRPeFdpUWUtRzNWZnlPUFlPTDFuRXhLMnlQbGd0eXh6bkVaMXRzZ1lMcVpRbjdmb1FLRUtCSE41cXA2TlhwUk5pcVhmOTQ0M1hNbllqQUV4Wm9tckM1Ulh0c1poSjRMUQ?oc=5</guid>
             <pubDate>Fri, 28 Nov 2025 17:54:24 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 印度阿达尼寻求对谷歌数据中心投资高达 50 亿美元，以加入人工智能热潮 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加拿大经济反弹超预期]]></title>
-            <link>https://www.wsj.com/economy/central-banking/canada-economy-rebounds-by-more-than-expected-8762e87d</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/canada-economy-rebounds-by-more-than-expected-8762e87d</guid>
-            <pubDate>Fri, 28 Nov 2025 17:40:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 加拿大经济在最近一个季度的复苏远比预期强劲，净贸易反弹和国防支出激增有助于掩盖国内需求疲软，从而摆脱了下滑。]]></description>
         </item>
     </channel>
 </rss>
