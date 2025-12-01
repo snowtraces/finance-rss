@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 01 Dec 2025 07:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 07:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[哈萨克斯坦自由控股公司考虑收购土耳其银行]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-01/kazakh-freedom-holding-said-to-mull-buying-turkishbank</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-01/kazakh-freedom-holding-said-to-mull-buying-turkishbank</guid>
+            <pubDate>Mon, 01 Dec 2025 07:25:18 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 据知情人士透露，哈萨克斯坦公司 Freedom Holding Corp. 正在就收购土耳其银行 (TurkishBank AS) 进行谈判。]]></description>
+        </item>
         <item>
             <title><![CDATA[打破壁垒！亚马逊(AMZN.US)AWS联手谷歌(GOOGL.US)云：打通高速私有云链路]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3105732</link>
@@ -167,13 +174,13 @@
             <link>https://www.bloomberg.com/news/videos/2025-12-01/the-china-show-12-01-2025-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-01/the-china-show-12-01-2025-video</guid>
             <pubDate>Mon, 01 Dec 2025 05:59:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 《彭博社：中国秀》是您了解世界第二大经济体新闻和分析的权威来源。 从政治和政策到科技和趋势，伊冯·曼 (Yvonne Man) 和大卫·英格尔斯 (David Ingles) 为全球投资者提供了独特的见解，与重要的新闻人物进行了深入的讨论。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 《彭博社：中国秀》是您了解世界第二大经济体新闻和分析的权威来源。 从政治和政策到科技和趋势，伊冯·曼 (Yvonne Man) 和大卫·英格尔斯 (David Ingles) 为全球投资者提供了独特的见解，与重要的新闻人物进行了深入讨论。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[汇丰银行聘请法国初创公司 Mistral 加强生成人工智能的部署 - 路透中文网]]></title>
+            <title><![CDATA[汇丰银行聘请法国初创公司 Mistral 加强生成人工智能的推出 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2xkVEJUZ0FuOTQyTXV3dkRiRFNpSGFGM0RqYzhhdkZxZUpYOWwtaXFkcHcySW5mLU1sMEZqSzN2NWJINjBkRDhtXzdzZkcwTnNETldnLWNzenhBUVhvU1NRZkczM3B3dkx5UFNkSjVzbGZOYlJ4SWl1aDI2LUpudmNjY0xxVy1Md2FZa0lDU2VnUUJ1ZE1UT0R1M3hzVzg5MTJ3TFF6eTB2bjZrTEZySVNoSEQ5MXZBUWszNw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2xkVEJUZ0FuOTQyTXV3dkRiRFNpSGFGM0RqYzhhdkZxZUpYOWwtaXFkcHcySW5mLU1sMEZqSzN2NWJINjBkRDhtXzdzZkcwTnNETldnLWNzenhBUVhvU1NRZkczM3B3dkx5UFNkSjVzbGZOYlJ4SWl1aDI2LUpudmNjY0xxVy1Md2FZa0lDU2VnUUJ1ZE1UT0R1M3hzVzg5MTJ3TFF6eTB2bjZrTEZySVNoSEQ5MXZBUWszNw?oc=5</guid>
-            <pubDate>Mon, 01 Dec 2025 05:59:20 GMT</pubDate>
+            <pubDate>Mon, 01 Dec 2025 05:59:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 汇丰银行聘请法国初创公司 Mistral 加强生成式人工智能的推出 路透]]></description>
         </item>
         <item>
@@ -182,6 +189,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-01/india-s-growth-surprise-lowers-rbi-rate-cut-odds-economists-say</guid>
             <pubDate>Mon, 01 Dec 2025 05:53:24 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 尽管通胀率创历史新低，但印度上季度经济增长出人意料地强劲，降低了本周央行政策会议降息的可能性。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5aHAzWnVSanAya08wbkpuY2xORU1SXzg0eDhSdlphbF8zbmhaV1ZUNEU0NzA2NDBlMjl0dUFUMFduUXhOZ3ZYOHhFX3phN1RrV3FB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5aHAzWnVSanAya08wbkpuY2xORU1SXzg0eDhSdlphbF8zbmhaV1ZUNEU0NzA2NDBlMjl0dUFUMFduUXhOZ3ZYOHhFX3phN1RrV3FB?oc=5</guid>
+            <pubDate>Mon, 01 Dec 2025 05:32:38 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 日本股债双杀！央行行长强烈暗示12月加息：希望将利率提高至0.75%再谈以后  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[棕榈油连续三天上涨，马来西亚库存成为焦点]]></title>
@@ -198,7 +212,7 @@
             <description><![CDATA[[Reuters Business] 亚马逊和谷歌推出多云服务以实现更快的连接 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[香港保险公司可能面临致命火灾创纪录的索赔]]></title>
+            <title><![CDATA[香港保险公司可能面临致命火灾的创纪录索赔]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-12-01/hk-insurers-may-face-record-claims-from-deadly-fire-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-01/hk-insurers-may-face-record-claims-from-deadly-fire-video</guid>
             <pubDate>Mon, 01 Dec 2025 05:12:51 GMT</pubDate>
@@ -212,7 +226,7 @@
             <description><![CDATA[[Bloomberg] 澳门 11 月份博彩收入增长 14.4%，超出分析师预期，因为这个全球最大的博彩中心继续通过福利和活动吸引大赌客。]]></description>
         </item>
         <item>
-            <title><![CDATA[中国汽车制造商在欧洲销量中所占份额回落]]></title>
+            <title><![CDATA[中国汽车制造商在欧洲销量中所占的份额回落]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-01/chinese-carmakers-retreat-from-record-share-of-european-sales</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-01/chinese-carmakers-retreat-from-record-share-of-european-sales</guid>
             <pubDate>Mon, 01 Dec 2025 05:00:00 GMT</pubDate>
@@ -265,7 +279,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-01/ecb-s-nagel-says-interest-rates-currently-in-a-good-place</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-01/ecb-s-nagel-says-interest-rates-currently-in-a-good-place</guid>
             <pubDate>Mon, 01 Dec 2025 04:22:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 理事会成员约阿希姆·内格尔表示，他对欧洲央行的货币政策设置感到满意。]]></description>
+            <description><![CDATA[[Bloomberg] 管理委员会成员约阿希姆·内格尔表示，他对欧洲央行的货币政策设置感到满意。]]></description>
         </item>
         <item>
             <title><![CDATA[印度计划在商品及服务税改革后对部分烟草产品征收新税]]></title>
@@ -345,13 +359,6 @@
             <description><![CDATA[[WSJ] 尽管海外新订单再次增加，但上个月新订单几乎停滞，中国制造业生产增长陷入停滞。]]></description>
         </item>
         <item>
-            <title><![CDATA[香港大亨郑寻求出售部分瑰丽酒店]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-01/hong-kong-tycoon-henry-cheng-seeks-sale-of-some-rosewood-hotels</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-01/hong-kong-tycoon-henry-cheng-seeks-sale-of-some-rosewood-hotels</guid>
-            <pubDate>Mon, 01 Dec 2025 02:31:37 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 香港大亨郑亨利正在为其家族豪华瑰丽酒店集团的房产寻找买家，亿万富翁家族正在竞相克服与其房地产子公司新世界发展有限公司相关的流动性挑战。]]></description>
-        </item>
-        <item>
             <title><![CDATA[高盛：中外投资者对铜的情绪存在显著分歧 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE45ZTRVeVNzeXZGWXU4RzZ3SFVpYXh6c2NMZ3BYLWNqR1FXNENhSzdIRVdyS3BtSjMzdzdlSG5EOEdKd21CTk1JYWYyRHRaY0wtdUE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE45ZTRVeVNzeXZGWXU4RzZ3SFVpYXh6c2NMZ3BYLWNqR1FXNENhSzdIRVdyS3BtSjMzdzdlSG5EOEdKd21CTk1JYWYyRHRaY0wtdUE?oc=5</guid>
@@ -392,13 +399,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-01/china-s-private-data-on-home-sales-vanishes-after-vanke-turmoil</guid>
             <pubDate>Mon, 01 Dec 2025 01:24:58 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 中国两家私营数据机构没有解释就没有公布月度房屋销售数据，这给亚洲最大经济体的一个关键领域的前景蒙上阴影。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[“若经济展望实现将加息！”日央行行长暗示12月加息，薪资谈判成关键决策点 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5aHAzWnVSanAya08wbkpuY2xORU1SXzg0eDhSdlphbF8zbmhaV1ZUNEU0NzA2NDBlMjl0dUFUMFduUXhOZ3ZYOHhFX3phN1RrV3FB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5aHAzWnVSanAya08wbkpuY2xORU1SXzg0eDhSdlphbF8zbmhaV1ZUNEU0NzA2NDBlMjl0dUFUMFduUXhOZ3ZYOHhFX3phN1RrV3FB?oc=5</guid>
-            <pubDate>Mon, 01 Dec 2025 01:12:56 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] “若经济展望实现将加息！”日央行行长暗示12月加息，薪资谈判成关键决策点  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[与其他几代人相比，20 多岁的年轻人正在收紧年终支出。 这就是为什么这对零售品牌来说是一个问题。]]></title>
