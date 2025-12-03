@@ -4,10 +4,38 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 03 Dec 2025 06:54:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 07:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[资本外流、关税风险承压 印度卢比再创历史新低]]></title>
+            <link>https://www.wsj.com/economy/central-banking/indian-rupee-hits-another-record-low-as-capital-outflows-tariff-risks-weigh-7e33584c</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/indian-rupee-hits-another-record-low-as-capital-outflows-tariff-risks-weigh-7e33584c</guid>
+            <pubDate>Wed, 03 Dec 2025 07:15:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 受资本外流和与美国贸易协议持续不确定性的压力，印度卢比周三跌至新低。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[日本股市上涨；截至收盘日经225指数上涨1.13%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3109747</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3109747</guid>
+            <pubDate>Wed, 03 Dec 2025 07:00:22 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Barclays列出推动欧洲股市到2026年上涨的六大驱动因素]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3109745</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3109745</guid>
+            <pubDate>Wed, 03 Dec 2025 06:51:29 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英镑上涨，富时 100 指数期货保持稳定]]></title>
+            <link>https://www.bloomberg.com/news/live-blog/2025-12-03/ftse-100-live-pound-bitcoin-us-data-airbus-what-s-moving-uk-markets-right-now-markets-today-mipnb3fp</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2025-12-03/ftse-100-live-pound-bitcoin-us-data-airbus-what-s-moving-uk-markets-right-now-markets-today-mipnb3fp</guid>
+            <pubDate>Wed, 03 Dec 2025 06:48:15 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] ]]></description>
+        </item>
         <item>
             <title><![CDATA[中国顶级经济学家称现在是允许人民币升值的时候了]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-12-03/chinese-economist-says-it-s-time-to-allow-stronger-yuan-video</link>
@@ -58,13 +86,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[美韩贸易协议刺激美元需求 韩国大幅提高2026年外汇稳定债券发行上限]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3109713</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3109713</guid>
-            <pubDate>Wed, 03 Dec 2025 06:35:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[港股异动 | 八马茶业(06980)午后跌超10% 股价已跌破发行价 公司为中国茶行业领先企业]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3109712</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3109712</guid>
@@ -93,13 +114,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[台湾股市收低；截至收盘台湾加权指数下跌1.03%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3109682</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3109682</guid>
-            <pubDate>Wed, 03 Dec 2025 06:05:18 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[BSE 看到对主机托管机架的更高需求]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-12-03/bse-sees-higher-demand-for-colocation-racks-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-03/bse-sees-higher-demand-for-colocation-racks-video</guid>
@@ -114,6 +128,13 @@
             <description><![CDATA[[Bloomberg] 北京上月底发布新一轮进口配额后，中国独立炼油厂正在增加从陆上油罐和海上闲置船只进口伊朗原油。]]></description>
         </item>
         <item>
+            <title><![CDATA[汇丰银行出人意料地任命布伦丹·尼尔森为董事长 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjlYcmZfRXRTUmpBZVZaOEZfd3BjM21JOWZaWXlvVnBUUlJSU3QwN1NRdWFlVUR1Umh6amFmbE8xenhmbWVfVUVkUGtZLTRiajJiZTlNOVJhQ2hCRFJDOG40ZnhqSkV0ODlSbWIxQlNCYXdSXy04RHM2Vm10bWJNVGtneHpmYmw4bFoxZXAyakVuczlZMkFXdl8zc3dqT0h6ZE5MYl9aXzQ1WVhjVThnOE0tM2c?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjlYcmZfRXRTUmpBZVZaOEZfd3BjM21JOWZaWXlvVnBUUlJSU3QwN1NRdWFlVUR1Umh6amFmbE8xenhmbWVfVUVkUGtZLTRiajJiZTlNOVJhQ2hCRFJDOG40ZnhqSkV0ODlSbWIxQlNCYXdSXy04RHM2Vm10bWJNVGtneHpmYmw4bFoxZXAyakVuczlZMkFXdl8zc3dqT0h6ZE5MYl9aXzQ1WVhjVThnOE0tM2c?oc=5</guid>
+            <pubDate>Wed, 03 Dec 2025 05:53:40 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 汇丰银行出人意料地任命布伦丹·尼尔森为董事长 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[澳大利亚的 GDP 数据掩盖了强劲的需求增长]]></title>
             <link>https://www.wsj.com/articles/australias-gdp-data-conceals-blistering-demand-growth-d4ce0143</link>
             <guid isPermaLink="false">https://www.wsj.com/articles/australias-gdp-data-conceals-blistering-demand-growth-d4ce0143</guid>
@@ -126,6 +147,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-03/several-vanke-bondholders-signal-they-ll-oppose-extension-plan</guid>
             <pubDate>Wed, 03 Dec 2025 05:22:57 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 知情人士称，至少三名本月到期的万科公司债券的投资者已向这家陷入困境的开发商发出信号，表示他们将反对推迟还款的计划。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[降息超百点后，美联储思考该如何停手，但分歧前所未有 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE00MjczaFpXQ2Q1dWpZQmJJNGtWXzE1LVpuTUt6SV8xTjFWb0REaTRndzBuMEpzbzI5aHl3aGl5QkxaUU5BY3NBSXJyLWxlanEzdFdV?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE00MjczaFpXQ2Q1dWpZQmJJNGtWXzE1LVpuTUt6SV8xTjFWb0REaTRndzBuMEpzbzI5aHl3aGl5QkxaUU5BY3NBSXJyLWxlanEzdFdV?oc=5</guid>
+            <pubDate>Wed, 03 Dec 2025 05:15:19 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 降息超百点后，美联储思考该如何停手，但分歧前所未有  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[野村证券上调印尼股票估值和增长政策]]></title>
@@ -156,11 +184,11 @@
             <description><![CDATA[[Bloomberg] 中国一波新石化工厂的建设引发了人们对大量出口的担忧，这将给其他已经陷入供应过剩困境的生产国带来压力。]]></description>
         </item>
         <item>
-            <title><![CDATA[印度尼西亚限制 IPO 订单规模以抑制股价波动]]></title>
+            <title><![CDATA[印度尼西亚考虑为市值低于 3.01 亿美元的 IPO 提供 20% 的自由流通量]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-03/indonesia-caps-ipo-order-sizes-to-curb-share-price-volatility</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-03/indonesia-caps-ipo-order-sizes-to-curb-share-price-volatility</guid>
             <pubDate>Wed, 03 Dec 2025 04:27:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 印度尼西亚监管机构对投资者在首次公开募股期间可以购买的股票数量设定了限制，以抑制价格波动。]]></description>
+            <description><![CDATA[[Bloomberg] 印度尼西亚计划为市值低于 5 万亿卢比（3.01 亿美元）寻求上市的公司设定 20% 的最低自由流通量，以抑制价格波动。]]></description>
         </item>
         <item>
             <title><![CDATA[香港火灾引发有关忽视警告的问题]]></title>
@@ -230,7 +258,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-12-03/ikea-s-palmquist-on-new-zealand-expansion-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-03/ikea-s-palmquist-on-new-zealand-expansion-video</guid>
             <pubDate>Wed, 03 Dec 2025 03:19:02 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 宜家英格卡集团 (Ikea Ingka Group) 全球市场经理 Mikael Palmquist 讨论了该家具公司进军新西兰的计划以及该地区的业务前景，该公司的第一家门店将于 12 月 4 日在奥克兰开业。 他与保罗·艾伦和艾薇儿·洪就“彭博社：亚洲贸易”进行了对话。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 宜家英格卡集团 (Ikea Ingka Group) 全球市场经理 Mikael Palmquist 讨论了该家具公司进军新西兰的计划及其对该地区的业务前景，其第一家门店将于 12 月 4 日在奥克兰开业。 他与保罗·艾伦和艾薇儿·洪就“彭博社：亚洲贸易”进行了对话。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[随着贸易恢复，多批美国大豆货物将运往中国]]></title>
@@ -261,18 +289,11 @@
             <description><![CDATA[[Reuters Business] 在线假日购物的强劲开局掩盖了美国消费者脆弱的迹象 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[债券延迟引发担忧，万科空头押注创十年新高]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-03/china-vanke-short-bets-hit-decade-high-as-bond-delay-fuels-angst</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-03/china-vanke-short-bets-hit-decade-high-as-bond-delay-fuels-angst</guid>
-            <pubDate>Wed, 03 Dec 2025 02:20:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在香港，对万科公司的看跌押注攀升至十年来的最高点，因为投资者押注该开发商股价的螺旋式下跌将在其令人震惊的债券支付延迟后延续。]]></description>
-        </item>
-        <item>
             <title><![CDATA[中国服务业活动增长放缓]]></title>
             <link>https://www.wsj.com/economy/central-banking/chinas-services-sector-activity-growth-slows-09b1f424</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/chinas-services-sector-activity-growth-slows-09b1f424</guid>
             <pubDate>Wed, 03 Dec 2025 02:17:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 根据周三发布的一份声明，RatingDog 一般服务采购经理人指数跌至 52.1，创下五个月来的最低水平。]]></description>
+            <description><![CDATA[[WSJ] 根据周三发布的一份声明，RatingDog 一般服务采购经理人指数跌至 52.1，创下五个月以来的最低水平。]]></description>
         </item>
         <item>
             <title><![CDATA[为新生儿提供 1,000 美元的“特朗普账户”，再加上为 10 岁及以下儿童提供的额外 250 美元，能否说服美国人生更多孩子？]]></title>
@@ -390,7 +411,7 @@
             <title><![CDATA[独家：联合利华支持的审计发现本杰瑞基金会在财务控制和治理方面存在缺陷 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUZPYVhlWGxPQ3Rtb19kVEFoSWxMSmpIWFJhNDJzaHg1d0RuSHc2ZVhJdEFKdlEybVk4MHNibWF0aU1QRE0yaU1qOGdETER4VjJ1V0ZHY1dsdE1nU1p5Rks5a2NCdjBlUjk4RGFJLS1DaGZITGZrQnNmVHcteVpEUzNIY3lTS2phdDFBWDI2MzNzak9QUDBHaW01a2NzdEh2NWdvTWtRVlN4UnFweU5ValBHdVYzODVyTnYwU3F5bHBEUVo3YWc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUZPYVhlWGxPQ3Rtb19kVEFoSWxMSmpIWFJhNDJzaHg1d0RuSHc2ZVhJdEFKdlEybVk4MHNibWF0aU1QRE0yaU1qOGdETER4VjJ1V0ZHY1dsdE1nU1p5Rks5a2NCdjBlUjk4RGFJLS1DaGZITGZrQnNmVHcteVpEUzNIY3lTS2phdDFBWDI2MzNzak9QUDBHaW01a2NzdEh2NWdvTWtRVlN4UnFweU5ValBHdVYzODVyTnYwU3F5bHBEUVo3YWc?oc=5</guid>
-            <pubDate>Wed, 03 Dec 2025 00:02:02 GMT</pubDate>
+            <pubDate>Wed, 03 Dec 2025 00:02:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：联合利华支持的审计发现本杰瑞基金会在财务控制和治理方面存在缺陷 路透]]></description>
         </item>
         <item>
@@ -461,7 +482,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-02/jd-com-s-supply-chain-technology-unit-seeks-up-to-424-million-in-hong-kong-ipo</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-02/jd-com-s-supply-chain-technology-unit-seeks-up-to-424-million-in-hong-kong-ipo</guid>
             <pubDate>Tue, 02 Dec 2025 22:22:04 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 京东集团的供应链技术部门已开始接受投资者在香港首次公开募股的订单，此次IPO可能筹集高达33亿港元（4.24亿美元）的资金，为两年多的上市努力画上句号。]]></description>
+            <description><![CDATA[[Bloomberg] 京东集团的供应链技术部门已开始接受投资者在香港首次公开募股的订单，该股可能筹集高达 33 亿港元（4.24 亿美元）的资金，为两年多的上市努力画上句号。]]></description>
         </item>
         <item>
             <title><![CDATA[为什么OpenAI要启动“红色警报”？英伟达是否也要亮红灯？图说AI竞争 - 华尔街见闻]]></title>
@@ -686,27 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmJzVWtVdzJKd0hpTmdQTHRucG9ZQXJ2R0RUWEMwaEdRdmlPQkpiUHJZRHRzUXNDWkRDd3B0QW9XR1g4NFZPTUtaNHBZRnQ3dW5qdmw5V29WbkxZWFdTbzU2WVlGMkJ5bWZyV2RUWXpGMWF4YkFtdmdUVzNYM0J5UmhsNlFPVTFhQ1h1bi1NdVBaWmptVHhISTlQM2xGWDBrTm1QQzNsb0sxU2VvYmdibQ?oc=5</guid>
             <pubDate>Tue, 02 Dec 2025 15:48:31 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着人工智能融资浪潮的临近，贝莱德转向看跌长期国债 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯官员警告卢布走强带来的挑战 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkVpc1ZreGVoVXZldVVBTGdGSk5tTTJHYXdGNGRaOTVLM1ZKaldIX1NKbVlieS1zOGVfdmhjczNuQ1BoVHVZQWtTLWZGbEpLNEpqUURBWHRkdUUyM0lqY3c5cE9qa19XNjAyc2FOQ0pKeGc5MzNsYU1DaEtVVk1PNTdTNm5oMmtWNUhjVWR6b1BQc2NUTFNTVG9GQ2lQYVNFWjhFXzNfV1NRWFdfM2lwaUJsam5oVTRMS2c?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkVpc1ZreGVoVXZldVVBTGdGSk5tTTJHYXdGNGRaOTVLM1ZKaldIX1NKbVlieS1zOGVfdmhjczNuQ1BoVHVZQWtTLWZGbEpLNEpqUURBWHRkdUUyM0lqY3c5cE9qa19XNjAyc2FOQ0pKeGc5MzNsYU1DaEtVVk1PNTdTNm5oMmtWNUhjVWR6b1BQc2NUTFNTVG9GQ2lQYVNFWjhFXzNfV1NRWFdfM2lwaUJsam5oVTRMS2c?oc=5</guid>
-            <pubDate>Tue, 02 Dec 2025 15:31:15 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 俄罗斯官员警告卢布走强带来的挑战 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[罗马尼亚批准法令控制卢克石油公司当地资产 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNdG1NTGxERHFIUnZnZFJYb0QzTzFTcEtGcHFET2RSWXB4NUlKVjdCVTlLN0U3dTdwMHBJdlVkTjlsNjlIRjdkRmRwV0pyTUMzclFtN19xZWJIZ3Y5Tkh6bTZvR0xDVGIxNFNPODNRcjFVY0piaFZzbFFiNy1Va091dmlFMFloT1c0ZGZvZ0tDQVZMeTBLaTVFUFRLNFNJTzhJYlpNaVRqWVV5UkdBZHc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxNdG1NTGxERHFIUnZnZFJYb0QzTzFTcEtGcHFET2RSWXB4NUlKVjdCVTlLN0U3dTdwMHBJdlVkTjlsNjlIRjdkRmRwV0pyTUMzclFtN19xZWJIZ3Y5Tkh6bTZvR0xDVGIxNFNPODNRcjFVY0piaFZzbFFiNy1Va091dmlFMFloT1c0ZGZvZ0tDQVZMeTBLaTVFUFRLNFNJTzhJYlpNaVRqWVV5UkdBZHc?oc=5</guid>
-            <pubDate>Tue, 02 Dec 2025 15:25:33 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 罗马尼亚批准法令控制卢克石油公司当地资产 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京访问印度寻求促进能源和国防出口 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTJUUGZLclpXcjBHbk5iRjNvZnBhY3pydE1obW5JNEx5NHdBb01RTWlxZHJhOE9aWDRuVTE1Wm9fMTJHVVY1NHYwR255SFJQV0ZwdW1wRU0xTC1UcmhWNERSRG5QdTZaMWNSb19WSUFVbTRmSFFXUVdRWXhHbzN1cVdMWk5vOUcxWmFVLWppVTlEVVVwWW1PM0JqMVlpbzZ5U04yTG5qWmtDeXJfd3NPdTJqRlAwZ2hQSmt3SHN0d1UzdGVZMVU0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTJUUGZLclpXcjBHbk5iRjNvZnBhY3pydE1obW5JNEx5NHdBb01RTWlxZHJhOE9aWDRuVTE1Wm9fMTJHVVY1NHYwR255SFJQV0ZwdW1wRU0xTC1UcmhWNERSRG5QdTZaMWNSb19WSUFVbTRmSFFXUVdRWXhHbzN1cVdMWk5vOUcxWmFVLWppVTlEVVVwWW1PM0JqMVlpbzZ5U04yTG5qWmtDeXJfd3NPdTJqRlAwZ2hQSmt3SHN0d1UzdGVZMVU0?oc=5</guid>
-            <pubDate>Tue, 02 Dec 2025 15:21:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 俄罗斯普京访问印度寻求促进能源和国防出口 - 路透中文网]]></description>
         </item>
     </channel>
 </rss>
