@@ -4,10 +4,31 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 04 Dec 2025 05:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 05:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[日本央行行长上田表示不确定他还会加息多少次]]></title>
+            <link>https://www.wsj.com/articles/bojs-ueda-says-unsure-how-many-more-rate-hikes-he-will-make-0835ea1d</link>
+            <guid isPermaLink="false">https://www.wsj.com/articles/bojs-ueda-says-unsure-how-many-more-rate-hikes-he-will-make-0835ea1d</guid>
+            <pubDate>Thu, 04 Dec 2025 05:34:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 日本央行行长上田一夫(Kazuo Ueda)表示，央行官员正在努力缩小中性利率的范围——该水平被视为与经济稳定一致。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase报告Polygon网络交易出现问题]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3111748</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3111748</guid>
+            <pubDate>Thu, 04 Dec 2025 05:33:28 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚股市上涨；截至收盘澳大利亚S&P/ASX200指数上涨0.27%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3111747</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3111747</guid>
+            <pubDate>Thu, 04 Dec 2025 05:30:20 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[美联储 12 月降息对于亚洲货币来说可能恰逢其时]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-04/fed-rate-cut-in-december-may-be-just-in-time-for-indian-rupee-philippine-peso</link>
@@ -108,32 +129,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[港股异动 | 禾赛-W(02525)再涨超6% 公司近期发布自研RISC-V激光雷达主控芯片费米C500]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3111696</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3111696</guid>
-            <pubDate>Thu, 04 Dec 2025 04:05:12 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[突破！慧尔康欣首次出口澳门——四价流感病毒亚单位疫苗助力澳门地区健康防护]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3111695</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3111695</guid>
-            <pubDate>Thu, 04 Dec 2025 04:05:11 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[关税使利率下降变得更加困难]]></title>
             <link>https://www.bloomberg.com/opinion/newsletters/2025-12-04/tariffs-are-making-rates-descent-a-lot-trickier</link>
             <guid isPermaLink="false">https://www.bloomberg.com/opinion/newsletters/2025-12-04/tariffs-are-making-rates-descent-a-lot-trickier</guid>
             <pubDate>Thu, 04 Dec 2025 04:00:15 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 各国央行通过降低高利率避免了灾难，但新兴市场做得最好。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长上田表示不确定他还会加息多少次]]></title>
-            <link>https://www.wsj.com/articles/bojs-ueda-says-unsure-how-many-more-rate-hikes-he-will-make-0835ea1d</link>
-            <guid isPermaLink="false">https://www.wsj.com/articles/bojs-ueda-says-unsure-how-many-more-rate-hikes-he-will-make-0835ea1d</guid>
-            <pubDate>Thu, 04 Dec 2025 03:51:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 行长上田一夫表示，日本央行仍在努力缩小中性利率区间，该水平被视为与经济稳定一致。]]></description>
         </item>
         <item>
             <title><![CDATA[日本自 2019 年以来最强劲的 30 年期债券发行缓解了日本央行的紧张情绪]]></title>
@@ -143,11 +143,11 @@
             <description><![CDATA[[Bloomberg] 日本30年期债券发行的需求达到2019年以来最强劲的水平，这表明投资者最终因收益率上升而退出市场，为准备加息的市场带来了一些喘息的机会。]]></description>
         </item>
         <item>
-            <title><![CDATA[中国长期债券期货在关键政策会议召开前下滑]]></title>
+            <title><![CDATA[重要会议召开之际中国30年期债券收益率接近一年高点]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-04/china-s-long-bond-futures-slide-ahead-of-key-policy-meetings</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-04/china-s-long-bond-futures-slide-ahead-of-key-policy-meetings</guid>
             <pubDate>Thu, 04 Dec 2025 03:34:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于投资者撤出固定收益基金，中国长期债券期货暴跌，凸显了北京高层政府会议之前的紧张情绪，会议可能会影响明年的政策。]]></description>
+            <description><![CDATA[[Bloomberg] 随着投资者撤出固定收益基金，中国30年期债券收益率正逼近一年来的最高水平，凸显了北京高层政府会议之前的紧张情绪，会议可能会影响明年的政策。]]></description>
         </item>
         <item>
             <title><![CDATA[高盛表示铜价突破 11,000 美元不会持续太久]]></title>
@@ -476,7 +476,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-03/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-03/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Wed, 03 Dec 2025 22:27:22 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 日本资产周四成为亚洲的焦点。 美国数据提高了美联储下周降息的可能性，而 30 年期政府债券的出售吸引了 2019 年以来最强劲的需求，该国股市领涨区域涨幅。]]></description>
+            <description><![CDATA[[Bloomberg] 日本资产周四成为亚洲的焦点。 美国数据提高了美联储下周降息的可能性，同时出售 30 年期政府债券吸引了 2019 年以来最强劲的需求，该国股市领涨该地区。]]></description>
         </item>
         <item>
             <title><![CDATA[新交所表示不会探索或考虑竞购 Cboe Australia]]></title>
@@ -619,6 +619,13 @@
             <description><![CDATA[[Reuters Business] 墨西哥政府提高最低工资并缩短每周工作时间 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[《辐射》扩展了第二季的“一切” - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXRrNmRRT3EtMEc3bm94THhTNm9FZ2JjNFlaY2NMT0ZyUFktdVJRVXRadDRQQlRKTF8tNXpFSmh3SGJXby12Vk5UaWFZaXR4S0c1eHJNdlNxTHlNVHV2b3FLRWl0RnMyZDVhRmZQNkRCRGszc0FWT2Rnd2VQQUxBTEpZdjFwX0lMOWlVRXBpS21tQTVKNTVyd2xjaWFKcXZVamZhU2d5MEo?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXRrNmRRT3EtMEc3bm94THhTNm9FZ2JjNFlaY2NMT0ZyUFktdVJRVXRadDRQQlRKTF8tNXpFSmh3SGJXby12Vk5UaWFZaXR4S0c1eHJNdlNxTHlNVHV2b3FLRWl0RnMyZDVhRmZQNkRCRGszc0FWT2Rnd2VQQUxBTEpZdjFwX0lMOWlVRXBpS21tQTVKNTVyd2xjaWFKcXZVamZhU2d5MEo?oc=5</guid>
+            <pubDate>Wed, 03 Dec 2025 18:13:41 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 《辐射》扩展了第二季的“一切”路透社]]></description>
+        </item>
+        <item>
             <title><![CDATA[零售商竭尽全力抵消通胀和关税拖累 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzF4ZTZzQmVRZXpJY2lRaHNGeDMyeUQ0bEU1dXZHM0RTeXlMbXp3azNpZXgyczNsRDlXTk9kNThwaWVBMEc4d3pTTHdwdkF6dy1ycnVQbjhYaTlOTTVnSG1SSm9adENycHVhOGYybUhpWmhobWZrX0dfNGxub3p0X0NDQjNSVlpTM2VYdWxfa0gzLVFTNWhGaTY1Yl9uSDdkR3hoWkFTMFFERWE2LVJFU0VYSlY4UUVPZUE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzF4ZTZzQmVRZXpJY2lRaHNGeDMyeUQ0bEU1dXZHM0RTeXlMbXp3azNpZXgyczNsRDlXTk9kNThwaWVBMEc4d3pTTHdwdkF6dy1ycnVQbjhYaTlOTTVnSG1SSm9adENycHVhOGYybUhpWmhobWZrX0dfNGxub3p0X0NDQjNSVlpTM2VYdWxfa0gzLVFTNWhGaTY1Yl9uSDdkR3hoWkFTMFFERWE2LVJFU0VYSlY4UUVPZUE?oc=5</guid>
@@ -701,13 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3BKdndTUUtPOVBtbGVsbGdwYl9wVXU3ajBJdWF2UV9mel83LVlrVnBSY0ZFQTE1UnZfMVlYSDBCNHM3X2tsc19Sa29Vd2tDQ2F6ZWI4QlZoa1M2ZnNqeVNxaDU0eHMwdHdEOGl4WGtiaDVQWHVFYk1neVh0d1Fpc0k4eXVrd2ljQnZQd0Q4YVp4VlNLWTFCd092THF6VXRqTVE?oc=5</guid>
             <pubDate>Wed, 03 Dec 2025 16:30:39 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美联储数据显示央行已停止亏损 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧盟拟限制永磁体移民出口]]></title>
-            <link>https://www.ftchinese.com/story/001108348</link>
-            <guid isPermaLink="false">https://www.ftchinese.com/story/001108348</guid>
-            <pubDate>Wed, 03 Dec 2025 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] 欧盟表示将满足近期提出限制永磁体出口，通过恢复再利用来五分的需求之一。所得是其降低关键矿产对华依赖计划的一部分。]]></description>
         </item>
     </channel>
 </rss>
