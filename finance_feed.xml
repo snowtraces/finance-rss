@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 05 Dec 2025 18:49:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 19:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国银行监管机构放松危机后对杠杆贷款的限制]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-05/us-bank-regulators-ease-post-crisis-curbs-on-leveraged-loans</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-05/us-bank-regulators-ease-post-crisis-curbs-on-leveraged-loans</guid>
+            <pubDate>Fri, 05 Dec 2025 18:58:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在私人信贷行业快速增长以及银行家抱怨监管过多而被边缘化之际，美国银行监管机构正在放松奥巴马时代限制杠杆贷款的规定。]]></description>
+        </item>
         <item>
             <title><![CDATA[Polymarket 正为自己 5900 万美元的赌注而苦苦挣扎]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-05/polymarket-is-struggling-with-a-59-million-bet-about-itself</link>
@@ -35,6 +42,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-05/real-yield-12-5-2025-video</guid>
             <pubDate>Fri, 05 Dec 2025 18:30:26 GMT</pubDate>
             <description><![CDATA[[Bloomberg] “彭博真实收益率”重点介绍了您需要了解的影响市场的新闻。 今天的嘉宾：嘉信理财固定收益研究和策略主管科林·马丁、沃尔夫研究首席经济学家斯蒂芬妮·罗斯、太平洋投资管理公司多部门信贷投资组合经理索纳利·皮尔和巴克莱全球研究主管布拉德·罗格夫。   （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普战略文件重提门罗主义，猛烈抨击欧洲 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTh1WVpuTFFicjhKZ2dpaF9XWHhBclF5dW16YnhMWTVmdjlNc3hIMG0wSVdnLUhjUEtydG1XOVNOM2JfaFpQOFpjbWx4UU1xVWNEcG5INlVscktzNDJMbWFMYzBvbC1NU2JlNjQ0bWFQcEJEOU1uaVZGWEsxX09WUG91M0kwYkQxc2hFQ3ZrRDl4VFJSSzFRMFB2c1JQd2lvT3dWYmFvLVlia0lYQnp1dFd5SQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTh1WVpuTFFicjhKZ2dpaF9XWHhBclF5dW16YnhMWTVmdjlNc3hIMG0wSVdnLUhjUEtydG1XOVNOM2JfaFpQOFpjbWx4UU1xVWNEcG5INlVscktzNDJMbWFMYzBvbC1NU2JlNjQ0bWFQcEJEOU1uaVZGWEsxX09WUG91M0kwYkQxc2hFQ3ZrRDl4VFJSSzFRMFB2c1JQd2lvT3dWYmFvLVlia0lYQnp1dFd5SQ?oc=5</guid>
+            <pubDate>Fri, 05 Dec 2025 18:22:56 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 特朗普战略文件重提门罗主义，猛烈抨击欧洲 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国顾问取消对大多数儿童的乙型肝炎疫苗建议，肯尼迪取得重大胜利 - 路透中文网]]></title>
@@ -394,13 +408,6 @@
             <description><![CDATA[[Reuters Business] 消息人士称，印度ONGC接近保留俄罗斯Sakhalin-1项目20%的股份 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[比特币将在十年内首次从股票中分离出来]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-05/bitcoin-is-breaking-from-stock-rally-for-first-time-in-a-decade</guid>
-            <pubDate>Fri, 05 Dec 2025 14:10:41 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 根据彭博社汇编的数据，标准普尔 500 指数在 2025 年上涨了 16% 以上，而比特币则下跌了 3%，这是自 2014 年以来首次出现股票上涨而代币下跌的情况。]]></description>
-        </item>
-        <item>
             <title><![CDATA[乌克兰袭击另一家俄罗斯炼油厂和小港口]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-05/ukraine-says-it-attacked-rosneft-syzran-refinery-azov-sea-port</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-05/ukraine-says-it-attacked-rosneft-syzran-refinery-azov-sea-port</guid>
@@ -594,7 +601,7 @@
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGRZTjJiYVZObFl4bWd1Zk5fNXRGdC1ORlFmTkYtSVprM2tUc3VydldsN0NIaUFlel9HTVFxMDRQLU1iX3gwaTYxeWg0QVdzQlk3Y0dpSmRHbmh5NmpPd1lBcHR5cE9naDB3UG51eW8zRHA4dkZtSUtpUzQxX29WV3l4cHNSb0RMWUtad2xrNzFwc1NRSXltS2lCcW9scjA3Zkp2dDA4Q3lCMURtXzg4RGhxYmJBeTJISGItbFhzSExmcVU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGRZTjJiYVZObFl4bWd1Zk5fNXRGdC1ORlFmTkYtSVprM2tUc3VydldsN0NIaUFlel9HTVFxMDRQLU1iX3gwaTYxeWg0QVdzQlk3Y0dpSmRHbmh5NmpPd1lBcHR5cE9naDB3UG51eW8zRHA4dkZtSUtpUzQxX29WV3l4cHNSb0RMWUtad2xrNzFwc1NRSXltS2lCcW9scjA3Zkp2dDA4Q3lCMURtXzg4RGhxYmJBeTJISGItbFhzSExmcVU?oc=5</guid>
             <pubDate>Fri, 05 Dec 2025 10:28:55 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 空中客车公司确认 11 月份交付量因工业故障而下降 路透]]></description>
+            <description><![CDATA[[Reuters Business] 空客证实 11 月交付量因工业故障而下降 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[独家：萨博与空客在无人驾驶战斗机技术方面展开合作 - 路透中文网]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdWwxVk9KVjB5SWJKeF9fQ3lpWGxReUMxRXRpbXZKWHdKWHhZaklqLVFwVmUwZDRseGlGRFZVaGViQ3ZZbmxLTlN5a1VXT0NHYTNhcDB0ZDluaUV1TkRBZkxUYkd1T08wQkNib2FRQ3UzcEUyY0laTDFLWDNyWEZlX1p2M1NzcnltNnVGMXFUaElGX2xqUlZxMlBzRHdTWWpsTnNWWHdxR3dGaWpnczQ2RTZ1QUM2dEhmV2NSMWJnWmVVc3gzWXJTeE54cDJaZHB4M1BR?oc=5</guid>
             <pubDate>Fri, 05 Dec 2025 08:09:39 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 亚洲强大的股权交易渠道将在 2026 年受到人工智能泡沫担忧的考验 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[保险板块大涨！风险因子再度下调，壮大“耐心资本”，险资入市进一步打开空间 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kOUdWVDdORXNPR0oxc1JYUW85RU1udG43MU9ZYlh0ZV9UWGQzdEJBZEg2dTFLM3p2cUVqa21JX3Nhb04xLUxvY1p5RmFEcTkzZXJV?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kOUdWVDdORXNPR0oxc1JYUW85RU1udG43MU9ZYlh0ZV9UWGQzdEJBZEg2dTFLM3p2cUVqa21JX3Nhb04xLUxvY1p5RmFEcTkzZXJV?oc=5</guid>
-            <pubDate>Fri, 05 Dec 2025 07:53:41 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 保险板块大涨！风险因子再度下调，壮大“耐心资本”，险资入市进一步打开空间  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
