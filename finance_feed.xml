@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 06 Dec 2025 22:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 23:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[环球下周看点：美联储议息时刻 甲骨文、博通披露财报]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3115542</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3115542</guid>
+            <pubDate>Sat, 06 Dec 2025 23:05:33 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[希腊发生里氏4.8级地震，暂无受损报告 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE85LVFRdUJNLTJqcTZ0RThzaVJHOTRiMkV6eV9LaG9zLUhFTnRpSUpEaVFld20wUXhpQkRNc0F2QnNTcWJMMExSNUdhZDlEb0UzTFNxT0Y0czd6dzhwdUkyVW81ekpqVlJqZ2R2UUJQUzQwUW1MVEdwQlNnd2MwSFF6eHRoLXcyNE5CbWRHdzVfYjRPV1J2bjBpUVNkUUVSd3NxVXNHelE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE85LVFRdUJNLTJqcTZ0RThzaVJHOTRiMkV6eV9LaG9zLUhFTnRpSUpEaVFld20wUXhpQkRNc0F2QnNTcWJMMExSNUdhZDlEb0UzTFNxT0Y0czd6dzhwdUkyVW81ekpqVlJqZ2R2UUJQUzQwUW1MVEdwQlNnd2MwSFF6eHRoLXcyNE5CbWRHdzVfYjRPV1J2bjBpUVNkUUVSd3NxVXNHelE?oc=5</guid>
+            <pubDate>Sat, 06 Dec 2025 22:41:13 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 希腊发生里氏 4.8 级地震，暂无受损报告 路透]]></description>
+        </item>
         <item>
             <title><![CDATA[赫格斯在里根国防论坛上发表讲话]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-12-06/hegseth-speaks-at-reagan-national-defense-forum-video</link>
@@ -35,13 +49,6 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3115525</guid>
             <pubDate>Sat, 06 Dec 2025 21:20:17 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GFZ称希腊发生里氏6.36级地震 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE85LVFRdUJNLTJqcTZ0RThzaVJHOTRiMkV6eV9LaG9zLUhFTnRpSUpEaVFld20wUXhpQkRNc0F2QnNTcWJMMExSNUdhZDlEb0UzTFNxT0Y0czd6dzhwdUkyVW81ekpqVlJqZ2R2UUJQUzQwUW1MVEdwQlNnd2MwSFF6eHRoLXcyNE5CbWRHdzVfYjRPV1J2bjBpUVNkUUVSd3NxVXNHelE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE85LVFRdUJNLTJqcTZ0RThzaVJHOTRiMkV6eV9LaG9zLUhFTnRpSUpEaVFld20wUXhpQkRNc0F2QnNTcWJMMExSNUdhZDlEb0UzTFNxT0Y0czd6dzhwdUkyVW81ekpqVlJqZ2R2UUJQUzQwUW1MVEdwQlNnd2MwSFF6eHRoLXcyNE5CbWRHdzVfYjRPV1J2bjBpUVNkUUVSd3NxVXNHelE?oc=5</guid>
-            <pubDate>Sat, 06 Dec 2025 21:16:23 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] GFZ 称希腊发生里氏 6.36 级地震 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国地质调查局称阿拉斯加州雅库塔特发生里氏 7 级地震 - 路透]]></title>
@@ -231,13 +238,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNXJUR3BOMFc3bG9vQk9FalJtaTE1czE3MV9YQXdhUW1PZUJOLWU2RWs2LXFEbUtOMWFpQmxaYWZxV2t0MjR2MERiRW9JS0lwdFhUSXBWbWlTMkFkcDh5dWpyLWZyWkwyeWNvWjBTY29IVmNfSks1SGdfOUE0amI2NUdzdHNOR3psV3hsMzF6bWVoM2EyN1VUeFJIUXFZdzZRTkFtNFZJdXBlZHJSOEFrM2Q2M3RaUHJhNGRGaGVaWG5kZ2NqeF9yMUVZWTdZZG5SSDJ2eg?oc=5</guid>
             <pubDate>Sat, 06 Dec 2025 12:16:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 土耳其外长表示，土耳其和美国将“很快”找到取消 CAATSA 制裁的方法 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[价值稳航・鹭飞全球 2025财联社上市公司价值引领大会暨第六届精英董秘之夜圆满成功]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3115498</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3115498</guid>
-            <pubDate>Sat, 06 Dec 2025 12:05:35 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[国际原子能机构称乌克兰扎波罗热核电站一夜之间暂时断电 - 路透中文网]]></title>
@@ -611,7 +611,7 @@
             <description><![CDATA[[Reuters Business] 百威英博将以 4.9 亿美元收购饮料制造商 BeatBox 85% 的股份 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美联储降息信号和供应担忧导致油价攀升至两周高点 - 路透中文网]]></title>
+            <title><![CDATA[美联储降息信号和供应担忧导致油价攀升至两周高位 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3l3c2J5QUpqTlI4cVJrc05qUXNHZmxJNlhfcmR3anlQTlRZVWphUHJQaFFZbzdCSncyODI0OUh6ak1FUld6VkExRnBMWDZ1WmN0YkhvMzR5MV9RT3VBNE1SenZGQ1hqVkNqTG92TG94OXhLZGxuSUh0bUp0OERadE1iazJxckxpM3Y0ZlFSRF85Y2pHbWZ2WlJiRUhUbU8zcTBQUW9ubUJ3UUlESVdzT19laHc1d0xGRDh0Zmx2TXdGVUxjeGdv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3l3c2J5QUpqTlI4cVJrc05qUXNHZmxJNlhfcmR3anlQTlRZVWphUHJQaFFZbzdCSncyODI0OUh6ak1FUld6VkExRnBMWDZ1WmN0YkhvMzR5MV9RT3VBNE1SenZGQ1hqVkNqTG92TG94OXhLZGxuSUh0bUp0OERadE1iazJxckxpM3Y0ZlFSRF85Y2pHbWZ2WlJiRUhUbU8zcTBQUW9ubUJ3UUlESVdzT19laHc1d0xGRDh0Zmx2TXdGVUxjeGdv?oc=5</guid>
             <pubDate>Fri, 05 Dec 2025 20:20:37 GMT</pubDate>
@@ -674,13 +674,6 @@
             <description><![CDATA[[WSJ] 加拿大11月失业率大幅下降，招聘连续第三个月超出预期，无视因美国关税削弱经济而导致大范围裁员的担忧。]]></description>
         </item>
         <item>
-            <title><![CDATA[NHTSA 称福特召回近 109,000 辆汽车 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQZjFmMWZSRHNVSjJpVlA0d0xTYzc5UVpHTE9IWGdncjVqNXRGeTdDa1BfbUt3UUdrN0tsZ0FoUnZ5d01CV1VLaldPbml2SlY2SjhVR2FGRFBQT1BWUnQ4VDRLS1JYd1J6N1lMSTdWcHJaSWlacklwT0o3MjVkY3c0bWpDS2VlczJqc1BNRm1USUhUSG92d255NjNSd2o2YWlJREd3NGlsUkJnV2x4ZzNGMzVB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQZjFmMWZSRHNVSjJpVlA0d0xTYzc5UVpHTE9IWGdncjVqNXRGeTdDa1BfbUt3UUdrN0tsZ0FoUnZ5d01CV1VLaldPbml2SlY2SjhVR2FGRFBQT1BWUnQ4VDRLS1JYd1J6N1lMSTdWcHJaSWlacklwT0o3MjVkY3c0bWpDS2VlczJqc1BNRm1USUhUSG92d255NjNSd2o2YWlJREd3NGlsUkJnV2x4ZzNGMzVB?oc=5</guid>
-            <pubDate>Fri, 05 Dec 2025 16:58:04 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] NHTSA 称福特召回近 109,000 辆汽车 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[高盛表示，人工智能信贷担忧在投资级别和高收益方面表现不同 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHdxSkRBUjF3LVFiM2lZNGNKOENMeE91RHBBVWJEOVI2eXhtQWF6bG5VaC1tNlMwRUFqY3RiXzRoTnhRX1h3UFU4MHVaV0FucF91SDhmQm9CdV9VTGlXVmtxSXY3OUZHcUFyQmFTMVpDdEpoaDVsbC03MlVZcDQ0dWc1bGVhMWFyWlpMS2RBTklPdG5yN0Y3cy03aUY1SVc1SmNEc29fNnBGcnc5Z2NnU3Z0N2FxaklZLXA3amRNdDY?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHdxSkRBUjF3LVFiM2lZNGNKOENMeE91RHBBVWJEOVI2eXhtQWF6bG5VaC1tNlMwRUFqY3RiXzRoTnhRX1h3UFU4MHVaV0FucF91SDhmQm9CdV9VTGlXVmtxSXY3OUZHcUFyQmFTMVpDdEpoaDVsbC03MlVZcDQ0dWc1bGVhMWFyWlpMS2RBTklPdG5yN0Y3cy03aUY1SVc1SmNEc29fNnBGcnc5Z2NnU3Z0N2FxaklZLXA3amRNdDY?oc=5</guid>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2025/12/05/bitcoin-digital-gold-crypto-store-of-value.html</guid>
             <pubDate>Fri, 05 Dec 2025 15:34:25 GMT</pubDate>
             <description><![CDATA[[CNBC] 比特币从创纪录的价格大幅下跌引发了人们对加密货币与更广泛市场的相关性以及它在投资组合中真正代表什么的质疑。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储青睐的通胀指标显示 9 月趋势温和]]></title>
+            <link>https://www.wsj.com/economy/central-banking/feds-favored-inflation-gauge-shows-moderate-september-trend-531e6fb2</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/feds-favored-inflation-gauge-shows-moderate-september-trend-531e6fb2</guid>
+            <pubDate>Fri, 05 Dec 2025 15:28:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 美联储9月份首选通胀指标保持在3%以下，并表明物价环比温和上涨不太可能阻止美联储下周会议考虑降息。]]></description>
         </item>
     </channel>
 </rss>
