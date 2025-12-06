@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 06 Dec 2025 13:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 14:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[感恩节的交易冲刺帮助 Netflix 赢得了华纳兄弟。]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-06/how-netflix-beat-paramount-to-win-warner-bros-takeover-deal</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-06/how-netflix-beat-paramount-to-win-warner-bros-takeover-deal</guid>
+            <pubDate>Sat, 06 Dec 2025 13:39:45 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Netflix Inc. 与华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 达成交易的计划在感恩节前后开始成形。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中证协新一届领导班子亮相，国泰海通董事长朱健当选会长]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3115512</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3115512</guid>
+            <pubDate>Sat, 06 Dec 2025 13:35:41 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[破13500元！有机硅DMC提前完成涨价目标 行业Q4利润有望回升]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3115506</link>
@@ -128,13 +142,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[国家网信办：重要数据网络数据处理者应每年开展风险评估]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3115478</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3115478</guid>
-            <pubDate>Sat, 06 Dec 2025 08:35:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[在西班牙和意大利，银行推动期待已久的股市复苏]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-06/in-spain-and-italy-banks-drive-a-long-awaited-stocks-recovery</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-06/in-spain-and-italy-banks-drive-a-long-awaited-stocks-recovery</guid>
@@ -208,7 +215,7 @@
             <title><![CDATA[特斯拉在欧洲推出低成本 Model 3 车型 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUZvZjBsd0M2QlRDZzB0SnMtTWswZFJFQ3p6cHQ1QXZrc2ltUWt5WnQzSURIeDVqQ2ZFWDdkUmVVSHhYMG9UOHFLQkxmR0lqMEtzVk9Ta3h2YjZoWi13M05NNnN3aUt0V1FoNGJyZDJGWGZzNGEyRHJROEFFQUdIN1U0MVNxeEtGc3dNeEs5TkxlbnlpcmpQTlpGZm8xcGt3LTF0RXRINUJuWW8wb2R2cVNn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUZvZjBsd0M2QlRDZzB0SnMtTWswZFJFQ3p6cHQ1QXZrc2ltUWt5WnQzSURIeDVqQ2ZFWDdkUmVVSHhYMG9UOHFLQkxmR0lqMEtzVk9Ta3h2YjZoWi13M05NNnN3aUt0V1FoNGJyZDJGWGZzNGEyRHJROEFFQUdIN1U0MVNxeEtGc3dNeEs5TkxlbnlpcmpQTlpGZm8xcGt3LTF0RXRINUJuWW8wb2R2cVNn?oc=5</guid>
-            <pubDate>Sat, 06 Dec 2025 07:32:00 GMT</pubDate>
+            <pubDate>Sat, 06 Dec 2025 07:32:03 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 特斯拉在欧洲推出低成本 Model 3 车型 路透]]></description>
         </item>
         <item>
@@ -240,6 +247,13 @@
             <description><![CDATA[[Reuters Business] 独家：欧盟、七国集团考虑禁止俄罗斯石油出口海运服务并取消价格上限 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[特朗普签署备忘录，使美国儿童疫苗与其他某些国家保持一致 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNUNiR0x2dkdyMy13N3E0bkdkMTA1NEJXZWFRdnBNSUFZVnRoSGVGd0xRU2ZCNUpRTjAwNTE1U1lwbWpxNWZKUXp4cjFDWVdrd3E0T0dlWXFQLTVBa3M5VElYZk1rTEtWUUpTbnByVFc0akRGaVctQmR4c0RJT3BBSTBCT205Ujg5RXoybWxsb1JjUmFqZ055VGdLNUFJZTBNLWFPLV9IMUU4YkhaelNUeUJqQ0pGazlTeWthMFlCbURjSTFvNTREVXpXT2pzYmdTZ2F0SUNWV08?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNUNiR0x2dkdyMy13N3E0bkdkMTA1NEJXZWFRdnBNSUFZVnRoSGVGd0xRU2ZCNUpRTjAwNTE1U1lwbWpxNWZKUXp4cjFDWVdrd3E0T0dlWXFQLTVBa3M5VElYZk1rTEtWUUpTbnByVFc0akRGaVctQmR4c0RJT3BBSTBCT205Ujg5RXoybWxsb1JjUmFqZ055VGdLNUFJZTBNLWFPLV9IMUU4YkhaelNUeUJqQ0pGazlTeWthMFlCbURjSTFvNTREVXpXT2pzYmdTZ2F0SUNWV08?oc=5</guid>
+            <pubDate>Sat, 06 Dec 2025 07:23:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 特朗普签署备忘录，使美国儿童疫苗与其他某些国家保持一致 - 路透中文网]]></description>
+        </item>
+        <item>
             <title><![CDATA[从“伊卡洛斯错误”到有缺陷的面板：空客计算依赖单一型号的成本 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzFxT0xEUUU3X2ZrdDBZa0UzbkJHX2dxX1lpRFBEUmtEcTVUUEZMaF9wUUxOWVotM29HVDMzT3B6cnI5SW1Xbk5UZno3X25HYjF1R0VaSHN5OWhYWHlVTDhUVnI0aFpST0trRDhQaDAwTXB0b1kwTEwtUklSU3dnSDRBNkczMXBrZWdqTzk1M0xKYTJiNW4ybjhydW1ITThlNEFmUE1LWnd1WGt6ZFpTSENFdURJR3RfUkxTUW5YcC1HN0VyV1E?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzFxT0xEUUU3X2ZrdDBZa0UzbkJHX2dxX1lpRFBEUmtEcTVUUEZMaF9wUUxOWVotM29HVDMzT3B6cnI5SW1Xbk5UZno3X25HYjF1R0VaSHN5OWhYWHlVTDhUVnI0aFpST0trRDhQaDAwTXB0b1kwTEwtUklSU3dnSDRBNkczMXBrZWdqTzk1M0xKYTJiNW4ybjhydW1ITThlNEFmUE1LWnd1WGt6ZFpTSENFdURJR3RfUkxTUW5YcC1HN0VyV1E?oc=5</guid>
@@ -250,7 +264,7 @@
             <title><![CDATA[独家：官员称美国为欧洲主导的北约防御设定了2027年最后期限 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1dxdVFDQlVyRXJtTzBZZGc2NG8zRTdQOXRpVFRWTzUyNG1VdFQ1d0ZELVZSaG0xVnFtM05LRG10TmJKQlhLSkJINW9CWV80blY0M3JSbWc3dlQ1M1dyYTNpeWdHZG54UmoyclBlT2VoSVY3RmNWZk5NM25sbDhNNDRYZ1RuRU5rb1RscEN0ZjI2Sm1hbVR6aFVMNjFfbXItdlo2VlFfdkRScU5KMHpHQjB2VTZxRmtQR2d6SFpfdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1dxdVFDQlVyRXJtTzBZZGc2NG8zRTdQOXRpVFRWTzUyNG1VdFQ1d0ZELVZSaG0xVnFtM05LRG10TmJKQlhLSkJINW9CWV80blY0M3JSbWc3dlQ1M1dyYTNpeWdHZG54UmoyclBlT2VoSVY3RmNWZk5NM25sbDhNNDRYZ1RuRU5rb1RscEN0ZjI2Sm1hbVR6aFVMNjFfbXItdlo2VlFfdkRScU5KMHpHQjB2VTZxRmtQR2d6SFpfdw?oc=5</guid>
-            <pubDate>Sat, 06 Dec 2025 07:09:57 GMT</pubDate>
+            <pubDate>Sat, 06 Dec 2025 07:09:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：官员称，美国为欧洲主导的北约防御设定了 2027 年最后期限 路透]]></description>
         </item>
         <item>
@@ -506,13 +520,6 @@
             <description><![CDATA[[Bloomberg] 欧洲仍有大量杠杆作用]]></description>
         </item>
         <item>
-            <title><![CDATA[殷拓寻求平息投资者对新收费策略的焦虑]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-05/eqt-seeks-to-quell-investor-anxiety-over-new-fee-strategy</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-05/eqt-seeks-to-quell-investor-anxiety-over-new-fee-strategy</guid>
-            <pubDate>Fri, 05 Dec 2025 21:56:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 欧洲私募股权公司 EQT 正在努力平息投资者的担忧，他们担心该公司将开始向他们收取与该公司一起投资特定交易的费用。]]></description>
-        </item>
-        <item>
             <title><![CDATA[SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jMnUwUFlYZFZDRmZvbzA5N1NSZmlZTEpDUi1qYmxnQ3B4TXQtVU50a2tvak54Rkdvbk9neFJJbGY4ZUFCUTJtNG42Qks3dkxZQVJV?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jMnUwUFlYZFZDRmZvbzA5N1NSZmlZTEpDUi1qYmxnQ3B4TXQtVU50a2tvak54Rkdvbk9neFJJbGY4ZUFCUTJtNG42Qks3dkxZQVJV?oc=5</guid>
@@ -527,7 +534,7 @@
             <description><![CDATA[[Reuters Business] 百威英博将以 4.9 亿美元收购饮料制造商 BeatBox 85% 的股份 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美联储降息信号和供应担忧导致油价攀升至两周高点 - 路透中文网]]></title>
+            <title><![CDATA[美联储降息信号和供应担忧导致油价攀升至两周高位 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3l3c2J5QUpqTlI4cVJrc05qUXNHZmxJNlhfcmR3anlQTlRZVWphUHJQaFFZbzdCSncyODI0OUh6ak1FUld6VkExRnBMWDZ1WmN0YkhvMzR5MV9RT3VBNE1SenZGQ1hqVkNqTG92TG94OXhLZGxuSUh0bUp0OERadE1iazJxckxpM3Y0ZlFSRF85Y2pHbWZ2WlJiRUhUbU8zcTBQUW9ubUJ3UUlESVdzT19laHc1d0xGRDh0Zmx2TXdGVUxjeGdv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3l3c2J5QUpqTlI4cVJrc05qUXNHZmxJNlhfcmR3anlQTlRZVWphUHJQaFFZbzdCSncyODI0OUh6ak1FUld6VkExRnBMWDZ1WmN0YkhvMzR5MV9RT3VBNE1SenZGQ1hqVkNqTG92TG94OXhLZGxuSUh0bUp0OERadE1iazJxckxpM3Y0ZlFSRF85Y2pHbWZ2WlJiRUhUbU8zcTBQUW9ubUJ3UUlESVdzT19laHc1d0xGRDh0Zmx2TXdGVUxjeGdv?oc=5</guid>
             <pubDate>Fri, 05 Dec 2025 20:20:37 GMT</pubDate>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVNiLTktemIzUFdtZnR4a2NiV1FZLS1ZVEdhSEFPRnpzLVlXY2RKd3MtemxUNm1tMjJCVlpyeXJWeF9mblp4eFg0WlVHYXdCckZHQVRWNmhGMjdZVGVDUnJFeWxXUDhjeEZWWmJ4ZXFUYmtzNE01M2ljNXZTX1lEUEdHSU9tUDVSVUxybHhsX0hNWEVZbk9JbnpMcW1DYXR3OWJ2SXRRQ3VTMDEz?oc=5</guid>
             <pubDate>Fri, 05 Dec 2025 13:19:31 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 致命气旋削弱了斯里兰卡的旅游旺季 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[损失 2.08 亿美元：随着公司更名为 Willow Wealth，Yieldstreet 投资者遭受更多损失]]></title>
-            <link>https://www.cnbc.com/2025/12/05/yieldstreet-investors-losses-willow-wealth-rebrand.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/12/05/yieldstreet-investors-losses-willow-wealth-rebrand.html</guid>
-            <pubDate>Fri, 05 Dec 2025 13:15:57 GMT</pubDate>
-            <description><![CDATA[[CNBC] Yieldstreet 正试图通过更名为 Willow Wealth 来摆脱陷入困境的记录，而客户却对其仍在不断出现的资金崩溃感到震惊。]]></description>
         </item>
     </channel>
 </rss>
