@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 06 Dec 2025 09:39:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 10:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[意大利监管机构排除了 MPS-Mediobanca 投资者协议：独家]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-06/italy-regulator-ruled-out-investor-pact-in-mps-mediobanca-sole</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-06/italy-regulator-ruled-out-investor-pact-in-mps-mediobanca-sole</guid>
+            <pubDate>Sat, 06 Dec 2025 10:01:28 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 据《Il Sole 24 Ore》报道，意大利市场监管机构排除了锡耶纳银行 (Banca Monte dei Paschi di Siena SpA) 及其部分股东在竞购 Mediobanca SpA 时存在未公开的投资者协议的可能性。]]></description>
+        </item>
         <item>
             <title><![CDATA[欧洲央行雷恩告诉米兰金融通胀更有可能缓解]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-06/ecb-s-rehn-tells-milano-finanza-inflation-is-more-likely-to-ease</link>
@@ -135,6 +142,20 @@
             <description><![CDATA[[Bloomberg] 印度财政部长 Nirmala Sitharaman 表示，印度的增长势头将持续下去，政府预计截至 3 月份的财政年度经济将增长至少 7%。]]></description>
         </item>
         <item>
+            <title><![CDATA[第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcnZ5aXlXVjdta0poSDlkNXNEV0JKeS1JRHVUMFkzeEZ1WVpjdTNnNDVGZlM0RTFZcGM5VklzcHJaN2Y1dm1kY0ZTWEd0VHZ5dkpr?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcnZ5aXlXVjdta0poSDlkNXNEV0JKeS1JRHVUMFkzeEZ1WVpjdTNnNDVGZlM0RTFZcGM5VklzcHJaN2Y1dm1kY0ZTWEd0VHZ5dkpr?oc=5</guid>
+            <pubDate>Sat, 06 Dec 2025 07:29:33 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[华尔街未来一周美联储内部分歧将焦点集中在鲍威尔的利率指导和异议上 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXQtZHFhMU11b3hDU1pyeDFPUTk3SW5NYzVZemR6NjhmWlljdU5fOHoxVzRuUnZFbjJkRHRRbGxxOExYVTVVQUFJWlVXVHhCNnNuS2h5WUR5ZDBiYTdnbWpqZDN5bGZXSTZnajhlb0MzLU5wVXd1RHMxNnhBX196RkZiNjVpSHZvNTh1MndkODNDeER6eTczZzk4TTNsUFZtMWNLVUNSaW1IZ2xfeEdJRHA1UDZUREsyOVhOSw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXQtZHFhMU11b3hDU1pyeDFPUTk3SW5NYzVZemR6NjhmWlljdU5fOHoxVzRuUnZFbjJkRHRRbGxxOExYVTVVQUFJWlVXVHhCNnNuS2h5WUR5ZDBiYTdnbWpqZDN5bGZXSTZnajhlb0MzLU5wVXd1RHMxNnhBX196RkZiNjVpSHZvNTh1MndkODNDeER6eTczZzk4TTNsUFZtMWNLVUNSaW1IZ2xfeEdJRHA1UDZUREsyOVhOSw?oc=5</guid>
+            <pubDate>Sat, 06 Dec 2025 07:27:36 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 华尔街未来一周美联储内部分歧将焦点放在鲍威尔的利率指引和异议上 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[独家：欧盟、七国集团考虑禁止俄罗斯石油出口海运服务并取消价格上限 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ0ZjTjZ4YkxiOFdQVTJpTERTVFBXamY0bGFMUlFIQ3dOQ3FGVjFwSnduVFcyMGdqQWVCNEpFczJZenJmQWFLWWd1Ym1IQ0ZrZDdwTDVkTHRpaFRpR1hKRUt6QVk2Qk5jMGZIeTZLcWJRN0RNZEcwNEd1VkVzdHFmV09YTFpjNnZFYVNIVDNYSmVzUTJ1SWFfclNiX25kSE52TW1CNlNraTR4WEJueWxheW91YnhNRGpXZ1dR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ0ZjTjZ4YkxiOFdQVTJpTERTVFBXamY0bGFMUlFIQ3dOQ3FGVjFwSnduVFcyMGdqQWVCNEpFczJZenJmQWFLWWd1Ym1IQ0ZrZDdwTDVkTHRpaFRpR1hKRUt6QVk2Qk5jMGZIeTZLcWJRN0RNZEcwNEd1VkVzdHFmV09YTFpjNnZFYVNIVDNYSmVzUTJ1SWFfclNiX25kSE52TW1CNlNraTR4WEJueWxheW91YnhNRGpXZ1dR?oc=5</guid>
@@ -173,7 +194,7 @@
             <title><![CDATA[据 Business Insider 报道，Meta 将 Phoenix 混合现实眼镜的发布推迟到 2027 年 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR3Z1c3FFR2NkR1FHNHBTbHFkNTZBbnVHTGEwQXRvOVB3NkpTWWdNWmVXX2RsTDBsT0xIcjRZc1RQNy04TFlTLTVJVDJ6NkYzektVd0JBYzQyMXpfMUdEZFFVaFBMVUQ2V0pMLXE1ZXI3b1JmY3hvNTBNQW5LcFVTd1VOZ01SM3ZJTjhqVXVLTUJCd1Nram1XRkFtWXNxbWVqUnRYUnJaRklxSDBfaXRrdHdlTG9iWGVISE9EaG9RdjJOQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR3Z1c3FFR2NkR1FHNHBTbHFkNTZBbnVHTGEwQXRvOVB3NkpTWWdNWmVXX2RsTDBsT0xIcjRZc1RQNy04TFlTLTVJVDJ6NkYzektVd0JBYzQyMXpfMUdEZFFVaFBMVUQ2V0pMLXE1ZXI3b1JmY3hvNTBNQW5LcFVTd1VOZ01SM3ZJTjhqVXVLTUJCd1Nram1XRkFtWXNxbWVqUnRYUnJaRklxSDBfaXRrdHdlTG9iWGVISE9EaG9RdjJOQQ?oc=5</guid>
-            <pubDate>Sat, 06 Dec 2025 07:04:00 GMT</pubDate>
+            <pubDate>Sat, 06 Dec 2025 07:04:39 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据 Business Insider 报道，Meta 将 Phoenix 混合现实眼镜的发布推迟到 2027 年 路透]]></description>
         </item>
         <item>
@@ -373,6 +394,13 @@
             <description><![CDATA[[Bloomberg] CRH Plc、Carvana Co. 和 Comfort Systems USA Inc. 入选标准普尔 500 指数。]]></description>
         </item>
         <item>
+            <title><![CDATA[欧盟委员冯德莱恩和德国委员默茨表示，他们与比利时总理德韦弗就俄罗斯冻结资产进行了“建设性”会谈 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTW1iNlR0N1NqdldtMHRGV0VKc0J5clAtNTBzMi0xdHdJRFhMSG91Wk45YkRrcHliV3hoODhYSV82a0wzOGp0ZFJ1RlUyWHRaNXNmVS1pM1Z5b0J1VWJQc1BWYmJVWWN0UGd3QlpGN3JPa2hyMmdQdEZURXFMVlkxUTdzdXl6M2NFaUhjZWtlVGNhWWQwbHI0b3JmSnIxTEthT3NmcnFuYmtsTzNSVjN1N2ZzTG5kMEZGakN2eG1QS0swYnc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTW1iNlR0N1NqdldtMHRGV0VKc0J5clAtNTBzMi0xdHdJRFhMSG91Wk45YkRrcHliV3hoODhYSV82a0wzOGp0ZFJ1RlUyWHRaNXNmVS1pM1Z5b0J1VWJQc1BWYmJVWWN0UGd3QlpGN3JPa2hyMmdQdEZURXFMVlkxUTdzdXl6M2NFaUhjZWtlVGNhWWQwbHI0b3JmSnIxTEthT3NmcnFuYmtsTzNSVjN1N2ZzTG5kMEZGakN2eG1QS0swYnc?oc=5</guid>
+            <pubDate>Fri, 05 Dec 2025 22:37:21 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 欧盟委员冯德莱恩和德国委员默茨表示，他们与比利时总理德韦弗就俄罗斯冻结资产进行了“建设性”会谈 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[惠誉将匈牙利选举预算前景下调至负面]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-05/hungary-s-outlook-cut-to-negative-at-fitch-on-budget-loosening</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-05/hungary-s-outlook-cut-to-negative-at-fitch-on-budget-loosening</guid>
@@ -406,13 +434,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-05/eqt-seeks-to-quell-investor-anxiety-over-new-fee-strategy</guid>
             <pubDate>Fri, 05 Dec 2025 21:56:01 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 欧洲私募股权公司 EQT 正在努力平息投资者的担忧，他们担心该公司将开始向他们收取与该公司一起投资特定交易的费用。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[华尔街未来一周美联储内部分歧将焦点集中在鲍威尔的利率指导和异议上 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXQtZHFhMU11b3hDU1pyeDFPUTk3SW5NYzVZemR6NjhmWlljdU5fOHoxVzRuUnZFbjJkRHRRbGxxOExYVTVVQUFJWlVXVHhCNnNuS2h5WUR5ZDBiYTdnbWpqZDN5bGZXSTZnajhlb0MzLU5wVXd1RHMxNnhBX196RkZiNjVpSHZvNTh1MndkODNDeER6eTczZzk4TTNsUFZtMWNLVUNSaW1IZ2xfeEdJRHA1UDZUREsyOVhOSw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXQtZHFhMU11b3hDU1pyeDFPUTk3SW5NYzVZemR6NjhmWlljdU5fOHoxVzRuUnZFbjJkRHRRbGxxOExYVTVVQUFJWlVXVHhCNnNuS2h5WUR5ZDBiYTdnbWpqZDN5bGZXSTZnajhlb0MzLU5wVXd1RHMxNnhBX196RkZiNjVpSHZvNTh1MndkODNDeER6eTczZzk4TTNsUFZtMWNLVUNSaW1IZ2xfeEdJRHA1UDZUREsyOVhOSw?oc=5</guid>
-            <pubDate>Fri, 05 Dec 2025 21:51:37 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 华尔街未来一周美联储内部分歧将焦点放在鲍威尔的利率指引和异议上 路透]]></description>
         </item>
         <item>
             <title><![CDATA[Netflix 收购华纳兄弟、2026 年银行年、世界杯抽签 | 彭博市场 12/5/2025]]></title>
@@ -450,7 +471,7 @@
             <description><![CDATA[[Reuters Business] 百威英博将以 4.9 亿美元收购饮料制造商 BeatBox 85% 的股份 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美联储降息信号和供应担忧导致油价攀升至两周高位 - 路透中文网]]></title>
+            <title><![CDATA[美联储降息信号和供应担忧导致油价攀升至两周高点 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3l3c2J5QUpqTlI4cVJrc05qUXNHZmxJNlhfcmR3anlQTlRZVWphUHJQaFFZbzdCSncyODI0OUh6ak1FUld6VkExRnBMWDZ1WmN0YkhvMzR5MV9RT3VBNE1SenZGQ1hqVkNqTG92TG94OXhLZGxuSUh0bUp0OERadE1iazJxckxpM3Y0ZlFSRF85Y2pHbWZ2WlJiRUhUbU8zcTBQUW9ubUJ3UUlESVdzT19laHc1d0xGRDh0Zmx2TXdGVUxjeGdv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3l3c2J5QUpqTlI4cVJrc05qUXNHZmxJNlhfcmR3anlQTlRZVWphUHJQaFFZbzdCSncyODI0OUh6ak1FUld6VkExRnBMWDZ1WmN0YkhvMzR5MV9RT3VBNE1SenZGQ1hqVkNqTG92TG94OXhLZGxuSUh0bUp0OERadE1iazJxckxpM3Y0ZlFSRF85Y2pHbWZ2WlJiRUhUbU8zcTBQUW9ubUJ3UUlESVdzT19laHc1d0xGRDh0Zmx2TXdGVUxjeGdv?oc=5</guid>
             <pubDate>Fri, 05 Dec 2025 20:20:37 GMT</pubDate>
@@ -604,13 +625,6 @@
             <description><![CDATA[[华尔街见闻] 美联储关注的9月核心PCE通胀2.8%大体符合预期，实际个人支出停滞  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[波兰议会维持加密货币否决，无视总理的俄罗斯警告 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXNkUDlBMXA2WnRYUzNJY0pFRnhiTm5nYVpxenBwUC1pOE5jWGVlbWFTSkRVMmFlYkZxbjZrMG5vYWxOeGxtSTJUUXhNZHRUNFNYVkl4bjloMkEtRFJzdnJfSVVWNEw3ekNVanI3NlFRRkllazB1MzNKSHBMOG1YSGtWZDlxOUhlRUNjWjNZenAtV0VScnR0UUxXdU1UU19JalhkbDhUeVlCZ2c0NktIeXE2ZE5qRnc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXNkUDlBMXA2WnRYUzNJY0pFRnhiTm5nYVpxenBwUC1pOE5jWGVlbWFTSkRVMmFlYkZxbjZrMG5vYWxOeGxtSTJUUXhNZHRUNFNYVkl4bjloMkEtRFJzdnJfSVVWNEw3ekNVanI3NlFRRkllazB1MzNKSHBMOG1YSGtWZDlxOUhlRUNjWjNZenAtV0VScnR0UUxXdU1UU19JalhkbDhUeVlCZ2c0NktIeXE2ZE5qRnc?oc=5</guid>
-            <pubDate>Fri, 05 Dec 2025 14:48:24 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 波兰议会维持加密否决权，无视总理的俄罗斯警告 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国官员谴责欧盟对马斯克X的罚款，称欧洲正在向美国人征税 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0JTNk55MjdSZzZVR29NREEwVV9aTG1wWjZLLXJIZGkxMEo5SlFxVnh1cDU1Qk90MTFHRWtWVW9Mc1ZBSE5TNGJ5QTRBR191c1BjYVRLQ0RPNnAxVXRfUWpZaTkxLW9PQUZyLXFueW1tSGFpTzVJMmh3TTB2Q3Z1RUVudHdLTmlydnM3NGVhUll3cm9wUkY5MEk4RjFpTmpuNmlUMXlpNDd2MF9FQ2hER1NEbFJwWHlzdFhYdlhVOGc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0JTNk55MjdSZzZVR29NREEwVV9aTG1wWjZLLXJIZGkxMEo5SlFxVnh1cDU1Qk90MTFHRWtWVW9Mc1ZBSE5TNGJ5QTRBR191c1BjYVRLQ0RPNnAxVXRfUWpZaTkxLW9PQUZyLXFueW1tSGFpTzVJMmh3TTB2Q3Z1RUVudHdLTmlydnM3NGVhUll3cm9wUkY5MEk4RjFpTmpuNmlUMXlpNDd2MF9FQ2hER1NEbFJwWHlzdFhYdlhVOGc?oc=5</guid>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2025/12/05/stocks-making-the-biggest-moves-premarket-rbrk-nflx-vsco-sofi-ulta.html</guid>
             <pubDate>Fri, 05 Dec 2025 12:34:35 GMT</pubDate>
             <description><![CDATA[[CNBC] 这些是盘前交易中涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LYjQ3YzJ6NnVrWUVLaHp5cUF3c2phVXNrQTljRVFlX2ZseDdZeEJTekpXX1RpQXZQMlI3cEloMmpRdjY3OW9fcml1MlRQcVIzamFN?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LYjQ3YzJ6NnVrWUVLaHp5cUF3c2phVXNrQTljRVFlX2ZseDdZeEJTekpXX1RpQXZQMlI3cEloMmpRdjY3OW9fcml1MlRQcVIzamFN?oc=5</guid>
-            <pubDate>Fri, 05 Dec 2025 12:32:30 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[浮盈近7亿元！中信证券“一键暴赚”摩尔线程 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rbm9xMmdmc3VjeVpZMVFNNmZ5ZmZKUFpkVFVTYldSNWxxNVZ1azFUV19ramNCU05yUndDMlV0cXNxVUhOV2pMY0xRLXJyRXJmTDdz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rbm9xMmdmc3VjeVpZMVFNNmZ5ZmZKUFpkVFVTYldSNWxxNVZ1azFUV19ramNCU05yUndDMlV0cXNxVUhOV2pMY0xRLXJyRXJmTDdz?oc=5</guid>
-            <pubDate>Fri, 05 Dec 2025 12:05:14 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 浮盈近7亿元！中信证券“一键暴赚”摩尔线程  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
