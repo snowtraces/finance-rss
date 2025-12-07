@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 07 Dec 2025 15:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 16:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[监管机构称阿尔及利亚 2026 年将新增多达三起 IPO]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-07/algeria-to-see-up-to-three-more-ipos-in-2026-regulator-says</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-07/algeria-to-see-up-to-three-more-ipos-in-2026-regulator-says</guid>
+            <pubDate>Sun, 07 Dec 2025 15:48:31 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 据当地监管机构称，阿尔及利亚证券交易所明年将进行两到三次首次公开募股，其中包括寻求为数据中心融资的 IT 公司 Ayrade。]]></description>
+        </item>
         <item>
             <title><![CDATA[家族企业正在失去继承人——接下来会发生什么？]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-12-07/the-succession-cliff-coming-for-america-s-main-street-video</link>
@@ -37,11 +44,18 @@
             <description><![CDATA[[Bloomberg] 据知情人士透露，Brookfield Asset Management Ltd. 和新加坡 GIC Pte 即将对 National Storage REIT 提出具有约束力的要约，这笔交易可能会使这家在悉尼上市的公司估值约为 40 亿澳元（合 27 亿美元）。]]></description>
         </item>
         <item>
-            <title><![CDATA[随着人工智能风险的增加，OpenAI 从股市救世主变成了负担]]></title>
+            <title><![CDATA[随着人工智能风险的增加，OpenAI 从股市的救世主变成了负担]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-07/openai-goes-from-stock-market-savior-to-anchor-as-ai-risks-mount</guid>
             <pubDate>Sun, 07 Dec 2025 14:00:07 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 华尔街对人工智能相关公司的看法正在发生转变，而这一切都与两家公司有关：OpenAI 下跌，而 Alphabet Inc. 上涨。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[华尔街未来一周：美联储内部分歧将焦点放在鲍威尔的利率指引和异议上 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXQtZHFhMU11b3hDU1pyeDFPUTk3SW5NYzVZemR6NjhmWlljdU5fOHoxVzRuUnZFbjJkRHRRbGxxOExYVTVVQUFJWlVXVHhCNnNuS2h5WUR5ZDBiYTdnbWpqZDN5bGZXSTZnajhlb0MzLU5wVXd1RHMxNnhBX196RkZiNjVpSHZvNTh1MndkODNDeER6eTczZzk4TTNsUFZtMWNLVUNSaW1IZ2xfeEdJRHA1UDZUREsyOVhOSw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXQtZHFhMU11b3hDU1pyeDFPUTk3SW5NYzVZemR6NjhmWlljdU5fOHoxVzRuUnZFbjJkRHRRbGxxOExYVTVVQUFJWlVXVHhCNnNuS2h5WUR5ZDBiYTdnbWpqZDN5bGZXSTZnajhlb0MzLU5wVXd1RHMxNnhBX196RkZiNjVpSHZvNTh1MndkODNDeER6eTczZzk4TTNsUFZtMWNLVUNSaW1IZ2xfeEdJRHA1UDZUREsyOVhOSw?oc=5</guid>
+            <pubDate>Sun, 07 Dec 2025 14:00:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 华尔街未来一周：美联储内部分歧将焦点放在鲍威尔的利率指引和异议上 路透]]></description>
         </item>
         <item>
             <title><![CDATA[博尔索纳罗的儿子在 2026 年巴西大选中面临与卢拉的艰苦战斗]]></title>
@@ -520,13 +534,6 @@
             <description><![CDATA[[Reuters Business] 欧洲央行行长雷恩认为通胀存在下行风险，敦促对乌克兰融资采取行动 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[在西班牙和意大利，银行推动期待已久的股市复苏]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-06/in-spain-and-italy-banks-drive-a-long-awaited-stocks-recovery</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-06/in-spain-and-italy-banks-drive-a-long-awaited-stocks-recovery</guid>
-            <pubDate>Sat, 06 Dec 2025 08:30:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 自从银行在金融危机期间导致全球股票基准暴跌至陷入困境以来，已经过去了大约 17 年。 在西班牙和意大利，该国最大银行股价的不可阻挡的上涨最终抵消了这些损失。]]></description>
-        </item>
-        <item>
             <title><![CDATA[独家：Netflix 如何赢得好莱坞最高奖项 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQeU5OTzNxSFRZTk4wdkVfWF93X1ZSU2JYcXhNWlZiYmRLa3FBRWhHSnRJTVRHOHcwQWVrcUtnM0h2RW9BUjFMcFlfREVoRU95RHFld2lKVGxrazMzWWk2Qk1JSHFQWXc5WkFmbXpkS1NRcnhxVWJYR1pCbGpVWDBoWHNYSVdnY3Azd2VUNXhmTVdwTzZkb1FTY0lLY3k1c2FVQUU4QmJtTFFlU3JkSGx6TVppc2J3dw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQeU5OTzNxSFRZTk4wdkVfWF93X1ZSU2JYcXhNWlZiYmRLa3FBRWhHSnRJTVRHOHcwQWVrcUtnM0h2RW9BUjFMcFlfREVoRU95RHFld2lKVGxrazMzWWk2Qk1JSHFQWXc5WkFmbXpkS1NRcnhxVWJYR1pCbGpVWDBoWHNYSVdnY3Azd2VUNXhmTVdwTzZkb1FTY0lLY3k1c2FVQUU4QmJtTFFlU3JkSGx6TVppc2J3dw?oc=5</guid>
@@ -581,13 +588,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kcnZ5aXlXVjdta0poSDlkNXNEV0JKeS1JRHVUMFkzeEZ1WVpjdTNnNDVGZlM0RTFZcGM5VklzcHJaN2Y1dm1kY0ZTWEd0VHZ5dkpr?oc=5</guid>
             <pubDate>Sat, 06 Dec 2025 07:29:33 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[华尔街未来一周：美联储内部分歧将焦点放在鲍威尔的利率指引和异议上 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXQtZHFhMU11b3hDU1pyeDFPUTk3SW5NYzVZemR6NjhmWlljdU5fOHoxVzRuUnZFbjJkRHRRbGxxOExYVTVVQUFJWlVXVHhCNnNuS2h5WUR5ZDBiYTdnbWpqZDN5bGZXSTZnajhlb0MzLU5wVXd1RHMxNnhBX196RkZiNjVpSHZvNTh1MndkODNDeER6eTczZzk4TTNsUFZtMWNLVUNSaW1IZ2xfeEdJRHA1UDZUREsyOVhOSw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXQtZHFhMU11b3hDU1pyeDFPUTk3SW5NYzVZemR6NjhmWlljdU5fOHoxVzRuUnZFbjJkRHRRbGxxOExYVTVVQUFJWlVXVHhCNnNuS2h5WUR5ZDBiYTdnbWpqZDN5bGZXSTZnajhlb0MzLU5wVXd1RHMxNnhBX196RkZiNjVpSHZvNTh1MndkODNDeER6eTczZzk4TTNsUFZtMWNLVUNSaW1IZ2xfeEdJRHA1UDZUREsyOVhOSw?oc=5</guid>
-            <pubDate>Sat, 06 Dec 2025 07:27:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 华尔街未来一周：美联储内部分歧将焦点放在鲍威尔的利率指引和异议上 路透]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普签署备忘录，使美国儿童疫苗与其他某些国家保持一致 - 路透中文网]]></title>
