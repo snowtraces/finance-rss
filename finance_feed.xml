@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 07 Dec 2025 04:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 04:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[礼来制药和辉瑞制药入选中国首个私人保险名单]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-07/eli-lilly-pfizer-land-on-china-s-first-private-insurance-list</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-07/eli-lilly-pfizer-land-on-china-s-first-private-insurance-list</guid>
+            <pubDate>Sun, 07 Dec 2025 04:04:07 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 礼来公司(Eli Lilly & Co.)、辉瑞公司(Pfizer Inc.)和强生公司(Johnson & Johnson)在中国第一个创新药物目录中占据了一席之地，开辟了新的市场渠道，并提振了昂贵的尖端治疗药物的销售前景。]]></description>
+        </item>
         <item>
             <title><![CDATA[随着金属涨势降温，中国央行扩大黄金购买规模]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-07/china-s-pboc-extends-gold-buying-streak-as-metal-s-rally-cools</link>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/canada-unemployment-rate-drops-to-6-5-in-november-with-surge-in-hiring-e9ebaf6c</guid>
             <pubDate>Fri, 05 Dec 2025 17:01:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 加拿大11月失业率大幅下降，招聘连续第三个月超出预期，无视因美国关税削弱经济而导致大范围裁员的担忧。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[维勒鲁瓦表示，欧洲央行不得排除任何政策行动]]></title>
-            <link>https://www.wsj.com/economy/central-banking/ecb-must-not-exclude-any-policy-action-says-villeroy-9092f373</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/ecb-must-not-exclude-any-policy-action-says-villeroy-9092f373</guid>
-            <pubDate>Fri, 05 Dec 2025 15:57:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 法国央行行长弗朗索瓦·维勒鲁瓦·德加洛表示，金融市场参与者的印象是，2%是欧洲央行的“最终”利率，借贷成本不会进一步降低。]]></description>
         </item>
     </channel>
 </rss>
