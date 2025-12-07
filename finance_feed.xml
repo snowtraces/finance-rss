@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 07 Dec 2025 06:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 06:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -16,11 +16,11 @@
             <description><![CDATA[[财新网] 吴清：对优质机构适当“松绑”，适度打开资本空间和杠杆限制  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[印度航空监管机构向靛蓝航空公司首席执行官发出说明原因通知]]></title>
+            <title><![CDATA[印度监管机构向 IndiGo 首席执行官发出说明原因通知]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-07/india-aviation-regulator-issues-show-cause-notice-to-indigo-ceo</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-07/india-aviation-regulator-issues-show-cause-notice-to-indigo-ceo</guid>
             <pubDate>Sun, 07 Dec 2025 05:13:16 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 印度向靛蓝航空有限公司首席执行官 Pieter Elbers 发出了一份说明理由通知，要求该航空公司解释航班取消导致数千名乘客滞留在各个机场的原因。]]></description>
+            <description><![CDATA[[Bloomberg] 印度向该国最大航空公司的首席执行官发出了一份临时通知，原因是其近一半的航班被取消，导致数千名乘客滞留在各个机场。]]></description>
         </item>
         <item>
             <title><![CDATA[礼来制药和辉瑞制药入选中国首个私人保险名单]]></title>
@@ -42,6 +42,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3115580</guid>
             <pubDate>Sun, 07 Dec 2025 03:05:12 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VcWhJMG01a3l1UkhLTDk0UF85OS01Y3gxb2ZCZXlfTHhZTmpnOENfZVJBOV9tQTVXQkFLdHRYZlJ2bW45YV94N1QyRGlSQjdBVnpR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VcWhJMG01a3l1UkhLTDk0UF85OS01Y3gxb2ZCZXlfTHhZTmpnOENfZVJBOV9tQTVXQkFLdHRYZlJ2bW45YV94N1QyRGlSQjdBVnpR?oc=5</guid>
+            <pubDate>Sun, 07 Dec 2025 02:45:28 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[随着金属涨势降温，中国央行扩大黄金购买规模]]></title>
@@ -366,6 +373,13 @@
             <description><![CDATA[[Bloomberg] 据《Il Sole 24 Ore》报道，意大利市场监管机构排除了锡耶纳银行 (Banca Monte dei Paschi di Siena SpA) 及其部分股东在竞购 Mediobanca SpA 时存在未公开的投资者协议的可能性。]]></description>
         </item>
         <item>
+            <title><![CDATA[大象起舞，意在猎杀：嘉能可铜产量激进增长的背后逻辑 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBS0Z5WXBLVk9GcXN0OU5ZeVVSX3NpanMySm94ZkJIdDkxaDNDenFQT1BIQkVHbUw4c3REUFFKZFBxV2Joa2FHODNMa2g1SGVRb01R?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBS0Z5WXBLVk9GcXN0OU5ZeVVSX3NpanMySm94ZkJIdDkxaDNDenFQT1BIQkVHbUw4c3REUFFKZFBxV2Joa2FHODNMa2g1SGVRb01R?oc=5</guid>
+            <pubDate>Sat, 06 Dec 2025 09:35:03 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 大象起舞，意在猎杀：嘉能可铜产量激进增长的背后逻辑  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[欧洲央行雷恩告诉米兰金融通胀更有可能缓解]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-06/ecb-s-rehn-tells-milano-finanza-inflation-is-more-likely-to-ease</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-06/ecb-s-rehn-tells-milano-finanza-inflation-is-more-likely-to-ease</guid>
@@ -667,13 +681,6 @@
             <description><![CDATA[[Reuters Business] ICICI Prudential Asset 的印度 IPO 将于 12 月 12 日开始 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美联储降息信号和供应担忧导致油价攀升至两周高位 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3l3c2J5QUpqTlI4cVJrc05qUXNHZmxJNlhfcmR3anlQTlRZVWphUHJQaFFZbzdCSncyODI0OUh6ak1FUld6VkExRnBMWDZ1WmN0YkhvMzR5MV9RT3VBNE1SenZGQ1hqVkNqTG92TG94OXhLZGxuSUh0bUp0OERadE1iazJxckxpM3Y0ZlFSRF85Y2pHbWZ2WlJiRUhUbU8zcTBQUW9ubUJ3UUlESVdzT19laHc1d0xGRDh0Zmx2TXdGVUxjeGdv?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3l3c2J5QUpqTlI4cVJrc05qUXNHZmxJNlhfcmR3anlQTlRZVWphUHJQaFFZbzdCSncyODI0OUh6ak1FUld6VkExRnBMWDZ1WmN0YkhvMzR5MV9RT3VBNE1SenZGQ1hqVkNqTG92TG94OXhLZGxuSUh0bUp0OERadE1iazJxckxpM3Y0ZlFSRF85Y2pHbWZ2WlJiRUhUbU8zcTBQUW9ubUJ3UUlESVdzT19laHc1d0xGRDh0Zmx2TXdGVUxjeGdv?oc=5</guid>
-            <pubDate>Fri, 05 Dec 2025 20:20:37 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于美联储降息信号和供应担忧，油价攀升至两周高位 - 路透中文网]]></description>
-        </item>
-        <item>
             <title><![CDATA[特朗普战略文件重提门罗主义，猛烈抨击欧洲 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTh1WVpuTFFicjhKZ2dpaF9XWHhBclF5dW16YnhMWTVmdjlNc3hIMG0wSVdnLUhjUEtydG1XOVNOM2JfaFpQOFpjbWx4UU1xVWNEcG5INlVscktzNDJMbWFMYzBvbC1NU2JlNjQ0bWFQcEJEOU1uaVZGWEsxX09WUG91M0kwYkQxc2hFQ3ZrRDl4VFJSSzFRMFB2c1JQd2lvT3dWYmFvLVlia0lYQnp1dFd5SQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNLTh1WVpuTFFicjhKZ2dpaF9XWHhBclF5dW16YnhMWTVmdjlNc3hIMG0wSVdnLUhjUEtydG1XOVNOM2JfaFpQOFpjbWx4UU1xVWNEcG5INlVscktzNDJMbWFMYzBvbC1NU2JlNjQ0bWFQcEJEOU1uaVZGWEsxX09WUG91M0kwYkQxc2hFQ3ZrRDl4VFJSSzFRMFB2c1JQd2lvT3dWYmFvLVlia0lYQnp1dFd5SQ?oc=5</guid>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-fed-expected-to-cut-interest-rates-0b33f549</guid>
             <pubDate>Fri, 05 Dec 2025 17:22:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 美联储的决定将成为未来一周的焦点，在近期美国就业数据疲软后，市场普遍预计美联储将降息。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普政府称欧洲面临“文明毁灭”风险，引发强烈抗议 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQMk9RUGhHVHRqd3IxeThsTkVmbG1EclBLTlFySFNUSDN1dkFjeFlvdVREdHRXRkZiVUE2SmxJZ0RBTUQya2JUdHM2WGpaN1dUeFhzTWRoZ285X0pVZXRxSzg1c3d5dE5zQXUyMXphcjh1SVkyc256SlVoSnNGN0YzeXU4RTk4eUZJcnk1TmlQLWRGd3dFY3E1Z0t0RVY0eE9pQy1ULTltNzhHTjdoTVRWVEFyWHU?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQMk9RUGhHVHRqd3IxeThsTkVmbG1EclBLTlFySFNUSDN1dkFjeFlvdVREdHRXRkZiVUE2SmxJZ0RBTUQya2JUdHM2WGpaN1dUeFhzTWRoZ285X0pVZXRxSzg1c3d5dE5zQXUyMXphcjh1SVkyc256SlVoSnNGN0YzeXU4RTk4eUZJcnk1TmlQLWRGd3dFY3E1Z0t0RVY0eE9pQy1ULTltNzhHTjdoTVRWVEFyWHU?oc=5</guid>
-            <pubDate>Fri, 05 Dec 2025 17:19:28 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 特朗普政府称欧洲面临“文明毁灭”风险，引发强烈抗议 路透]]></description>
         </item>
     </channel>
 </rss>
