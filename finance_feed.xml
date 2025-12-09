@@ -4,10 +4,31 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 09 Dec 2025 08:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 08:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[尽管美国疲软，德国十月出口仍小幅增长]]></title>
+            <link>https://www.wsj.com/economy/trade/german-exports-inched-up-in-october-828fc14a</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/trade/german-exports-inched-up-in-october-828fc14a</guid>
+            <pubDate>Tue, 09 Dec 2025 08:33:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 这一结果是由欧盟内部对商品的强劲需求推动的，这抵消了受关税影响的对美国出口放缓的影响。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印度尼西亚股市收低；截至收盘印尼雅加达综合指数下跌0.89%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3118535</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3118535</guid>
+            <pubDate>Tue, 09 Dec 2025 08:30:18 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[RBC预测软件行业并购升温，谁将是下一个目标？]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3118518</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3118518</guid>
+            <pubDate>Tue, 09 Dec 2025 08:13:12 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[据称贝恩正在考虑出售田边制药的非日本资产]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-09/bain-is-said-to-mull-selling-tanabe-pharma-s-non-japanese-assets</link>
@@ -72,20 +93,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[香港政府就实施加密资产申报框架和新修订共同汇报标准展开公众咨询]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3118481</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3118481</guid>
-            <pubDate>Tue, 09 Dec 2025 08:05:22 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新五丰(600975.SH)11月生猪销售数量约57.55万头]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3118480</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3118480</guid>
-            <pubDate>Tue, 09 Dec 2025 08:05:21 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[随着困境的加剧，万科美元债券持有人接受了顾问的接洽]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-09/vanke-dollar-bondholders-approached-by-advisor-as-debt-woes-grow</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/vanke-dollar-bondholders-approached-by-advisor-as-debt-woes-grow</guid>
@@ -93,18 +100,25 @@
             <description><![CDATA[[Bloomberg] 万科企业的海外债权人已开始提出与潜在顾问进行谈判的请求，这表明投资者正在为开发商债务危机的恶化做好准备。]]></description>
         </item>
         <item>
+            <title><![CDATA[随着美联储焦虑的加剧，股市陷入困境； 澳洲联储持有| 哈斯琳达·阿明的见解 12/9/2025]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-09/insight-with-haslinda-amin-12-9-2025-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-09/insight-with-haslinda-amin-12-9-2025-video</guid>
+            <pubDate>Tue, 09 Dec 2025 07:55:58 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 哈斯琳达·阿明洞察 (Insight with Haslinda Amin) 是一档每日新闻节目，以深入、高调的采访和分析为特色，让观众全面了解重要故事。 该节目邀请了商业、金融、政治和文化领域的杰出领导人。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国、俄罗斯战机进入防空区，韩国紧急升空战斗机 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1QxZ1Q2NUJIdU9IODlLTVF3MTdxOWotbDlIczVqeHdVOGd6c0lhS2MySVVINkJ1cTVFT2dqeW5JVkxuTUR2VVh6Y2lBMkNVUlJjeWFBeFVyZlFBbWlsVENDLWU0S0pHTEFXa2M2bGpCUFIzZUN0bVlnNHZIY3kwVEtRazVnZEVVWGxodEphVGRFaFZ6OHhOajlKeW9xeHhoakVHNVE2czRIaHRUQkFWV2FRTjhONlBZdHlMVXJkQWo0NjR3WUdIMERNUHlEaVdYNDZV?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1QxZ1Q2NUJIdU9IODlLTVF3MTdxOWotbDlIczVqeHdVOGd6c0lhS2MySVVINkJ1cTVFT2dqeW5JVkxuTUR2VVh6Y2lBMkNVUlJjeWFBeFVyZlFBbWlsVENDLWU0S0pHTEFXa2M2bGpCUFIzZUN0bVlnNHZIY3kwVEtRazVnZEVVWGxodEphVGRFaFZ6OHhOajlKeW9xeHhoakVHNVE2czRIaHRUQkFWV2FRTjhONlBZdHlMVXJkQWo0NjR3WUdIMERNUHlEaVdYNDZV?oc=5</guid>
+            <pubDate>Tue, 09 Dec 2025 07:49:20 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 中国、俄罗斯战机进入防空区，韩国紧急升空战斗机 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[顶级足球运动员、前主席在土耳其博彩调查中被捕]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-09/top-tier-footballers-ex-chair-arrested-in-turkish-betting-probe</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/top-tier-footballers-ex-chair-arrested-in-turkish-betting-probe</guid>
             <pubDate>Tue, 09 Dec 2025 07:37:46 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 土耳其逮捕了两名顶级足球部门的球员和一名前超级联赛俱乐部主席，非法投注调查范围扩大到包括高管和运动员，使已经让裁判陷入困境的丑闻升级。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德国十月份出口小幅增长]]></title>
-            <link>https://www.wsj.com/economy/trade/german-exports-inched-up-in-october-828fc14a</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/trade/german-exports-inched-up-in-october-828fc14a</guid>
-            <pubDate>Tue, 09 Dec 2025 07:34:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 对其他欧元区国家的出口增长2.7%，进口增长2.8%。]]></description>
         </item>
         <item>
             <title><![CDATA[印度房地产开发商 RMZ 据称考虑进行 10 亿美元的 IPO]]></title>
@@ -149,18 +163,18 @@
             <description><![CDATA[[CNBC] 在美国总统唐纳德·特朗普表示英伟达可以向中国出售更先进的芯片后几个小时，几位分析师表示此举将给北京带来好处]]></description>
         </item>
         <item>
-            <title><![CDATA[Newsis称中国和俄罗斯军机进出韩国防空区 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1QxZ1Q2NUJIdU9IODlLTVF3MTdxOWotbDlIczVqeHdVOGd6c0lhS2MySVVINkJ1cTVFT2dqeW5JVkxuTUR2VVh6Y2lBMkNVUlJjeWFBeFVyZlFBbWlsVENDLWU0S0pHTEFXa2M2bGpCUFIzZUN0bVlnNHZIY3kwVEtRazVnZEVVWGxodEphVGRFaFZ6OHhOajlKeW9xeHhoakVHNVE2czRIaHRUQkFWV2FRTjhONlBZdHlMVXJkQWo0NjR3WUdIMERNUHlEaVdYNDZV?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX1QxZ1Q2NUJIdU9IODlLTVF3MTdxOWotbDlIczVqeHdVOGd6c0lhS2MySVVINkJ1cTVFT2dqeW5JVkxuTUR2VVh6Y2lBMkNVUlJjeWFBeFVyZlFBbWlsVENDLWU0S0pHTEFXa2M2bGpCUFIzZUN0bVlnNHZIY3kwVEtRazVnZEVVWGxodEphVGRFaFZ6OHhOajlKeW9xeHhoakVHNVE2czRIaHRUQkFWV2FRTjhONlBZdHlMVXJkQWo0NjR3WUdIMERNUHlEaVdYNDZV?oc=5</guid>
-            <pubDate>Tue, 09 Dec 2025 07:01:38 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Newsis 称，中国和俄罗斯军机进出韩国防空区 路透]]></description>
+            <title><![CDATA[澳大利亚社交媒体禁令即将生效，引发全球打击 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNSFdyeG9ZRmhEUlRxRXJNV09KbHkwV21fQ3NKckk1dkRxRWlDejZaR0pYMHd1dXlHa0tFdEZETVMtQ3RXUEsxYmpUMVF3QkJqaWVxd1dnSElzWkxPVXExT2I2SEN5MDdRdDlHUGpQV2xsNFl4NGE0TjA5em51TG5CQl81dG1UYXNfN1hVR3B2bmdwbWJ2RUFZZFJOU1g4THlOMnc5dEJXSzVraXJJOUVZX3BmVC1SN3MzRm5aTWxvcFdlN3FfV1E?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNSFdyeG9ZRmhEUlRxRXJNV09KbHkwV21fQ3NKckk1dkRxRWlDejZaR0pYMHd1dXlHa0tFdEZETVMtQ3RXUEsxYmpUMVF3QkJqaWVxd1dnSElzWkxPVXExT2I2SEN5MDdRdDlHUGpQV2xsNFl4NGE0TjA5em51TG5CQl81dG1UYXNfN1hVR3B2bmdwbWJ2RUFZZFJOU1g4THlOMnc5dEJXSzVraXJJOUVZX3BmVC1SN3MzRm5aTWxvcFdlN3FfV1E?oc=5</guid>
+            <pubDate>Tue, 09 Dec 2025 07:06:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 澳大利亚社交媒体禁令即将生效，引发全球打击 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[韩国国民养老金抛售美元以支持韩元]]></title>
+            <title><![CDATA[韩国国家养老基金抛售美元以支持韩元]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-09/nps-said-to-have-sold-dollars-in-tactical-hedging-to-arrest-won</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/nps-said-to-have-sold-dollars-in-tactical-hedging-to-arrest-won</guid>
             <pubDate>Tue, 09 Dec 2025 07:00:45 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据一位知情人士透露，全球最大的养老基金之一韩国国民养老金公社最近一直在出售美元，这似乎是战术性的外汇对冲，以帮助应对韩元近期的疲软。]]></description>
+            <description><![CDATA[[Bloomberg] 据一位知情人士透露，韩国国家养老金管理局最近开始出售美元以提振韩元，恢复了之前支持韩元的努力。]]></description>
         </item>
         <item>
             <title><![CDATA[Octopus Energy 明年将迎来 100 万西班牙客户]]></title>
@@ -196,6 +210,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2025-12-09/ftse-100-live-pound-bonds-oil-prices-gilts-what-s-moving-uk-markets-right-now-markets-today</guid>
             <pubDate>Tue, 09 Dec 2025 06:39:01 GMT</pubDate>
             <description><![CDATA[[Bloomberg] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[法国总理押注重要的社会保障投票 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPREJiUC1TUnc1THRoNGtVdGVSZnNId0tPU01iVG9QaGJRUmF3b1dMZTJZcnNqNkJhQ25TSmZLWWlnLXBkdTE1TmRHT2txWGVBQ0JLZHV5ckJ4dGVMeDg1UTZreFpMQWczaThLQnQzTm5ib0J0aHZneHRrd0FlV1NIVmhLVFBTdVRKT0NaTE9HZjJXTnp2Qnc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxPREJiUC1TUnc1THRoNGtVdGVSZnNId0tPU01iVG9QaGJRUmF3b1dMZTJZcnNqNkJhQ25TSmZLWWlnLXBkdTE1TmRHT2txWGVBQ0JLZHV5ckJ4dGVMeDg1UTZreFpMQWczaThLQnQzTm5ib0J0aHZneHRrd0FlV1NIVmhLVFBTdVRKT0NaTE9HZjJXTnp2Qnc?oc=5</guid>
+            <pubDate>Tue, 09 Dec 2025 06:24:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 法国总理押注于关键的社会保障投票 路透]]></description>
         </item>
         <item>
             <title><![CDATA[英伟达获得美国许可向中国出售部分人工智能芯片 中国展 12/9/2025]]></title>
@@ -271,7 +292,7 @@
             <title><![CDATA[美国法官驳回特朗普政府暂停风能许可的决定 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOTm0yMTBVN01xeVRKNktoSFUwQlB1NkpqWjFfbG11WEwtQWdkNmcyb0dBZDlYUEp1bWkzdDIxLWkwUV9BLVNpNTdXYTYxaW10ZndXWTEzaWZtTE12dFp3NEFlamtRdDZLcHctRlBIcF9sNnhCMmVVUkgxYUQzcGN6WmhiRUV1NGdoV0g5YUVRZF9mTFBmT210RnBwbEJIX2JubjUtVDktVDZUWHZ2RXhxVVZFcE96UQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOTm0yMTBVN01xeVRKNktoSFUwQlB1NkpqWjFfbG11WEwtQWdkNmcyb0dBZDlYUEp1bWkzdDIxLWkwUV9BLVNpNTdXYTYxaW10ZndXWTEzaWZtTE12dFp3NEFlamtRdDZLcHctRlBIcF9sNnhCMmVVUkgxYUQzcGN6WmhiRUV1NGdoV0g5YUVRZF9mTFBmT210RnBwbEJIX2JubjUtVDktVDZUWHZ2RXhxVVZFcE96UQ?oc=5</guid>
-            <pubDate>Tue, 09 Dec 2025 04:38:15 GMT</pubDate>
+            <pubDate>Tue, 09 Dec 2025 04:38:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国法官驳回特朗普政府暂停风能许可的决定 路透]]></description>
         </item>
         <item>
@@ -306,7 +327,7 @@
             <title><![CDATA[武器测试后，澳大利亚为军方订购了可使用的“幽灵蝙蝠”无人机 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcE5WaVpYU3ZUdVoyTFdqWlM0aXBxdFcweHVpbTVGR1FIb2lCTFZ4NnVCNl9PMmNzV3pGTXJzVExBUmF5Umo2RG9ScDZFeTBVd25ac2ZtUnBXUk5FU1hUVWUtZEY3ZWFFcjRWRGpwcmxFaWN5R2x2YWxsTkdlN19rRF82Yll3MEhES290bnF5N2ViMUxodmlZbHpjc1lPUVBvSGNqaGV0RURmaWVlWTV3Z09fUE11TVhlcmNYSW5hdzJWOTRzcFktWEtvU3Z3bFdf?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcE5WaVpYU3ZUdVoyTFdqWlM0aXBxdFcweHVpbTVGR1FIb2lCTFZ4NnVCNl9PMmNzV3pGTXJzVExBUmF5Umo2RG9ScDZFeTBVd25ac2ZtUnBXUk5FU1hUVWUtZEY3ZWFFcjRWRGpwcmxFaWN5R2x2YWxsTkdlN19rRF82Yll3MEhES290bnF5N2ViMUxodmlZbHpjc1lPUVBvSGNqaGV0RURmaWVlWTV3Z09fUE11TVhlcmNYSW5hdzJWOTRzcFktWEtvU3Z3bFdf?oc=5</guid>
-            <pubDate>Tue, 09 Dec 2025 03:52:00 GMT</pubDate>
+            <pubDate>Tue, 09 Dec 2025 03:52:53 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 武器测试后，澳大利亚为军方订购了可操作的“幽灵蝙蝠”无人机 路透]]></description>
         </item>
         <item>
@@ -339,31 +360,17 @@
             <description><![CDATA[[Bloomberg] 纽约大学斯特恩商学院娱乐、媒体和技术项目项目总监保罗·哈达特 (Paul Hardart) 分享了他对谁将从与华纳兄弟探索公司的可能交易中受益最大的观点。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[英仕曼集团表示，如果市场质疑新任主席，美联储可能需要量化宽松]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-09/qe-may-be-needed-if-market-queries-new-fed-chair-man-group-says</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/qe-may-be-needed-if-market-queries-new-fed-chair-man-group-says</guid>
-            <pubDate>Tue, 09 Dec 2025 03:19:36 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 英仕曼集团表示，如果债券市场开始质疑下一任主席的独立性，美联储可能不得不转向量化宽松，以降低长期借贷成本。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[交易员关注中国政策，铁矿石跌至月最低点]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-09/iron-ore-slips-to-lowest-in-month-as-traders-watch-china-policy</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/iron-ore-slips-to-lowest-in-month-as-traders-watch-china-policy</guid>
-            <pubDate>Tue, 09 Dec 2025 03:05:05 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 铁矿石价格跌至一个月来的最低点，在本周中国官员举行重要会议之前跌幅扩大，该会议将提供明年政策重点的细节。]]></description>
-        </item>
-        <item>
             <title><![CDATA[特朗普政府希望航空公司、机场提供更健康的食品和锻炼选择 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaWxCSWl1X1JjbkRPTHVSanpyWU8zX2E0TU4tSEItc1FpV3F6anV1QldoeU0wOElsWUR1MGgzNnhyeXFKdVFESGpfT3B1eWFCM3otTXN4S004VjFFV2EwQW5HV0hBQWlRdGMtOERtSVZkT2JFNHpfVnlGUmdROU9IekNseXJlN0dTTWtoRDB5SFJGZDlCZ25tUkdnQTJPVDc4UC1EQjZVWjZMdVFSXy1Gek1tUDNYNTNKRkd2N1ZXRm1xQ3A0VTFLS04zSzdJRWExMmNKMU9wYUNhb2YtT0pj?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaWxCSWl1X1JjbkRPTHVSanpyWU8zX2E0TU4tSEItc1FpV3F6anV1QldoeU0wOElsWUR1MGgzNnhyeXFKdVFESGpfT3B1eWFCM3otTXN4S004VjFFV2EwQW5HV0hBQWlRdGMtOERtSVZkT2JFNHpfVnlGUmdROU9IekNseXJlN0dTTWtoRDB5SFJGZDlCZ25tUkdnQTJPVDc4UC1EQjZVWjZMdVFSXy1Gek1tUDNYNTNKRkd2N1ZXRm1xQ3A0VTFLS04zSzdJRWExMmNKMU9wYUNhb2YtT0pj?oc=5</guid>
-            <pubDate>Tue, 09 Dec 2025 02:59:00 GMT</pubDate>
+            <pubDate>Tue, 09 Dec 2025 02:59:25 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 特朗普政府希望航空公司、机场提供更健康的食品和锻炼选择 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[文件称，华纳兄弟缺乏回应加剧了派拉蒙的敌意收购 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFk3bHNXNVdxY2tPenVjd2JKNFRSZVJZYmRqRUxZdkVPa3R6QVVLZ05zT05FOWc4NEk4Mk5zbjNtYXN2RVBjSEE3ZTgyLTdVTWFodVJKaEVDeWRTMDFLUDUyc2tkR3RZNzFpWks5RUEta0NVclNibkVJX3d5UUx1eko5Y0xkLTBrZ0RGcHRHQXg3Q1RjVEtDYlgwNVZyc2hJNGxVWjloS0M2RUJFRjZ5dGw0bW5wOW4zWEZNQmhuYTZOMHZU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFk3bHNXNVdxY2tPenVjd2JKNFRSZVJZYmRqRUxZdkVPa3R6QVVLZ05zT05FOWc4NEk4Mk5zbjNtYXN2RVBjSEE3ZTgyLTdVTWFodVJKaEVDeWRTMDFLUDUyc2tkR3RZNzFpWks5RUEta0NVclNibkVJX3d5UUx1eko5Y0xkLTBrZ0RGcHRHQXg3Q1RjVEtDYlgwNVZyc2hJNGxVWjloS0M2RUJFRjZ5dGw0bW5wOW4zWEZNQmhuYTZOMHZU?oc=5</guid>
-            <pubDate>Tue, 09 Dec 2025 02:25:39 GMT</pubDate>
+            <pubDate>Tue, 09 Dec 2025 02:25:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 文件称，华纳兄弟缺乏回应加剧了派拉蒙的敌意收购]]></description>
         </item>
         <item>
@@ -444,6 +451,13 @@
             <description><![CDATA[[Reuters Business] 安永称内燃机汽车在全球重新流行 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[英国零售销售增长因黑色星期五预算抵消而降温]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-09/uk-retail-sales-growth-cools-as-budget-fears-offset-black-friday</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/uk-retail-sales-growth-cools-as-budget-fears-offset-black-friday</guid>
+            <pubDate>Tue, 09 Dec 2025 00:01:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 英国零售协会的一份报告称，黑色星期五折扣未能阻止英国零售销售放缓，因为工党政府的预算损害了消费者信心。]]></description>
+        </item>
+        <item>
             <title><![CDATA[墨西哥前州长因涉嫌洗钱被捕 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQbG5KZWRBOTExdWFUVVh4ZWFMdlRhdFg5NEdtWndOMmxwdkFpZU9kYWRhWllSSF8wU0cza1RGVEZxVmNDbVRrMllEdFJqdmZuQzhZNHRQMkZyTUlXZGUwa2d2RFl3a3Y1UXZvTWQ2azB5bjdpTktqYXNGTkxiZGI5R1F0bmN6dzlDdjc0d2poZ0tsblNLQzdDZkl1WGdES2ozWUtKeWszaVRLbFlQZHc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQbG5KZWRBOTExdWFUVVh4ZWFMdlRhdFg5NEdtWndOMmxwdkFpZU9kYWRhWllSSF8wU0cza1RGVEZxVmNDbVRrMllEdFJqdmZuQzhZNHRQMkZyTUlXZGUwa2d2RFl3a3Y1UXZvTWQ2azB5bjdpTktqYXNGTkxiZGI5R1F0bmN6dzlDdjc0d2poZ0tsblNLQzdDZkl1WGdES2ozWUtKeWszaVRLbFlQZHc?oc=5</guid>
@@ -507,11 +521,11 @@
             <description><![CDATA[[财新网] 财经早知道｜强震发生后 日本警告后续或有更大地震  财新网]]></description>
         </item>
         <item>
-            <title><![CDATA[随着美联储焦虑加剧，股市陷入困境，收益率上升：市场总结]]></title>
+            <title><![CDATA[美联储利率谨慎情绪持续，股市小幅上涨：市场结束]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-08/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-08/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Mon, 08 Dec 2025 22:33:54 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 全球股市波动，美国国债收益率再次小幅走高，因为交易员对美联储在本周近乎确定的降息之后的宽松步伐感到担忧。]]></description>
+            <description><![CDATA[[Bloomberg] 股市小幅上涨，而债券收益率徘徊在周一高点附近，因为交易员在美联储做出充满风险的决定之前没有进行大额押注。]]></description>
         </item>
         <item>
             <title><![CDATA[Meta承诺在广告中使用更少的个人数据获得欧盟认可，避免每日罚款 - 路透中文网]]></title>
@@ -654,13 +668,6 @@
             <description><![CDATA[[CNBC] 德意志银行要求其 dbLumina 人工智能模型选择一篮子基金。]]></description>
         </item>
         <item>
-            <title><![CDATA[汽车制造商、租赁公司敦促欧盟避免强制性电动汽车车队目标 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQVy0wN1NUb3ZWSWROdDJudWdkbUl0Z0g5MDN1S3BEN2sxUzJzb1RyNGRma1BPeDVMdkJlX1NRcnA5WjM4Y1c3OTRaV2h0TUhuQUk0dGc1SHB1SWZXdG45YmpCOXFEcGZQcV9PMzZqOHduRkRNT2xFaWRVdmk1LXdPRDgxTWoyTXVfX2FrQ3MxVjlnRS1wTGgzM0tSUHRqUldEelV2QVltM1FvZnZqU1gwTVNLd3czY0k?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQVy0wN1NUb3ZWSWROdDJudWdkbUl0Z0g5MDN1S3BEN2sxUzJzb1RyNGRma1BPeDVMdkJlX1NRcnA5WjM4Y1c3OTRaV2h0TUhuQUk0dGc1SHB1SWZXdG45YmpCOXFEcGZQcV9PMzZqOHduRkRNT2xFaWRVdmk1LXdPRDgxTWoyTXVfX2FrQ3MxVjlnRS1wTGgzM0tSUHRqUldEelV2QVltM1FvZnZqU1gwTVNLd3czY0k?oc=5</guid>
-            <pubDate>Mon, 08 Dec 2025 18:15:36 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 汽车制造商、租赁公司敦促欧盟避免强制性电动汽车车队目标 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[印度尼西亚称苏门答腊岛洪水后需要超过30亿美元的恢复资金 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTFWeEZzNEZ5djZ3NHVObmliRWxTdGFLYVlGc3hoc2pvRTBOZjloZVVkN1ByZUpPVlAycjZaRDhfbURxX0VBZDFrYVN6Y0drMk56alZybWtvQ0FSRHlaNDc2c01PRHhDUjRUeHk5RERKYnM3aXNQaWZYTzAtejZOaXc1dnpGYW9rR3o5V3F6MnVTcXY3RklXNVdCOW5PZl9ONkZ6T1BZTTU2LVlUTll2SGRkdll6eTF5eFVfcjdsRjBmU3A4VEQ2R0FZc1J0eVdxT0E?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTFWeEZzNEZ5djZ3NHVObmliRWxTdGFLYVlGc3hoc2pvRTBOZjloZVVkN1ByZUpPVlAycjZaRDhfbURxX0VBZDFrYVN6Y0drMk56alZybWtvQ0FSRHlaNDc2c01PRHhDUjRUeHk5RERKYnM3aXNQaWZYTzAtejZOaXc1dnpGYW9rR3o5V3F6MnVTcXY3RklXNVdCOW5PZl9ONkZ6T1BZTTU2LVlUTll2SGRkdll6eTF5eFVfcjdsRjBmU3A4VEQ2R0FZc1J0eVdxT0E?oc=5</guid>
@@ -701,13 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZFZkNVlIa3pEZTBlVm9KeF9hdkhjeHpBNXVuOUgxTmZaRUZieEJvbmpuZHRnNHhDb3doakNJWlZNUHpHM2dxTmhKTVRndDMzdzJPR1FyUG5CUTF5aW5LNE1BVDAtbFhNMm1RNTYwZXg2VDF3VjV5VU1saWtVNV96N290aEYzZHdxM0pveGNxV1MySHpJSHpPbGNWZVBNQ2lwWlVxUTZjVTBCWjBTNUtiXy15VzNDdTV0YlBr?oc=5</guid>
             <pubDate>Mon, 08 Dec 2025 17:04:43 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 在最新的英国石油和天然气合作中，道达尔将北海资产与雷普索尔的 NEO NEXT 合并 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BLS 将跳过 10 月份 PPI 报告]]></title>
-            <link>https://www.wsj.com/economy/bls-to-skip-october-ppi-report-cefc4ef1</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/bls-to-skip-october-ppi-report-cefc4ef1</guid>
-            <pubDate>Mon, 08 Dec 2025 17:04:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 美国劳工统计局将跳过推迟发布批发价格通胀报告，而是将这些数据合并到 1 月 14 日发布的推迟发布的 11 月报告中。]]></description>
         </item>
     </channel>
 </rss>
