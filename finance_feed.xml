@@ -4,10 +4,73 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 09 Dec 2025 21:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 21:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国股市涨跌不一；截至收盘道琼斯工业平均指数下跌0.37%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3119944</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3119944</guid>
+            <pubDate>Tue, 09 Dec 2025 21:32:06 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥股市上涨；截至收盘墨西哥S&P/BMV IPC指数上涨0.31%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3119943</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3119943</guid>
+            <pubDate>Tue, 09 Dec 2025 21:31:05 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加拿大股市上涨；截至收盘加拿大多伦多S&P/TSX 综合指数上涨0.24%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3119941</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3119941</guid>
+            <pubDate>Tue, 09 Dec 2025 21:30:21 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[债券交易商对去年 12 月美联储延长降息表示怀疑]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-09/bond-traders-cast-doubt-on-extended-fed-rate-cuts-past-december</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/bond-traders-cast-doubt-on-extended-fed-rate-cuts-past-december</guid>
+            <pubDate>Tue, 09 Dec 2025 21:30:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 债券交易员押注美联储未来一年降息幅度将较小，这是全球押注主要央行将放缓或停止货币宽松政策的一部分。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚股市上涨；截至收盘COLCAP上涨0.51%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3119937</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3119937</guid>
+            <pubDate>Tue, 09 Dec 2025 21:25:25 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[德纳利治疗公司宣布2亿美元公开发行后股价下跌]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119936</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119936</guid>
+            <pubDate>Tue, 09 Dec 2025 21:25:21 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index下跌0.11%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3119918</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3119918</guid>
+            <pubDate>Tue, 09 Dec 2025 21:20:19 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GE Vernova股价在宣布股息翻倍并提高财务展望后上涨]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119917</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119917</guid>
+            <pubDate>Tue, 09 Dec 2025 21:20:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Amneal股价在FDA批准肾上腺素注射剂后上涨]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119901</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119901</guid>
+            <pubDate>Tue, 09 Dec 2025 21:14:01 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[马里奥·加贝利“可能”将华纳兄弟股票出售给派拉蒙]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-09/mario-gabelli-likely-to-tender-warner-bros-stock-to-paramount</link>
@@ -16,17 +79,17 @@
             <description><![CDATA[[Bloomberg] 资金经理马里奥·加贝利 (Mario Gabelli) 表示，他“极有可能”将其客户的华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 股份出售给派拉蒙 Skydance Corp.，以引发对华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 的竞购战。]]></description>
         </item>
         <item>
+            <title><![CDATA[泽连斯基：乌克兰已准备好举行选举，可在未来60至90天内举行]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3119881</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3119881</guid>
+            <pubDate>Tue, 09 Dec 2025 21:05:26 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
             <title><![CDATA[维珍银河股价在宣布4560万美元股票销售计划后暴跌]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119880</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119880</guid>
             <pubDate>Tue, 09 Dec 2025 21:01:18 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Teleflex股价飙升，宣布以20.3亿美元出售业务部门并启动10亿美元股份回购]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119879</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119879</guid>
-            <pubDate>Tue, 09 Dec 2025 20:58:54 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -37,67 +100,11 @@
             <description><![CDATA[[Bloomberg] 最近几天，第一品牌集团(First Brands Group)的主要投资者抛售了这家破产汽车供应商债务中的股份，导致其最高级贷款的价值暴跌，并促使其推迟放贷方呼吁安抚紧张情绪。]]></description>
         </item>
         <item>
-            <title><![CDATA[Dyne Therapeutics股价因3亿美元股票发行计划暴跌]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119876</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119876</guid>
-            <pubDate>Tue, 09 Dec 2025 20:52:40 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cronos Group股价在宣布收购CanAdelaar后飙升]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119873</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119873</guid>
-            <pubDate>Tue, 09 Dec 2025 20:49:40 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[穆迪下调图卢石油评级至Ca，因债务到期忧虑]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119872</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119872</guid>
-            <pubDate>Tue, 09 Dec 2025 20:49:00 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[穆迪下调Townsquare Media评级至B3，前景转弱]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119871</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119871</guid>
-            <pubDate>Tue, 09 Dec 2025 20:48:50 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX计划创纪录IPO，融资目标超过300亿美元 - 彭博社]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3119870</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3119870</guid>
-            <pubDate>Tue, 09 Dec 2025 20:45:46 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[贝莱德 (BlackRock) 的 HPS 计划推出新的“H 系列”零售私募基金]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-09/blackrock-s-hps-plots-new-h-series-private-funds-for-retail</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/blackrock-s-hps-plots-new-h-series-private-funds-for-retail</guid>
             <pubDate>Tue, 09 Dec 2025 20:43:56 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 贝莱德公司 (BlackRock Inc.) 计划以 120 亿美元收购信贷专家 HPS Investment Partners 后，计划为散户投资者推出一系列新的私募市场基金。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[标普将Enviri Corp.评级列入CreditWatch，因其宣布向威立雅出售Clean Earth业务]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119867</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119867</guid>
-            <pubDate>Tue, 09 Dec 2025 20:39:21 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[标普全球将Bloomin’ Brands评级下调至"B+"，原因是利润率承压]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3119865</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3119865</guid>
-            <pubDate>Tue, 09 Dec 2025 20:38:52 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SpaceX据报道将在2026年IPO，融资规模远超300亿美元 - 彭博社]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-432SI-3119864</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-432SI-3119864</guid>
-            <pubDate>Tue, 09 Dec 2025 20:38:04 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[预计美联储的决定将包括降息等。 这是值得期待的]]></title>
@@ -168,6 +175,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFYtckNjNDZvenJwU1g3ZjFFMVhZNmI4OTlZbl9xNWMtNTRLZG02N1AxOUFIRmc3akVyUGpEM0VrRm5SdnBrd3hHVGVGN0xlRVRCM21XRGhWSjNJRzlFWklXTW5ibHozNVNRNnVseVVmU3NFeC1SV3otcjRkbXZXSkVXYU92Z0NoVE9KTXhqSlQwMWNqR0t3aEhfY2thaXVwaG5n?oc=5</guid>
             <pubDate>Tue, 09 Dec 2025 19:26:34 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Tether 支持的二十一资本 (Twenty One Capital) 在首次交易中下滑 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Anson 推动 SPS Commerce 探索出售和管理层变动]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-09/anson-pushes-sps-commerce-explore-sale-management-changes</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/anson-pushes-sps-commerce-explore-sale-management-changes</guid>
+            <pubDate>Tue, 09 Dec 2025 19:21:56 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Anson Funds Management 已入股 SPS Commerce Inc.，并正在推动这家零售供应链管理软件制造商考虑罢免其首席执行官并将自己出售。]]></description>
         </item>
         <item>
             <title><![CDATA[Anglo 和 Teck 投资者支持创建 500 亿美元矿业公司的交易]]></title>
@@ -345,13 +359,6 @@
             <description><![CDATA[[Bloomberg] 布鲁克菲尔德公司 (Brookfield Corp.) 计划建立财产和伤亡保险业务，因为它希望利用保险业的一个角落，该公司在这个角落拥有竞争优势，并且没有被其他私募股权公司挤占。]]></description>
         </item>
         <item>
-            <title><![CDATA[美国农业部认为美国出口持平，大豆价格保持在 11 美元以下]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-09/soy-stays-under-11-as-usda-sees-flat-american-exports</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/soy-stays-under-11-as-usda-sees-flat-american-exports</guid>
-            <pubDate>Tue, 09 Dec 2025 17:43:13 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国农业部在月度报告中预测美国供应持平且世界产量略有增加后，大豆期货继续下跌。]]></description>
-        </item>
-        <item>
             <title><![CDATA[检察官称俄罗斯农业的主要美国投资者是极端分子 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1J1RjF3QXM5aWJNT3U0U2hISHRTQTE4SmZSNWNhVG9IOEltTmV0MGlpQTh5MjVDdlJSZmxHQ1M5cWJDV2o2VXlhaFV6Y2k1bERHWW45NFRZclBhelZWb0xPU1FnMHJiNW1WMHB5em1RRno1V2pPYzhwMEtabHJuaklLWldvbmNvTW9GLWZoUVNNVUZoTUtubl9LWGNBWlhJVEpwMzJmNnJwMnlqQ1NmbTB1V0lOLUNwcW1TLU1nZWprOGl5YVpCWkl6SQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxOV1J1RjF3QXM5aWJNT3U0U2hISHRTQTE4SmZSNWNhVG9IOEltTmV0MGlpQTh5MjVDdlJSZmxHQ1M5cWJDV2o2VXlhaFV6Y2k1bERHWW45NFRZclBhelZWb0xPU1FnMHJiNW1WMHB5em1RRno1V2pPYzhwMEtabHJuaklLWldvbmNvTW9GLWZoUVNNVUZoTUtubl9LWGNBWlhJVEpwMzJmNnJwMnlqQ1NmbTB1V0lOLUNwcW1TLU1nZWprOGl5YVpCWkl6SQ?oc=5</guid>
@@ -366,20 +373,6 @@
             <description><![CDATA[[Reuters Business] 欧盟即将就俄罗斯资产达成协议，峰会将继续进行直至达成协议 - Costa 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[绿党弃权，法国福利预算竞标得到提振]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-09/france-s-bid-for-welfare-budget-gets-boost-as-greens-to-abstain</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/france-s-bid-for-welfare-budget-gets-boost-as-greens-to-abstain</guid>
-            <pubDate>Tue, 09 Dec 2025 17:34:36 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 法国国民议会绿党议员将在关于社会保障预算的关键投票中投弃权票，这增加了总理塞巴斯蒂安·勒科尔努避免政府危机的可能性。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国零售大亨迈克·阿什利 (Mike Ashley) 承诺以辉盛集团股票作为抵押贷款]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-09/uk-retail-tycoon-mike-ashley-pledges-frasers-shares-against-loan</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/uk-retail-tycoon-mike-ashley-pledges-frasers-shares-against-loan</guid>
-            <pubDate>Tue, 09 Dec 2025 17:32:31 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 根据周二提交的文件，亿万富翁迈克·阿什利 (Mike Ashley) 以其向汇丰控股有限公司 (HSBC Holdings Plc) 提供的贷款为其英国零售商辉盛集团 (Frasers Group Plc) 提供了价值超过 6 亿英镑（合 8 亿美元）的股票。]]></description>
-        </item>
-        <item>
             <title><![CDATA[亨德里克斯经典专辑在英国与索尼的版权争夺战中受到关注 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTktUR3dKZ1BabHowYmphOTctc3pfRmJ4N2NwcUlRVVpORWg4aklEZ3pFcUtNOUstWnRWZ1VIV2FKcV95ZFVjWHg2ZXpYU0hUc3YzVW5TZjJLZktuMDB2YkZyVlgzNFlWaTk4YUk0cm44dFdhMXh3emJzcmhjVVZwYkdNS09CUXFlbEptbnozQ2hvYjJOU0kyaTBHWXBnNDFfcE05TVFzNVpEQ0RJRDBqOXc1MXVvcTZPSlBJMG1HRS1mUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTktUR3dKZ1BabHowYmphOTctc3pfRmJ4N2NwcUlRVVpORWg4aklEZ3pFcUtNOUstWnRWZ1VIV2FKcV95ZFVjWHg2ZXpYU0hUc3YzVW5TZjJLZktuMDB2YkZyVlgzNFlWaTk4YUk0cm44dFdhMXh3emJzcmhjVVZwYkdNS09CUXFlbEptbnozQ2hvYjJOU0kyaTBHWXBnNDFfcE05TVFzNVpEQ0RJRDBqOXc1MXVvcTZPSlBJMG1HRS1mUQ?oc=5</guid>
@@ -392,14 +385,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUmdZWjJvLWVmbkMwVV9MSXJtSUZZRWE1ZVFOazZubEI3TzFibHlUNFpqbmFjU3JWVkhMeERESEtqYXo0UFB6NWNiY2JGUnZKdUpsY0tmcVo0SmQxREQ4LXpXQnJ6bDA4OTNjY1JuZ2JzLWlnRVZCT19tWU1GdjZrcElYSHVDdTc5LTEtdXAyRVpYT09WTThnMmtKU2ZWU01zN3B5UldDdy1oYXEwN05FejhEckRjSzJhXzJ4Y0Iyd09saVVNbkN0Z1d4NFdkcjMtR3VtVVdHZw?oc=5</guid>
             <pubDate>Tue, 09 Dec 2025 17:28:30 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：美国 FDA 对已批准的婴儿 RSV 疗法启动新的安全审查 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[劳拉·马丁表示华纳兄弟将成为 Netflix 的主播]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-12-09/warner-bros-would-be-an-anchor-for-netflix-martin-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-09/warner-bros-would-be-an-anchor-for-netflix-martin-video</guid>
-            <pubDate>Tue, 09 Dec 2025 17:25:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 就在华纳兄弟探索公司同意与 Netflix Inc. 达成协议几天后，派拉蒙 Skydance Corp. 以每股 30 美元的现金对华纳兄弟Discovery Inc. 发起了敌意收购。该要约对华纳兄弟的估值为 1,084 亿美元（包括债务）。
- 相比之下，Netflix 的出价为 27.75 美元现金加股票，企业价值约为 827 亿美元（包括债务）。 派拉蒙的报价面向所有华纳兄弟，而 Netflix 只对好莱坞电影公司、HBO 和流媒体业务感兴趣。  Needham & Company 的高级分析师劳拉·马丁 (Laura Martin) 与 Bloomberg Intelligence 一起讨论了华纳兄弟与 Netflix 交易的未来以及派拉蒙的敌意收购。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[Spotify 将音乐视频的访问范围扩大到美国和加拿大的高级用户，以挑战 YouTube - 路透中文网]]></title>
@@ -423,11 +408,11 @@
             <description><![CDATA[[Reuters Business] 总理图斯克表示，欧盟批准了对波兰第一座核电站的国家援助 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[由于职位空缺凸显美联储的困境，国债涨势陷入停滞]]></title>
+            <title><![CDATA[职位空缺凸显美联储困境，国债下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-09/treasuries-rally-stalls-on-job-openings-data-with-auction-ahead</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/treasuries-rally-stalls-on-job-openings-data-with-auction-ahead</guid>
             <pubDate>Tue, 09 Dec 2025 16:42:04 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国就业机会指标超出预期后，美国国债小幅走低，突显美联储决策者在准备本周就是否再次降息进行投票时面临的挑战。]]></description>
+            <description><![CDATA[[Bloomberg] 美国就业机会指标超出预期后，美国国债下跌，凸显美联储决策者在准备本周就是否再次降息进行投票时面临的挑战。]]></description>
         </item>
         <item>
             <title><![CDATA[报告称第三季度美国太阳能装机量猛增49% - 路透中文网]]></title>
@@ -528,6 +513,13 @@
             <description><![CDATA[[Reuters Business] 宝马任命资深人士内德尔科维奇为首席执行官，以应对中国和特斯拉的挑战 - 路透中文网]]></description>
         </item>
         <item>
+            <title><![CDATA[由于交易员在美联储和甲骨文之前保持观望，股市波动]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-09/s-p-500-wavers-as-traders-stay-on-sidelines-ahead-of-fed-oracle</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/s-p-500-wavers-as-traders-stay-on-sidelines-ahead-of-fed-oracle</guid>
+            <pubDate>Tue, 09 Dec 2025 14:45:53 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 周二，美国股市小幅波动，投资者等待美联储和人工智能领头羊提供的线索，判断 2026 年是做多还是套现。]]></description>
+        </item>
+        <item>
             <title><![CDATA[消息人士称，俄罗斯 Syzran 炼油厂因 12 月 5 日无人机袭击而停工 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXp6d2NjM0I4RTlCcXJwUHFoSXBZSnBYSjNOZi1BX01US3JJOVQzclVHRU1mVlNlZXA4c1doUmprZzItVzI5aHc2Yi1uRFpGelRQM3RvLUVCNWx5ZU9pZExHaXVHTFg5LWpZNlVuSk9WZmZHVmcxUmtoWjBremk1VEpMWnlmZTNuaHJpbDNnb0c2dUhPUlgxQ05BX1VaTE9keWJuckhicm84cWlCQlJpcVJpTUVmYmlTcnlnZy04YjU5QlU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXp6d2NjM0I4RTlCcXJwUHFoSXBZSnBYSjNOZi1BX01US3JJOVQzclVHRU1mVlNlZXA4c1doUmprZzItVzI5aHc2Yi1uRFpGelRQM3RvLUVCNWx5ZU9pZExHaXVHTFg5LWpZNlVuSk9WZmZHVmcxUmtoWjBremk1VEpMWnlmZTNuaHJpbDNnb0c2dUhPUlgxQ05BX1VaTE9keWJuckhicm84cWlCQlJpcVJpTUVmYmlTcnlnZy04YjU5QlU?oc=5</guid>
@@ -540,6 +532,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wSHpNN0h5aHRSMklIbWpsbExrSlhQcTFuOVlMSURRZllka3BKTzhIX1g3djJIUUt0QjhQREprOEFQWC1kT2tndzJtWDBiUlBMNXhv?oc=5</guid>
             <pubDate>Tue, 09 Dec 2025 14:41:20 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] “影子联储主席”哈塞特：美联储有“充足空间”降息，那意味着降幅超过25基点  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cantor 股权合并后，比特币公司 Twenty One 下跌 20%]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-09/bitcoin-firm-twenty-one-falls-25-after-cantor-equity-merger</guid>
+            <pubDate>Tue, 09 Dec 2025 14:39:11 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Twenty One Capital Inc. 与特殊目的收购公司 Cantor Equity Partners Inc. 合并，成为最新一家上市​​加密货币公司后，其股价在周二首次交易中下跌 20%。]]></description>
         </item>
         <item>
             <title><![CDATA[利率决议前夕“小非农”ADP回暖，周均新增就业4750人 - 华尔街见闻]]></title>
