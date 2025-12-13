@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 13 Dec 2025 19:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 19:37:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -21,6 +21,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3126498</guid>
             <pubDate>Sat, 13 Dec 2025 17:35:33 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰称俄罗斯无人机袭击土耳其民用船只 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTJOa3VwR1NxN0hVMlhPXzA0ZVNXLThYcXR1dzREcTdweVUzcFNFQ0t5azVVLW9MRktHTUFDRUFWT2xwdHVIV1RMWHB5RnNMNnBsdGpQcEs2MkQxRVEzR0RHcktDeTR6c0NrbE9acjV3QzNsZFlxSS1OaFpCT2JzOEN1TmJMQ0trMDZMcDRXUG1obGVOV09LV2tld3o3a1BMNWVDVkNFWFA4eTEwcWMyd1VCUURMUmczblVadzgxSTI3UQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTJOa3VwR1NxN0hVMlhPXzA0ZVNXLThYcXR1dzREcTdweVUzcFNFQ0t5azVVLW9MRktHTUFDRUFWT2xwdHVIV1RMWHB5RnNMNnBsdGpQcEs2MkQxRVEzR0RHcktDeTR6c0NrbE9acjV3QzNsZFlxSS1OaFpCT2JzOEN1TmJMQ0trMDZMcDRXUG1obGVOV09LV2tld3o3a1BMNWVDVkNFWFA4eTEwcWMyd1VCUURMUmczblVadzgxSTI3UQ?oc=5</guid>
+            <pubDate>Sat, 13 Dec 2025 17:09:46 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 乌克兰称俄罗斯无人机袭击了土耳其民用船只 路透]]></description>
         </item>
         <item>
             <title><![CDATA[高盛对专门提供下行保护的 ETF 下了重注]]></title>
@@ -701,13 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mUE9FYTRLMWk3aTI4TmlYUU5hNTR5ZmNuVElRVGJjVGk2cndEcVVEazZqbDFzZGtsczRydFVhZTZtR0NBOW5MdnNTcUtWYmN6aWFCMUpjeDdpX1JhYmZkczRR?oc=5</guid>
             <pubDate>Fri, 12 Dec 2025 14:05:00 GMT</pubDate>
             <description><![CDATA[[财新网] 金监总局：银行为投资非标资产的产品托管前 应视自身能力做充分评估  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[11月新增社融2.49万亿元超预期 居民加杠杆意愿低迷 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZUtTbTBVNFpMdUJJVUFFNWlIUE9jWUc2SnRmclpEcEVHU1ZmRFlOODdnWTBlSmNOZkxQUXZJWk1TUGVCZmtXXzE2cHBENHFKU0Y3d09XY3BmMmtXYVFOY29n?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZUtTbTBVNFpMdUJJVUFFNWlIUE9jWUc2SnRmclpEcEVHU1ZmRFlOODdnWTBlSmNOZkxQUXZJWk1TUGVCZmtXXzE2cHBENHFKU0Y3d09XY3BmMmtXYVFOY29n?oc=5</guid>
-            <pubDate>Fri, 12 Dec 2025 13:41:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 11月新增社融2.49万亿元超预期 居民加杠杆意愿低迷  财新]]></description>
         </item>
     </channel>
 </rss>
