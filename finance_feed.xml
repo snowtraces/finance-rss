@@ -4,16 +4,23 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 13 Dec 2025 13:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 13:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[国金证券：政策+技术+业绩三重拐点 商业航天迎来奇点时刻]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3126485</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3126485</guid>
+            <pubDate>Sat, 13 Dec 2025 13:35:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[开源代码和核能是人工智能的基石]]></title>
             <link>https://www.bloomberg.com/news/newsletters/2025-12-13/amd-ceo-lisa-su-and-ge-vernova-ceo-scott-strazik-explain-what-we-need-for-ai</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2025-12-13/amd-ceo-lisa-su-and-ge-vernova-ceo-scott-strazik-explain-what-we-need-for-ai</guid>
             <pubDate>Sat, 13 Dec 2025 13:00:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 大卫·威斯汀 (David Westin) 探讨了为什么开放源代码和核能对人工智能如此重要。]]></description>
+            <description><![CDATA[[Bloomberg] 大卫·威斯汀 (David Westin) 研究了为什么开放源代码和核能对人工智能如此重要。]]></description>
         </item>
         <item>
             <title><![CDATA[马来西亚将获得与 1MDB 律师有关的毕加索和马蒂斯艺术品]]></title>
@@ -72,6 +79,13 @@
             <description><![CDATA[[Reuters Business] 捷克新总理拒绝为乌克兰贷款提供担保 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[“地图上的图钉”：芝加哥学生如何追踪 ICE 突袭行动 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3NWZ0F5SUFoYW5tbW5VTThOOHpTQlM3TWM4aUpTQXdKbDJESTJrMm14Ti1qM2cwcmVvUXdaZ0JzVFJzQkdiOUgzRnJZNjRURGczN2w2YXFULWk5aVZ6dGJ3TWRmVGpRTkRsQzNMVjBYQ2hFX0dBeGJqdmNTdzZMdmdVTDgyWEhXRnk3NXNOQ0NIdEhlWF8yaWgydFA4dnRJdUkzN0J4UlVQdlJZeHMySw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3NWZ0F5SUFoYW5tbW5VTThOOHpTQlM3TWM4aUpTQXdKbDJESTJrMm14Ti1qM2cwcmVvUXdaZ0JzVFJzQkdiOUgzRnJZNjRURGczN2w2YXFULWk5aVZ6dGJ3TWRmVGpRTkRsQzNMVjBYQ2hFX0dBeGJqdmNTdzZMdmdVTDgyWEhXRnk3NXNOQ0NIdEhlWF8yaWgydFA4dnRJdUkzN0J4UlVQdlJZeHMySw?oc=5</guid>
+            <pubDate>Sat, 13 Dec 2025 11:05:21 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] “地图上的图钉”：芝加哥学生如何追踪 ICE 突击搜查 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[新股消息 | 奥动新能源递表港交所 为中国最大的独立第三方换电解决方案提供商]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3126465</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3126465</guid>
@@ -118,13 +132,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3126454</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3126454</guid>
             <pubDate>Sat, 13 Dec 2025 09:05:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国页岩油产业2026年前景如何？]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3126456</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3126456</guid>
-            <pubDate>Sat, 13 Dec 2025 09:00:00 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -339,7 +346,7 @@
             <description><![CDATA[[Bloomberg] 在“彭博实际收益率”节目中，富国银行企业与投资银行高等级债务银团全球主管 Maureen O'Connor 和贝莱德宏观信贷研究主管 Amanda Lynam 与 Matt Miller 讨论了与人工智能增长繁荣相关的信用利差、发行和风险。 支持人工智能革命的发展狂潮正在进行，随之而来的是对为其提供资金的债务的无尽需求。 一些人估计基础设施建设的总体成本可能达到 10 万亿美元，而且随着如此多的贷款机构排队向这些资产投入现金，人们担心泡沫正在形成。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[关于信贷的“实际收益率”辩论：拥有还是不拥有？]]></title>
+            <title><![CDATA[关于信贷的“实际收益率”争论：拥有还是不拥有？]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-12-12/-real-yield-debate-on-credit-own-or-not-own-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-12/-real-yield-debate-on-credit-own-or-not-own-video</guid>
             <pubDate>Fri, 12 Dec 2025 22:00:42 GMT</pubDate>
@@ -406,7 +413,7 @@
             <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTRlY2YzZ0g5NUNQMUcxUjFGSjBIZzhRa0NEOEdySk41a3dpQW52VjRuMXZyMnU2dG0yMVoxOUNfbUl6UzMwUGdkZzZjb3dxaFFiaTRjdnI5WGpnMDN1b2swUnNKUDRReFRHZEo5d09sTFlUQTNydmR3Tm9FVkZvM1BsMXR6aW1lSndPOERQSWM2U2FSVUdEbmE3YlhQVV9wUnNzT2lfVmN4WjhBbUpiUEFSRlpWN3J5Y09hSUx3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTRlY2YzZ0g5NUNQMUcxUjFGSjBIZzhRa0NEOEdySk41a3dpQW52VjRuMXZyMnU2dG0yMVoxOUNfbUl6UzMwUGdkZzZjb3dxaFFiaTRjdnI5WGpnMDN1b2swUnNKUDRReFRHZEo5d09sTFlUQTNydmR3Tm9FVkZvM1BsMXR6aW1lSndPOERQSWM2U2FSVUdEbmE3YlhQVV9wUnNzT2lfVmN4WjhBbUpiUEFSRlpWN3J5Y09hSUx3?oc=5</guid>
             <pubDate>Fri, 12 Dec 2025 20:40:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 查尔斯国王表示他在新的一年里可以减少癌症治疗 路透社]]></description>
+            <description><![CDATA[[Reuters Business] 查尔斯国王表示他在新的一年里可以减少癌症治疗 路透]]></description>
         </item>
         <item>
             <title><![CDATA[关于委内瑞拉驱逐的诺姆藐视法庭听证会被法院叫停]]></title>
@@ -500,7 +507,7 @@
             <description><![CDATA[[Reuters Business] 文件显示，俄罗斯裁决后，谷歌面临法国 1.29 亿美元资产冻结 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[对于全力押注 7 个主导市场的投资者来说，“同等权重”正在成为 2026 年股票认购的趋势]]></title>
+            <title><![CDATA[对于全心投入 7 个主导市场的投资者来说，“同等权重”正在成为 2026 年股票认购的趋势]]></title>
             <link>https://www.cnbc.com/2025/12/12/stocks-market-risks-investors-portfolios-2026.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/12/12/stocks-market-risks-investors-portfolios-2026.html</guid>
             <pubDate>Fri, 12 Dec 2025 18:30:12 GMT</pubDate>
@@ -560,7 +567,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-12/major-bank-stocks-poised-for-third-week-of-gains-on-rate-trends</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-12/major-bank-stocks-poised-for-third-week-of-gains-on-rate-trends</guid>
             <pubDate>Fri, 12 Dec 2025 15:45:45 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国大型银行的股价连续第三周上涨，这是自 8 月份以来最长的连续上涨，此前一次行业会议的最新消息引发了人们的乐观情绪，认为它们将继续受益于有弹性的经济以及短期和长期利率之间不断扩大的差距。]]></description>
+            <description><![CDATA[[Bloomberg] 美国大型银行股连续第三周上涨，这是自 8 月份以来最长的连续上涨趋势，此前一次行业会议的最新消息引发了人们的乐观情绪，认为它们将继续受益于有弹性的经济以及短期和长期利率之间不断扩大的差距。]]></description>
         </item>
         <item>
             <title><![CDATA[两名美联储反对者在投票反对降息时提到通胀风险 - 路透中文网]]></title>
@@ -701,13 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkFMR3JfaU1JZHR4N2hVZ09kT3pZRlJlQ1VUMFJFQzZMTWpSQTBwbEc3bDdxUm9DS3psMThONmdlUG1kOVdtaVpwel9BT01PQTRiVmhMUG80WHRDQXBtdXgtbW91UGQ4NUpqV1IxUHdDRmYyLXFGVTVxYmFhZFlqa2lvOW5Va3hPTld3dDlxNlEyTU4yYV9OYy0yWVU0RkVYcGQydE56bGJHcDVRMU5tcjRGbFdpcmdaWFd4Z0V6MTNOdFVmYzViOEFRelluZw?oc=5</guid>
             <pubDate>Fri, 12 Dec 2025 13:18:38 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 罗马尼亚发现两名女按摩师患有麻风病，这是 40 年来的首例病例 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国央行：灵活高效运用降准降息等多种货币政策工具，把握好政策实施的力度、节奏和时机 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5UFpGbmxXaWZ6akNndi13cUliR2FfU216aFF4Zjd4YWUzRldNWFZ5eDc4Vm1hRXVyUUJNUVRfRl9xdkpOc1c3YmF6WE01SndCZmYw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5UFpGbmxXaWZ6akNndi13cUliR2FfU216aFF4Zjd4YWUzRldNWFZ5eDc4Vm1hRXVyUUJNUVRfRl9xdkpOc1c3YmF6WE01SndCZmYw?oc=5</guid>
-            <pubDate>Fri, 12 Dec 2025 12:30:38 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 中国央行：灵活高效运用降准降息等多种货币政策工具，把握好政策实施的力度、节奏和时机  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
