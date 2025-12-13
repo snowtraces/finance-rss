@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 13 Dec 2025 17:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 17:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -133,6 +133,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3126474</guid>
             <pubDate>Sat, 13 Dec 2025 11:35:33 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国央行主管媒体：将坚持内需主导放在首位 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXNGQxR0l6ZC1sSVdEdUt6dGUzcEg2SXYxNll1RFExc2RRem5EYVVVMkIzUV9fN0VkZGVaR0o0eWJfN01vazkzU3phdUtVLWFrZXBJ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXNGQxR0l6ZC1sSVdEdUt6dGUzcEg2SXYxNll1RFExc2RRem5EYVVVMkIzUV9fN0VkZGVaR0o0eWJfN01vazkzU3phdUtVLWFrZXBJ?oc=5</guid>
+            <pubDate>Sat, 13 Dec 2025 11:14:26 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 中国央行主管媒体：将坚持内需主导放在首位  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[捷克新总理拒绝为乌克兰贷款提供担保 - 路透中文网]]></title>
@@ -701,13 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xZUtTbTBVNFpMdUJJVUFFNWlIUE9jWUc2SnRmclpEcEVHU1ZmRFlOODdnWTBlSmNOZkxQUXZJWk1TUGVCZmtXXzE2cHBENHFKU0Y3d09XY3BmMmtXYVFOY29n?oc=5</guid>
             <pubDate>Fri, 12 Dec 2025 13:41:00 GMT</pubDate>
             <description><![CDATA[[财新网] 11月新增社融2.49万亿元超预期 居民加杠杆意愿低迷  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于成本上升瑞士将减少美国F-35战斗机订单 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2ZmTHVzT1B2OHhOMFRFZjNUUUtpdE5TQ05qeEdvT1g4eWhnYjZZdVRJNGwwU2NTUmxqVGZQR0FZS2VXMC1WYlJHOXRQOURUVE9uSmZxM04zbDdncVd5U3oyS3I3QVc0Q0FNMXlUTXhmdlk3QlVwTGlyMWI2RkU2N2lQazA5ZXNtaTFjUERBckZHUXVfcXFIUnRYUERIaHZnLUticW4zd1ZlYllsMC12REJR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2ZmTHVzT1B2OHhOMFRFZjNUUUtpdE5TQ05qeEdvT1g4eWhnYjZZdVRJNGwwU2NTUmxqVGZQR0FZS2VXMC1WYlJHOXRQOURUVE9uSmZxM04zbDdncVd5U3oyS3I3QVc0Q0FNMXlUTXhmdlk3QlVwTGlyMWI2RkU2N2lQazA5ZXNtaTFjUERBckZHUXVfcXFIUnRYUERIaHZnLUticW4zd1ZlYllsMC12REJR?oc=5</guid>
-            <pubDate>Fri, 12 Dec 2025 13:37:07 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于成本上升，瑞士将减少美国 F-35 战斗机订单 路透]]></description>
         </item>
     </channel>
 </rss>
