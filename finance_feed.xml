@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 14 Dec 2025 20:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 20:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[债券市场关于美联储2026年路径的争论即将升温]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-14/bond-market-debate-over-fed-s-path-in-2026-is-about-to-heat-up</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-14/bond-market-debate-over-fed-s-path-in-2026-is-about-to-heat-up</guid>
+            <pubDate>Sun, 14 Dec 2025 20:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着一系列关键经济数据的发布，美国国债市场关于美联储未来降息幅度的大辩论即将升温。]]></description>
+        </item>
         <item>
             <title><![CDATA[据称 SK Capital 即将收购瑞士药品分销商 Swixx]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-14/sk-capital-is-said-to-near-deal-for-swiss-drug-distributor-swixx</link>
@@ -116,7 +123,7 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[套利交易的复苏令新兴市场电气化，激发人们对 2026 年的乐观情绪]]></title>
+            <title><![CDATA[新兴市场电气化的套利交易复苏激发了人们对 2026 年的乐观情绪]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-14/carry-trade-revival-that-electrified-em-spurs-optimism-for-2026</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-14/carry-trade-revival-that-electrified-em-spurs-optimism-for-2026</guid>
             <pubDate>Sun, 14 Dec 2025 13:30:00 GMT</pubDate>
@@ -340,7 +347,7 @@
             <description><![CDATA[[Reuters Business] 发动机故障迫使联合航空航班返回华盛顿特区机场 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[宿醉迫近时企业债券投资者聚会：《信贷周刊》]]></title>
+            <title><![CDATA[宿醉迫近时公司债券投资者聚会：《信贷周刊》]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-13/corporate-bond-investors-party-as-hangover-looms-credit-weekly</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-13/corporate-bond-investors-party-as-hangover-looms-credit-weekly</guid>
             <pubDate>Sat, 13 Dec 2025 20:00:00 GMT</pubDate>
@@ -435,7 +442,7 @@
             <link>https://www.bloomberg.com/news/newsletters/2025-12-13/amd-ceo-lisa-su-and-ge-vernova-ceo-scott-strazik-explain-what-we-need-for-ai</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2025-12-13/amd-ceo-lisa-su-and-ge-vernova-ceo-scott-strazik-explain-what-we-need-for-ai</guid>
             <pubDate>Sat, 13 Dec 2025 13:00:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 大卫·威斯汀 (David Westin) 研究了为什么开放源代码和核能对人工智能如此重要。]]></description>
+            <description><![CDATA[[Bloomberg] 大卫·威斯汀 (David Westin) 探讨了为什么开放源代码和核能对人工智能如此重要。]]></description>
         </item>
         <item>
             <title><![CDATA[马来西亚将获得与 1MDB 律师有关的毕加索和马蒂斯艺术品]]></title>
@@ -506,13 +513,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-13/green-stocks-are-big-winners-as-tech-boom-drives-energy-demand</guid>
             <pubDate>Sat, 13 Dec 2025 08:30:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 随着唐纳德·特朗普总统推行他的大石油议程，今年对绿色股票来说本应是惨淡的一年。 相反，随着人工智能推动对各种能源的巨大需求，该行业正在蓬勃发展。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着贸易谈判的拖延，美国寻求扩大越南防务关系]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-13/us-seeks-to-broaden-vietnam-defense-ties-as-trade-talks-drag-on</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-13/us-seeks-to-broaden-vietnam-defense-ties-as-trade-talks-drag-on</guid>
-            <pubDate>Sat, 13 Dec 2025 07:01:16 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 华盛顿驻越南高级特使表示，随着两国继续敲定贸易协议的细节，美国寻求扩大和深化与越南的防务关系。]]></description>
         </item>
         <item>
             <title><![CDATA[中国王毅中东之行寻求与阿联酋深化石油和天然气关系 - 路透中文网]]></title>
@@ -588,7 +588,7 @@
             <title><![CDATA[据英国《金融时报》报道，摩根大通戴蒙表示支持凯文·沃什担任美联储主席 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekpqaXo1dWpmcWxKYXRFWlByNjAxaml1NlZUcjZTbXlEUTBQeTA4V0RDSDg0ZDJsWnREclY2SW1EaHJERHVxZXhVZjdnYmpycEFjYmVlOGtSQV91RUN4QXBJeVNzalpYTHJCV1IteVZwS3lzRG9saUdxWHN6YldqYjVMbHRSTkhsWmVVVVc5Mkc0UVBFQ2p1eWsza2FwcFNjNXpQZFZKQnRNVW54YTNZZlFVUU5ERjZS?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekpqaXo1dWpmcWxKYXRFWlByNjAxaml1NlZUcjZTbXlEUTBQeTA4V0RDSDg0ZDJsWnREclY2SW1EaHJERHVxZXhVZjdnYmpycEFjYmVlOGtSQV91RUN4QXBJeVNzalpYTHJCV1IteVZwS3lzRG9saUdxWHN6YldqYjVMbHRSTkhsWmVVVVc5Mkc0UVBFQ2p1eWsza2FwcFNjNXpQZFZKQnRNVW54YTNZZlFVUU5ERjZS?oc=5</guid>
-            <pubDate>Sat, 13 Dec 2025 00:47:00 GMT</pubDate>
+            <pubDate>Sat, 13 Dec 2025 00:47:01 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据《金融时报》报道，摩根大通的戴蒙表示支持凯文·沃什担任美联储主席 路透]]></description>
         </item>
         <item>
