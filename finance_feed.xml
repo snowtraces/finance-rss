@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 14 Dec 2025 19:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 19:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -662,13 +662,6 @@
             <description><![CDATA[[Reuters Business] 甲骨文与博通的一二拳打击人工智能行业，但投资者的乐观情绪依然存在 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[乌克兰第二次袭击俄罗斯里海石油基础设施 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1dPVkNwWjNKVHMyenJPcXFZVVhjRWhEbWxhSDV0R3c5azExcTIwSWE5aWFaYmYxa0F1b1VoUGVhczhtdkNNN3BiQllrRC1YU2RxcXBycGhwS0hNUFlsa2V3T3Q3LVhPYklvOVgwLW96WlU2WHp6SjBHdTZuSnlRVnlCTWZGZXdMeGJQTDVJMkNELVFnV1dmaDJqLVR4VGo1SlZzTmJNcVA5bS1FUHVESQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1dPVkNwWjNKVHMyenJPcXFZVVhjRWhEbWxhSDV0R3c5azExcTIwSWE5aWFaYmYxa0F1b1VoUGVhczhtdkNNN3BiQllrRC1YU2RxcXBycGhwS0hNUFlsa2V3T3Q3LVhPYklvOVgwLW96WlU2WHp6SjBHdTZuSnlRVnlCTWZGZXdMeGJQTDVJMkNELVFnV1dmaDJqLVR4VGo1SlZzTmJNcVA5bS1FUHVESQ?oc=5</guid>
-            <pubDate>Fri, 12 Dec 2025 19:15:37 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 乌克兰第二次袭击俄罗斯里海石油基础设施 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[中午涨幅最大的股票：Tilray Brands、Allegiant Travel、Broadcom 等]]></title>
             <link>https://www.cnbc.com/2025/12/12/stocks-making-the-biggest-moves-midday-tlry-algt-avgo.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/12/12/stocks-making-the-biggest-moves-midday-tlry-algt-avgo.html</guid>
@@ -709,6 +702,13 @@
             <guid isPermaLink="false">https://www.wsj.com/arts-culture/books/the-history-of-money-review-what-made-the-world-go-round-fbfeeb31</guid>
             <pubDate>Fri, 12 Dec 2025 16:48:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 金钱是人类最伟大的发明之一。 但信用危机自古以来就伴随着我们。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[未来一周外汇、债券：美国数据、日本利率决定、欧元区、英国为焦点]]></title>
+            <link>https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-data-rate-decisions-in-japan-eurozone-u-k-in-focus-77f26d43</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-data-rate-decisions-in-japan-eurozone-u-k-in-focus-77f26d43</guid>
+            <pubDate>Fri, 12 Dec 2025 16:45:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 随着投资者评估美联储可能进一步降息多少，美国就业和通胀等关键数据将受到密切关注。]]></description>
         </item>
     </channel>
 </rss>
