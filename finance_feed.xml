@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 14 Dec 2025 07:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 07:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[港股IPO周报：石药创新等多家公司递表 卓越睿新等新股首周表现活跃]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3126570</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3126570</guid>
+            <pubDate>Sun, 14 Dec 2025 07:05:37 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[“两个凯文”角逐美联储掌门 “华尔街一哥”亮明立场：我支持沃什]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3126568</link>
@@ -97,13 +104,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3126545</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3126545</guid>
             <pubDate>Sun, 14 Dec 2025 01:35:33 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2026年最佳投资机遇在哪里？全球亿万富豪加码押注：中国和西欧！]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3126544</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3126544</guid>
-            <pubDate>Sun, 14 Dec 2025 01:35:10 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -439,8 +439,15 @@
             <title><![CDATA[加拿大西捷航空暂停推出不可调节座椅，寻求乘客反馈 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzF1TkZtUV9FeW5WVHZ1dkdIcFh2Rm9IRmpDRmJ4Nkd4dzVsNURnTmpBaWlhRW4wZFpzTGotYnp3M0NBR0RoanRlMndoTU1RY0lzU0JHN2JUSjNEMXRQbE1pTjA2czV6dTVHanZudjhyNk5EaWQ2alJRcTNQOEhTd3R3YlhTN0Vwa2FKYkxnWUEwNWFpY3dtakRxOGVPRnhOOW1vM2NmXzYxU3lHQzVJb1U3cVRQOS10NDF2TmQyOXhKSWI4YXhLaEVQX0xaZTBScFE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzF1TkZtUV9FeW5WVHZ1dkdIcFh2Rm9IRmpDRmJ4Nkd4dzVsNURnTmpBaWlhRW4wZFpzTGotYnp3M0NBR0RoanRlMndoTU1RY0lzU0JHN2JUSjNEMXRQbE1pTjA2czV6dTVHanZudjhyNk5EaWQ2alJRcTNQOEhTd3R3YlhTN0Vwa2FKYkxnWUEwNWFpY3dtakRxOGVPRnhOOW1vM2NmXzYxU3lHQzVJb1U3cVRQOS10NDF2TmQyOXhKSWI4YXhLaEVQX0xaZTBScFE?oc=5</guid>
-            <pubDate>Sat, 13 Dec 2025 00:48:13 GMT</pubDate>
+            <pubDate>Sat, 13 Dec 2025 00:48:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 加拿大西捷航空暂停推出不可调节座椅，寻求乘客反馈 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据英国《金融时报》报道，摩根大通戴蒙表示支持凯文·沃什担任美联储主席 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekpqaXo1dWpmcWxKYXRFWlByNjAxaml1NlZUcjZTbXlEUTBQeTA4V0RDSDg0ZDJsWnREclY2SW1EaHJERHVxZXhVZjdnYmpycEFjYmVlOGtSQV91RUN4QXBJeVNzalpYTHJCV1IteVZwS3lzRG9saUdxWHN6YldqYjVMbHRSTkhsWmVVVVc5Mkc0UVBFQ2p1eWsza2FwcFNjNXpQZFZKQnRNVW54YTNZZlFVUU5ERjZS?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekpqaXo1dWpmcWxKYXRFWlByNjAxaml1NlZUcjZTbXlEUTBQeTA4V0RDSDg0ZDJsWnREclY2SW1EaHJERHVxZXhVZjdnYmpycEFjYmVlOGtSQV91RUN4QXBJeVNzalpYTHJCV1IteVZwS3lzRG9saUdxWHN6YldqYjVMbHRSTkhsWmVVVVc5Mkc0UVBFQ2p1eWsza2FwcFNjNXpQZFZKQnRNVW54YTNZZlFVUU5ERjZS?oc=5</guid>
+            <pubDate>Sat, 13 Dec 2025 00:47:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 据《金融时报》报道，摩根大通的戴蒙表示支持凯文·沃什担任美联储主席 路透]]></description>
         </item>
         <item>
             <title><![CDATA[波音公司的美国总统新空军一号飞机再次推迟 - 路透中文网]]></title>
@@ -610,13 +617,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2025/12/12/stocks-making-the-biggest-moves-midday-tlry-algt-avgo.html</guid>
             <pubDate>Fri, 12 Dec 2025 19:06:01 GMT</pubDate>
             <description><![CDATA[[CNBC] 这些是午盘涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰称雅罗斯拉夫尔炼油厂遭受袭击，消息称产量暂停 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmp5dlRtejE1dTFxT0w5M0JmdDd5djdVS3FYUWFhaUZITmJTSktOM0V1RDM5b0NOZXVGUi1GdnVoUEp2c1V1LWo5RExpWFJiN09JOUZOV25abDBPeUx5ZW1BYmRRWVR5a013dHlwZ2VlTTBnY0lwamk1VHFjTEZKZmRlOGlLQ0M1M0xGeUNlQTk2Q1JjNXBhcE5Fc1QyNUE5b0JtSHJEelBXbnBnWUphZzQ0SHk1bm41VXRWcm93a0g?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmp5dlRtejE1dTFxT0w5M0JmdDd5djdVS3FYUWFhaUZITmJTSktOM0V1RDM5b0NOZXVGUi1GdnVoUEp2c1V1LWo5RExpWFJiN09JOUZOV25abDBPeUx5ZW1BYmRRWVR5a013dHlwZ2VlTTBnY0lwamk1VHFjTEZKZmRlOGlLQ0M1M0xGeUNlQTk2Q1JjNXBhcE5Fc1QyNUE5b0JtSHJEelBXbnBnWUphZzQ0SHk1bm41VXRWcm93a0g?oc=5</guid>
-            <pubDate>Fri, 12 Dec 2025 18:36:46 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 乌克兰称雅罗斯拉夫尔炼油厂遭受袭击，消息人士称产量暂停 路透]]></description>
         </item>
         <item>
             <title><![CDATA[文件显示，俄罗斯裁决后，谷歌面临法国 1.29 亿美元资产冻结 - 路透中文网]]></title>
