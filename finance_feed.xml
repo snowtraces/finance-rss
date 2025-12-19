@@ -4,79 +4,142 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 19 Dec 2025 06:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 06:54:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[行业发展引擎切换，房企竞逐“好房子”新赛道]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135112</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135112</guid>
-            <pubDate>Fri, 19 Dec 2025 06:05:57 GMT</pubDate>
+            <title><![CDATA[富时 100 指数将下跌，周涨幅回落]]></title>
+            <link>https://www.bloomberg.com/news/live-blog/2025-12-19/ftse-100-live-retail-sales-pound-boe-bonds-trump-visas-oil-gold-what-s-moving-uk-markets-right-now-markets-today-mjcicim1</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2025-12-19/ftse-100-live-retail-sales-pound-boe-bonds-trump-visas-oil-gold-what-s-moving-uk-markets-right-now-markets-today-mjcicim1</guid>
+            <pubDate>Fri, 19 Dec 2025 06:48:05 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[邦迪面临海滩袭击的后果]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-19/bondi-confronts-aftermath-of-beach-attack-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-19/bondi-confronts-aftermath-of-beach-attack-video</guid>
+            <pubDate>Fri, 19 Dec 2025 06:43:26 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 上周日邦迪海滩发生枪击事件，造成 15 人死亡，安格斯·惠特利 (Angus Whitley) 与当地社区和企业进行了交谈，了解他们如何应对这场悲剧。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行穆勒表示现在判断下一步利率走向还为时过早]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-19/ecb-s-muller-says-too-early-to-say-where-rates-may-go-next</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/ecb-s-muller-says-too-early-to-say-where-rates-may-go-next</guid>
+            <pubDate>Fri, 19 Dec 2025 06:41:20 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 欧洲央行管理委员会成员马迪斯·穆勒表示，现在判断下一步借贷成本可能走向何方还为时过早。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印度将向私营企业开放核工业]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-19/india-to-open-nuclear-industry-to-private-firms-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-19/india-to-open-nuclear-industry-to-private-firms-video</guid>
+            <pubDate>Fri, 19 Dec 2025 06:40:32 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 印度议会通过了一项法案，将向私营企业开放其核工业，在几十年来对该行业实行严格监管后，释放了价值 2140 亿美元的投资机会。 彭博新闻社的史蒂芬·斯塔普钦斯基 (Stephen Stapczynski) 在《Insight with Haslinda Amin》节目中与保罗·艾伦 (Paul Allen) 讨论了政府计划彻底改革此前令投资者感到恐慌的责任条款。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印度能否从卢比疲软中获利？]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-19/could-india-cash-in-on-the-weak-rupee-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-19/could-india-cash-in-on-the-weak-rupee-video</guid>
+            <pubDate>Fri, 19 Dec 2025 06:39:26 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 印度卢比兑美元汇率跌破90，创下历史新低。 印度央行介入，但它会采取更多行动吗？  ASK Private Wealth 首席信息官兼高级执行合伙人 Somnath Mukherjee 和渣打银行印度经济研究主管 Anubhuti Sahay 与 Menaka Doshi 一起讨论了印度央行和印度政府可能会考虑将卢比贬值到什么程度。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[东吴证券：首次覆盖敏实集团(00425)予“买入”评级 机器人+服务器液冷打开成长空间]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135136</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135136</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:16 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[40亿次级债务展期一年，天风证券核心风控指标已接近监管预警线]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135111</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135111</guid>
-            <pubDate>Fri, 19 Dec 2025 06:05:31 GMT</pubDate>
+            <title><![CDATA[小摩：内地医疗行业回调提供入市机会 偏好生物科技及CXO]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135135</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135135</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:15 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[港股异动 | 恒大物业(06666)午后涨超5% 清算人已收到部分选定投标人提交的最新非约束性意向报价]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135110</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135110</guid>
-            <pubDate>Fri, 19 Dec 2025 06:05:12 GMT</pubDate>
+            <title><![CDATA[小摩：首予聚水潭(06687)“增持”评级 目标价37港元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135134</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135134</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:15 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[香港旅议会：预计圣诞节档期超过100万访港人次 同比升约10%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135109</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135109</guid>
-            <pubDate>Fri, 19 Dec 2025 06:05:11 GMT</pubDate>
+            <title><![CDATA[港股异动 | 毛戈平(01318)涨近4% 政策红利覆盖美妆产业全链条 公司提前落子布局海南自贸]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135133</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135133</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:14 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[港元拆息全线下跌 一个月息报3.17%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135108</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135108</guid>
-            <pubDate>Fri, 19 Dec 2025 06:05:11 GMT</pubDate>
+            <title><![CDATA[港股异动 | 耀才证券金融(01428)午后涨超11% 要约收购仍在推进中 经纪业务受益大盘成交活跃]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135132</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135132</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:14 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[港股异动 | 卫龙美味(09985)午后涨超6% 魔芋产业进入标准化、价值化发展新阶段 公司品类红利确定]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135107</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135107</guid>
-            <pubDate>Fri, 19 Dec 2025 06:05:10 GMT</pubDate>
+            <title><![CDATA[港股异动 | 碳酸锂期货突破11万大关 赣锋锂业(01772)、天齐锂业(09696)午后一度涨超3%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135131</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135131</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:13 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[东方证券：2026年有望成为需求侧拐点 食饮板块核心矛盾为业绩]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135106</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135106</guid>
-            <pubDate>Fri, 19 Dec 2025 06:05:10 GMT</pubDate>
+            <title><![CDATA[新股消息 | 天数智芯通过港交所聆讯 通用GPU产品出货量持续攀升]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135130</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135130</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:13 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[港股异动 | KEEP(03650)涨超5% 关键AI领域取得里程碑 体重管理或催生健身行业新机遇]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135105</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135105</guid>
-            <pubDate>Fri, 19 Dec 2025 06:05:09 GMT</pubDate>
+            <title><![CDATA[港股异动 | 宜明昂科-B(01541)涨近4% 自研阿沐瑞芙普α皮下制剂IMM0306S临床研究申请获受理]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135129</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135129</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:12 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[港股异动 | 江西铜业股份(00358)午后涨超4% 公司提价收购SolGold 资源储备有望显著增强]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135104</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135104</guid>
-            <pubDate>Fri, 19 Dec 2025 06:05:09 GMT</pubDate>
+            <title><![CDATA[港股异动 | 希迪智驾(03881)首挂破发 盘中一度重挫逾15% 上半年亏损4.55亿元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135128</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135128</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:12 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[台湾股市收低；截至收盘台湾加权指数下跌0.04%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3135103</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135103</guid>
-            <pubDate>Fri, 19 Dec 2025 06:00:18 GMT</pubDate>
+            <title><![CDATA[港股异动 | 康桥悦生活(02205)午后飙升逾80% 公司与Askitect签署合作备忘录 共推AI技术全场景落地]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3135127</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3135127</guid>
+            <pubDate>Fri, 19 Dec 2025 06:35:11 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[欧元区基金击败 99% 同行称汽​​车是新银行]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-19/euro-area-fund-beating-99-of-peers-says-autos-are-the-new-banks</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/euro-area-fund-beating-99-of-peers-says-autos-are-the-new-banks</guid>
+            <pubDate>Fri, 19 Dec 2025 06:30:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 一位正在抛售银行业长期赢家、跑赢大市的投资者表示，欧洲汽车股在经历了多年的落后之后，有望表现出色。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国消费者物价指数支持美联储削减押注，亚洲股市上涨 亚洲贸易 12/19/25]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-19/the-asia-trade-12-19-2025-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-19/the-asia-trade-12-19-2025-video</guid>
+            <pubDate>Fri, 19 Dec 2025 06:14:21 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 《彭博社：亚洲交易》为您带来在亚洲交易日开始之际取得成功所需的一切信息。 彭博电视 (Bloomberg TV) 与安娜贝尔·德鲁勒斯 (Annabelle Droulers) 和保罗·艾伦 (Paul Allen) 在澳大利亚进行现场直播，了解新闻人物和行业领袖对影响全球市场的重大事件的见解和分析。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据称 KKR 成为收购日本 Taiyo 的领跑者]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-19/kkr-is-said-to-emerge-as-frontrunner-to-acquire-japan-s-taiyo</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/kkr-is-said-to-emerge-as-frontrunner-to-acquire-japan-s-taiyo</guid>
+            <pubDate>Fri, 19 Dec 2025 06:13:49 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 知情人士称，KKR & Co. 已成为收购日本化学品制造商太阳控股公司 (Taiyo Holdings Co.) 的领跑者。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[廉价天然气的回归并没有解决欧洲的工业危机]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-19/return-of-cheaper-natural-gas-hasn-t-solved-europe-s-industrial-crisis</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/return-of-cheaper-natural-gas-hasn-t-solved-europe-s-industrial-crisis</guid>
+            <pubDate>Fri, 19 Dec 2025 06:10:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 欧洲天然气价格已跌至俄罗斯入侵乌克兰以来的最高水平。 对于非洲大陆遭受重创的制造商来说，这应该是一剂强心剂，但可能来得太晚了。]]></description>
         </item>
         <item>
             <title><![CDATA[米沙尔·侯赛因秀：林赛·阿达里奥]]></title>
@@ -84,6 +147,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-19/internal-embaroged-mhs-lynsey-addario-full-intv</guid>
             <pubDate>Fri, 19 Dec 2025 06:00:08 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 林赛·阿达里奥 (Lynsey Addario) 是获得普利策奖的战争摄影师，在记录从阿富汗到苏丹的冲突时曾两次被绑架。 她告诉米沙尔侯赛因秀为什么她的工作是“见证”。 本次采访包含对绑架、暴力和性侵犯的描述，一些观众可能会感到痛苦。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据称科蒂将向 KKR 出售 Wella 剩余 25.8% 股份]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-19/coty-is-said-to-sell-remaining-25-8-stake-in-wella-to-kkr</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/coty-is-said-to-sell-remaining-25-8-stake-in-wella-to-kkr</guid>
+            <pubDate>Fri, 19 Dec 2025 06:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 科蒂公司 (Coty Inc.) 将以 7.5 亿美元的价格将其在 Wella 的剩余股份出售给 KKR & Co.，并有权分享该护发品牌未来出售或首次公开募股的收益。]]></description>
         </item>
         <item>
             <title><![CDATA[阿达尼机场部门将投资 110 亿美元，寻求 IPO 前合作伙伴]]></title>
@@ -205,25 +275,18 @@
             <description><![CDATA[[Reuters Business] 随着扭亏为盈，耐克的中国难题进一步加深 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[法国总统马克龙表示，他希望欧盟能够在推迟期间通过南方共同市场条款 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXM5OTBpR1EzYWYtSEJQbVVDQUlDem9sSk5Bb2YtVWdycmpuN3ljNDdZTkZrdXlESDFUdWtORUk2VHN4WXpCVENRZHRpdk9DRVc1a0wzVmowQkRDTEhJR2w3M3BYV0tGUWpOZ1kyTUphWW5WYmF4amYtVUhyV3ZhMFBPNk4yZmZibk5sX0l1cEl4WTV6MmpmbTZmbHFSU091TXZpdGxnR3Q2SmJFZEJZZ0U1NnFvem8?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXM5OTBpR1EzYWYtSEJQbVVDQUlDem9sSk5Bb2YtVWdycmpuN3ljNDdZTkZrdXlESDFUdWtORUk2VHN4WXpCVENRZHRpdk9DRVc1a0wzVmowQkRDTEhJR2w3M3BYV0tGUWpOZ1kyTUphWW5WYmF4amYtVUhyV3ZhMFBPNk4yZmZibk5sX0l1cEl4WTV6MmpmbTZmbHFSU091TXZpdGxnR3Q2SmJFZEJZZ0U1NnFvem8?oc=5</guid>
+            <pubDate>Fri, 19 Dec 2025 03:02:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 法国马克龙表示，他希望欧盟能在推迟期间通过南方共同市场条款 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[焦点：尽管存在关税，但由于国内市场停滞，中国消费巨头仍进军美国 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPSjNQakF0eWhwdndRUzMzd09SM0gwUjF1d3pUbnpUQTVGT1pGdFRlS1hEd0g4VUR3b21jRjYtUWU5NXB1RVVBcDdvRVljRndBbGxKdmswUFJVZFNyQVJjTGhKUFVXT1BkN1NELW80aFl0QmlpaFdzcTVBTGhudUFCTXpBWTRpY3JwT1pfd3d3QVJfV2V6c3VhR3hQUk5JNTJoaVh0T2RMUGYzYzRFNXltb3o0eklLRXdVQ2FoYTB1U01yYUQwVHhmWkhqa0pKb00?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxPSjNQakF0eWhwdndRUzMzd09SM0gwUjF1d3pUbnpUQTVGT1pGdFRlS1hEd0g4VUR3b21jRjYtUWU5NXB1RVVBcDdvRVljRndBbGxKdmswUFJVZFNyQVJjTGhKUFVXT1BkN1NELW80aFl0QmlpaFdzcTVBTGhudUFCTXpBWTRpY3JwT1pfd3d3QVJfV2V6c3VhR3hQUk5JNTJoaVh0T2RMUGYzYzRFNXltb3o0eklLRXdVQ2FoYTB1U01yYUQwVHhmWkhqa0pKb00?oc=5</guid>
             <pubDate>Fri, 19 Dec 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 焦点：尽管存在关税，但由于国内市场停滞，中国消费巨头仍进军美国 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pendal 的帕特里克谈美联储的利率路径选择]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-12-19/pendal-s-patrick-on-fed-s-rate-path-options-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-19/pendal-s-patrick-on-fed-s-rate-path-options-video</guid>
-            <pubDate>Fri, 19 Dec 2025 02:56:27 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Pendal Group 收入策略主管艾米·谢·帕特里克 (Amy Xie Patrick) 谈论通胀数据以及市场对特朗普总统经济政策的预期如何影响美联储潜在降息预测。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ICICI Prudential AMC 首次交易为其他准备首次公开募股的基金公司定下基调]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-19/india-market-buzz-tcs-bets-on-ai-icici-prudential-amc-debuts</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/india-market-buzz-tcs-bets-on-ai-icici-prudential-amc-debuts</guid>
-            <pubDate>Fri, 19 Dec 2025 02:45:13 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在交易日开始之前，我们为您带来可能影响市场的关键新闻和事件的摘要。 今天我们来看：]]></description>
         </item>
         <item>
             <title><![CDATA[丰田将在日本销售美国制造汽车以取悦特朗普]]></title>
@@ -238,20 +301,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxPN09SQk1BaVozeENXRG9YdDZFODlONk15Z3ZxY3F0ckNnZUVQaGxaVHkzVzdSQ3QzY2RHR3RQWXRlbkZRT2FtVnlnRWZ4QlF6YUcyUTdQRllLS0E2U3JmazI2TE5FSWZlQnFBd3BPaGtydTB4Rm5VQWliUXVGdWFSNWpSOHZUREt5N1lDZGlfaVk3SnRja1MyRXA4cTAySjFnM19UZFR0VXNrd0dqMTlOaUlRdkJ6VUVTakhGX1pVNA?oc=5</guid>
             <pubDate>Fri, 19 Dec 2025 02:02:13 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 停飞的 MD-11 飞机可能会在旺季给联邦快递造成 1.75 亿美元的损失，拖累近期利润 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高盛和摩根大通预计印度创纪录的 IPO 热潮将持续至 2026 年]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-19/goldman-jpmorgan-see-india-s-record-ipo-boom-extending-to-2026</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/goldman-jpmorgan-see-india-s-record-ipo-boom-extending-to-2026</guid>
-            <pubDate>Fri, 19 Dec 2025 02:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 顶级投资银行家表示，印度 2026 年首次公开募股的收益可能连续第三年创下新高，强劲的融资渠道和旺盛的投资者需求将支撑这一势头。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[参议院确认 Selig 担任 CFTC 主席，Hill 负责管理 FDIC]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-19/senate-confirms-selig-as-chief-of-cftc-and-hill-to-run-the-fdic</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/senate-confirms-selig-as-chief-of-cftc-and-hill-to-run-the-fdic</guid>
-            <pubDate>Fri, 19 Dec 2025 01:34:13 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国参议院周四晚间确认迈克尔·塞利格 (Michael Selig) 担任商品期货交易委员会主席，特拉维斯·希尔 (Travis Hill) 担任联邦存款保险公司 (Federal Deposit Insurance Corp.) 主席，任命两个机构的常任负责人，这两个机构在监管金融市场和银行方面发挥着关键作用。]]></description>
         </item>
         <item>
             <title><![CDATA[斯里兰卡农民面临飓风后重新种植的艰巨任务 - 路透中文网]]></title>
@@ -280,20 +329,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE94YmxFS1FBQTlDNDZzSjA2MFczT1ZmdXJiREM2bUpnZENPbjBsSlVTTVZ3WjgtaXAwUS00QThTX1RRRy1ULXh5Ti01SEhHMDlnZVBHamw4VDZqSTlXODlPQlh3?oc=5</guid>
             <pubDate>Fri, 19 Dec 2025 01:29:00 GMT</pubDate>
             <description><![CDATA[[财新网] 今日开盘：沪指报3878.23点 涨幅0.05%  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[银行不当行为后，法院将 ANZ 罚款提高至 1.65 亿澳元]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-19/anz-fine-raised-to-165-million-by-court-after-bank-s-misconduct</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/anz-fine-raised-to-165-million-by-court-after-bank-s-misconduct</guid>
-            <pubDate>Fri, 19 Dec 2025 01:08:16 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 澳大利亚联邦法院在之前的监管处罚基础上追加了 1,000 万澳元，之后将 ANZ Group Holdings Ltd. 的罚款提高至 2.5 亿澳元（1.65 亿美元）。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚养老金因指数风险而重获选股者青睐]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-19/stock-pickers-regain-favor-at-australian-pension-on-index-risks</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/stock-pickers-regain-favor-at-australian-pension-on-index-risks</guid>
-            <pubDate>Fri, 19 Dec 2025 01:05:44 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 澳大利亚退休信托基金，全国第一。 第二大养老基金正在将更多资金从被动指数基金转向主动股票管理公司，理由是主要科技公司在全球基准中的主导地位日益增强。]]></description>
         </item>
         <item>
             <title><![CDATA[德银调查机构客户“2026年最大风险”：超半数选择了“科技泡沫破裂”，“美联储新主席大幅降息”排第二 - 华尔街见闻]]></title>
@@ -350,6 +385,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-18/gold-near-record-high-as-inflation-data-supports-rate-cut-bets</guid>
             <pubDate>Thu, 18 Dec 2025 23:26:10 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 在美国通胀低于预期支持进一步降息的押注之后，黄金和白银徘徊在历史高位附近。 铂金价格接近17年来的最高点。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普下令建议放松对大麻的限制后，大麻股回吐涨幅 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYnhrUnFYbXhHci1iUTFDQTktdE1nNlQ5T01mZzNfRnVPdGVqQWFuQWx6NUJySV9GNWZKR0lvMEN2Vl9ULXlRVEV1MWxqaGU2R3ZXeHJNanAtU3gzc1JsaGNiV2hDWWdfakkzakZUZHRPVV93WlNZdlpOZjBnN3pKdnBzaW94X0V6dmY4NGQxT2NMVjQ3R0pJSTh1WlNvSmpxdnZuNTY5bEFORXFEX25sdnBUX2stTmFRNW5GTHNSaTF4cGdRXzBMUGxoYndOUkpOV3ZqXzVtQXh5NDFtY1N0aTNB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYnhrUnFYbXhHci1iUTFDQTktdE1nNlQ5T01mZzNfRnVPdGVqQWFuQWx6NUJySV9GNWZKR0lvMEN2Vl9ULXlRVEV1MWxqaGU2R3ZXeHJNanAtU3gzc1JsaGNiV2hDWWdfakkzakZUZHRPVV93WlNZdlpOZjBnN3pKdnBzaW94X0V6dmY4NGQxT2NMVjQ3R0pJSTh1WlNvSmpxdnZuNTY5bEFORXFEX25sdnBUX2stTmFRNW5GTHNSaTF4cGdRXzBMUGxoYndOUkpOV3ZqXzVtQXh5NDFtY1N0aTNB?oc=5</guid>
+            <pubDate>Thu, 18 Dec 2025 23:09:12 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 特朗普下令建议放松对大麻的限制后，大麻股回吐涨幅 路透]]></description>
         </item>
         <item>
             <title><![CDATA[白银“超买”史上最高！ - 华尔街见闻]]></title>
@@ -443,13 +485,6 @@
             <description><![CDATA[[WSJ] 央行以4比1的投票结果将基准利率目标从7.25%下调至7%。]]></description>
         </item>
         <item>
-            <title><![CDATA[丰田工业公司收购出价比持股量低 16%]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-18/toyota-industries-buyout-bid-dips-16-below-its-stock-holdings</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-18/toyota-industries-buyout-bid-dips-16-below-its-stock-holdings</guid>
-            <pubDate>Thu, 18 Dec 2025 21:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 丰田集团提议斥资 4.7 万亿日元（合 300 亿美元）对一家叉车制造商进行私有化，这促使全球最顽强的激进基金之一称其为低价报价。 仔细研究目标公司的股权有助于解释原因。]]></description>
-        </item>
-        <item>
             <title><![CDATA[独家：消息人士称，墨西哥国家石油公司生产部门负责人将在未来几天辞职 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxONU9PdC1idHFzSF9uTFNsWGVHeTRFQ3VfSThTMXVvZjFYVjAwRHBfZlR5ZHFHYlM5Q294dVhGbVBqSzNQQU9uYVphQjYyQ09xMDk0elF6d2hHeWZMX2o1MkxpeTVkeHk3VXNMcnBNaF8wUXE1cHVWQ0cxQ1JSX3luaFpMeWsxT0NFOHVnb0VVUFJyQjV5MHhuQTl6NXJPSmNZdE5tU3JTRzM1dGhXSjJLRjZ3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxONU9PdC1idHFzSF9uTFNsWGVHeTRFQ3VfSThTMXVvZjFYVjAwRHBfZlR5ZHFHYlM5Q294dVhGbVBqSzNQQU9uYVphQjYyQ09xMDk0elF6d2hHeWZMX2o1MkxpeTVkeHk3VXNMcnBNaF8wUXE1cHVWQ0cxQ1JSX3luaFpMeWsxT0NFOHVnb0VVUFJyQjV5MHhuQTl6NXJPSmNZdE5tU3JTRzM1dGhXSjJLRjZ3?oc=5</guid>
@@ -506,13 +541,6 @@
             <description><![CDATA[[Reuters Business] 特朗普最新的大麻订单对消费者意味着什么？   路透社]]></description>
         </item>
         <item>
-            <title><![CDATA[与野火有关的巨灾债券失去了“贱民”地位]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-18/catastrophe-bonds-targeting-wildfires-lose-untouchable-status</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-18/catastrophe-bonds-targeting-wildfires-lose-untouchable-status</guid>
-            <pubDate>Thu, 18 Dec 2025 19:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 另类投资经理开始对与野火相关的巨灾债券产生浓厚兴趣，进入几年前还被认为难以建模的风险类别。]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国11月年度消费者通胀放缓，但报告因数据缺失而扭曲 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGlqN251U1dpMDlvNnM2dWRZYWF1X05KbEs3ejJ2SDB5bU4zamU3cndjYk1MX2IzTEtpaUNkaUZrREVOcDFVNkdvdEl0TGxxdlNFOU1LM095OWhWZzVLYXBrM0l1TUs1Tm43cktPc1RHT2VPbkpjWU01VjJQQ01zZmVkSllhQ1NZNXVpaTBQT2R2dTdDMTNaQnBzVjE3eEZOQmljWHlaejZCUWc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGlqN251U1dpMDlvNnM2dWRZYWF1X05KbEs3ejJ2SDB5bU4zamU3cndjYk1MX2IzTEtpaUNkaUZrREVOcDFVNkdvdEl0TGxxdlNFOU1LM095OWhWZzVLYXBrM0l1TUs1Tm43cktPc1RHT2VPbkpjWU01VjJQQ01zZmVkSllhQ1NZNXVpaTBQT2R2dTdDMTNaQnBzVjE3eEZOQmljWHlaejZCUWc?oc=5</guid>
@@ -560,13 +588,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0hnQy1vTXBkZ3NFY1lycVFxcW5falI3ODJuMTdxd0lUaVRLM0MwU3pzYjdMU0YwbUpneW5ubWhpbVpRMUJfMWstbWRiMU1QRXBOc01HaTEzNEJnaGJidWVYeWNqY1JZVlhfV3hfalBqUV91Y1lWWTAtM0ZLQUZJbUd5SFo3Y09qOVpVeHMxY3FUZVpfY1h0dFU2a2tyU3ppaEF1UWZHc2hpdTQ?oc=5</guid>
             <pubDate>Thu, 18 Dec 2025 17:33:21 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国通胀数据公布后欧洲股市上涨，欧洲央行利率决定提振投资者乐观情绪 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[230 亿美元期权到期前比特币波动性上升]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-18/bitcoin-volatility-rises-ahead-of-23-billion-options-expiration</guid>
-            <pubDate>Thu, 18 Dec 2025 17:26:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 期权显示，进入 2025 年最后几周，比特币将承受巨大压力，价值约 230 亿美元的合约将于下周五到期，这可能会加剧本已较高的波动性。]]></description>
         </item>
         <item>
             <title><![CDATA[中午涨幅最大的股票：Rocket Lab、Trump Media、Lululemon、Micron Technology 等]]></title>
@@ -686,27 +707,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/bank-of-england-cuts-rates-to-near-three-year-low-56c5cd05</guid>
             <pubDate>Thu, 18 Dec 2025 14:55:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 英国央行正在与美联储而非许多欧洲同行保持同步。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[年内批量飙涨！银行理财的“锐度时代”来了？ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWDhZNk0wWllvSjEtOHVGQWtEeUdXNHBkUEVCYzRQZ01QaWtKd0VSTVJzRlJ1N1VDQUo0UEJKYjlSNWR6SUNFMkxGQzUzUlFSak1n?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWDhZNk0wWllvSjEtOHVGQWtEeUdXNHBkUEVCYzRQZ01QaWtKd0VSTVJzRlJ1N1VDQUo0UEJKYjlSNWR6SUNFMkxGQzUzUlFSak1n?oc=5</guid>
-            <pubDate>Thu, 18 Dec 2025 14:50:20 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 年内批量飙涨！银行理财的“锐度时代”来了？  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Visa表示新的人工智能购物工具已帮助客户完成数百笔交易]]></title>
-            <link>https://www.cnbc.com/2025/12/18/visa-ai-payments.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/12/18/visa-ai-payments.html</guid>
-            <pubDate>Thu, 18 Dec 2025 14:27:40 GMT</pubDate>
-            <description><![CDATA[[CNBC] Visa 表示，作为 4 月份产品活动后启动的试点计划的一部分，它成功完成了数百笔人工智能交易。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[汉莎航空希望美国旅客选择溢价以促进销售 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUVGYTljZ3Nhb3FJd2xna2s5clVTcEpjd2lSRWhZOV8yQXlkUXZJZ3d2RGdqZnU5MXU4c0JMV1JkSndDNEFndVVzdXVRWUQ3LXdvelltUWpmRkJ3Nld6RGltdVlMeTJJOW5kMFBCbXdzN0NyRU94cDZVTWd4NVhrYjkzTVpscjRrYlRJRWxoYm5ZOVVOUndSVk0zWFZKOWpGejVwQTlJTUlkRVhLNm5UZHU4cVRZdw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOLUVGYTljZ3Nhb3FJd2xna2s5clVTcEpjd2lSRWhZOV8yQXlkUXZJZ3d2RGdqZnU5MXU4c0JMV1JkSndDNEFndVVzdXVRWUQ3LXdvelltUWpmRkJ3Nld6RGltdVlMeTJJOW5kMFBCbXdzN0NyRU94cDZVTWd4NVhrYjkzTVpscjRrYlRJRWxoYm5ZOVVOUndSVk0zWFZKOWpGejVwQTlJTUlkRVhLNm5UZHU4cVRZdw?oc=5</guid>
-            <pubDate>Thu, 18 Dec 2025 14:20:29 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 汉莎航空希望美国旅客选择优质机票以促进销售 - 路透中文网]]></description>
         </item>
     </channel>
 </rss>
