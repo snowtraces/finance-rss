@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 20 Dec 2025 05:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 05:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[券业2025监管处罚大数据扫描，326张罚单涉73家券商，十二大特征突出]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3136628</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136628</guid>
+            <pubDate>Sat, 20 Dec 2025 05:35:28 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[壁仞科技以18C通道冲刺“港股GPU第一股”，国产GPU四小龙上市集结中]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3136627</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136627</guid>
+            <pubDate>Sat, 20 Dec 2025 05:35:28 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[特朗普总统周五前往北卡罗来纳州发表本月第三次演讲，重点关注经济，在选民权衡不断上升的成本时，他表明自己牢牢掌握着权力]]></title>
             <link>https://www.wsj.com/politics/policy/trump-touts-the-economy-in-north-carolina-591559dd</link>
@@ -90,20 +104,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3136603</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136603</guid>
             <pubDate>Sat, 20 Dec 2025 02:35:18 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国神华(01088)拟向国家能源集团财务有限公司增资60亿元]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3136602</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136602</guid>
-            <pubDate>Sat, 20 Dec 2025 02:35:18 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[道通科技(688208.SH)向港交所递交H股上市申请]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3136601</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136601</guid>
-            <pubDate>Sat, 20 Dec 2025 02:35:17 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -408,7 +408,7 @@
             <description><![CDATA[[Reuters Business] Energy Transfer 取消查尔斯湖液化天然气出口项目的开发 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[加拿大 11 月零售额反弹，标志着假日季的积极开始]]></title>
+            <title><![CDATA[加拿大 11 月零售额反弹，标志着假日季节的积极开始]]></title>
             <link>https://www.wsj.com/economy/canada-retail-sales-rebound-in-november-marking-positive-start-to-holiday-season-d33f3f4e</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/canada-retail-sales-rebound-in-november-marking-positive-start-to-holiday-season-d33f3f4e</guid>
             <pubDate>Fri, 19 Dec 2025 17:20:00 GMT</pubDate>
