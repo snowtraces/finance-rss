@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 20 Dec 2025 06:51:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 07:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3136634</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136634</guid>
+            <pubDate>Sat, 20 Dec 2025 07:05:57 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[美元定存新一轮降息来了！有银行逆势抢客，1个月定存利率达4.5%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3136631</link>
@@ -111,13 +118,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3136605</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136605</guid>
             <pubDate>Sat, 20 Dec 2025 02:35:19 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国石油股份(00857)调整董事会委员会成员]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3136604</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136604</guid>
-            <pubDate>Sat, 20 Dec 2025 02:35:18 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -429,7 +429,7 @@
             <description><![CDATA[[Reuters Business] Energy Transfer 取消查尔斯湖液化天然气出口项目的开发 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[加拿大 11 月零售额反弹，标志着假日季的积极开始]]></title>
+            <title><![CDATA[加拿大 11 月零售额反弹，标志着假日季节的积极开始]]></title>
             <link>https://www.wsj.com/economy/canada-retail-sales-rebound-in-november-marking-positive-start-to-holiday-season-d33f3f4e</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/canada-retail-sales-rebound-in-november-marking-positive-start-to-holiday-season-d33f3f4e</guid>
             <pubDate>Fri, 19 Dec 2025 17:20:00 GMT</pubDate>
