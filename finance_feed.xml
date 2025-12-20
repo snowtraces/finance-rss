@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 20 Dec 2025 03:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 04:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -12,8 +12,15 @@
             <title><![CDATA[特朗普总统周五前往北卡罗来纳州发表本月第三次演讲，重点关注经济，在选民权衡不断上升的成本时，他表明自己牢牢掌握着权力]]></title>
             <link>https://www.wsj.com/politics/policy/trump-touts-the-economy-in-north-carolina-591559dd</link>
             <guid isPermaLink="false">https://www.wsj.com/politics/policy/trump-touts-the-economy-in-north-carolina-591559dd</guid>
-            <pubDate>Sat, 20 Dec 2025 03:28:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 总统前往北卡罗来纳州发表本月的第三次演讲，重点关注经济，在选民权衡不断上升的成本时，他表明自己牢牢掌握着权力。]]></description>
+            <pubDate>Sat, 20 Dec 2025 04:15:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 总统本月发表了第三次讲话，重点关注经济，在选民权衡成本上升时，他表明自己牢牢掌握着权力。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[11月份中国对美国的稀土磁体出口下降]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-20/china-s-rare-earth-magnet-exports-to-us-decline-in-november</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-20/china-s-rare-earth-magnet-exports-to-us-decline-in-november</guid>
+            <pubDate>Sat, 20 Dec 2025 03:48:13 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 11月份中国对美国的稀土磁体出口环比下降11%，全球最大的两个经济体之间的贸易休战后并未出现立即反弹。]]></description>
         </item>
         <item>
             <title><![CDATA[金监总局、最高法通报典型案例 提示不法贷款中介、出租银行账户风险 - 财新]]></title>
@@ -28,6 +35,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136610</guid>
             <pubDate>Sat, 20 Dec 2025 03:05:09 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[今年利润有望达500亿美元？接近字节跳动的知情人士回应：数据不实，偏差较大 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbWQzcF96TF9xeXpjdHZfelZvbHpjdnZaLVZNVW4wYXNlOEhHbXg5RWo3cjhQZFFLdHN5UjJZUzZUZjVkaFBfM3pHTEtUWVhYdjUw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kbWQzcF96TF9xeXpjdHZfelZvbHpjdnZaLVZNVW4wYXNlOEhHbXg5RWo3cjhQZFFLdHN5UjJZUzZUZjVkaFBfM3pHTEtUWVhYdjUw?oc=5</guid>
+            <pubDate>Sat, 20 Dec 2025 02:57:49 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 今年利润有望达500亿美元？接近字节跳动的知情人士回应：数据不实，偏差较大  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[金泰能源控股(02728)：李静获委任为独立非执行董事]]></title>
@@ -331,13 +345,6 @@
             <description><![CDATA[[Reuters Business] 星巴克任命亚马逊的 Anand Varadarajan 为新任首席技术官 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Dynamite 首席执行官猛烈抨击魁北克总理在移民问题上的法律]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-19/dynamite-s-ceo-lambastes-quebec-premier-legault-over-immigration</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-19/dynamite-s-ceo-lambastes-quebec-premier-legault-over-immigration</guid>
-            <pubDate>Fri, 19 Dec 2025 19:25:02 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 快时尚零售商Groupe Dynamite Inc.的负责人严厉批评了魁北克省省长弗朗索瓦·莱戈特(Francois Legault)，并再次威胁称，如果省政府不放松限制性移民政策，他将搬迁该公司总部。]]></description>
-        </item>
-        <item>
             <title><![CDATA[独家：消息人士称，人工智能芯片公司 Cerebras 将在推迟后提交美国 IPO 申请 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXpCRFdqcDYwUzRORzNLSFpZX0RPWGg4MFIyZDZUZjA3dEtTRE5iSU56NkZfR0xYV0tSaGFHODNGMEI3bjdnZjRIYzhkX0RETHRMNVNOZmVEQUE0NTZSME42OFhVdmExd182OEVWdDJQbzlHM3NoblU2eUR0VjNMbFZYa3NEUXlMQjVDclMySnJQTVhNNU1ldUpWUzl5dnYwMGlVc1pwVmpuZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXpCRFdqcDYwUzRORzNLSFpZX0RPWGg4MFIyZDZUZjA3dEtTRE5iSU56NkZfR0xYV0tSaGFHODNGMEI3bjdnZjRIYzhkX0RETHRMNVNOZmVEQUE0NTZSME42OFhVdmExd182OEVWdDJQbzlHM3NoblU2eUR0VjNMbFZYa3NEUXlMQjVDclMySnJQTVhNNU1ldUpWUzl5dnYwMGlVc1pwVmpuZw?oc=5</guid>
@@ -611,6 +618,13 @@
             <description><![CDATA[[财新网] 泰康人寿换帅 总经理程康平申请退休  财新]]></description>
         </item>
         <item>
+            <title><![CDATA[加息难救日元？植田和男强调“审慎行事”，交易员押注下次加息或需等至明年9月 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DUWNxZ0h6NFM0RGcyRFNrWmFVeEozc0paNTdrX253bmdwSU5aZkhKMkFBemZRZFR5TS1nX0ZYcTFPdHlxZEpEa0RrOWF5TzJaNGVB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DUWNxZ0h6NFM0RGcyRFNrWmFVeEozc0paNTdrX253bmdwSU5aZkhKMkFBemZRZFR5TS1nX0ZYcTFPdHlxZEpEa0RrOWF5TzJaNGVB?oc=5</guid>
+            <pubDate>Fri, 19 Dec 2025 12:26:51 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 加息难救日元？植田和男强调“审慎行事”，交易员押注下次加息或需等至明年9月  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[泽伦斯基在华沙表示，乌克兰可以就无人机防御向波兰提供建议 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQllIQ1RScmdPdHRpSnBKRlpuNy1EUWlQZk1TblRVYWJRZUZCc3l0eEp6dzA2RHphV1JYN1ZBc1BNaS1veUFucjhCc0Y4TklrYjR4ZjllLXlibXFGSnR1UmxIOWRpb3E4MHd2di1La084ZVNMNUF3RmRYN3dsRGw1SDAxeHRQZFhKWk1sMGR2dWI1dWlPSVpldTJaVkxyTk1NbFpqZlA1WHFrY090ejBPelRzLU9XeGdoT1NWQjVxNzVnUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQllIQ1RScmdPdHRpSnBKRlpuNy1EUWlQZk1TblRVYWJRZUZCc3l0eEp6dzA2RHphV1JYN1ZBc1BNaS1veUFucjhCc0Y4TklrYjR4ZjllLXlibXFGSnR1UmxIOWRpb3E4MHd2di1La084ZVNMNUF3RmRYN3dsRGw1SDAxeHRQZFhKWk1sMGR2dWI1dWlPSVpldTJaVkxyTk1NbFpqZlA1WHFrY090ejBPelRzLU9XeGdoT1NWQjVxNzVnUQ?oc=5</guid>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxON0xXQl9MR1pVQXNoVGdiMVI0SnZteWxVLVlNQXc0Sy1Ua0hCU2xoeTFybU8zSTVwSGhNd3pObGJmNDJXa1N2WUhqSlNCMFRRVVdKYTBpbmJvNDhUWVA1MnZVMFBJeXRaa2g3c2NsNlFMV19hT0k2VVEzZ0ppbmUxbmtzYl9GaE9xU1lObWVnUl9Qbi1nYjd3azQ1Y3l4b1pYR0dUQ1hlYWtZUHlJYWRGV3lNU0lYekd0blpsZTNVVWwzRWdzS0d2X0Q1ZGJSQ3d4SVphX3dn?oc=5</guid>
             <pubDate>Fri, 19 Dec 2025 09:39:59 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 邦迪袭击中保护儿童时受伤的澳大利亚青少年表示她不是英雄 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以色列指控俄罗斯涉嫌为伊朗从事间谍活动 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXdKZ1MxQWtnM0VjdFFWOXh3Z2ZWeGxPRHZoQlR6U1pMVldJNy1TR1Rva29nV3VYcmZFckppU05ScWtnOGpFLUlaVEJuSHJnZXFoQU9FdHVoZmFZcGtyTHdZZ1Nqd2hoY2lXOFBDYWlIUU9oczUtMVJNb2RnOGxZcGM5RHZUaWZoLXRHSURwcW5vVHhqRVVJaGE2aEZtRmxUSGpxeVlHZnpVLWZZ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxQOXdKZ1MxQWtnM0VjdFFWOXh3Z2ZWeGxPRHZoQlR6U1pMVldJNy1TR1Rva29nV3VYcmZFckppU05ScWtnOGpFLUlaVEJuSHJnZXFoQU9FdHVoZmFZcGtyTHdZZ1Nqd2hoY2lXOFBDYWlIUU9oczUtMVJNb2RnOGxZcGM5RHZUaWZoLXRHSURwcW5vVHhqRVVJaGE2aEZtRmxUSGpxeVlHZnpVLWZZ?oc=5</guid>
-            <pubDate>Fri, 19 Dec 2025 09:28:04 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 以色列指控俄罗斯涉嫌为伊朗从事间谍活动 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[融资超3亿美元，估值超30亿美元！“北大系”人形机器人公司银河通用刷新具身智能单轮融资纪录 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XU3NISWlzeTBZZ2hWQk1nNS1IdDVia3R0OERMZnJCMEhOUnpnT05BNmgyZkJfTHp6SUNmUEwzblpFczU4RUpqUHluQ2JGWjdfUjZJ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XU3NISWlzeTBZZ2hWQk1nNS1IdDVia3R0OERMZnJCMEhOUnpnT05BNmgyZkJfTHp6SUNmUEwzblpFczU4RUpqUHluQ2JGWjdfUjZJ?oc=5</guid>
-            <pubDate>Fri, 19 Dec 2025 09:13:08 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 融资超3亿美元，估值超30亿美元！“北大系”人形机器人公司银河通用刷新具身智能单轮融资纪录  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
