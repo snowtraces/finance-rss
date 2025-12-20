@@ -4,10 +4,38 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 20 Dec 2025 09:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Dec 2025 10:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[德银预计特斯拉第四季度交付量将低于预期]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3136658</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136658</guid>
+            <pubDate>Sat, 20 Dec 2025 10:07:49 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新股消息 | 美格智能(002881.SZ)二次递表港交所 2024年在全球无线通信模块行业中排名第四]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3136655</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136655</guid>
+            <pubDate>Sat, 20 Dec 2025 10:05:10 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[招银：日本重启加息 或对全球金融条件形成压制]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3136654</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136654</guid>
+            <pubDate>Sat, 20 Dec 2025 10:05:10 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国科技股泡沫要破裂？中邮证券黄付生：“AI泡沫”催生产业链繁荣]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3136650</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136650</guid>
+            <pubDate>Sat, 20 Dec 2025 09:35:48 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[冲击“Physical AI 第一股”！五一视界(06651)与摩尔线程(688795.SH)深度合作 构建下一代物理AI仿真体系]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3136647</link>
@@ -65,34 +93,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[美光科技(MU.US)HBM堆叠式内存市场规模出现爆炸式增长 预计2026年服务器强劲需求将持续]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3136637</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136637</guid>
-            <pubDate>Sat, 20 Dec 2025 08:05:09 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[华尔街多元策略强势崛起! 名为“轮动”的大势在全球股市悄然启幕]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3136636</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136636</guid>
-            <pubDate>Sat, 20 Dec 2025 07:35:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[三部门：平台经营者应当公平公正开展补贴促销 不得虚假、夸大宣传补贴金额和力度]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3136635</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136635</guid>
-            <pubDate>Sat, 20 Dec 2025 07:35:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3136634</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3136634</guid>
-            <pubDate>Sat, 20 Dec 2025 07:05:57 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[特朗普总统周五前往北卡罗来纳州发表本月第三次演讲，重点关注经济，在选民权衡不断上升的成本时，他表明自己牢牢掌握着权力]]></title>
             <link>https://www.wsj.com/politics/policy/trump-touts-the-economy-in-north-carolina-591559dd</link>
             <guid isPermaLink="false">https://www.wsj.com/politics/policy/trump-touts-the-economy-in-north-carolina-591559dd</guid>
@@ -147,6 +147,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWdlVmZIZ1lLcGxLTE5nSGlIQUlWd2Q5Vi1kb1h2QjNFaUdOcFFBcG9IZ3NSUkhYVlFIdHRHVWlrUHBKTWp6TzRBQ0RPSHh3OEI0SlZpZXpzeWtBd1JzWEM0UVNPdjhCdGRjRVNzUTU3X2xibVRQMFl1Qm9JX0ZFWGIxZl9IZ2YwQ25uWkNVQ0ZPcWtDX0h2ZU1NSFM4NXdnY1JrNzJkenFPX0xKekNoOUkzaFFyLUE?oc=5</guid>
             <pubDate>Sat, 20 Dec 2025 01:06:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：桥水基金在井喷年之后扩大了员工的股权 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部确认威斯康星州奶牛场发生禽流感病例为新的野生动物溢出 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXllNDd6Sm1BdzhRNXI4UkRrZWxFWklYQTh5OXpKMjlUbkYzYW5Vb3VscG1oZ0xLQlVfdFVOYTdpelUxR2NNcWJDdTR5UlJsUHRPMFJsU0w0cFVXYURqRHR0MzlqNV9BV2JMcUlEVkFoRUxBZUU0dkFFbDhKbVNoZmdPY3pxWnJQZ1JhVzBTdnd3QlJ2eEVFZU4tM2ZnNU41OTluZlhoNnJSSmdOZGY2VTVFNW5WSTRuVk5EUW1wT0wxNTdfZHVhN1VXeFR2d0NRR0RvMG01VndudnM?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXllNDd6Sm1BdzhRNXI4UkRrZWxFWklYQTh5OXpKMjlUbkYzYW5Vb3VscG1oZ0xLQlVfdFVOYTdpelUxR2NNcWJDdTR5UlJsUHRPMFJsU0w0cFVXYURqRHR0MzlqNV9BV2JMcUlEVkFoRUxBZUU0dkFFbDhKbVNoZmdPY3pxWnJQZ1JhVzBTdnd3QlJ2eEVFZU4tM2ZnNU41OTluZlhoNnJSSmdOZGY2VTVFNW5WSTRuVk5EUW1wT0wxNTdfZHVhN1VXeFR2d0NRR0RvMG01VndudnM?oc=5</guid>
+            <pubDate>Sat, 20 Dec 2025 00:59:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国农业部确认威斯康星州奶牛场发现禽流感病例，为新的野生动物溢出事件 路透]]></description>
         </item>
         <item>
             <title><![CDATA[峰会开了16小时，分歧过大计划搁浅，欧盟动用俄资产方案未获通过 - 华尔街见闻]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WUkNKMEd2ZmZrVllfNTV0cThybkFVZmhHeW12eVkzZFNJa1pwZ0VyNUp5LUZKMTVMX3N5d1ZGS0J6RDVVWGVNSUFHMUhoYVVzcGlvbDJMXy1ETWhaZ1dHOFBn?oc=5</guid>
             <pubDate>Fri, 19 Dec 2025 11:02:00 GMT</pubDate>
             <description><![CDATA[[财新网] 受贿990万余元 人保财险张孝礼获刑十年六个月  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大摩重磅机器人年鉴（四）：AI将是解锁无人机自主性的核心钥匙 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HT1JwWmFsLTdUMTQ5UmFGU3loekdYeWgtUDAtT25aUHZXQ1E3NDF1NHROMlFZbnZBdi1tV2psTmY0SEVGWVR6VzBNZWdqQldtWTUw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HT1JwWmFsLTdUMTQ5UmFGU3loekdYeWgtUDAtT25aUHZXQ1E3NDF1NHROMlFZbnZBdi1tV2psTmY0SEVGWVR6VzBNZWdqQldtWTUw?oc=5</guid>
-            <pubDate>Fri, 19 Dec 2025 10:48:12 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 大摩重磅机器人年鉴（四）：AI将是解锁无人机自主性的核心钥匙  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
