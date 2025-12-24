@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 24 Dec 2025 20:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 21:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[400 Capital 因 CMBS 贷款涉嫌收取费用而提起诉讼]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-24/400-capital-sues-over-alleged-fee-grabbing-tactic-in-cmbs-loan</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-24/400-capital-sues-over-alleged-fee-grabbing-tactic-in-cmbs-loan</guid>
+            <pubDate>Wed, 24 Dec 2025 20:26:19 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 一笔与曼哈顿中城房产相关的 1.3 亿美元贷款是一场诉讼的核心，该诉讼指控一家受雇确保债务偿还的公司采取自私策略。]]></description>
+        </item>
         <item>
             <title><![CDATA[美股收盘：三大指数连涨五日 道指、标普双双收新高]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3141438</link>
@@ -35,6 +42,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUVyeVNIVkx6dVNRQkVvOERueTkxS2VvWmpScTQ3UjFrcXlpRHJpNFh2Y3hLZ2o4d1JQODliUnFlczdHM3N6eXFMMVdfdV9xbU1ITHZuZXoyazNoVEtucVBQWEMwV1lQTW1xRjlzSllKLXU3V2hhOGZYWGZHOG0tU05uYlJDa3F0MGY2NHhuWUFtMTNENVhzT1BmOWxfT0NWQWZwSVJtXy1jODIwV0UxM2JKaXBaeFdWd3NBLUEwVkYwSmF4U2hocVB4V1k?oc=5</guid>
             <pubDate>Wed, 24 Dec 2025 18:56:04 GMT</pubDate>
             <description><![CDATA[[Reuters Business] LG 能源解决方案公司将向本田出售美国工厂资产 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着圣诞老人集会开始，道指和标准普尔 500 指数收于历史新高 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0RROGZORjlSbXgzeEk5cVZtdm81YWFDcVZ5eGhqOHJwSE0wZWNkT2ZSeWVZaXlFTVphc0QwSVcxS09FbFRqSmJuZ29KSlczdGdHQU56N09sU25WcFJ3bHE3ZlU5OTMwdjBWbWlHZU9jMEhmWnNFbG4zWE5vV1k5Vm1VQXYtY3RrLVFtR2VZcGFZZw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0RROGZORjlSbXgzeEk5cVZtdm81YWFDcVZ5eGhqOHJwSE0wZWNkT2ZSeWVZaXlFTVphc0QwSVcxS09FbFRqSmJuZ29KSlczdGdHQU56N09sU25WcFJ3bHE3ZlU5OTMwdjBWbWlHZU9jMEhmWnNFbG4zWE5vV1k5Vm1VQXYtY3RrLVFtR2VZcGFZZw?oc=5</guid>
+            <pubDate>Wed, 24 Dec 2025 18:36:15 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 随着圣诞老人集会开始，道琼斯指数和标准普尔 500 指数收于历史新高 路透]]></description>
         </item>
         <item>
             <title><![CDATA[苹果库克将耐克股份增加一倍，支持首席执行官希尔的扭亏为盈 - 路透中文网]]></title>
@@ -354,13 +368,6 @@
             <description><![CDATA[[Bloomberg] 比特币错过了圣诞节的欢乐时光。]]></description>
         </item>
         <item>
-            <title><![CDATA[股市创历史新高； 黄金的历史性反弹； 特朗普维持 10 万美元 H-1B 签证费不变 彭博简报 12/24]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-12-24/bloomberg-brief-12-24-2025-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-24/bloomberg-brief-12-24-2025-video</guid>
-            <pubDate>Wed, 24 Dec 2025 12:56:46 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 圣诞节前夕，美国股指期货徘徊在历史高点附近。 金价攀升至每盎司 4,500 美元以上，创下历史新高。 一名联邦法官表示，特朗普政府可以对新的 H-1B 签证申请收取 10 万美元的费用。 纽约银行的 Geoffrey Yu 表示，流动性和经济数据驱动年终风险。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[英伟达停止生产测试报告导致英特尔股价下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-24/intel-falls-on-report-nvidia-halts-test-of-chip-making-process</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-24/intel-falls-on-report-nvidia-halts-test-of-chip-making-process</guid>
@@ -602,7 +609,7 @@
             <title><![CDATA[旧金山停电困扰自动驾驶汽车后 Waymo 将更新软件 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWpDeU44Ul83NnU5ZjBhRk5ZU1FlVkxHTk51bTZTd0xZTjFMRHNSZGRmOG8tTHZPNDFSaE82S3JMTDlqVGhKaGktX3ZsdmF4OVZubE81cFczYnBzUDZtUEloVExDTDU4U25PcmJCelA1aTlBWDFPR0hGR29TOEZSM0NCZ2ZIME9vLW5fQWVlUklzOGJpNTM5emVJWTAxVzlKaU5KT2stdGc2ZEFjYXBvbC1ySGR0ZlhrbjFwSWVkRnR3bFhNZWpPNjMwTkwyMXZfNmp6cjlNV1dUTi02eUVN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWpDeU44Ul83NnU5ZjBhRk5ZU1FlVkxHTk51bTZTd0xZTjFMRHNSZGRmOG8tTHZPNDFSaE82S3JMTDlqVGhKaGktX3ZsdmF4OVZubE81cFczYnBzUDZtUEloVExDTDU4U25PcmJCelA1aTlBWDFPR0hGR29TOEZSM0NCZ2ZIME9vLW5fQWVlUklzOGJpNTM5emVJWTAxVzlKaU5KT2stdGc2ZEFjYXBvbC1ySGR0ZlhrbjFwSWVkRnR3bFhNZWpPNjMwTkwyMXZfNmp6cjlNV1dUTi02eUVN?oc=5</guid>
-            <pubDate>Wed, 24 Dec 2025 04:39:00 GMT</pubDate>
+            <pubDate>Wed, 24 Dec 2025 04:39:41 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 旧金山停电困扰自动驾驶汽车后 Waymo 将更新软件 路透]]></description>
         </item>
         <item>
@@ -709,13 +716,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeU5CNDNNbkRCLTl0c0E1QkI3QTFsVGVoUlhJWVl4ZE5YUzJaQkZwYWhPQUdrYmpSY29LUEw4RmxYT29USDlBRk1Na01fY2NUSFFndU1XSi05aG1TMHp5SjVpQ19qVUluZ1hMUUpfQk53MFJJdlNXcXlVOUQ4b2VCVWZ5U1V5cUZGTWI2Z1lNRUdDZEppbDlkR0VCUjhtc1pvU3c4Sk1WaEo?oc=5</guid>
             <pubDate>Tue, 23 Dec 2025 23:07:16 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着成长型股票上涨，标普收盘创历史新高 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[财经早知道｜日本一报废核反应堆发生含放射性水泄漏事件 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE93bFcySDlVYjUwb0lYM19mWGRQZ2R2ZkJ5Q3prQThZVWJlbFJtcFhpbHZBb2xQOUVfZ19wMmEzeDlDMlp3RFpJVFVLem9EOW8xbHRINFhVTkRhN1BiQmd0dU5n?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE93bFcySDlVYjUwb0lYM19mWGRQZ2R2ZkJ5Q3prQThZVWJlbFJtcFhpbHZBb2xQOUVfZ19wMmEzeDlDMlp3RFpJVFVLem9EOW8xbHRINFhVTkRhN1BiQmd0dU5n?oc=5</guid>
-            <pubDate>Tue, 23 Dec 2025 23:05:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 财经早知道｜日本一报废核反应堆发生含放射性水泄漏事件  财新]]></description>
         </item>
     </channel>
 </rss>
