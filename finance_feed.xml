@@ -4,10 +4,31 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 25 Dec 2025 05:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 05:47:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[货币危机警报拉响！华尔街大鳄看衰美元 高呼明年银价破百]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3141678</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141678</guid>
+            <pubDate>Thu, 25 Dec 2025 05:35:30 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2025年终盘点 |ROBO+赛道热火重燃！九家产业链公司港股敲钟 募资金额超200亿]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3141677</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141677</guid>
+            <pubDate>Thu, 25 Dec 2025 05:35:29 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[债市公告精选| 鸿坤伟业遭上交所公开谴责；阳光城已到期未付债务本金合计659.16亿]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3141676</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141676</guid>
+            <pubDate>Thu, 25 Dec 2025 05:35:29 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[年内近百位投行人转型实业，人才高频迁徙，五大转型趋势凸显]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3141669</link>
@@ -65,32 +86,11 @@
             <description><![CDATA[[财新网] 香港调整虚拟资产发牌制度 拟增设两类牌照  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[展望美股2026：年线三连阳后，三大关键因素决定牛市能否延续]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3141583</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141583</guid>
-            <pubDate>Thu, 25 Dec 2025 04:12:50 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美银：2026年芯片销售将破万亿美元 这六支股票将成投资首选]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3141641</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141641</guid>
-            <pubDate>Thu, 25 Dec 2025 04:06:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[功能性食品升温，Swisse的结构布局值得观察]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3141640</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141640</guid>
-            <pubDate>Thu, 25 Dec 2025 04:05:54 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[拍卖需求不温不火后日本两年期债券收益率上升]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-25/japan-2-year-bond-sale-sees-weaker-demand-than-12-month-average-mjkw7sl3</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-25/japan-2-year-bond-sale-sees-weaker-demand-than-12-month-average-mjkw7sl3</guid>
             <pubDate>Thu, 25 Dec 2025 03:38:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 日本两年期政府债券收益率上涨，因市场猜测日本央行可能需要更积极地加息以抑制通胀并支撑日元，因此期限拍卖导致需求疲软。]]></description>
+            <description><![CDATA[[Bloomberg] 日本两年期政府债券收益率上涨，因市场猜测日本央行可能需要更积极地加息以抑制通胀并支撑日元，因此债券期限拍卖导致需求疲软。]]></description>
         </item>
         <item>
             <title><![CDATA[中国人民银行屈服于多头，人民币兑美元汇率升至7以上]]></title>
@@ -153,7 +153,7 @@
             <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5</guid>
             <pubDate>Thu, 25 Dec 2025 00:01:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Nvidia 加入大型科技交易热潮，获得 Groq 技术许可，聘请高管 - 路透中文网]]></description>
+            <description><![CDATA[[Reuters Business] Nvidia 加入大型科技交易热潮，获得 Groq 技术许可并聘请高管 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[美国结束上届政府针对中国芯片贸易调查，未来18个月不对中国芯片加征额外关税 - 华尔街见闻]]></title>
@@ -279,7 +279,7 @@
             <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0lDT0dZNXdTTE5DdndNcWdqNUdic184NVY5dDVWczhUU3dyS3djUFNTVHd5UFRwbXItdWZ5alBfeS1HTW5yVndpT2c1S2JnQUxnMWtkZnlZdXBSQXBIa1lDb2JVSk1hSDBMaTZXczdOeWI2UkxvTUd0a29zNG9KX09pbktwNjQ2eVVuanQ1VWdyMXJoZzJkZnRTT2VPMGRI?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0lDT0dZNXdTTE5DdndNcWdqNUdic184NVY5dDVWczhUU3dyS3djUFNTVHd5UFRwbXItdWZ5alBfeS1HTW5yVndpT2c1S2JnQUxnMWtkZnlZdXBSQXBIa1lDb2JVSk1hSDBMaTZXczdOeWI2UkxvTUd0a29zNG9KX09pbktwNjQ2eVVuanQ1VWdyMXJoZzJkZnRTT2VPMGRI?oc=5</guid>
             <pubDate>Wed, 24 Dec 2025 18:31:17 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 矿业股在假日交易清淡中下滑，多伦多证券交易所收盘走低 - 路透中文网]]></description>
+            <description><![CDATA[[Reuters Business] 由于矿业股在假日交易清淡中下滑，多伦多证券交易所收低 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[苹果库克将耐克股份增加一倍，支持首席执行官希尔的扭亏为盈 - 路透中文网]]></title>
@@ -541,7 +541,7 @@
             <description><![CDATA[[华尔街见闻] 报道：宁德时代宜春枧下窝锂矿预计春节前后复产  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[工程师称伊拉克暂停的伊朗天然气供应预计将在一周内恢复 - 路透中文网]]></title>
+            <title><![CDATA[工程师表示，伊拉克暂停的伊朗天然气供应预计将在一周内恢复 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmM4WDF4cTJpajZFUXN3MzhOZUw1NkVqRVZtM1k3T292Y25jR0JUanEzQ3VpWW45T1FWMml6d291RTV3anpxTGJicndQX0VHLVJzUWxNQUdaeEF4czVKT3FVRGxrMFgtTnQ3Z21rTlVpV1U3WlF6MnNrZzZjbkJuTzZxZDVSTWZnM291WkJ0TEJsejdKMVhzRjRaeGM?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmM4WDF4cTJpajZFUXN3MzhOZUw1NkVqRVZtM1k3T292Y25jR0JUanEzQ3VpWW45T1FWMml6d291RTV3anpxTGJicndQX0VHLVJzUWxNQUdaeEF4czVKT3FVRGxrMFgtTnQ3Z21rTlVpV1U3WlF6MnNrZzZjbkJuTzZxZDVSTWZnM291WkJ0TEJsejdKMVhzRjRaeGM?oc=5</guid>
             <pubDate>Wed, 24 Dec 2025 11:41:11 GMT</pubDate>
@@ -597,7 +597,7 @@
             <description><![CDATA[[华尔街见闻] 从“政界”到“金融界”，这家西部农商行迎来80后高管  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[资本账户：特朗普总统的社交媒体帖子显示出对凯文·哈塞特的担忧没有抓住要点。 特朗普的条件损害了所有候选人的利益。]]></title>
+            <title><![CDATA[资本账户：特朗普总统的社交媒体帖子显示出对凯文·哈塞特的担忧没有抓住重点。 特朗普的条件损害了所有候选人的利益。]]></title>
             <link>https://www.wsj.com/economy/central-banking/whoever-trump-picks-the-next-fed-chair-wont-be-independent-c8a79ead</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/whoever-trump-picks-the-next-fed-chair-wont-be-independent-c8a79ead</guid>
             <pubDate>Wed, 24 Dec 2025 10:30:00 GMT</pubDate>
@@ -637,13 +637,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUd6ajBZVFl2SzNFLVJFTVVxeThJRVhiY3Z5WGVRRXFKV3JiT19WVlBLNV9PMVVYZlpGaktialNKRko2X2pReFNLVWNjUTFZMm94TjMxdndBeVJJV2UyNDVzS1NXTjJUUlEzOFFtTVk0cGpCV29aRVBYd0R0d1ZCYVlwRFNaWDB6S3JlQWVHX19NTXYwMkREbGtudVVpT1pUVzRWd0QxWHVvWW5vSnhOT0hQV0UwdWNmZ3hjdFRqSGk5dw?oc=5</guid>
             <pubDate>Wed, 24 Dec 2025 09:36:56 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 消息人士称，印度信实公司获得美国为期一个月的购买俄罗斯石油公司石油的让步 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[投资者如何购买黄金以及推动市场发展的因素 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDUzc2Fxck5oYTZDZ0dldVdHbE1RYnhxOXpTXzNKWm13Qi02Z19kU0lQbDd2b1dBMDgyeml4QUpoRjRkRHFud01vdWpjVUlRbmxPODNqWTYxLW9lNkdlYTVUMnZEelozWFNZM21XbmlnOXZvZGt1NExtY3ctTExZYl9aTEJlbHZlUnBDdHFn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDUzc2Fxck5oYTZDZ0dldVdHbE1RYnhxOXpTXzNKWm13Qi02Z19kU0lQbDd2b1dBMDgyeml4QUpoRjRkRHFud01vdWpjVUlRbmxPODNqWTYxLW9lNkdlYTVUMnZEelozWFNZM21XbmlnOXZvZGt1NExtY3ctTExZYl9aTEJlbHZlUnBDdHFn?oc=5</guid>
-            <pubDate>Wed, 24 Dec 2025 08:45:44 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 投资者如何购买黄金以及推动市场发展的因素 路透]]></description>
         </item>
         <item>
             <title><![CDATA[大摩重磅机器人年鉴（六）：自动驾驶正处于爆发前夜，中国已取得领先 - 华尔街见闻]]></title>
@@ -714,6 +707,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWpDeU44Ul83NnU5ZjBhRk5ZU1FlVkxHTk51bTZTd0xZTjFMRHNSZGRmOG8tTHZPNDFSaE82S3JMTDlqVGhKaGktX3ZsdmF4OVZubE81cFczYnBzUDZtUEloVExDTDU4U25PcmJCelA1aTlBWDFPR0hGR29TOEZSM0NCZ2ZIME9vLW5fQWVlUklzOGJpNTM5emVJWTAxVzlKaU5KT2stdGc2ZEFjYXBvbC1ySGR0ZlhrbjFwSWVkRnR3bFhNZWpPNjMwTkwyMXZfNmp6cjlNV1dUTi02eUVN?oc=5</guid>
             <pubDate>Wed, 24 Dec 2025 04:39:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 旧金山停电困扰自动驾驶汽车后 Waymo 将更新软件 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[但斌：人工智能是10年以上机会，与其过早担忧泡沫，不如担心错过一个时代，这是我们老登最后一次机会 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE15MUlxSkota0ZBZHQ1dDBGUWZZNnRBZEhDZWNLMDFsd1RrOHNSWElGVGxwWWNsX0RZMGVZS1p6X045Mml4WXdyd2thSmxqeG9EcktB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE15MUlxSkota0ZBZHQ1dDBGUWZZNnRBZEhDZWNLMDFsd1RrOHNSWElGVGxwWWNsX0RZMGVZS1p6X045Mml4WXdyd2thSmxqeG9EcktB?oc=5</guid>
+            <pubDate>Wed, 24 Dec 2025 03:11:17 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 但斌：人工智能是10年以上机会，与其过早担忧泡沫，不如担心错过一个时代，这是我们老登最后一次机会  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
