@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 25 Dec 2025 10:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 11:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141768</guid>
             <pubDate>Thu, 25 Dec 2025 10:39:27 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[诺瓦克表示，制裁推迟了俄罗斯将液化天然气产量增加两倍的计划]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-25/sanctions-delay-russia-s-plan-to-triple-lng-output-novak-says</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-25/sanctions-delay-russia-s-plan-to-triple-lng-output-novak-says</guid>
+            <pubDate>Thu, 25 Dec 2025 10:36:41 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 俄罗斯副总理亚历山大·诺瓦克表示，由于国际制裁，俄罗斯将液化天然气年产量增加两倍的雄心已被推迟了几年。]]></description>
         </item>
         <item>
             <title><![CDATA[上市9年现金分红超200亿，杭州银行的底气何在？]]></title>
@@ -518,13 +525,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-24/-santa-claus-rally-started-early-dawson-says-video</guid>
             <pubDate>Wed, 24 Dec 2025 15:14:51 GMT</pubDate>
             <description><![CDATA[[Bloomberg] Newedge Wealth 的卡梅伦·道森 (Cameron Dawson) 表示，“圣诞老人集会”似乎在今年早些时候开始，但他们对此并没有太多解读，因为这只是年底的职位追逐。 她在“彭博监视”节目中。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国西部水泥拟收购南非AfriSam]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-24/west-china-cement-seeks-to-acquire-south-africa-s-afrisam</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-24/west-china-cement-seeks-to-acquire-south-africa-s-afrisam</guid>
-            <pubDate>Wed, 24 Dec 2025 15:13:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 中国西部水泥有限公司正在寻求收购南非AfriSam South Africa Proprietary Ltd.，这是亚洲国家水泥公司向非洲大陆扩张的最新举措。]]></description>
         </item>
         <item>
             <title><![CDATA[中国蓝箭航天希望在2026年中期完成火箭回收 - 路透中文网]]></title>
