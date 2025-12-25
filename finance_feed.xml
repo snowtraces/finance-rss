@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 25 Dec 2025 17:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 18:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[倍轻松马学军涉嫌信披违规被查 立案前月刚套现逾6400万元｜速读公告]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3141942</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141942</guid>
+            <pubDate>Thu, 25 Dec 2025 17:35:27 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[雷军没有上台！小米17 Ultra 发布，起售价涨了500元]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3141936</link>
@@ -83,13 +90,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3141921</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141921</guid>
             <pubDate>Thu, 25 Dec 2025 15:30:16 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[摩洛哥股市上涨；截至收盘摩洛哥MASI自由流通指数上涨0.13%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3141920</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141920</guid>
-            <pubDate>Thu, 25 Dec 2025 15:10:16 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -581,7 +581,7 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-24/debt-is-possible-headwind-for-retail-says-auchincloss-video</guid>
             <pubDate>Wed, 24 Dec 2025 15:50:18 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 12 月份美国消费者信心指数升幅低于预期，由于对负担能力的担忧挥之不去，消费者信心指数依然低迷。
- 根据周五发布的一份报告，密歇根大学 12 月份最终情绪指数攀升 1.9 点至 52.9。 彭博社对经济学家的调查中估计值为 53.5。
+ 根据周五发布的一份报告，密歇根大学 12 月份最终情绪指数攀升 1.9 点，至 52.9。 彭博社对经济学家的调查中估计值为 53.5。
  调查主任 Joanne Hsu 在一份声明中表示：“尽管年底出现一些改善迹象，但情绪仍比 2024 年 12 月低近 30%，因为钱包问题继续主导消费者对经济的看法。”
  当前状况指标跌至历史低点 50.4，而预期指标则攀升至四个月高点。 消费者对当前大件商品购买状况的看法恶化至有记录以来的最低水平。  EY-Parthenon 美洲零售部门负责人 Will Auchincloss 分析了消费者的状况。  （来源：彭博社）]]></description>
         </item>
