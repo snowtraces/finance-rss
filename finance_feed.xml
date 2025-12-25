@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 25 Dec 2025 21:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 21:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index下跌0.26%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3141944</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141944</guid>
+            <pubDate>Thu, 25 Dec 2025 21:20:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[波兰在波罗的海上空拦截俄罗斯飞机，报告白俄罗斯侵犯领空 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOZmFGdGVReDRTY3N4LXBqUVFIMzg1LWN3WHFhWHBYZFFmU0FWTzU1cTRqd2NPQWtMeS1OenRKSFNXaHBRdjBZNndGNTNUYmVNSy1ybTVXczI2Y2Zqa0tPem9PZG1jSEZ0UDJjQ2VVbmtxYmp3dlJJZE5JNnZCNFFMU3NQQWxxMEtMWXAzNEdqNU02V2plb2tvSFBOdmctZDNVTnAxYmJVNkxBbS1mVlZR?oc=5</link>
@@ -90,13 +97,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3141924</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141924</guid>
             <pubDate>Thu, 25 Dec 2025 15:35:56 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[12日战争六个月后，以色列警告可能再次打击伊朗]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3141922</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3141922</guid>
-            <pubDate>Thu, 25 Dec 2025 15:35:28 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -258,7 +258,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-25/japan-2-year-bond-sale-sees-weaker-demand-than-12-month-average-mjkw7sl3</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-25/japan-2-year-bond-sale-sees-weaker-demand-than-12-month-average-mjkw7sl3</guid>
             <pubDate>Thu, 25 Dec 2025 03:38:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 日本两年期政府债券收益率上涨，因市场猜测日本央行可能需要更积极地加息以抑制通胀并支撑日元，因此期限拍卖导致需求疲软。]]></description>
+            <description><![CDATA[[Bloomberg] 日本两年期政府债券收益率上涨，因市场猜测日本央行可能需要更积极地加息以抑制通胀并支撑日元，因此债券期限拍卖导致需求疲软。]]></description>
         </item>
         <item>
             <title><![CDATA[中国人民银行屈服于多头，人民币兑美元汇率升至7以上]]></title>
@@ -335,7 +335,7 @@
             <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5</guid>
             <pubDate>Thu, 25 Dec 2025 00:01:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Nvidia 加入大型科技交易热潮，获得 Groq 技术许可，聘请高管 - 路透中文网]]></description>
+            <description><![CDATA[[Reuters Business] Nvidia 加入大型科技交易热潮，获得 Groq 技术许可并聘请高管 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[马斯克“放话”：5年内，xAI的AI算力将超过其他公司总和 - 华尔街见闻]]></title>
@@ -482,7 +482,7 @@
             <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0lDT0dZNXdTTE5DdndNcWdqNUdic184NVY5dDVWczhUU3dyS3djUFNTVHd5UFRwbXItdWZ5alBfeS1HTW5yVndpT2c1S2JnQUxnMWtkZnlZdXBSQXBIa1lDb2JVSk1hSDBMaTZXczdOeWI2UkxvTUd0a29zNG9KX09pbktwNjQ2eVVuanQ1VWdyMXJoZzJkZnRTT2VPMGRI?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0lDT0dZNXdTTE5DdndNcWdqNUdic184NVY5dDVWczhUU3dyS3djUFNTVHd5UFRwbXItdWZ5alBfeS1HTW5yVndpT2c1S2JnQUxnMWtkZnlZdXBSQXBIa1lDb2JVSk1hSDBMaTZXczdOeWI2UkxvTUd0a29zNG9KX09pbktwNjQ2eVVuanQ1VWdyMXJoZzJkZnRTT2VPMGRI?oc=5</guid>
             <pubDate>Wed, 24 Dec 2025 18:31:17 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 矿业股在假日交易清淡中下滑，多伦多证券交易所收盘走低 - 路透中文网]]></description>
+            <description><![CDATA[[Reuters Business] 由于矿业股在假日交易清淡中下滑，多伦多证券交易所收低 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[苹果库克将耐克股份增加一倍，支持首席执行官希尔的扭亏为盈 - 路透中文网]]></title>
