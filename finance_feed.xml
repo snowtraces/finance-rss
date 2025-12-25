@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 25 Dec 2025 22:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 22:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[日元看空声音为 2026 年日本央行采取谨慎政策路径奠定基础]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-25/yen-bearish-voices-build-for-2026-on-cautious-boj-policy-path</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-25/yen-bearish-voices-build-for-2026-on-cautious-boj-policy-path</guid>
+            <pubDate>Thu, 25 Dec 2025 22:00:24 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在日本央行最近一次加息未能给日元带来持续提振之后，看空日元的声音越来越大，这强化了日元结构性弱点无法快速解决的观点。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Takaichi、AI、企业改革为2026年日本股市铺平道路]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-25/takaichi-ai-corporate-reform-pave-way-for-japan-stocks-in-2026</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-25/takaichi-ai-corporate-reform-pave-way-for-japan-stocks-in-2026</guid>
+            <pubDate>Thu, 25 Dec 2025 22:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 日本股市预计将在 2026 年延续涨势，首相高市早苗在过去一年的势头基础上实施了激进的财政计划。]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index下跌0.26%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3141944</link>
@@ -616,27 +630,9 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-24/debt-is-possible-headwind-for-retail-says-auchincloss-video</guid>
             <pubDate>Wed, 24 Dec 2025 15:50:18 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 12 月份美国消费者信心指数升幅低于预期，由于对负担能力的担忧挥之不去，消费者信心指数依然低迷。
- 根据周五发布的一份报告，密歇根大学 12 月份最终情绪指数攀升 1.9 点至 52.9。 彭博社对经济学家的调查中估计值为 53.5。
+ 根据周五发布的一份报告，密歇根大学 12 月份最终情绪指数攀升 1.9 点，至 52.9。 彭博社对经济学家的调查中估计值为 53.5。
  调查主任 Joanne Hsu 在一份声明中表示：“尽管年底出现一些改善迹象，但情绪仍比 2024 年 12 月低近 30%，因为钱包问题继续主导消费者对经济的看法。”
  当前状况指标跌至历史低点 50.4，而预期指标则攀升至四个月高点。 消费者对当前大件商品购买状况的看法恶化至有记录以来的最低水平。  EY-Parthenon 美洲零售部门负责人 Will Auchincloss 分析了消费者的状况。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英特尔拒绝；  Dynavax 集会； 耐克股价走高]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-12-24/intel-declines-dynavax-rallies-nike-ticks-higher-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-24/intel-declines-dynavax-rallies-nike-ticks-higher-video</guid>
-            <pubDate>Wed, 24 Dec 2025 15:41:22 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] - 路透社报道英伟达停止使用该芯片制造商的 18A 技术生产芯片的测试后，英特尔 (INTC) 股价早盘下跌。 
- - 赛诺菲同意以约 22 亿美元收购 Dynavax 后，Dynavax Technologies (DVAX) 的股价在盘前交易中飙升，因为该公司寻求扩大目前以流感疫苗专营权为主的疫苗业务。 这家法国制药商将以每股 15.50 美元的现金收购 Dynavax，较这家总部位于加利福尼亚州埃默里维尔的公司周二收盘价高出 39%。 
- - 文件显示苹果首席执行官蒂姆·库克 (Tim Cook) 于 12 月 22 日购买了价值 295 万美元的股票，耐克 (NKE) 的股价在美国股市开盘前走高。   （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国召开会议以重新停火重建加沙]]></title>
-            <link>https://www.bloomberg.com/news/videos/2025-12-24/us-weighs-conference-to-rebuild-gaza-in-fresh-ceasefire-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-24/us-weighs-conference-to-rebuild-gaza-in-fresh-ceasefire-video</guid>
-            <pubDate>Wed, 24 Dec 2025 15:32:10 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 知情人士称，美国及其盟国正在重新推动召开加沙重建会议，特朗普政府在经历一系列挫折后希望为以色列和哈马斯之间的停火注入新的动力。
- 据因讨论私人谈话而要求匿名的知情人士透露，华盛顿已被讨论为会议的潜在举办地，会议最早可能在下个月举行。 其中一位知情人士称，埃及是也在考虑的其他几个地点之一。
- 该人士表示，这一活动可能只有在官员们填写和平委员会后才能举行，该委员会将监督过渡政府，该委员会的成立在结束以色列和哈马斯之间战斗并于 10 月签署的停火协议中得到了详细说明。 彭博社的丹·威廉姆斯从耶路撒冷报道。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[降息押注推动标普500指数盘中创历史新高 - 路透中文网]]></title>
