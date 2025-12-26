@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 26 Dec 2025 17:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 17:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[AI会变成什么？]]></title>
+            <link>https://www.bloomberg.com/news/newsletters/2025-12-26/what-will-ai-flip-into</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2025-12-26/what-will-ai-flip-into</guid>
+            <pubDate>Fri, 26 Dec 2025 17:15:22 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 您好，欢迎来到时事通讯，这是来自 Odd Lot 宇宙的每日内容的抓包。 有时是我们乔·韦森塔尔和特雷西·阿洛韦为您带来我们对市场、金融和经济最新发展的看法。 有时，这是来自我们的专家嘉宾和来源网络的贡献。 无论是什么，我们保证它永远会很有趣。]]></description>
+        </item>
         <item>
             <title><![CDATA[葡萄牙股市收低；截至收盘PSI基本持平]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3142594</link>
@@ -70,6 +77,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-26/us-strikes-isis-in-cooperation-with-nigeria-video</guid>
             <pubDate>Fri, 26 Dec 2025 16:30:35 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 美国与尼日利亚政府进行安全和情报合作，对尼日利亚境内的伊斯兰国目标发动了军事打击。 唐纳德·特朗普总统表示，他指示美国军队对“伊斯兰国”组织进行“强大而致命的打击”。 劳拉·戴维森 (Laura Davison) 接受彭博电视台报道。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[彭博社监测 2025 年 12 月 26 日]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-26/bloomberg-surveillance-12-26-2025-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-26/bloomberg-surveillance-12-26-2025-video</guid>
+            <pubDate>Fri, 26 Dec 2025 16:21:07 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 乔纳森·费罗（Jonathan Ferro）、丽莎·阿布拉莫维奇（Lisa Abramowicz）和安玛丽·霍登（Annmarie Hordern）每天与华尔街、华盛顿及其他地区的领导人和决策者交谈。 没有其他计划可以更好地为投资者和高管提供交易日的定位。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[X3控股宣布1比6股份合并后股价下跌]]></title>
@@ -244,7 +258,7 @@
             <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm1kUWhFYWVWWnVpM2dKQ0JHNFIyb0tteHpqZkxURTdXaFNST1lRcVJhdWZPYlRZYWJiVlIxRmx2Y2pYb3pIWHp5LXRUd2s5eWppUnp4dXdVN0RSRkUxSHhUMUM4UW5LYmZDT2xMekFCR0J0Yld0dU9vZGNHSkswODZtck1DSW56WF9qQUF1SG9RdHRHOURkU0R4ZGFUdl9HOEgxaVhOUExFdw?oc=5</guid>
             <pubDate>Fri, 26 Dec 2025 10:34:48 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Nvidia 加入大型科技交易热潮，获得 Groq 技术许可并聘请高管 - 路透中文网]]></description>
+            <description><![CDATA[[Reuters Business] Nvidia 加入大型科技交易热潮，获得 Groq 技术许可，聘请高管 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[数以万计的进口商品被阻止进入美国。那些因信息缺失或不完整而无法清关的商品将被退回或销毁。]]></title>
@@ -345,7 +359,7 @@
             <description><![CDATA[[华尔街见闻] 日本组团搞存储，旨在干掉HBM  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[马来西亚出口增加，棕榈油触及两周高位]]></title>
+            <title><![CDATA[马来西亚出口增加，棕榈油触及两周高点]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-26/palm-oil-hits-two-week-high-on-increased-malaysian-exports</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-26/palm-oil-hits-two-week-high-on-increased-malaysian-exports</guid>
             <pubDate>Fri, 26 Dec 2025 05:05:57 GMT</pubDate>
@@ -461,7 +475,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-25/green-debt-sales-hit-record-levels-despite-climate-backlash</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-25/green-debt-sales-hit-record-levels-despite-climate-backlash</guid>
             <pubDate>Thu, 25 Dec 2025 23:39:37 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 尽管美国和欧洲的政策和监管有所回落，但由于人工智能推动了能源基础设施需求的繁荣，今年投资者仍大量买入气候友好型资产。]]></description>
+            <description><![CDATA[[Bloomberg] 尽管美国和欧洲的政策和监管有所回落，但随着人工智能推动能源基础设施需求的繁荣，今年投资者仍大量买入气候友好型资产。]]></description>
         </item>
         <item>
             <title><![CDATA[日本央行行长称日本更接近实现 2% 通胀目标]]></title>
@@ -506,7 +520,7 @@
             <description><![CDATA[[Bloomberg] 非洲进出口银行已经解决了与加纳关于7.5亿美元贷款的争端，但没有透露是否会承担损失。]]></description>
         </item>
         <item>
-            <title><![CDATA[股市多头推动标准普尔 500 指数一个月内表现最佳：市场总结]]></title>
+            <title><![CDATA[股市反弹在一个月来最好的一周结束时动摇：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-25/asian-stocks-set-for-muted-open-in-holiday-trade-markets-wrap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-25/asian-stocks-set-for-muted-open-in-holiday-trade-markets-wrap</guid>
             <pubDate>Thu, 25 Dec 2025 22:46:35 GMT</pubDate>
@@ -562,13 +576,6 @@
             <description><![CDATA[[Reuters Business] 航空当局称坦桑尼亚乞力马扎罗山直升机坠毁造成五人死亡 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[通胀放缓后埃及今年第五次降息]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-25/egypt-squeezes-in-fifth-rate-cut-of-year-after-inflation-slows</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-25/egypt-squeezes-in-fifth-rate-cut-of-year-after-inflation-slows</guid>
-            <pubDate>Thu, 25 Dec 2025 16:04:41 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 埃及央行今年第五次降息，此前通胀意外放缓，为当局恢复宽松周期提供了空间。]]></description>
-        </item>
-        <item>
             <title><![CDATA[AI“世界模型”成就游戏行业]]></title>
             <link>https://www.ftchinese.com/story/001108539</link>
             <guid isPermaLink="false">https://www.ftchinese.com/story/001108539</guid>
@@ -609,13 +616,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FTFhhS20tVWFsb01NM0lobncwRUZaZklvYUhZNUFKMzBvX1o5S3dYR25JZThqdmFRU0F3dExDcFpXLWRTTzhfb1pxeExfaEhHLVhR?oc=5</guid>
             <pubDate>Thu, 25 Dec 2025 12:14:22 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 小米17 Ultra起售价6999元，较上代机型涨价500元  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[诺瓦克表示，制裁推迟了俄罗斯将液化天然气产量增加两倍的计划]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-25/sanctions-delay-russia-s-plan-to-triple-lng-output-novak-says</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-25/sanctions-delay-russia-s-plan-to-triple-lng-output-novak-says</guid>
-            <pubDate>Thu, 25 Dec 2025 10:36:41 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 俄罗斯副总理亚历山大·诺瓦克表示，由于国际制裁，俄罗斯将液化天然气年产量增加两倍的雄心已被推迟了几年。]]></description>
         </item>
         <item>
             <title><![CDATA[大公司在人工智能方面蓬勃发展并创纪录的利润，但小企业面临关税、成本上升和裁员，从而扩大了美国的经济鸿沟]]></title>
