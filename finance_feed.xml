@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 28 Dec 2025 23:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Dec 2025 23:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[财经早知道｜财政部重磅发声：多渠道增加居民收入 - 财新]]></title>
+            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mRGI4OE81SXRodktNcjhsaEp1ckppYll5Wl9RdTVvLVNSWTdxU1V2ZmFZMEg0YmJmUVF3czE1VmE0ejhkMjZtTFRqN0J2ZzNwaW1hZXk4OU8xSllBSDkwOVFn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mRGI4OE81SXRodktNcjhsaEp1ckppYll5Wl9RdTVvLVNSWTdxU1V2ZmFZMEg0YmJmUVF3czE1VmE0ejhkMjZtTFRqN0J2ZzNwaW1hZXk4OU8xSllBSDkwOVFn?oc=5</guid>
+            <pubDate>Sun, 28 Dec 2025 23:19:00 GMT</pubDate>
+            <description><![CDATA[[财新网] 财经早知道｜财政部重磅发声：多渠道增加居民收入  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国承诺支持明年经济增长，原油价格上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-28/latest-oil-market-news-and-analysis-for-dec-29</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-28/latest-oil-market-news-and-analysis-for-dec-29</guid>
+            <pubDate>Sun, 28 Dec 2025 23:12:32 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于中国需求改善的前景以及大宗商品在年底强劲上涨，油价上涨。]]></description>
+        </item>
         <item>
             <title><![CDATA[港股本周要闻前瞻｜壁仞科技等多只新股挂牌 港股周四因元旦假期休市]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3142964</link>
@@ -51,11 +65,11 @@
             <description><![CDATA[[Bloomberg] 印度尼西亚将于本周逐步取消一个关键的货币市场基准，结束长达数年的与全球标准保持一致的过渡。]]></description>
         </item>
         <item>
-            <title><![CDATA[亚洲股市开局清淡，交易清淡：市场休整]]></title>
+            <title><![CDATA[股市保持接近纪录，白银创历史新高：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-28/asian-stocks-set-for-muted-start-amid-thin-trading-markets-wrap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-28/asian-stocks-set-for-muted-start-amid-thin-trading-markets-wrap</guid>
             <pubDate>Sun, 28 Dec 2025 22:38:16 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着接近年底交易逐渐放缓，以及美国股市在周五震荡交易后收盘几乎没有变化，亚洲股市预计开盘低迷。]]></description>
+            <description><![CDATA[[Bloomberg] 在交投清淡的情况下，全球股市维持在历史最高水平附近，而白银则攀升至新高，延续了年底的历史性涨势。]]></description>
         </item>
         <item>
             <title><![CDATA[华众车载(06830)：成立合伙企业 重点投资于新兴生产力、新能源、新材料、消费品及健康医疗等领域]]></title>
@@ -83,7 +97,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-28/india-s-ipo-market-why-companies-rushed-to-go-public-in-2025</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-28/india-s-ipo-market-why-companies-rushed-to-go-public-in-2025</guid>
             <pubDate>Sun, 28 Dec 2025 22:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 从保险公司到珠宝商和电子商务平台，各类印度公司都在 2025 年竞相向公众出售股票，创下了上市数量创纪录的一年。 国内外投资者纷纷涌入，银行家们加班加点地完成交易。]]></description>
+            <description><![CDATA[[Bloomberg] 从保险公司到珠宝商再到电子商务平台，各类印度公司都争相在 2025 年向公众出售股票，创下了上市数量创纪录的一年。 国内外投资者纷纷涌入，银行家们加班加点地完成交易。]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
@@ -126,6 +140,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-28/defiant-assad-loyalists-attack-government-forces-on-syrian-coast</guid>
             <pubDate>Sun, 28 Dec 2025 17:59:35 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 拉塔基亚至少有 3 人死亡、60 人受伤，叙利亚内政部将该国地中海沿岸的暴力事件归咎于巴沙尔·阿萨德政权的残余势力。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[巴西劳工法庭命令巴西国家石油公司 80% 的员工留在原地 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTZ4dEp4Q3l2V1N0dzBMazE2RXZTdUZObWcxTnZ4MWlJZFJyck5FMGM2c0loUU9VNU1PRG90em1mRnQ3ZGd1dkY1TUNNbGNUQnQyWlg1V0ZjanVaUXlQeVFnZERkbTRnd0kyc1JzZFlaVWFydURjYlRxUHRGdjg1SGJJLVpQM1hncUNjb3pFWVFxUy0zOHBoY20xOWFCRTdsYjhEOTVUNFZXeTdpd1MxMG1kZUZWdXRCRGc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTZ4dEp4Q3l2V1N0dzBMazE2RXZTdUZObWcxTnZ4MWlJZFJyck5FMGM2c0loUU9VNU1PRG90em1mRnQ3ZGd1dkY1TUNNbGNUQnQyWlg1V0ZjanVaUXlQeVFnZERkbTRnd0kyc1JzZFlaVWFydURjYlRxUHRGdjg1SGJJLVpQM1hncUNjb3pFWVFxUy0zOHBoY20xOWFCRTdsYjhEOTVUNFZXeTdpd1MxMG1kZUZWdXRCRGc?oc=5</guid>
+            <pubDate>Sun, 28 Dec 2025 17:47:25 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 巴西劳工法庭命令巴西国家石油公司 80% 的员工留在原地 路透社]]></description>
         </item>
         <item>
             <title><![CDATA[重振“蓝色巨人”的 IBM 前首席执行官路易斯·格斯特纳 (Louis Gerstner) 去世，享年 83 岁 - 路透中文网]]></title>
@@ -349,7 +370,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-28/packer-family-office-ceo-sells-sydney-home-for-a-85-million-afr</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-28/packer-family-office-ceo-sells-sydney-home-for-a-85-million-afr</guid>
             <pubDate>Sun, 28 Dec 2025 02:31:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据《澳大利亚金融评论报》报道，悉尼 2025 年最大的房屋销售交易是澳大利亚亿万富翁 James Packer 家族办公室首席执行官拥有的一栋豪宅，成交价约为 8500 万澳元（合 5710 万美元）。]]></description>
+            <description><![CDATA[[Bloomberg] 据《澳大利亚金融评论报》报道，悉尼 2025 年最大的房屋销售交易是澳大利亚亿万富翁 James Packer 家族办公室首席执行官拥有的一栋豪宅，成交价约为 8500 万澳元（合 5710 万澳元）。]]></description>
         </item>
         <item>
             <title><![CDATA[明年的企业策略是什么？ 不要雇用。]]></title>
@@ -377,7 +398,7 @@
             <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09qZFdKODl4anY5Ti1oVDhzejBaeW9wSHFzQVZrWkoyU2ZNVXZKMnhFTF96aDlrb09YT0FFRlVGcHdfMGV6X21TcWdIc2ZTby1iR1VNZVFNNHRCdzBUOURVZmNtX3ZGX3NGRGZQZ2k0TU53S2sydGhLRV9oWnBBaER6S1lNdG8wMDFyekgyeFZ6S2g0UVVJNU9TQzBHb01xS1NTREVfcjc2cEdPVlhfazhreWQ3NXFfdDV3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09qZFdKODl4anY5Ti1oVDhzejBaeW9wSHFzQVZrWkoyU2ZNVXZKMnhFTF96aDlrb09YT0FFRlVGcHdfMGV6X21TcWdIc2ZTby1iR1VNZVFNNHRCdzBUOURVZmNtX3ZGX3NGRGZQZ2k0TU53S2sydGhLRV9oWnBBaER6S1lNdG8wMDFyekgyeFZ6S2g0UVVJNU9TQzBHb01xS1NTREVfcjc2cEdPVlhfazhreWQ3NXFfdDV3?oc=5</guid>
             <pubDate>Sun, 28 Dec 2025 01:06:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国东北部冬季天气导致数千航班延误、取消 路透]]></description>
+            <description><![CDATA[[Reuters Business] 美国东北部的冬季天气导致数千架航班延误、取消 路透]]></description>
         </item>
         <item>
             <title><![CDATA[担心“A500ETF年底冲量导致年初反复”？申万宏源：春季主题行情已赢在当下 - 华尔街见闻]]></title>
@@ -391,7 +412,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-27/california-gets-break-from-storms-ahead-of-new-year-s-eve-rain-mjop46qz</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-27/california-gets-break-from-storms-ahead-of-new-year-s-eve-rain-mjop46qz</guid>
             <pubDate>Sat, 27 Dec 2025 19:04:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 加州将在周末短暂缓解造成四人死亡并阻碍圣诞节旅行的破坏性假日风暴，但气象官员警告称，从新年前夜开始，这个被雨水浸透的州将迎来更多潮湿天气。]]></description>
+            <description><![CDATA[[Bloomberg] 加州将在周末短暂缓解造成四人死亡并阻碍圣诞节旅行的破坏性假日风暴，但气象官员警告说，从新年前夜开始，这个被雨水浸透的州将迎来更多潮湿天气。]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯国防部称三小时内击落111架乌克兰无人机 - 路透中文网]]></title>
@@ -447,7 +468,7 @@
             <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEp2SHQ1czBGbzZuRDFyams3WHNrNm9xaEpMT25iSHNUNmI4TU1zV3g2YjF5aHRTRUxtVmloU2l5ckREaGZadGd1UzJzNlgtTVNVOTB2UDBUaVlLV1JoVGZMU3FxTnlNMGZ4Q0Z4Y0k2WXlZaDRFeExuMUNwdFNyQUNSSUVjUkxuWHA1RVRIeUl6YTN0b1M0R2NZQnBrNFM5TWM1ckRUV1lIWWxZOENJVXFwVDBqU0x1TzRKUzNjWlE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEp2SHQ1czBGbzZuRDFyams3WHNrNm9xaEpMT25iSHNUNmI4TU1zV3g2YjF5aHRTRUxtVmloU2l5ckREaGZadGd1UzJzNlgtTVNVOTB2UDBUaVlLV1JoVGZMU3FxTnlNMGZ4Q0Z4Y0k2WXlZaDRFeExuMUNwdFNyQUNSSUVjUkxuWHA1RVRIeUl6YTN0b1M0R2NZQnBrNFM5TWM1ckRUV1lIWWxZOENJVXFwVDBqU0x1TzRKUzNjWlE?oc=5</guid>
             <pubDate>Sat, 27 Dec 2025 10:24:26 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 陆军参谋长表示瑞士无法抵御全面袭击 路透]]></description>
+            <description><![CDATA[[Reuters Business] 陆军参谋长称瑞士无法防御全面袭击 路透]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯将临时汽油出口禁令延长至二月]]></title>
@@ -566,7 +587,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-27/senegal-raises-1-billion-in-oversubscribed-regional-bond-sale</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-27/senegal-raises-1-billion-in-oversubscribed-regional-bond-sale</guid>
             <pubDate>Sat, 27 Dec 2025 00:53:19 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 塞内加尔在一次地区债券发行中筹集了 5600 亿非洲法郎（10 亿美元），该债券发行延长了几天，原因是政府在隐性债务丑闻限制进入国际资本市场后面临融资压力。]]></description>
+            <description><![CDATA[[Bloomberg] 塞内加尔在一次区域债券发售中筹集了 5600 亿非洲法郎（10 亿美元），该债券发售延长了几天，原因是政府在隐性债务丑闻限制进入国际资本市场后面临融资压力。]]></description>
         </item>
         <item>
             <title><![CDATA[沪深交易所2026年将降费让利19亿元 - 财新]]></title>
@@ -664,7 +685,7 @@
             <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNQl9uMU4zeTlmanF1bm5fQ1BYSml4VFAwQlRGSUtCa0Zoenp4N3g3Sjh1b2J5RnB0c1NmYVRHMU5BVXlsY1l1S1VXX193NTM0bWhzTktfRzZhTHU2NWlmb3BCSFh0aS12Mnd6UzNkdzY3U3RoemlrOUwyTTMwUDhEcWN3NjhHZUR3bl9lV1lTLXlDMldwYWdLdmo2bkNXWTg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNQl9uMU4zeTlmanF1bm5fQ1BYSml4VFAwQlRGSUtCa0Zoenp4N3g3Sjh1b2J5RnB0c1NmYVRHMU5BVXlsY1l1S1VXX193NTM0bWhzTktfRzZhTHU2NWlmb3BCSFh0aS12Mnd6UzNkdzY3U3RoemlrOUwyTTMwUDhEcWN3NjhHZUR3bl9lV1lTLXlDMldwYWdLdmo2bkNXWTg?oc=5</guid>
             <pubDate>Fri, 26 Dec 2025 18:26:19 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 白银的交易方式，从股票到金币和金条 路透]]></description>
+            <description><![CDATA[[Reuters Business] 白银的交易方式：从股票到金币和金条 路透]]></description>
         </item>
         <item>
             <title><![CDATA[国投瑞银白银基金C类份额暂停申购 - 华尔街见闻]]></title>
@@ -686,27 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Bc0tQU24xYVZnMklTOThaYjJxY2pUZEY1Y1J6MFFNbEIwd1NsZEFRdVBka2Vlc1lzTUVBcUhfSzNwR2o1aEVMcnNiM3R6cVZkdWc4?oc=5</guid>
             <pubDate>Fri, 26 Dec 2025 15:14:23 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 邮储银行正式“换帅”  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[强生公司停止实验性湿疹药物的中期试验 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0tqbmFaMW9vU2RwVGxiR0o5MUpVeWFXaVpGWE1vZUp5Wm9ySnVlTkZwUDYwaFFTZXJSNkpDRVN3Z1k3ZGo2QWt6UWdTZE1mVzIwektJZHZlNUoyS0VWelBTNnozanprUFBoZld0TGprVEY4bEtQUUk5azJrVjJzcUtUaUE4eUpvN18zSFpnbW5UWVRwY2Y1SGdrTWRjenAwRkFMRlJaT1Q1SUtzc3lPZ1BiS0JrX1lyalcyQk00N0JGM2c2YVBsWlQzWlFuTE0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0tqbmFaMW9vU2RwVGxiR0o5MUpVeWFXaVpGWE1vZUp5Wm9ySnVlTkZwUDYwaFFTZXJSNkpDRVN3Z1k3ZGo2QWt6UWdTZE1mVzIwektJZHZlNUoyS0VWelBTNnozanprUFBoZld0TGprVEY4bEtQUUk5azJrVjJzcUtUaUE4eUpvN18zSFpnbW5UWVRwY2Y1SGdrTWRjenAwRkFMRlJaT1Q1SUtzc3lPZ1BiS0JrX1lyalcyQk00N0JGM2c2YVBsWlQzWlFuTE0?oc=5</guid>
-            <pubDate>Fri, 26 Dec 2025 13:32:40 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 强生公司停止实验性湿疹药物的中期试验 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[盘前涨幅最大的股票：Nvidia、Micron、SanDisk 等]]></title>
-            <link>https://www.cnbc.com/2025/12/26/stocks-making-the-biggest-moves-premarket-nvidia-micron-sandisk-more.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/12/26/stocks-making-the-biggest-moves-premarket-nvidia-micron-sandisk-more.html</guid>
-            <pubDate>Fri, 26 Dec 2025 12:49:56 GMT</pubDate>
-            <description><![CDATA[[CNBC] 这些是盘前交易中涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可重复使用成“硬门槛” 商业火箭IPO标准量化 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4RmtmTi1uUkdaNFZpbzhzdTNTa0N4enVRYVV5WDRVdVF5WEJ2MUhPdWtBRGlBLW53dVFtdUx1S2JJaWdxWDVGeUF2eVBpOVlfajVUblJQNzkzVGtYa1NiV3RB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4RmtmTi1uUkdaNFZpbzhzdTNTa0N4enVRYVV5WDRVdVF5WEJ2MUhPdWtBRGlBLW53dVFtdUx1S2JJaWdxWDVGeUF2eVBpOVlfajVUblJQNzkzVGtYa1NiV3RB?oc=5</guid>
-            <pubDate>Fri, 26 Dec 2025 12:23:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 可重复使用成“硬门槛” 商业火箭IPO标准量化  财新]]></description>
         </item>
     </channel>
 </rss>
