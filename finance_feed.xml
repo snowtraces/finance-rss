@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 28 Dec 2025 18:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Dec 2025 18:51:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[反抗的阿萨德效忠者袭击叙利亚海岸的政府军]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-28/defiant-assad-loyalists-attack-government-forces-on-syrian-coast</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-28/defiant-assad-loyalists-attack-government-forces-on-syrian-coast</guid>
+            <pubDate>Sun, 28 Dec 2025 17:59:35 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 拉塔基亚至少有 3 人死亡、60 人受伤，叙利亚内政部将该国地中海沿岸的暴力事件归咎于巴沙尔·阿萨德政权的残余势力。]]></description>
+        </item>
         <item>
             <title><![CDATA[重振“蓝色巨人”的 IBM 前首席执行官路易斯·格斯特纳 (Louis Gerstner) 去世，享年 83 岁 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzJJSTRnVXF0aS03RDJiWERVS2Rlc2s0T1RhUTB5Q1cxRDI4MTJsbHhhNExfV3NTd0tFUTB1RFJLZWhZaG1pazIzdU5icl9JRGp2MHliU25IRmRZbXF3TXU2NU0yUXAxandCeGdvTmJzWDdwYWJTVGZBRllERHdhLWJQdWtZd0o5VnJtNVdLNWhqRHBYcDFVU2Y2ODMzZ0txY3hHX2pNdEF6blk?oc=5</link>
@@ -21,6 +28,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3142954</guid>
             <pubDate>Sun, 28 Dec 2025 16:05:09 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[以色列科技行业称更多员工寻求调往国外 - 路透社]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR01NcHpLekpxOFVmVk9OZVUzQTR5a3BVV0duX2ROSnM2RnhvN2hySV9SY1puRkJYeHN0MDUteEtOc2hkSmxUTDE3Q012QVc2RUE0SzFLX1hlTnpWdzZwMkJ5ZlhPRTJNYVZkTXhieGtwa1Z4VEtvcjVySm04dzJKU2Z1ZWJvSGhRMlNmN3RxbjF4eE9mLUROR1dmSjB4ZlFGcWRQeXc0N1g3OFNXZmlIa2hFTHl0MFhiWlhlR0x6UEJUUQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR01NcHpLekpxOFVmVk9OZVUzQTR5a3BVV0duX2ROSnM2RnhvN2hySV9SY1puRkJYeHN0MDUteEtOc2hkSmxUTDE3Q012QVc2RUE0SzFLX1hlTnpWdzZwMkJ5ZlhPRTJNYVZkTXhieGtwa1Z4VEtvcjVySm04dzJKU2Z1ZWJvSGhRMlNmN3RxbjF4eE9mLUROR1dmSjB4ZlFGcWRQeXc0N1g3OFNXZmlIa2hFTHl0MFhiWlhlR0x6UEJUUQ?oc=5</guid>
+            <pubDate>Sun, 28 Dec 2025 15:57:29 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 以色列科技行业称更多员工寻求调往国外 - 报告 路透]]></description>
         </item>
         <item>
             <title><![CDATA[以色列股市上涨；截至收盘特拉维夫TA35指数上涨0.43%]]></title>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VZThZRFhhX183a1lxN3g0LXFNbkVJM3NvY3ByTlJNaTk3U2pJbnh1YVd2UkRwa2VlN1A1YmZWdGk0N1VORTIzT2F5N3RkTTAtSjlz?oc=5</guid>
             <pubDate>Fri, 26 Dec 2025 11:12:26 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 华润深圳粮仓失速  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行从2026年起削减外汇销售，取消对卢布的部分支持 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQNGdrTERaY0ZyWURDS0dsa0VyTjhxUU44ZzZ3b2staHlBYUgzeGkydVlHSjVBc2k1MzJidE9neDQtei1vd2J1V1lVVDdJSlFuRi1WRFZKQUlWdm9IcUFYM21lYXpfSDlfN0JfX0lUZ1A0YXBEdm9kMEg5UnlUZXlYZm5ybXpGX09qQnU5THQtdWlRMExWOFp4cDhEMkoyRkNFUjdWU2ZpMFg4Q2RVdlhuOUZQZHpYNXBkYkEzMWJKTGxvWk1TUU9SMFNjTQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQNGdrTERaY0ZyWURDS0dsa0VyTjhxUU44ZzZ3b2staHlBYUgzeGkydVlHSjVBc2k1MzJidE9neDQtei1vd2J1V1lVVDdJSlFuRi1WRFZKQUlWdm9IcUFYM21lYXpfSDlfN0JfX0lUZ1A0YXBEdm9kMEg5UnlUZXlYZm5ybXpGX09qQnU5THQtdWlRMExWOFp4cDhEMkoyRkNFUjdWU2ZpMFg4Q2RVdlhuOUZQZHpYNXBkYkEzMWJKTGxvWk1TUU9SMFNjTQ?oc=5</guid>
-            <pubDate>Fri, 26 Dec 2025 11:12:20 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 俄罗斯央行从 2026 年起削减外汇销售，取消对卢布的部分支持 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[纽约电影制片人阿莫斯·坡因癌症去世，享年 76 岁 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzZTUVo4YkpzeTJLSGdIWEw3SUxuSUJMZGpMNFhJUFAyTjFBcnRMaXVfVmc5TmdjdzNLdHY3Zl9GQWg1bXNNc0hGblZuSGxpX21vUTEyY1g5S1FVVHZ3TEd5QTg0Q042UGkxem1CMDBoSzJwWFVYQU5pMHYzUmVDUXRqNTYwZ0Q0Y3A3TVZIU0xvOG9pUThTNjE2eE5USTFlRl9MNXR0d3RRZVhDa1l4SE1DLTc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzZTUVo4YkpzeTJLSGdIWEw3SUxuSUJMZGpMNFhJUFAyTjFBcnRMaXVfVmc5TmdjdzNLdHY3Zl9GQWg1bXNNc0hGblZuSGxpX21vUTEyY1g5S1FVVHZ3TEd5QTg0Q042UGkxem1CMDBoSzJwWFVYQU5pMHYzUmVDUXRqNTYwZ0Q0Y3A3TVZIU0xvOG9pUThTNjE2eE5USTFlRl9MNXR0d3RRZVhDa1l4SE1DLTc?oc=5</guid>
-            <pubDate>Fri, 26 Dec 2025 10:44:36 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 纽约电影制片人阿莫斯·坡 (Amos Poe) 因癌症去世，享年 76 岁 路透]]></description>
         </item>
     </channel>
 </rss>
