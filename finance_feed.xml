@@ -4,10 +4,59 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 29 Dec 2025 16:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Dec 2025 17:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[盘前涨幅最大的股票：DigitalBridge、Praxis Precision Medicines、Coupang 等]]></title>
+            <link>https://www.cnbc.com/2025/12/29/stocks-making-the-biggest-moves-premarket-dbrg-prax-cpng.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2025/12/29/stocks-making-the-biggest-moves-premarket-dbrg-prax-cpng.html</guid>
+            <pubDate>Mon, 29 Dec 2025 17:12:14 GMT</pubDate>
+            <description><![CDATA[[CNBC] 这些是早盘交易中涨幅最大的股票。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sandbar 让人工智能触手可及]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-29/sandbar-puts-ai-on-your-finger-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-29/sandbar-puts-ai-on-your-finger-video</guid>
+            <pubDate>Mon, 29 Dec 2025 17:08:53 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 人工智能可穿戴设备带来了很多希望，但大多令人失望。  Sandbar 的首席执行官表示，这次不同。  Mina Fahmi 与我们一起推出 Stream Ring，这是一款语音优先的人工智能可穿戴设备，旨在轻松捕捉想法，这也是人工智能的未来最终可能超越屏幕的原因。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[沃伦·巴菲特被忽视的优势]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-29/opinion-warren-buffett-s-overlooked-edge-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-29/opinion-warren-buffett-s-overlooked-edge-video</guid>
+            <pubDate>Mon, 29 Dec 2025 17:02:26 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 彭博社观点专栏作家尼尔·凯萨 (Nir Kaissar) 解释说，沃伦·巴菲特的特殊之处并没有体现在统计表中。 以下是华尔街可以从奥马哈先知那里学到的东西。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[瑞典股市上涨；截至收盘瑞典OMX斯德哥尔摩30指数上涨0.51%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3144280</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3144280</guid>
+            <pubDate>Mon, 29 Dec 2025 17:00:51 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[芬兰股市上涨；截至收盘芬兰OMX赫尔辛基25指数上涨0.76%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3144279</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3144279</guid>
+            <pubDate>Mon, 29 Dec 2025 17:00:17 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[玉米创一个月来最大跌幅，关注中国粮食储备]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-29/corn-slumps-most-in-a-month-with-focus-on-china-grain-reserves</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/corn-slumps-most-in-a-month-with-focus-on-china-grain-reserves</guid>
+            <pubDate>Mon, 29 Dec 2025 16:59:32 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 周一，玉米出现一个多月以来的最大盘中跌幅，导致谷物期货周一下跌，交易员寻求需求信号来打破市场的假期低迷。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[11 月待售房屋销售量连续第四个月上涨]]></title>
+            <link>https://www.wsj.com/economy/november-pending-home-sales-had-fourth-consecutive-monthly-rise-89eb85da</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/november-pending-home-sales-had-fourth-consecutive-monthly-rise-89eb85da</guid>
+            <pubDate>Mon, 29 Dec 2025 16:52:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 以合同签署为基础的房屋销售领先指标——成屋待售指数11月份环比上涨3.3%，至79.2，为近三年来的最佳表现。]]></description>
+        </item>
         <item>
             <title><![CDATA[波兰股市上涨；截至收盘波兰华沙WIG30指数上涨0.30%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3144268</link>
@@ -79,18 +128,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[美国二手房市场现回暖迹象 11月成屋待完成销售指数创近三年来新高]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3144250</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3144250</guid>
-            <pubDate>Mon, 29 Dec 2025 16:05:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[智通港股投资日志|12月30日]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3144249</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3144249</guid>
-            <pubDate>Mon, 29 Dec 2025 16:05:09 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[彭博社监测 2025 年 12 月 29 日]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-29/bloomberg-surveillance-12-29-2025-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-29/bloomberg-surveillance-12-29-2025-video</guid>
+            <pubDate>Mon, 29 Dec 2025 16:01:56 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 乔纳森·费罗（Jonathan Ferro）、丽莎·阿布拉莫维奇（Lisa Abramowicz）和安玛丽·霍登（Annmarie Hordern）每天与华尔街、华盛顿及其他地区的领导人和决策者交谈。 没有其他计划可以更好地为投资者和高管提供交易日的定位。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[Summit 向纽约市破产租赁楼提供 4.51 亿美元报价]]></title>
@@ -121,6 +163,20 @@
             <description><![CDATA[[Reuters Business] 独家：VinFast 关联的 GSM 着眼于国际 IPO； 估值 200 亿美元 路透社]]></description>
         </item>
         <item>
+            <title><![CDATA[俄外长称乌企图袭击普京官邸 俄方已确定回击 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tWHZURlNobUlSOVpyd3lkb0FEUW56a0hWQ0ktZ3VhYWp2OEFVQ09YWDVCYzdVcEVVMFpyN2JPS2VBZEpQekJEUzh1QTRhR3F1bmM0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tWHZURlNobUlSOVpyd3lkb0FEUW56a0hWQ0ktZ3VhYWp2OEFVQ09YWDVCYzdVcEVVMFpyN2JPS2VBZEpQekJEUzh1QTRhR3F1bmM0?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 15:32:18 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 俄外长称乌企图袭击普京官邸 俄方已确定回击  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[NAR称美国11月待售房屋销量飙升至近三年来最高水平 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmxDLWhDak56eENDR1doQ1lmNlBKVlllZkRXTjRVYkxJVExQQjNjRnFMVENWc1lobWNiaXZHT096cFRVb00yazJSemh6ZllQaUxpR25DZnhFVnZUVUlFS0kyVzhRS2JWZlcwdmFIUktnR1lEZm9Kd25lMU41WlVLVF8zSjdTYXFVN0VEQUM5OXdLVEx3QUU1cjdHZjFUT1F4WFBiZVRPMVRLcjNxVl80WUo1VQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmxDLWhDak56eENDR1doQ1lmNlBKVlllZkRXTjRVYkxJVExQQjNjRnFMVENWc1lobWNiaXZHT096cFRVb00yazJSemh6ZllQaUxpR25DZnhFVnZUVUlFS0kyVzhRS2JWZlcwdmFIUktnR1lEZm9Kd25lMU41WlVLVF8zSjdTYXFVN0VEQUM5OXdLVEx3QUU1cjdHZjFUT1F4WFBiZVRPMVRLcjNxVl80WUo1VQ?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 15:02:37 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] NAR 称，11 月份美国待售房屋销量飙升至近 3 年来的最高水平 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[普京要求军队继续攻克乌克兰南部地区 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjJaUjllal9RRXdRTHNpdndWdzRfVnpsbWxuNm9Pem9DbVF1dEFFWmFzcGVpQ3RnVWtmMW5ic282WjZZMFg2WTk5MTZvak00VGJDVHdIOEFzN2NZbHU4RlRad3BmMGppMWxoZy14bzFiZ0hfVW5tN1NkRVpFWTQ1Y2NiU3lYRjUwT1JFTzFqNzlKVUFPTHo2azF1SVVHcEQ2OXpkZlNnUjRuU3B6cGFZQ0FmQVZlV2Y3YWcwZzhYcHY4U3NITlFsZlJ3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjJaUjllal9RRXdRTHNpdndWdzRfVnpsbWxuNm9Pem9DbVF1dEFFWmFzcGVpQ3RnVWtmMW5ic282WjZZMFg2WTk5MTZvak00VGJDVHdIOEFzN2NZbHU4RlRad3BmMGppMWxoZy14bzFiZ0hfVW5tN1NkRVpFWTQ1Y2NiU3lYRjUwT1JFTzFqNzlKVUFPTHo2azF1SVVHcEQ2OXpkZlNnUjRuU3B6cGFZQ0FmQVZlV2Y3YWcwZzhYcHY4U3NITlFsZlJ3?oc=5</guid>
@@ -139,11 +195,11 @@
  据知情人士透露，在彭博社报道该公司在今年最后几天快速生产飞机后，空客公司 (AIR FP) 早盘几乎没有变化，这家欧洲飞机制造商对实现几周前被迫削减的交付目标信心增强。   （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[避险情绪冲击大型科技股，提振能源，美国股市下滑]]></title>
+            <title><![CDATA[避险情绪冲击大型科技股，提振能源，美国股市下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-29/us-stocks-slip-as-risk-off-sentiment-hits-big-tech-lifts-energy</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/us-stocks-slip-as-risk-off-sentiment-hits-big-tech-lifts-energy</guid>
             <pubDate>Mon, 29 Dec 2025 14:47:06 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于交易员对资产波动和地缘政治紧张局势的不安情绪加剧，标准普尔 500 指数周一开盘下跌。  Nvidia Corp. 和 Palantir Technologies Inc. 是成交量跌幅最大的股票之一，因为这两家公司出现在年度最大交易的报道中。]]></description>
+            <description><![CDATA[[Bloomberg] 由于对资产波动和地缘政治紧张局势的不安加剧，标准普尔 500 指数周一下跌。  Nvidia Corp. 和 Palantir Technologies Inc. 是成交量跌幅最大的股票之一，因为这两家公司出现在年度最大交易的报道中。]]></description>
         </item>
         <item>
             <title><![CDATA[2025 年最后一周科技股涨势疲软，华尔街下跌 - 路透中文网]]></title>
@@ -202,13 +258,6 @@
             <description><![CDATA[[Bloomberg] 随着欧洲飞机制造商在亚洲最大经济体的市场份额不断扩大，空中客车公司从两家中国航空公司获得了数十架飞机的订单。]]></description>
         </item>
         <item>
-            <title><![CDATA[盘前涨幅最大的股票：DigitalBridge、Praxis Precision Medicines、Coupang 等]]></title>
-            <link>https://www.cnbc.com/2025/12/29/stocks-making-the-biggest-moves-premarket-dbrg-prax-cpng.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2025/12/29/stocks-making-the-biggest-moves-premarket-dbrg-prax-cpng.html</guid>
-            <pubDate>Mon, 29 Dec 2025 13:30:15 GMT</pubDate>
-            <description><![CDATA[[CNBC] 这些是早盘交易中涨幅最大的股票。]]></description>
-        </item>
-        <item>
             <title><![CDATA[今年首次公开募股的亿万富翁的财富因市场波动而减少]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-29/this-year-s-ipo-billionaires-see-wealth-wiped-away-by-markets</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/this-year-s-ipo-billionaires-see-wealth-wiped-away-by-markets</guid>
@@ -244,11 +293,25 @@
             <description><![CDATA[[Bloomberg] 对于 Blackstone Inc. 和 KKR & Co. 等公司来说，来自加拿大的数十亿美元的机会正在向他们招手。]]></description>
         </item>
         <item>
+            <title><![CDATA[为“星际之门”铺路？软银拟收购DigitalBridge，锁定千亿级数据中心资产 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NWjhxWWIwLWJidlNmckNMbUtJUkxucVBIOGFWeEozX1hFcHN0R2hFTWRRdFpKakNVSzUyZ1hSdUkyUno0bkhlRlBlMDdMSHNuU2Vz?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NWjhxWWIwLWJidlNmckNMbUtJUkxucVBIOGFWeEozX1hFcHN0R2hFTWRRdFpKakNVSzUyZ1hSdUkyUno0bkhlRlBlMDdMSHNuU2Vz?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 12:45:37 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 为“星际之门”铺路？软银拟收购DigitalBridge，锁定千亿级数据中心资产  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[独家：乌克兰无人机袭击主要码头后哈萨克斯坦石油产量下降 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0hDUmlRZU5kblRoZURXU0taM3BvbzFESDlNTFZaaXM3OUVRdmNtazNvVFFELUJXS2xZRF9FSHFYX2xrdXV5emRWcUVKcWJmbkU5ZjM0eGxNUnlrUEMyaG0tbDRrSjJRbWpoMGhrZVFsMWdidndiX0x0amxjcC14WTc0NUNudlZoaHBYRV96MHVYMF90Ri1GeFYtTUl0NlBiNlJlN25GdHZDd0xLbFhTampqZnY3VkRTT1BLSXBYQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxPN0hDUmlRZU5kblRoZURXU0taM3BvbzFESDlNTFZaaXM3OUVRdmNtazNvVFFELUJXS2xZRF9FSHFYX2xrdXV5emRWcUVKcWJmbkU5ZjM0eGxNUnlrUEMyaG0tbDRrSjJRbWpoMGhrZVFsMWdidndiX0x0amxjcC14WTc0NUNudlZoaHBYRV96MHVYMF90Ri1GeFYtTUl0NlBiNlJlN25GdHZDd0xLbFhTampqZnY3VkRTT1BLSXBYQQ?oc=5</guid>
             <pubDate>Mon, 29 Dec 2025 12:44:49 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：乌克兰无人机袭击主要码头后哈萨克斯坦石油产量下降 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[独家：文件显示，尼日利亚国家石油公司计划出售部分石油和天然气资产的股份，并邀请投标 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxORFRiMmhFUkVnSWNGRzZXQ0VTZVhBNi00bU9rVFFFVVpZY19kbm5SbXcxSVh3UHZCcUtSdVZ0X19jZEs5N0dlRVdSX1JvUndqVWx0dFdrUHJfaXJNemdPRF90M29MR0d3bmpYcEJ6YWFTMGhWNVVkX0x5dHR5dHk3NGJYZ2JVY0p1a0d4VVVzUk1fNnhCQmEwb3lPVDVIZW8tdXhTdUNRMHVzVVNreXk5WXJ6N2pJRlR2V3c5MUVoNnFYQlpNVDBmcHJ3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxORFRiMmhFUkVnSWNGRzZXQ0VTZVhBNi00bU9rVFFFVVpZY19kbm5SbXcxSVh3UHZCcUtSdVZ0X19jZEs5N0dlRVdSX1JvUndqVWx0dFdrUHJfaXJNemdPRF90M29MR0d3bmpYcEJ6YWFTMGhWNVVkX0x5dHR5dHk3NGJYZ2JVY0p1a0d4VVVzUk1fNnhCQmEwb3lPVDVIZW8tdXhTdUNRMHVzVVNreXk5WXJ6N2pJRlR2V3c5MUVoNnFYQlpNVDBmcHJ3?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 12:41:40 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 独家：文件显示，尼日利亚 NNPC 计划出售部分石油和天然气资产的股份，并邀请投标 路透]]></description>
         </item>
         <item>
             <title><![CDATA[公开交易的私人信贷基金将迎来 2020 年以来最糟糕的一年]]></title>
@@ -269,7 +332,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-29/last-bastion-for-cheap-beef-fades-in-latest-affordability-threat</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/last-bastion-for-cheap-beef-fades-in-latest-affordability-threat</guid>
             <pubDate>Mon, 29 Dec 2025 12:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 廉价牛肉可能很快就会变得更加遥不可及。 巴西是世界上仅存的少数丰富牛源之一，目前正进入供应减少的时期，这可能会推高全球价格。]]></description>
+            <description><![CDATA[[Bloomberg] 廉价牛肉可能很快就会变得更加遥不可及。 巴西是世界上仅存的少数丰富牛源之一，目前正进入供应萎缩时期，这可能会推高全球价格。]]></description>
         </item>
         <item>
             <title><![CDATA[现在每位华尔街分析师都预测 2026 年股市将上涨]]></title>
@@ -277,6 +340,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/bulls-only-every-wall-street-analyst-now-predicts-a-stock-rally</guid>
             <pubDate>Mon, 29 Dec 2025 11:45:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 在大型银行和精品投资机构中，一种乐观的共识已经形成：美国股市将在2026年连续第四年上涨，这是近二十年来最长的连续上涨趋势。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[港股“越南第一股”要来了？电动出行巨头GSM拟2026年港股IPO - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kam5zNHE2MjM5ano0U0RjelNRQm1YZjJoRWVfalRGejVEUk9yV2NzdE8xQUM4Vy1VdWRQX0JGWERkeGxWVkhKUUNUVDhzZHVPZWZR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kam5zNHE2MjM5ano0U0RjelNRQm1YZjJoRWVfalRGejVEUk9yV2NzdE8xQUM4Vy1VdWRQX0JGWERkeGxWVkhKUUNUVDhzZHVPZWZR?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 11:27:32 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 港股“越南第一股”要来了？电动出行巨头GSM拟2026年港股IPO  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[2026年税收变化对美国经济影响重大 - 路透中文网]]></title>
@@ -335,6 +405,13 @@
             <description><![CDATA[[WSJ] 波士顿的生命科学工作曾经是通往高薪职业的必经之路，但空荡荡的实验室和失业的毕业生现在预示着这座城市的艰难时期。]]></description>
         </item>
         <item>
+            <title><![CDATA[野村：AI需求意外强劲，内存超级周期预计将至少持续到2027年 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1udndJaXM3ZkpJTFlTSi1mOFFNdW10ZjdzeGJPbTh0NlloR09mT2Z0cHgwRUMyTElZSWlkaHVTVFdKVXM0aXZFQW1qdlVHTVNiNzA0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1udndJaXM3ZkpJTFlTSi1mOFFNdW10ZjdzeGJPbTh0NlloR09mT2Z0cHgwRUMyTElZSWlkaHVTVFdKVXM0aXZFQW1qdlVHTVNiNzA0?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 10:19:47 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 野村：AI需求意外强劲，内存超级周期预计将至少持续到2027年  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[艰难的就业市场让人们使用约会应用程序来获得面试机会]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-12-29/tough-job-market-has-people-using-dating-apps-to-get-interviews</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-29/tough-job-market-has-people-using-dating-apps-to-get-interviews</guid>
@@ -345,6 +422,13 @@
 
 
  原始文件名：Hinge for jobs_FINAL.mp4（来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国最大电网“容量拍卖”内幕：若无价格管制，AI热潮本将令电价再涨60% - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzVzEtMnY4cUkwM1JiX1FrREVPTnBKQTlXcVY0anRKU3JsOXp2Z2pHRUhIVkN0cjcxRWVQaU1Pa1RmQUoyMjNnQ25kR05OS1BWa1gw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzVzEtMnY4cUkwM1JiX1FrREVPTnBKQTlXcVY0anRKU3JsOXp2Z2pHRUhIVkN0cjcxRWVQaU1Pa1RmQUoyMjNnQ25kR05OS1BWa1gw?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 10:00:03 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 美国最大电网“容量拍卖”内幕：若无价格管制，AI热潮本将令电价再涨60%  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[天安人寿20亿资本补充债违约 - 财新]]></title>
@@ -375,32 +459,11 @@
             <description><![CDATA[[Reuters Business] 印度尼西亚当局在寻找溺水的西班牙足球教练和他的孩子时发现了尸体路透社]]></description>
         </item>
         <item>
-            <title><![CDATA[越南国家银行警告流动性短缺和关税压力]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-29/vietnam-state-bank-warns-of-liquidity-shortages-tariff-pressure</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/vietnam-state-bank-warns-of-liquidity-shortages-tariff-pressure</guid>
-            <pubDate>Mon, 29 Dec 2025 09:26:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 越南央行警告称，2025 年银行贷款猛增五分之一后，一些贷款机构正面临流动性短缺，并补充说外部因素将使政府的经济目标进一步复杂化。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[KKR 获得将养命酒私有化的优先谈判权]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-29/kkr-gets-first-negotiation-rights-to-take-yomeishu-private</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/kkr-gets-first-negotiation-rights-to-take-yomeishu-private</guid>
-            <pubDate>Mon, 29 Dec 2025 09:12:48 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，美国投资公司 KKR & Co. 已获得将 Yomeishu Seizo Co. 私有化的优先谈判权。]]></description>
-        </item>
-        <item>
             <title><![CDATA[沙特阿拉伯可能连续第三个月下调2月份亚洲原油价格 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGEzOXVtZUdzYVVGazctRXdDQ2k5c1hhYm1ULWdvOGtqdGZxUDZsSnZVeUl0Ym9uZ0RUc2ZBMXVDMHVSaUtJYWo5MFlDV3QxT09FTVBJU1hCVWtLRU5zNVpzNFhvYloxT2V1ZVE0OFpDX2lMMHNyazBXZDA1Sm5qYWFjX01OY200ci0tWVNpdmx6QWgxMGtmRHM4b25DVjJZaTZsZEQzTG9MZnl0cDR6cVNmbw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGEzOXVtZUdzYVVGazctRXdDQ2k5c1hhYm1ULWdvOGtqdGZxUDZsSnZVeUl0Ym9uZ0RUc2ZBMXVDMHVSaUtJYWo5MFlDV3QxT09FTVBJU1hCVWtLRU5zNVpzNFhvYloxT2V1ZVE0OFpDX2lMMHNyazBXZDA1Sm5qYWFjX01OY200ci0tWVNpdmx6QWgxMGtmRHM4b25DVjJZaTZsZEQzTG9MZnl0cDR6cVNmbw?oc=5</guid>
             <pubDate>Mon, 29 Dec 2025 09:08:11 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 沙特阿拉伯可能连续第三个月下调 2 月份亚洲原油价格 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高盛的 Hatzius 和 Snider 展望 2026 年]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-29/goldman-s-hatzius-and-snider-on-the-outlook-for-2026</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/goldman-s-hatzius-and-snider-on-the-outlook-for-2026</guid>
-            <pubDate>Mon, 29 Dec 2025 09:00:10 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 与银行两位高层的讨论。]]></description>
         </item>
         <item>
             <title><![CDATA[香港人民币业务资金安排参与银行扩至40家 1000亿总额度已获分配 - 财新]]></title>
@@ -410,6 +473,13 @@
             <description><![CDATA[[财新网] 香港人民币业务资金安排参与银行扩至40家 1000亿总额度已获分配  财新]]></description>
         </item>
         <item>
+            <title><![CDATA[“我可能早了，但没错！”大空头Burry再次逆市而为，做空AI双雄英伟达和Palantir - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHQ0gxc2RLTzBLaGdnQnlGZ1BybHEtN241ZVVnR3RpQ2loa3BKc1VpX21fLWY4ZzAxYmVRYmMyZkVCRk1OaHV4MjJ5Z2VlUVR4Zm04?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHQ0gxc2RLTzBLaGdnQnlGZ1BybHEtN241ZVVnR3RpQ2loa3BKc1VpX21fLWY4ZzAxYmVRYmMyZkVCRk1OaHV4MjJ5Z2VlUVR4Zm04?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 08:33:30 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] “我可能早了，但没错！”大空头Burry再次逆市而为，做空AI双雄英伟达和Palantir  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[乌克兰谈判成为焦点，欧洲股市徘徊在历史新高]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-29/european-stocks-steady-as-investors-monitor-ukraine-peace-talks</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/european-stocks-steady-as-investors-monitor-ukraine-peace-talks</guid>
@@ -417,11 +487,32 @@
             <description><![CDATA[[Bloomberg] 随着投资者关注围绕乌克兰潜在和平协议的谈判，欧洲股市在今年最后一个交易周创下新高。]]></description>
         </item>
         <item>
+            <title><![CDATA[A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaLXdFeU5BNWhwcjZrNFRyS3IyRkczalJmdkRHNUlsNXMyWFltSTFGNGNqY1hIN1RnVUJqb1I1amJpYnhWR0gwSG5EZ0hOUC02QmtV?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaLXdFeU5BNWhwcjZrNFRyS3IyRkczalJmdkRHNUlsNXMyWFltSTFGNGNqY1hIN1RnVUJqb1I1amJpYnhWR0gwSG5EZ0hOUC02QmtV?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 07:31:50 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[金属全线回落，黄金跌破4500，白银跌超3.7%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rRXU4d2pKcEc2VThZaElaM1BmN25vYnFsSlVuUGpEQmtYaTdZUmxhbmtuejRGRWlMci04ZTZtZnlpMzMxVE0zdWFxSGVtSGxWWFFn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rRXU4d2pKcEc2VThZaElaM1BmN25vYnFsSlVuUGpEQmtYaTdZUmxhbmtuejRGRWlMci04ZTZtZnlpMzMxVE0zdWFxSGVtSGxWWFFn?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 07:21:33 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 金属全线回落，黄金跌破4500，白银跌超3.7%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[中国将严厉打击与自杀、赌博相关的人工智能聊天机器人]]></title>
             <link>https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html</guid>
             <pubDate>Mon, 29 Dec 2025 07:06:35 GMT</pubDate>
             <description><![CDATA[[CNBC] 拟议规则出台之际，中国人工智能聊天机器人初创公司 Minimax 和 Z.ai 本月已在香港申请首次公开募股。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[白银跳水，猜疑四起，有华尔街大行扛不住了？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rM0pCMDhGaVg2TlRZQ1NONnZ1T1B4ZHA1aVVib0xBeGhpTDZvR2twa2tZOXppZW9zRV9kYUdPZl9mV3ZMSEhSSWJxQkthQy1QZGdJ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rM0pCMDhGaVg2TlRZQ1NONnZ1T1B4ZHA1aVVib0xBeGhpTDZvR2twa2tZOXppZW9zRV9kYUdPZl9mV3ZMSEhSSWJxQkthQy1QZGdJ?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 07:03:38 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 白银跳水，猜疑四起，有华尔街大行扛不住了？  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[中国蓝箭航天准备挑战埃隆·马斯克和SpaceX - 路透中文网]]></title>
@@ -450,13 +541,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUlp0XzVoai1Vc0hqRDIxVUdkSFQ4QS1MbGd0YlhDV3Fwd3FJVWRJR0ZaRmJrMVFzYjlXQzFQRkNjZkpPSlpJQXAxdGhqc0ZVV190SGRTUEM1eDZtc3JDNmhNb3dCbXI2NTEyZ0hWak8zbllMUWNOQXNJREhNaDdQLUw3T21zODg4LVV4alNtaGx5Q0d4Ui1RcUczU25ZYVI2VUJlVk44N04waEwzbXRqOTlUQXpRSEV1?oc=5</guid>
             <pubDate>Mon, 29 Dec 2025 06:09:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] PMI 显示俄罗斯工厂活动以 2022 年 3 月以来最快速度萎缩 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[软银接近收购数据中心投资公司 DigitalBridge]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-29/softbank-nears-deal-for-data-center-investment-firm-digitalbridge</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-29/softbank-nears-deal-for-data-center-investment-firm-digitalbridge</guid>
-            <pubDate>Mon, 29 Dec 2025 06:03:39 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，软银集团正在就收购 DigitalBridge Group Inc. 进行深入谈判，DigitalBridge Group Inc. 是一家投资数据中心等资产的私募股权公司。]]></description>
         </item>
         <item>
             <title><![CDATA[保加利亚在兴奋和怀疑中为欧元做准备 - 路透中文网]]></title>
@@ -492,6 +576,27 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTRJQzFOdzd6Q3JOTlFETlRBNXg5U0czWGdONENVbWJ5MlFQWWJibXNadHNiNEl0MXhKVERJaE50ZFJTb3IxWElyMVE0ZkVVd2ZTS1d5Q1pBcXdiTGZNcjZCXzJyVTdaTlBxTXRYWTNGWjBPZkdQWDYtSzI1OUo3TmVsTlpHbVFJVWc3M2NobWd5YjExNmRWcUxORVFlaVh1QkktTFVuRWZtbzJIUlNZVGZISmstRS1IRGNUbVRndnhCQ1E1Z0UyOHhZTDQ?oc=5</guid>
             <pubDate>Mon, 29 Dec 2025 04:17:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：消息人士称，印度因天然气田产量不足而向信实工业公司和英国石油公司索赔 300 亿美元 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[东方龙袍遇上维也纳贵妇：跨文化艺术的完美融合- 生活家 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4YVc2NmVzRllPbDhYenlVRURvbXJrSXJiX0Q5dk1HZ3RYUUZWcldCTHJJWVlaQmZQSE93T2wtTzBMc1NKdVljUXpqY2p4WlBVZkhZ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4YVc2NmVzRllPbDhYenlVRURvbXJrSXJiX0Q5dk1HZ3RYUUZWcldCTHJJWVlaQmZQSE93T2wtTzBMc1NKdVljUXpqY2p4WlBVZkhZ?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 04:08:28 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 东方龙袍遇上维也纳贵妇：跨文化艺术的完美融合- 生活家  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[近期涨价品种的“三种形态”：存储、铜铝、光伏 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9COTRGYzJwX3paVjhabTdOUnI2SVVSd2tTMDdNcXM2cjRqcmlVbEhLRkJpaV9XSHJuU3ZTNi0tVmNibkdyc2kweDN6dkJQSzNIVG0w?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9COTRGYzJwX3paVjhabTdOUnI2SVVSd2tTMDdNcXM2cjRqcmlVbEhLRkJpaV9XSHJuU3ZTNi0tVmNibkdyc2kweDN6dkJQSzNIVG0w?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 03:40:16 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 近期涨价品种的“三种形态”：存储、铜铝、光伏  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英伟达Jim Fan：机器人领域还处于混乱状态，连发展方向都有可能是错的 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE45cmRPVGxxS0duWTRyUk9tNk9uUUpsc0EyX0xqN01henNwV0dpVUJlQXlmSjNZbjlwSU92dzF1c2NoMzhBbkRweVhEcTE5VFZ6Z29z?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE45cmRPVGxxS0duWTRyUk9tNk9uUUpsc0EyX0xqN01henNwV0dpVUJlQXlmSjNZbjlwSU92dzF1c2NoMzhBbkRweVhEcTE5VFZ6Z29z?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 03:29:45 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 英伟达Jim Fan：机器人领域还处于混乱状态，连发展方向都有可能是错的  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[投资者正准备迎接一个以不同寻常的分歧、可能实力较弱的主席以及更激进变革的威胁为特征的央行]]></title>
@@ -543,6 +648,34 @@
             <description><![CDATA[[财新网] 今日开盘：两市平开 沪指涨幅0.02%  财新]]></description>
         </item>
         <item>
+            <title><![CDATA[Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LclYtQldSdlU2SmpZMWM2ekhxalVubkhzLXZHNGp2d3lOV3IyNXZMQTZ5ZzJjNnNMMkZOcG1YbXFYeGtUQlIzNkZ3STVYWDEzNlVz?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LclYtQldSdlU2SmpZMWM2ekhxalVubkhzLXZHNGp2d3lOV3IyNXZMQTZ5ZzJjNnNMMkZOcG1YbXFYeGtUQlIzNkZ3STVYWDEzNlVz?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 01:17:56 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何看“热门叙事”：美联储降息→人民币升值→或损害出口竞争力？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UdGZFX3BCQnhYSUE5Z1ZLb25EUjhTZ3NJaU1Ycnl4RWt6RmRxUk9tVHZ6Q19qRFhFWkFZVFdpUlR3OXhIQ2R5Y3YzWko2Z1JRb3VJ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UdGZFX3BCQnhYSUE5Z1ZLb25EUjhTZ3NJaU1Ycnl4RWt6RmRxUk9tVHZ6Q19qRFhFWkFZVFdpUlR3OXhIQ2R5Y3YzWko2Z1JRb3VJ?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 01:07:48 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 如何看“热门叙事”：美联储降息→人民币升值→或损害出口竞争力？  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[35的白银“门可罗雀”，81的白银“门庭若市” - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE95c1lBdlQwV3RNMkdnMG9ZaGc3U0RoVDFHOVRnVGtyd05xN2NjV3hjRGxaR0hzbm04QmhIbHROLVgxTks1SWdoTUNhZFNFVG1pWFE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE95c1lBdlQwV3RNMkdnMG9ZaGc3U0RoVDFHOVRnVGtyd05xN2NjV3hjRGxaR0hzbm04QmhIbHROLVgxTks1SWdoTUNhZFNFVG1pWFE?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 00:51:39 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 35的白银“门可罗雀”，81的白银“门庭若市”  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[从博通看ASIC芯片趋势：谷歌明年支付500亿美元，OpenAI支付200亿美元？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pY29KemRKM1lUSXFOcnBXY3d1cUlYR0VaVGlSZWRiSFZ3b0xFRGMxOEJGSUZqMS1qbWRoUHFyYk1ISHptVHBXTWJleURVbFJ0eUE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pY29KemRKM1lUSXFOcnBXY3d1cUlYR0VaVGlSZWRiSFZ3b0xFRGMxOEJGSUZqMS1qbWRoUHFyYk1ISHptVHBXTWJleURVbFJ0eUE?oc=5</guid>
+            <pubDate>Mon, 29 Dec 2025 00:41:00 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 从博通看ASIC芯片趋势：谷歌明年支付500亿美元，OpenAI支付200亿美元？  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[澳大利亚伍德赛德与土耳其 BOTAS 签署具有约束力的液化天然气供应协议 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNTFU2ZDhEYS02QzBDM0Y0WUY4YTl4ZVhZOVNLREpVTDlfNWFnTDB5R29JQ05VYXIzbGs4U2xSY1l6SHFMS3hhV0l6MVFyenpBU25jSlV5TGtVLTQ4d1RXZUp4aGJvalZOVVFwVno3eDN3MGNRc2dTVGcxVkRSVG5fVy02ODJVR3BuLWw0X0ZDUEg5aWtFWGtWYld2TlN0RjNOcC1IQ2o4a2FlRkVMdjk1Y1JGYUN2dUFORXdpVA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNTFU2ZDhEYS02QzBDM0Y0WUY4YTl4ZVhZOVNLREpVTDlfNWFnTDB5R29JQ05VYXIzbGs4U2xSY1l6SHFMS3hhV0l6MVFyenpBU25jSlV5TGtVLTQ4d1RXZUp4aGJvalZOVVFwVno3eDN3MGNRc2dTVGcxVkRSVG5fVy02ODJVR3BuLWw0X0ZDUEg5aWtFWGtWYld2TlN0RjNOcC1IQ2o4a2FlRkVMdjk1Y1JGYUN2dUFORXdpVA?oc=5</guid>
@@ -583,139 +716,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXQtd2I3d1ZZX1NtYXVQSDNRa3NBV2U0Vzl0Rm9DdVZPbHEwVGYxMTZHc01oRFVNUmdCRFNVWkNvc0x2Q0VCLWRNeVEzYS1xY0RqRlRaVWFLWmRfWnYtU1hZYWZTU0JWWFF4WEZyX0QyQzdTQS0tRjJiQ0VDT2lMVzFObVdGdFVJY251bGo1R2hiSEllS3R2Umlxcm9CWEJIRG1oUWdSU1B1YllGbHJ2ZWo4ck4tNVBkdkM4?oc=5</guid>
             <pubDate>Sun, 28 Dec 2025 18:39:39 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 当地官员称，叙利亚海岸阿拉维派抗议活动造成三人死亡 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西班牙南部暴雨引发山洪，造成一人死亡、两人失踪 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXdzVkRHaGN2Qmx4VlFSQXdfWlBRU2NjSnVCSlVYOWMtNXN5dF9lckRGOEo0UXA4MG8zdk9yUmF1YmNSQXF1X1JGTHBCcFJTVjVfaHBUallvNXJQY2lLRkJNMW5aQVR4S2F1VldSSUhFYkVsZmtNVFNHR0IxdjVSQ29vOElJXzdoejFPMU9zN0hHN3d4YUItV3Vvd0xxX3hIOGlkcVZaeEo0ZHBzaG51YWd2eVhDWGNiWms0RjFhLVJFQWpXZHBN?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxOeXdzVkRHaGN2Qmx4VlFSQXdfWlBRU2NjSnVCSlVYOWMtNXN5dF9lckRGOEo0UXA4MG8zdk9yUmF1YmNSQXF1X1JGTHBCcFJTVjVfaHBUallvNXJQY2lLRkJNMW5aQVR4S2F1VldSSUhFYkVsZmtNVFNHR0IxdjVSQ29vOElJXzdoejFPMU9zN0hHN3d4YUItV3Vvd0xxX3hIOGlkcVZaeEo0ZHBzaG51YWd2eVhDWGNiWms0RjFhLVJFQWpXZHBN?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 18:31:25 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 西班牙南部暴雨引发山洪，造成一人死亡、两人失踪 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴西劳工法庭命令巴西国家石油公司 80% 的员工留在原地 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTZ4dEp4Q3l2V1N0dzBMazE2RXZTdUZObWcxTnZ4MWlJZFJyck5FMGM2c0loUU9VNU1PRG90em1mRnQ3ZGd1dkY1TUNNbGNUQnQyWlg1V0ZjanVaUXlQeVFnZERkbTRnd0kyc1JzZFlaVWFydURjYlRxUHRGdjg1SGJJLVpQM1hncUNjb3pFWVFxUy0zOHBoY20xOWFCRTdsYjhEOTVUNFZXeTdpd1MxMG1kZUZWdXRCRGc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTZ4dEp4Q3l2V1N0dzBMazE2RXZTdUZObWcxTnZ4MWlJZFJyck5FMGM2c0loUU9VNU1PRG90em1mRnQ3ZGd1dkY1TUNNbGNUQnQyWlg1V0ZjanVaUXlQeVFnZERkbTRnd0kyc1JzZFlaVWFydURjYlRxUHRGdjg1SGJJLVpQM1hncUNjb3pFWVFxUy0zOHBoY20xOWFCRTdsYjhEOTVUNFZXeTdpd1MxMG1kZUZWdXRCRGc?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 17:47:25 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 巴西劳工法庭命令巴西国家石油公司 80% 的员工留在原地 路透社]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重振“蓝色巨人”的 IBM 前首席执行官路易斯·格斯特纳 (Louis Gerstner) 去世，享年 83 岁 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzJJSTRnVXF0aS03RDJiWERVS2Rlc2s0T1RhUTB5Q1cxRDI4MTJsbHhhNExfV3NTd0tFUTB1RFJLZWhZaG1pazIzdU5icl9JRGp2MHliU25IRmRZbXF3TXU2NU0yUXAxandCeGdvTmJzWDdwYWJTVGZBRllERHdhLWJQdWtZd0o5VnJtNVdLNWhqRHBYcDFVU2Y2ODMzZ0txY3hHX2pNdEF6blk?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVzJJSTRnVXF0aS03RDJiWERVS2Rlc2s0T1RhUTB5Q1cxRDI4MTJsbHhhNExfV3NTd0tFUTB1RFJLZWhZaG1pazIzdU5icl9JRGp2MHliU25IRmRZbXF3TXU2NU0yUXAxandCeGdvTmJzWDdwYWJTVGZBRllERHdhLWJQdWtZd0o5VnJtNVdLNWhqRHBYcDFVU2Y2ODMzZ0txY3hHX2pNdEF6blk?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 16:50:29 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 重振“蓝色巨人”活力的 IBM 前首席执行官路易斯·格斯特纳 (Louis Gerstner) 去世，享年 83 岁 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴基斯坦巴基斯坦矿吸引美国买家兴趣]]></title>
-            <link>https://www.ftchinese.com/story/001108565</link>
-            <guid isPermaLink="false">https://www.ftchinese.com/story/001108565</guid>
-            <pubDate>Sun, 28 Dec 2025 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] 对中国主导的稀土供应链的担忧催生了对替代供应源的强烈需求，而巴基斯坦希望估值获利。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沙特空袭篮板支援的也门派系]]></title>
-            <link>https://www.ftchinese.com/story/001108555</link>
-            <guid isPermaLink="false">https://www.ftchinese.com/story/001108555</guid>
-            <pubDate>Sun, 28 Dec 2025 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] 捍卫危机令海湾强国之间的紧张关系表露无遗。沙特与阵线是传统阵线，但也引发了对也门和苏丹冲突的故激相左。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[调查：欧元区增长前景受到支出热潮]]></title>
-            <link>https://www.ftchinese.com/story/001108554</link>
-            <guid isPermaLink="false">https://www.ftchinese.com/story/001108554</guid>
-            <pubDate>Sun, 28 Dec 2025 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] 英国《金融时报》对88位经济学家进行的调查显示，欧元区对2026年经济复苏的希望主要寄托在德国债务融资的1万亿欧元基建和国防支出计划上面。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加拿大与南美洲国家贸易谈判“提速”]]></title>
-            <link>https://www.ftchinese.com/story/001108552</link>
-            <guid isPermaLink="false">https://www.ftchinese.com/story/001108552</guid>
-            <pubDate>Sun, 28 Dec 2025 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] 在特朗普关税促使其他国家全面深化经贸往来的背景下，加拿大与南方共同市场计划最迟于2026年年底达成自由贸易协定。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以色列科技行业称更多员工寻求调往国外 - 路透社]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR01NcHpLekpxOFVmVk9OZVUzQTR5a3BVV0duX2ROSnM2RnhvN2hySV9SY1puRkJYeHN0MDUteEtOc2hkSmxUTDE3Q012QVc2RUE0SzFLX1hlTnpWdzZwMkJ5ZlhPRTJNYVZkTXhieGtwa1Z4VEtvcjVySm04dzJKU2Z1ZWJvSGhRMlNmN3RxbjF4eE9mLUROR1dmSjB4ZlFGcWRQeXc0N1g3OFNXZmlIa2hFTHl0MFhiWlhlR0x6UEJUUQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR01NcHpLekpxOFVmVk9OZVUzQTR5a3BVV0duX2ROSnM2RnhvN2hySV9SY1puRkJYeHN0MDUteEtOc2hkSmxUTDE3Q012QVc2RUE0SzFLX1hlTnpWdzZwMkJ5ZlhPRTJNYVZkTXhieGtwa1Z4VEtvcjVySm04dzJKU2Z1ZWJvSGhRMlNmN3RxbjF4eE9mLUROR1dmSjB4ZlFGcWRQeXc0N1g3OFNXZmlIa2hFTHl0MFhiWlhlR0x6UEJUUQ?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 15:57:29 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 以色列科技行业称更多员工寻求调往国外 - 报告 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯袭击损坏了赫尔松供热厂 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQVEVBUFZyWXY4Nk50SFlESkxVdmdyWkRpdHBjcUhpWVNPS1dzZ21zMUdzVkxObmxJbmNOT01PVFVrOUlKellaQlJHdU9CVnZFb2MtZFdNOWxLVWxYbW80MlNoZmJoQkxscG8xem5PU241YTYtaG5xQXRXY3o5ZjRPWjVVYmVSaG1Fdkxaa0wyNldpeG5XTzIzMmtPc2I?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinAFBVV95cUxQVEVBUFZyWXY4Nk50SFlESkxVdmdyWkRpdHBjcUhpWVNPS1dzZ21zMUdzVkxObmxJbmNOT01PVFVrOUlKellaQlJHdU9CVnZFb2MtZFdNOWxLVWxYbW80MlNoZmJoQkxscG8xem5PU241YTYtaG5xQXRXY3o5ZjRPWjVVYmVSaG1Fdkxaa0wyNldpeG5XTzIzMmtPc2I?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 15:48:31 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 俄罗斯袭击损坏了赫尔松供热厂 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人们对法国电影偶像碧姬·芭杜去世的反应 - 路透社]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGZCOVFrU25oZ2YwMG15X0VYRktmYzk5eXYxaUZlMFV3MGIxVmdhQVhqTkxjUU5UUzU5YlRpTDAtMHdLVDhPQ0EzSEIyQV9sVUp0LTVydkpxZnNXcXFDZXczX1ZvSGVRNHViSmt0MlBlVHd5RFQ0ZEtNbEVXWEVsU0hSRnQxTE9uUXdHUEpVa3QzQl9MbnVZQ1RwNnlocDctNms3b0tvcEFMVDQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGZCOVFrU25oZ2YwMG15X0VYRktmYzk5eXYxaUZlMFV3MGIxVmdhQVhqTkxjUU5UUzU5YlRpTDAtMHdLVDhPQ0EzSEIyQV9sVUp0LTVydkpxZnNXcXFDZXczX1ZvSGVRNHViSmt0MlBlVHd5RFQ0ZEtNbEVXWEVsU0hSRnQxTE9uUXdHUEpVa3QzQl9MbnVZQ1RwNnlocDctNms3b0tvcEFMVDQ?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 15:37:44 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 人们对法国电影偶像碧姬·芭杜去世的反应 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[华尔街未来一周标普 500 指数关注 7,000 点大关，投资者期待 2025 年的强劲结局 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dtY0NSTkRJeGNPNDk2TjNsaFRKaFdxS2YtVzRTVFc2U1g2LXA4V0l6RDhxYWMtU1VyVDg2c2RDc0hKODFQUk5BTkw4NTNMUXF5b0l1V1BvbXM1RzFWWFBkT3k3Vk1iNHM4b3EwQm9XOGZTZGJydnQ3UHU3LVB5c3g0WnNKRWxjY0k2LTR0QkROWFFnS2VaQ3FuUTJQLVhxSVhTNEFGdWRVTGZTWHNVdENxMmJsSnpHQ2JfajZobV8wNDNSTjNuS0ZkVQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0dtY0NSTkRJeGNPNDk2TjNsaFRKaFdxS2YtVzRTVFc2U1g2LXA4V0l6RDhxYWMtU1VyVDg2c2RDc0hKODFQUk5BTkw4NTNMUXF5b0l1V1BvbXM1RzFWWFBkT3k3Vk1iNHM4b3EwQm9XOGZTZGJydnQ3UHU3LVB5c3g0WnNKRWxjY0k2LTR0QkROWFFnS2VaQ3FuUTJQLVhxSVhTNEFGdWRVTGZTWHNVdENxMmJsSnpHQ2JfajZobV8wNDNSTjNuS0ZkVQ?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 14:00:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 华尔街未来一周标普 500 指数将触及 7,000 点大关，投资者期待 2025 年的强劲结局 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[《银监法》修订草案公布 监管链条全面延伸、健全风险处置机制 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yNW1jMjJkV0xRQ09XSC1SZ2lFLUlwOFJzYkJfXzRULXNFUDlrUGV0NkNzNXRub2ktZDJPdDBtZkxpbVZ4VkdXNzF4clpnWVVDSjNKdlRvdFptYW9salNVaTBR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yNW1jMjJkV0xRQ09XSC1SZ2lFLUlwOFJzYkJfXzRULXNFUDlrUGV0NkNzNXRub2ktZDJPdDBtZkxpbVZ4VkdXNzF4clpnWVVDSjNKdlRvdFptYW9salNVaTBR?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 12:21:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 《银监法》修订草案公布 监管链条全面延伸、健全风险处置机制  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰 DTEK 称基辅地区 100 万户家庭已恢复供电 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1Bacms1cUlRQkExcW12a2VaZzRsX2dwOE5XNC1jQ1YyOFZGVUpPNjBTOU13ZXNUN0V6NGQ5bHJqNlBHNUhNbWEwdEtZdkdaaDVndmdnTFR0ekJRanNJMm9hRGhfbzNQdTh1YUJ1cnZPMVlqdFJDUmFkVnFIZUtFTDRKellsNWFLSzlyS0F1SDRiNTU3U3lWNktOX0ttYTA0UkIyZVl2WEQ5ek00TDZaVEN1VlNIX1E?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPY1Bacms1cUlRQkExcW12a2VaZzRsX2dwOE5XNC1jQ1YyOFZGVUpPNjBTOU13ZXNUN0V6NGQ5bHJqNlBHNUhNbWEwdEtZdkdaaDVndmdnTFR0ekJRanNJMm9hRGhfbzNQdTh1YUJ1cnZPMVlqdFJDUmFkVnFIZUtFTDRKellsNWFLSzlyS0F1SDRiNTU3U3lWNktOX0ttYTA0UkIyZVl2WEQ5ek00TDZaVEN1VlNIX1E?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 10:31:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 乌克兰 DTEK 称基辅地区 100 万户家庭已恢复供电 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊暂停在意大利的无人机送货计划 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQZU11S2N4anhDS3FYNjJQSmdvX1ZmN01IcUhfVkNybnJiT1RsNGdualdBV1JjZkVaa3R6MHJZbzVpcnhRTENtaU45cHhiZW5qZGVxNHZjM1ZMZERiX216TWJKZ3RkM1pkMWtxclA0RktqRUw1amlWUEVOd1NkQUtnbE4zVWlMRzNad01JdEI3Y2gyLVVOMTBFbDE2REtkaUJFYVE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxQZU11S2N4anhDS3FYNjJQSmdvX1ZmN01IcUhfVkNybnJiT1RsNGdualdBV1JjZkVaa3R6MHJZbzVpcnhRTENtaU45cHhiZW5qZGVxNHZjM1ZMZERiX216TWJKZ3RkM1pkMWtxclA0RktqRUw1amlWUEVOd1NkQUtnbE4zVWlMRzNad01JdEI3Y2gyLVVOMTBFbDE2REtkaUJFYVE?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 10:30:12 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 亚马逊暂停在意大利的无人机送货计划 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国和德国签署价值7000万美元的移动火炮系统联合协议 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWXZ3dzV4NDdBeFFINVl3TzVZSFozUVpNeEdfUUZlMkJPT3paUU5XRmd2MDUtUzJ3d0ZBSjN5b0FQbWRQM2pha1NyM09uYjdXemZwY2FBTmplNzY1VmFuTF9lYk5hZGczcE56ZXFsNExJdm14MWl2SlFYWUhTWWRaRUVZVWNCLXdicjJSSi02TUFiai03anVqdVR3TmtjQkE3TTA1ZVQ5UlpfVGNjU1FKbW9VYTJNeUc4TlBnMU8xeElFU28?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWXZ3dzV4NDdBeFFINVl3TzVZSFozUVpNeEdfUUZlMkJPT3paUU5XRmd2MDUtUzJ3d0ZBSjN5b0FQbWRQM2pha1NyM09uYjdXemZwY2FBTmplNzY1VmFuTF9lYk5hZGczcE56ZXFsNExJdm14MWl2SlFYWUhTWWRaRUVZVWNCLXdicjJSSi02TUFiai03anVqdVR3TmtjQkE3TTA1ZVQ5UlpfVGNjU1FKbW9VYTJNeUc4TlBnMU8xeElFU28?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 09:29:25 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 英国和德国签署价值 7000 万美元的移动火炮系统联合协议 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[利比亚瓦哈石油公司在法里油田增设两口气井 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmNjdXJjMHdjUHhBYjlXUlg4ekR5Rk5KVWtSTVBqcHZPWTcxcy04MmZYRVI3WXRmYkhuenhSdDl5M3JUTHRkVDZjWExnZmtPZ3hYZXVua2txOFVuUFJwUXdDdTVrUmJqZEJ6cnlQd0RQUkoxOWlmNEdKbXoyRlhlLWhRcVFCMGNSd3Fjd2RaOXhSVHBPNURIRGZ2SEJJNWZP?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmNjdXJjMHdjUHhBYjlXUlg4ekR5Rk5KVWtSTVBqcHZPWTcxcy04MmZYRVI3WXRmYkhuenhSdDl5M3JUTHRkVDZjWExnZmtPZ3hYZXVua2txOFVuUFJwUXdDdTVrUmJqZEJ6cnlQd0RQUkoxOWlmNEdKbXoyRlhlLWhRcVFCMGNSd3Fjd2RaOXhSVHBPNURIRGZ2SEJJNWZP?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 09:02:54 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 利比亚瓦哈石油公司在法里油田增设两口气井 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[低利率时代资管行业如何重构收益逻辑 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yNF9sbU5FM19mQnVUNFY4Wi1iR3FNd1hveDBDZ0lxR3l5TW9ldmVWODlBNFozdGFNM3ROM2UzRnJ1amFOdWVIZVYzMW1DdmtKNDc0SXlBQXhXSnZCbXMydTJ3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yNF9sbU5FM19mQnVUNFY4Wi1iR3FNd1hveDBDZ0lxR3l5TW9ldmVWODlBNFozdGFNM3ROM2UzRnJ1amFOdWVIZVYzMW1DdmtKNDc0SXlBQXhXSnZCbXMydTJ3?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 06:28:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 低利率时代资管行业如何重构收益逻辑  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国《金融时报》报道，劳埃德银行将于年底前关闭发票保理部门 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQbS1QUkdLRG1KTXNxbkM0OER1WnBLcFFob3AybHp5dE9JSDB6OGRkbVdLQnhKSFQ3d3Z4U2ZTZzQ2eGl0bW9aY2x1Q3RtZjRiUTFRejZBZlV5RXpHSHpmTnprdU1HblgxY3pnUExhQVhaaTNWQmE5V2VyU3VoeEREcGpBeE1aeXg1TVRDbUhmX29Md2xOLXotZjB2N3J0aXZkT0RfT0NuVjJHcXVtdEg2MnVKNUJNUQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQbS1QUkdLRG1KTXNxbkM0OER1WnBLcFFob3AybHp5dE9JSDB6OGRkbVdLQnhKSFQ3d3Z4U2ZTZzQ2eGl0bW9aY2x1Q3RtZjRiUTFRejZBZlV5RXpHSHpmTnprdU1HblgxY3pnUExhQVhaaTNWQmE5V2VyU3VoeEREcGpBeE1aeXg1TVRDbUhmX29Md2xOLXotZjB2N3J0aXZkT0RfT0NuVjJHcXVtdEg2MnVKNUJNUQ?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 05:18:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 据英国《金融时报》报道，劳埃德银行将于年底前关闭发票保理部门 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GFZ称秘鲁北部海岸附近发生5.8级地震 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1hKWDJLWUVjUGRsUXg0ZlBHZzRzY3hYRGE3TGxoQk5LZWVKZWVzaWRsTDNlMzRYODl2dmtUWlkxT01BVGRrU0tsWENYaFZEdTZ5MnUtRF9UMHJtU0hRdlRiOFNaZmZ6d0xGSktKNkloZ085bTdaekNpSnNWY3pMeW83cG9fclp3YURGdy1HT0UyYlJsSTFwZTRYTGRKVllVWlpOREdBbmpIYjdCNnlabGpUNnRJUjhFblNuUDViaw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1hKWDJLWUVjUGRsUXg0ZlBHZzRzY3hYRGE3TGxoQk5LZWVKZWVzaWRsTDNlMzRYODl2dmtUWlkxT01BVGRrU0tsWENYaFZEdTZ5MnUtRF9UMHJtU0hRdlRiOFNaZmZ6d0xGSktKNkloZ085bTdaekNpSnNWY3pMeW83cG9fclp3YURGdy1HT0UyYlJsSTFwZTRYTGRKVllVWlpOREdBbmpIYjdCNnlabGpUNnRJUjhFblNuUDViaw?oc=5</guid>
-            <pubDate>Sun, 28 Dec 2025 04:38:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] GFZ 称秘鲁北部海岸附近发生 5.8 级地震 路透]]></description>
         </item>
     </channel>
 </rss>
