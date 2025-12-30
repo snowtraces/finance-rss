@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 30 Dec 2025 19:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Dec 2025 19:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -12,8 +12,33 @@
             <title><![CDATA[美联储会议纪要显示官员们在12月降息问题上存在严重分歧]]></title>
             <link>https://www.cnbc.com/2025/12/30/fed-minutes-december-2025.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2025/12/30/fed-minutes-december-2025.html</guid>
-            <pubDate>Tue, 30 Dec 2025 19:09:08 GMT</pubDate>
+            <pubDate>Tue, 30 Dec 2025 19:37:15 GMT</pubDate>
             <description><![CDATA[[CNBC] 美联储周二公布了 12 月会议纪要。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[周二公布的会议纪要显示，一些美联储官员表示，他们对于支持进一步降息犹豫不决，这表明在一月会议上再次降息可能会遇到阻力]]></title>
+            <link>https://www.wsj.com/economy/central-banking/fed-minutes-suggest-caution-about-further-cuts-early-next-year-f36148c7</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/fed-minutes-suggest-caution-about-further-cuts-early-next-year-f36148c7</guid>
+            <pubDate>Tue, 30 Dec 2025 19:35:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 在 12 月的会议上，一些官员支持在“一段时间内”保持利率稳定。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要显示大多数官员预计进一步降息]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-30/fed-minutes-show-most-officials-expect-additional-cuts-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-30/fed-minutes-show-most-officials-expect-additional-cuts-video</guid>
+            <pubDate>Tue, 30 Dec 2025 19:19:18 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美联储12月会议记录显示，大多数官员认为，如果通胀按预期随时间推移下降，则适当进一步降息。
+ 然而，一些官员明确表示，他们认为利率应在 12 月会议后“一段时间内”保持不变。
+ 12 月 9 日至 10 日的联邦公开市场委员会会议纪要继续表明美国央行行长之间存在分歧，并指出他们最近做出决定的难度。
+ 会议纪要称，“一些支持在本次会议上降低政策利率的人士表示，这一决定非常平衡，或者他们本可以支持保持目标区间不变。”
+ 本月早些时候，官员们以 9 比 3 的投票结果连续第三次将基准利率下调 0.25 个百分点，至 3.5% 至 3.75% 的范围。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[纽约地铁告别 MetroCard]]></title>
+            <link>https://www.bloomberg.com/news/videos/2025-12-30/nyc-subway-says-goodbye-to-metrocard-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-30/nyc-subway-says-goodbye-to-metrocard-video</guid>
+            <pubDate>Tue, 30 Dec 2025 19:15:46 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 这是一个时代的结束。 纽约市地铁卡将于除夕夜停止使用。 这是您需要了解的内容。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[美联储会议纪要显示大多数官员预计进一步降息]]></title>
@@ -423,13 +448,6 @@
             <description><![CDATA[[CNBC] 这些是盘前涨幅最大的股票。]]></description>
         </item>
         <item>
-            <title><![CDATA[阿里巴巴和阿布扎比将投资 MiniMax 6 亿美元的 IPO]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-30/alibaba-abu-dhabi-set-to-invest-in-minimax-s-600-million-ipo</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-30/alibaba-abu-dhabi-set-to-invest-in-minimax-s-600-million-ipo</guid>
-            <pubDate>Tue, 30 Dec 2025 11:53:03 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，中国人工智能初创公司 MiniMax 已获得阿里巴巴集团控股有限公司和阿布扎比投资局作为其即将在香港首次公开募股的主要支持者。]]></description>
-        </item>
-        <item>
             <title><![CDATA[诺和诺德和礼来公司降低中国减肥药价格 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWmFEZGRBY0JHX0VZdVZiMWMzLUItUlZ6TDVZWHh0V0JSblBDZElSX2preG5LdlBsQU9JNmRadF9QWGlzSmo2WGlwdUlHcGZiNmVYdUdIRHRPbTRQZzlnNEt2NzF5VUlRZi11d3BROWYxajlTZXRlS2J4Tk5iNVFMdFl6ZF84LXdSTGpZSDgzSzhhS3JUTzhXdjFLSk9PU085YnFvVWx5RzRiUGdNd09UUUNfWEdLb3ZJaUN6eEtLeXlRcEVUWDNvNzNrNGtmaFQ2QkZ2Vg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWmFEZGRBY0JHX0VZdVZiMWMzLUItUlZ6TDVZWHh0V0JSblBDZElSX2preG5LdlBsQU9JNmRadF9QWGlzSmo2WGlwdUlHcGZiNmVYdUdIRHRPbTRQZzlnNEt2NzF5VUlRZi11d3BROWYxajlTZXRlS2J4Tk5iNVFMdFl6ZF84LXdSTGpZSDgzSzhhS3JUTzhXdjFLSk9PU085YnFvVWx5RzRiUGdNd09UUUNfWEdLb3ZJaUN6eEtLeXlRcEVUWDNvNzNrNGtmaFQ2QkZ2Vg?oc=5</guid>
@@ -470,13 +488,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1BPWWhCT09oc1ZsNHRiZ1VHT2s5VEJlMHFjRHBCRGRNNkptWkJqX0hRTEstU0pnTlMyby1VVEJqc3RjbjV4eW5qbVRnUXVRU0NNNDdienVJWWZNT3pPR2JlLWpZQ2hpc2xTbnprZXlNTjJ4YnhGam5pRWFzVHhtWXdlVHZXN0RQRXNOX04zM2RNaDA0LWJrenBYYw?oc=5</guid>
             <pubDate>Tue, 30 Dec 2025 11:06:15 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 2025 年美联储最后会议纪要揭示政策分歧 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于融资谈判失败，Domo Chemicals 部门申请破产]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-30/domo-chemicals-units-file-for-insolvency-as-funding-talks-fail</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-30/domo-chemicals-units-file-for-insolvency-as-funding-talks-fail</guid>
-            <pubDate>Tue, 30 Dec 2025 10:46:04 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在进一步短期融资谈判破裂后，Domo Chemicals 的德国子公司已申请破产。]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯对欧洲的管道天然气出口下降44%至数十年来的最低水平 - 路透中文网]]></title>
@@ -701,13 +712,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHV4WVFadXRnQnJGM3otS2hQek5NeUtqWlNjSWkwVWplZWlNTThtWENUTkhjMC1KWFJfbGNKTDBEREQ4UkYzNDBIMHhfQWFsajhyVVpfS1ctTXFHVXFUc3RKVEQxd1E3dGV0a0ZrQWRRQUJKOXBYMjE0ZFZvaTZ3cDZBcGFPNXMtcHlEQm9DcjJDOWhRNmhCZE5LcDlxQzhUTkFFTENaOUQ5WGF5R2ppQnNLM2o?oc=5</guid>
             <pubDate>Mon, 29 Dec 2025 22:52:01 GMT</pubDate>
             <description><![CDATA[[Reuters Business] EIA称截至12月19日当周美国原油和燃料库存增加 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[气象学家警告“炸弹旋风”，冬季风暴埃兹拉扰乱美国旅行 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3dSQXIwbVhrUHAxNmZxMS1rbVNteE9lNmF2dThyQk5zaHBZOXFVdEx5Q3YtdmREcUdWVGpzLTdGQUdnZ2o0bUFwNXl5dGtDM3A2VHVjZWxrbTVMcVBtVF9FNEpITnlBempHU1lRUi04bVM3Rmh3cFJfZDItRkxhNUc4STllelItcUNEVW1QYjdwS3IzMmNEbmlHYUtNNzVCSE5lUU1IbFhkd0I1N1B4TVU5XzNhb1ZmMzBJUGxEMWVnZw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3dSQXIwbVhrUHAxNmZxMS1rbVNteE9lNmF2dThyQk5zaHBZOXFVdEx5Q3YtdmREcUdWVGpzLTdGQUdnZ2o0bUFwNXl5dGtDM3A2VHVjZWxrbTVMcVBtVF9FNEpITnlBempHU1lRUi04bVM3Rmh3cFJfZDItRkxhNUc4STllelItcUNEVW1QYjdwS3IzMmNEbmlHYUtNNzVCSE5lUU1IbFhkd0I1N1B4TVU5XzNhb1ZmMzBJUGxEMWVnZw?oc=5</guid>
-            <pubDate>Mon, 29 Dec 2025 22:50:24 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 气象学家警告“炸弹旋风”，冬季风暴埃兹拉扰乱美国旅游业 路透]]></description>
         </item>
     </channel>
 </rss>
