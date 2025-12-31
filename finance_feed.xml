@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 31 Dec 2025 18:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 18:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[TransDigm集团股价在宣布9.6亿美元收购Stellant Systems后上涨]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3147157</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3147157</guid>
+            <pubDate>Wed, 31 Dec 2025 18:29:46 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[飓风损害影响2025年展望，凯悦酒店股价下跌]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3147153</link>
@@ -55,7 +62,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-31/canadian-stocks-set-reocrd-for-records-in-jaw-dropping-year</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-31/canadian-stocks-set-reocrd-for-records-in-jaw-dropping-year</guid>
             <pubDate>Wed, 31 Dec 2025 17:37:46 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 从四月初的情况来看，加拿大股市即将迎来本世纪第二好的一年，这是毫无意义的。]]></description>
+            <description><![CDATA[[Bloomberg] 从四月初的情况来看，加拿大股市正在结束本世纪第二好的一年，这是毫无意义的。]]></description>
         </item>
         <item>
             <title><![CDATA[中午涨幅最大的股票：耐克、Corcept Therapeutics、台积电等]]></title>
@@ -155,13 +162,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxPMXlYdEF0UlRyTm93V1NTUHhMaDNDQURQYWJpWmJUVHd4bDlqV3piWkM0ZTBWNnNMYXZaal9idHVKMTJpbE1RcU5OLThWS1JWU2VhUXp6eHU5dVJreHZBYjRqU29mZGZHbGV3Y3plcFo1ZVg5Um9BSkNuTUl1MWhYX1Z4XzVqNFplUjdpZGRjS2syUUtGNW9xZlZOTlZjSnM?oc=5</guid>
             <pubDate>Wed, 31 Dec 2025 16:02:09 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 特朗普媒体公布向股东分发新加密货币的计划 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[挪威股市收低；截至收盘挪威OSE总回报指数基本持平]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3147113</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3147113</guid>
-            <pubDate>Wed, 31 Dec 2025 15:55:52 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[科技股继续承压，华尔街下滑，但接近年度涨幅 - 路透中文网]]></title>
@@ -451,11 +451,11 @@
             <description><![CDATA[[Bloomberg] 瑞士央行在第三季度基本上没有介入货币市场，以避免在唐纳德·特朗普的关税迫使官员在上一时期抛售瑞郎之后进行干预。]]></description>
         </item>
         <item>
-            <title><![CDATA[中国限制进口巴西和美国企业的外国牛肉]]></title>
+            <title><![CDATA[中国设定牛肉配额对巴西和其他大型出口国造成打击]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-31/china-sets-quotas-for-beef-imports-following-months-long-probe</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-31/china-sets-quotas-for-beef-imports-following-months-long-probe</guid>
             <pubDate>Wed, 31 Dec 2025 07:48:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 中国将限制牛肉进口，以保护国内农民和生产商，这对巴西和澳大利亚以及美国主要肉类生产国造成打击。]]></description>
+            <description><![CDATA[[Bloomberg] 中国对牛肉进口实行配额，以保护国内农民和生产者，这对巴西以及澳大利亚和阿根廷等其他主要出口国造成打击。]]></description>
         </item>
         <item>
             <title><![CDATA[2025 A股收官：慢牛向何处去？｜述评 - 财新]]></title>
@@ -463,6 +463,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KcmMxWGpfQWdhTDNRQWhpeTZxZ0pET1MtMVVWTW1Pbzk1MVhXWlBfdHNCeVBPT3U1cEVzbldQdjMzMHJJclFCTW9tZlhHaWlnM000MmdXbFhkU1VlSHQ2QnJn?oc=5</guid>
             <pubDate>Wed, 31 Dec 2025 07:00:00 GMT</pubDate>
             <description><![CDATA[[财新网] 2025 A股收官：慢牛向何处去？｜述评  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗? - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE44RTc3bDBBdGJ3YkUtUEkyVjdYXzdiTUw3Z29tZ0tVemJNYTBTMFp4SGNKVW5KampJbjBEN3NvVHNKZUxWbE9mdE5XREZqMmRidUFB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE44RTc3bDBBdGJ3YkUtUEkyVjdYXzdiTUw3Z29tZ0tVemJNYTBTMFp4SGNKVW5KampJbjBEN3NvVHNKZUxWbE9mdE5XREZqMmRidUFB?oc=5</guid>
+            <pubDate>Wed, 31 Dec 2025 06:45:44 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[欧洲银行度过了辉煌的一年。 现在他们在 2026 年面临一个大问题]]></title>
@@ -531,7 +538,7 @@
             <title><![CDATA[消息人士称，印度石油公司根据 Ecopetrol 合同购买了第一批哥伦比亚石油 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNno4Sjl5QTBxQllyT1NMVFhHSm5jVHd0bHVNdXdvZTZacUVYUFR2TUh6MkVEV0dRa3cxMFkwbnRRUFAxbDVzTHRWVjhsYVd0aS1tRXlWQU51a3drUWNTMklKWnVkNFZUVTBGc1d2eERPMEVoY2ZsZFZORHQ4QmR6bU9ybUI0X2U5ZXhVTFdXMmtNWXVnM29kLXJBc1ItQlZsaGRWZTlONFp3VjFja1hGVlVzaUE1ZUthTGNVT0F4dHZZZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNno4Sjl5QTBxQllyT1NMVFhHSm5jVHd0bHVNdXdvZTZacUVYUFR2TUh6MkVEV0dRa3cxMFkwbnRRUFAxbDVzTHRWVjhsYVd0aS1tRXlWQU51a3drUWNTMklKWnVkNFZUVTBGc1d2eERPMEVoY2ZsZFZORHQ4QmR6bU9ybUI0X2U5ZXhVTFdXMmtNWXVnM29kLXJBc1ItQlZsaGRWZTlONFp3VjFja1hGVlVzaUE1ZUthTGNVT0F4dHZZZw?oc=5</guid>
-            <pubDate>Wed, 31 Dec 2025 03:45:18 GMT</pubDate>
+            <pubDate>Wed, 31 Dec 2025 03:45:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 消息人士称，印度石油公司根据 Ecopetrol 合同购买了第一批哥伦比亚石油 路透]]></description>
         </item>
         <item>
@@ -549,11 +556,11 @@
             <description><![CDATA[[WSJ] 根据官方和私人调查，中国工厂活动在 12 月份恢复增长，这一改善可能有助于北京实现今年的增长目标。]]></description>
         </item>
         <item>
-            <title><![CDATA[因供应押注，铜价将创 2009 年以来最大年度涨幅]]></title>
+            <title><![CDATA[铜价因供应押注创下 2009 年以来最大年度涨幅]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-31/copper-set-for-biggest-annual-gain-since-2009-on-supply-bets</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-31/copper-set-for-biggest-annual-gain-since-2009-on-supply-bets</guid>
             <pubDate>Wed, 31 Dec 2025 02:46:27 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于近期供应紧张以及对电气化关键金属的需求将超过产量的押注，铜价有望创下 2009 年以来的最大年度涨幅。]]></description>
+            <description><![CDATA[[Bloomberg] 由于近期供应紧张以及对电气化关键金属的需求将超过产量的押注，铜迎来了自 2009 年以来表现最好的一年。]]></description>
         </item>
         <item>
             <title><![CDATA[国航将购买60架空客飞机 价值95亿美元 - 路透中文网]]></title>
@@ -701,13 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ1ZBb05yaFRCb3d1dDh0ZFdLa1pTU0lmV2pLcEN6YUUzTDZBcVRVNkMyemhwdG9JU1MwUFpuTGpsQzlldVFGSHNuSWp3RXJ5YnAzLXFmOGwtX1FyRFVoUFgtUVd0OHRlU2ROZU1lQU9MZ1h3YWJ2RUVpUzhfWVhsdFUyNDhhV1djbzlDaGFYMUlheFo5Sk9FaHZ3RkNhbUlRaTlaSEZ3TEphZ3BYZGQ3el9WVHdLR3J5dTV3UVlvQ1liNFpRd0J3bjVDbGNMVy1aR1UyeWVtbHRvZ3px?oc=5</guid>
             <pubDate>Tue, 30 Dec 2025 22:45:47 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 南卡罗来纳州卫生部门称，南卡罗来纳州麻疹病例增加 20 例，达到 176 例 路透社]]></description>
-        </item>
-        <item>
-            <title><![CDATA[泽伦斯基与特朗普讨论美国在乌克兰的驻军 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGtzUEEydEZMdmNKd3lsQ0toSGg3ZDVQSk9YbUZIX2FQbEJoOVVZQ0FoS2VGZnByWnc2azhDWVhaNzkwY19lT2liVWFkY1VTZmU0UTNGdWRRcHVKVDhodGI3cWNYLXc3a05qN0IyMWVvbmdmc1FsbWVDMU9UUEQzdHc3UWpsOEhnT2hPLXYxTmNjdU9tOWY4SzNvaFZobWdBbl9JYmRRcFRUZTlEd2dZX2dWUUlJbElJVmxN?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGtzUEEydEZMdmNKd3lsQ0toSGg3ZDVQSk9YbUZIX2FQbEJoOVVZQ0FoS2VGZnByWnc2azhDWVhaNzkwY19lT2liVWFkY1VTZmU0UTNGdWRRcHVKVDhodGI3cWNYLXc3a05qN0IyMWVvbmdmc1FsbWVDMU9UUEQzdHc3UWpsOEhnT2hPLXYxTmNjdU9tOWY4SzNvaFZobWdBbl9JYmRRcFRUZTlEd2dZX2dWUUlJbElJVmxN?oc=5</guid>
-            <pubDate>Tue, 30 Dec 2025 22:40:28 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 泽伦斯基与特朗普讨论美国在乌克兰的驻军 路透]]></description>
         </item>
     </channel>
 </rss>
