@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 31 Dec 2025 08:52:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 09:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3146545</guid>
             <pubDate>Wed, 31 Dec 2025 08:43:21 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[台湾经纪商冻结中国军工股票、ETF 的买入订单]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-31/taiwan-brokers-freeze-buy-orders-for-china-military-stocks-etfs</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-31/taiwan-brokers-freeze-buy-orders-for-china-military-stocks-etfs</guid>
+            <pubDate>Wed, 31 Dec 2025 08:41:24 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 台湾经纪商将停止接受与中国军事公司相关的股票和交易所交易基金的买入指令，这是北京在台湾附近进行军事演习后紧张局势恶化的迹象。]]></description>
         </item>
         <item>
             <title><![CDATA[「Soulmanyships搭子艺术展」席卷上海，线下展览与趋势报告勾勒幸福新图景]]></title>
@@ -107,11 +114,11 @@
             <description><![CDATA[[Bloomberg] 西班牙股市有望迎来 90 年代初以来的最佳表现，策略师预计，由于盈利前景转好，西班牙股市将出现更多上涨。]]></description>
         </item>
         <item>
-            <title><![CDATA[经过数月的调查，中国设定牛肉进口配额]]></title>
+            <title><![CDATA[中国实施牛肉进口配额以保护当地产业]]></title>
             <link>https://www.bloomberg.com/news/articles/2025-12-31/china-sets-quotas-for-beef-imports-following-months-long-probe</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-31/china-sets-quotas-for-beef-imports-following-months-long-probe</guid>
             <pubDate>Wed, 31 Dec 2025 07:48:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 经过长达数月的调查，中国设定了牛肉进口配额，限制流向全球最大的蛋白质进口国。]]></description>
+            <description><![CDATA[[Bloomberg] 中国将对巴西和阿根廷等主要供应商的牛肉进口设定配额，超出部分将征收关税，以支持国内产业。]]></description>
         </item>
         <item>
             <title><![CDATA[欧洲天然气价格经历 2023 年以来最大幅度年度跌幅后趋于稳定]]></title>
@@ -503,7 +510,7 @@
             <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQMS1qREtMSkFGWGlXRzVUNGU2MExFQ3NBVmNPenU2SmVxNGpoQlVlM2UtdU85T0FZUjNlNGViNUpvcy13RFJKZGF5SjV2N0RjOVBGQVdEMDVkamF3TlJVTGZPVG1KbHJwRkFnWXN2cHlDanRZaVhJa1E3V003aUdBWUw1TjNWNlJPZ1Awc0wzbi1qNjVnbTluYnVFZ1V5X0E?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxQMS1qREtMSkFGWGlXRzVUNGU2MExFQ3NBVmNPenU2SmVxNGpoQlVlM2UtdU85T0FZUjNlNGViNUpvcy13RFJKZGF5SjV2N0RjOVBGQVdEMDVkamF3TlJVTGZPVG1KbHJwRkFnWXN2cHlDanRZaVhJa1E3V003aUdBWUw1TjNWNlJPZ1Awc0wzbi1qNjVnbTluYnVFZ1V5X0E?oc=5</guid>
             <pubDate>Tue, 30 Dec 2025 22:17:30 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 马斯克的 xAI 购买第三栋建筑以扩大人工智能计算能力 路透]]></description>
+            <description><![CDATA[[Reuters Business] 马斯克的 xAI 购买第三座大楼以扩大人工智能计算能力 路透]]></description>
         </item>
         <item>
             <title><![CDATA[达纳·特尔西 (Dana Telsey) 表示，高收入消费者继续消费]]></title>
@@ -543,7 +550,7 @@
             <description><![CDATA[[WSJ] 芝加哥联储表示，该行预计 12 月份失业率将稳定在 4.6%。]]></description>
         </item>
         <item>
-            <title><![CDATA[美国劳工统计局 (BLS) 为 11 月通胀报告中的住房计算辩护]]></title>
+            <title><![CDATA[美国劳工统计局 (BLS) 为 11 月份通胀报告中的住房计算辩护]]></title>
             <link>https://www.wsj.com/economy/bls-defends-housing-calculations-in-november-inflation-report-d45de065</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/bls-defends-housing-calculations-in-november-inflation-report-d45de065</guid>
             <pubDate>Tue, 30 Dec 2025 21:00:00 GMT</pubDate>
@@ -578,7 +585,7 @@
             <description><![CDATA[[Reuters Business] 美国债券在 2025 年表现出色，但明年回报率可能会下降 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[报道称，英伟达正在就以高达 30 亿美元收购以色列 AI21 实验室进行深入谈判 - 路透中文网]]></title>
+            <title><![CDATA[报道称，英伟达正在就以高达 30 亿美元收购以色列 AI21 Labs 进行高级谈判 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPRVF5ZVZySnRoVmZQdFJWX084c053c05kLWF4NFRkMC16LWt3Wi1Vd1lKVW41U1ozcUtpZE1nVTFUV0lLWWxnZkd6em0yM2lyTGJEVmszWWZEN1hJcmtQZ21pS3FmM2d4Y2lFX2ZKVjNJeDNZVldteVFTM0pTa0dwc3pZZjFRUm9wS01MU1RjcHRtU3hOOUZCaUJUN2FZQkhhR3JqLWRFOHpJTjZTZERFSGFWSQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxPRVF5ZVZySnRoVmZQdFJWX084c053c05kLWF4NFRkMC16LWt3Wi1Vd1lKVW41U1ozcUtpZE1nVTFUV0lLWWxnZkd6em0yM2lyTGJEVmszWWZEN1hJcmtQZ21pS3FmM2d4Y2lFX2ZKVjNJeDNZVldteVFTM0pTa0dwc3pZZjFRUm9wS01MU1RjcHRtU3hOOUZCaUJUN2FZQkhhR3JqLWRFOHpJTjZTZERFSGFWSQ?oc=5</guid>
             <pubDate>Tue, 30 Dec 2025 20:14:11 GMT</pubDate>
@@ -674,13 +681,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/chicago-business-barometer-rebounds-in-december-but-remains-at-contraction-level-7941b079</guid>
             <pubDate>Tue, 30 Dec 2025 15:28:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 就业指数为43.5，较11月上升7.2个百分点，高于经济学家预期。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国股市收盘持平，盈利前景“急速”走高]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-30/us-stocks-little-changed-on-light-volume-as-year-winds-down</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-30/us-stocks-little-changed-on-light-volume-as-year-winds-down</guid>
-            <pubDate>Tue, 30 Dec 2025 14:47:27 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 标准普尔 500 指数周二收盘变化不大，科技股涨跌互现。 周一成交量下跌约 40%，成交量较 20 天平均水平低 44% 左右。]]></description>
         </item>
         <item>
             <title><![CDATA[独家：消息人士称现代汽车无法回购俄罗斯汽车工厂 - 路透中文网]]></title>
