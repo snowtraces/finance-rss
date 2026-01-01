@@ -4,10 +4,31 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 01 Jan 2026 13:51:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 14:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[2025年美元指数黯然收官！美联储主席动向将左右后市行情]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3147461</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3147461</guid>
+            <pubDate>Thu, 01 Jan 2026 14:05:38 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[比亚迪(01211)2025年销售超460万辆，海外销量首次突破100万，蝉联三冠]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3147460</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3147460</guid>
+            <pubDate>Thu, 01 Jan 2026 14:05:09 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[意大利外交部称美国将削减进口面食关税]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-01/us-to-cut-tariffs-on-imported-pasta-italy-foreign-ministry-says</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-01/us-to-cut-tariffs-on-imported-pasta-italy-foreign-ministry-says</guid>
+            <pubDate>Thu, 01 Jan 2026 13:48:54 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 意大利外交部表示，美国决定降低对一些意大利面食品牌有争议的反倾销关税。]]></description>
+        </item>
         <item>
             <title><![CDATA[港股公告掘金 | 比亚迪股份2025年度新能源汽车销量约460.24万辆 同比增长7.73%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3147456</link>
@@ -21,6 +42,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-01/australia-s-home-price-gains-cool-with-rba-pivot-denting-real-estate-outlook</guid>
             <pubDate>Thu, 01 Jan 2026 13:01:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 澳大利亚 12 月份房价增长放缓，两大市场小幅走低，原因是再次加息的风险打压了未来一年的市场情绪和房地产前景。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰谴责俄罗斯新年无人机袭击电力基础设施 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQSGtGWW41TlFycHNGdGRKSmR6T19UUXhpQ3pxQVF3UTlSNzhRa2doY0ppTXUyN0NHYUtYVlhsdndIUjQxT0xzcWxvOHg4Z292SE5xeVAwbnlUN09YZGxVWHA1SnZKZjRTdkVGYTgzdmdHRjN6Q1NyV1E3OGpJbmtGSDdtT3pNWjdacmJyZ0J5ME4wWk0yOGFJd0tFOHlZa3lrazNzMFBzV3U0NVI3cE5pWDBpQXEyOVJsbHNnaDI5d1BndnN6V3M2Wlp3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxQSGtGWW41TlFycHNGdGRKSmR6T19UUXhpQ3pxQVF3UTlSNzhRa2doY0ppTXUyN0NHYUtYVlhsdndIUjQxT0xzcWxvOHg4Z292SE5xeVAwbnlUN09YZGxVWHA1SnZKZjRTdkVGYTgzdmdHRjN6Q1NyV1E3OGpJbmtGSDdtT3pNWjdacmJyZ0J5ME4wWk0yOGFJd0tFOHlZa3lrazNzMFBzV3U0NVI3cE5pWDBpQXEyOVJsbHNnaDI5d1BndnN6V3M2Wlp3?oc=5</guid>
+            <pubDate>Thu, 01 Jan 2026 12:53:26 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 乌克兰谴责俄罗斯新年无人机对电力基础设施的袭击 路透]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普总统将软垫家具、厨柜和梳妆台的关税上调推迟了一年，这是面对消费者对价格感到不满而取消征税的最新举措]]></title>
@@ -91,20 +119,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxNTks2X3FTYllDajdkM09zM0FzbVpoX2lqSnlVR1dFSndGTjQydm13bWM3b0ZmSFYwLWJVOHluTWVLSk9FSmJCVHpfUXNjMUZ2aDNfREE0SlhXVEFLTzRZTHEydUd1S0hFWVY0aGNRYXU0UFYwOFQ2Qk9LN1k1emp3cldMdW1vVUZ1U0l6b2xELWYxVmJzNDQzR3ZxbmJUbnZ5OWhQTFFRSTNNS1V4M1E?oc=5</guid>
             <pubDate>Thu, 01 Jan 2026 11:56:49 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 韩国流行音乐明星 BTS 将于 3 月 20 日携新专辑回归路透社]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新势力年终收官：零跑、小鹏全年销量同比增超100% 理想“失速”、蔚来下半年“反弹”]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3147444</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3147444</guid>
-            <pubDate>Thu, 01 Jan 2026 11:35:34 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[吉利汽车(00175)2025年全年累计销量超302万辆 2026年冲击总销量345万辆!]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3147443</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3147443</guid>
-            <pubDate>Thu, 01 Jan 2026 11:35:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[比亚迪2025年销售460万辆汽车，实现修订后的销售目标]]></title>
@@ -414,7 +428,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-12-31/looking-to-spacex-s-2026-ipo-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-31/looking-to-spacex-s-2026-ipo-video</guid>
             <pubDate>Wed, 31 Dec 2025 20:38:09 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 彭博科技联合主播 Ed Ludlow 讨论了 SpaceX 在 2026 年进行 IPO 对更广泛的太空经济意味着什么。 他加入了彭博市场的 Vonnie Quinn 和 Norah Mulinda 行列。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 彭博科技联合主播 Ed Ludlow 讨论了 SpaceX 计划在 2026 年进行 IPO 对更广泛的太空经济意味着什么。 他加入了彭博市场的 Vonnie Quinn 和 Norah Mulinda 行列。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[独家：制药商不顾特朗普的压力提高了 350 种药品在美国的价格 - 路透中文网]]></title>
@@ -463,7 +477,7 @@
             <link>https://www.bloomberg.com/news/articles/2025-12-31/canadian-stocks-set-reocrd-for-records-in-jaw-dropping-year</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-31/canadian-stocks-set-reocrd-for-records-in-jaw-dropping-year</guid>
             <pubDate>Wed, 31 Dec 2025 17:37:46 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 从四月初的情况来看，加拿大股市即将迎来本世纪第二好的一年，这是毫无意义的。]]></description>
+            <description><![CDATA[[Bloomberg] 从四月初的情况来看，加拿大股市正在结束本世纪第二好的一年，这是毫无意义的。]]></description>
         </item>
         <item>
             <title><![CDATA[假期旅行加剧美国流感病例上升 - 路透中文网]]></title>
@@ -695,20 +709,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE52MnNaeG54WGhlaFRyUWY3T25ZOTFhYWdlb1dsT21MUUs3RDI5UC0wWk9rNl94VXRmTnpMWFNkbFZuMTlQUkVsVjVIWFQ5a2tZWlk0RFVOeXJzXzluOUtQSU53?oc=5</guid>
             <pubDate>Wed, 31 Dec 2025 08:10:00 GMT</pubDate>
             <description><![CDATA[[财新网] 山东高速前董事长周勇获刑无期 多名高管先后被查  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国设定牛肉配额对巴西和其他大型出口国造成打击]]></title>
-            <link>https://www.bloomberg.com/news/articles/2025-12-31/china-sets-quotas-for-beef-imports-following-months-long-probe</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-31/china-sets-quotas-for-beef-imports-following-months-long-probe</guid>
-            <pubDate>Wed, 31 Dec 2025 07:48:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 中国对牛肉进口实行配额，以保护国内农民和生产者，这对巴西以及澳大利亚和阿根廷等其他主要出口国造成打击。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2025 A股收官：慢牛向何处去？｜述评 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KcmMxWGpfQWdhTDNRQWhpeTZxZ0pET1MtMVVWTW1Pbzk1MVhXWlBfdHNCeVBPT3U1cEVzbldQdjMzMHJJclFCTW9tZlhHaWlnM000MmdXbFhkU1VlSHQ2QnJn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KcmMxWGpfQWdhTDNRQWhpeTZxZ0pET1MtMVVWTW1Pbzk1MVhXWlBfdHNCeVBPT3U1cEVzbldQdjMzMHJJclFCTW9tZlhHaWlnM000MmdXbFhkU1VlSHQ2QnJn?oc=5</guid>
-            <pubDate>Wed, 31 Dec 2025 07:00:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 2025 A股收官：慢牛向何处去？｜述评  财新]]></description>
         </item>
     </channel>
 </rss>
