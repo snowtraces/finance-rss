@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 01 Jan 2026 09:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jan 2026 10:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[解析花旗对标普500指数2026年展望]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3147409</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3147409</guid>
+            <pubDate>Thu, 01 Jan 2026 10:00:02 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[中信证券：26年家电国补政策符合预期 推算全年补贴规模700亿元]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3147408</link>
@@ -89,13 +96,6 @@
             <title><![CDATA[卖方老将张忆东离职兴业证券，行业深耕超20年，下一站转战海外业务]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3147399</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3147399</guid>
-            <pubDate>Thu, 01 Jan 2026 08:05:30 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔的“巴菲特时代”正式落幕！交棒于63岁的阿贝尔]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3147398</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3147398</guid>
             <pubDate>Thu, 01 Jan 2026 08:05:30 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
@@ -247,6 +247,13 @@
             <description><![CDATA[[华尔街见闻] 点名特斯拉估值高的离谱后，“大空头”Burry澄清：目前并未做空  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[墨西哥将恢复部分食品关税以援助当地生产商]]></title>
+            <link>https://www.bloomberg.com/news/articles/2025-12-31/mexico-to-bring-back-some-food-tariffs-to-aid-local-producers</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2025-12-31/mexico-to-bring-back-some-food-tariffs-to-aid-local-producers</guid>
+            <pubDate>Wed, 31 Dec 2025 22:01:14 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 根据总统克劳迪娅·谢因鲍姆办公室的一项法令，墨西哥将对牛肉、猪肉和牛奶等几种主食重新征收关税，以利于当地供应。]]></description>
+        </item>
+        <item>
             <title><![CDATA[2025 年世界各地的顶级菜肴]]></title>
             <link>https://www.bloomberg.com/news/videos/2025-12-31/top-dishes-from-around-the-world-in-2025-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-31/top-dishes-from-around-the-world-in-2025-video</guid>
@@ -344,7 +351,7 @@
             <link>https://www.bloomberg.com/news/videos/2025-12-31/looking-to-spacex-s-2026-ipo-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2025-12-31/looking-to-spacex-s-2026-ipo-video</guid>
             <pubDate>Wed, 31 Dec 2025 20:38:09 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 彭博科技联合主播 Ed Ludlow 讨论了 SpaceX 计划在 2026 年进行 IPO 对更广泛的太空经济意味着什么。 他加入了彭博市场的 Vonnie Quinn 和 Norah Mulinda 行列。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 彭博科技联合主播 Ed Ludlow 讨论了 SpaceX 在 2026 年进行 IPO 对更广泛的太空经济意味着什么。 他加入了彭博市场的 Vonnie Quinn 和 Norah Mulinda 行列。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[独家：制药商不顾特朗普的压力提高了 350 种药品在美国的价格 - 路透中文网]]></title>
@@ -702,13 +709,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE12dENTMUpxcXFkNmZIZlU3WFFhS25TaFRjQm43aEdSYk03MXhoX3BZVjl0ZndReUtrNEd3eFQ5MDM3bzBvNnhGSml1UFUtdWdhRW45Q0txd0hMOWtJWERTdUhR?oc=5</guid>
             <pubDate>Wed, 31 Dec 2025 05:05:00 GMT</pubDate>
             <description><![CDATA[[财新网] 外盘银价上演“过山车” 高位震荡或将持续  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[东方龙袍遇上维也纳贵妇：跨文化艺术的完美融合- 生活家 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4YVc2NmVzRllPbDhYenlVRURvbXJrSXJiX0Q5dk1HZ3RYUUZWcldCTHJJWVlaQmZQSE93T2wtTzBMc1NKdVljUXpqY2p4WlBVZkhZ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4YVc2NmVzRllPbDhYenlVRURvbXJrSXJiX0Q5dk1HZ3RYUUZWcldCTHJJWVlaQmZQSE93T2wtTzBMc1NKdVljUXpqY2p4WlBVZkhZ?oc=5</guid>
-            <pubDate>Wed, 31 Dec 2025 04:52:39 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 东方龙袍遇上维也纳贵妇：跨文化艺术的完美融合- 生活家  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
