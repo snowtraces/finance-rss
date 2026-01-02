@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 02 Jan 2026 22:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 22:44:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[特朗普阻止HieFo收购Emcore半导体资产]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3148456</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3148456</guid>
+            <pubDate>Fri, 02 Jan 2026 22:14:21 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[西方联盟的鲍勃·柯利表示，人工智能是风险投资领域的“支柱”]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-01-02/ai-backbone-of-venture-capital-landscape-says-curley-video</link>
@@ -161,13 +168,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/01/02/spacex-ipo-musk-2026.html</guid>
             <pubDate>Fri, 02 Jan 2026 19:45:41 GMT</pubDate>
             <description><![CDATA[[CNBC] 在该公司计划首次公开募股之前，投资者已经对其给予了大力支持。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普自述“手背淤青”原因：连续25年服用大剂量阿司匹林]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3148373</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3148373</guid>
-            <pubDate>Fri, 02 Jan 2026 19:35:39 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[美国上诉法院驳回派拉蒙《壮志凌云：特立独行》版权主张 - 路透中文网]]></title>
@@ -422,7 +422,7 @@
             <description><![CDATA[[Reuters Business] 美国股票基金 2025 年表现强劲 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[南非势头增强，兰特跃升至三年高点]]></title>
+            <title><![CDATA[南非势头增强，兰特跃升至三年高位]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-02/rand-jumps-to-three-year-high-as-south-africa-momentum-builds</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-02/rand-jumps-to-three-year-high-as-south-africa-momentum-builds</guid>
             <pubDate>Fri, 02 Jan 2026 13:33:11 GMT</pubDate>
@@ -541,13 +541,6 @@
             <description><![CDATA[[Reuters Business] 印度印多尔市受污染水造成 9 人死亡、200 人住院 路透社]]></description>
         </item>
         <item>
-            <title><![CDATA[2025年三季度中国货物贸易顺差创新高 对外净资产达4万亿美元 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWVJ2S29IamZLeWRSTzNIbmNObko0WGpWanF5T1Mxb1hGTV9MTnJNNXFzZHhwbmpEWkswSy00NVppeUdpbzNZLTBZU2tNODJnbTdCSm5EanFMY21lb016Nlln?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWVJ2S29IamZLeWRSTzNIbmNObko0WGpWanF5T1Mxb1hGTV9MTnJNNXFzZHhwbmpEWkswSy00NVppeUdpbzNZLTBZU2tNODJnbTdCSm5EanFMY21lb016Nlln?oc=5</guid>
-            <pubDate>Fri, 02 Jan 2026 05:47:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 2025年三季度中国货物贸易顺差创新高 对外净资产达4万亿美元  财新]]></description>
-        </item>
-        <item>
             <title><![CDATA[土耳其计划下个月在索马里进行首次海外深水钻探 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTdLRVZzaDczamR5c0psanA2MTZVMmFwRjN3enRqSDZHbHVCX1g3T0ZUeDJDVFhiQWRDUUlOTmNidU9MSXRwbFJ6dVMwQ2FNRU1NR2tST3BaY1NUME9wdUg3WERnamlVVFZBMGE0SnZ2S2tTUjJtdGRfb0ZJTmJpRm0ySWlFMEhiWWJhdExvY2FQNEk5ZzRIN1JOalM0Sl9PN0lHZWQ1ZkFtajZPbENqY29VZFRaSFF4?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSTdLRVZzaDczamR5c0psanA2MTZVMmFwRjN3enRqSDZHbHVCX1g3T0ZUeDJDVFhiQWRDUUlOTmNidU9MSXRwbFJ6dVMwQ2FNRU1NR2tST3BaY1NUME9wdUg3WERnamlVVFZBMGE0SnZ2S2tTUjJtdGRfb0ZJTmJpRm0ySWlFMEhiWWJhdExvY2FQNEk5ZzRIN1JOalM0Sl9PN0lHZWQ1ZkFtajZPbENqY29VZFRaSFF4?oc=5</guid>
@@ -625,7 +618,7 @@
             <description><![CDATA[[WSJ] 2025年新加坡经济增长4.8%，超过2024年4.4%的增速并超出预期。]]></description>
         </item>
         <item>
-            <title><![CDATA[随着指数抛售迫在眉睫，黄金和白银在新年期间保持稳定]]></title>
+            <title><![CDATA[黄金和白银在新年期间保持稳定，指数抛售迫在眉睫]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-02/gold-and-silver-open-2026-with-gains-following-huge-annual-surge</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-02/gold-and-silver-open-2026-with-gains-following-huge-annual-surge</guid>
             <pubDate>Fri, 02 Jan 2026 00:01:11 GMT</pubDate>
@@ -671,14 +664,14 @@
             <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQblpScGlvRnlhMERROVpyY3g0a1R0dlBfb1M0bjZHdVEzQnNCbl92cXRwUmx5NnVZeWxiVDFuOG1zb2VGN1J1YnhtWkxIMEZXRVFIXzF1Nl92NUNCbWFrYmh5Q2tjcTc1MDVkQm1zZUR5M2FwMHFNc0hLQ3NEcm9Xck9XdjVFVWwzS0FyMVJYeUVtcUxaQUZBMGRtMklXWVg1cERxRVpyNVNvZ0FtTWsw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxQblpScGlvRnlhMERROVpyY3g0a1R0dlBfb1M0bjZHdVEzQnNCbl92cXRwUmx5NnVZeWxiVDFuOG1zb2VGN1J1YnhtWkxIMEZXRVFIXzF1Nl92NUNCbWFrYmh5Q2tjcTc1MDVkQm1zZUR5M2FwMHFNc0hLQ3NEcm9Xck9XdjVFVWwzS0FyMVJYeUVtcUxaQUZBMGRtMklXWVg1cERxRVpyNVNvZ0FtTWsw?oc=5</guid>
             <pubDate>Thu, 01 Jan 2026 20:51:19 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 意大利称美国在审查后大幅削减了拟议的意大利面关税 路透]]></description>
+            <description><![CDATA[[Reuters Business] 意大利称美国在审查后大幅削减了拟议的面食关税 路透]]></description>
         </item>
         <item>
             <title><![CDATA[60 年内 500 万% 的回报率让沃伦·巴菲特的遗产无与伦比]]></title>
             <link>https://www.cnbc.com/2026/01/01/warren-buffetts-legacy-a-5-million-percent-return.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/01/01/warren-buffetts-legacy-a-5-million-percent-return.html</guid>
             <pubDate>Thu, 01 Jan 2026 14:31:44 GMT</pubDate>
-            <description><![CDATA[[CNBC] 经过六年的经营，沃伦·巴菲特将一家不起眼的纺织厂变成了历史上最强大的复合引擎之一，沃伦·巴菲特交出了权力。]]></description>
+            <description><![CDATA[[CNBC] 经过六年的经营，沃伦·巴菲特将一家不起眼的纺织厂变成了历史上最强大的复合引擎之一，之后他交出了权力。]]></description>
         </item>
         <item>
             <title><![CDATA[印度预计一月天气较冷，冬季作物前景改善 - 路透中文网]]></title>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfN3MxMnlDSnlkWUtXNFZndTUydm9XeGpVTVM4WGJJTHBqQU0xZjBxWlhkU09oTlVKb0F1UmRab3dhVjVvdGpPSU9OVE1yN0FGWDlr?oc=5</guid>
             <pubDate>Thu, 01 Jan 2026 11:59:56 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[韩国流行音乐明星 BTS 将于 3 月 20 日携新专辑回归 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNTks2X3FTYllDajdkM09zM0FzbVpoX2lqSnlVR1dFSndGTjQydm13bWM3b0ZmSFYwLWJVOHluTWVLSk9FSmJCVHpfUXNjMUZ2aDNfREE0SlhXVEFLTzRZTHEydUd1S0hFWVY0aGNRYXU0UFYwOFQ2Qk9LN1k1emp3cldMdW1vVUZ1U0l6b2xELWYxVmJzNDQzR3ZxbmJUbnZ5OWhQTFFRSTNNS1V4M1E?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxNTks2X3FTYllDajdkM09zM0FzbVpoX2lqSnlVR1dFSndGTjQydm13bWM3b0ZmSFYwLWJVOHluTWVLSk9FSmJCVHpfUXNjMUZ2aDNfREE0SlhXVEFLTzRZTHEydUd1S0hFWVY0aGNRYXU0UFYwOFQ2Qk9LN1k1emp3cldMdW1vVUZ1U0l6b2xELWYxVmJzNDQzR3ZxbmJUbnZ5OWhQTFFRSTNNS1V4M1E?oc=5</guid>
+            <pubDate>Thu, 01 Jan 2026 11:56:49 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 韩国流行音乐明星 BTS 将于 3 月 20 日携新专辑回归路透社]]></description>
         </item>
     </channel>
 </rss>
