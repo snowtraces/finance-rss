@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 03 Jan 2026 10:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jan 2026 11:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[对于五名年长的求职者来说，找到新工作需要创造力、新技能，在某些情况下还需要降低期望]]></title>
+            <link>https://www.wsj.com/economy/jobs/five-older-job-seekers-tell-us-how-they-broke-through-a-bruising-job-market-6d9d6e03</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/jobs/five-older-job-seekers-tell-us-how-they-broke-through-a-bruising-job-market-6d9d6e03</guid>
+            <pubDate>Sat, 03 Jan 2026 10:30:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 寻找新工作需要创造力、新技能，在某些情况下还需要降低期望。]]></description>
+        </item>
         <item>
             <title><![CDATA[埃塞俄比亚与债券持有人就10亿美元违约票据达成原则交易]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-03/ethiopia-bondholders-reach-deal-in-principle-on-1-billion-defaulted-notes</link>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/housing/the-condo-market-hasnt-been-this-bad-in-over-a-decade-9f3e7256</guid>
             <pubDate>Fri, 02 Jan 2026 02:00:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 受房主协会会费上涨和需求疲软的影响，今年秋天的公寓价格出现了自 2012 年以来的最大跌幅。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2025 年新加坡经济增长强于预期]]></title>
-            <link>https://www.wsj.com/economy/singapores-economy-records-stronger-than-expected-growth-in-2025-9bdaa918</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/singapores-economy-records-stronger-than-expected-growth-in-2025-9bdaa918</guid>
-            <pubDate>Fri, 02 Jan 2026 01:13:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 2025年新加坡经济增长4.8%，超过2024年4.4%的增速并超出预期。]]></description>
         </item>
     </channel>
 </rss>
