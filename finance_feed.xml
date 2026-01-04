@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 04 Jan 2026 06:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jan 2026 06:54:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[新股解读|龙旗科技积极谋求“A+H”：年营收超400亿元VS 低毛利率下的“最优解”?]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3148808</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3148808</guid>
+            <pubDate>Sun, 04 Jan 2026 06:35:10 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[天然气或将主导非洲未来变革：撒哈拉以南正兴起一条LNG走廊]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3148795</link>
@@ -69,13 +76,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3148752</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3148752</guid>
             <pubDate>Sun, 04 Jan 2026 02:35:38 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[“马杜罗被捕”押注者净赚12倍收益 预测市场再陷内幕交易质疑]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3148751</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3148751</guid>
-            <pubDate>Sun, 04 Jan 2026 02:35:37 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -174,7 +174,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-01-03/ai-debt-spree-is-fueling-a-credit-trading-frenzy-credit-weekly</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-03/ai-debt-spree-is-fueling-a-credit-trading-frenzy-credit-weekly</guid>
             <pubDate>Sat, 03 Jan 2026 20:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 人工智能支出和私人信贷市场的增长不仅刺激企业增加借贷，还帮助创造公司债券交易的新记录。]]></description>
+            <description><![CDATA[[Bloomberg] 人工智能支出和私人信贷市场的增长不仅刺激了企业增加借贷，还帮助创造了公司债券交易的新记录。]]></description>
         </item>
         <item>
             <title><![CDATA[美联储保尔森暗示再次降息可能需要一段时间 - 路透中文网]]></title>
@@ -188,7 +188,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-01-03/fed-s-paulson-says-additional-rate-cuts-possible-later-this-year</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-03/fed-s-paulson-says-additional-rate-cuts-possible-later-this-year</guid>
             <pubDate>Sat, 03 Jan 2026 19:30:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 费城联邦储备银行行长安娜·保尔森表示，2026 年晚些时候可能会适当进一步降息，但这一结果的条件是经济前景良好。]]></description>
+            <description><![CDATA[[Bloomberg] 费城联储行长安娜·保尔森表示，2026 年晚些时候可能会适当进一步降息，但这一结果的条件是经济前景良好。]]></description>
         </item>
         <item>
             <title><![CDATA[Exor 与法拉利家族延长股东协议管理汽车制造商]]></title>
@@ -230,7 +230,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-01-03/oil-markets-not-worried-about-venezuela-mcnally-says-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-03/oil-markets-not-worried-about-venezuela-mcnally-says-video</guid>
             <pubDate>Sat, 03 Jan 2026 16:34:35 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Rapidan Energy Group创始人兼总裁鲍勃·麦克纳利(Bob McNally)表示，石油市场不会太担心美国袭击后委内瑞拉供应的减少。 他的演讲主题为“权力平衡”。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] Rapidan Energy Group创始人兼总裁鲍勃·麦克纳利(Bob McNally)表示，石油市场不会太担心美国袭击后委内瑞拉供应的减少。 他的演讲主题是“权力平衡”。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[随着全球供应增加，石油市场可能会吸收马杜罗的冲击]]></title>
@@ -265,7 +265,7 @@
             <link>https://www.ftchinese.com/story/001108593</link>
             <guid isPermaLink="false">https://www.ftchinese.com/story/001108593</guid>
             <pubDate>Sat, 03 Jan 2026 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] 美国去年10月以倾销产品为由，威胁要对意大利面品牌征收最高92%的关税。但美国商务部据信将把这些关税税率降低2%至14%之间。]]></description>
+            <description><![CDATA[[FT Chinese] 美国去年10月以倾销产品为由，威胁要对意大利面品牌征收最高92%的关税。但美国商务部据信将把这些关税减轻2%至14%之间。]]></description>
         </item>
         <item>
             <title><![CDATA[柏林疑似纵火袭击 50,000 户家庭停电]]></title>
@@ -347,11 +347,18 @@
             <description><![CDATA[[WSJ] 寻找新工作需要创造力、新技能，在某些情况下还需要降低期望。]]></description>
         </item>
         <item>
+            <title><![CDATA[持续一小时！美国空袭委内瑞拉，特朗普称抓获马杜罗及其夫人，即将召开发布会 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ERVp6VG13blJXOHR4c2Z3elU1aFlWaXRtUUxQM1QwMmVLeTZvSGNscGhQbVRBWGxKRWZlV1FwNGt0OXdDUVdMUG9wMFBockVGNmdN?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ERVp6VG13blJXOHR4c2Z3elU1aFlWaXRtUUxQM1QwMmVLeTZvSGNscGhQbVRBWGxKRWZlV1FwNGt0OXdDUVdMUG9wMFBockVGNmdN?oc=5</guid>
+            <pubDate>Sat, 03 Jan 2026 10:29:23 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 持续一小时！美国空袭委内瑞拉，特朗普称抓获马杜罗及其夫人，即将召开发布会  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[埃塞俄比亚与债券持有人就10亿美元违约票据达成原则交易]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-03/ethiopia-bondholders-reach-deal-in-principle-on-1-billion-defaulted-notes</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-03/ethiopia-bondholders-reach-deal-in-principle-on-1-billion-defaulted-notes</guid>
             <pubDate>Sat, 03 Jan 2026 10:11:42 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 埃塞俄比亚表示，它与债券持有人就2023年违约的10亿美元债券的重组达成了原则协议，并认为今年重组债务的努力取得了进展。]]></description>
+            <description><![CDATA[[Bloomberg] 埃塞俄比亚表示，它与债券持有人就2023年违约的10亿美元债券的重组问题达成了原则协议，并预计今年债务重组工作将取得进展。]]></description>
         </item>
         <item>
             <title><![CDATA[存储“疯涨”持续中 - 华尔街见闻]]></title>
@@ -702,13 +709,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEJVay1oUk15aHN2dHZTUVlZRHVKb3NtWS1iVEpnUDlEZlh0V20wcUE5SnNDYlI4SnB2eF9XWDdhS1J6QnRVUk5oblRDSVhFd045LWlscWpNWWI0M3JJZjNMTHF1TTVXUHJoMEptSXNFemhSMml5TFczal93ekQ2XzgydDR1R3VuRTNybFhQZDZDNTlxSjVmRTV5YzYwMV9YeUJWOGl2NmRMbjc4am1RRjZXeEZ3RTRFdHBUNk5xYVk1N05YV3VPS2pB?oc=5</guid>
             <pubDate>Fri, 02 Jan 2026 13:32:51 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 消息人士称，在沙特与阿联酋因也门局势紧张之际，OPEC+将维持石油产量政策 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国富时 100 指数触及 10,000 点大关，2026 年开局强劲 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEE4RGZwNXNTaUptSEdManI4VW5QQWZoVk9XbDM5RVVMUVVhWmhEVlNNb0JWenBCZlJidVV1aXoxbVNaeXJHcWZPZzdlTFZjVDZ1Nzd6WEo0R1lsZXE4ZmdldFM3QkhsWDlGTHhRQ3pQVmNHRDI0czJNN1BlSTE0RC13ZWZJcGpHclZ1Ujl4eUZyNmFFaTdqTy00YzFvMnVRUUJ5MDdR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEE4RGZwNXNTaUptSEdManI4VW5QQWZoVk9XbDM5RVVMUVVhWmhEVlNNb0JWenBCZlJidVV1aXoxbVNaeXJHcWZPZzdlTFZjVDZ1Nzd6WEo0R1lsZXE4ZmdldFM3QkhsWDlGTHhRQ3pQVmNHRDI0czJNN1BlSTE0RC13ZWZJcGpHclZ1Ujl4eUZyNmFFaTdqTy00YzFvMnVRUUJ5MDdR?oc=5</guid>
-            <pubDate>Fri, 02 Jan 2026 12:24:10 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 英国富时 100 指数突破 10,000 点大关，2026 年开局强劲 路透]]></description>
         </item>
     </channel>
 </rss>
