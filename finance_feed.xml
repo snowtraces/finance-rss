@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 06 Jan 2026 04:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 05:27:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[中东石油市场疲软加剧全球疲软迹象]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-06/softening-mideast-oil-market-adds-to-signs-of-global-weakness</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-06/softening-mideast-oil-market-adds-to-signs-of-global-weakness</guid>
+            <pubDate>Tue, 06 Jan 2026 04:49:10 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 中东原油市场显示出进一步疲软的迹象，加剧了人们对全球供应过剩可能拖累价格下跌的担忧，同时使亚洲交易商能够摆脱委内瑞拉事态发展的影响。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉中国为Model 3/Y提供零息和低息贷款]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3151587</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3151587</guid>
+            <pubDate>Tue, 06 Jan 2026 04:45:34 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3151581</link>
@@ -93,13 +107,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[杰富瑞上调IBM(IBM.US)评级至“买入”：2026年有望受益于软件业务增长]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3151563</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3151563</guid>
-            <pubDate>Tue, 06 Jan 2026 04:06:33 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[高盛认为中国钢铁产能削减速度低于预期]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-06/china-steel-outlook-cut-as-capacity-progress-slows-goldman-says</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-06/china-steel-outlook-cut-as-capacity-progress-slows-goldman-says</guid>
@@ -174,7 +181,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-01-06/copper-surges-to-fresh-record-as-inventories-locked-in-the-us</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-06/copper-surges-to-fresh-record-as-inventories-locked-in-the-us</guid>
             <pubDate>Tue, 06 Jan 2026 03:01:43 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于交易商和投资者押注全球市场趋紧，铜价在首次突破每吨 13,000 美元后延续强劲涨势。]]></description>
+            <description><![CDATA[[Bloomberg] 由于投资者押注市场趋紧，铜价在首次突破每吨 13,000 美元后延续强劲涨势。]]></description>
         </item>
         <item>
             <title><![CDATA[ICICI 银行称印度债券面临障碍，因股市吸引储蓄]]></title>
@@ -198,18 +205,25 @@
             <description><![CDATA[[Reuters Business] 日本中国地区发生 6.2 级强烈地震 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[快乐蜂食品计划其国际业务在美国上市]]></title>
+            <title><![CDATA[麦当劳的竞争对手快乐蜂计划在美国上市以开展全球业务]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-06/jollibee-foods-plans-a-us-listing-of-its-international-business</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-06/jollibee-foods-plans-a-us-listing-of-its-international-business</guid>
             <pubDate>Tue, 06 Jan 2026 02:19:30 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着菲律宾快餐集团加快其全球品牌的发展，快乐蜂食品公司 (Jollibee Foods Corp.) 计划于 2027 年底剥离其国际业务并在美国证券交易所上市。]]></description>
+            <description><![CDATA[[Bloomberg] 菲律宾快餐集团快乐蜂食品公司 (Jollibee Foods Corp.) 宣布计划于 2027 年底前分拆其国际业务并在美国证券交易所上市，该公司的股价创下五年多以来的最大涨幅，该公司正计划进行全球扩张。]]></description>
         </item>
         <item>
             <title><![CDATA[乌克兰盟友会晤旨在落实具体安全承诺 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0d2dTBlMFJfbVM2MkEzVUJMQ3MtY3QtMy1PVXdZZlA2c0Q2MXA1MzdRdUE4S0xoUkFjd1RxLTR1ZTY3eTZTaVdMVGpPcF8tUl8xT0NZUlJEN0RZVXNpNXlxNUdhR3BKSE5TZkRHSWpyYnJvOHBsWWRvcjh5eTl2UkJJczVtMHZOSFJBSTRSQVRhMGVaTng4dE1xVlRCMEkxd19CajRwaVRPR3oyNGNPdXBSM29sX283WkJsZTZWUEk?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0d2dTBlMFJfbVM2MkEzVUJMQ3MtY3QtMy1PVXdZZlA2c0Q2MXA1MzdRdUE4S0xoUkFjd1RxLTR1ZTY3eTZTaVdMVGpPcF8tUl8xT0NZUlJEN0RZVXNpNXlxNUdhR3BKSE5TZkRHSWpyYnJvOHBsWWRvcjh5eTl2UkJJczVtMHZOSFJBSTRSQVRhMGVaTng4dE1xVlRCMEkxd19CajRwaVRPR3oyNGNPdXBSM29sX283WkJsZTZWUEk?oc=5</guid>
-            <pubDate>Tue, 06 Jan 2026 02:03:00 GMT</pubDate>
+            <pubDate>Tue, 06 Jan 2026 02:03:37 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 乌克兰盟友举行会议，旨在落实具体的安全承诺 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉产量增加和供应充足导致油价下跌 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2dCQlBVYUxwOGxHMVNRaTl6TDRpaTMzRlppM2w2UTlfYndmZjV0alZxaHF1NlhRa1VMRllJY1RhTWYzYWlzV1VONUtXZ0txWkNnWWZpc0VrR05BLXg4R0Jza1dSZ3RUYkNxbmt5elJGRlRGZmJIU0EzT1VBM2UxV3pza3RsTDZCdk5HeUc3blZPcS1ha1RRaTM4bGo1Q3ZlOFNPOUZHZkFLVWxwcUR5MlpWdEE5bmc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2dCQlBVYUxwOGxHMVNRaTl6TDRpaTMzRlppM2w2UTlfYndmZjV0alZxaHF1NlhRa1VMRllJY1RhTWYzYWlzV1VONUtXZ0txWkNnWWZpc0VrR05BLXg4R0Jza1dSZ3RUYkNxbmt5elJGRlRGZmJIU0EzT1VBM2UxV3pza3RsTDZCdk5HeUc3blZPcS1ha1RRaTM4bGo1Q3ZlOFNPOUZHZkFLVWxwcUR5MlpWdEE5bmc?oc=5</guid>
+            <pubDate>Tue, 06 Jan 2026 01:59:36 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 委内瑞拉产量增加、供应充足，油价下跌 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[交易员将台湾股市杠杆率提升至 2008 年以来的最高水平]]></title>
@@ -217,13 +231,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-06/traders-boost-taiwan-stock-leverage-to-highest-level-since-2008</guid>
             <pubDate>Tue, 06 Jan 2026 01:59:02 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 买入台湾股票的杠杆押注升至 17 年来的最高水平，凸显了基准交易价格创历史新高之际强劲的风险偏好。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉产量增加和供应充足导致油价下跌 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2dCQlBVYUxwOGxHMVNRaTl6TDRpaTMzRlppM2w2UTlfYndmZjV0alZxaHF1NlhRa1VMRllJY1RhTWYzYWlzV1VONUtXZ0txWkNnWWZpc0VrR05BLXg4R0Jza1dSZ3RUYkNxbmt5elJGRlRGZmJIU0EzT1VBM2UxV3pza3RsTDZCdk5HeUc3blZPcS1ha1RRaTM4bGo1Q3ZlOFNPOUZHZkFLVWxwcUR5MlpWdEE5bmc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2dCQlBVYUxwOGxHMVNRaTl6TDRpaTMzRlppM2w2UTlfYndmZjV0alZxaHF1NlhRa1VMRllJY1RhTWYzYWlzV1VONUtXZ0txWkNnWWZpc0VrR05BLXg4R0Jza1dSZ3RUYkNxbmt5elJGRlRGZmJIU0EzT1VBM2UxV3pza3RsTDZCdk5HeUc3blZPcS1ha1RRaTM4bGo1Q3ZlOFNPOUZHZkFLVWxwcUR5MlpWdEE5bmc?oc=5</guid>
-            <pubDate>Tue, 06 Jan 2026 01:59:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 委内瑞拉产量增加、供应充足，油价下跌 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[香港开发商几周内售出价值 7.5 亿美元的豪宅]]></title>
@@ -264,7 +271,7 @@
             <title><![CDATA[消息人士称，特朗普政府将与石油公司就委内瑞拉问题举行会议 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlFxeC1vY0xHeEZFSU1fcjFGRFpuWVRZVzBBOHZNbmd6MDA5RHR3NVRHamdEYVN1OFB6WFZyQWtGQy13bXVCMFRiMzhZMWkzMklwT2NlUkNTdlU1MnM2a0RTVzVYbkRxMzRmb3I4S3lYc3FQNkt2ajZmVjhtNTZ0TjRmQUNlMWlLdFJlS1BvRjZfd1VIT0JYTDFJMml2QXVobm9ocDNIY05qQmo4WS12X01uMUNDUy1lanVfV09aVGpSUGtlaEFGdnVB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlFxeC1vY0xHeEZFSU1fcjFGRFpuWVRZVzBBOHZNbmd6MDA5RHR3NVRHamdEYVN1OFB6WFZyQWtGQy13bXVCMFRiMzhZMWkzMklwT2NlUkNTdlU1MnM2a0RTVzVYbkRxMzRmb3I4S3lYc3FQNkt2ajZmVjhtNTZ0TjRmQUNlMWlLdFJlS1BvRjZfd1VIT0JYTDFJMml2QXVobm9ocDNIY05qQmo4WS12X01uMUNDUy1lanVfV09aVGpSUGtlaEFGdnVB?oc=5</guid>
-            <pubDate>Tue, 06 Jan 2026 00:54:00 GMT</pubDate>
+            <pubDate>Tue, 06 Jan 2026 00:54:44 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 消息人士称，特朗普政府将与石油公司就委内瑞拉问题举行会议 路透]]></description>
         </item>
         <item>
@@ -373,11 +380,11 @@
             <description><![CDATA[[Reuters Business] 特朗普称美国可能会补贴石油公司重建委内瑞拉能源基础设施 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[财经早知道｜马杜罗否认全部“指控”，瑞士已冻结其资产 - 财新]]></title>
+            <title><![CDATA[财经早知道｜瑞士冻结马杜罗资产，立即生效 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE81czhQVzUwYVQ0aWJOUFlseDRTaUdqZjlGd2J3ZndFbmxON01CZUt1aWlQc2FDSFcxV0tqVTROTTJRR0NSdVp3bW9OMU5HZlQ1ZUNVODFaMmJ6Nk9OZlJkcF9n?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE81czhQVzUwYVQ0aWJOUFlseDRTaUdqZjlGd2J3ZndFbmxON01CZUt1aWlQc2FDSFcxV0tqVTROTTJRR0NSdVp3bW9OMU5HZlQ1ZUNVODFaMmJ6Nk9OZlJkcF9n?oc=5</guid>
             <pubDate>Mon, 05 Jan 2026 23:05:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 财经早知道｜马杜罗否认全部“指控”，瑞士已冻结其资产  财新]]></description>
+            <description><![CDATA[[财新网] 财经早知道｜瑞士冻结马杜罗资产，立即生效  财新]]></description>
         </item>
         <item>
             <title><![CDATA[Lucid、Nuro 和 Uber 将于今年推出机器人出租车 - 路透中文网]]></title>
@@ -385,13 +392,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMTRRTHpCZFhwak80MUVmOU4xTmlidUltMWZvSDg2RVcxZjJlVVRBWkhfY3QwNmlfMkF3MG1IbDdOYkJGdzVkMy1pVFEwSUFTYVNGU0dyNi1RY1Bxa193R29pdDI1MUpCLTdMb3AxeG1QZUdvMzlaRXRwbmg2VmJvZlI1ODQtbW1Dd29sWHBYUFBzTUlib25JUDRlbXVETTYzNUxycThKanIzMmxfdUFRWXNxQlc3bE5CRXRV?oc=5</guid>
             <pubDate>Mon, 05 Jan 2026 23:03:15 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Lucid、Nuro 和 Uber 将于今年推出机器人出租车]]></description>
-        </item>
-        <item>
-            <title><![CDATA[博思格钢铁公司股价在 88 亿美元收购报价后飙升]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-05/bluescope-steel-shares-surge-after-8-8-billion-takeover-offer</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-05/bluescope-steel-shares-surge-after-8-8-billion-takeover-offer</guid>
-            <pubDate>Mon, 05 Jan 2026 23:02:03 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 博思格钢铁有限公司 (BlueScope Steel Ltd.) 表示正在考虑美国钢铁制造商 Steel Dynamics Inc. 和澳大利亚企业集团 SGH Ltd. 提出 132 亿澳元（88 亿美元）的收购要约，该公司股价在悉尼飙升。]]></description>
         </item>
         <item>
             <title><![CDATA[戴尔推出新款笔记本电脑重振XPS品牌以提高个人电脑市场份额 - 路透中文网]]></title>
@@ -527,11 +527,11 @@
             <description><![CDATA[[CNBC] 伯里自 2020 年以来一直拥有瓦莱罗能源公司（Valero Energy），随着美国在复兴委内瑞拉石油方面发挥更深入的作用，他认为这一职位越来越有吸引力。]]></description>
         </item>
         <item>
-            <title><![CDATA[高通发布新款更廉价版X2笔记本电脑处理器，旨在加速AI软件的运行 - 华尔街见闻]]></title>
+            <title><![CDATA[高通发布新款更平价版X2笔记本电脑处理器，旨在加速AI软件的运行 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE52bGFxQTM4MktCSFNjWGNRaGFnVnM4ZWozc1RRZFp5d2hPU0UyUFI2RVMtMllzR2tMWXAzOEc1SjAwdTVCSGQzUWF0akNzYWpnU2Fv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE52bGFxQTM4MktCSFNjWGNRaGFnVnM4ZWozc1RRZFp5d2hPU0UyUFI2RVMtMllzR2tMWXAzOEc1SjAwdTVCSGQzUWF0akNzYWpnU2Fv?oc=5</guid>
             <pubDate>Mon, 05 Jan 2026 18:53:03 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 高通发布新款更廉价版X2笔记本电脑处理器，旨在加速AI软件的运行  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 高通发布新款更平价版X2笔记本电脑处理器，旨在加速AI软件的运行  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[资本账户：美国有无数理由希望委内瑞拉政权更迭。 然而，有一个因素似乎对特朗普总统具有决定性作用：石油。]]></title>
