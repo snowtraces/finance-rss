@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 08 Jan 2026 11:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 11:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[欧元区商业信心下滑]]></title>
+            <link>https://www.wsj.com/economy/eurozone-business-confidence-slips-43e397c3</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/eurozone-business-confidence-slips-43e397c3</guid>
+            <pubDate>Thu, 08 Jan 2026 11:28:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 衡量多个行业企业态度的关键指标的下降结束了连续四个月的情绪上升。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Jawboner 领袖回归并改变市场]]></title>
+            <link>https://www.bloomberg.com/news/newsletters/2026-01-08/the-jawboner-in-chief-is-back-and-moving-markets</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-01-08/the-jawboner-in-chief-is-back-and-moving-markets</guid>
+            <pubDate>Thu, 08 Jan 2026 11:23:15 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 特朗普在社交媒体上的言论再次让投资者和交易员的生活变得复杂化。]]></description>
+        </item>
         <item>
             <title><![CDATA[欧元区失业率自四月以来首次意外下降]]></title>
             <link>https://www.wsj.com/economy/jobs/eurozones-jobless-rate-unexpectedly-falls-for-first-time-since-april-264d38f0</link>
@@ -23,81 +37,95 @@
             <description><![CDATA[[Bloomberg] 根据就业咨询公司 Challenger, Gray & Christmas Inc. 的数据，美国公司 12 月宣布裁员 35,553 人，为 2024 年 7 月以来的最低水平，同时计划增加招聘。 Natixis 首席美国经济学家 Christopher Hodge 检查了该数据。  （来源：彭博社）]]></description>
         </item>
         <item>
+            <title><![CDATA[高盛前瞻Lumen(LUMN.US)Q4财报及投资者日：EBITDA有望达8.06亿美元 投资者日或公布五年增长蓝图]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156521</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156521</guid>
+            <pubDate>Thu, 08 Jan 2026 11:06:30 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[噱头还是技术已成熟？开年10只脑机接口概念股连板！专家：门槛高，部分企业或属炒作]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156520</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156520</guid>
+            <pubDate>Thu, 08 Jan 2026 11:06:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[全球大模型第一股诞生！智谱上市首日大涨13.17%，市值达579亿港元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156519</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156519</guid>
+            <pubDate>Thu, 08 Jan 2026 11:06:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中期协：12月全国期货交易市场成交额为90.81万亿元 同比增长58.55%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156518</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156518</guid>
+            <pubDate>Thu, 08 Jan 2026 11:05:19 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安乐工程(01977)拟出售南京佳力图不超过1625.4万股A股]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156517</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156517</guid>
+            <pubDate>Thu, 08 Jan 2026 11:05:18 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新股暗盘 | 金浔资源(03636)暗盘收涨逾35% 每手赚2124港元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156516</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156516</guid>
+            <pubDate>Thu, 08 Jan 2026 11:05:18 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新股暗盘 | 瑞博生物-B(06938)暗盘收涨29.03% 每手赚3366港元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156515</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156515</guid>
+            <pubDate>Thu, 08 Jan 2026 11:05:17 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新股暗盘 | MINIMAX-WP(00100)暗盘收涨逾26% 每手赚884港元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156514</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156514</guid>
+            <pubDate>Thu, 08 Jan 2026 11:05:17 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[昌红科技(300151.SZ)：鼎龙蔚柏半导体晶圆载具等产品获得客户采购份额]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156513</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156513</guid>
+            <pubDate>Thu, 08 Jan 2026 11:05:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[广发证券(01776)：“24广发C1”将于2026年1月12日付息]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3156512</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156512</guid>
+            <pubDate>Thu, 08 Jan 2026 11:05:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[市场关注委内瑞拉和美国制裁计划，油价上涨 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjJYNkdQWVUtTEJaQlBYVG1lR1pQRDkxVVNnMHg1cUtYZVJ5amxrTy1DSkN6YUF4Tk1jNFRReEdiQmhXekJSOEpUOUI5MEJRX3lZdk5BOVJDNFhjcno0VGZGdGV2UTBTdzc2Q01zd3Frd1dILW1FRmZ2eHBQdW5BUWZMQUg4dE9hdy1uM3FYWWlKR0Z1T3UzNUpRdlFhUnowVk5j?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjJYNkdQWVUtTEJaQlBYVG1lR1pQRDkxVVNnMHg1cUtYZVJ5amxrTy1DSkN6YUF4Tk1jNFRReEdiQmhXekJSOEpUOUI5MEJRX3lZdk5BOVJDNFhjcno0VGZGdGV2UTBTdzc2Q01zd3Frd1dILW1FRmZ2eHBQdW5BUWZMQUg4dE9hdy1uM3FYWWlKR0Z1T3UzNUpRdlFhUnowVk5j?oc=5</guid>
+            <pubDate>Thu, 08 Jan 2026 10:58:38 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 市场关注委内瑞拉和美国制裁计划，油价上涨 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国将对Meta收购人工智能初创公司Manus一事进行评估和调查 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQbi12Snlqc0JOcG1kQjVvcl91WTFwYXUwS1F4WWRrVVRCTDZOQnZtTmRjNzlNeFRoX3E1ak5aLTdNbFhnY3cwWDNpNHhsajdLZmkwMkNGZDhyLVEyQmhRMlF4VzVpWnFzeXZndUFuVVhmWFFRdElsc3I5MWxTck1zMVhoa1hRclhuemtqU1VWTmtEU2I5NUV4MEVrc0ctZmljQ0xpaGdiRXNNdFdieERha3BlWWU5N3FLN0E?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxQbi12Snlqc0JOcG1kQjVvcl91WTFwYXUwS1F4WWRrVVRCTDZOQnZtTmRjNzlNeFRoX3E1ak5aLTdNbFhnY3cwWDNpNHhsajdLZmkwMkNGZDhyLVEyQmhRMlF4VzVpWnFzeXZndUFuVVhmWFFRdElsc3I5MWxTck1zMVhoa1hRclhuemtqU1VWTmtEU2I5NUV4MEVrc0ctZmljQ0xpaGdiRXNNdFdieERha3BlWWU5N3FLN0E?oc=5</guid>
+            <pubDate>Thu, 08 Jan 2026 10:46:18 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 中国将对 Meta 收购人工智能初创公司 Manus 案进行评估和调查 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[欧洲央行金多斯表示利率适当，但不确定性非常高]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-08/ecb-s-guindos-says-rates-appropriate-uncertainty-very-high</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-08/ecb-s-guindos-says-rates-appropriate-uncertainty-very-high</guid>
             <pubDate>Thu, 08 Jan 2026 10:37:58 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 欧洲央行副行长路易斯·德金多斯表示，利率处于适当水平，但他警告称，地缘政治事件将带来“巨大的不确定性”。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[精准匹配经营周期，网商银行为何成小微普惠理财主阵地？]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156470</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156470</guid>
-            <pubDate>Thu, 08 Jan 2026 10:36:11 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[运价季节性见顶，集运指数期货反转下跌，今日大跌近9%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156468</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156468</guid>
-            <pubDate>Thu, 08 Jan 2026 10:35:44 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[南向资金追踪｜净卖出约49亿港元 大举抛售三大ETF继续加仓小米]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156467</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156467</guid>
-            <pubDate>Thu, 08 Jan 2026 10:35:43 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[豫光金铅(600531.SH)：济源投资集团拟减持不超1.71%股份]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156466</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156466</guid>
-            <pubDate>Thu, 08 Jan 2026 10:35:17 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[捷利交易宝(08017)1月8日斥资330.26万港元回购200万股]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156465</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156465</guid>
-            <pubDate>Thu, 08 Jan 2026 10:35:17 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[捷利交易宝(08017)12月新增机构客户数量7个]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156464</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156464</guid>
-            <pubDate>Thu, 08 Jan 2026 10:35:17 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[证监会同意固德电材创业板IPO注册]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156463</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156463</guid>
-            <pubDate>Thu, 08 Jan 2026 10:35:16 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高丰集团控股(02863)因期权获行使而合计发行2271万股]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156462</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156462</guid>
-            <pubDate>Thu, 08 Jan 2026 10:35:16 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[甬矽电子(688362.SH)发预增，预计2025年度归母净利润7500万元到1亿元，同比增加13.08%至50.77%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156461</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156461</guid>
-            <pubDate>Thu, 08 Jan 2026 10:35:15 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[易点云(02416)1月8日斥资25.06万港元回购10.8万股]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3156460</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3156460</guid>
-            <pubDate>Thu, 08 Jan 2026 10:35:15 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[高盛预计美国消费者将推动 2026 年股市更广泛上涨]]></title>
@@ -114,18 +142,18 @@
             <description><![CDATA[[Reuters Business] 政府称伊拉克将把 West Qurna 2 油田运营国有化 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[欧元区商业信心下滑]]></title>
-            <link>https://www.wsj.com/economy/eurozone-business-confidence-slips-43e397c3</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/eurozone-business-confidence-slips-43e397c3</guid>
-            <pubDate>Thu, 08 Jan 2026 10:26:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 衡量多个行业企业态度的关键指标的下降结束了连续四个月的情绪上升。]]></description>
-        </item>
-        <item>
             <title><![CDATA[2025 年最佳股票交易持续进行，问题是持续多久]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-08/best-stock-trade-of-2025-keeps-running-question-is-for-how-long</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-08/best-stock-trade-of-2025-keeps-running-question-is-for-how-long</guid>
             <pubDate>Thu, 08 Jan 2026 10:10:35 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 2025年股市最热的角落在新的一年里仍然炙手可热，但持续的势头让一些华尔街专业人士怀疑逆转是否即将到来。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高盛策略师表示高估值使股市面临风险]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-08/goldman-strategists-say-high-valuations-put-equities-at-risk</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-08/goldman-strategists-say-high-valuations-put-equities-at-risk</guid>
+            <pubDate>Thu, 08 Jan 2026 09:57:35 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 高盛集团策略师表示，股市溢价很高，如果对经济增长的担忧加剧，股市将面临风险。]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普呼吁增加美国国防预算后欧洲国防股创下历史新高 - 路透中文网]]></title>
@@ -160,7 +188,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-01-08/hsbc-agrees-to-pay-300-million-to-end-french-tax-dividend-probes</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-08/hsbc-agrees-to-pay-300-million-to-end-french-tax-dividend-probes</guid>
             <pubDate>Thu, 08 Jan 2026 09:43:59 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 汇丰控股有限公司已同意支付约 3 亿欧元（3.5 亿美元），以了结法国的一起刑事和税务双重案件，该案件涉及其涉嫌卷入法国一些最大银行的“Cum-Cum”丑闻。]]></description>
+            <description><![CDATA[[Bloomberg] 汇丰控股有限公司同意支付约 3 亿欧元（3.5 亿美元）来解决法国的一起刑事和民事双重案件，该案件涉嫌卷入法国一些最大银行的股息税丑闻。]]></description>
         </item>
         <item>
             <title><![CDATA[法国农民推着拖拉机到巴黎抗议自由贸易协定]]></title>
@@ -191,18 +219,11 @@
             <description><![CDATA[[Bloomberg] 在摩根大通公司以强劲的前景为由建议购买该股票后，南非食品生产商的股价攀升至近八年高点。]]></description>
         </item>
         <item>
-            <title><![CDATA[意大利 2026 年首次债券发行吸引了 1,900 亿欧元的投标]]></title>
+            <title><![CDATA[意大利在创纪录的一周内撤回了 1,900 亿欧元的债券销售投标]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-08/italy-draws-190-billion-of-bids-in-first-bond-sale-of-2026</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-08/italy-draws-190-billion-of-bids-in-first-bond-sale-of-2026</guid>
             <pubDate>Thu, 08 Jan 2026 09:24:27 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着欧洲其他地区的政治不确定性重塑资金流动，意大利正利用投资者对其债务的强劲需求，通过发行双批次欧元债券启动其 2026 年融资计划。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[市场权衡美国燃料库存增加和委内瑞拉影响，油价稳定 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjJYNkdQWVUtTEJaQlBYVG1lR1pQRDkxVVNnMHg1cUtYZVJ5amxrTy1DSkN6YUF4Tk1jNFRReEdiQmhXekJSOEpUOUI5MEJRX3lZdk5BOVJDNFhjcno0VGZGdGV2UTBTdzc2Q01zd3Frd1dILW1FRmZ2eHBQdW5BUWZMQUg4dE9hdy1uM3FYWWlKR0Z1T3UzNUpRdlFhUnowVk5j?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjJYNkdQWVUtTEJaQlBYVG1lR1pQRDkxVVNnMHg1cUtYZVJ5amxrTy1DSkN6YUF4Tk1jNFRReEdiQmhXekJSOEpUOUI5MEJRX3lZdk5BOVJDNFhjcno0VGZGdGV2UTBTdzc2Q01zd3Frd1dILW1FRmZ2eHBQdW5BUWZMQUg4dE9hdy1uM3FYWWlKR0Z1T3UzNUpRdlFhUnowVk5j?oc=5</guid>
-            <pubDate>Thu, 08 Jan 2026 09:23:34 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 市场打压美国燃料库存增加和委内瑞拉影响，油价稳定 路透]]></description>
+            <description><![CDATA[[Bloomberg] 意大利和葡萄牙的全球债券销售本周创下历史新高，周四将推出大型政府债券交易，同时还有大量企业和金融产品发行。]]></description>
         </item>
         <item>
             <title><![CDATA[Equinor 签署价值 100 亿美元的交易以维持挪威产出]]></title>
@@ -254,6 +275,13 @@
             <description><![CDATA[[WSJ] 11 月份总订单环比增长 5.6%，随着关税不确定性消退，大规模订单再次提振工厂行业。]]></description>
         </item>
         <item>
+            <title><![CDATA[沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨13%，金属齐跌，多晶硅跌停 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE56OU93WE1GS3kzZWZLWE9WNVh4cF84TU9SUElzc1lXdlpfa0RJYWFrZHZjRkVkLVJlbjlZN1ZIcTB0Q1VTOGllbWZUdUUyZWN4Vlp3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE56OU93WE1GS3kzZWZLWE9WNVh4cF84TU9SUElzc1lXdlpfa0RJYWFrZHZjRkVkLVJlbjlZN1ZIcTB0Q1VTOGllbWZUdUUyZWN4Vlp3?oc=5</guid>
+            <pubDate>Thu, 08 Jan 2026 08:43:57 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨13%，金属齐跌，多晶硅跌停  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[亿万富翁卡斯特帝国的继承人在罢免首席执行官的竞标中失败]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-08/heirs-to-billionaire-castel-s-beer-empire-lose-bid-to-oust-ceo</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-08/heirs-to-billionaire-castel-s-beer-empire-lose-bid-to-oust-ceo</guid>
@@ -294,20 +322,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2gybUYwN0JMSlBxNmp1bHU4ZDZ5ZlVkNkZSU3hZUFdfR19naUFEZzhTUDNtdlZMcmdGOFEwRHc4YmttQzUyWWJudk55LXNZWGJJREFDel92RW5jU0U4WFJUZXNYSlZJSWxuUUJfMHFPX3FXZk5MTTVXWnNhQm0yUEQ3NXJWMzdFcDVMbDI1RE1hdDRZN3cxVDJZc0UzbWF0Yjk0aFJiY1phY04wVFB3cGhR?oc=5</guid>
             <pubDate>Thu, 08 Jan 2026 08:03:20 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 沃尔沃汽车旨在通过新型中型电动 SUV 解决里程焦虑 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国将对Meta收购人工智能初创公司Manus一事进行评估和调查 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQbi12Snlqc0JOcG1kQjVvcl91WTFwYXUwS1F4WWRrVVRCTDZOQnZtTmRjNzlNeFRoX3E1ak5aLTdNbFhnY3cwWDNpNHhsajdLZmkwMkNGZDhyLVEyQmhRMlF4VzVpWnFzeXZndUFuVVhmWFFRdElsc3I5MWxTck1zMVhoa1hRclhuemtqU1VWTmtEU2I5NUV4MEVrc0ctZmljQ0xpaGdiRXNNdFdieERha3BlWWU5N3FLN0E?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxQbi12Snlqc0JOcG1kQjVvcl91WTFwYXUwS1F4WWRrVVRCTDZOQnZtTmRjNzlNeFRoX3E1ak5aLTdNbFhnY3cwWDNpNHhsajdLZmkwMkNGZDhyLVEyQmhRMlF4VzVpWnFzeXZndUFuVVhmWFFRdElsc3I5MWxTck1zMVhoa1hRclhuemtqU1VWTmtEU2I5NUV4MEVrc0ctZmljQ0xpaGdiRXNNdFdieERha3BlWWU5N3FLN0E?oc=5</guid>
-            <pubDate>Thu, 08 Jan 2026 07:48:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 中国将对 Meta 收购人工智能初创公司 Manus 案进行评估和调查 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨10%，金属齐跌，多晶硅跌停 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE56OU93WE1GS3kzZWZLWE9WNVh4cF84TU9SUElzc1lXdlpfa0RJYWFrZHZjRkVkLVJlbjlZN1ZIcTB0Q1VTOGllbWZUdUUyZWN4Vlp3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE56OU93WE1GS3kzZWZLWE9WNVh4cF84TU9SUElzc1lXdlpfa0RJYWFrZHZjRkVkLVJlbjlZN1ZIcTB0Q1VTOGllbWZUdUUyZWN4Vlp3?oc=5</guid>
-            <pubDate>Thu, 08 Jan 2026 07:37:19 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨10%，金属齐跌，多晶硅跌停  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[由于购物者削减开支，特易购的假日销售令人失望]]></title>
@@ -467,7 +481,7 @@
             <title><![CDATA[贸易商称中国炼油商预计将用伊朗原油取代委内瑞拉石油 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxORTVqbjZHRFc1Z0ZYUkxncWFHMlVjSU1EV3UtcW9ZbnBoVFZneVhYUnoySUswSkIxeTJ2QXFlN1ZNUm41OVhlNzhCcHAwdzh3NWtZQXBINl9tZmdoUzhtMXFZbE5IaEhITVlkc0l2YTN6eDVzeGxOS0x4Y19vbDVMTUt1Y0tZMmI3Vlg1UTB6SDRCdXZ6UXU2TkhCZU9SNFpvTVFEblRIWGE4eVpxVks2N19kdTdjNXNOMzJMVzlOU1lRcTV6eU1paU5tWQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxORTVqbjZHRFc1Z0ZYUkxncWFHMlVjSU1EV3UtcW9ZbnBoVFZneVhYUnoySUswSkIxeTJ2QXFlN1ZNUm41OVhlNzhCcHAwdzh3NWtZQXBINl9tZmdoUzhtMXFZbE5IaEhITVlkc0l2YTN6eDVzeGxOS0x4Y19vbDVMTUt1Y0tZMmI3Vlg1UTB6SDRCdXZ6UXU2TkhCZU9SNFpvTVFEblRIWGE4eVpxVks2N19kdTdjNXNOMzJMVzlOU1lRcTV6eU1paU5tWQ?oc=5</guid>
-            <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 08 Jan 2026 00:00:01 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 贸易商表示，中国炼油厂预计将用伊朗原油取代委内瑞拉石油 路透]]></description>
         </item>
         <item>
@@ -539,13 +553,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrLUpDTUQ4bE5EZ2VxQ25uYzZmSXBiMDdyZGRya29jLVJyQ2UxQ281RHRHaWVMRWlsTWp3RmE3VnItbXBmYTEzWHB1eGk3WTltX2Y3Y2ZhRVE1enlTRG1od0dB?oc=5</guid>
             <pubDate>Wed, 07 Jan 2026 23:09:00 GMT</pubDate>
             <description><![CDATA[[财新网] 财经早知道｜中国外储创10年新高 央行连续14个月增持黄金  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国人工智能公司智普首次亮相，落后于硬件同行]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-07/china-s-openai-rival-zhipu-debuts-in-hk-after-558-million-ipo</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-07/china-s-openai-rival-zhipu-debuts-in-hk-after-558-million-ipo</guid>
-            <pubDate>Wed, 07 Jan 2026 23:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Knowledge Atlas Technology JSC Ltd. 在首次公开募股 5.58 亿美元后在香港首次公开募股，股价上涨，成为中国第一家上市的大型生成人工智能初创公司。]]></description>
         </item>
         <item>
             <title><![CDATA[下调！多家银行理财管理费降至0% - 华尔街见闻]]></title>
@@ -651,13 +658,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3F3UzVnTm5HUFQ0bzZxRFFhbjlRRDVFck9jQ1lDejZBSDdhUS1YbzNpUDl4cW5BN2NldVg5Tk9HODFjb2w2QmRBRkgxNGlTWExDNGZKYmIzdlA3Z2c4X3NZa2JFRWxXV1FlYWVEQ3JBUmRGR2gtcVZUZUlBUnp0UVhfV0kxc1l4UGJvbW1oM2dIZkJpaU1rQXlwclkxOTVSQWtsb3RIZi14dWE0Nk1MdHJlWnpRY3k4?oc=5</guid>
             <pubDate>Wed, 07 Jan 2026 19:49:09 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 委内瑞拉国家石油公司表示与美国的石油供应谈判取得进展 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[法国巴黎银行在苏丹判决中败诉 2100 万美元]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-07/bnp-paribas-loses-bid-to-throw-out-21-million-sudan-verdict</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-07/bnp-paribas-loses-bid-to-throw-out-21-million-sudan-verdict</guid>
-            <pubDate>Wed, 07 Jan 2026 19:47:20 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 纽约一名法官驳回了法国巴黎银行要求撤销对该银行 2,075 万美元赔偿金的判决的请求，因为该银行资助了在苏丹广泛侵犯人权的政权。]]></description>
         </item>
         <item>
             <title><![CDATA[油价下跌，加元创10个月来最长单日下跌 - 路透中文网]]></title>
