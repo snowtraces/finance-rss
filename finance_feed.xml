@@ -4,86 +4,108 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 09 Jan 2026 06:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 06:58:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[Natixis CIB 的 Narain 谈亚太地区并购展望]]></title>
+            <title><![CDATA[在三月份关键会议之前，中国房地产支持的希望上升]]></title>
+            <link>https://www.cnbc.com/2026/01/09/china-property-slump-policy-shift-qiushi-2026-ahead-march-meeting.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/01/09/china-property-slump-policy-shift-qiushi-2026-ahead-march-meeting.html</guid>
+            <pubDate>Fri, 09 Jan 2026 06:44:40 GMT</pubDate>
+            <description><![CDATA[[CNBC] 在一次重大政策会议之前，在一份旗舰期刊敦促采取更强有力的房地产措施后，中国可能正在重新评估其做法。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[富时 100 指数将因矿业大型交易谈判而上涨]]></title>
+            <link>https://www.bloomberg.com/news/live-blog/2026-01-09/ftse-100-live-glencore-rio-tinto-trump-oil-pound-bonds-what-s-moving-uk-markets-right-now-markets-today</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2026-01-09/ftse-100-live-glencore-rio-tinto-trump-oil-pound-bonds-what-s-moving-uk-markets-right-now-markets-today</guid>
+            <pubDate>Fri, 09 Jan 2026 06:42:27 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2026年首个非农夜：今晚美国就业数据会出“幺蛾子”吗？]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158101</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158101</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:36 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[东方证券：维持李宁(02331)“买入”评级 目标价为25.41港元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158100</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158100</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:14 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[花旗：升汇丰控股(00005)目标价至138.3港元 预计27至2028年RoTE达19%至20%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158099</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158099</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:13 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[里昂：升泰格医药(03347)目标价至57.2港元 重申“跑赢大市”评级]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158098</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158098</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:13 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[西部证券：长丝链景气度上行 2026年供需格局改善盈利有望增长]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158097</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158097</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:13 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[港股异动 | 汇量科技(01860)涨超8% 机构看好AI程序化广告作为蓝海赛道的潜力]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158096</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158096</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:12 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[港股异动 | 先健科技(01302)现涨超4% G-iliacPro髂动脉覆膜支架系统获药监局正式注册批准]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158095</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158095</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:12 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[光大证券：PEEK未来需求空间增长广阔 迎来发展黄金期]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158094</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158094</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LSEG：2025年度全球涉及中国内地的并购交易总额达4743亿美元 同比增长62.6%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158093</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158093</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CINNO Research简评1月手机面板行情：存储成本高企叠加淡季效应 价格全面承压]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3158092</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158092</guid>
+            <pubDate>Fri, 09 Jan 2026 06:35:10 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印度7.4%的增长：强烈信号还是误导性标题？]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-01-09/india-s-7-4-growth-strong-signal-or-misleading-headline</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-09/india-s-7-4-growth-strong-signal-or-misleading-headline</guid>
+            <pubDate>Fri, 09 Jan 2026 06:31:48 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 印度经济增长7.4%，但它真的像看上去那么强劲吗？
+ 印度前首席经济顾问梅纳卡·多西在《洞察哈斯琳达·阿明》节目中详细分析了这些数字，警告不要过度自信。 他强调了名义指标放缓、GDP 趋势放缓以及关税冲击和地缘政治紧张局势等外部压力。   （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Natixis CIB 的 Narain 谈亚太地区并购前景]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-01-09/natixis-cib-s-narain-on-apac-m-a-outlook-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-09/natixis-cib-s-narain-on-apac-m-a-outlook-video</guid>
             <pubDate>Fri, 09 Jan 2026 06:12:48 GMT</pubDate>
             <description><![CDATA[[Bloomberg] Natixis CIB 亚太区投资银行业务主管 Raghu Narain 分享了他对 2026 年亚太地区交易的展望——从并购势头到科技、能源转型和区域增长的机遇。 他与保罗·艾伦 (Paul Allen) 一起独家参与彭博社与哈斯琳达·阿明 (Haslinda Amin) 的洞察。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[台湾股市收低；截至收盘台湾加权指数下跌0.46%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3158070</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158070</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:17 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港元拆息全线向下 一个月拆息报2.86%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3158069</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158069</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:16 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港股异动 | 老铺黄金(06181)涨超5% 元旦期间销售动能仍强 花旗看好其盈利能力延续]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3158068</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158068</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:15 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[斯蒂菲尔点名两大建材股为2026年增长首选；看好基建巨大上行空间]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3158067</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3158067</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:15 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新股消息 | 传长和(00001)旗下屈臣氏聘请高盛、瑞银推进上市事宜]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3158066</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158066</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:15 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[港股异动 | 晶泰控股(02228)午后涨超7% 与晶科能源签署AI高通量叠层太阳能电池项目合作协议]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3158065</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158065</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:15 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中金：中国品牌有望凭借技术创新力打开北美割草机器人市场]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3158064</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158064</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:14 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港交易所将于1月19日推出百济神州(06160)等六只新股票期权]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3158063</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158063</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:14 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[花旗：料海南免税销售复苏推动中国中免(01880)上季盈利改善 目标价升至100港元]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3158062</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158062</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西部证券：核聚变工程可行性验证提速 板块投资机会值得重视]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3158061</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3158061</guid>
-            <pubDate>Fri, 09 Jan 2026 06:05:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[随着中国的崛起，美国与海湾地区的关系发生转变]]></title>
@@ -145,7 +167,7 @@
             <title><![CDATA[通用汽车将因电动汽车业务缩减而减记 60 亿美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlo2Z09fQXI2ZFhsOGpvT1hVQkFsTHRhMnJLYTAya3lmRkdzVWRWdkZYdTNwcm4xdjJreXk5dFNDMEp2b0UzZ0FfaUV0Y2k1UUlKSnUyRjNVemNsQ0hzZnlIenZZZjRxMVVmZU1MNTFvUldxVGZRaURTU18wUFd4UzkxOFhiZ09ocElrM2d6ZC1hVER1OWMwdkRZQXNnYWJ4aGNGSGtPTHU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlo2Z09fQXI2ZFhsOGpvT1hVQkFsTHRhMnJLYTAya3lmRkdzVWRWdkZYdTNwcm4xdjJreXk5dFNDMEp2b0UzZ0FfaUV0Y2k1UUlKSnUyRjNVemNsQ0hzZnlIenZZZjRxMVVmZU1MNTFvUldxVGZRaURTU18wUFd4UzkxOFhiZ09ocElrM2d6ZC1hVER1OWMwdkRZQXNnYWJ4aGNGSGtPTHU?oc=5</guid>
-            <pubDate>Fri, 09 Jan 2026 05:11:00 GMT</pubDate>
+            <pubDate>Fri, 09 Jan 2026 05:11:49 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 通用汽车将因电动汽车撤资而减记 60 亿美元 路透]]></description>
         </item>
         <item>
@@ -303,20 +325,6 @@
             <description><![CDATA[[华尔街见闻] 特朗普为何盯上格陵兰？战略要地之外，这座冰封岛屿埋着“关键资源”  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[欧亚大陆的王说委内瑞拉不是台湾的模板]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-01-09/venezuela-is-no-template-for-taiwan-eurasia-s-wang-says-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-09/venezuela-is-no-template-for-taiwan-eurasia-s-wang-says-video</guid>
-            <pubDate>Fri, 09 Jan 2026 02:16:20 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 尽管美国在委内瑞拉的行动可能会引发与中国的新冲突，但欧亚集团中国区总监王丹表示，这不会让北京有勇气通过武力夺取台湾。 她认为中国将对拉美采取更加谨慎的策略，并可能加大对台湾的经济压力。   （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[礼来公司支持的 Aktis Oncology 在美国 IPO 中获得 3.177 亿美元资金]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-09/eli-lilly-backed-aktis-oncology-gets-317-7-million-in-us-ipo</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-09/eli-lilly-backed-aktis-oncology-gets-317-7-million-in-us-ipo</guid>
-            <pubDate>Fri, 09 Jan 2026 02:08:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Aktis Oncology Inc. 是一家临床阶段的生物技术公司，礼来公司 (Eli Lilly & Co.) 是其支持者之一，该公司在首次公开募股中筹集了 3.177 亿美元，发行价格为市场区间的最高价。]]></description>
-        </item>
-        <item>
             <title><![CDATA[新加坡纳斯达克挂牌交易吸引了人们的兴趣，但门槛和流动性可能会限制吸收 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxONzNjV0hpQm1wd0tOdDRHaC01bnYySlQ2eF9qR2lOaG5TMzNXZHJfV0dyTW1NWDdBX1ZpSF9MZmJVM05UTGJ5VU53bi1SY3V6eFRzbjFiNjN2bnplSmxBRXdYbVpYUVNmMC0xUWV6bmpZQ0MwcXhHcjhsZjhEV3JibDJkUmh3ZXB6bUV1TGVWd2xfN3lXam1hblFMejI3N2RqeGtjR3Foci1GeE5ieHFaa3RxN0M2eEJWQjZ0aDNjQk53NWJsZ19V?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxONzNjV0hpQm1wd0tOdDRHaC01bnYySlQ2eF9qR2lOaG5TMzNXZHJfV0dyTW1NWDdBX1ZpSF9MZmJVM05UTGJ5VU53bi1SY3V6eFRzbjFiNjN2bnplSmxBRXdYbVpYUVNmMC0xUWV6bmpZQ0MwcXhHcjhsZjhEV3JibDJkUmh3ZXB6bUV1TGVWd2xfN3lXam1hblFMejI3N2RqeGtjR3Foci1GeE5ieHFaa3RxN0M2eEJWQjZ0aDNjQk53NWJsZ19V?oc=5</guid>
@@ -335,7 +343,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-01-09/chinese-inflation-reaches-34-month-high-in-pickup-driven-by-food</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-09/chinese-inflation-reaches-34-month-high-in-pickup-driven-by-food</guid>
             <pubDate>Fri, 09 Jan 2026 01:38:38 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 上个月，中国消费者价格上涨加速，主要归功于食品成本上涨，在缺乏更强有力的刺激措施的情况下，通货紧缩风险困扰着世界第二大经济体。]]></description>
+            <description><![CDATA[[Bloomberg] 上个月，中国消费者价格上涨加速，主要是由于食品成本上涨，在缺乏更强有力的刺激措施的情况下，通货紧缩风险困扰着世界第二大经济体。]]></description>
         </item>
         <item>
             <title><![CDATA[今日开盘：小幅高开 沪指涨幅0.09% - 财新]]></title>
@@ -352,13 +360,6 @@
             <description><![CDATA[[Reuters Business] 如果允许，印度信实集团将考虑购买委内瑞拉石油 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[NBA 球星杰伦·布朗谈创业目标和球员股权]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-01-09/nba-s-jaylen-brown-on-entrepreneurial-goals-union-role-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-09/nba-s-jaylen-brown-on-entrepreneurial-goals-union-role-video</guid>
-            <pubDate>Fri, 09 Jan 2026 00:28:15 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 布隆伯格与波士顿凯尔特人队的杰伦·布朗进行了炉边谈话。 杰伦是四届 NBA 全明星、总决赛 MVP、企业家和慈善家。 谈话重点是他在波士顿地区建立现代黑人华尔街的努力以及他的其他慈善和创业活动。 布朗还讨论了他在 NBA 球员工会中的领导角色。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[NBA 球星杰伦·布朗呼吁球员公平]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-01-09/nba-star-jaylen-brown-calls-for-player-equity-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-09/nba-star-jaylen-brown-calls-for-player-equity-video</guid>
@@ -371,6 +372,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRlZJcnNUT3FyQ2VQQkFHeXBFVTdRakYya3NiOW13clFrdm9GLXZrMWxhOGtCUnA1TGdGaEI2Z1lZWVVfdklaaThhMzFJMzNDT2NteTAzUnhjTnNxYW85VTRnbEVSa3VnOThqMWNHRzZBNXV0NFVmR3dpSlJtR2hOX3ppcFdxUElOM0g5N0h3RjBXelFFRUQwTWVnVUdudXNNSEVGSjBKWVkxTms?oc=5</guid>
             <pubDate>Fri, 09 Jan 2026 00:10:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 科技股下跌、国防股上涨，华尔街收盘涨跌互现 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着交易商将注意力转向美国数据，金价每周上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-08/gold-steadies-as-traders-look-to-us-jobs-data-for-rate-cut-clues</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-08/gold-steadies-as-traders-look-to-us-jobs-data-for-rate-cut-clues</guid>
+            <pubDate>Thu, 08 Jan 2026 23:58:50 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于交易员关注周五公布的美国就业数据，以寻找美联储下一步利率举措的线索，金价每周上涨。]]></description>
         </item>
         <item>
             <title><![CDATA[当万亿巨头开始“囤积”大脑，一场保险业的“人才认知突围战”已打响 - 华尔街见闻]]></title>
@@ -412,7 +420,7 @@
             <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNV01MSERCVVp4alhpQmRza2JIN0o2U2tna2JuR3ZOTGpiOERUS1pWeFdjN3oyRXdpM2MwUXVSME9WVmJDVVZNNE1tRWQ0d1NHYzltV1lFT0Zsa0l6clBRYko1NjZrTXgzUVMwUU9scEtJS05JVGVncFMzM2RqanBYZklwT0xVUUZlcC1vb2lNNEk4NHEwbWVUcE5HMURzeGpJdFJZZ193?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxNV01MSERCVVp4alhpQmRza2JIN0o2U2tna2JuR3ZOTGpiOERUS1pWeFdjN3oyRXdpM2MwUXVSME9WVmJDVVZNNE1tRWQ0d1NHYzltV1lFT0Zsa0l6clBRYko1NjZrTXgzUVMwUU9scEtJS05JVGVncFMzM2RqanBYZklwT0xVUUZlcC1vb2lNNEk4NHEwbWVUcE5HMURzeGpJdFJZZ193?oc=5</guid>
             <pubDate>Thu, 08 Jan 2026 23:22:39 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 巴尔干地区雨雪肆虐，阿尔巴尼亚发生洪水，造成一人死亡 - 路透中文网]]></description>
+            <description><![CDATA[[Reuters Business] 由于雨雪袭击巴尔干地区，阿尔巴尼亚发生洪水，造成一人死亡 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯袭击导致乌克兰东南部工业区陷入停电 - 路透中文网]]></title>
@@ -471,11 +479,11 @@
             <description><![CDATA[[Reuters Business] 巴拿马表示一年前取消了美国扣押油轮的旗帜 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[在就业数据和关税裁决之前，股市区间波动：市场总结]]></title>
+            <title><![CDATA[美元在就业数据和关税裁决之前小幅上涨：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-08/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-08/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Thu, 08 Jan 2026 22:16:58 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在周五美国非农就业报告发布以及最高法院可能对唐纳德·特朗普总统的关税做出裁决之前，亚洲股市窄幅波动。]]></description>
+            <description><![CDATA[[Bloomberg] 由于投资者等待周五的美国就业报告以及最高法院可能对唐纳德·特朗普总统的关税做出裁决，美元与美国国债收益率一起上涨。 油价延续涨势。]]></description>
         </item>
         <item>
             <title><![CDATA[一些鲸鱼在新西兰告别角搁浅，六头死亡 - 路透中文网]]></title>
@@ -497,6 +505,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT2lYWVZuQjZoaldNNUhUN2lRSUx6T3A5MXBPWHVhM1BwVnExOVMwV3Q1bkNlXzVsMW9YQkF3Ym9NcmRTeWpJd1VpZTA3NmFDOUZDVFVHWmJjakFvRFg1d19TbGxMXzh4NjJpTTFZb3hCM2xPdXhHc3pyMEotMFBvZldoY3BOc3BfWXd0NmJna3hta3ZQMUp1TzNldkFGTEctZ0t5ZDFVZmJqaV80NE5SRW5Xb3ZyTDZ3ZWRLZ2JxVmRFUQ?oc=5</guid>
             <pubDate>Thu, 08 Jan 2026 21:08:34 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：消息人士称，大型科技公司在欧盟数字监管改革中未遵守严格规定 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[贝森特称最大的石油公司在委内瑞拉的行动可能会放缓 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVpLWjVNSVJtSFpWMllGaXM2REhxRVhQUFptU0F1aFJkQ1lrbU9Tc1ZJVUpYQ2ZEM0J5NkhLcUs0eWJLdHZuel8tODVNZXhJVXZGdndUR0dEUkdkWThUQnk0dzBrVnphWWlaRXlFNlRGeEx3TUJ5ckx4dHRwRl9mR2xpdjNIaXVwQnZpQmF3dXpvNDA0M0RMLTBnX3o4S1hEeEhpN1BzejMyWDNnaGJ0ODgtcG9HYW1sWDhF?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVpLWjVNSVJtSFpWMllGaXM2REhxRVhQUFptU0F1aFJkQ1lrbU9Tc1ZJVUpYQ2ZEM0J5NkhLcUs0eWJLdHZuel8tODVNZXhJVXZGdndUR0dEUkdkWThUQnk0dzBrVnphWWlaRXlFNlRGeEx3TUJ5ckx4dHRwRl9mR2xpdjNIaXVwQnZpQmF3dXpvNDA0M0RMLTBnX3o4S1hEeEhpN1BzejMyWDNnaGJ0ODgtcG9HYW1sWDhF?oc=5</guid>
+            <pubDate>Thu, 08 Jan 2026 21:01:09 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 贝森特表示，最大的石油公司在委内瑞拉的行动可能会放缓 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普为何追逐机构购房者：他们主导亚特兰大、杰克逊维尔等市场]]></title>
@@ -693,20 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxON05kd29GeENLekZMSDNRbHU1cWc0STl5MHQ5SW95R3ZjWVU5cEZHLVcySHlwMm4zMjJLYUh6YjRvQlp3ZXJqakJWRXlRbzB3alRYdU83aGpvd25lRUtua2NNSGM5dG5WWHRCY1p3U0ZUVFk5MjJickxzeXoyUFYyY0thTGozU2NaTExfMFl1VmVXdV92TWZRYm1YdkdVZUQ3RE9MTWpB?oc=5</guid>
             <pubDate>Thu, 08 Jan 2026 14:43:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 由于进口下降，美国 10 月份贸易赤字创 2009 年以来最低水平 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普呼吁增加美国军事预算后全球国防股上涨 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxObi1ZOF9adUd1c0xXRDZsREU3WjVyN0FuYWZLd0JlU1J5MTJuNEw5ZUpOcVF2QkY5ZUNOWGpPSXdfaURNLTlLZVJKRHM1bG1rS3NDRjFGNE9HdjV5MGY2TTdqa19oSDNXNnZHWUpoWXJNZ2NTZHJ2YVk2QW9HNEZJdTB4R196UUxCVUtRSVUyZGhRWGNGT1VkY0Z6dXNvMXhOWkhvTVE5TUxtaWJNSXZkaklJMkxmWG9LZTV4U3g0Nm9hQlFzbHk4Sy10c3hNRVpXOTB1dXRCTFc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2AFBVV95cUxObi1ZOF9adUd1c0xXRDZsREU3WjVyN0FuYWZLd0JlU1J5MTJuNEw5ZUpOcVF2QkY5ZUNOWGpPSXdfaURNLTlLZVJKRHM1bG1rS3NDRjFGNE9HdjV5MGY2TTdqa19oSDNXNnZHWUpoWXJNZ2NTZHJ2YVk2QW9HNEZJdTB4R196UUxCVUtRSVUyZGhRWGNGT1VkY0Z6dXNvMXhOWkhvTVE5TUxtaWJNSXZkaklJMkxmWG9LZTV4U3g0Nm9hQlFzbHk4Sy10c3hNRVpXOTB1dXRCTFc?oc=5</guid>
-            <pubDate>Thu, 08 Jan 2026 14:39:23 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 特朗普呼吁增加美国军事预算后，全球国防股上涨 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界经济论坛调查显示2025年营商环境将变得更加艰难 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWtjTnQ2OV9QYTk0N05tVzdZcXJybWU0ZVlLZ0lIWTk5U1Zsa2V0bXl0Z1d4Xy15SmVaRGprOS1vN1lBR0h5V0hfNnJHOGVTT3NaVEVKcHVVa29lQjNRb09RQWgwYTZGWG9nczBCaW1obW1yNmYwSElZenR0bE1tTlEzcXk2am92cTBEdGJpMy1TTWlXTmg3eUJ5ZlR5ay1USUJfc0I3elVWMEdyM3lUc0RveWNjSjA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxOZWtjTnQ2OV9QYTk0N05tVzdZcXJybWU0ZVlLZ0lIWTk5U1Zsa2V0bXl0Z1d4Xy15SmVaRGprOS1vN1lBR0h5V0hfNnJHOGVTT3NaVEVKcHVVa29lQjNRb09RQWgwYTZGWG9nczBCaW1obW1yNmYwSElZenR0bE1tTlEzcXk2am92cTBEdGJpMy1TTWlXTmg3eUJ5ZlR5ay1USUJfc0I3elVWMEdyM3lUc0RveWNjSjA?oc=5</guid>
-            <pubDate>Thu, 08 Jan 2026 14:16:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 世界经济论坛调查显示 2025 年营商环境将变得更加艰难 路透]]></description>
         </item>
     </channel>
 </rss>
