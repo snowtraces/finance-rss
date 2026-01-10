@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 10 Jan 2026 07:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 07:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[香港电台称股票印花税可能带来香港经营盈余]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-10/stock-stamp-duty-may-hand-hong-kong-operating-surplus-rthk-says</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-10/stock-stamp-duty-may-hand-hong-kong-operating-surplus-rthk-says</guid>
+            <pubDate>Sat, 10 Jan 2026 07:15:36 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 财政司司长陈茂波周六对香港电台表示，股票交易印花税收入的增加可能使香港政府能够比预期更快地将日常预算恢复到盈余。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[默沙东前功勋高管坐镇，癌症药研发新星Eikon Therapeutics(EIKN.US)冲刺美股IPO]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3159706</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3159706</guid>
+            <pubDate>Sat, 10 Jan 2026 07:06:36 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[Veradermics(MANE.US)提交美股IPO申请 拟为口服生发药商业化铺路]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3159703</link>
@@ -19,7 +33,7 @@
             <title><![CDATA[澳大利亚丛林大火烧毁房屋，数万人断电 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQzktUzRBT1VqZlc5ZlFaaE1DRHNfUlA5Y0I1RTVyd1Y1eUgwNzlNdEdET0NpcVJmM2ludWl4bHVoSlRpNl9IZThvSlN4R3NaZUlIaWNneGh2THQtak5TUTJKUGxUdzh6YVF2Y19DSHBVaXc0NU9UdUxDZ0lVQjNQUHJYUWtsU2pKY0hrUHhSaUhTSm1HcjhiTDV1WUVPVVNNYkw5cjJ2SU5vbXVIQXVTRDRSSXlCd0RPcDRaY2w5a2ZQdjg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQzktUzRBT1VqZlc5ZlFaaE1DRHNfUlA5Y0I1RTVyd1Y1eUgwNzlNdEdET0NpcVJmM2ludWl4bHVoSlRpNl9IZThvSlN4R3NaZUlIaWNneGh2THQtak5TUTJKUGxUdzh6YVF2Y19DSHBVaXc0NU9UdUxDZ0lVQjNQUHJYUWtsU2pKY0hrUHhSaUhTSm1HcjhiTDV1WUVPVVNNYkw5cjJ2SU5vbXVIQXVTRDRSSXlCd0RPcDRaY2w5a2ZQdjg?oc=5</guid>
-            <pubDate>Sat, 10 Jan 2026 06:25:00 GMT</pubDate>
+            <pubDate>Sat, 10 Jan 2026 06:25:19 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 澳大利亚丛林大火烧毁房屋，数万人断电 路透]]></description>
         </item>
         <item>
@@ -142,13 +156,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[周黑鸭(01458)×米村拌饭官宣联名，咕嘟嘟黑鸭煲重磅上市，开创者引领黑鸭风味生态共荣]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3159661</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3159661</guid>
-            <pubDate>Sat, 10 Jan 2026 02:05:11 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国的失业率很低。 但其就业增长也是如此。 这意味着许多美国人无法获得稳定的全职工作，而且许多人都在苦苦挣扎。]]></title>
             <link>https://www.wsj.com/economy/jobs/job-market-cooling-labor-department-6d4204ed</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/jobs/job-market-cooling-labor-department-6d4204ed</guid>
@@ -180,7 +187,7 @@
             <title><![CDATA[Bessent表示，如果人们能证明资金来源，海外汇款就没问题 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQay12VTZkZ2VET25ENXE4MlVlbkJDSTA0ZUdnTXdGWGtLTENJYkNEMG9UUlZRczBMazZRQ0M3NUp4ZjZ4OWZUc3piWkRoLU5UX1Q3cGVwUjVRb0xMZTdVVzdHNWRNekQ1T0l0aGlQQUxPWFU0SHJQSjBodnlXU0dBbi1fd1dxWlo4VzdCZ1k4YVBuNXRXbkQ3LWYxd3YzWVliUE1HWUVQY29OQ2lrSllXLXJaMFp5VFhNXzM5SFhOQnBTSU8wSXlCLV9YU2Y?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxQay12VTZkZ2VET25ENXE4MlVlbkJDSTA0ZUdnTXdGWGtLTENJYkNEMG9UUlZRczBMazZRQ0M3NUp4ZjZ4OWZUc3piWkRoLU5UX1Q3cGVwUjVRb0xMZTdVVzdHNWRNekQ1T0l0aGlQQUxPWFU0SHJQSjBodnlXU0dBbi1fd1dxWlo4VzdCZ1k4YVBuNXRXbkQ3LWYxd3YzWVliUE1HWUVQY29OQ2lrSllXLXJaMFp5VFhNXzM5SFhOQnBTSU8wSXlCLV9YU2Y?oc=5</guid>
-            <pubDate>Sat, 10 Jan 2026 00:32:05 GMT</pubDate>
+            <pubDate>Sat, 10 Jan 2026 00:32:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Bessent 表示，如果人们能够证明资金来源，海外汇款就可以了 路透]]></description>
         </item>
         <item>
@@ -455,13 +462,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-09/hedge-funds-turn-more-bullish-on-oil-amid-venezuela-iran-unrest</guid>
             <pubDate>Fri, 09 Jan 2026 21:41:47 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 对冲基金将美国原油的看涨押注提高至五个月高点，因为美国抓获委内瑞拉总统尼古拉斯·马杜罗的最初冲击逐渐被伊朗致命抗议活动导致中东石油流动受阻的担忧所取代。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[华尔街的风险狂热在新年里没有任何减弱的迹象]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-09/wall-street-catches-early-cycle-fever-three-years-into-bull-run</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-09/wall-street-catches-early-cycle-fever-three-years-into-bull-run</guid>
-            <pubDate>Fri, 09 Jan 2026 21:32:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 华尔街的风险复合体正在重新繁荣。 在 2026 年的第一周，跨资产同步上涨——从表情包股票、高收益债券到小公司股票——没有显示出放缓的迹象。]]></description>
         </item>
         <item>
             <title><![CDATA[美国劳工部周五报告称，经季节调整后，美国 12 月新增就业岗位 5 万个，失业率降至 4.4%]]></title>
