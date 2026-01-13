@@ -4,16 +4,37 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 13 Jan 2026 19:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 19:39:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
+            <title><![CDATA[尽管关税造成动荡，但到 2025 年底，通胀仍相对受控，为美联储提供了一些喘息空间]]></title>
+            <link>https://www.wsj.com/economy/consumer-price-index-inflation-december-2025-5e292092</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/consumer-price-index-inflation-december-2025-5e292092</guid>
+            <pubDate>Tue, 13 Jan 2026 19:25:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 本月杂货和餐厅餐食价格大幅上涨，而汽油成本和二手车价格则下降。]]></description>
+        </item>
+        <item>
             <title><![CDATA[沃伦·巴菲特在担任伯克希尔首席执行官的最后几个月里仍在寻找可以购买的那头大象]]></title>
             <link>https://www.cnbc.com/2026/01/13/warren-buffett-still-searching-for-big-elephant-deal-in-his-final-time-as-berkshire-ceo.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/01/13/warren-buffett-still-searching-for-big-elephant-deal-in-his-final-time-as-berkshire-ceo.html</guid>
-            <pubDate>Tue, 13 Jan 2026 18:59:12 GMT</pubDate>
+            <pubDate>Tue, 13 Jan 2026 19:24:10 GMT</pubDate>
             <description><![CDATA[[CNBC] 沃伦·巴菲特于 2026 年初将首席执行官的权力移交给格雷格·阿贝尔，他明确表示，规模不是限制，机会才是。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2026年油气股票首选：沃尔夫研究强调主要推荐股]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3163961</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3163961</guid>
+            <pubDate>Tue, 13 Jan 2026 19:04:51 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[法国央行对第四季度增长略显乐观]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-13/bank-of-france-slightly-more-optimistic-on-fourth-quarter-growth</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-13/bank-of-france-slightly-more-optimistic-on-fourth-quarter-growth</guid>
+            <pubDate>Tue, 13 Jan 2026 19:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 法国央行略微上调了 2025 年最后一个季度的增长预期，突显了经济在政治和财政不确定性面前的韧性。]]></description>
         </item>
         <item>
             <title><![CDATA[摩根大通称特朗普的信用卡上限将损害消费者和经济 - 路透中文网]]></title>
@@ -69,7 +90,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-01-13/billionaire-michael-tojner-s-energy-unit-said-to-eye-ipo-this-week</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-13/billionaire-michael-tojner-s-energy-unit-said-to-eye-ipo-this-week</guid>
             <pubDate>Tue, 13 Jan 2026 18:16:21 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，发电厂和电动汽车用铜基零部件制造商 Asta Energy Solutions AG 正在考虑最早本周在法兰克福进行首次公开​​募股。]]></description>
+            <description><![CDATA[[Bloomberg] 据知情人士透露，发电厂和电动汽车所用铜基零部件制造商 Asta Energy Solutions AG 正在考虑最早本周在法兰克福进行首次公开​​募股。]]></description>
         </item>
         <item>
             <title><![CDATA[达美航空订购波音 787 飞机，依靠优质客机实现 2026 年增长​​ - 路透]]></title>
@@ -241,13 +262,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[意大利股市收低；截至收盘Investing.com 意大利 40下跌0.42%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3163914</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3163914</guid>
-            <pubDate>Tue, 13 Jan 2026 17:08:06 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[达沃斯开启新时代，应对特朗普动摇的全球秩序 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2MzSHRDbnltRlhwSTJXTldLUVRRWlhhNXBqTVRXRHhIa0oyajktbFVKMXFsQ2hrQjRGaWxXbnhjMnJQV2NodnhWU0VFWThORWI0bEl6ZHBVS1MyMW1lbHNGWkpMcERsek9LSHUyeHYyX1FwTXVXR2prVEpKVWZGNGRRd0UwNE9ZODRvdktoT0d2WVppX2JTX205YlNwMk5jdlVqSjUxX2RtRlNZYkpQS3BSWWNLdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOd2MzSHRDbnltRlhwSTJXTldLUVRRWlhhNXBqTVRXRHhIa0oyajktbFVKMXFsQ2hrQjRGaWxXbnhjMnJQV2NodnhWU0VFWThORWI0bEl6ZHBVS1MyMW1lbHNGWkpMcERsek9LSHUyeHYyX1FwTXVXR2prVEpKVWZGNGRRd0UwNE9ZODRvdktoT0d2WVppX2JTX205YlNwMk5jdlVqSjUxX2RtRlNZYkpQS3BSWWNLdw?oc=5</guid>
@@ -255,7 +269,7 @@
             <description><![CDATA[[Reuters Business] 达沃斯开启新时代，应对特朗普动摇的全球秩序 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[U.S. Bancorp 收购 BTIG 高达 10 亿美元，深化资本市场影响力 - 路透中文网]]></title>
+            <title><![CDATA[U.S. Bancorp 斥资高达 10 亿美元收购 BTIG，深化资本市场影响力 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUpnT0xkVnJmRjdTSExHSF9OeDBWejlHck9lcUlhdkN1V0lFR2llbzNLck9CQUZ1WXp5M01GOG5kTnU5dzAzNkRoVXJQamxtNUFVaDlXNWZvVzR6bEpqcjFRRGV4RWppVjktSnc5c2FBZEcxd3NfSDlEbllSQlZLbldDT1k1bUw3cDczRkVkTnBHc1lwTHFBVGdoc09ZTDhtZUxsSTlHalpHdDJRQXc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUpnT0xkVnJmRjdTSExHSF9OeDBWejlHck9lcUlhdkN1V0lFR2llbzNLck9CQUZ1WXp5M01GOG5kTnU5dzAzNkRoVXJQamxtNUFVaDlXNWZvVzR6bEpqcjFRRGV4RWppVjktSnc5c2FBZEcxd3NfSDlEbllSQlZLbldDT1k1bUw3cDczRkVkTnBHc1lwTHFBVGdoc09ZTDhtZUxsSTlHalpHdDJRQXc?oc=5</guid>
             <pubDate>Tue, 13 Jan 2026 17:03:18 GMT</pubDate>
@@ -267,13 +281,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-13/kirkland-ellis-accused-of-conflict-in-private-equity-spat</guid>
             <pubDate>Tue, 13 Jan 2026 17:02:48 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 凯易律师事务所 (Kirkland & Ellis) 卷入了 Ascent Resources 投资者与私募股权公司之间的纠纷，该公司寻求筹集持续基金以延长对这家天然气生产商的持有。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一份政府报告显示，尽管关税造成动荡，但到 2025 年底，通胀仍相对受控，这给美联储带来了一些喘息空间]]></title>
-            <link>https://www.wsj.com/economy/consumer-price-index-inflation-december-2025-5e292092</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/consumer-price-index-inflation-december-2025-5e292092</guid>
-            <pubDate>Tue, 13 Jan 2026 17:01:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 本月杂货和餐厅餐食价格大幅上涨，而汽油成本和二手车价格则下降。]]></description>
         </item>
         <item>
             <title><![CDATA[美国生物科技股首周销售额创下 2021 年以来最高纪录]]></title>
@@ -344,13 +351,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/01/12/republican-sen-thom-tillis-vows-to-block-trumps-fed-nominees-following-powell-probe.html</guid>
             <pubDate>Tue, 13 Jan 2026 16:36:51 GMT</pubDate>
             <description><![CDATA[[CNBC] 特朗普在寻求取代美联储主席杰罗姆·鲍威尔时将面临来自党内的重要障碍。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普格陵兰岛会谈将丹麦克朗推向干预区]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-13/trump-greenland-talk-sends-danish-krone-toward-intervention-zone</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-13/trump-greenland-talk-sends-danish-krone-toward-intervention-zone</guid>
-            <pubDate>Tue, 13 Jan 2026 16:30:12 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国总统唐纳德·特朗普对格陵兰岛计划的不确定性导致丹麦克朗跌至六年来的最低水平，引发人们猜测央行将介入支持丹麦克朗。]]></description>
         </item>
         <item>
             <title><![CDATA[通胀增强降息押注，股市涨跌互现； 地缘政治、美联储成焦点 - 路透中文网]]></title>
@@ -493,7 +493,7 @@
             <description><![CDATA[[WSJ] 周末，特朗普总统加大了对美联储施加更多控制的力度。 以下是有关情况的基本情况。]]></description>
         </item>
         <item>
-            <title><![CDATA[CPI未能解除降息押注 美股下跌]]></title>
+            <title><![CDATA[最新CPI未能提振降息情绪 美股下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-13/s-p-500-fluctuates-following-better-than-expected-us-inflation</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-13/s-p-500-fluctuates-following-better-than-expected-us-inflation</guid>
             <pubDate>Tue, 13 Jan 2026 14:57:22 GMT</pubDate>
@@ -518,7 +518,7 @@
             <link>https://www.wsj.com/economy/global/global-economy-records-stronger-growth-but-is-on-course-for-a-weak-decade-says-world-bank-0b57300e</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/global/global-economy-records-stronger-growth-but-is-on-course-for-a-weak-decade-says-world-bank-0b57300e</guid>
             <pubDate>Tue, 13 Jan 2026 14:39:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 该银行的经济学家表示，全球经济的增长速度将快于此前的预期，但仍将迎来半个世纪以来最疲软的十年。]]></description>
+            <description><![CDATA[[WSJ] 该银行的经济学家表示，全球经济的增长速度将快于此前的预期，但仍将迎来半个世纪以来最疲弱的十年。]]></description>
         </item>
         <item>
             <title><![CDATA[卡尼访问期间中国将提供油菜籽减免以放宽电动汽车限制]]></title>
