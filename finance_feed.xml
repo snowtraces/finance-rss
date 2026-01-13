@@ -4,86 +4,93 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 13 Jan 2026 09:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 09:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[第七期表现出色的故事尚未结束：摩根士丹利（视频）]]></title>
+            <title><![CDATA[帝亚吉欧考虑出售中国资产以精简投资组合——报道]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3162800</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3162800</guid>
+            <pubDate>Tue, 13 Jan 2026 09:42:00 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[拉森和图布罗澄清科威特石油项目招标不在订单簿中]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3162798</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3162798</guid>
+            <pubDate>Tue, 13 Jan 2026 09:40:28 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美股盘前，美股期货全线下跌，日元汇率创18个月新低，比特币、原油反弹]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3162796</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162796</guid>
+            <pubDate>Tue, 13 Jan 2026 09:39:55 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[沃尔沃汽车暂停电池初创公司Novo Energy运营，裁员75人]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3162795</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3162795</guid>
+            <pubDate>Tue, 13 Jan 2026 09:37:59 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Argenx股价上涨，FDA审查Vyvgart扩大使用范围]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3162787</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3162787</guid>
+            <pubDate>Tue, 13 Jan 2026 09:37:03 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AI电商加速落地，谷歌(GOOGL.US)Gemini与零售商token需求激增成关键催化]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3162786</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162786</guid>
+            <pubDate>Tue, 13 Jan 2026 09:37:03 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大摩展望美国消费金融财报季：防御仍是主线，特朗普信用卡限息提议增添不确定性]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3162785</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162785</guid>
+            <pubDate>Tue, 13 Jan 2026 09:37:02 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[传统催收被AI干翻了？ AI 讨债人上线，一天可拨打1000通电话！暴力催收也“AI”化]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3162783</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162783</guid>
+            <pubDate>Tue, 13 Jan 2026 09:36:41 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[日本央行前委员：日元持续疲软或促使央行在4月加息]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3162781</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162781</guid>
+            <pubDate>Tue, 13 Jan 2026 09:36:07 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[债市收盘| 权益市场回调，10年国债收益率下行1BP]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3162780</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162780</guid>
+            <pubDate>Tue, 13 Jan 2026 09:36:06 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[马士基再次穿越红海以测试安全]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-13/maersk-makes-another-voyage-through-red-sea-in-test-of-safety</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-13/maersk-makes-another-voyage-through-red-sea-in-test-of-safety</guid>
+            <pubDate>Tue, 13 Jan 2026 09:27:14 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] A.P.穆勒-马士基公司已安全驾驶另一艘船穿越红海南部，这是大多数航运公司两年来避开该地区后的第二次成功尝试。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[第七期表现出色的故事尚未结束：摩根士丹利]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-01-13/mag-seven-outperformance-story-not-over-morgan-stanley-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-13/mag-seven-outperformance-story-not-over-morgan-stanley-video</guid>
             <pubDate>Tue, 13 Jan 2026 09:23:43 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌计划今年在越南开始制造高端智能手机 - 报道]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3162732</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3162732</guid>
-            <pubDate>Tue, 13 Jan 2026 09:23:04 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[掘金Q4财报季！8 只低估银行股暗藏机会]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3162728</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162728</guid>
-            <pubDate>Tue, 13 Jan 2026 09:22:42 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[米其林在季度前闭会上预示第四季度销量下降]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3162725</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3162725</guid>
-            <pubDate>Tue, 13 Jan 2026 09:16:38 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧司达股价上涨5%，美国法官解除特朗普对美国风电项目的暂停令]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3162734</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162734</guid>
-            <pubDate>Tue, 13 Jan 2026 09:16:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安赛乐米塔尔股价下跌，因伊利瓦管理员索赔70亿欧元损失]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3162720</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3162720</guid>
-            <pubDate>Tue, 13 Jan 2026 09:11:22 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[树莓派公布2025年强劲业绩，面临DRAM不确定性]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3162709</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3162709</guid>
-            <pubDate>Tue, 13 Jan 2026 09:06:36 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利(MS.US)亚洲营收创纪录 奖金池上调约20%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3162706</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162706</guid>
-            <pubDate>Tue, 13 Jan 2026 09:06:27 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[纽森强烈反对加州“巨富税”公投 称此举正逼着亿万富翁搬离]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3162703</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162703</guid>
-            <pubDate>Tue, 13 Jan 2026 09:05:41 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黄金站上4600美元仍未“超买”？WGC：真正阻力位在4770美元！]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3162702</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162702</guid>
-            <pubDate>Tue, 13 Jan 2026 09:05:41 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国首家万亿级ETF基金公司诞生]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3162701</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3162701</guid>
-            <pubDate>Tue, 13 Jan 2026 09:05:40 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <description><![CDATA[[Bloomberg] 摩根士丹利全球研究副主管迈克尔·泽扎斯讨论了七大股票的前景以及美国中小型股的表现。 他在彭博电视台发表讲话。]]></description>
         </item>
         <item>
             <title><![CDATA[日本政治比美联储、消费者物价指数更重要 - 3 分钟 MLIV]]></title>
@@ -143,11 +150,11 @@
  本次采访于 1 月 9 日播出（来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[欧洲股市的反弹现在看来是十多年来最热的]]></title>
+            <title><![CDATA[欧洲股市的涨势看起来是十多年来最严重的]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-13/rally-in-european-stocks-now-looks-hottest-in-over-a-decade</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-13/rally-in-european-stocks-now-looks-hottest-in-over-a-decade</guid>
             <pubDate>Tue, 13 Jan 2026 07:53:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 欧洲股市正在发出警告信号，表明对盈利和经济的乐观情绪推动的涨势已经走投无路。]]></description>
+            <description><![CDATA[[Bloomberg] 欧洲股市正在发出警告信号，表明由对盈利和经济的乐观情绪推动的涨势已经走投无路。]]></description>
         </item>
         <item>
             <title><![CDATA[日本提前大选； 共和党美联储的强烈反对； 特朗普的伊朗关税| 中东和非洲地平线 1/13/2025]]></title>
@@ -234,20 +241,6 @@
             <description><![CDATA[[Bloomberg] 美国总统唐纳德·特朗普表示，他将对与伊朗做生意的国家的商品征收 25% 的关税，这加大了德黑兰政府的压力。 这一消息是在伊朗发生数周大规模骚乱之后发布的，这场骚乱最初是由经济状况恶化引发的，但现在越来越多地针对该政权。 美国前驻巴林大使兼阿拉伯海湾国家研究所执行副总裁威廉·罗巴克 (William Roebuck) 接受彭博社中东和非洲地平线主播 Joumanna Bercetche 采访，讨论了该政权的未来。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[Struyven：非常关注石油供应的实际中断]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-01-13/struyven-focused-on-actual-disruptions-to-oil-supply-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-13/struyven-focused-on-actual-disruptions-to-oil-supply-video</guid>
-            <pubDate>Tue, 13 Jan 2026 06:20:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在美国总统唐纳德·特朗普表示他将对来自与伊朗有生意往来的国家的商品征收25%的关税后，油价触及11月以来的最高水平。 高盛全球大宗商品研究联席主管兼石油研究主管 Daan Struyven 接受彭博社 Horizo​​ns 中东和非洲主播 Joumanna Bercetche 采访，探讨地缘政治事件对油价的影响。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SBI 和 ICICI 基金据称将在超额认购的 Biocon 销售中主导竞标]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-13/sbi-icici-funds-said-to-lead-bids-in-oversubscribed-biocon-sale</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-13/sbi-icici-funds-said-to-lead-bids-in-oversubscribed-biocon-sale</guid>
-            <pubDate>Tue, 13 Jan 2026 06:04:06 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，印度制药商 Biocon Ltd. 吸引的需求约为其向机构投资者发行的股票的四倍，其中兴趣主要来自当地共同基金。]]></description>
-        </item>
-        <item>
             <title><![CDATA[中欧电动汽车关税达成“价格承诺”框架，2026年销量会如何？ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RdWVfOHlOMGtXc0hQdEhDcHNXWjV2QUlCa18zNFdnamZLc0J6MFQ0M3pyMmJMMWZSbzdBSDJkd3VMejlrMV9aNGcxTlVPNDYtNWU4?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RdWVfOHlOMGtXc0hQdEhDcHNXWjV2QUlCa18zNFdnamZLc0J6MFQ0M3pyMmJMMWZSbzdBSDJkd3VMejlrMV9aNGcxTlVPNDYtNWU4?oc=5</guid>
@@ -272,7 +265,7 @@
             <title><![CDATA[特朗普考虑如何应对伊朗镇压，德黑兰称与美国保持沟通 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTZFaTV3ZVlXRjBWUklIbnRmLVNXQ3J5RUdybUVxdHVDeVhOZVhudG5xSzlsQ1BLaUpjWnllMVViczJSYU45ZVNmNGp2MV9rRmRPVFdGQ05VY1VUb1FSOVVTVXh1cWhVT0g5RGZHZVZONnJHOVRGOWdVbGVPV25PUTRnRkozcm9waGNkZkJPVE1DRWVBR2FnWnhmOWNFMmZjUUZGWnNYbmxTYlVITWlXUlQ2UEEyM2JJMHFpc1FrMXpfZ1BPLW9JZ0d0TkpSbzlpVGpj?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVTZFaTV3ZVlXRjBWUklIbnRmLVNXQ3J5RUdybUVxdHVDeVhOZVhudG5xSzlsQ1BLaUpjWnllMVViczJSYU45ZVNmNGp2MV9rRmRPVFdGQ05VY1VUb1FSOVVTVXh1cWhVT0g5RGZHZVZONnJHOVRGOWdVbGVPV25PUTRnRkozcm9waGNkZkJPVE1DRWVBR2FnWnhmOWNFMmZjUUZGWnNYbmxTYlVITWlXUlQ2UEEyM2JJMHFpc1FrMXpfZ1BPLW9JZ0d0TkpSbzlpVGpj?oc=5</guid>
-            <pubDate>Tue, 13 Jan 2026 04:32:00 GMT</pubDate>
+            <pubDate>Tue, 13 Jan 2026 04:32:02 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 德黑兰称特朗普正在考虑如何应对伊朗镇压行动 路透]]></description>
         </item>
         <item>
@@ -281,6 +274,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-13/aluminum-near-record-high-and-tin-extends-surge-on-supply-angst</guid>
             <pubDate>Tue, 13 Jan 2026 04:13:58 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 铝价从三年多来的最高水平下跌，投资者开始思考金属在 2026 年强劲开局后的下一步走势。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[瑞银专家电话会：中美脑机接口技术差距有望在两年内显著缩小 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNXFtckloLXZYa3AyQmZZUVJDSm14QnFqZTBxQ1JZbVY1cEZ0cjh5dnZzejQ4S200NE5KMjZYblIyYTF6YWM5YWsySlcxUkVod2I4?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wNXFtckloLXZYa3AyQmZZUVJDSm14QnFqZTBxQ1JZbVY1cEZ0cjh5dnZzejQ4S200NE5KMjZYblIyYTF6YWM5YWsySlcxUkVod2I4?oc=5</guid>
+            <pubDate>Tue, 13 Jan 2026 03:17:45 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 瑞银专家电话会：中美脑机接口技术差距有望在两年内显著缩小  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[万科要求再次延长债券宽限期并增加抵押品]]></title>
@@ -416,13 +416,6 @@
             <description><![CDATA[[华尔街见闻] 美股财报季即将拉开帷幕  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[特朗普誓言对伊朗原油买家征收关税，油价小幅走高]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-12/latest-oil-market-news-and-analysis-for-jan-13</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-12/latest-oil-market-news-and-analysis-for-jan-13</guid>
-            <pubDate>Mon, 12 Jan 2026 23:22:30 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在美国总统唐纳德·特朗普表示，在欧佩克成员国发生一波致命骚乱后，他将对与伊朗“做生意”的国家的商品征收25%的关税后，油价触及11月以来的最高水平。]]></description>
-        </item>
-        <item>
             <title><![CDATA[随着提前大选押注的增加，高市贸易在日本卷土重来]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-12/japan-s-stocks-poised-to-jump-on-weak-yen-election-expectations</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-12/japan-s-stocks-poised-to-jump-on-weak-yen-election-expectations</guid>
@@ -507,6 +500,13 @@
             <description><![CDATA[[CNBC] 在特朗普呼吁将信用卡利率上限设定为 10% 后，第一资本 (Capital One) 股价周一下跌，而信用卡利率是该公司的主要利润驱动力。]]></description>
         </item>
         <item>
+            <title><![CDATA[Symrise 进行 4 亿欧元回购并洽谈出售业务]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-12/symrise-sees-2025-results-hurt-by-terpenes-deal-pet-care-stake</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-12/symrise-sees-2025-results-hurt-by-terpenes-deal-pet-care-stake</guid>
+            <pubDate>Mon, 12 Jan 2026 20:38:54 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Symrise AG 宣布进行 4 亿欧元（4.67 亿美元）的股票回购，并表示正在就出售其萜烯业务进行深入谈判，萜烯业务是一种用于香料和香料的化学品。]]></description>
+        </item>
+        <item>
             <title><![CDATA[拜耳看到制药业的增长，部门负责人吹捧东山再起的故事]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-12/bayer-sees-pharma-growth-as-unit-chief-touts-comeback-story</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-12/bayer-sees-pharma-growth-as-unit-chief-touts-comeback-story</guid>
@@ -542,7 +542,7 @@
             <description><![CDATA[[Reuters Business] 特朗普表示，在埃克森美孚首席执行官称委内瑞拉“不可投资”后，他可能会将其排除在委内瑞拉之外 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[欧洲央行维勒鲁瓦支持鲍威尔，认为 2026 年加息“异想天开”]]></title>
+            <title><![CDATA[欧洲央行维勒罗伊支持鲍威尔，认为 2026 年加息“异想天开”]]></title>
             <link>https://www.wsj.com/articles/ecbs-villeroy-backs-powell-sees-2026-rate-rise-as-fanciful-9721e904</link>
             <guid isPermaLink="false">https://www.wsj.com/articles/ecbs-villeroy-backs-powell-sees-2026-rate-rise-as-fanciful-9721e904</guid>
             <pubDate>Mon, 12 Jan 2026 18:02:00 GMT</pubDate>
@@ -707,7 +707,7 @@
             <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1JoOTFDcml2X1NUVFkxU2JpZ2plc1pyZ21wVkRTZ083TFJVamt0SXY1azRpQ0FSMkNDVzIwOGlyMlRvRVRpbzMyekpCVTk2b1o3eUJmZHhxNjM0Y3dMZXdRN0JUd1ExR3VhVXhyeXhoa2ZZeDJPbmVOWEFQaGpOdkp6Y2NJMk8yYmp2ZGMwTko1V054ckliVkI5a0ZZeFNHYUNGbzZDNHUwSHI2dFBaRldhR0FyRzltYmtrd1MwLXdEZFgyXzU3X3NnTVk?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1JoOTFDcml2X1NUVFkxU2JpZ2plc1pyZ21wVkRTZ083TFJVamt0SXY1azRpQ0FSMkNDVzIwOGlyMlRvRVRpbzMyekpCVTk2b1o3eUJmZHhxNjM0Y3dMZXdRN0JUd1ExR3VhVXhyeXhoa2ZZeDJPbmVOWEFQaGpOdkp6Y2NJMk8yYmp2ZGMwTko1V054ckliVkI5a0ZZeFNHYUNGbzZDNHUwSHI2dFBaRldhR0FyRzltYmtrd1MwLXdEZFgyXzU3X3NnTVk?oc=5</guid>
             <pubDate>Mon, 12 Jan 2026 11:22:44 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Counterpoint 称，到 2025 年，苹果将占据全球智能手机市场 20% 的份额]]></description>
+            <description><![CDATA[[Reuters Business] Counterpoint 称，苹果到 2025 年将占据全球智能手机市场 20% 的份额 路透]]></description>
         </item>
     </channel>
 </rss>
