@@ -4,16 +4,23 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 17 Jan 2026 17:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jan 2026 17:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[经过 25 年谈判，欧盟签署南美贸易协议]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-17/eu-inks-south-america-trade-deal-after-25-years-of-negotiations</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-17/eu-inks-south-america-trade-deal-after-25-years-of-negotiations</guid>
+            <pubDate>Sat, 17 Jan 2026 17:00:02 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 欧盟和南方共同市场周六正式签署了世界上最大的自由贸易协定之一，敲定了一项酝酿了二十多年的协议。]]></description>
+        </item>
         <item>
             <title><![CDATA[印度监管机构因 IndiGo 12 月崩溃而罚款 240 万美元]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-17/india-regulator-fines-indigo-2-4-million-over-december-meltdown</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-17/india-regulator-fines-indigo-2-4-million-over-december-meltdown</guid>
             <pubDate>Sat, 17 Jan 2026 16:42:52 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 印度民航总局周六晚间表示，已对靛蓝航空处以超过 2.2 亿卢比（240 万美元）的罚款，并谴责该航空公司高管 12 月份取消航班的行为。]]></description>
+            <description><![CDATA[[Bloomberg] 印度民航总局周六晚间表示，对靛蓝航空处以超过 2.2 亿卢比（240 万美元）的罚款，并谴责该航空公司高管 12 月份取消航班的行为。]]></description>
         </item>
         <item>
             <title><![CDATA[公募首批四季报出炉：银行股忠粉重仓中芯国际，华富新能源规模飙升16倍]]></title>
@@ -23,7 +30,7 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[2020 年美联储记录显示鲍威尔如何推销至关重要的利率指导]]></title>
+            <title><![CDATA[2020 年美联储记录显示鲍威尔如何兜售至关重要的利率指引]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-17/2020-fed-transcripts-show-how-powell-sold-fateful-rate-guidance</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-17/2020-fed-transcripts-show-how-powell-sold-fateful-rate-guidance</guid>
             <pubDate>Sat, 17 Jan 2026 15:40:02 GMT</pubDate>
@@ -41,7 +48,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-01-17/wall-street-week-fed-unity-saudi-arabia-tourism-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-17/wall-street-week-fed-unity-saudi-arabia-tourism-video</guid>
             <pubDate>Sat, 17 Jan 2026 15:14:46 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 本周，纽约联储前行长比尔·达德利讨论了司法部对美联储主席杰伊·鲍威尔的刑事调查。 而且，沙特阿拉伯正在大力发展旅游业，以实现经济多元化并改变世界对这个王国的看法。 此外，以色列战后的新兴经济，以及 Epic 和 Ikon 的发展改变了滑雪业，促进了增长，并迫使度假村和滑雪者权衡规模与体验。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 本周，纽约联储前行长比尔·达德利讨论了司法部对美联储主席杰伊·鲍威尔的刑事调查。 而且，沙特阿拉伯正在大力发展旅游业，以实现经济多元化并改变世界对这个王国的看法。 此外，以色列战后的新兴经济，以及 Epic 和 Ikon 如何改变滑雪业，促进增长，并迫使度假村和滑雪者权衡规模与体验。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[中国创新药企在2026JPM大会：“China”成为关键词，有药企创始人每天只睡4个小时]]></title>
@@ -387,13 +394,6 @@
             <description><![CDATA[[Bloomberg] 如果日本首相高市早苗提前选举计划引发的日本股市飙升可能会消退，因为超支会推高通胀和政府借贷成本。]]></description>
         </item>
         <item>
-            <title><![CDATA[委内瑞拉援引液化石油气合同签署首份天然气出口协议]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-16/venezuela-signs-first-gas-export-deal-citing-lpg-contract</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-16/venezuela-signs-first-gas-export-deal-citing-lpg-contract</guid>
-            <pubDate>Fri, 16 Jan 2026 22:50:29 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 代理总统德尔西·罗德里格斯周五表示，委内瑞拉已签署第一份液化石油气（LPG）出口合同。]]></description>
-        </item>
-        <item>
             <title><![CDATA[消息人士称，委内瑞拉银行将获得3亿美元的石油资金在外汇市场上出售 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNWlhiUkpWcFE4VnlLakNnaWdwN0xlbjVJNGxQZktkc0Z4R0tyOTRrNlNJWGxKbXRnWHp0RUI1N2ZjaXZTdWhQU292QVdDZmwwZ0hpazJEOGJFblJqSjhUUlF1NzA0YW0tRlRZLUJzdEQxU2I4V3pNTExvYU0xLTc0anZlQW0wUEEta3ZaTjVtYzhyeTVYS0RVWW9XQTN0b2tVRVMwWkgxOXctWkVNbDhCa2J3ZkF4czFHOG0xVDY4bHRKOXdheDFJNThhZ2o?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxNWlhiUkpWcFE4VnlLakNnaWdwN0xlbjVJNGxQZktkc0Z4R0tyOTRrNlNJWGxKbXRnWHp0RUI1N2ZjaXZTdWhQU292QVdDZmwwZ0hpazJEOGJFblJqSjhUUlF1NzA0YW0tRlRZLUJzdEQxU2I4V3pNTExvYU0xLTc0anZlQW0wUEEta3ZaTjVtYzhyeTVYS0RVWW9XQTN0b2tVRVMwWkgxOXctWkVNbDhCa2J3ZkF4czFHOG0xVDY4bHRKOXdheDFJNThhZ2o?oc=5</guid>
@@ -520,13 +520,6 @@
             <description><![CDATA[[Reuters Business] 美国制造业产量因初级金属激增而上升，前景不明朗 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[PNC Financial 盈利好于交易反弹预期 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxONmxERC1zbUFmb184eGloWTZxQVc5c19jb3FXX3oxRjV2YkN6TGZ1cjQwZzBkQ0tvaGd3WmdzdjdRQzVoSEVZLV84UEF3MkhlaGRGSHVaU0tRVndnRkFhaEtSWWFoUmVxUC15dUIwVklib0lGZFFtaklJRWZyUVRNRDlwNENyUzFJbkZoamhMM2RMVVpSYkJXbWx3VWY4UUhwUGhRQXc2VjUwOWFBbzRrZ1pEMFJVYXYxQW02UHRn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxONmxERC1zbUFmb184eGloWTZxQVc5c19jb3FXX3oxRjV2YkN6TGZ1cjQwZzBkQ0tvaGd3WmdzdjdRQzVoSEVZLV84UEF3MkhlaGRGSHVaU0tRVndnRkFhaEtSWWFoUmVxUC15dUIwVklib0lGZFFtaklJRWZyUVRNRDlwNENyUzFJbkZoamhMM2RMVVpSYkJXbWx3VWY4UUhwUGhRQXc2VjUwOWFBbzRrZ1pEMFJVYXYxQW02UHRn?oc=5</guid>
-            <pubDate>Fri, 16 Jan 2026 17:31:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] PNC Financial 利润超出交易反弹预期 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[外汇、债券未来一周：美国个人消费支出数据、日本央行决策、达沃斯论坛焦点]]></title>
             <link>https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-pce-data-bank-of-japan-decision-davos-forum-in-focus-5337d3c9</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-pce-data-bank-of-japan-decision-davos-forum-in-focus-5337d3c9</guid>
@@ -567,6 +560,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/01/16/stocks-making-the-biggest-moves-midday-nvo-rf-gev-vst-and-more.html</guid>
             <pubDate>Fri, 16 Jan 2026 16:49:23 GMT</pubDate>
             <description><![CDATA[[CNBC] 这些是午盘交易中涨幅最大的一些股票。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通成立新咨询小组以利用私募市场的繁荣 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnFObXVCbklwb0xMMXhnVzV5Y3hDYzlORmh1LXVxY3lUc0EwS3pNeXBQeVgyMjlfc0dIeDBxbXBDREZKbXNYQ2dVTU9iS3doTGJCbUktQjVZVmI4dWdKNERsZkx3N0ZsUWY1SExEaDJxTHNCYTJtYWZyS2JDNGp1OWpXTWJWYzJoZnlZUnVIeEU0cjJudnJwWnVTVUpXazVIb2dMYjI2RXI5WjZLRDRKOQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnFObXVCbklwb0xMMXhnVzV5Y3hDYzlORmh1LXVxY3lUc0EwS3pNeXBQeVgyMjlfc0dIeDBxbXBDREZKbXNYQ2dVTU9iS3doTGJCbUktQjVZVmI4dWdKNERsZkx3N0ZsUWY1SExEaDJxTHNCYTJtYWZyS2JDNGp1OWpXTWJWYzJoZnlZUnVIeEU0cjJudnJwWnVTVUpXazVIb2dMYjI2RXI5WjZLRDRKOQ?oc=5</guid>
+            <pubDate>Fri, 16 Jan 2026 16:27:23 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 摩根大通成立新咨询小组以利用私募市场的繁荣 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美联储鲍曼表示利率还有更大的下降空间]]></title>
@@ -709,11 +709,11 @@
             <description><![CDATA[[华尔街见闻] 胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[大摩2026全球展望：美国强经济推迟降息，日央行全年按兵不动，中国出口持续扩大... - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGYkRKbTlUZ3dYMzA2ak85ak9fSlRiZ1hYS2tBbmxKWGJFa2h2bDhmZkppZVc0b2QzYTBVRlllT1NocUx2S2Q0dmM0T1pIV3hNSkYw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGYkRKbTlUZ3dYMzA2ak85ak9fSlRiZ1hYS2tBbmxKWGJFa2h2bDhmZkppZVc0b2QzYTBVRlllT1NocUx2S2Q0dmM0T1pIV3hNSkYw?oc=5</guid>
-            <pubDate>Fri, 16 Jan 2026 10:34:25 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 大摩2026全球展望：美国强经济推迟降息，日央行全年按兵不动，中国出口持续扩大...  华尔街见闻]]></description>
+            <title><![CDATA[英国央行行长贝利呼吁政策制定者挑战民粹主义者 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNMkh3bjJQUVo0c2tSWlh2MnJTblZKZE4xOVd1UmJMcS1STTBoVzBKa3ktcUVlVEhDUWIwSmR2ZGpiMmE2NHlRb0ItbVdVTnFFTk1zMjZJNDdnM2dhcFhxLVRjTnp0NW4zX3ZqVlZzTjE1NUdveXNWSXZkdDB1QWhveXJsNHRzWkRwLS1aTjBKc0JySFlYUTRrYlV4Tm9vRzg3YUlRcTZ2YWFwM0FIOUo1WHVB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxNMkh3bjJQUVo0c2tSWlh2MnJTblZKZE4xOVd1UmJMcS1STTBoVzBKa3ktcUVlVEhDUWIwSmR2ZGpiMmE2NHlRb0ItbVdVTnFFTk1zMjZJNDdnM2dhcFhxLVRjTnp0NW4zX3ZqVlZzTjE1NUdveXNWSXZkdDB1QWhveXJsNHRzWkRwLS1aTjBKc0JySFlYUTRrYlV4Tm9vRzg3YUlRcTZ2YWFwM0FIOUo1WHVB?oc=5</guid>
+            <pubDate>Fri, 16 Jan 2026 10:52:33 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 英国央行行长贝利呼吁政策制定者挑战民粹主义者 路透]]></description>
         </item>
     </channel>
 </rss>
