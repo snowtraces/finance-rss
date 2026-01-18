@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 18 Jan 2026 22:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jan 2026 22:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[特朗普关税威胁打压亚洲风险偏好：市场总结]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-18/trump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-18/trump-tariff-threats-weigh-on-asian-risk-appetite-markets-wrap</guid>
+            <pubDate>Sun, 18 Jan 2026 22:13:21 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美国总统唐纳德·特朗普提议对八个欧洲国家征收新关税，削弱了风险偏好并提振了对避险资产的需求，周一早盘亚洲市场面临一些压力。]]></description>
+        </item>
         <item>
             <title><![CDATA[改革英国揭露另一位保守党议员叛逃]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-18/reform-uk-reveals-defection-of-second-conservative-mp-in-a-week</link>
@@ -412,13 +419,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-17/eu-aims-to-fight-industrial-decline-with-made-in-europe-law</guid>
             <pubDate>Sat, 17 Jan 2026 09:52:40 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 欧盟将提出一系列新条件，以确保成员国和外国公司在该地区做出投资决策时优先考虑本地公司，这颠覆了数十年来主导政策的自由贸易理念。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于贷款强劲增长，HDFC 银行净利润超出预期]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-17/hdfc-bank-s-net-income-exceeds-estimates-on-strong-loan-growth</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-17/hdfc-bank-s-net-income-exceeds-estimates-on-strong-loan-growth</guid>
-            <pubDate>Sat, 17 Jan 2026 09:38:59 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] HDFC Bank Ltd. 第三季度利润超出了贷款强劲增长的预期，而这家印度最大私营银行的利润率仍面临压力。]]></description>
         </item>
         <item>
             <title><![CDATA[反洗钱特别预防措施2月16日起施行 中国正接受FATF第五轮互评估 - 财新]]></title>
