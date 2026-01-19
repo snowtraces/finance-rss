@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 19 Jan 2026 10:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 11:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[摩根士丹利下调路易威登评级至"与大盘持平"，关注关税风险和有限上涨空间]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3171344</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3171344</guid>
+            <pubDate>Mon, 19 Jan 2026 10:58:42 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[欧洲防务股上涨，特朗普威胁对格陵兰岛征收关税]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3171342</link>
@@ -79,13 +86,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[远大医药(00512)创新诊断核药冲刺中国上市 TLX591-CDx积极顶线临床数据惊艳 开启国内前列腺癌诊疗新篇]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3171329</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3171329</guid>
-            <pubDate>Mon, 19 Jan 2026 10:35:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[汇丰银行的罗伯茨表示人工智能不会导致“大规模裁员”]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-01-19/hsbc-s-roberts-says-ai-won-t-lead-to-massive-layoffs-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-19/hsbc-s-roberts-says-ai-won-t-lead-to-massive-layoffs-video</guid>
@@ -93,7 +93,7 @@
             <description><![CDATA[[Bloomberg] 汇丰银行企业和机构银行业务主管迈克尔·罗伯茨讨论了地缘政治风险、银行重组以及人工智能对员工配置的影响。  “我不认为这会导致大规模裁员，”罗伯茨说。  “我不认为这会导致我们做事方式发生巨大变化，除了提高效率之外，”他补充道。 罗伯茨在瑞士达沃斯举行的世界经济论坛年会上接受彭博电视采访。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[特朗普对强硬盟友的举动帮助了习近平的出口机器]]></title>
+            <title><![CDATA[习近平的出口机器因美国转向强臂盟友而得到提振]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-19/xi-s-export-machine-helped-by-trump-s-moves-to-strongarm-allies</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-19/xi-s-export-machine-helped-by-trump-s-moves-to-strongarm-allies</guid>
             <pubDate>Mon, 19 Jan 2026 10:32:03 GMT</pubDate>
@@ -212,18 +212,11 @@
             <description><![CDATA[[Bloomberg] Investcorp 执行主席穆罕默德·阿拉尔迪 (Mohammed Alardhi) 表示，海湾市场首次公开募股的前景正在变得更好。]]></description>
         </item>
         <item>
-            <title><![CDATA[维托尔以较小的折扣向中国提供委内瑞拉原油]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-19/vitol-offers-venezuelan-crude-oil-to-china-at-narrower-discount</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-19/vitol-offers-venezuelan-crude-oil-to-china-at-narrower-discount</guid>
-            <pubDate>Mon, 19 Jan 2026 08:48:21 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 维多集团以较ICE布伦特原油每桶约5美元的折扣向中国买家提供委内瑞拉货物，测试了亚洲对这个南美国家基准重质高硫原油的胃口。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[炼油厂避开阿联酋旗舰穆尔班，寻求更便宜的替代品]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-19/oil-refiners-shun-uae-s-flagship-murban-for-cheaper-alternatives</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-19/oil-refiners-shun-uae-s-flagship-murban-for-cheaper-alternatives</guid>
-            <pubDate>Mon, 19 Jan 2026 08:44:05 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据交易商称，随着其他等级原油变得更便宜，亚洲炼油商正在放弃阿布扎比的旗舰穆尔班原油。]]></description>
+            <title><![CDATA[格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ua1ZIUXNzT19obHZ0TVR2T2VpSTFCVXBDRmxaN2hIMndrd1VsS3A5WENMclZNcDdscDV2TUNVaHB2NTlPRldhcUlyeWxBQWJHNmtJ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ua1ZIUXNzT19obHZ0TVR2T2VpSTFCVXBDRmxaN2hIMndrd1VsS3A5WENMclZNcDdscDV2TUNVaHB2NTlPRldhcUlyeWxBQWJHNmtJ?oc=5</guid>
+            <pubDate>Mon, 19 Jan 2026 08:41:30 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[欧洲汽车制造商因特朗普最新关税威胁而下跌]]></title>
@@ -296,6 +289,13 @@
             <description><![CDATA[[Bloomberg] 欧元区财长将于周一选出欧洲央行下一任副行长，这一决定将为克里斯蒂娜·拉加德继任最高职位奠定基础。]]></description>
         </item>
         <item>
+            <title><![CDATA[更“耗材”的全球投资周期意味着什么？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3UjdUMzhkOXpXR3gwaE9hMHBCeURacmVTYmR4VEJId0ZueUh0X2FVNHJYMWRvZThGQWt1OFFncUtKZHNXOWl6SHAxeV9aSWpuUjEw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3UjdUMzhkOXpXR3gwaE9hMHBCeURacmVTYmR4VEJId0ZueUh0X2FVNHJYMWRvZThGQWt1OFFncUtKZHNXOWl6SHAxeV9aSWpuUjEw?oc=5</guid>
+            <pubDate>Mon, 19 Jan 2026 04:56:31 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 更“耗材”的全球投资周期意味着什么？  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[美元面临特朗普新欧洲关税威胁的压力]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-19/dollar-faces-pressure-from-trump-s-fresh-tariff-threat-to-europe</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-19/dollar-faces-pressure-from-trump-s-fresh-tariff-threat-to-europe</guid>
@@ -308,6 +308,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSHZEWW1GSklxR1l3RDNDdnBqc1ktV1Y5eGdMdlhkOFVQNXY2Y3ZHcWZWTXI2NnNlNzRseVBoTmFtRXBtNk95dVV6VG9hbVRsOHU4?oc=5</guid>
             <pubDate>Mon, 19 Jan 2026 04:14:24 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 推理芯片的四种方案，David Patterson撰文  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[格陵兰岛关税导致美元下跌，铜价升至 13,000 美元]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-19/copper-rises-toward-13-000-as-dollar-dips-on-greenland-tariffs</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-19/copper-rises-toward-13-000-as-dollar-dips-on-greenland-tariffs</guid>
+            <pubDate>Mon, 19 Jan 2026 03:26:44 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于唐纳德·特朗普总统威胁对格陵兰岛征收关税，美元走软，而中国经济增长达到了政府目标，铜价恢复上涨。]]></description>
         </item>
         <item>
             <title><![CDATA[严重依赖AI！美国经济正经历一场“危险的繁荣” - 华尔街见闻]]></title>
@@ -352,18 +359,18 @@
             <description><![CDATA[[财新网] 今日开盘：两市双双低开 沪指跌幅0.27%  财新]]></description>
         </item>
         <item>
+            <title><![CDATA[随着伊朗紧张局势缓和以及特朗普威胁格陵兰岛，油价下跌]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-18/latest-oil-market-news-and-analysis-for-jan-19</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-18/latest-oil-market-news-and-analysis-for-jan-19</guid>
+            <pubDate>Sun, 18 Jan 2026 23:27:46 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着伊朗紧张局势降温以及交易员权衡唐纳德·特朗普总统威胁吞并格陵兰岛的影响，油价小幅走低。]]></description>
+        </item>
+        <item>
             <title><![CDATA[格陵兰关税威胁黄金和白银跃升至历史新高]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-18/gold-rises-to-record-high-after-trump-s-greenland-tariff-threats</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-18/gold-rises-to-record-high-after-trump-s-greenland-tariff-threats</guid>
             <pubDate>Sun, 18 Jan 2026 23:10:40 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 随着唐纳德·特朗普总统加大力度接管格陵兰岛，加剧了人们对美国和欧洲之间破坏性贸易战的担忧，黄金和白银跃升至历史新高。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ua1ZIUXNzT19obHZ0TVR2T2VpSTFCVXBDRmxaN2hIMndrd1VsS3A5WENMclZNcDdscDV2TUNVaHB2NTlPRldhcUlyeWxBQWJHNmtJ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ua1ZIUXNzT19obHZ0TVR2T2VpSTFCVXBDRmxaN2hIMndrd1VsS3A5WENMclZNcDdscDV2TUNVaHB2NTlPRldhcUlyeWxBQWJHNmtJ?oc=5</guid>
-            <pubDate>Sun, 18 Jan 2026 23:07:40 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 格陵兰引发美欧关税战风险，纳指期货跌超1%，黄金大涨逼近4700关口，白银再创新高  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[财经早知道｜中加携手，构建适应全球形势的新型战略伙伴关系 - 财新]]></title>
@@ -525,6 +532,13 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/consumers/inflation-price-changes-2025-charts-a8deee40</guid>
             <pubDate>Sat, 17 Jan 2026 10:30:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 汽油价格下跌，但食品杂货成本上涨继续给消费者带来压力。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IX2VobWY1TWc3RElDYTJtX1NDbzBmWkRldXhCczFGUTY4RHBhNUwxMEhUamVKQ3VWOGhPZFM1MzQ4MTNaelBnVl9Tbkh0LUNsQjR3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IX2VobWY1TWc3RElDYTJtX1NDbzBmWkRldXhCczFGUTY4RHBhNUwxMEhUamVKQ3VWOGhPZFM1MzQ4MTNaelBnVl9Tbkh0LUNsQjR3?oc=5</guid>
+            <pubDate>Sat, 17 Jan 2026 08:01:36 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[反洗钱特别预防措施2月16日起施行 中国正接受FATF第五轮互评估 - 财新]]></title>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWhTWHh3dl9kTE9XU01oRnNNYnBfTDJZdmJLemVaOThLcnlQV2dSZ3RXOU5oWlRMaUFxbnJPZUV0WVFucjF3OW5COGhKSmxPVnZRbllZTGtYQTJESjVHeWVNLUtiSUlpNjd0a3F5VHJWMzNOaV9iT1BybUJOSUpneHlzQlRNZzFGbExYQ3RFUVZ4VDZwNWF2S0ZuNGNJalM3WG1TeDh0ZG9aQnY4bjVPWEJEWG5QbTdWV194Zm9CUXo3bDMyNDE3WW42UQ?oc=5</guid>
             <pubDate>Fri, 16 Jan 2026 18:36:28 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 国际石油公司推动委内瑞拉快速改革，以控制石油出口 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[盘前涨幅最大的股票：PNC、ImmunityBio、Coupang 等]]></title>
-            <link>https://www.cnbc.com/2026/01/16/stocks-making-the-biggest-moves-premarket-pnc-ibrx-cpng.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/01/16/stocks-making-the-biggest-moves-premarket-pnc-ibrx-cpng.html</guid>
-            <pubDate>Fri, 16 Jan 2026 17:13:45 GMT</pubDate>
-            <description><![CDATA[[CNBC] 这些是盘前交易中涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[鲍曼表示，面对就业市场风险，美联储应准备好再次降息 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDFiYVEwLTR3VWdWb1lrX1VGVTJJS0RqZng3cmtaazkxY1J6cDQ5a084V1ZxV24yaFNhWlE0VUU1c0I5YUFxTDc4UWcxcndaNE5EY25MdmNRaXBtYkd0OXZqTkdCLUJHU3lGRW9fbDlIOFNWRFJlNnBVd2ZUUU5JTmhKT1dpcUVDX1RVRzBsZWJaSlJmY1NwdXYxRXAzaXMyZTkwdExzTmIxSjdNamw3ZG1mYWs?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQTDFiYVEwLTR3VWdWb1lrX1VGVTJJS0RqZng3cmtaazkxY1J6cDQ5a084V1ZxV24yaFNhWlE0VUU1c0I5YUFxTDc4UWcxcndaNE5EY25MdmNRaXBtYkd0OXZqTkdCLUJHU3lGRW9fbDlIOFNWRFJlNnBVd2ZUUU5JTmhKT1dpcUVDX1RVRzBsZWJaSlJmY1NwdXYxRXAzaXMyZTkwdExzTmIxSjdNamw3ZG1mYWs?oc=5</guid>
-            <pubDate>Fri, 16 Jan 2026 16:53:44 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 鲍曼表示，在就业市场风险的背景下，美联储应该准备好再次降息 路透]]></description>
         </item>
     </channel>
 </rss>
