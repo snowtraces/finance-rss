@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 19 Jan 2026 17:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 17:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -86,11 +86,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[欧洲央行第二次就业竞赛以武伊西奇和其他三名候选人为中心]]></title>
+            <title><![CDATA[克罗地亚的武伊西奇在与雷恩的争斗中接近欧洲央行第二号职位]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-19/ecb-no-2-job-race-has-four-candidates-left-as-two-baltics-quit</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-19/ecb-no-2-job-race-has-four-candidates-left-as-two-baltics-quit</guid>
             <pubDate>Mon, 19 Jan 2026 16:54:58 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，经过财政部长们的首轮投票，克罗地亚的鲍里斯·武伊西奇(Boris Vujcic)成为欧洲央行副行长竞选中的热门人选。]]></description>
+            <description><![CDATA[[Bloomberg] 据知情人士透露，克罗地亚的鲍里斯·武伊西奇(Boris Vujcic)在欧洲央行副行长的竞选中即将获胜，经过两轮财长投票后，只剩下芬兰的奥利·雷恩(Olli Rehn)可以击败。]]></description>
         </item>
         <item>
             <title><![CDATA[乐施会称亿万富翁的财富随着影响力的增强而达到新的峰值 - 路透中文网]]></title>
@@ -247,11 +247,25 @@
             <description><![CDATA[[Reuters Business] 官员称，壳牌寻求退出叙利亚奥马尔油田，但美国公司表现出兴趣 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[俄罗斯远东地区创纪录的降雪带来了乐趣、沮丧和大规模的积雪 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxONjVZY0I4X083VEkybHI3MUdEOGtpajJFWjRsZVRKYWM1NjAzeU1LUzRIZzFGcFJRRmE3OXRMU1djYmhsMUVWZmpXVUlORkpvQXZHWXlVRGlRTHhYb0QzT0FyYmRTd0xaUXFrdDhISUFWRnR5UVg3N0N3ODZCRnlmcnBhV2lyRDBhWFBvVHZ2S2xqMUJ3dHRaUG1HaXRIcDhacC0tOU1nUGNSbVRGaFVTWGZMcTRRNExBTHNxZE8yLUY5WUNp?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxONjVZY0I4X083VEkybHI3MUdEOGtpajJFWjRsZVRKYWM1NjAzeU1LUzRIZzFGcFJRRmE3OXRMU1djYmhsMUVWZmpXVUlORkpvQXZHWXlVRGlRTHhYb0QzT0FyYmRTd0xaUXFrdDhISUFWRnR5UVg3N0N3ODZCRnlmcnBhV2lyRDBhWFBvVHZ2S2xqMUJ3dHRaUG1HaXRIcDhacC0tOU1nUGNSbVRGaFVTWGZMcTRRNExBTHNxZE8yLUY5WUNp?oc=5</guid>
+            <pubDate>Mon, 19 Jan 2026 14:55:24 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 俄罗斯远东地区创纪录的降雪带来了乐趣、沮丧和巨大的积雪 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[金矿公司计划扣押秘鲁超过 6700 万美元的资产和仲裁债务]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-19/gold-miner-plots-seizure-of-peru-assets-over-67-million-arbitration-debt</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-19/gold-miner-plots-seizure-of-peru-assets-over-67-million-arbitration-debt</guid>
             <pubDate>Mon, 19 Jan 2026 14:42:01 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 一家加拿大金矿商表示，除非南美国家立即支付仲裁裁决，否则它将试图扣押秘鲁国有资产，包括未来的债务支付。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[宜家顶级零售商表示，随着购物者寻求稳定，价格一致性至关重要 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2JURXVReEJOWUx6d2libjMxUDRFdUtLbWNzb3ctT0ZXZzg4RndiOFhUQWlhcVZzWHpKS0NlMTBFUDhPcmFGc1NiQUJrZVU5WnRTOWZKczVmaGR6V0pUNXhKSjR3SkZpazg4MTg3ZGFmUGJoZzhsT1g2SDFpb0o0bFFIeHNWdnZDeFUzdVdXQkRkcmlxV3VreDl5Tk9QOGkta25mRTVZd1EtOVFMN2J4bVBDa0VwU25SZy1F?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX2JURXVReEJOWUx6d2libjMxUDRFdUtLbWNzb3ctT0ZXZzg4RndiOFhUQWlhcVZzWHpKS0NlMTBFUDhPcmFGc1NiQUJrZVU5WnRTOWZKczVmaGR6V0pUNXhKSjR3SkZpazg4MTg3ZGFmUGJoZzhsT1g2SDFpb0o0bFFIeHNWdnZDeFUzdVdXQkRkcmlxV3VreDl5Tk9QOGkta25mRTVZd1EtOVFMN2J4bVBDa0VwU25SZy1F?oc=5</guid>
+            <pubDate>Mon, 19 Jan 2026 14:39:32 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 宜家顶级零售商表示，随着购物者寻求稳定，价格一致性至关重要 路透]]></description>
         </item>
         <item>
             <title><![CDATA[三井商船首席执行官桥本畅谈2026年全球贸易展望]]></title>
@@ -697,20 +711,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/01/17/trump-jpmorgan-chase-debanking.html</guid>
             <pubDate>Sun, 18 Jan 2026 13:47:50 GMT</pubDate>
             <description><![CDATA[[CNBC] 特朗普总统威胁要起诉摩根大通，称其在 2021 年 1 月 6 日叛乱后“剥夺了他的银行账户”。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伯恩斯坦表示，中国电动汽车巨头比亚迪值得买入——而且不仅仅是因为其汽车]]></title>
-            <link>https://www.cnbc.com/2026/01/18/chinese-ev-giant-byd-is-a-buy-and-not-just-for-its-cars-bernstein-says.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/01/18/chinese-ev-giant-byd-is-a-buy-and-not-just-for-its-cars-bernstein-says.html</guid>
-            <pubDate>Sun, 18 Jan 2026 12:29:41 GMT</pubDate>
-            <description><![CDATA[[CNBC] 伯恩斯坦表示，在电动汽车销量击败特斯拉之后，比亚迪还有另一项投资者尚未充分认识到的大业务。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Apple Pay与银联独家合作到期 开放绑定Visa卡支持中国用户跨境支付 - Caixin]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5ZzdGZ19fakUxUm8xczBoYTVqbDRwRFZmcXgtYnpTcjlYRzRfbnNTVVN4cTJ0QmR4QVNxSWpBcnFRdUxUNDdjSGhaak1jX1l0WExjckE5U19BSWthU0RrZVZB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5ZzdGZ19fakUxUm8xczBoYTVqbDRwRFZmcXgtYnpTcjlYRzRfbnNTVVN4cTJ0QmR4QVNxSWpBcnFRdUxUNDdjSGhaak1jX1l0WExjckE5U19BSWthU0RrZVZB?oc=5</guid>
-            <pubDate>Sun, 18 Jan 2026 11:07:00 GMT</pubDate>
-            <description><![CDATA[[财新网] Apple Pay与银联独家合作到期 开放绑定Visa卡支持中国用户跨境支付  Caixin]]></description>
         </item>
     </channel>
 </rss>
