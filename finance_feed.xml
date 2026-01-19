@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 19 Jan 2026 21:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 22:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[必和必拓铁矿石产量上升，钾肥成本再次上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-19/bhp-iron-ore-production-edges-higher-potash-cost-rises-again</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-19/bhp-iron-ore-production-edges-higher-potash-cost-rises-again</guid>
+            <pubDate>Mon, 19 Jan 2026 22:09:54 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 全球最大矿商必和必拓集团第二季度铁矿石产量为6970万吨，同比增长5%，并重申了年度产量指引。]]></description>
+        </item>
         <item>
             <title><![CDATA[墨西哥股市上涨；截至收盘墨西哥S&P/BMV IPC指数上涨0.55%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3171717</link>
@@ -56,6 +63,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3171713</guid>
             <pubDate>Mon, 19 Jan 2026 20:30:17 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基宣布推出新防空系统 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNaWt6eWV3blV5UzJtbTVhSE1fMnNJV0pibXQ4bUw0dDc0aC1HT21NMWlhODQzRUdLdy1YbXFvWGxGckJlYk1Jc21ZVmViWHVlTWh0bENMWFNkN0pZWlNJY28xN3F5Mk9JeXpjS1NrLTQtLVpYTW5HNThfNkUzVUNsaEtkVUJYRUJXTldUR3ZpSmREMDlORnVDOEdCTjFSZ2VQZGdaQ2JmQVRWNW9MckR3ZmhNRVo?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNaWt6eWV3blV5UzJtbTVhSE1fMnNJV0pibXQ4bUw0dDc0aC1HT21NMWlhODQzRUdLdy1YbXFvWGxGckJlYk1Jc21ZVmViWHVlTWh0bENMWFNkN0pZWlNJY28xN3F5Mk9JeXpjS1NrLTQtLVpYTW5HNThfNkUzVUNsaEtkVUJYRUJXTldUR3ZpSmREMDlORnVDOEdCTjFSZ2VQZGdaQ2JmQVRWNW9MckR3ZmhNRVo?oc=5</guid>
+            <pubDate>Mon, 19 Jan 2026 20:26:32 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 乌克兰泽连斯基宣布推出新防空系统 路透]]></description>
         </item>
         <item>
             <title><![CDATA[OpenAI高管：首款硬件设备有望于2026年下半年亮相]]></title>
@@ -380,13 +394,6 @@
             <description><![CDATA[[Bloomberg] 随着欧洲奢侈品股在 2026 年开局不稳，一些分析师警告称，该行业近期的上涨导致估值看起来过高。]]></description>
         </item>
         <item>
-            <title><![CDATA[Axis 银行首席执行官乔杜里谈银行业整合和卢比表现]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-01-19/chaudhry-on-banking-consolidation-rupee-performance-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-19/chaudhry-on-banking-consolidation-rupee-performance-video</guid>
-            <pubDate>Mon, 19 Jan 2026 14:28:13 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Axis银行首席执行官Amitabh Chaudhry表示，他相信印度银行业即将迎来一波整合浪潮，并指出印度需要8至10家大型银行来支持其经济发展。 他在接受彭博电视台哈斯琳达·阿明采访时还对卢比表现不佳发表了评论，称印度在人工智能发展方面落后的看法推动了资本转向中国和其他市场。 但他也对即将到来的财政和监管改革将稳定货币表示乐观。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[加拿大 12 月通胀加速至 2.4%]]></title>
             <link>https://www.wsj.com/economy/canada-inflation-accelerates-to-2-4-in-december-431b1ac5</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/canada-inflation-accelerates-to-2-4-in-december-431b1ac5</guid>
@@ -600,7 +607,7 @@
             <title><![CDATA[伊朗官员称伊朗抗议活动中已核实死亡人数至少达到5000人 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3FkYmFWaWRqX0pFQzByZGE0SmtSenhQU3VZOHNtbzNGOEotNDVjcFRoeG9NbmhtMmthM1hhdm94YnVianJsbV8zVXlMMjgwNEI3Q2tZU0ZhU0U4cGNiV3RmZjRYUzB6ZHBTdHZ6SmpoTVZVdURaUFAxZ0tuWXJHNFBQVlBCZVplOWx3ODJMRndneHdTeDlkeDdiSWdMUWJxNHBmbU15UW9NMWRPUHRMZWlFZWp0UXkwOTNMOHcxRjRuQnkyaGUyVw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3FkYmFWaWRqX0pFQzByZGE0SmtSenhQU3VZOHNtbzNGOEotNDVjcFRoeG9NbmhtMmthM1hhdm94YnVianJsbV8zVXlMMjgwNEI3Q2tZU0ZhU0U4cGNiV3RmZjRYUzB6ZHBTdHZ6SmpoTVZVdURaUFAxZ0tuWXJHNFBQVlBCZVplOWx3ODJMRndneHdTeDlkeDdiSWdMUWJxNHBmbU15UW9NMWRPUHRMZWlFZWp0UXkwOTNMOHcxRjRuQnkyaGUyVw?oc=5</guid>
-            <pubDate>Mon, 19 Jan 2026 07:19:04 GMT</pubDate>
+            <pubDate>Mon, 19 Jan 2026 07:19:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 伊朗官员称伊朗抗议活动中已核实的死亡人数至少达到 5,000 人 路透]]></description>
         </item>
         <item>
@@ -650,7 +657,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-01-19/em-asia-stocks-fx-gain-as-tech-rally-outweighs-tariff-worries</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-19/em-asia-stocks-fx-gain-as-tech-rally-outweighs-tariff-worries</guid>
             <pubDate>Mon, 19 Jan 2026 06:41:31 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 周一，由于唐纳德·特朗普总统推动控制格陵兰岛，美国和欧洲之间的贸易紧张局势加剧，新兴市场货币兑美元走软。]]></description>
+            <description><![CDATA[[Bloomberg] 由于唐纳德·特朗普总统推动控制格陵兰岛，美国和欧洲之间出现新的贸易紧张局势，周一新兴市场资产兑美元走软上涨。]]></description>
         </item>
         <item>
             <title><![CDATA[太平保险业绩暴增 股价拉升涨超8% - 财新]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jbl9CVFVxN01CVlRIaktudng3VHpjRG5ndk1wQ2NCc1hGMS1XNFFyYTdRUnZ5WFJiUUdBbnFCQ1BTb1RBcUY4N3NGdlZxTlBqbWZz?oc=5</guid>
             <pubDate>Mon, 19 Jan 2026 03:09:44 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 严重依赖AI！美国经济正经历一场“危险的繁荣”  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[白酒，在康波中重生 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lWG0wcndZUTdpN2RIV214Wml2QVFlWTFac0tEMjFhZE5uN0xidFVxRy1nM25FUGlzekxITVRrTEtRdm5zUEtKRDhGTnJOSUlkaXdn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lWG0wcndZUTdpN2RIV214Wml2QVFlWTFac0tEMjFhZE5uN0xidFVxRy1nM25FUGlzekxITVRrTEtRdm5zUEtKRDhGTnJOSUlkaXdn?oc=5</guid>
-            <pubDate>Mon, 19 Jan 2026 02:40:07 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 白酒，在康波中重生  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
