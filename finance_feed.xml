@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 24 Jan 2026 18:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 19:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-24/french-budget-central-bank-chief-laments-minimal-effort-to-cut-deficit</guid>
             <pubDate>Sat, 24 Jan 2026 18:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 法国央行行长弗朗索瓦·维勒鲁瓦·德加洛表示，政府和议会本可以在周五通过的预算妥协方案中采取更多措施来削减赤字。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[寒冷天气给美国电网带来压力 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2phTFdxbW8wTTJyTWFoc2UtaDhCdUdIMUdPcmhheWNoQjFIVldSY2I0X2I4MVBySWR0SGRVZFZXYUs1dWIzRkZnNkNXUjBUcGVkV2pMbHh0Uzh5aVA4OTY1cnpaZ1ZDNnc3Ynd3OEZqMDcwbGc3X1NYenZLZThOdUdUbXZER0U2UmJfS21yLVRWTVhweUtFYy1hQWFYX0cyc0dLMGY3UEQyanVN?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2phTFdxbW8wTTJyTWFoc2UtaDhCdUdIMUdPcmhheWNoQjFIVldSY2I0X2I4MVBySWR0SGRVZFZXYUs1dWIzRkZnNkNXUjBUcGVkV2pMbHh0Uzh5aVA4OTY1cnpaZ1ZDNnc3Ynd3OEZqMDcwbGc3X1NYenZLZThOdUdUbXZER0U2UmJfS21yLVRWTVhweUtFYy1hQWFYX0cyc0dLMGY3UEQyanVN?oc=5</guid>
+            <pubDate>Sat, 24 Jan 2026 17:48:23 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 寒冷天气给美国电网带来压力 路透]]></description>
         </item>
         <item>
             <title><![CDATA[联邦特工向抗议者喷洒催泪瓦斯]]></title>
@@ -119,13 +126,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-01-24/trump-s-walks-back-greenland-tariffs-ramps-up-french-wine-duties</guid>
             <pubDate>Sat, 24 Jan 2026 13:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 特朗普本周在关税问题上态度大转变。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国电网在寒流中压力不断升级 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2phTFdxbW8wTTJyTWFoc2UtaDhCdUdIMUdPcmhheWNoQjFIVldSY2I0X2I4MVBySWR0SGRVZFZXYUs1dWIzRkZnNkNXUjBUcGVkV2pMbHh0Uzh5aVA4OTY1cnpaZ1ZDNnc3Ynd3OEZqMDcwbGc3X1NYenZLZThOdUdUbXZER0U2UmJfS21yLVRWTVhweUtFYy1hQWFYX0cyc0dLMGY3UEQyanVN?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2phTFdxbW8wTTJyTWFoc2UtaDhCdUdIMUdPcmhheWNoQjFIVldSY2I0X2I4MVBySWR0SGRVZFZXYUs1dWIzRkZnNkNXUjBUcGVkV2pMbHh0Uzh5aVA4OTY1cnpaZ1ZDNnc3Ynd3OEZqMDcwbGc3X1NYenZLZThOdUdUbXZER0U2UmJfS21yLVRWTVhweUtFYy1hQWFYX0cyc0dLMGY3UEQyanVN?oc=5</guid>
-            <pubDate>Sat, 24 Jan 2026 12:48:35 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国电网在寒流中压力不断升级 路透]]></description>
         </item>
         <item>
             <title><![CDATA[新股前瞻|增收不增利预示多重挑战，云动智能2024年最大客户收入占比超九成]]></title>
@@ -243,7 +243,7 @@
             <title><![CDATA[歌剧明星蕾妮·弗莱明退出肯尼迪中心五月演出 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkU1d2JaN1k4TVhxUkdjdUFST3RCdVlPV21MUVhJam04QkdDZ1NsZHlOX0F1Q0ozWnF3VXF6b1Y2NDR4VlF5QWVIMTlTeHFEalg1MERBRnFCeDVPYWw5QmlHQ2RSWjV3b0ROLVMwRGI5ZGhVMU5ra2JBM0hXME4wb3dnT0hIc0h6S3NVOTdlbmlrdW9mZnlMUXkwdzNKWnNnM2NQcE8tREdoSVhpd1k3OGRITU82dTctanBlOXNBOFhkejA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkU1d2JaN1k4TVhxUkdjdUFST3RCdVlPV21MUVhJam04QkdDZ1NsZHlOX0F1Q0ozWnF3VXF6b1Y2NDR4VlF5QWVIMTlTeHFEalg1MERBRnFCeDVPYWw5QmlHQ2RSWjV3b0ROLVMwRGI5ZGhVMU5ra2JBM0hXME4wb3dnT0hIc0h6S3NVOTdlbmlrdW9mZnlMUXkwdzNKWnNnM2NQcE8tREdoSVhpd1k3OGRITU82dTctanBlOXNBOFhkejA?oc=5</guid>
-            <pubDate>Sat, 24 Jan 2026 02:46:00 GMT</pubDate>
+            <pubDate>Sat, 24 Jan 2026 02:46:40 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 歌剧明星蕾妮·弗莱明退出肯尼迪中心 5 月的演出 路透]]></description>
         </item>
         <item>
@@ -569,13 +569,6 @@
             <description><![CDATA[[Reuters Business] 中国在达沃斯保持低调寻求西方投资 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[独家：瓦莱罗和菲利普斯 66 购买委内瑞拉石油货物，作为华盛顿与加拉加斯协议的一部分 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSk0weFg2aGFSRk5RTzFWUldnVEJqODllMkJ1MkVXQ0RKOUF1cXZucHU4c01GM1NFXy0xU2o1LVo2VDY3NzRNRXNQd3RxUkdzdm9EanRZSVZMbHlDVUpBcEk5cEF0REJ6T0tJWjlHbGRySHdRRTdfc0xhQ1FiS3ZzOHBmcWJFMFdNRE1faHBleU1qZHJyMXJsWUNIT0Ezd3lwSmp1UUZ6dzBzSmRlYXEta21UV2F2NTFfQ3Br?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSk0weFg2aGFSRk5RTzFWUldnVEJqODllMkJ1MkVXQ0RKOUF1cXZucHU4c01GM1NFXy0xU2o1LVo2VDY3NzRNRXNQd3RxUkdzdm9EanRZSVZMbHlDVUpBcEk5cEF0REJ6T0tJWjlHbGRySHdRRTdfc0xhQ1FiS3ZzOHBmcWJFMFdNRE1faHBleU1qZHJyMXJsWUNIT0Ezd3lwSmp1UUZ6dzBzSmRlYXEta21UV2F2NTFfQ3Br?oc=5</guid>
-            <pubDate>Fri, 23 Jan 2026 18:19:50 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：瓦莱罗 (Valero) 和 Phillips 66 购买委内瑞拉石油货物，作为华盛顿与加拉加斯协议的一部分 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[捷克军火制造商南玻集团首次上市股价飙升，估值达到350亿美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjFyTkxRUm82alcwLUNmajZ4NUVQQ045blNUN0V0Rm91T0VFX0xlR0RXTjZ0bURjZmprcjBYa1NYazZqMC00Qk9EUk40OEVMaXlWSW02amF2a3JZQnFPRlY4Ny1BdjdRb0w3ZUJQR1MwaTcxcURXbmN0bVc3Z2hwckRNWkp3VnVxUnc0MmNYbEtZX3oyVzRxdGYyTlRPSkhkcWxQc1FuUUlVeEdIU0pjNDBJOHNxSy0zSVpwQmE2RFNSVXlHZkM3ZFkyWk5nRTVVVEpabWxGRQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMjFyTkxRUm82alcwLUNmajZ4NUVQQ045blNUN0V0Rm91T0VFX0xlR0RXTjZ0bURjZmprcjBYa1NYazZqMC00Qk9EUk40OEVMaXlWSW02amF2a3JZQnFPRlY4Ny1BdjdRb0w3ZUJQR1MwaTcxcURXbmN0bVc3Z2hwckRNWkp3VnVxUnc0MmNYbEtZX3oyVzRxdGYyTlRPSkhkcWxQc1FuUUlVeEdIU0pjNDBJOHNxSy0zSVpwQmE2RFNSVXlHZkM3ZFkyWk5nRTVVVEpabWxGRQ?oc=5</guid>
@@ -679,6 +672,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3gFBVV95cUxOamI3b1pjQk9iQ0ZDZ0o0blptcVROdERmRTJ4X21UQllCRERfSGNpVXloVUhrdFZfMkpZa2MwNTIwS1lVQUU1UnhQdk80emRBemVsMm9OQmpsZVNMSFFIVi1zcTFzSmNJSHo0TWpBWGYtUWRlNEJaRmxpMzd3VGdXNmF4UnNreHo2QTRJMHRETTZ4WVdFRlZzWlVfUVFKNWJJelYxal9JRUFBWG1Eb0tzOXMyallySmlkVnF6Y1Y3ZWhrVng4ZW1EMnRDV3Z2SThFZGprWEh6eTFQNFF3bXc?oc=5</guid>
             <pubDate>Fri, 23 Jan 2026 16:14:44 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Novo 的 Wegovy 药丸上市首周就在美国超过 18,000 种处方中销售 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基辅动物园在电力危机中为动物保暖而努力 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEF4cGZ1QUxjbDNNcTdBcEpUcnJHdHFOSEVwOWJCWGpHYk1lcUZpcFk4cW00WHZ5b2JxcEtEWEVvSWNsamtFQURoak1DbzNibmZXNTVwQ1d1b3BSdzN6MzctRzZhNm5sdWdYVWFEemdCM1FKVHNSOXVqTjl0OWhNSkhzS2VjbW5EUXk1cEVUbU5uN1FKc19ZdzBiS1pnRGZmTDVVcnQzOEFWLUdrOGx5UHRHU1k3a1BxTHpTLXZ1QWQ4SEk?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEF4cGZ1QUxjbDNNcTdBcEpUcnJHdHFOSEVwOWJCWGpHYk1lcUZpcFk4cW00WHZ5b2JxcEtEWEVvSWNsamtFQURoak1DbzNibmZXNTVwQ1d1b3BSdzN6MzctRzZhNm5sdWdYVWFEemdCM1FKVHNSOXVqTjl0OWhNSkhzS2VjbW5EUXk1cEVUbU5uN1FKc19ZdzBiS1pnRGZmTDVVcnQzOEFWLUdrOGx5UHRHU1k3a1BxTHpTLXZ1QWQ4SEk?oc=5</guid>
+            <pubDate>Fri, 23 Jan 2026 15:56:04 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 基辅动物园在电力危机中挣扎，为动物保暖 路透]]></description>
         </item>
         <item>
             <title><![CDATA[全球动荡加剧白银避险情绪，白银突破 100 美元]]></title>
