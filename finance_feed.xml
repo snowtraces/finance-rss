@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 24 Jan 2026 15:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 16:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国大风暴引发电网紧急情况和航班取消]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-24/big-us-storm-triggers-grid-emergency-and-flight-cancellations</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-24/big-us-storm-triggers-grid-emergency-and-flight-cancellations</guid>
+            <pubDate>Sat, 24 Jan 2026 15:29:48 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美国一场从落基山脉南部一直延伸到新英格兰的大规模风暴引发了该国中部地区的电网紧急情况，引发了一系列的旅行中断，预计纽约和波士顿将迎来大雪。]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯隔夜轰炸乌克兰后，美国斡旋的和平谈判无果而终 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaG1yQTNlaVZiaXlsdXJzeEJUelJ1dnd5ZmdleDJkVlF2N0hzSHE0RVkxQWphdEhRVVBiTXEyamtLRnpPMGlVS0czRVFxV2NRR3ZwMF9vME9lbXdHUXVhWlFKRVZVSW9SV2NhNDJuY3drb3E4VUNiWHI1YlpaV2ZtTlpKUjQ1ZkZpOW45aWVWWXVVMlZWOXNfQl9LeTJfWmxJVFNfaC1qQ0xLN3pKd1JQN2t6elRtNzZKYnVLYkoxREZxekJpTEJKVUtSOGg2eG9SQ3Bka3dTQmw?oc=5</link>
@@ -21,6 +28,20 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-24/why-european-wine-could-get-pricier-under-new-us-tariffs-video</guid>
             <pubDate>Sat, 24 Jan 2026 15:04:06 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 特朗普总统再次威胁对法国葡萄酒征收高达200%的关税，给严重依赖进口的行业带来压力。 葡萄酒进口商 Victor Schwartz、美国葡萄酒贸易联盟主席 Ben Aneff 和加州葡萄种植者 Stuart Spencer 解释了关税如何提高价格、减少选择、损害餐馆和分销商以及重塑国内外葡萄酒市场。 这个故事揭示了为什么葡萄酒已成为更广泛的贸易战中的棋子，以及它对美国企业和消费者意味着什么。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新西兰当局正在努力确认山体滑坡遇难者身份 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNREdxSHBGc0NkbHAxRjhrT1g5VWdDaVgzWldLaTVvbEQ2SEdTM3hnZExQbGQxTFNaZFRjUWx5WkNUREVZdFBtcmVaYjBmNTdveUdNMUhTX2FMOTl5Z0NJbGpBQ3dmU2g1eHZGQy0zclpWRWZwVi13TGZmYVFjSUttR0RZVXlBWWx3aXJxdWVpUjhrcTNxbEVYMWJ0UlBYYkxwaUhCeFExNmQ3MFhVSWZHYVJkalA1MTQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNREdxSHBGc0NkbHAxRjhrT1g5VWdDaVgzWldLaTVvbEQ2SEdTM3hnZExQbGQxTFNaZFRjUWx5WkNUREVZdFBtcmVaYjBmNTdveUdNMUhTX2FMOTl5Z0NJbGpBQ3dmU2g1eHZGQy0zclpWRWZwVi13TGZmYVFjSUttR0RZVXlBWWx3aXJxdWVpUjhrcTNxbEVYMWJ0UlBYYkxwaUhCeFExNmQ3MFhVSWZHYVJkalA1MTQ?oc=5</guid>
+            <pubDate>Sat, 24 Jan 2026 14:59:08 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 新西兰当局正在努力确认山体滑坡遇难者身份 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[彭博社报道，美国寻求快速修复以提高委内瑞拉石油产量 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSTVjVEU5RWkzX0lMTmFNOWZWemE3bDZYQVZ1STdidE5panA3QWRmaE9qRjB5enhnT0xpUXcyb0N0dzFkbFBWX3hYR2NZcElxVGZ0UFI1UmRrZWtCTTZxZ3N3RFUtNklJaC0zS0d4UGV6M2J5VWNkOC1qS19ETDNKMUFpa2hVYzVUUGZlSmpGVWlKTnpUZG1TV19jbVZEc01wT1ZteUhOZUduQUN5UmpYeFRRUHVrR2pCMHJlWHNnNlo?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSTVjVEU5RWkzX0lMTmFNOWZWemE3bDZYQVZ1STdidE5panA3QWRmaE9qRjB5enhnT0xpUXcyb0N0dzFkbFBWX3hYR2NZcElxVGZ0UFI1UmRrZWtCTTZxZ3N3RFUtNklJaC0zS0d4UGV6M2J5VWNkOC1qS19ETDNKMUFpa2hVYzVUUGZlSmpGVWlKTnpUZG1TV19jbVZEc01wT1ZteUhOZUduQUN5UmpYeFRRUHVrR2pCMHJlWHNnNlo?oc=5</guid>
+            <pubDate>Sat, 24 Jan 2026 14:41:47 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 彭博新闻报道，美国寻求快速修复以提高委内瑞拉石油产量 路透]]></description>
         </item>
         <item>
             <title><![CDATA[冬季风暴和零度以下的寒冷袭击美国，从落基山脉到大西洋海岸 - 路透中文网]]></title>
@@ -191,13 +212,6 @@
             <description><![CDATA[[华尔街见闻] 英特尔，有望拿下苹果芯片订单  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[新西兰当局正在努力确认山体滑坡遇难者身份 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNREdxSHBGc0NkbHAxRjhrT1g5VWdDaVgzWldLaTVvbEQ2SEdTM3hnZExQbGQxTFNaZFRjUWx5WkNUREVZdFBtcmVaYjBmNTdveUdNMUhTX2FMOTl5Z0NJbGpBQ3dmU2g1eHZGQy0zclpWRWZwVi13TGZmYVFjSUttR0RZVXlBWWx3aXJxdWVpUjhrcTNxbEVYMWJ0UlBYYkxwaUhCeFExNmQ3MFhVSWZHYVJkalA1MTQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNREdxSHBGc0NkbHAxRjhrT1g5VWdDaVgzWldLaTVvbEQ2SEdTM3hnZExQbGQxTFNaZFRjUWx5WkNUREVZdFBtcmVaYjBmNTdveUdNMUhTX2FMOTl5Z0NJbGpBQ3dmU2g1eHZGQy0zclpWRWZwVi13TGZmYVFjSUttR0RZVXlBWWx3aXJxdWVpUjhrcTNxbEVYMWJ0UlBYYkxwaUhCeFExNmQ3MFhVSWZHYVJkalA1MTQ?oc=5</guid>
-            <pubDate>Sat, 24 Jan 2026 05:43:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 新西兰当局正在努力确认山体滑坡遇难者身份 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[科罗拉多州调查人员证实，记者亨特·S·汤普森自杀了 - 路透社]]></title>
             <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHUxSDh5OU90SHZtZkJrV0t0S1pQWklGVC02U3VjWXY4ZGJIVy04VUJEYmFLZXVTb1hRREhrODByT0Q5cEJ1YVlRelJPb3h5S3R3M1E1Q1ZxZVlvVE5Wc1B5S1pFeHYxRVdsNUQ0ZVlQdDRSMDI1VFdsME1pWUE0MWl6cFcydExrWVk1ei0xeGJXcjc2QXp0cmhVOXhDMkpFcExwSEtudktNN254VVI4eTBVQXpaYjNaeEt4UktQZFQ2N0NhYWV3T25CRQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHUxSDh5OU90SHZtZkJrV0t0S1pQWklGVC02U3VjWXY4ZGJIVy04VUJEYmFLZXVTb1hRREhrODByT0Q5cEJ1YVlRelJPb3h5S3R3M1E1Q1ZxZVlvVE5Wc1B5S1pFeHYxRVdsNUQ0ZVlQdDRSMDI1VFdsME1pWUE0MWl6cFcydExrWVk1ei0xeGJXcjc2QXp0cmhVOXhDMkpFcExwSEtudktNN254VVI4eTBVQXpaYjNaeEt4UktQZFQ2N0NhYWV3T25CRQ?oc=5</guid>
@@ -215,7 +229,7 @@
             <title><![CDATA[“就业、就业、就业”是达沃斯人工智能的口号，恐惧退居二线 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXZXZ1Z2WEozYnlJaVZreHBfbU50UGVGdkcyLUdoUVhNd1VIRlRfTFlWNnBoM0R6M0F2X2ZwMjZyY01vdXJKa2FfUXFVRUZMU25QZnVNVkp0YWlUcDRqc1c0NUF5NFdLdTJpdVF0WnpKYlNjcWpFOHBuMTYyUHRiRG9RLTBXWkZadC1raXlnWmpLUWZ3V18zVXdGQ1h0eFBQdXA2Ng?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxNRXZXZ1Z2WEozYnlJaVZreHBfbU50UGVGdkcyLUdoUVhNd1VIRlRfTFlWNnBoM0R6M0F2X2ZwMjZyY01vdXJKa2FfUXFVRUZMU25QZnVNVkp0YWlUcDRqc1c0NUF5NFdLdTJpdVF0WnpKYlNjcWpFOHBuMTYyUHRiRG9RLTBXWkZadC1raXlnWmpLUWZ3V18zVXdGQ1h0eFBQdXA2Ng?oc=5</guid>
-            <pubDate>Sat, 24 Jan 2026 02:35:06 GMT</pubDate>
+            <pubDate>Sat, 24 Jan 2026 02:35:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着恐惧退居二线，“就业、就业、就业”成为达沃斯人工智能的口号 路透]]></description>
         </item>
         <item>
@@ -464,13 +478,6 @@
             <description><![CDATA[[Reuters Business] 贝克汉姆家庭关系紧张，名人商标纠纷成为焦点 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美国国债尚未接近偿付能力临界点：布朗巴克]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-01-23/treasuries-not-near-solvency-tipping-point-brownback-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-23/treasuries-not-near-solvency-tipping-point-brownback-video</guid>
-            <pubDate>Fri, 23 Jan 2026 21:13:44 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 施瓦布金融研究中心首席固定收益策略师凯西·琼斯（Kathy Jones）和贝莱德全球固定收益部副首席信息官拉斯·布朗巴克（Russ Brownback）告诉彭博社，虽然从长远来看，对美国财政赤字和通胀的担忧可能会影响国债需求，但他们认为不会出现大规模抛售的迫在眉睫的风险。 琼斯表示，尽管地缘政治紧张局势和政策不确定性可能会促使投资者随着时间的推移要求更高的收益率，但美国国债仍然难以大规模替代。 布朗巴克补充说，美国尚未接近偿付能力或系统性临界点。 他们与傅斯佳一起参与了“彭博真实收益率”的对话。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[Meta 禁止全球青少年接触人工智能角色 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGh3dGtWcXJxemtDYUdob2ctOXVHUDk1Zmw4Sk53QVVIVzZnUURBNmczMmNjZS1XcXRXVnppNmFzaW5qTFlvanV4RUpZelQ0ZjJTb2wzLTVfbDNDeTFHX1NzaXdMQ2VUUFdsNW5waFFRZXhQUllrYjdKZC04bk9vNGtRLXB0Q253RzRHTzNhLVFUeC1LQ3c?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGh3dGtWcXJxemtDYUdob2ctOXVHUDk1Zmw4Sk53QVVIVzZnUURBNmczMmNjZS1XcXRXVnppNmFzaW5qTFlvanV4RUpZelQ0ZjJTb2wzLTVfbDNDeTFHX1NzaXdMQ2VUUFdsNW5waFFRZXhQUllrYjdKZC04bk9vNGtRLXB0Q253RzRHTzNhLVFUeC1LQ3c?oc=5</guid>
@@ -581,13 +588,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzdPZVFZTjVtbjdnZnJDVVlGVnNqU3BnUl9wdnBTQ2xGYWdmcnpEcmxRWG5Qck9Sc3ZGUk5BMnZSRm5uVWdLRjJTQWFCS1dKbzNRLVBWb2Z5MjlkMTlkYTlaMVgxT2xqN2JUdVBNSGRxWWcyMV9BVGJZYndQeE5VcERCRGpRWXJ4QjQyano0ZDZRZlNSazl5NHhBTnllN1hVZnVxak5vYVhSdEdMemdsOVhNNFp5bm5UREstYWcydzVaZGRiRi1QdlQ0aw?oc=5</guid>
             <pubDate>Fri, 23 Jan 2026 17:22:35 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 船舶数据显示，美国石脑油开始抵达委内瑞拉，以恢复重油产量 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国如何控制伊拉克石油收入 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFlodmhtb204NlFjZ2VNQm5QYlRDWlhDUjBDLUl6bk40N1llRF85NUJwbzF1bnJ0Vi11VDVxRE9RUl9hYlNPZGVDT0laVFB4VTFObjd0cEtDMDY0U1pUejNDSTBPcEhoNVdYMGtzeEtHanRWcUUwVnRXYzhic0dsOGpRT2hzUzBjTVFKOE1naw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFlodmhtb204NlFjZ2VNQm5QYlRDWlhDUjBDLUl6bk40N1llRF85NUJwbzF1bnJ0Vi11VDVxRE9RUl9hYlNPZGVDT0laVFB4VTFObjd0cEtDMDY0U1pUejNDSTBPcEhoNVdYMGtzeEtHanRWcUUwVnRXYzhic0dsOGpRT2hzUzBjTVFKOE1naw?oc=5</guid>
-            <pubDate>Fri, 23 Jan 2026 17:21:03 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国如何控制伊拉克的石油收入 路透]]></description>
         </item>
         <item>
             <title><![CDATA[地缘政治担忧导致美国股票基金资金外流 - 路透中文网]]></title>
