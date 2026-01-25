@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 25 Jan 2026 22:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 22:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -16,11 +16,25 @@
             <description><![CDATA[[Bloomberg] 随着日本首相高市呼吁提前大选，预计价格波动将更加难以预测和剧烈]]></description>
         </item>
         <item>
+            <title><![CDATA[摩根士丹利准备进入日本现货电力交易市场]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-25/morgan-stanley-prepares-to-enter-japan-spot-power-trading-market</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-25/morgan-stanley-prepares-to-enter-japan-spot-power-trading-market</guid>
+            <pubDate>Sun, 25 Jan 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 摩根士丹利正准备开始在日本进行实物电力交易，这是最新一家寻求从动荡的市场中获利的海外金融机构。]]></description>
+        </item>
+        <item>
             <title><![CDATA[日元在干预威胁下扩大涨幅：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-25/yen-extends-gains-amid-threat-of-intervention-markets-wrap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-25/yen-extends-gains-amid-threat-of-intervention-markets-wrap</guid>
             <pubDate>Sun, 25 Jan 2026 21:46:33 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 由于日本提高了干预措施以阻止日元近期下滑的警惕性，日元兑美元扩大了涨势。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[货币市场警惕干预日元 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgzNVlrTllaT2Y4V2ladDJXTS1aWlpJOF96am9IY1RTcWNHWDZjSEhEVWVlTHhYWE1jdDI5elRaM0hMRFRnZUtrZnF0ZWVnakE2MEcxNm1BQVZTSFVPWXBIUWtyTklsZUppeUV5M01LbWJJbmRZRDVSS1FuS3doUjI1UlllUkFMQ3RTZ3hRM05wbHRXNFlLTkhVbVpyZDA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgzNVlrTllaT2Y4V2ladDJXTS1aWlpJOF96am9IY1RTcWNHWDZjSEhEVWVlTHhYWE1jdDI5elRaM0hMRFRnZUtrZnF0ZWVnakE2MEcxNm1BQVZTSFVPWXBIUWtyTklsZUppeUV5M01LbWJJbmRZRDVSS1FuS3doUjI1UlllUkFMQ3RTZ3hRM05wbHRXNFlLTkhVbVpyZDA?oc=5</guid>
+            <pubDate>Sun, 25 Jan 2026 21:31:52 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 货币市场警惕干预日元汇率 路透]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
@@ -95,13 +109,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-25/power-outages-as-big-winter-storm-reaches-us-east-coast-video</guid>
             <pubDate>Sun, 25 Jan 2026 19:22:16 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 周日，一场大规模的冬季风暴袭击了美国大西洋海岸，带来了大雪和冰冻，给电网带来了压力，并导致数千架航班停飞，停飞程度达到了疫情大流行以来的最高水平。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[货币市场警惕干预日元 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgzNVlrTllaT2Y4V2ladDJXTS1aWlpJOF96am9IY1RTcWNHWDZjSEhEVWVlTHhYWE1jdDI5elRaM0hMRFRnZUtrZnF0ZWVnakE2MEcxNm1BQVZTSFVPWXBIUWtyTklsZUppeUV5M01LbWJJbmRZRDVSS1FuS3doUjI1UlllUkFMQ3RTZ3hRM05wbHRXNFlLTkhVbVpyZDA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkgzNVlrTllaT2Y4V2ladDJXTS1aWlpJOF96am9IY1RTcWNHWDZjSEhEVWVlTHhYWE1jdDI5elRaM0hMRFRnZUtrZnF0ZWVnakE2MEcxNm1BQVZTSFVPWXBIUWtyTklsZUppeUV5M01LbWJJbmRZRDVSS1FuS3doUjI1UlllUkFMQ3RTZ3hRM05wbHRXNFlLTkhVbVpyZDA?oc=5</guid>
-            <pubDate>Sun, 25 Jan 2026 19:05:10 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 货币市场警惕干预日元汇率 路透]]></description>
         </item>
         <item>
             <title><![CDATA[市长称俄罗斯对乌克兰基辅的袭击导致1,330座建筑仍未供暖 - 路透中文网]]></title>
@@ -283,7 +290,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-01-25/kazakh-oil-flows-set-to-normalize-as-black-sea-mooring-restored</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-25/kazakh-oil-flows-set-to-normalize-as-black-sea-mooring-restored</guid>
             <pubDate>Sun, 25 Jan 2026 11:35:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 里海管道联盟表示，海上系泊装置已恢复运行，使原油能够流经占哈萨克斯坦石油出口约 90% 的路线。]]></description>
+            <description><![CDATA[[Bloomberg] 里海管道联盟表示，海上系泊设施已恢复运行，使原油能够流经占哈萨克斯坦石油出口约 90% 的路线。]]></description>
         </item>
         <item>
             <title><![CDATA[存储狂潮！高盛1月渠道调查：DRAM价格近期面临强劲上涨 - 华尔街见闻]]></title>
@@ -293,11 +300,11 @@
             <description><![CDATA[[华尔街见闻] 存储狂潮！高盛1月渠道调查：DRAM价格近期面临强劲上涨  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[高市警告后市场警惕日元干预]]></title>
+            <title><![CDATA[高市警告提高干预风险，日元延续涨势]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-25/market-on-high-alert-for-yen-intervention-after-takaichi-warning</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-25/market-on-high-alert-for-yen-intervention-after-takaichi-warning</guid>
             <pubDate>Sun, 25 Jan 2026 11:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 日元延续涨势，本周伊始，交易员就对日本政府为阻止日元近期下滑而进行干预（可能需要美国罕见的援助）提高警惕，首相高市早苗警告称要对异常走势采取行动。]]></description>
+            <description><![CDATA[[Bloomberg] 日元周一延续涨势，交易员在本周伊始就对日本在日元近期下跌后干预市场的情况提高了警惕。]]></description>
         </item>
         <item>
             <title><![CDATA[在特朗普总统免除该行业对大型投资者的监管后，建租业务似乎即将起飞]]></title>
@@ -373,7 +380,7 @@
             <title><![CDATA[第一夫人梅拉尼娅·特朗普在白宫私人放映中预览新片 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQMWpiOWQzYndDR1JXa3BhZnJXSWZMdlVPaWZISWJldmdXNHVubmtZcWkzeG40d1lsbXVfaElsRnNtdk9wM2lVdnE2eHVOTlB5SFRZNjhHQnpJazVYRTFHSDhaRUxfTjNTS21ZdmVQN2gzMldjam82V3BwUmZCVzlvQW54eW40X0F1aGtlYVlMeVJPd2lBN2c4Z1Nha3RjRVF0UUlKdmpXLVRHZmxUVlU0X0FHd3pGVVYwa1hxTlVKSjFPQ3RsQkFQYmJ3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxQMWpiOWQzYndDR1JXa3BhZnJXSWZMdlVPaWZISWJldmdXNHVubmtZcWkzeG40d1lsbXVfaElsRnNtdk9wM2lVdnE2eHVOTlB5SFRZNjhHQnpJazVYRTFHSDhaRUxfTjNTS21ZdmVQN2gzMldjam82V3BwUmZCVzlvQW54eW40X0F1aGtlYVlMeVJPd2lBN2c4Z1Nha3RjRVF0UUlKdmpXLVRHZmxUVlU0X0FHd3pGVVYwa1hxTlVKSjFPQ3RsQkFQYmJ3?oc=5</guid>
-            <pubDate>Sun, 25 Jan 2026 01:00:00 GMT</pubDate>
+            <pubDate>Sun, 25 Jan 2026 01:00:06 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 第一夫人梅拉尼娅·特朗普在白宫私人放映中预览新片路透社]]></description>
         </item>
         <item>
@@ -473,13 +480,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-24/tense-fed-is-set-to-lead-global-peers-with-interest-rate-hold</guid>
             <pubDate>Sat, 24 Jan 2026 21:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 美联储和刚刚支持其陷入困境的主席的三个央行准备在全球政策制定者的紧张时刻维持利率不变。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最垃圾的垃圾债券今年需求量很大：《信贷周刊》]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-24/the-junkiest-junk-bonds-are-finding-big-demand-this-year-credit-weekly</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-24/the-junkiest-junk-bonds-are-finding-big-demand-this-year-credit-weekly</guid>
-            <pubDate>Sat, 24 Jan 2026 20:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 今年头几周表现最好的一些美国债务的评级是最低的，这意味着企业违约目前在投资者担忧的名单中排名靠后。]]></description>
         </item>
         <item>
             <title><![CDATA[法国央行行长感叹削减赤字的力度微乎其微]]></title>
@@ -583,7 +583,7 @@
             <title><![CDATA[歌剧明星蕾妮·弗莱明退出肯尼迪中心五月演出 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkU1d2JaN1k4TVhxUkdjdUFST3RCdVlPV21MUVhJam04QkdDZ1NsZHlOX0F1Q0ozWnF3VXF6b1Y2NDR4VlF5QWVIMTlTeHFEalg1MERBRnFCeDVPYWw5QmlHQ2RSWjV3b0ROLVMwRGI5ZGhVMU5ra2JBM0hXME4wb3dnT0hIc0h6S3NVOTdlbmlrdW9mZnlMUXkwdzNKWnNnM2NQcE8tREdoSVhpd1k3OGRITU82dTctanBlOXNBOFhkejA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkU1d2JaN1k4TVhxUkdjdUFST3RCdVlPV21MUVhJam04QkdDZ1NsZHlOX0F1Q0ozWnF3VXF6b1Y2NDR4VlF5QWVIMTlTeHFEalg1MERBRnFCeDVPYWw5QmlHQ2RSWjV3b0ROLVMwRGI5ZGhVMU5ra2JBM0hXME4wb3dnT0hIc0h6S3NVOTdlbmlrdW9mZnlMUXkwdzNKWnNnM2NQcE8tREdoSVhpd1k3OGRITU82dTctanBlOXNBOFhkejA?oc=5</guid>
-            <pubDate>Sat, 24 Jan 2026 02:46:40 GMT</pubDate>
+            <pubDate>Sat, 24 Jan 2026 02:46:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 歌剧明星蕾妮·弗莱明退出肯尼迪中心 5 月的演出 路透]]></description>
         </item>
         <item>
@@ -620,6 +620,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OWjBCbUpjb2Jfei1NV0JhYXc0cXVrekFrQUNNTEs2dUJ0c2lsSUNtRnVLYTJtdlNQU3JzYlFZNHZQaGpBa2p6X2tRVzhuNUJfQ0tZ?oc=5</guid>
             <pubDate>Sat, 24 Jan 2026 00:40:58 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 美媒：特朗普政府正在考虑全面封锁古巴石油进口  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[去年8月以来最大涨幅！日元一天两波拉涨，日美联合干预汇市要来了？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4cUI4RGZHOFZfc2NhWFJnbVZlOVJmeGJ6NmM0dU1jcnRKckxEM3hDcEhRSGFOV1M5X2duLTU0eThpQjFwRE5YWEgzSDJDM0pncWRv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4cUI4RGZHOFZfc2NhWFJnbVZlOVJmeGJ6NmM0dU1jcnRKckxEM3hDcEhRSGFOV1M5X2duLTU0eThpQjFwRE5YWEgzSDJDM0pncWRv?oc=5</guid>
+            <pubDate>Fri, 23 Jan 2026 23:29:34 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 去年8月以来最大涨幅！日元一天两波拉涨，日美联合干预汇市要来了？  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[美国疫苗小组负责人质疑脊髓灰质炎建议 - 路透中文网]]></title>
@@ -704,13 +711,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzQ3eUpFNjBEakE4dzZoSlVaMEhWYkNHRDRuMHROTDFmZkdjVkw2cUJNYUMySXlKdTFaNlVic19tdDZ0RE1HaEhjbTdHV1hiU1NENWxJUUZqbzlvVE5oTTFnb2VIVUFVZjBHd2ZaSF82YzdpRDFuemZDdjh6Y3hTWFljT044bFRNV0FHTWlDODNiVXVlT1lpUXZ6WThKNmJuT1BFcUtn?oc=5</guid>
             <pubDate>Fri, 23 Jan 2026 17:24:40 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美联储将中国科技视为美元对冲工具，重点关注盈利_路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[未来一周外汇、债券：美联储利率决定成为焦点]]></title>
-            <link>https://www.wsj.com/economy/week-ahead-for-fx-bonds-fed-rate-decision-in-focus-43267151</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/week-ahead-for-fx-bonds-fed-rate-decision-in-focus-43267151</guid>
-            <pubDate>Fri, 23 Jan 2026 17:10:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 未来一周焦点将回归经济和货币政策，美联储会议可能成为未来几天的亮点。]]></description>
         </item>
     </channel>
 </rss>
