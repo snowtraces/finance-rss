@@ -4,23 +4,72 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 30 Jan 2026 21:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 21:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[2026 年拥挤的华尔街交易突然崩溃警告]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-30/crowded-wall-street-trades-show-cracks-in-latest-2026-warning</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-30/crowded-wall-street-trades-show-cracks-in-latest-2026-warning</guid>
+            <pubDate>Fri, 30 Jan 2026 21:40:21 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在以投资者拥挤和散户势头为标志的华尔街时代，本周的情况表明信念消失得有多快。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TLT 交易员在特朗普提名沃什担任美联储主席之前离场]]></title>
+            <link>https://www.bloomberg.com/news/newsletters/2026-01-30/tlt-traders-exited-ahead-of-trump-tapping-warsh-for-fed-chair</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-01-30/tlt-traders-exited-ahead-of-trump-tapping-warsh-for-fed-chair</guid>
+            <pubDate>Fri, 30 Jan 2026 21:38:49 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 早在特朗普任命沃什之前，ETF 投资者就开始抛售长期债券。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据知情人士透露，特朗普总统计划提名经济学家布雷特·松本(Brett Matsumoto)担任劳工统计局局长]]></title>
+            <link>https://www.wsj.com/economy/trump-bls-brett-matsumoto-f728acde</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/trump-bls-brett-matsumoto-f728acde</guid>
+            <pubDate>Fri, 30 Jan 2026 21:38:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 下一任局长布雷特·松本 (Brett Matsumoto) 自 2015 年以来一直在劳工统计局担任经济学家。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国股市收低；截至收盘道琼斯工业平均指数下跌0.36%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3192362</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3192362</guid>
+            <pubDate>Fri, 30 Jan 2026 21:31:47 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌2.78%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3192361</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3192361</guid>
+            <pubDate>Fri, 30 Jan 2026 21:30:56 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加拿大股市收低；截至收盘加拿大多伦多S&P/TSX 综合指数下跌3.31%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3192360</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3192360</guid>
+            <pubDate>Fri, 30 Jan 2026 21:30:18 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[标准普尔、纳斯达克指数下跌； 特朗普任命沃什后美元上涨 结束钟声]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-01-30/s-p-nasdaq-fall-closing-bell-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-30/s-p-nasdaq-fall-closing-bell-video</guid>
+            <pubDate>Fri, 30 Jan 2026 21:27:21 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Romaine Bostick、Katie Greifeld、Carol Massar 和 Tim Stenovec 在 Bloomberg Television、Bloomberg Radio 和 YouTube 上对美国市场进行全面跨平台报道。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚股市收低；截至收盘COLCAP下跌0.75%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3192357</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3192357</guid>
+            <pubDate>Fri, 30 Jan 2026 21:25:20 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index下跌0.55%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3192345</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3192345</guid>
             <pubDate>Fri, 30 Jan 2026 21:20:16 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[据知情人士透露，特朗普总统计划提名经济学家布雷特·松本(Brett Matsumoto)担任劳工统计局局长]]></title>
-            <link>https://www.wsj.com/economy/trump-picks-veteran-staffer-to-head-bureau-of-labor-statistics-f728acde</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/trump-picks-veteran-staffer-to-head-bureau-of-labor-statistics-f728acde</guid>
-            <pubDate>Fri, 30 Jan 2026 21:20:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 下一任局长布雷特·松本 (Brett Matsumoto) 自 2015 年以来一直在劳工统计局担任经济学家。]]></description>
         </item>
         <item>
             <title><![CDATA[对冲基金将看涨白银押注削减至 23 个月低点]]></title>
@@ -114,25 +163,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[2026年值得关注的顶级美元店股票，据WarrenAI分析]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3192319</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3192319</guid>
-            <pubDate>Fri, 30 Jan 2026 20:34:07 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[谷歌人工智能工具引发担忧，Unity、视频游戏股下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-01-30/unity-video-game-stocks-fall-as-google-s-ai-tool-genie-sparks-fears</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-30/unity-video-game-stocks-fall-as-google-s-ai-tool-genie-sparks-fears</guid>
             <pubDate>Fri, 30 Jan 2026 20:30:37 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 由于担心谷歌开始推出 Project Genie 后人工智能可能受到干扰，Unity Software Inc. 和视频游戏股票周五暴跌。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴西股市收低；截至收盘巴西IBOVESPA股指下跌1.37%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3192316</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3192316</guid>
-            <pubDate>Fri, 30 Jan 2026 20:30:17 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普最终选出了美联储主席——凯文·沃什对投资者意味着什么]]></title>
@@ -168,13 +203,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/01/30/overseas-markets-international-stocks-investing-etfs.html</guid>
             <pubDate>Fri, 30 Jan 2026 20:09:36 GMT</pubDate>
             <description><![CDATA[[CNBC] 2025 年国际市场繁荣，投资专家表示，从金属到科技再到银行业，海外股市仍然存在大量上涨机会。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Solv Energy寻求5.125亿美元IPO融资以满足数据中心电力需求]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3192299</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3192299</guid>
-            <pubDate>Fri, 30 Jan 2026 20:08:49 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[斯堪达·阿玛纳特 (Skanda Amarnath) 谈论凯文·沃什 (Kevin Warsh) 的风险]]></title>
@@ -237,28 +265,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-01-30/real-yield-1-30-2025-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-30/real-yield-1-30-2025-video</guid>
             <pubDate>Fri, 30 Jan 2026 19:41:07 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] “彭博真实收益率”重点介绍了您需要了解的影响市场的新闻。 今天的嘉宾有：哥伦比亚Threadneedle Investments全球固定收益主管Gene Tannuzzo、道明证券美国利率策略Gennadiy Goldberg、瑞银全球财富管理应税收入策略主管Leslie Falconio、Beach Point Capital Management投资组合经理Sinjin Bowron和罗切斯特大学金融学教授Narayana Kocherlakota。   （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PennyMac 的利润低于预期，抵押贷款机构陷入困境]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-30/mortgage-lenders-sink-as-pennymac-s-profit-lags-expectations</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-30/mortgage-lenders-sink-as-pennymac-s-profit-lags-expectations</guid>
-            <pubDate>Fri, 30 Jan 2026 19:26:10 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] （更新第四段中的库存变动。）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DraftKings股票因纽约博彩数据令人失望而下跌]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3192277</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3192277</guid>
-            <pubDate>Fri, 30 Jan 2026 19:11:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加拿大统计局在受到批评后更改通胀发布日期]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-30/statistics-canada-changes-inflation-release-date-after-criticism</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-30/statistics-canada-changes-inflation-release-date-after-criticism</guid>
-            <pubDate>Fri, 30 Jan 2026 19:10:31 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 加拿大中央统计局改变了计划发布主要通胀数据的日期，此前经济学家警告不要在下个月加拿大金融市场因假期休市时发布数据。]]></description>
+            <description><![CDATA[[Bloomberg] “彭博真实收益率”重点介绍了您需要了解的影响市场的新闻。 今天的嘉宾有：哥伦比亚Threadneedle Investments全球固定收益主管Gene Tannuzzo、道明证券美国利率策略Gennadiy Goldberg、瑞银全球财富管理应税收入策略主管Leslie Falconio、Beach Point Capital Management投资组合经理Sinjin Bowron和罗彻斯特大学金融学教授Narayana Kocherlakota。   （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[美国运通是富人的信用卡提供商，希望吸引更多高消费人群]]></title>
@@ -266,13 +273,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/01/30/american-express-credit-card-high-spenders.html</guid>
             <pubDate>Fri, 30 Jan 2026 19:09:39 GMT</pubDate>
             <description><![CDATA[[CNBC] 美国运通的战略转变是 K 型经济的最新例子，即富有的消费者继续自由消费，而其他人则控制开支]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃克森美孚帝国石油公司将在百年产量后关闭诺曼威尔斯石油基地]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-30/exxon-s-imperial-to-shut-norman-wells-after-century-of-output</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-30/exxon-s-imperial-to-shut-norman-wells-after-century-of-output</guid>
-            <pubDate>Fri, 30 Jan 2026 19:07:34 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 帝国石油有限公司计划在运营一个世纪后关闭加拿大北极圈附近历史悠久的诺曼威尔斯石油生产基地。]]></description>
         </item>
         <item>
             <title><![CDATA[花旗认为黄金受到风险支撑，预计 2026 年晚些时候金价会有所减弱 - 路透中文网]]></title>
@@ -287,13 +287,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/feds-musalem-rejects-further-rate-cuts-6611cff8</guid>
             <pubDate>Fri, 30 Jan 2026 18:59:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 圣路易斯联储主席阿尔贝托·穆萨利姆表示，鉴于通胀仍高于美联储2%的目标，他不愿支持进一步降息。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[什么软件股票告诉我们有关铜热潮的信息]]></title>
-            <link>https://www.bloomberg.com/news/newsletters/2026-01-30/what-software-stocks-are-telling-us-about-the-copper-boom</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-01-30/what-software-stocks-are-telling-us-about-the-copper-boom</guid>
-            <pubDate>Fri, 30 Jan 2026 18:45:31 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 您好，欢迎来到时事通讯，这是来自 Odd Lot 宇宙的每日内容的抓包。 有时是我们乔·韦森塔尔和特雷西·阿洛韦为您带来我们对市场、金融和经济最新发展的看法。 有时，这是来自我们的专家嘉宾和来源网络的贡献。 无论是什么，我们保证它永远会很有趣。]]></description>
         </item>
         <item>
             <title><![CDATA[中午涨幅最大的股票：Newmont、Apple、Sandisk、Deckers Outdoor 等]]></title>
@@ -315,6 +308,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/01/30/who-is-kevin-warsh-trumps-fed-chair-pick.html</guid>
             <pubDate>Fri, 30 Jan 2026 18:28:58 GMT</pubDate>
             <description><![CDATA[[CNBC] 前美联储理事凯文·沃什 (Kevin Warsh) 已成为唐纳德·特朗普 (Donald Trump) 提名的美联储主席。 以下是他的背景、观点以及其重要性。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着原油价格飙升，埃克森美孚和雪佛龙迎来 2022 年以来最好的月份]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-01-30/exxon-chevron-head-for-best-month-since-2022-as-crude-surges</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-30/exxon-chevron-head-for-best-month-since-2022-as-crude-surges</guid>
+            <pubDate>Fri, 30 Jan 2026 18:28:27 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 受能源价格上涨、地缘政治紧张局势和基本面改善的推动，美国石油巨头埃克森美孚公司和雪佛龙公司的股价创下三年多来最大月度涨幅。]]></description>
         </item>
         <item>
             <title><![CDATA[未来一周外汇、债券：美国就业数据、央行决策成为焦点]]></title>
@@ -562,13 +562,6 @@
             <description><![CDATA[[华尔街见闻] 美银Hartnett预警：全球股市陷入“超买”困境，技术指标触及历史性卖出信号  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[埃克森美孚和雪佛龙提高石油产量，抑制原油价格下跌]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-30/exxon-beats-estimates-as-growth-refining-cushion-oil-drop</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-30/exxon-beats-estimates-as-growth-refining-cushion-oil-drop</guid>
-            <pubDate>Fri, 30 Jan 2026 11:30:13 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 埃克森美孚公司和雪佛龙公司的利润超出预期，因为石油产量增加帮助抵消了原油价格下跌的打击。]]></description>
-        </item>
-        <item>
             <title><![CDATA[特朗普选出新任美联储主席后，黄金暴跌，多伦多证券交易所暴跌逾 2% - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhkRE9OTFI4cWRtaktFYWM4MEsyRnV6RE9iXzdqQ2NiS0wwTmZwOVJUcC1OZHhlTXVwSnU4TjA2Z193Q1ZYdE5OMmVpYlFkTV9nbU1MMGdfbUpfUk1UNVhfZ3NfMEc4OElHSENwNlRqUTdydVcyTGc1N1NYOUNpbkdpLXdZbTU3bkM1VmxjWFJ4S182SEtOZkRidEljZnFSaldLTWZ6MzZEMkgwVlJuTXlsQmswSHJCWFE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxOWHhkRE9OTFI4cWRtaktFYWM4MEsyRnV6RE9iXzdqQ2NiS0wwTmZwOVJUcC1OZHhlTXVwSnU4TjA2Z193Q1ZYdE5OMmVpYlFkTV9nbU1MMGdfbUpfUk1UNVhfZ3NfMEc4OElHSENwNlRqUTdydVcyTGc1N1NYOUNpbkdpLXdZbTU3bkM1VmxjWFJ4S182SEtOZkRidEljZnFSaldLTWZ6MzZEMkgwVlJuTXlsQmswSHJCWFE?oc=5</guid>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2tadUZKclRuQjdtVnZWckNQQnRyNEtRZS1FYUtaTExtR3ZxR3VTSGtyYzFIc1RDazNjRG1jYW9jUl9fZGk5UWJ0VVVDRU5kdS1mOTRfTmRfOVU2ZkJxUG9hbUJBNGlhTnUyaks2R0ZrYl9GT0JRNnpyYkstX3pXR3g0MjRPZjB5NHFsSkJpOWxCeEZUMFlzXy1mVGJCUlpwT1BJ?oc=5</guid>
             <pubDate>Fri, 30 Jan 2026 09:18:10 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 西班牙经济 2025 年增长 2.8%，远超其他国家 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们的货币，你的问题 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEhoQW91VXRvMS1GYTdWZnZmUlpjemFLaDk1ZW5La1ZmemRsaGtkTEMzYlJfYkJwTlVIQzZpaExuWVpSV2E2TVB5RmdFcVNpMmh2bG5xMlU1N0d4eW9DNFhTajlQTGFPYUplVC1Da0JsM1dFX2pKQ1FvU2xYcGtrdy1oVXIyd2RrYVRaYQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEhoQW91VXRvMS1GYTdWZnZmUlpjemFLaDk1ZW5La1ZmemRsaGtkTEMzYlJfYkJwTlVIQzZpaExuWVpSV2E2TVB5RmdFcVNpMmh2bG5xMlU1N0d4eW9DNFhTajlQTGFPYUplVC1Da0JsM1dFX2pKQ1FvU2xYcGtrdy1oVXIyd2RrYVRaYQ?oc=5</guid>
+            <pubDate>Fri, 30 Jan 2026 08:55:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 我们的货币，你的问题 路透社]]></description>
         </item>
     </channel>
 </rss>
