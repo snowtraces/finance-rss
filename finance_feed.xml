@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 01 Feb 2026 17:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Feb 2026 18:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[澳大利亚准备调头加息，打破全球趋势]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-01/australia-set-for-u-turn-to-rate-hike-in-break-from-global-trend</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/australia-set-for-u-turn-to-rate-hike-in-break-from-global-trend</guid>
+            <pubDate>Sun, 01 Feb 2026 18:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 澳大利亚央行面临着与全球谷物背道而驰的令人不安的前景，并在本周重新加息以抑制通胀复苏——距离上次降息还不到六个月。]]></description>
+        </item>
         <item>
             <title><![CDATA[智通港股投资日志|2月2日]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3192869</link>
@@ -42,6 +49,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html</guid>
             <pubDate>Sun, 01 Feb 2026 13:36:17 GMT</pubDate>
             <description><![CDATA[[CNBC] 摩根士丹利分析师重点关注销售专业机器人零件的公司的股票。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[债券买家遍寻拉丁美洲，押注于与特朗普关系密切的国家]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-01/bond-buyers-scour-latin-america-to-bet-on-nations-close-to-trump</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/bond-buyers-scour-latin-america-to-bet-on-nations-close-to-trump</guid>
+            <pubDate>Sun, 01 Feb 2026 13:30:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 从 T. Rowe Price Group Inc. 到 TCW Group Inc. 等投资者都在拥抱一项正在迅速成为新兴市场常态的战略：向与唐纳德·特朗普总统结盟的拉丁美洲国家注入资金。]]></description>
         </item>
         <item>
             <title><![CDATA[尽管加息迫在眉睫，澳大利亚房价仍加速上涨]]></title>
@@ -443,20 +457,6 @@
             <description><![CDATA[[Bloomberg] 特朗普政府正在直接持有私营企业的股权，从芯片制造商英特尔到稀土生产商 MP Materials，重塑政府与市场之间的关系。 威利特顾问公司的史蒂文·拉特纳和大西洋理事会的莎拉·鲍尔勒·丹兹曼权衡了国家安全的优点，以证明政府选择赢家和输家的合理性，以及这对自由市场的竞争、创新和信任意味着什么。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[私人信用担忧困扰最大收购商店的股票]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-31/private-credit-worries-bedevil-shares-of-biggest-buyout-shops</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-31/private-credit-worries-bedevil-shares-of-biggest-buyout-shops</guid>
-            <pubDate>Sat, 31 Jan 2026 14:30:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 交易正在反弹，客户支出有所增加，年度利润预计也会上升——但由于投资者的焦虑不断加剧，华尔街另类投资巨头的股价在一月份跌至十年来最糟糕的水平。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[印尼将在市场暴跌后调查股价操纵行为]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-31/indonesia-to-probe-stock-price-manipulation-after-market-rout</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-31/indonesia-to-probe-stock-price-manipulation-after-market-rout</guid>
-            <pubDate>Sat, 31 Jan 2026 14:18:47 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 印度尼西亚表示，随着当局加大力度恢复对其资产市场的信心，该国将打击股票操纵者并加速金融改革。]]></description>
-        </item>
-        <item>
             <title><![CDATA[订单已排到2027年底！“电力心脏”，全球爆单！ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EWDZvOURhWktsTWxDSjFvRWFVMXl0NUFmbEZrTm5PMTFxUmlNblRndVpGSV9Cemt6eTZUTWo4cGV5VjRsOXlZY1Jzc3VCU2FlTkZn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EWDZvOURhWktsTWxDSjFvRWFVMXl0NUFmbEZrTm5PMTFxUmlNblRndVpGSV9Cemt6eTZUTWo4cGV5VjRsOXlZY1Jzc3VCU2FlTkZn?oc=5</guid>
@@ -504,6 +504,13 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/kevin-warshs-three-tasks-shrink-the-fed-tame-inflation-manage-the-president-2640eace</guid>
             <pubDate>Sat, 31 Jan 2026 10:30:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 如果得到确认，特朗普的美联储主席提名人将面临几项危险的平衡行为。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高盛首席律师卷入“爱泼斯坦丑闻”，亲昵直呼“爱泼斯坦叔叔”，并获赠爱马仕 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQZU1IT0w5a1NPdXduRXFZQU4xMU1DTlljTlJKc09EVEtEQU5Ta0FvQ3JJWFdXbTdRT3NKdGNnamNQZVYwQ29VNWYtdHB6WW9FV0dV?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQZU1IT0w5a1NPdXduRXFZQU4xMU1DTlljTlJKc09EVEtEQU5Ta0FvQ3JJWFdXbTdRT3NKdGNnamNQZVYwQ29VNWYtdHB6WW9FV0dV?oc=5</guid>
+            <pubDate>Sat, 31 Jan 2026 10:15:36 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 高盛首席律师卷入“爱泼斯坦丑闻”，亲昵直呼“爱泼斯坦叔叔”，并获赠爱马仕  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[美联储将迎来供给侧改革者——如何理解沃什的货币政策框架？ - 华尔街见闻]]></title>
@@ -604,13 +611,6 @@
             <description><![CDATA[[华尔街见闻] 贵金属率先崩盘，对于市场，真正的风险是.....  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[香港港口运营商合同违反巴拿马宪法和法院规则 - 路透社]]></title>
-            <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTR5QTYyTTRhd002dWZVdzQ2MnM4ajV3WHQyY3R1RWc1MzduU3RIeG1PbkNtT2RnaTNrZHVxbEhmVTdzdkxsS0tLMUQtc2FveEZxNG16dGJFOWF5T3R4NXJFVDVIZzJmRk5Va2lNc1NhZVVvQzZydll2TUxnR2ZURm1QSDZnLW1sc0RZc1BhRk1CR1d3SGJDSFYyUk5SQzFrU245UzByb1BNc3lFNWpBTTh6MzRHUWNQX25HaloyUGJOUXFDSGxsbmQwSUYya2tRdVF2RFR3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTR5QTYyTTRhd002dWZVdzQ2MnM4ajV3WHQyY3R1RWc1MzduU3RIeG1PbkNtT2RnaTNrZHVxbEhmVTdzdkxsS0tLMUQtc2FveEZxNG16dGJFOWF5T3R4NXJFVDVIZzJmRk5Va2lNc1NhZVVvQzZydll2TUxnR2ZURm1QSDZnLW1sc0RZc1BhRk1CR1d3SGJDSFYyUk5SQzFrU245UzByb1BNc3lFNWpBTTh6MzRHUWNQX25HaloyUGJOUXFDSGxsbmQwSUYya2tRdVF2RFR3?oc=5</guid>
-            <pubDate>Sat, 31 Jan 2026 01:07:30 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 法院裁定香港港口运营商合同违反巴拿马宪法 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国批准向沙特阿拉伯出售价值90亿美元的爱国者导弹 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNROWpKNmZ0a0FuaU13VTVDRUNxbE5FMTlZSDlFM3lMcUh0ZV9VeVU4cW8zbm1XMG4wZUlRT0s3SHg2ekhoT08wbVNpRTI5YW1lWDFOT1FXS2ZxWF9ybEcxaUlfbExkNlpGSVQ4LTlOTlZNTHAxLUJXVVhnWFByTFJPQXpqVUNBSDJqQlJQaFNNWnhEdlJ3UzZUQ0traklSdXdFeXlfZXBJZWd2QkVTTEZUNHlMNUdBNy1oaG15S0tja05DMHpMVA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNROWpKNmZ0a0FuaU13VTVDRUNxbE5FMTlZSDlFM3lMcUh0ZV9VeVU4cW8zbm1XMG4wZUlRT0s3SHg2ekhoT08wbVNpRTI5YW1lWDFOT1FXS2ZxWF9ybEcxaUlfbExkNlpGSVQ4LTlOTlZNTHAxLUJXVVhnWFByTFJPQXpqVUNBSDJqQlJQaFNNWnhEdlJ3UzZUQ0traklSdXdFeXlfZXBJZWd2QkVTTEZUNHlMNUdBNy1oaG15S0tja05DMHpMVA?oc=5</guid>
@@ -637,6 +637,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVlxY0R5TUotUlIwNWNCUE5IeHRXU01SbU1BRzdNY3BzaXZQZVpIN0ktQlVuT2R5VjJfbWdGdlhqNUZ0UnNTdTcwcE9BajZuYkxiajQtODVOQjk1YTBMTmFnSzJ1RklXMkhjZzlUelZ2dGlvNjYzUkdoVURyclFCRDZ6b2xQd3gzaWRyNU9sUkZrcjJ6MHF3b25VRGMwMWVJWWdBSGtVTFR4VWlNdDlZ?oc=5</guid>
             <pubDate>Sat, 31 Jan 2026 00:00:04 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据《华尔街日报》报道，Nvidia 向 OpenAI 投资高达 1000 亿美元的计划已陷入停滞 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[香港港口运营商合同违反巴拿马宪法和法院规则 - 路透社]]></title>
+            <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTR5QTYyTTRhd002dWZVdzQ2MnM4ajV3WHQyY3R1RWc1MzduU3RIeG1PbkNtT2RnaTNrZHVxbEhmVTdzdkxsS0tLMUQtc2FveEZxNG16dGJFOWF5T3R4NXJFVDVIZzJmRk5Va2lNc1NhZVVvQzZydll2TUxnR2ZURm1QSDZnLW1sc0RZc1BhRk1CR1d3SGJDSFYyUk5SQzFrU245UzByb1BNc3lFNWpBTTh6MzRHUWNQX25HaloyUGJOUXFDSGxsbmQwSUYya2tRdVF2RFR3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTR5QTYyTTRhd002dWZVdzQ2MnM4ajV3WHQyY3R1RWc1MzduU3RIeG1PbkNtT2RnaTNrZHVxbEhmVTdzdkxsS0tLMUQtc2FveEZxNG16dGJFOWF5T3R4NXJFVDVIZzJmRk5Va2lNc1NhZVVvQzZydll2TUxnR2ZURm1QSDZnLW1sc0RZc1BhRk1CR1d3SGJDSFYyUk5SQzFrU245UzByb1BNc3lFNWpBTTh6MzRHUWNQX25HaloyUGJOUXFDSGxsbmQwSUYya2tRdVF2RFR3?oc=5</guid>
+            <pubDate>Fri, 30 Jan 2026 23:56:30 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 法院裁定香港港口运营商合同违反巴拿马宪法 路透]]></description>
         </item>
         <item>
             <title><![CDATA[独家：消息人士称 Saks 终止与亚马逊的电子商务合作伙伴关系 - 路透中文网]]></title>
@@ -686,13 +693,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XcW50b09kUXl1VmhIUlJfcE93WmtzdkFuY3Ztc3dLUGItRW1YNC15NFdDWnNkRHNkR2FfT3ZvTlRLMXF6SGpiR1lfS012bUc5Yjgw?oc=5</guid>
             <pubDate>Fri, 30 Jan 2026 22:12:14 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 特朗普钦点美联储新主席，几位落选热门候选人喊话：利率太高该降了  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[投资者通过沃什的选择获得了美联储的一些明确性，但正在考虑利率路径 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ3FISGFIMEU0d2pxYmxiRU5uZ0dlNHE5V19jcGpUcWtQalh6Zy04SHRoeEN4SzBMSTdQVXZSaWVlWVRGcHZPMVpKaW8xamNuelpXOGxONnVMYUNxVFBlM2NTRkpJR01rNVNiR2M0X19UXy1VYWhxOVp6bVRzV1psWDJiRmFSWUJXR1U0UW5aeDVwVlR0QVhiTVZobXp4YUEwQkl5MGJiSDVyQU1RUFNPTnpZZw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ3FISGFIMEU0d2pxYmxiRU5uZ0dlNHE5V19jcGpUcWtQalh6Zy04SHRoeEN4SzBMSTdQVXZSaWVlWVRGcHZPMVpKaW8xamNuelpXOGxONnVMYUNxVFBlM2NTRkpJR01rNVNiR2M0X19UXy1VYWhxOVp6bVRzV1psWDJiRmFSWUJXR1U0UW5aeDVwVlR0QVhiTVZobXp4YUEwQkl5MGJiSDVyQU1RUFNPTnpZZw?oc=5</guid>
-            <pubDate>Fri, 30 Jan 2026 22:10:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 投资者通过沃什的选择获得了美联储的一些明确性，但正在考虑利率路径 路透]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普被“钦点”官员打脸：鲍曼称美联储可“从容不迫”降息 - 华尔街见闻]]></title>
