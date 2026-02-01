@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 01 Feb 2026 16:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Feb 2026 16:54:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,27 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3192869</guid>
             <pubDate>Sun, 01 Feb 2026 16:05:09 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尽管伊朗油价攀升，OPEC+仍坚持暂停供应]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-01/opec-sticks-with-supply-pause-even-as-oil-climbs-on-iran</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/opec-sticks-with-supply-pause-even-as-oil-climbs-on-iran</guid>
+            <pubDate>Sun, 01 Feb 2026 15:26:53 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] OPEC+批准了3月份保持产量稳定的计划——这是三个月供应冻结的最后一部分，即使在美国对伊朗实施打击的前景导致油价触及四个月高点之后也是如此。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[股市波动让位给大宗商品和外汇波动]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-01/stock-market-volatility-takes-back-seat-to-commodity-fx-swings</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/stock-market-volatility-takes-back-seat-to-commodity-fx-swings</guid>
+            <pubDate>Sun, 01 Feb 2026 15:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 今年迄今为止，股市的波动性远低于其他几乎所有市场，贵金属、货币和大宗商品市场的波动幅度更大。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[微软 3810 亿美元的惨败暴露了 AI 热潮的阴暗面]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-01/microsoft-s-381-billion-rout-exposes-dark-side-of-the-ai-binge</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/microsoft-s-381-billion-rout-exposes-dark-side-of-the-ai-binge</guid>
+            <pubDate>Sun, 01 Feb 2026 14:00:07 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 几个月来，华尔街对开发人工智能技术成本的担忧一直在股市的表面下酝酿。 现在它开始沸腾了。]]></description>
         </item>
         <item>
             <title><![CDATA[埃隆·马斯克（Elon Musk）更强调机器人而不是汽车。 以下是摩根士丹利推荐的三个人形零部件供应商]]></title>
@@ -111,7 +132,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-02-01/ncc-said-in-talks-to-sell-industry-unit-to-crh-heidelberg-group</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/ncc-said-in-talks-to-sell-industry-unit-to-crh-heidelberg-group</guid>
             <pubDate>Sun, 01 Feb 2026 10:49:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，北欧建筑公司 NCC AB 正在就将其工业业务出售给包括全球最大两家建筑材料公司 CRH Plc 和 Heidelberg Materials AG 在内的财团进行深入谈判。]]></description>
+            <description><![CDATA[[Bloomberg] 据知情人士透露，北欧建筑公司 NCC AB 正在就将其工业业务出售给包括全球最大的两家建筑材料公司 CRH Plc 和 Heidelberg Materials AG 在内的财团进行深入谈判。]]></description>
         </item>
         <item>
             <title><![CDATA[消息人士称，OPEC+原则上同意继续按计划暂停3月份石油产量上调 - 路透中文网]]></title>
@@ -167,14 +188,14 @@
             <link>https://www.bloomberg.com/news/articles/2026-02-01/india-seeks-diaspora-capital-as-foreign-funds-pull-out-of-local-stocks</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/india-seeks-diaspora-capital-as-foreign-funds-pull-out-of-local-stocks</guid>
             <pubDate>Sun, 01 Feb 2026 09:29:47 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于对企业盈利和其他地方更有吸引力的回报的担忧，全球基金纷纷撤资，印度正寻求从海外国民那里吸引更多资金投资当地股市。]]></description>
+            <description><![CDATA[[Bloomberg] 由于对企业盈利和其他地方更具吸引力的回报的担忧，全球基金纷纷撤资，印度正寻求从海外国民那里吸引更多资金投资当地股市。]]></description>
         </item>
         <item>
             <title><![CDATA[由于伊朗紧张局势推高油价，OPEC+同意维持石油产量不变 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPaU5nRTZBNmZ0MGFmWXJsRHNiVWFEY3U3bzZMcG5rOUhTcy1UUE5MQnpKdDA3NzROSi1TRzJjbVYyd0ZSRUFydjg1Qmp3d24wRzd3UEZfcWE4dGNsX3htSHJGNHBGX3I0UDlLczA5cDJxLVM3MEg0cTRtVWlsY29hUHlUSTZhNzR1bFl3bTZDWnlFUEdFWnhwRTFhSDNVRTZ3eUFkekxxSTFZcENhT2MxNmNFbkN4bk1FMTU0Rg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPaU5nRTZBNmZ0MGFmWXJsRHNiVWFEY3U3bzZMcG5rOUhTcy1UUE5MQnpKdDA3NzROSi1TRzJjbVYyd0ZSRUFydjg1Qmp3d24wRzd3UEZfcWE4dGNsX3htSHJGNHBGX3I0UDlLczA5cDJxLVM3MEg0cTRtVWlsY29hUHlUSTZhNzR1bFl3bTZDWnlFUEdFWnhwRTFhSDNVRTZ3eUFkekxxSTFZcENhT2MxNmNFbkN4bk1FMTU0Rg?oc=5</guid>
             <pubDate>Sun, 01 Feb 2026 09:06:15 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于伊朗紧张局势推高油价，OPEC+同意保持石油产量不变 路透]]></description>
+            <description><![CDATA[[Reuters Business] 由于伊朗紧张局势推高油价，OPEC+同意维持石油产量不变 路透]]></description>
         </item>
         <item>
             <title><![CDATA[法国科技公司凯捷称出售美国子公司 - 路透中文网]]></title>
@@ -223,7 +244,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-02-01/india-ramps-up-infrastructure-spending-in-130-billion-budget-push</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/india-ramps-up-infrastructure-spending-in-130-billion-budget-push</guid>
             <pubDate>Sun, 01 Feb 2026 07:25:24 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 印度计划在下一财年投资 12.2 万亿卢比（1,330 亿美元）基础设施，比去年增加约 9%，总理纳伦德拉·莫迪 (Narendra Modi) 政府加大支出，加速交通和物流网络的改革。]]></description>
+            <description><![CDATA[[Bloomberg] 印度计划在下一财年投资 12.2 万亿卢比（1,330 亿美元）基础设施，比去年增加约 9%，总理纳伦德拉·莫迪 (Narendra Modi) 政府加大支出，加速交通和物流网络的彻底改革。]]></description>
         </item>
         <item>
             <title><![CDATA[印度计划提高股票衍生品税震动市场]]></title>
@@ -450,32 +471,11 @@
             <description><![CDATA[[Bloomberg] 本周，特朗普总统宣布他打算提名凯文·沃什担任下一任美联储主席。 然后，政府所有权如何改变竞争、资本配置和美国市场的未来。 另外，削减 SNAP 是否会破坏食品杂货、农业和食品银行经济的稳定？ 后来，巨额资金正在改变青少年体育运动，推高成本并改变家庭追逐运动梦想的方式。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[美国政府在美国企业界和食品援助监管中发挥更大作用]]></title>
-            <link>https://www.bloomberg.com/news/newsletters/2026-01-31/the-government-s-role-in-our-corporations-and-in-feeding-us</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-01-31/the-government-s-role-in-our-corporations-and-in-feeding-us</guid>
-            <pubDate>Sat, 31 Jan 2026 13:00:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 当政府增加对私营公司的所有权并削减其粮食援助计划时会发生什么。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普敦促石油增长，埃克森美孚和雪佛龙对委内瑞拉持谨慎态度]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-31/exxon-chevron-cautious-on-venezuela-as-trump-urges-oil-growth</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-31/exxon-chevron-cautious-on-venezuela-as-trump-urges-oil-growth</guid>
-            <pubDate>Sat, 31 Jan 2026 13:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 埃克森美孚公司(Exxon Mobil Corp.)和雪佛龙公司(Chevron Corp.)正在谨慎权衡唐纳德·特朗普总统呼吁投资1000亿美元重建委内瑞拉石油工业的呼吁，以及导致它们在华尔街股价飙升的严格支出模式。]]></description>
-        </item>
-        <item>
             <title><![CDATA[俄罗斯放宽汽油出口限制 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDVuaGtGNlNLM1BpcXJRZUp2czNJRjRENmFSUmZHdklua1haXzUzN29zZkEwNm5oSEFLVEhXbUg1WVlzWkdxZ2dIWjZ6c281LTM5YmRqa0l3b1VzZzNzeUdvX3pkLUU3OE1YOHBwVTlxOHhCZkt4bmdTcERaWkNPdDI0dEVDQ21kQWhzUzloS2xHTUNJZ20ydWt3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDVuaGtGNlNLM1BpcXJRZUp2czNJRjRENmFSUmZHdklua1haXzUzN29zZkEwNm5oSEFLVEhXbUg1WVlzWkdxZ2dIWjZ6c281LTM5YmRqa0l3b1VzZzNzeUdvX3pkLUU3OE1YOHBwVTlxOHhCZkt4bmdTcERaWkNPdDI0dEVDQ21kQWhzUzloS2xHTUNJZ20ydWt3?oc=5</guid>
             <pubDate>Sat, 31 Jan 2026 12:05:22 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 俄罗斯放宽汽油出口限制 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯允许生产商在七月之前出口汽油]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-31/russia-to-allow-gasoline-exports-for-producers-through-july-31</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-31/russia-to-allow-gasoline-exports-for-producers-through-july-31</guid>
-            <pubDate>Sat, 31 Jan 2026 11:48:11 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 俄罗斯将允许燃料生产商出口汽油至 7 月 31 日，同时延长对其他供应商的临时禁令。]]></description>
         </item>
         <item>
             <title><![CDATA[沃什的“政权更迭”在规模庞大的美联储面临巨大障碍 - 路透中文网]]></title>
