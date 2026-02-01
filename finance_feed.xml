@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 01 Feb 2026 16:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Feb 2026 17:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -42,6 +42,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html</guid>
             <pubDate>Sun, 01 Feb 2026 13:36:17 GMT</pubDate>
             <description><![CDATA[[CNBC] 摩根士丹利分析师重点关注销售专业机器人零件的公司的股票。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尽管加息迫在眉睫，澳大利亚房价仍加速上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-01/australia-s-home-price-gains-accelerate-even-as-rate-hike-looms</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/australia-s-home-price-gains-accelerate-even-as-rate-hike-looms</guid>
+            <pubDate>Sun, 01 Feb 2026 13:01:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 澳大利亚一月份房价增长加快，凸显了储备银行政策制定者在权衡房地产市场加息时面临的挑战，而房地产市场已经面临承受能力紧张的问题。]]></description>
         </item>
         <item>
             <title><![CDATA[沙特阿拉伯股市收低；截至收盘沙特阿拉伯TASI指数下跌1.89%]]></title>
@@ -464,13 +471,6 @@
             <description><![CDATA[[Bloomberg] 据国际文传电讯社报道，俄罗斯摩尔曼斯克散货码头和商业海港的运营在当天早些时候暂停后于周六晚间恢复。]]></description>
         </item>
         <item>
-            <title><![CDATA[华尔街周刊 | 特朗普选择沃什、美国国家资本主义、快速削减开支、青少年体育业务]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-01-31/wall-street-week-snap-cuts-monetizing-youth-sports-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-01-31/wall-street-week-snap-cuts-monetizing-youth-sports-video</guid>
-            <pubDate>Sat, 31 Jan 2026 13:14:59 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 本周，特朗普总统宣布他打算提名凯文·沃什担任下一任美联储主席。 然后，政府所有权如何改变竞争、资本配置和美国市场的未来。 另外，削减 SNAP 是否会破坏食品杂货、农业和食品银行经济的稳定？ 后来，巨额资金正在改变青少年体育运动，推高成本并改变家庭追逐运动梦想的方式。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[俄罗斯放宽汽油出口限制 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDVuaGtGNlNLM1BpcXJRZUp2czNJRjRENmFSUmZHdklua1haXzUzN29zZkEwNm5oSEFLVEhXbUg1WVlzWkdxZ2dIWjZ6c281LTM5YmRqa0l3b1VzZzNzeUdvX3pkLUU3OE1YOHBwVTlxOHhCZkt4bmdTcERaWkNPdDI0dEVDQ21kQWhzUzloS2xHTUNJZ20ydWt3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDVuaGtGNlNLM1BpcXJRZUp2czNJRjRENmFSUmZHdklua1haXzUzN29zZkEwNm5oSEFLVEhXbUg1WVlzWkdxZ2dIWjZ6c281LTM5YmRqa0l3b1VzZzNzeUdvX3pkLUU3OE1YOHBwVTlxOHhCZkt4bmdTcERaWkNPdDI0dEVDQ21kQWhzUzloS2xHTUNJZ20ydWt3?oc=5</guid>
@@ -551,7 +551,7 @@
             <title><![CDATA[机构称印度尼西亚山体滑坡死亡人数上升至49人 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlJEMGZjY2NCOFVyUVYyazdaRnpmSUtHSnVMaFlDQUFXZUlFN0dHckd4V2ZGcWRoRHhYb3oxTVlESG9GMnFZZzk5VEVCeUJKWU94NXhSVG5aMGxxM19fX09PLVJSdDl0UGRZX1hZcnExMjgzYllNTWRaVjVBYWNnU1VEUmFpd0xPNVI1MVRfcTNGYlhjdWpnNG92WjhtVW1FS1F4TUlWcWtXS19E?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlJEMGZjY2NCOFVyUVYyazdaRnpmSUtHSnVMaFlDQUFXZUlFN0dHckd4V2ZGcWRoRHhYb3oxTVlESG9GMnFZZzk5VEVCeUJKWU94NXhSVG5aMGxxM19fX09PLVJSdDl0UGRZX1hZcnExMjgzYllNTWRaVjVBYWNnU1VEUmFpd0xPNVI1MVRfcTNGYlhjdWpnNG92WjhtVW1FS1F4TUlWcWtXS19E?oc=5</guid>
-            <pubDate>Sat, 31 Jan 2026 07:22:55 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 07:22:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 印尼山体滑坡死亡人数上升至 49 人，机构称路透社]]></description>
         </item>
         <item>
@@ -611,10 +611,17 @@
             <description><![CDATA[[Reuters Business] 独家：消息人士称 Saks 终止与亚马逊的电子商务合作伙伴关系 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[香港港口运营商合同违反巴拿马宪法和法院规则 - 路透社]]></title>
+            <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTR5QTYyTTRhd002dWZVdzQ2MnM4ajV3WHQyY3R1RWc1MzduU3RIeG1PbkNtT2RnaTNrZHVxbEhmVTdzdkxsS0tLMUQtc2FveEZxNG16dGJFOWF5T3R4NXJFVDVIZzJmRk5Va2lNc1NhZVVvQzZydll2TUxnR2ZURm1QSDZnLW1sc0RZc1BhRk1CR1d3SGJDSFYyUk5SQzFrU245UzByb1BNc3lFNWpBTTh6MzRHUWNQX25HaloyUGJOUXFDSGxsbmQwSUYya2tRdVF2RFR3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTR5QTYyTTRhd002dWZVdzQ2MnM4ajV3WHQyY3R1RWc1MzduU3RIeG1PbkNtT2RnaTNrZHVxbEhmVTdzdkxsS0tLMUQtc2FveEZxNG16dGJFOWF5T3R4NXJFVDVIZzJmRk5Va2lNc1NhZVVvQzZydll2TUxnR2ZURm1QSDZnLW1sc0RZc1BhRk1CR1d3SGJDSFYyUk5SQzFrU245UzByb1BNc3lFNWpBTTh6MzRHUWNQX25HaloyUGJOUXFDSGxsbmQwSUYya2tRdVF2RFR3?oc=5</guid>
+            <pubDate>Sat, 31 Jan 2026 01:07:30 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 法院裁定香港港口运营商合同违反巴拿马宪法 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[美国批准向沙特阿拉伯出售价值90亿美元的爱国者导弹 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNROWpKNmZ0a0FuaU13VTVDRUNxbE5FMTlZSDlFM3lMcUh0ZV9VeVU4cW8zbm1XMG4wZUlRT0s3SHg2ekhoT08wbVNpRTI5YW1lWDFOT1FXS2ZxWF9ybEcxaUlfbExkNlpGSVQ4LTlOTlZNTHAxLUJXVVhnWFByTFJPQXpqVUNBSDJqQlJQaFNNWnhEdlJ3UzZUQ0traklSdXdFeXlfZXBJZWd2QkVTTEZUNHlMNUdBNy1oaG15S0tja05DMHpMVA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNROWpKNmZ0a0FuaU13VTVDRUNxbE5FMTlZSDlFM3lMcUh0ZV9VeVU4cW8zbm1XMG4wZUlRT0s3SHg2ekhoT08wbVNpRTI5YW1lWDFOT1FXS2ZxWF9ybEcxaUlfbExkNlpGSVQ4LTlOTlZNTHAxLUJXVVhnWFByTFJPQXpqVUNBSDJqQlJQaFNNWnhEdlJ3UzZUQ0traklSdXdFeXlfZXBJZWd2QkVTTEZUNHlMNUdBNy1oaG15S0tja05DMHpMVA?oc=5</guid>
-            <pubDate>Sat, 31 Jan 2026 00:53:33 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 00:53:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国批准向沙特阿拉伯出售价值 90 亿美元的爱国者导弹 路透]]></description>
         </item>
         <item>
@@ -635,15 +642,8 @@
             <title><![CDATA[据《华尔街日报》报道，英伟达向 OpenAI 投资高达 1000 亿美元的计划已陷入停滞 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVlxY0R5TUotUlIwNWNCUE5IeHRXU01SbU1BRzdNY3BzaXZQZVpIN0ktQlVuT2R5VjJfbWdGdlhqNUZ0UnNTdTcwcE9BajZuYkxiajQtODVOQjk1YTBMTmFnSzJ1RklXMkhjZzlUelZ2dGlvNjYzUkdoVURyclFCRDZ6b2xQd3gzaWRyNU9sUkZrcjJ6MHF3b25VRGMwMWVJWWdBSGtVTFR4VWlNdDlZ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVlxY0R5TUotUlIwNWNCUE5IeHRXU01SbU1BRzdNY3BzaXZQZVpIN0ktQlVuT2R5VjJfbWdGdlhqNUZ0UnNTdTcwcE9BajZuYkxiajQtODVOQjk1YTBMTmFnSzJ1RklXMkhjZzlUelZ2dGlvNjYzUkdoVURyclFCRDZ6b2xQd3gzaWRyNU9sUkZrcjJ6MHF3b25VRGMwMWVJWWdBSGtVTFR4VWlNdDlZ?oc=5</guid>
-            <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 00:00:04 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据《华尔街日报》报道，Nvidia 向 OpenAI 投资高达 1000 亿美元的计划已陷入停滞 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港港口运营商合同违反巴拿马宪法和法院规则 - 路透社]]></title>
-            <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTR5QTYyTTRhd002dWZVdzQ2MnM4ajV3WHQyY3R1RWc1MzduU3RIeG1PbkNtT2RnaTNrZHVxbEhmVTdzdkxsS0tLMUQtc2FveEZxNG16dGJFOWF5T3R4NXJFVDVIZzJmRk5Va2lNc1NhZVVvQzZydll2TUxnR2ZURm1QSDZnLW1sc0RZc1BhRk1CR1d3SGJDSFYyUk5SQzFrU245UzByb1BNc3lFNWpBTTh6MzRHUWNQX25HaloyUGJOUXFDSGxsbmQwSUYya2tRdVF2RFR3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSTR5QTYyTTRhd002dWZVdzQ2MnM4ajV3WHQyY3R1RWc1MzduU3RIeG1PbkNtT2RnaTNrZHVxbEhmVTdzdkxsS0tLMUQtc2FveEZxNG16dGJFOWF5T3R4NXJFVDVIZzJmRk5Va2lNc1NhZVVvQzZydll2TUxnR2ZURm1QSDZnLW1sc0RZc1BhRk1CR1d3SGJDSFYyUk5SQzFrU245UzByb1BNc3lFNWpBTTh6MzRHUWNQX25HaloyUGJOUXFDSGxsbmQwSUYya2tRdVF2RFR3?oc=5</guid>
-            <pubDate>Fri, 30 Jan 2026 23:56:30 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 法院裁定香港港口运营商合同违反巴拿马宪法 路透]]></description>
         </item>
         <item>
             <title><![CDATA[对于马斯克公司来说，将 SpaceX 与 xAI 结合起来可能很简单，但特斯拉就没那么容易了 - 路透中文网]]></title>
