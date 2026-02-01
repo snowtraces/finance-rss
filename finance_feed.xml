@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 01 Feb 2026 20:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Feb 2026 20:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -42,6 +42,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/opec-sticks-with-supply-pause-even-as-oil-climbs-on-iran</guid>
             <pubDate>Sun, 01 Feb 2026 15:26:53 GMT</pubDate>
             <description><![CDATA[[Bloomberg] OPEC+批准了3月份保持产量稳定的计划——这是三个月供应冻结的最后一部分，即使在美国对伊朗实施打击的前景导致油价触及四个月高点之后也是如此。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[私募股权、激励措施和青少年体育新经济]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-02-01/private-equity-incentives-and-the-new-economics-of-youth-sports</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-01/private-equity-incentives-and-the-new-economics-of-youth-sports</guid>
+            <pubDate>Sun, 01 Feb 2026 15:05:23 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美国的青少年体育运动已成为一项庞大的产业，目前家庭每年在旅游团队、教练和培训上的支出估计达 400 亿美元。 我们追踪一个家庭的旅程，研究职业道路发生了怎样的变化，以及为什么私募股权公司如此热衷于参与其中。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[股市波动让位给大宗商品和外汇波动]]></title>
@@ -268,11 +275,11 @@
             <description><![CDATA[[Reuters Business] 法国科技公司凯捷称出售美国子公司 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[受地缘政治和黄金回落影响，沙特股市自 6 月以来跌幅最大]]></title>
+            <title><![CDATA[受地缘政治和黄金下跌影响，沙特股市自 4 月份以来跌幅最大]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-01/saudi-stocks-slide-most-since-june-on-geopolitics-gold-retreat</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/saudi-stocks-slide-most-since-june-on-geopolitics-gold-retreat</guid>
             <pubDate>Sun, 01 Feb 2026 08:49:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于全球金属抛售打击当地矿商，以及对美国、伊朗和以色列可能发生军事袭击的猜测加剧，沙特阿拉伯股市周日创下近八个月来的最大跌幅。]]></description>
+            <description><![CDATA[[Bloomberg] 由于全球金属抛售打击当地矿商，以及对美国、伊朗和以色列可能发生军事袭击的猜测加剧，沙特阿拉伯股市周日创下近十个月来的最大跌幅。]]></description>
         </item>
         <item>
             <title><![CDATA[印度将核设备进口税减免期限延长至 2035 年]]></title>
@@ -331,18 +338,11 @@
             <description><![CDATA[[Bloomberg] 总理纳伦德拉·莫迪政府计划在下一财年发行创纪录数量的债券，此举可能会在需求减弱的情况下给当地债务市场带来进一步的压力。]]></description>
         </item>
         <item>
-            <title><![CDATA[比特币跌破 80,000 美元预示着新的信心危机]]></title>
+            <title><![CDATA[比特币跌破 80,000 美元预示新的信心危机]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-01/bitcoin-s-break-below-80-000-signals-new-crisis-of-confidence</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/bitcoin-s-break-below-80-000-signals-new-crisis-of-confidence</guid>
             <pubDate>Sun, 01 Feb 2026 06:13:55 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 价格、相关性、信念——比特币正在三者皆流血。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[监管非洲不断扩大的赌博市场]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-01/regulating-africa-s-expanding-gambling-market</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-01/regulating-africa-s-expanding-gambling-market</guid>
-            <pubDate>Sun, 01 Feb 2026 06:00:05 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 非洲正在成为一个主要的博彩强国，但非洲大陆各国政府都在努力应对随之而来的监管挑战。 彭博社的 Jennifer Zabasajja 与 RISE Mzansi 议员 Makshule Gana 和 Whitesmans Attorneys 创始人 Garron Whitesman 讨论了当前的监管环境和加强监管的压力。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普称印度将从委内瑞拉购买石油 - 路透中文网]]></title>
@@ -376,7 +376,7 @@
             <title><![CDATA[工会延长与马拉松的谈判，避免炼油厂罢工 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmJtaXdlREhhUzltZ001NzFlbm9wNzBJUkFpVlNldVN6QV9ERUFUeHhKTlI3RGp3ZjRlODBVQnkwWnIwRXpCX3FhYXQ5NHZjamIxdVgwWl9qTXlySENPSHFqNWljNEltcy0wR21UVnd6UmVmT1FEbHZ3bmRwNmVSa2hLZnJOMVlOdENYNHpfb3M0aDBzTXowd1hRQlBNRE0zZURrcmtweHUzOTMtNEpSVWFMQkdFdm1H?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmJtaXdlREhhUzltZ001NzFlbm9wNzBJUkFpVlNldVN6QV9ERUFUeHhKTlI3RGp3ZjRlODBVQnkwWnIwRXpCX3FhYXQ5NHZjamIxdVgwWl9qTXlySENPSHFqNWljNEltcy0wR21UVnd6UmVmT1FEbHZ3bmRwNmVSa2hLZnJOMVlOdENYNHpfb3M0aDBzTXowd1hRQlBNRE0zZURrcmtweHUzOTMtNEpSVWFMQkdFdm1H?oc=5</guid>
-            <pubDate>Sun, 01 Feb 2026 01:46:00 GMT</pubDate>
+            <pubDate>Sun, 01 Feb 2026 01:46:01 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 工会延长与马拉松的谈判，避免炼油厂罢工 路透]]></description>
         </item>
         <item>
@@ -506,13 +506,6 @@
             <description><![CDATA[[WSJ] 如果得到确认，特朗普的美联储主席提名人将面临几项危险的平衡行为。]]></description>
         </item>
         <item>
-            <title><![CDATA[高盛首席律师卷入“爱泼斯坦丑闻”，亲昵直呼“爱泼斯坦叔叔”，并获赠爱马仕 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQZU1IT0w5a1NPdXduRXFZQU4xMU1DTlljTlJKc09EVEtEQU5Ta0FvQ3JJWFdXbTdRT3NKdGNnamNQZVYwQ29VNWYtdHB6WW9FV0dV?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQZU1IT0w5a1NPdXduRXFZQU4xMU1DTlljTlJKc09EVEtEQU5Ta0FvQ3JJWFdXbTdRT3NKdGNnamNQZVYwQ29VNWYtdHB6WW9FV0dV?oc=5</guid>
-            <pubDate>Sat, 31 Jan 2026 10:15:36 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 高盛首席律师卷入“爱泼斯坦丑闻”，亲昵直呼“爱泼斯坦叔叔”，并获赠爱马仕  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[美联储将迎来供给侧改革者——如何理解沃什的货币政策框架？ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GQndPZmpEYndwYjZPVWpoZWREZ1pxbFBOYUpaU2xrSEVMT0JwWHg4aHRZd0VaN0NFczh5T3N1bEhVNFJ2b2xWNTZ1U2VFV0l3QllV?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GQndPZmpEYndwYjZPVWpoZWREZ1pxbFBOYUpaU2xrSEVMT0JwWHg4aHRZd0VaN0NFczh5T3N1bEhVNFJ2b2xWNTZ1U2VFV0l3QllV?oc=5</guid>
@@ -618,10 +611,17 @@
             <description><![CDATA[[华尔街见闻] 贵金属率先崩盘，对于市场，真正的风险是.....  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[如何看待近期二手房市场的回暖？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE42eklnX0lDMWRlT016eGZpOEhCWnl4UDRhSk10dW1LMVJiaml4RnZIaFJLbHluck8xSmxYeExyaVg0TXp6ZGNna2s2TTVTSTYyVmhj?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE42eklnX0lDMWRlT016eGZpOEhCWnl4UDRhSk10dW1LMVJiaml4RnZIaFJLbHluck8xSmxYeExyaVg0TXp6ZGNna2s2TTVTSTYyVmhj?oc=5</guid>
+            <pubDate>Sat, 31 Jan 2026 01:05:09 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 如何看待近期二手房市场的回暖？  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[美国批准向沙特阿拉伯出售价值90亿美元的爱国者导弹 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNROWpKNmZ0a0FuaU13VTVDRUNxbE5FMTlZSDlFM3lMcUh0ZV9VeVU4cW8zbm1XMG4wZUlRT0s3SHg2ekhoT08wbVNpRTI5YW1lWDFOT1FXS2ZxWF9ybEcxaUlfbExkNlpGSVQ4LTlOTlZNTHAxLUJXVVhnWFByTFJPQXpqVUNBSDJqQlJQaFNNWnhEdlJ3UzZUQ0traklSdXdFeXlfZXBJZWd2QkVTTEZUNHlMNUdBNy1oaG15S0tja05DMHpMVA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZjNROWpKNmZ0a0FuaU13VTVDRUNxbE5FMTlZSDlFM3lMcUh0ZV9VeVU4cW8zbm1XMG4wZUlRT0s3SHg2ekhoT08wbVNpRTI5YW1lWDFOT1FXS2ZxWF9ybEcxaUlfbExkNlpGSVQ4LTlOTlZNTHAxLUJXVVhnWFByTFJPQXpqVUNBSDJqQlJQaFNNWnhEdlJ3UzZUQ0traklSdXdFeXlfZXBJZWd2QkVTTEZUNHlMNUdBNy1oaG15S0tja05DMHpMVA?oc=5</guid>
-            <pubDate>Sat, 31 Jan 2026 00:53:00 GMT</pubDate>
+            <pubDate>Sat, 31 Jan 2026 00:53:33 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国批准向沙特阿拉伯出售价值 90 亿美元的爱国者导弹 路透]]></description>
         </item>
         <item>
