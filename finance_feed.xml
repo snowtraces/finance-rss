@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 01 Feb 2026 15:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Feb 2026 15:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/01/musk-is-stressing-robots-over-cars-these-suppliers-make-humanoid-parts.html</guid>
             <pubDate>Sun, 01 Feb 2026 13:36:17 GMT</pubDate>
             <description><![CDATA[[CNBC] 摩根士丹利分析师重点关注销售专业机器人零件的公司的股票。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[罕见的 SpaceX 赌注将 11 亿美元基金变成零售磁石]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-01/rare-spacex-bet-turns-1-1-billion-fund-into-a-retail-magnet</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-01/rare-spacex-bet-turns-1-1-billion-fund-into-a-retail-magnet</guid>
+            <pubDate>Sun, 01 Feb 2026 13:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在私人公司所有权的专属世界中，凯文·莫斯（Kevin Moss）是一位罕见的看门人——在科技巨头上市之前为日常投资者提供接触它们的机会。]]></description>
         </item>
         <item>
             <title><![CDATA[沙特阿拉伯股市收低；截至收盘沙特阿拉伯TASI指数下跌1.89%]]></title>
@@ -156,11 +163,11 @@
             <description><![CDATA[[Bloomberg] 由于不断增长的城市基础设施需求给联邦政府的预算带来压力，印度政府提出了新的措施来提振国家市政债券市场，并鼓励民间机构发行更高价值的债务。]]></description>
         </item>
         <item>
-            <title><![CDATA[德黑兰警告称，如果美国袭击伊朗，将引发地区冲突 - 路透中文网]]></title>
+            <title><![CDATA[伊朗警告称，如果美国发动袭击，将引发地区冲突，并称欧盟军队为“恐怖分子” - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGkzcG55WHpaaHNtdk5hWDhFdmxMRWZTNGJMbWs3eHd1OFQxSVItd0V0cjRoWEozZDZJOUQtT2EyNWRBVmswcDEwYTk1eWRZSW42VlB0VGxJZ3loRjZYWGpPRjhSWVM1LTZwMmJ1YkNhdTk0WHl0bkIzekI2bThycGJadWFUeXVRemdjVVBBMDVaT0lWWXlEYi1JVUd5c18xek5yOGY5ZUNzZy1a?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGkzcG55WHpaaHNtdk5hWDhFdmxMRWZTNGJMbWs3eHd1OFQxSVItd0V0cjRoWEozZDZJOUQtT2EyNWRBVmswcDEwYTk1eWRZSW42VlB0VGxJZ3loRjZYWGpPRjhSWVM1LTZwMmJ1YkNhdTk0WHl0bkIzekI2bThycGJadWFUeXVRemdjVVBBMDVaT0lWWXlEYi1JVUd5c18xek5yOGY5ZUNzZy1a?oc=5</guid>
             <pubDate>Sun, 01 Feb 2026 09:33:15 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 德黑兰警告称，如果美国袭击伊朗，将引发地区冲突 路透]]></description>
+            <description><![CDATA[[Reuters Business] 伊朗警告称，如果美国发动袭击，将引发地区冲突，并将欧盟军队称为“恐怖分子” 路透]]></description>
         </item>
         <item>
             <title><![CDATA[随着外国资金撤出当地股票，印度寻求海外资本]]></title>
@@ -278,7 +285,7 @@
             <title><![CDATA[特朗普称印度将从委内瑞拉购买石油 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQa25fOWRFeHg3eER3YlRYUjFpNjMyeWZsb1ZWNkJldG01YXgza2h6dWk4bjlFZl9NLWRlV0VORGlhNGZUbUhqZXdSWTlZbWdXa1QwWnRwU1FndFFvSUFWSVNORDRPbVN6X1dSS2NrWWdNU2ZWUVVRZWpzMmIxSEcxZzhfTVBneDNPSUFHVHVfUjlueTNvUF81dlBQNFZ6blVWREE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxQa25fOWRFeHg3eER3YlRYUjFpNjMyeWZsb1ZWNkJldG01YXgza2h6dWk4bjlFZl9NLWRlV0VORGlhNGZUbUhqZXdSWTlZbWdXa1QwWnRwU1FndFFvSUFWSVNORDRPbVN6X1dSS2NrWWdNU2ZWUVVRZWpzMmIxSEcxZzhfTVBneDNPSUFHVHVfUjlueTNvUF81dlBQNFZ6blVWREE?oc=5</guid>
-            <pubDate>Sun, 01 Feb 2026 02:47:10 GMT</pubDate>
+            <pubDate>Sun, 01 Feb 2026 02:47:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 特朗普称印度将从委内瑞拉购买石油 路透]]></description>
         </item>
         <item>
@@ -306,7 +313,7 @@
             <title><![CDATA[工会延长与马拉松的谈判，避免炼油厂罢工 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmJtaXdlREhhUzltZ001NzFlbm9wNzBJUkFpVlNldVN6QV9ERUFUeHhKTlI3RGp3ZjRlODBVQnkwWnIwRXpCX3FhYXQ5NHZjamIxdVgwWl9qTXlySENPSHFqNWljNEltcy0wR21UVnd6UmVmT1FEbHZ3bmRwNmVSa2hLZnJOMVlOdENYNHpfb3M0aDBzTXowd1hRQlBNRE0zZURrcmtweHUzOTMtNEpSVWFMQkdFdm1H?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmJtaXdlREhhUzltZ001NzFlbm9wNzBJUkFpVlNldVN6QV9ERUFUeHhKTlI3RGp3ZjRlODBVQnkwWnIwRXpCX3FhYXQ5NHZjamIxdVgwWl9qTXlySENPSHFqNWljNEltcy0wR21UVnd6UmVmT1FEbHZ3bmRwNmVSa2hLZnJOMVlOdENYNHpfb3M0aDBzTXowd1hRQlBNRE0zZURrcmtweHUzOTMtNEpSVWFMQkdFdm1H?oc=5</guid>
-            <pubDate>Sun, 01 Feb 2026 01:46:00 GMT</pubDate>
+            <pubDate>Sun, 01 Feb 2026 01:46:01 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 工会延长与马拉松的谈判，避免炼油厂罢工 路透]]></description>
         </item>
         <item>
@@ -469,13 +476,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDVuaGtGNlNLM1BpcXJRZUp2czNJRjRENmFSUmZHdklua1haXzUzN29zZkEwNm5oSEFLVEhXbUg1WVlzWkdxZ2dIWjZ6c281LTM5YmRqa0l3b1VzZzNzeUdvX3pkLUU3OE1YOHBwVTlxOHhCZkt4bmdTcERaWkNPdDI0dEVDQ21kQWhzUzloS2xHTUNJZ20ydWt3?oc=5</guid>
             <pubDate>Sat, 31 Jan 2026 12:05:22 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 俄罗斯放宽汽油出口限制 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯允许生产商在七月之前出口汽油]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-01-31/russia-to-allow-gasoline-exports-for-producers-through-july-31</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-01-31/russia-to-allow-gasoline-exports-for-producers-through-july-31</guid>
-            <pubDate>Sat, 31 Jan 2026 11:48:11 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 俄罗斯将允许燃料生产商出口汽油至 7 月 31 日，同时延长对其他供应商的临时禁令。]]></description>
         </item>
         <item>
             <title><![CDATA[沃什的“政权更迭”在规模庞大的美联储面临巨大障碍 - 路透中文网]]></title>
@@ -649,7 +649,7 @@
             <title><![CDATA[对于马斯克公司来说，将 SpaceX 与 xAI 结合起来可能很简单，但特斯拉就没那么容易了 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOSnJwMVE3OVhCU2VUanlybUVtX204WWtIMjloMWM0SEZ3MjlVcG9HT2RXRnYwUmtJeGdONjNRb1NKTENTcHZnaTdWUm1md0RIdDAwVTlXWnB1Y0RyQTM3anFUcmIwVzhFSGJFZlpYRElCNHB4bWxTUjl1OHZiTjlrSVNqQlgyc0pYVV9Ybk9sY3ZjaHAyeDUzaEtlcVI2bVJxN0NxRDdTemhkWnJlMEhhckNPcmllZmpzVjYyZFpaWHBoaUo3RE9INnZPUlpTdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxOSnJwMVE3OVhCU2VUanlybUVtX204WWtIMjloMWM0SEZ3MjlVcG9HT2RXRnYwUmtJeGdONjNRb1NKTENTcHZnaTdWUm1md0RIdDAwVTlXWnB1Y0RyQTM3anFUcmIwVzhFSGJFZlpYRElCNHB4bWxTUjl1OHZiTjlrSVNqQlgyc0pYVV9Ybk9sY3ZjaHAyeDUzaEtlcVI2bVJxN0NxRDdTemhkWnJlMEhhckNPcmllZmpzVjYyZFpaWHBoaUo3RE9INnZPUlpTdw?oc=5</guid>
-            <pubDate>Fri, 30 Jan 2026 23:32:27 GMT</pubDate>
+            <pubDate>Fri, 30 Jan 2026 23:34:22 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 对于马斯克公司来说，将 SpaceX 与 xAI 结合起来可能很简单，但特斯拉就没那么容易了 路透]]></description>
         </item>
         <item>
