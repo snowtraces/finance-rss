@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 04 Feb 2026 21:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 22:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[日本周末大选引发 30 年期债券发行前的谨慎态度]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-04/japan-s-weekend-election-spurs-caution-before-30-year-bond-sale</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-04/japan-s-weekend-election-spurs-caution-before-30-year-bond-sale</guid>
+            <pubDate>Wed, 04 Feb 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 交易员正在关注周四出售 30 年期日本政府债券时需求疲软的迹象，距离周日受到密切关注的众议院选举仅几天。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[法官称，Tricolor 创始人可以利用保险进行欺诈辩护]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-04/tricolor-founder-can-tap-insurance-for-fraud-defense-judge-says</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-04/tricolor-founder-can-tap-insurance-for-fraud-defense-judge-says</guid>
+            <pubDate>Wed, 04 Feb 2026 21:53:18 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 法官周三裁定，三色控股创始人朱丹尼尔 (Daniel Chu) 因次级汽车贷款公司倒闭而面临联邦欺诈指控，他获得法院批准使用公司保险单支付辩护费用。]]></description>
+        </item>
         <item>
             <title><![CDATA[美伊谈判一度“濒临破裂”又峰回路转 国际油价晕头转向]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3200481</link>
@@ -56,6 +70,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-04/singer-s-elliott-urges-judge-to-toss-lawsuit-by-texas-pe-firm</guid>
             <pubDate>Wed, 04 Feb 2026 21:11:42 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 保罗·辛格的埃利奥特投资管理公司要求法官驳回德克萨斯州一家私募股权公司的诉讼，该公司声称在出售石油和天然气资产后“数千万美元”被扣留。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌母公司 Alphabet 称 2026 年资本支出可能增加一倍 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQczZaX2YxV2F5NTVHUmNkZGhlTDg2X3FkVDhDQlBXTGtISGFtbTB2MHk3V2x1dE5aa2dwWjROMjFnVEdFRnhiY0tlVWgzSVhLOG1BX0d4Z1ZoTmw2MGc3OVZaNzV2VC1aUEtsY1kzZ2pYMHRaUzZPYThpOVFLQmdKdDE3dlk1MUd3NzVBbTk1OTg1NnJtdG8wS0hTeW03elU5Tk5HbVJCMUs5b0c5ajJOSQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxQczZaX2YxV2F5NTVHUmNkZGhlTDg2X3FkVDhDQlBXTGtISGFtbTB2MHk3V2x1dE5aa2dwWjROMjFnVEdFRnhiY0tlVWgzSVhLOG1BX0d4Z1ZoTmw2MGc3OVZaNzV2VC1aUEtsY1kzZ2pYMHRaUzZPYThpOVFLQmdKdDE3dlk1MUd3NzVBbTk1OTg1NnJtdG8wS0hTeW03elU5Tk5HbVJCMUs5b0c5ajJOSQ?oc=5</guid>
+            <pubDate>Wed, 04 Feb 2026 21:06:15 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 谷歌母公司 Alphabet 称 2026 年资本支出可能增加一倍 路透]]></description>
         </item>
         <item>
             <title><![CDATA[纽约市和新泽西州商业团体敦促特朗普恢复网关资金]]></title>
@@ -156,6 +177,13 @@
             <description><![CDATA[[Bloomberg] 怡安集团的一个部门同意和解一项集体诉讼，该诉讼指控计算错误和错误的投资建议导致宾夕法尼亚州公立学校的教师向其养老基金额外缴纳了数百万美元。]]></description>
         </item>
         <item>
+            <title><![CDATA[美国核电监管机构计划根据特朗普对反应堆的目标进行调整 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkg2RWtVY1pIUThhcGNsT0lDUjNfa09pZHZaOE9DMmc4YUhCbWZqYl9qSGRTWTh2a2RmVEs3NUxYQ3BoOHpZal9RUHpURzhzeUVYUVZsdHJpVE9fWS1Md3R4ejdRNzBfWjVpUXEyaERKOWU0cXdvSWctMFUxVXVVeUgzWWIzeHVTVnpyQU9jR1VBVW5laXhHWUxyV1dxVU1nZzlGMWljNXl1d19Rby0yMllya3QyTE9JUlZsZ3RjdWM?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkg2RWtVY1pIUThhcGNsT0lDUjNfa09pZHZaOE9DMmc4YUhCbWZqYl9qSGRTWTh2a2RmVEs3NUxYQ3BoOHpZal9RUHpURzhzeUVYUVZsdHJpVE9fWS1Md3R4ejdRNzBfWjVpUXEyaERKOWU0cXdvSWctMFUxVXVVeUgzWWIzeHVTVnpyQU9jR1VBVW5laXhHWUxyV1dxVU1nZzlGMWljNXl1d19Rby0yMllya3QyTE9JUlZsZ3RjdWM?oc=5</guid>
+            <pubDate>Wed, 04 Feb 2026 19:06:45 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国核电监管机构计划根据特朗普对反应堆的目标进行调整 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[礼来（Lilly）和诺和诺德（Novo）在肥胖前景方面对华尔街产生分歧]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-04/lilly-and-novo-whipsaw-wall-street-with-split-in-obesity-outlook</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-04/lilly-and-novo-whipsaw-wall-street-with-split-in-obesity-outlook</guid>
@@ -212,6 +240,13 @@
             <description><![CDATA[[Bloomberg] 好莱坞最大的合并遭到批评。 电影院警告说电影数量减少、价格上涨以及选择权丧失。  Cinema United 首席执行官迈克尔·奥利里 (Michael O'Leary) 与彭博社共同解释了为什么 Netflix 和华纳兄弟可能的交易可能会永远重塑电影。  （来源：彭博社）]]></description>
         </item>
         <item>
+            <title><![CDATA[据彭博社报道，北欧航空正在与波音和空客就宽体飞机订单进行谈判 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUtMTFNpbElKUG01VzdRb2pVN013QURwaEJuSlpaNXhjSTZ0cE5sbjdwQVUxMmlMMkZFY3BacHFpclJ3TkhjQ3FZTXRock5maXRZSGJiZ1FwM1pMa21xMFVYY3Z2Ym16dFVVT0J5Rkk1b3FtNUowdDJkSHNEd0xfR0RHTnRMdXlrZjd2bTA0LVpSNl9PdzVSNDhHZExDa1ZJRUZYeGwycGZMMEJ4ZDU0djM0V3d1RW9sNEUtWUdIT0FBQjVrdkwwRw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUtMTFNpbElKUG01VzdRb2pVN013QURwaEJuSlpaNXhjSTZ0cE5sbjdwQVUxMmlMMkZFY3BacHFpclJ3TkhjQ3FZTXRock5maXRZSGJiZ1FwM1pMa21xMFVYY3Z2Ym16dFVVT0J5Rkk1b3FtNUowdDJkSHNEd0xfR0RHTnRMdXlrZjd2bTA0LVpSNl9PdzVSNDhHZExDa1ZJRUZYeGwycGZMMEJ4ZDU0djM0V3d1RW9sNEUtWUdIT0FBQjVrdkwwRw?oc=5</guid>
+            <pubDate>Wed, 04 Feb 2026 18:08:18 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 据彭博社报道，SAS 正在与波音和空客就宽体飞机订单进行谈判 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[NCAA 允许在球衣上投放广告后，大学寻求新的赞助商优惠]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-02-04/colleges-hunt-for-deals-after-ncaa-allows-ads-on-jerseys-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-04/colleges-hunt-for-deals-after-ncaa-allows-ads-on-jerseys-video</guid>
@@ -224,21 +259,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-04/meta-taps-ex-amazon-executive-s-startup-for-supply-chain-video</guid>
             <pubDate>Wed, 04 Feb 2026 17:51:17 GMT</pubDate>
             <description><![CDATA[[Bloomberg] Meta 的 Reality Labs 已聘请初创公司 Auger 为其供应链提供操作系统，这是对亚马逊前物流主管戴夫·克拉克 (Dave Clark) 创立的这家成立仅一年的公司的一项关键测试。 克拉克与卡罗琳·海德和埃德·勒德洛一起参与“彭博科技”节目。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[与肥胖竞争对手 Novo 相比，礼来公司的销售额激增]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-04/lilly-sees-surging-sales-in-contrast-to-rival-novo-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-04/lilly-sees-surging-sales-in-contrast-to-rival-novo-video</guid>
-            <pubDate>Wed, 04 Feb 2026 17:50:38 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 礼来公司 (Eli Lilly & Co.) 周三提供了乐观的今年销售预测，因为对该公司减肥药的强劲需求巩固了其在肥胖市场的领先地位。
- 该指引与竞争对手诺和诺德公司形成鲜明对比，诺和诺德公司周二警告投资者，由于减肥市场价格竞争加剧，该公司今年的销售额可能下降多达 13%。 另一方面，礼来公司预计今年其销售额将增长 27%。 彭博社的萨姆·法泽利报道。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司避免了人工智能恐慌，其股价在一年内击败了科技股]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-04/apple-beats-tech-stocks-by-most-in-a-year-as-it-avoids-ai-panic</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-04/apple-beats-tech-stocks-by-most-in-a-year-as-it-avoids-ai-panic</guid>
-            <pubDate>Wed, 04 Feb 2026 17:48:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 苹果公司的交易方向与科技股和大盘相反，因为投资者越来越担心人工智能颠覆，将其视为安全绿洲。]]></description>
         </item>
         <item>
             <title><![CDATA[由于另一场联邦支出僵局导致政府数据暂停，经济观察人士再次转向拼凑的非官方数据]]></title>
@@ -325,13 +345,6 @@
             <description><![CDATA[[Reuters Business] 解释者：为什么联合国警告“金融即将崩溃”？   路透社]]></description>
         </item>
         <item>
-            <title><![CDATA[石油巨头抢购西非区块，寻找下一个巴西 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXhuVThLY3pmN19YYW85enZJQy1SME16ZEluQjZoUDZwZmFnYzJDbmdLMlcwRUNvazZhVzVvMWZadHAzQUJVbTZZWnVZOWR3MGxMQkZKa1hXUHhaQXJWbWs0S1VvZnd0NzN3V3ozZDM5QWdmTDhDYWh1QjZ6YXVOR3AwbWV4ajhXOFpDRE5jR01NRTVnZ2hxbWMzRERyMjZsaF95YnlhYmVIUjQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXhuVThLY3pmN19YYW85enZJQy1SME16ZEluQjZoUDZwZmFnYzJDbmdLMlcwRUNvazZhVzVvMWZadHAzQUJVbTZZWnVZOWR3MGxMQkZKa1hXUHhaQXJWbWs0S1VvZnd0NzN3V3ozZDM5QWdmTDhDYWh1QjZ6YXVOR3AwbWV4ajhXOFpDRE5jR01NRTVnZ2hxbWMzRERyMjZsaF95YnlhYmVIUjQ?oc=5</guid>
-            <pubDate>Wed, 04 Feb 2026 15:55:48 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 石油巨头抢购西非区块，寻找下一个巴西 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[一月份美国服务业活动继续上升]]></title>
             <link>https://www.wsj.com/economy/u-s-services-sector-activity-continues-to-rise-in-january-cbf6a20c</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/u-s-services-sector-activity-continues-to-rise-in-january-cbf6a20c</guid>
@@ -400,6 +413,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcFhPSGMwSDFlWHJRQURlQk13bWYyMXFGMmhBZEQzQk51dnVULUhXUWJSbDlXSFpPdlNFZkdnSmhycWgxbXYxT3JxM0t4OWlHcEtqWm5jc0ZKQVd3SkV5aU90QUdGNnVxamk3dWRQNVZJODRvSGplT2sxWXZRLU0yTFJHUUhRcHRtU2pjMzJvNWhCOU9mZWhFSktXU1k0eWcza1BuY2poeTZrVGt0dnVFR3IwWS04bjlUQnd4ODF6OFhpMEZSakpNSnRBcm1qRm5PbFA1ZQ?oc=5</guid>
             <pubDate>Wed, 04 Feb 2026 14:33:30 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着折扣压力加深，诺和诺德面临着瘦身价格战的风险 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[万斯称美国将为关键矿产建立价格下限制度 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPdENKcUhYUWtCQ21mUVVRUEJSMEVib2liWERwUGRhYnhNcy0wRVozbWRQaUlOb19GLWJTdTI1UjN3MEJocGxGdEVVQnVPM1pudDdnd1M3ejJfWXN0RVpvMlhiR3p1YkVXVEpLOU8ySk1xYmNVam1OcWYxOU52eGtudDV3OVZLYmFKTExZbElSOUJqZHB4aEJQQ1QwTndvc1R3WTV6ektfVDFJZTRPVTY4UXBSaGJjc0lzSnc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPdENKcUhYUWtCQ21mUVVRUEJSMEVib2liWERwUGRhYnhNcy0wRVozbWRQaUlOb19GLWJTdTI1UjN3MEJocGxGdEVVQnVPM1pudDdnd1M3ejJfWXN0RVpvMlhiR3p1YkVXVEpLOU8ySk1xYmNVam1OcWYxOU52eGtudDV3OVZLYmFKTExZbElSOUJqZHB4aEJQQ1QwTndvc1R3WTV6ektfVDFJZTRPVTY4UXBSaGJjc0lzSnc?oc=5</guid>
+            <pubDate>Wed, 04 Feb 2026 14:33:08 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 万斯称美国将为关键矿产建立价格下限制度 路透]]></description>
         </item>
         <item>
             <title><![CDATA[报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元 - 华尔街见闻]]></title>
@@ -491,13 +511,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2ZWaHZPcGxSVE9fRTZySW1DOUZVM2JEZzVTTU9QbzgyYldSQ0lQaVJFMTQ0eWoyVlFFblVUeGtqaE1KSmMtUFRrVXV4dF9yTVB6UnBId3U4S1c5Uk90R0lZN1h0YmF4ZEx2SWY3N2lKdld6dG9rcnE1enozNUlhZjFkaGZoQTBjUENMSlI1RGlHNmRHWDROQ0Z2NFNCelZlRDIydDJxN3I3bU5VbFVKWVVMdVdYcWxuMDFNN1NCUzNvemdyWmc2S3BqOA?oc=5</guid>
             <pubDate>Wed, 04 Feb 2026 13:21:26 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 肥胖药物巨头诺和诺德 (Novo Nordisk) 暴跌，损失 500 亿美元 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌Q4财报在即！4.1万亿美元市值面临考测，业绩增长需支撑估值扩张 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VUV9hMERKQks1ekZxUmZqbnVla19PSldWQjIzNmYydXJVNThEQXdqMGs1ZktSdzNzTWRDT2dzMmZ3RDd3dUxrcEpPS3ljazFWZlU4?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VUV9hMERKQks1ekZxUmZqbnVla19PSldWQjIzNmYydXJVNThEQXdqMGs1ZktSdzNzTWRDT2dzMmZ3RDd3dUxrcEpPS3ljazFWZlU4?oc=5</guid>
-            <pubDate>Wed, 04 Feb 2026 13:09:37 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 谷歌Q4财报在即！4.1万亿美元市值面临考测，业绩增长需支撑估值扩张  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[波士顿科学公司股价下跌，因关键部门的业绩令投资者感到不安 - 路透中文网]]></title>
@@ -640,13 +653,6 @@
             <description><![CDATA[[Reuters Business] 伊朗的弹道导弹能力如何？   路透社]]></description>
         </item>
         <item>
-            <title><![CDATA[Chipotle、Mondelez 股价下滑，因需求疲软、成本上涨影响销售前景 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3dvb2VTNHJyd19Xdjhic0JRc2otOWVtWDRacXo3bF9vNFBqYnc3cFg4bEMwLU1jUFJFcHBsZTNSdWl1R01fTFNYRllHZDVVUHJ4clU1c0FKWVZsVTlpa2MweldOY1FHR0pPQXVnR1JfTTVkTFJCQjEtaVdEMEt6dmIySjgyX252SnYwdFk0bTlray14WTFqSEp6ZjBnM21GeXp1aTNNdXJ3WEFQQnlXeFJEWFVodlk?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3dvb2VTNHJyd19Xdjhic0JRc2otOWVtWDRacXo3bF9vNFBqYnc3cFg4bEMwLU1jUFJFcHBsZTNSdWl1R01fTFNYRllHZDVVUHJ4clU1c0FKWVZsVTlpa2MweldOY1FHR0pPQXVnR1JfTTVkTFJCQjEtaVdEMEt6dmIySjgyX252SnYwdFk0bTlray14WTFqSEp6ZjBnM21GeXp1aTNNdXJ3WEFQQnlXeFJEWFVodlk?oc=5</guid>
-            <pubDate>Wed, 04 Feb 2026 10:14:34 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于需求疲软、成本上涨影响销售前景，Chipotle 和 Mondelez 股价下滑 - 路透中文网]]></description>
-        </item>
-        <item>
             <title><![CDATA[随着经济疲软开始，欧元区一月份通胀下降 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0dPeGVsS1ZyU09BOVNWRmZVYzFNNm9VRFZnQXBCUkFiQUVwd0Y4UXBYT0pzZklYX0I5anNIZEZpZmdOYTJEUkRDWnZ0ZnlVSDlRS3RUS1UxUENHcXJCVkx3elI4QVFTNUdJcDJuQ004RlZ1bENyU25QSmJQdGZFUGpsQVdScWRRRHJBcDZvTW45VkFtLXlvRVRSN2pWbXNfckNwcFNn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0dPeGVsS1ZyU09BOVNWRmZVYzFNNm9VRFZnQXBCUkFiQUVwd0Y4UXBYT0pzZklYX0I5anNIZEZpZmdOYTJEUkRDWnZ0ZnlVSDlRS3RUS1UxUENHcXJCVkx3elI4QVFTNUdJcDJuQ004RlZ1bENyU25QSmJQdGZFUGpsQVdScWRRRHJBcDZvTW45VkFtLXlvRVRSN2pWbXNfckNwcFNn?oc=5</guid>
@@ -701,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wSE9XeFBQbkZBZ2lCQ3lVczAySlpvekJZdEdNdVJQejRfOGZTX3Q5ZjZpTUx0MG5FcTVEcW5QbmRtVWF5d2YzanBDclprcThjdjZV?oc=5</guid>
             <pubDate>Wed, 04 Feb 2026 08:38:57 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 摩根大通警告：全球铜库存已翻番，短期铜价或迎来盘整  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尽管科技、医疗保健拖累欧洲股市收盘创历史新高 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkVKSHRxaVJTa2JTSUZfM0d4bjFJYl84VksycjA1QjZxY0xEY2l2cW9aYVdKZjVuZjMtQ3QweWNWa19qZzJWNU1nRVhOUEJDVnFLanRMUDZTcktqcmNuWWMwR1BIcmV5VjRoMzl0b1g3T0U2WER5TlhCUW5mVGJxWEItTlViLVRwSE81eHcwY2RobVB1S0kwRGQtdzFlUllHajktUDVuQUhvWWdRakhDVlhwZjZVZzVxaDg5SDRxcw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQTkVKSHRxaVJTa2JTSUZfM0d4bjFJYl84VksycjA1QjZxY0xEY2l2cW9aYVdKZjVuZjMtQ3QweWNWa19qZzJWNU1nRVhOUEJDVnFLanRMUDZTcktqcmNuWWMwR1BIcmV5VjRoMzl0b1g3T0U2WER5TlhCUW5mVGJxWEItTlViLVRwSE81eHcwY2RobVB1S0kwRGQtdzFlUllHajktUDVuQUhvWWdRakhDVlhwZjZVZzVxaDg5SDRxcw?oc=5</guid>
-            <pubDate>Wed, 04 Feb 2026 08:38:28 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 尽管科技、医疗保健拖累欧洲股市收盘创历史新高 - 路透中文网]]></description>
         </item>
     </channel>
 </rss>
