@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 07 Feb 2026 07:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 07:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[世界各国央行越来越多地向美联储寻求高级人才]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-07/world-s-central-banks-increasingly-look-to-fed-for-top-hires</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-07/world-s-central-banks-increasingly-look-to-fed-for-top-hires</guid>
+            <pubDate>Sat, 07 Feb 2026 07:30:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 从伊斯坦布尔到罗马，拥有高级职位空缺的央行都在接受美国决策者职业生涯的血统。]]></description>
+        </item>
         <item>
             <title><![CDATA[财联社C50风向指数调查：1月新增社融或同比略增，春节错位低基数效应下M1或迎提升]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3205365</link>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KdmdyNGFDUTQ4V3lfSUF6STJ3bmMzZWdEcXl4aTZ4cXJGQTFPV1RHUEF4QnNOVFgybm5oSl9HU190TFdUMGpUZ3l3Qm54dVdvOEh3?oc=5</guid>
             <pubDate>Fri, 06 Feb 2026 09:02:59 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 商务部：已向消费“三新”试点城市拨付首批财政支持资金86亿元  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中英金融工作组首次会议：支持在英中资金融机构开发更多以人民币计价的金融产品 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WZ24xRDNpVUE3Z2t4SUN3cXNrelY4TlpTekx5VFlVSGtkcjg0OTdCOTZCckRQUlJ4X1FHM1dkeURoUkVTc1FzT0dSV200R2xya1pF?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WZ24xRDNpVUE3Z2t4SUN3cXNrelY4TlpTekx5VFlVSGtkcjg0OTdCOTZCckRQUlJ4X1FHM1dkeURoUkVTc1FzT0dSV200R2xya1pF?oc=5</guid>
-            <pubDate>Fri, 06 Feb 2026 08:56:14 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 中英金融工作组首次会议：支持在英中资金融机构开发更多以人民币计价的金融产品  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
