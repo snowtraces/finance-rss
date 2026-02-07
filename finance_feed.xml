@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 07 Feb 2026 17:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 17:50:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -244,7 +244,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-02-07/world-s-central-banks-increasingly-look-to-fed-for-top-hires</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-07/world-s-central-banks-increasingly-look-to-fed-for-top-hires</guid>
             <pubDate>Sat, 07 Feb 2026 07:30:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 从伊斯坦布尔到罗马，拥有高级职位空缺的央行正在接受美国决策者职业生涯的血统。]]></description>
+            <description><![CDATA[[Bloomberg] 从伊斯坦布尔到罗马，拥有高级职位空缺的央行都在接受美国决策者职业生涯的血统。]]></description>
         </item>
         <item>
             <title><![CDATA[美国宣布将在几周内向联合国支付部分拖欠款项！此前已欠超30亿美元 - 华尔街见闻]]></title>
@@ -336,6 +336,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-07/china-central-bank-keeps-buying-gold-as-bull-run-hits-brakes</guid>
             <pubDate>Sat, 07 Feb 2026 02:39:13 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 中国央行将连续购买黄金的期限延长至 15 个月，凸显了官方需求的弹性，因为上个月末市场急剧抛售打击了金价创纪录的涨势。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国央行黄金储备"十五连增"，1月环比增持4万盎司，增持节奏略有加快 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Mck5BZm9hbnBpUkVHb0FnU1lBeFAyTDh5V1VkeXZHQ2pNN04zdHdYeHRidUVWSk50bmpTbDhMWV81cG9qaDI2VndTa3J4eE5VWnYw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Mck5BZm9hbnBpUkVHb0FnU1lBeFAyTDh5V1VkeXZHQ2pNN04zdHdYeHRidUVWSk50bmpTbDhMWV81cG9qaDI2VndTa3J4eE5VWnYw?oc=5</guid>
+            <pubDate>Sat, 07 Feb 2026 02:35:01 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 中国央行黄金储备"十五连增"，1月环比增持4万盎司，增持节奏略有加快  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[艾吉称，IJM主席在被马来西亚反贪会拘留后获释]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uQ0JZR21XM3VEV2tXSDcydnJuQ3Ayal8wVTRIekVtSGZSUlJELVYxaFo2YlZtNWF6UlNqaGo4dGMyQVFrVVBQT0lDeGE0aXlkY3VZ?oc=5</guid>
             <pubDate>Fri, 06 Feb 2026 15:01:44 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 美国2月密歇根大学1年通胀预期创13个月新低，消费者信心上升  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着投资者变得更加挑剔，人工智能行业出现分裂 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHhHN1lWZnNSQW1rNFptU2VqSnhTRGtrSGVPZTI2dWlFQjh5elVXWktnakZBQlg1YmNYM2JrQXVMNmFNOGRRVzJPOFZxVkgyR2JwYnJ2cFZISHpUTEpkTE8zTGFoOHZEckxVX195NGJrakctWlNrMGlPSDhlS192MUQzQ1lLQ191RnZhbTEydnVZV3EzUXl0MzdrOXZKeFV3cUE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxPdHhHN1lWZnNSQW1rNFptU2VqSnhTRGtrSGVPZTI2dWlFQjh5elVXWktnakZBQlg1YmNYM2JrQXVMNmFNOGRRVzJPOFZxVkgyR2JwYnJ2cFZISHpUTEpkTE8zTGFoOHZEckxVX195NGJrakctWlNrMGlPSDhlS192MUQzQ1lLQ191RnZhbTEydnVZV3EzUXl0MzdrOXZKeFV3cUE?oc=5</guid>
-            <pubDate>Fri, 06 Feb 2026 15:01:17 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 随着投资者变得更加挑剔，人工智能行业出现分裂 路透]]></description>
         </item>
     </channel>
 </rss>
