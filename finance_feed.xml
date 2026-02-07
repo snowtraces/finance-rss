@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 07 Feb 2026 22:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 23:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[环球下周看点：软件股抛售面临检验 美国非农、通胀报告扎堆发布]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3205440</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3205440</guid>
+            <pubDate>Sat, 07 Feb 2026 22:35:21 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[Dorsey 削减多达 10% 的员工以提高效率]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-07/dorsey-s-block-cutting-up-to-10-of-staff-in-efficiency-push</link>
@@ -287,13 +294,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWwzMG91WW5zZVlKOWRFNTV5a1MtRkdaYTE2a1pQajBGcWtOcC1jZEVYc3NRVTZKS0dDX3BmOGRJT05hbm9BTmhmeTFxeU42LThQNkJrZ2ExS0tOSkwzQVBOM1p1emhaeEtIWlRlMF9hMXI1NzJUd2xhR1Q4cE1ZR1FrQV9KRV9INkxUdC1ZWEZTSjdUWExncllNekJ0Z0tjMHRZazRLaHI1V2VUdk5RbUdvNzJyMG41RVR3ag?oc=5</guid>
             <pubDate>Sat, 07 Feb 2026 08:50:55 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 泽连斯基称俄罗斯对乌克兰能源系统发动大规模攻击 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第三大晶圆代工厂出手！晶合集成豪掷355亿建产线，或剑指小米供应链]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3205382</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3205382</guid>
-            <pubDate>Sat, 07 Feb 2026 08:35:40 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[宝马北美公司因发动机起动机过热​​问题将召回超过 87,000 辆美国汽车 - 路透中文网]]></title>
@@ -625,18 +625,18 @@
             <description><![CDATA[[Reuters Business] 乌克兰泽连斯基呼吁加快防空行动、修复电网 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[黑冰导致航班停飞后柏林机场缓慢重新开放 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEtuLTNnMHFUUFJydTR6WnVUTmNrVzlsODZtRG9qR3h3YmQyMUFnMlVqVjdqTm5sUS15THp3TnkyQUVRRFFfdEIwQ0NxVXRHdXludWJWRWk1R1QzRTQ5cUlfTmt6MVktSktBV09aSHVQWERXU2RWS2hfRU5YSGh4dkxzM3BhZVJXa0xfbFo5UWNOemhjOHFCMVdRbkZLWXRncXRpcTVVVklydS0ycVhOOU1BdlFqUQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEtuLTNnMHFUUFJydTR6WnVUTmNrVzlsODZtRG9qR3h3YmQyMUFnMlVqVjdqTm5sUS15THp3TnkyQUVRRFFfdEIwQ0NxVXRHdXludWJWRWk1R1QzRTQ5cUlfTmt6MVktSktBV09aSHVQWERXU2RWS2hfRU5YSGh4dkxzM3BhZVJXa0xfbFo5UWNOemhjOHFCMVdRbkZLWXRncXRpcTVVVklydS0ycVhOOU1BdlFqUQ?oc=5</guid>
+            <pubDate>Fri, 06 Feb 2026 20:23:29 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 黑冰导致航班停飞后，柏林机场缓慢重新开放 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[工会同意美国炼油厂合同，避免全国性罢工 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQjV6Y1VyNkFtdGF0S2czNHpJNWNBYjNPeng0QjJWRzhjM21hamdIOVBiUU1xb2hHazZHS2twUDZZdzJBYlNhdmxVZWNRM2VBSy1YTjJRekUyTEw4bllyV01XUUkxT0JpOUF2RWNmRnh6Q1N3RW5YUW95WFMzeV9ublFHLUh6cHZIT1RWRGJtUWRSV002Wk1ySll0MGVjU09OS0hxUjI0dEpfNW9LNTJfMzRvUGVaNUUxWFM0Vy0zc28ySGw1blBONEh0MjRQRVJNekE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQjV6Y1VyNkFtdGF0S2czNHpJNWNBYjNPeng0QjJWRzhjM21hamdIOVBiUU1xb2hHazZHS2twUDZZdzJBYlNhdmxVZWNRM2VBSy1YTjJRekUyTEw4bllyV01XUUkxT0JpOUF2RWNmRnh6Q1N3RW5YUW95WFMzeV9ublFHLUh6cHZIT1RWRGJtUWRSV002Wk1ySll0MGVjU09OS0hxUjI0dEpfNW9LNTJfMzRvUGVaNUUxWFM0Vy0zc28ySGw1blBONEh0MjRQRVJNekE?oc=5</guid>
             <pubDate>Fri, 06 Feb 2026 20:20:28 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 工会同意美国炼油厂合同，避免全国性罢工 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stellantis因电动汽车撤资而蒙受270亿美元损失 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTM0cEIwZTRNc0FOSjUtMjZjZG9LVnRQcnJ6LUo4VUx4SDQxbFBoTmIzTGF2QWZsWnhyZEdkVVFKWWN3Q2poUkp2Wk5QRWZESklJSEN5Y3FJcHdKSHQwNjVSa0tGdWd3NmFLZWZMXzFFQVlTOExPajVkdXpvOU1PQlZxTVExaUdmUzljbC1yWnlId1AyR2FxQVJ0SG5OZVRCZHBMOUxCZXl3d1l6cHNHcDNKM2hXQQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxPOTM0cEIwZTRNc0FOSjUtMjZjZG9LVnRQcnJ6LUo4VUx4SDQxbFBoTmIzTGF2QWZsWnhyZEdkVVFKWWN3Q2poUkp2Wk5QRWZESklJSEN5Y3FJcHdKSHQwNjVSa0tGdWd3NmFLZWZMXzFFQVlTOExPajVkdXpvOU1PQlZxTVExaUdmUzljbC1yWnlId1AyR2FxQVJ0SG5OZVRCZHBMOUxCZXl3d1l6cHNHcDNKM2hXQQ?oc=5</guid>
-            <pubDate>Fri, 06 Feb 2026 20:18:20 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Stellantis 因电动汽车撤资而蒙受 270 亿美元巨额损失 路透]]></description>
         </item>
         <item>
             <title><![CDATA[道琼斯工业平均指数首次突破 50,000 点 - 路透中文网]]></title>
