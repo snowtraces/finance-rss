@@ -4,10 +4,45 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 08 Feb 2026 22:55:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 23:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[中东紧张局势缓解降低供应风险，油价下跌]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-08/latest-oil-market-news-and-analysis-for-feb-9</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/latest-oil-market-news-and-analysis-for-feb-9</guid>
+            <pubDate>Sun, 08 Feb 2026 23:05:42 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着中东紧张局势缓和，油价下跌，减少了近期潜在供应中断的可能性。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[港股早报｜虚拟货币监管再升级 热门中概股延续强势表现]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3205609</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3205609</guid>
+            <pubDate>Sun, 08 Feb 2026 23:05:33 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[国泰海通：AI大战一触即发 建议关注受益于新场景新生态的赛道]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3205608</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3205608</guid>
+            <pubDate>Sun, 08 Feb 2026 23:05:09 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A股申购 | 通宝光电(920168.BJ)开启申购 为汽车电子零部件制造商]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3205607</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3205607</guid>
+            <pubDate>Sun, 08 Feb 2026 23:05:09 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国正在注入现金以填补 4560 亿美元的流动性缺口]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-08/china-injects-cash-to-fill-456-billion-liquidity-gap-for-lunar-new-year</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/china-injects-cash-to-fill-456-billion-liquidity-gap-for-lunar-new-year</guid>
+            <pubDate>Sun, 08 Feb 2026 23:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 中国人民银行正在增加银行的可用货币供应，以确保它们能够满足农历新年假期期间激增的现金需求。]]></description>
+        </item>
         <item>
             <title><![CDATA[星展银行利润未达预期，称今年盈利将下降]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-08/dbs-profit-misses-estimates-bank-says-earnings-this-year-to-dip</link>
@@ -23,11 +58,11 @@
             <description><![CDATA[[Bloomberg] 全球最大的铁矿石出口港口在热带风暴过后重新开放。]]></description>
         </item>
         <item>
-            <title><![CDATA[Takaichi 获胜后日元波动，亚洲股市上涨：市场总结]]></title>
+            <title><![CDATA[Takaichi 获胜后日元下跌，亚洲股市上涨：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-08/yen-swings-after-takaichi-win-asia-stocks-to-rise-markets-wrap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/yen-swings-after-takaichi-win-asia-stocks-to-rise-markets-wrap</guid>
             <pubDate>Sun, 08 Feb 2026 22:37:40 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于日本首相高市早苗取得历史性选举胜利，日元周一波动，而在华尔街周五上涨后，亚洲股市本周似乎将开盘走高。]]></description>
+            <description><![CDATA[[Bloomberg] 由于日本首相高市早苗在选举中取得历史性胜利，日元周一小幅走软，而在华尔街周五上涨后，亚洲股市本周似乎将开盘走高。]]></description>
         </item>
         <item>
             <title><![CDATA[中国生物制药(01177)：维特柯妥拜单抗“CLDN18.2 ADC”III期临床试验完成受试者入组]]></title>
@@ -55,7 +90,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-02-08/yen-steady-as-japan-s-takaichi-poised-for-landslide-election-win-mle5nsys</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/yen-steady-as-japan-s-takaichi-poised-for-landslide-election-win-mle5nsys</guid>
             <pubDate>Sun, 08 Feb 2026 19:47:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 日本执政党自民党在周日众议院选举中赢得绝对多数席位，为首相高市早苗推出更多财政刺激措施打开了大门，日元随之波动。]]></description>
+            <description><![CDATA[[Bloomberg] 日本执政党自民党在周日的众议院选举中赢得绝对多数席位，为首相高市早苗推出更多财政刺激措施打开了大门，日元随之波动。]]></description>
         </item>
         <item>
             <title><![CDATA[迈克尔·欧文 (Michael Irvin) 在第 60 届超级碗广播电台节目中]]></title>
@@ -76,7 +111,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-08/saudi-finance-minister-on-economic-outlook-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-08/saudi-finance-minister-on-economic-outlook-video</guid>
             <pubDate>Sun, 08 Feb 2026 18:39:21 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 沙特阿拉伯财政部长穆罕默德·贾丹谈及未来五年的经济前景和战略。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 沙特阿拉伯财政部长穆罕默德·贾丹谈到了他未来五年的经济前景和战略。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[据《星期日泰晤士报》报道，英国 Ocado 将裁减多达 1,000 个工作岗位以削减成本 - 路透]]></title>
@@ -156,6 +191,13 @@
             <description><![CDATA[[Bloomberg] 泰国选民周日前往投票站，在执政的普明党、进步的人民党和民粹主义的为泰党之间展开三角逐。  （来源：彭博社）]]></description>
         </item>
         <item>
+            <title><![CDATA[拟建中国驻英使馆邻近投资者寻求司法复核]]></title>
+            <link>https://www.ftchinese.com/story/001108936</link>
+            <guid isPermaLink="false">https://www.ftchinese.com/story/001108936</guid>
+            <pubDate>Sun, 08 Feb 2026 16:00:00 GMT</pubDate>
+            <description><![CDATA[[FT Chinese] 2018年中国政府购入皇家铸币厂旧址5.4个永久地块时，也买下了地块边缘四栋住宅楼100套公寓的产权。这些公寓的居民不愿与使馆为邻。]]></description>
+        </item>
+        <item>
             <title><![CDATA[高盛交易员警告称，在动荡的市场中，股票抛售尚未结束]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-08/goldman-traders-warn-stock-selling-isn-t-over-in-choppy-market</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/goldman-traders-warn-stock-selling-isn-t-over-in-choppy-market</guid>
@@ -198,7 +240,7 @@
             <description><![CDATA[[Bloomberg] 超级碗应该是博彩公司日历上的重头戏。 然而，今年，随着大赛的临近，乌云笼罩着整个行业。]]></description>
         </item>
         <item>
-            <title><![CDATA[剧烈的股票波动让华尔街最受欢迎的期权交易保持活跃]]></title>
+            <title><![CDATA[股票剧烈波动让华尔街最喜爱的期权交易保持活跃]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-08/wild-stock-swings-keep-favorite-wall-street-option-trade-humming</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/wild-stock-swings-keep-favorite-wall-street-option-trade-humming</guid>
             <pubDate>Sun, 08 Feb 2026 15:00:00 GMT</pubDate>
@@ -233,13 +275,6 @@
             <description><![CDATA[[Bloomberg] KKR & Co. 的领导者认为，收购 Arctos Partners 是帮助公司利用两条不断增长的业务线的关键，同时巩固其作为主导机构体育投资者的新地位。]]></description>
         </item>
         <item>
-            <title><![CDATA[金发科技(600143.SH)拟授出不超3927.97万股限制性股票]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3205580</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3205580</guid>
-            <pubDate>Sun, 08 Feb 2026 14:05:09 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[随着新的股市现实的到来，人工智能的恐惧笼罩着华尔街]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-08/ai-fear-grips-wall-street-as-a-new-stock-market-reality-sets-in</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/ai-fear-grips-wall-street-as-a-new-stock-market-reality-sets-in</guid>
@@ -254,20 +289,6 @@
             <description><![CDATA[[Reuters Business] 法国总理勒科尔努在预算战后制定议程，重点关注能源和国防 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[杉杉集团第二轮重整国资联合体胜出 安徽国资拟以不超71.56亿控股杉杉股份|速读公告]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3205578</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3205578</guid>
-            <pubDate>Sun, 08 Feb 2026 13:35:32 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新股前瞻｜易买工品：增收减亏仅是“表象”，毛利率持续下滑“拷问”成长模式]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3205577</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3205577</guid>
-            <pubDate>Sun, 08 Feb 2026 13:35:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[一些新兴企业看起来比政府更安全]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-08/from-mexico-to-ukraine-some-corporates-can-borrow-cheaper-than</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/from-mexico-to-ukraine-some-corporates-can-borrow-cheaper-than</guid>
@@ -279,7 +300,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-08/the-second-china-shock-how-europe-is-being-tested-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-08/the-second-china-shock-how-europe-is-being-tested-video</guid>
             <pubDate>Sun, 08 Feb 2026 13:04:46 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 中国2001年加入世贸组织后，第一次贸易冲击袭击了美国，掏空了部分美国制造业。 现在，中国新一轮出口浪潮正在重塑全球与欧洲的贸易，日益成为人们关注的焦点。 我们前往德国巴伐利亚州，亲眼目睹当地汽车制造商如何面对来自中国的逆风，并听取经济学家戴维·奥托尔和斯蒂芬妮·弗兰德斯的分析，了解“第二次中国冲击”是否会重演过去，还是以截然不同的方式展开。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 中国2001年加入世贸组织后，第一次贸易冲击袭击了美国，掏空了部分美国制造业。 现在，中国新一轮出口浪潮正在重塑全球与欧洲的贸易，日益成为人们关注的焦点。 我们前往德国巴伐利亚州，亲眼目睹当地汽车制造商如何面对来自中国的逆风，并听取经济学家戴维·奥托尔和斯蒂芬妮·弗兰德斯的分析，了解“第二次中国冲击”是否会重蹈过去，还是以截然不同的方式展开。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[EMSC称古巴发生5.5级地震 - 路透中文网]]></title>
@@ -310,11 +331,11 @@
             <description><![CDATA[[华尔街见闻] OpenClaw走红，个人AI代理时代真的来了  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Takaichi Win 推动日本股市上涨，打压日元和债券]]></title>
+            <title><![CDATA[高市胜选刺激日本股市上涨，令日元和债券承压]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-08/takaichi-win-primes-japan-stocks-for-gains-damps-yen-and-bonds</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/takaichi-win-primes-japan-stocks-for-gains-damps-yen-and-bonds</guid>
             <pubDate>Sun, 08 Feb 2026 11:44:30 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在首相高市早苗领导的自民党取得压倒性胜利后，日本股市有望延续涨势，而该国货币和债券则很容易进一步下跌。]]></description>
+            <description><![CDATA[[Bloomberg] 在首相高市早苗领导的自民党取得压倒性胜利后，日本股市期货上涨，而该国货币和债券很容易进一步下跌。]]></description>
         </item>
         <item>
             <title><![CDATA[上周，中国科技巨头与美国同行一起遭到抛售。 怎么玩]]></title>
@@ -324,7 +345,7 @@
             <description><![CDATA[[CNBC] 尽管过去几天中国科技股与美国科技股一起遭到抛售，但分析师表示，两者之间存在根本区别。]]></description>
         </item>
         <item>
-            <title><![CDATA[对于许多人来说，今年的超级碗以沙拉为特色，食品公司正在竞相做出反应 - 路透]]></title>
+            <title><![CDATA[对于许多人来说，今年的超级碗以沙拉为特色，食品公司正在竞相做出反应 - 路透社]]></title>
             <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb3pwTUdfT3V0T21vdXlidVRST3FYYUpLMlI5SWZNN1ZScjYweEhXRDFmZFJ5MTVXZU92Y01neFF5OHNXeHh5dDBCaWkxdmtjczc1bVdlVzdJUmoyVHltaldib2o4NHNRZ1BOdHJMNENhMEpSZ2tqdDdpOFEzWWdvaXd1ajFMbjV2Q0R2QVBTd1JySnIwdjJxbHFNTkRCazE5Wi1yTWxwNXRXdEItR2F1TlA4UGdDb0VqckZCcEpxbmxFTkk2LS14Uzhjb2haTVloLUxpNWRxTW1YUHNJSHc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb3pwTUdfT3V0T21vdXlidVRST3FYYUpLMlI5SWZNN1ZScjYweEhXRDFmZFJ5MTVXZU92Y01neFF5OHNXeHh5dDBCaWkxdmtjczc1bVdlVzdJUmoyVHltaldib2o4NHNRZ1BOdHJMNENhMEpSZ2tqdDdpOFEzWWdvaXd1ajFMbjV2Q0R2QVBTd1JySnIwdjJxbHFNTkRCazE5Wi1yTWxwNXRXdEItR2F1TlA4UGdDb0VqckZCcEpxbmxFTkk2LS14Uzhjb2haTVloLUxpNWRxTW1YUHNJSHc?oc=5</guid>
             <pubDate>Sun, 08 Feb 2026 11:04:35 GMT</pubDate>
@@ -429,25 +450,11 @@
             <description><![CDATA[[Bloomberg] 投资者和政策制定者正在为繁忙的一周美国经济报告做准备，其中可能包括两个最重要的数据快照——就业和通胀。]]></description>
         </item>
         <item>
-            <title><![CDATA[科技股人工智能推动债券市场面临反弹风险：《信贷周刊》]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-07/tech-s-ai-push-risks-a-bond-blowback-amzn-googl-msft-orcl</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-07/tech-s-ai-push-risks-a-bond-blowback-amzn-googl-msft-orcl</guid>
-            <pubDate>Sat, 07 Feb 2026 19:01:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 最大的科技公司正准备在人工智能上投入比投资者预期更多的资金，而基金经理越来越担心，无论发生什么，信贷市场都会受到打击。]]></description>
-        </item>
-        <item>
             <title><![CDATA[特朗普支持 Nexstar 与 Tegna 合并，称大型电视网络需要更多竞争 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNclFibXNVd3dTbjRsSklVN280SmdwYU5JMWJrQ19wLXY3bUpocVFZbE5zX1p2cndwUm42UEtWamVWU3RGQXI5REl4eTdqVzlhSWpOcDVSVmZpZVhXMVNXZDRoaWVjeUNTUG9EZGlwQng1R3BGZU9XczZ0SzVvQlhPV3NBNmk4WVJaX0JtTGl3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxNclFibXNVd3dTbjRsSklVN280SmdwYU5JMWJrQ19wLXY3bUpocVFZbE5zX1p2cndwUm42UEtWamVWU3RGQXI5REl4eTdqVzlhSWpOcDVSVmZpZVhXMVNXZDRoaWVjeUNTUG9EZGlwQng1R3BGZU9XczZ0SzVvQlhPV3NBNmk4WVJaX0JtTGl3?oc=5</guid>
             <pubDate>Sat, 07 Feb 2026 16:13:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 特朗普支持 Nexstar 与 Tegna 合并，称大型电视网络需要更多竞争 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[印美贸易协议给予哈雷摩托车零关税，特斯拉也没有得到缓刑 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQzIxcXdieklDc282ZWZXSkRpSDU3YklicUV5ZS1wbkNOOXBja3Flb0JxRE5lRmFsUmhXdVZ6WVUwODFKQ3Q0bnhWZTN5N3k0bm1jNEl3VVo3X0N1UUU0QW9rOGIxSE8yZTZtRTVlaEFsYWhpdXlISm5PMVdyV2pDZ2EwcDFXYVhNNXJhS3pZZXItUlcwMnIwWDY1X0Q5el9tZUoxSEI2dFFPaHJ2enVERUdXSjhqc2hodHpPeGtjTWM2OVJJcXlUS1pMR0FybEFfd2dfNG52Zks?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQzIxcXdieklDc282ZWZXSkRpSDU3YklicUV5ZS1wbkNOOXBja3Flb0JxRE5lRmFsUmhXdVZ6WVUwODFKQ3Q0bnhWZTN5N3k0bm1jNEl3VVo3X0N1UUU0QW9rOGIxSE8yZTZtRTVlaEFsYWhpdXlISm5PMVdyV2pDZ2EwcDFXYVhNNXJhS3pZZXItUlcwMnIwWDY1X0Q5el9tZUoxSEI2dFFPaHJ2enVERUdXSjhqc2hodHpPeGtjTWM2OVJJcXlUS1pMR0FybEFfd2dfNG52Zks?oc=5</guid>
-            <pubDate>Sat, 07 Feb 2026 15:57:33 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 印美贸易协议给予哈雷摩托车免关税，特斯拉也没有得到缓刑 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[匈牙利反对党蒂萨承诺在选举计划中征收财富税和采用欧元 - 路透中文网]]></title>
@@ -609,13 +616,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lWkFSZ1Mzcng0dkRjbzFpcUpnbnNTZjdlUl9SeDNhNHNOMEpLSU5WZkotX2txbXBUc1V6S2JDOEt6cWhHNVgzU1k2b1JfVDNRRUtn?oc=5</guid>
             <pubDate>Sat, 07 Feb 2026 03:11:25 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] “美国最大电网”PJM：未来十年美国面临重大电力短缺，缺口高达60GW  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿波罗、贝莱德、橡树资本请求法官驳回 Altice 诉讼]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-07/apollo-blackrock-oaktree-ask-judge-to-toss-altice-lawsuit</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-07/apollo-blackrock-oaktree-ask-judge-to-toss-altice-lawsuit</guid>
-            <pubDate>Sat, 07 Feb 2026 02:57:20 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Altice USA Inc. 的贷款方，包括阿波罗资本管理公司、贝莱德金融管理公司和橡树资本管理公司，要求联邦法官驳回一项指控他们合谋将该公司排除在美国信贷市场之外的诉讼。]]></description>
         </item>
         <item>
             <title><![CDATA[中国央行黄金储备"十五连增"，1月环比增持4万盎司，增持节奏略有加快 - 华尔街见闻]]></title>
