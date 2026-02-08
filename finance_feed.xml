@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 08 Feb 2026 18:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 19:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[沙特财政部长谈融资与投资]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-02-08/saudi-finance-minister-on-financing-and-investments-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-08/saudi-finance-minister-on-financing-and-investments-video</guid>
+            <pubDate>Sun, 08 Feb 2026 18:41:36 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 财政部长穆罕默德·贾丹就沙特阿拉伯的融资和投资发表讲话。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[沙特财政部长谈经济前景]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-02-08/saudi-finance-minister-on-economic-outlook-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-08/saudi-finance-minister-on-economic-outlook-video</guid>
+            <pubDate>Sun, 08 Feb 2026 18:39:21 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 沙特阿拉伯财政部长穆罕默德·贾丹谈及未来五年的经济前景和战略。  （来源：彭博社）]]></description>
+        </item>
         <item>
             <title><![CDATA[债权人在抵押品赎回后入股 Allianca 和 Light]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-08/creditors-take-stake-in-allianca-and-light-after-collateral-call</link>
@@ -21,13 +35,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/clear-thai-election-victory-to-give-investors-policy-continuity</guid>
             <pubDate>Sun, 08 Feb 2026 17:12:37 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 一些策略师和经济学家认为，泰国执政党普吉泰党在周日的选举中取得令人信服的胜利，应该会提振该国股市和货币，而政策连续性的潜力会让那些担心政治进一步失灵的投资者松一口气。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰对俄罗斯导弹零部件的外国供应商实施制裁 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQLVdvSzVaY3dpRHFvWjN5dWJjYkNRZ1dwNlBMbUtkd3VmYWE0MkUzNTVoTE9FNzFwbmhxWl9rQlhBaXRLV28yYWlXNVhOU3ZreXNkMlpvQ216ekp6OHI3T0lpNVNiR1RMZzBLR2tzT1BwRzU4dFZUbGhtaXItOURyS0pfdmRjUjNTN19sVjNHT25QQUJfRnRLYTl3ZVltLTNrdVNTSDFKRTFkc29XaTY2TnBLMnRNSVJTSVlwVGdMbUtiZkQ4UnhLeDVwY3Itckk?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxQLVdvSzVaY3dpRHFvWjN5dWJjYkNRZ1dwNlBMbUtkd3VmYWE0MkUzNTVoTE9FNzFwbmhxWl9rQlhBaXRLV28yYWlXNVhOU3ZreXNkMlpvQ216ekp6OHI3T0lpNVNiR1RMZzBLR2tzT1BwRzU4dFZUbGhtaXItOURyS0pfdmRjUjNTN19sVjNHT25QQUJfRnRLYTl3ZVltLTNrdVNTSDFKRTFkc29XaTY2TnBLMnRNSVJTSVlwVGdMbUtiZkQ4UnhLeDVwY3Itckk?oc=5</guid>
-            <pubDate>Sun, 08 Feb 2026 16:48:56 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 乌克兰对俄罗斯导弹零部件的外国供应商实施制裁 路透]]></description>
         </item>
         <item>
             <title><![CDATA[Bessent认为金价波动背后的中国交易“不守规矩”]]></title>
@@ -261,6 +268,13 @@
             <description><![CDATA[[WSJ] 美国劳动力市场陷入“深度冻结”。 有很多因素在起作用。]]></description>
         </item>
         <item>
+            <title><![CDATA[乌克兰对俄罗斯导弹零部件的外国供应商实施制裁 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQLVdvSzVaY3dpRHFvWjN5dWJjYkNRZ1dwNlBMbUtkd3VmYWE0MkUzNTVoTE9FNzFwbmhxWl9rQlhBaXRLV28yYWlXNVhOU3ZreXNkMlpvQ216ekp6OHI3T0lpNVNiR1RMZzBLR2tzT1BwRzU4dFZUbGhtaXItOURyS0pfdmRjUjNTN19sVjNHT25QQUJfRnRLYTl3ZVltLTNrdVNTSDFKRTFkc29XaTY2TnBLMnRNSVJTSVlwVGdMbUtiZkQ4UnhLeDVwY3Itckk?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxQLVdvSzVaY3dpRHFvWjN5dWJjYkNRZ1dwNlBMbUtkd3VmYWE0MkUzNTVoTE9FNzFwbmhxWl9rQlhBaXRLV28yYWlXNVhOU3ZreXNkMlpvQ216ekp6OHI3T0lpNVNiR1RMZzBLR2tzT1BwRzU4dFZUbGhtaXItOURyS0pfdmRjUjNTN19sVjNHT25QQUJfRnRLYTl3ZVltLTNrdVNTSDFKRTFkc29XaTY2TnBLMnRNSVJTSVlwVGdMbUtiZkQ4UnhLeDVwY3Itckk?oc=5</guid>
+            <pubDate>Sun, 08 Feb 2026 09:30:44 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 乌克兰对俄罗斯导弹零部件的外国供应商实施制裁 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[美银Hartnett：小盘股比科技股更值得押注，科技巨头不再是赢家 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hSFNzRklYZUN2dHBGdGhTcGE1cEJCY0lyQkNFZnU5R09wZ0YweWltcHVVZzdhM29zTklvRjlGU0tmQzdMS29IYVhvQVdfQW9mV0dn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hSFNzRklYZUN2dHBGdGhTcGE1cEJCY0lyQkNFZnU5R09wZ0YweWltcHVVZzdhM29zTklvRjlGU0tmQzdMS29IYVhvQVdfQW9mV0dn?oc=5</guid>
@@ -285,7 +299,7 @@
             <title><![CDATA[印度炼油商避开俄罗斯石油以推动美国贸易协议 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWM4NUdGRnk3ME83TU5uVTVleE9zZEc1R3ZSN2dmUEtnZzg5TVlkSXZTQ3VUVlVHV2tfQnVOeVBGUGozaDUyMmFkc0g4T2ZKZ1lJOHYtZWZIYllNUHo4Wjc1Mno1TWJMb1MyMmc1SDhqSjFCbFRjdmxoMkhxSjBYM19DWmh1ZmFnUm5UcHBHdWxaZUlTazZZaEplN0ctX0NTLWRhTlZ3SQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWM4NUdGRnk3ME83TU5uVTVleE9zZEc1R3ZSN2dmUEtnZzg5TVlkSXZTQ3VUVlVHV2tfQnVOeVBGUGozaDUyMmFkc0g4T2ZKZ1lJOHYtZWZIYllNUHo4Wjc1Mno1TWJMb1MyMmc1SDhqSjFCbFRjdmxoMkhxSjBYM19DWmh1ZmFnUm5UcHBHdWxaZUlTazZZaEplN0ctX0NTLWRhTlZ3SQ?oc=5</guid>
-            <pubDate>Sun, 08 Feb 2026 04:57:00 GMT</pubDate>
+            <pubDate>Sun, 08 Feb 2026 04:57:25 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 印度炼油商避开俄罗斯石油以推动美国贸易协议 路透]]></description>
         </item>
         <item>
@@ -443,25 +457,11 @@
             <description><![CDATA[[华尔街见闻] 钙钛矿GW级产能爆发，产业链上有哪些机会？  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[私人市场推动全球富人陷入人工智能崩溃]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-07/private-markets-push-for-world-s-wealthy-runs-into-ai-meltdown</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-07/private-markets-push-for-world-s-wealthy-runs-into-ai-meltdown</guid>
-            <pubDate>Sat, 07 Feb 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在私人市场争取全球富豪的支持中，站在第一线的销售人员非常擅长回答有关不透明度、流动性和估值的问题。 他们的棘手话题清单刚刚增加了一个新内容——所谓的 SaaSpocalypse。]]></description>
-        </item>
-        <item>
             <title><![CDATA[Waymo联手DeepMind打造世界模型：基于Genie 3，让自动驾驶「脑补」罕见场景 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UUm1BOENyXzlpN0xQZjN2WHd0QkxqOWlIcWNwUjVkUG4wTzFrZEdlNUdVTkg1OVdnbVlMX194b3JZVEk1Qm9xOUV3WVFocFpNVkhN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UUm1BOENyXzlpN0xQZjN2WHd0QkxqOWlIcWNwUjVkUG4wTzFrZEdlNUdVTkg1OVdnbVlMX194b3JZVEk1Qm9xOUV3WVFocFpNVkhN?oc=5</guid>
             <pubDate>Sat, 07 Feb 2026 11:57:31 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] Waymo联手DeepMind打造世界模型：基于Genie 3，让自动驾驶「脑补」罕见场景  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所将向部分用户赔偿 400 亿美元的错误]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-07/crypto-exchange-to-reimburse-some-users-after-40-billion-error</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-07/crypto-exchange-to-reimburse-some-users-after-40-billion-error</guid>
-            <pubDate>Sat, 07 Feb 2026 11:45:35 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 韩国加密货币交易所 Bithumb 周五错误地分发了价值超过 400 亿美元的比特币，该交易所表示，将补偿在其平台短暂但大幅抛售期间恐慌出售所持比特币而蒙受损失的客户。]]></description>
         </item>
         <item>
             <title><![CDATA[减肥药将在最大舞台上与超级碗广告竞争 - 路透中文网]]></title>
