@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 08 Feb 2026 15:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 15:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[Eskom 因监管机构失误可提高 34 亿美元关税]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-08/eskom-can-raise-3-4-billion-from-tariffs-after-regulator-error</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/eskom-can-raise-3-4-billion-from-tariffs-after-regulator-error</guid>
+            <pubDate>Sun, 08 Feb 2026 15:40:46 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 南非能源监管机构允许国有 Eskom Holdings SOC Ltd. 在三年内提高关税并收回 547 亿兰特（34 亿美元），此前该公司出现了一系列定价错误，且试图私下解决此事失败。]]></description>
+        </item>
         <item>
             <title><![CDATA[本周机构最为关注的A股行业板块一览]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3205594</link>
@@ -30,7 +37,7 @@
             <description><![CDATA[[Bloomberg] 超级碗应该是博彩公司日历上的重头戏。 然而，今年，随着大赛的临近，乌云笼罩着整个行业。]]></description>
         </item>
         <item>
-            <title><![CDATA[剧烈的股票波动让华尔街最受欢迎的期权交易保持活跃]]></title>
+            <title><![CDATA[股票剧烈波动让华尔街最喜爱的期权交易保持活跃]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-08/wild-stock-swings-keep-favorite-wall-street-option-trade-humming</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-08/wild-stock-swings-keep-favorite-wall-street-option-trade-humming</guid>
             <pubDate>Sun, 08 Feb 2026 15:00:00 GMT</pubDate>
@@ -142,6 +149,13 @@
             <description><![CDATA[[Reuters Business] EMSC 称古巴发生 5.5 级地震 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[纳米比亚因不遵守程序将不承认TotalEnergies和Petrobras的交易 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzNXWW5lSWtoMExNSUxUYmF0ZDdwWXZ2aEg2QlBHTENiNTJfcEJkS25zQ1VSaGpWQVZmM29uVHc0MGtiV21yRGxrSEx1R3JhbXVjM1NiX2tWYW5PZnRCVmtLSm5qRWx6R1Jsc1B0YTZwaGVDT2o5VnVyQlBYeWk5dkxhaVNhTVRTZ2hYeV93TGtFMWoyejBnOExMeUpSLTJoT2NDNVRDckNRWXA3MmlUZUE1VWxyV1IxbjZGb2ZEWlBQQ3lCSG42c1NzMA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzNXWW5lSWtoMExNSUxUYmF0ZDdwWXZ2aEg2QlBHTENiNTJfcEJkS25zQ1VSaGpWQVZmM29uVHc0MGtiV21yRGxrSEx1R3JhbXVjM1NiX2tWYW5PZnRCVmtLSm5qRWx6R1Jsc1B0YTZwaGVDT2o5VnVyQlBYeWk5dkxhaVNhTVRTZ2hYeV93TGtFMWoyejBnOExMeUpSLTJoT2NDNVRDckNRWXA3MmlUZUE1VWxyV1IxbjZGb2ZEWlBQQ3lCSG42c1NzMA?oc=5</guid>
+            <pubDate>Sun, 08 Feb 2026 12:16:10 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 纳米比亚因不遵守程序而不会承认 TotalEnergies 和 Petrobras 的交易 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[2025 年的特朗普经济就像坐过山车一样，但有一点始终不变：美国人关注的是价格。 以下是来自各个领域的人的抽样调查结果。]]></title>
             <link>https://www.wsj.com/economy/consumers/americans-rate-trump-economy-21b85459</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/consumers/americans-rate-trump-economy-21b85459</guid>
@@ -203,13 +217,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/08/chinas-luckin-coffee-opens-its-first-high-end-store.html</guid>
             <pubDate>Sun, 08 Feb 2026 06:26:08 GMT</pubDate>
             <description><![CDATA[[CNBC] 这家中国咖啡新贵正在通过一家新旗舰店从廉价饮料扩展到高端市场。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瑞银集团为吉斯莱恩·麦克斯韦尔提供了多年的银行服务，并在爱泼斯坦被捕后转移了她的资金 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHpjTmp1UW5tS0FtVmhfWExDNm05T2IzR2FmQ184c1dRdmJia0t4OGdndm5nWG12VVR3RXBwUXdLUW1JdGMwbmQ4ekJoUTdTVmVuVklEcXV4M193Rk5UWVFXVWFfSVV0ODYwbFlkcTZDN0V1Y1RIOUlrbGlfRmFhcXNDWDBuQW5ydVV0S2UyX3NhVzFDZ3RBUFNPMTJUb2FGc0xTY2Y1dGtMaFE3WkwzdTZORnBORjRjeGdiSGM3RWljaDlJ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHpjTmp1UW5tS0FtVmhfWExDNm05T2IzR2FmQ184c1dRdmJia0t4OGdndm5nWG12VVR3RXBwUXdLUW1JdGMwbmQ4ekJoUTdTVmVuVklEcXV4M193Rk5UWVFXVWFfSVV0ODYwbFlkcTZDN0V1Y1RIOUlrbGlfRmFhcXNDWDBuQW5ydVV0S2UyX3NhVzFDZ3RBUFNPMTJUb2FGc0xTY2Y1dGtMaFE3WkwzdTZORnBORjRjeGdiSGM3RWljaDlJ?oc=5</guid>
-            <pubDate>Sun, 08 Feb 2026 05:04:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 瑞银 (UBS) 为吉斯莱恩·麦克斯韦 (Ghislaine Maxwell) 提供了多年的银行服务，并在爱泼斯坦被捕后转移了她的资金 路透]]></description>
         </item>
         <item>
             <title><![CDATA[印度炼油商避开俄罗斯石油以推动美国贸易协议 - 路透中文网]]></title>
@@ -496,7 +503,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-02-07/world-s-central-banks-increasingly-look-to-fed-for-top-hires</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-07/world-s-central-banks-increasingly-look-to-fed-for-top-hires</guid>
             <pubDate>Sat, 07 Feb 2026 07:30:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 从伊斯坦布尔到罗马，拥有高级职位空缺的央行都在接受美国决策者职业生涯的血统。]]></description>
+            <description><![CDATA[[Bloomberg] 从伊斯坦布尔到罗马，拥有高级职位空缺的央行正在接受美国决策者职业生涯的血统。]]></description>
         </item>
         <item>
             <title><![CDATA[美国宣布将在几周内向联合国支付部分拖欠款项！此前已欠超30亿美元 - 华尔街见闻]]></title>
@@ -560,13 +567,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lWkFSZ1Mzcng0dkRjbzFpcUpnbnNTZjdlUl9SeDNhNHNOMEpLSU5WZkotX2txbXBUc1V6S2JDOEt6cWhHNVgzU1k2b1JfVDNRRUtn?oc=5</guid>
             <pubDate>Sat, 07 Feb 2026 03:11:25 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] “美国最大电网”PJM：未来十年美国面临重大电力短缺，缺口高达60GW  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[泰国高风险投票考验政治改革意愿]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-07/high-stakes-thai-vote-tests-appetite-for-political-reform</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-07/high-stakes-thai-vote-tests-appetite-for-political-reform</guid>
-            <pubDate>Sat, 07 Feb 2026 03:07:21 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 泰国主要政党在选举前举行最后集会，将现状与全面的政治和经济改革进行对抗。]]></description>
         </item>
         <item>
             <title><![CDATA[阿波罗、贝莱德、橡树资本请求法官驳回 Altice 诉讼]]></title>
