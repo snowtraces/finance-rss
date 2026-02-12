@@ -4,22 +4,85 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 12 Feb 2026 21:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 21:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国股市收低；截至收盘道琼斯工业平均指数下跌1.34%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3214982</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214982</guid>
+            <pubDate>Thu, 12 Feb 2026 21:31:56 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌1.11%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3214981</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214981</guid>
+            <pubDate>Thu, 12 Feb 2026 21:31:00 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加拿大股市收低；截至收盘加拿大多伦多S&P/TSX 综合指数下跌2.37%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3214979</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214979</guid>
+            <pubDate>Thu, 12 Feb 2026 21:30:19 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯股市上涨；截至收盘MOEX Russia Index上涨0.31%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3214960</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214960</guid>
+            <pubDate>Thu, 12 Feb 2026 21:25:56 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚股市收低；截至收盘COLCAP下跌2.00%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3214953</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214953</guid>
+            <pubDate>Thu, 12 Feb 2026 21:25:20 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Instacart 对持续的杂货需求前景乐观]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-12/instacart-posts-strong-outlook-on-sustained-grocery-demand</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/instacart-posts-strong-outlook-on-sustained-grocery-demand</guid>
+            <pubDate>Thu, 12 Feb 2026 21:16:18 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Instacart 发布了 2026 年初的强劲前景，远远超出分析师的预期，表明对其杂货配送服务的需求持续增长。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic完成300亿美元融资 估值飙升至3800亿美元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3214912</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214912</guid>
+            <pubDate>Thu, 12 Feb 2026 21:05:32 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[穆迪确认FNB的Baa2评级，展望调整为稳定]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3214907</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3214907</guid>
+            <pubDate>Thu, 12 Feb 2026 20:56:03 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[标普因Raizen债务担忧将Cosan展望调整为负面]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3214904</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3214904</guid>
+            <pubDate>Thu, 12 Feb 2026 20:49:15 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[标普将Vertiv上调至投资级别，看好数据中心需求]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3214903</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3214903</guid>
+            <pubDate>Thu, 12 Feb 2026 20:48:37 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[欧盟据悉再对谷歌发起反垄断调查 剑指搜索引擎广告定价]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3214897</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214897</guid>
             <pubDate>Thu, 12 Feb 2026 20:35:34 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴西股市收低；截至收盘巴西IBOVESPA股指下跌0.92%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3214896</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214896</guid>
-            <pubDate>Thu, 12 Feb 2026 20:35:17 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -35,13 +98,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/goldman-leads-3-5-billion-private-loan-for-clearwater-purchase</guid>
             <pubDate>Thu, 12 Feb 2026 20:14:21 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 由 Goldman Sachs Alternatives 领导的一群私人信贷公司将提供 35 亿美元来支持对 Clearwater Analytics Holdings Inc. 的收购，这是直接贷方资助软件收购的最新实例。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ WarrenAI预测：2026年值得关注的五大AI数据中心股票]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3214889</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3214889</guid>
-            <pubDate>Thu, 12 Feb 2026 20:03:30 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[Anthropic 完成 30B 美元融资]]></title>
@@ -61,14 +117,7 @@
             <description><![CDATA[[Bloomberg] 六名共和党人与除一名众议院民主党人外的所有民主党人一起投票限制特朗普对加拿大征收关税的权力。 由于对生活成本的担忧主导了选民的想法，这一结果引发了特朗普标志性政策之一的政治战线。 尽管关税一直是争论的重要话题，但直到周三，众议院共和党人还没有必要对其进行正式投票。   代表内布拉斯加州第一选区的共和党人迈克·弗拉德 (Mike Flood) 加入讨论权力平衡问题。 他还讨论了众议院批准对联邦住房政策进行一系列修改的问题，朝着建造更多住房和降低生活成本迈出一步。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[白宫呼吁摩根大通的戴蒙降低信用卡利率]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3214882</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3214882</guid>
-            <pubDate>Thu, 12 Feb 2026 19:41:55 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于担心人工智能对办公需求的风险，房地产股下跌]]></title>
+            <title><![CDATA[由于对人工智能风险的担忧蔓延，房地产股下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-12/real-estate-stocks-sink-on-worry-about-ai-risk-to-office-demand</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/real-estate-stocks-sink-on-worry-about-ai-risk-to-office-demand</guid>
             <pubDate>Thu, 12 Feb 2026 19:38:05 GMT</pubDate>
@@ -105,25 +154,18 @@
             <description><![CDATA[[WSJ] 有关调查的常见问题解答以及调查故事和档案数据的链接。]]></description>
         </item>
         <item>
-            <title><![CDATA[顶级保险经纪商：美国银行将Baldwin、Ryan Specialty评为行业领导者]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3214856</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3214856</guid>
-            <pubDate>Thu, 12 Feb 2026 18:52:11 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉将向雪佛龙和雷普索尔授予更多石油钻探区块]]></title>
+            <title><![CDATA[委内瑞拉计划向雪佛龙和雷普索尔授予更多石油区块]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-12/venezuela-to-grant-more-oil-drilling-blocks-to-chevron-repsol</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/venezuela-to-grant-more-oil-drilling-blocks-to-chevron-repsol</guid>
             <pubDate>Thu, 12 Feb 2026 18:41:35 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 据知情人士透露，随着特朗普政府推动私营公司重建该国能源行业，委内瑞拉计划向雪佛龙公司和西班牙雷普索尔公司授予更多石油生产用地。]]></description>
         </item>
         <item>
-            <title><![CDATA[美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3214850</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214850</guid>
-            <pubDate>Thu, 12 Feb 2026 18:35:32 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[大卫·艾因霍恩 (David Einhorn) 押注美联储进一步降息是“最佳交易”之一]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-12/david-einhorn-bets-on-deeper-fed-cuts-as-one-of-best-trades</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/david-einhorn-bets-on-deeper-fed-cuts-as-one-of-best-trades</guid>
+            <pubDate>Thu, 12 Feb 2026 18:38:59 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 对冲基金经理戴维·艾因霍恩 (David Einhorn) 押注，凯文·沃什 (Kevin Warsh) 领导下的美联储降息幅度将“大大高于”市场目前的预测。]]></description>
         </item>
         <item>
             <title><![CDATA[麦当劳推出 5 美元餐点，销售额创两年来最大增幅]]></title>
@@ -148,32 +190,11 @@
             <description><![CDATA[[Bloomberg] Blackstone Inc. 任命托马斯·施莱彻 (Thomas Schleicher) 为北欧地区高级顾问，他曾经为乐高公司 (Lego A/S) 的亿万富翁所有者管理资金。]]></description>
         </item>
         <item>
-            <title><![CDATA[ 伯恩斯坦分析：五大值得关注的零售股票]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3214840</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3214840</guid>
-            <pubDate>Thu, 12 Feb 2026 18:14:51 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meta在Threads上推出AI驱动的信息流定制功能]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3214836</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3214836</guid>
-            <pubDate>Thu, 12 Feb 2026 18:10:00 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[在马姆达尼嘲讽后，Polymarket 为纽约人提供免费杂货]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-12/polymarket-hands-new-yorkers-free-groceries-after-mamdani-taunt</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/polymarket-hands-new-yorkers-free-groceries-after-mamdani-taunt</guid>
             <pubDate>Thu, 12 Feb 2026 18:08:34 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 预测市场初创公司 Polymarket 周四在曼哈顿西村开设了一家临时杂货店，在促销活动中免费赠送食品和家庭必需品，但由于物流问题而推迟。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美股异动 | Arko Petroleum(APC.US)登陆美股市场 开盘跌超3.5%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3214834</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3214834</guid>
-            <pubDate>Thu, 12 Feb 2026 18:06:16 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[因 NBA 投注操纵事件，PointsBet 将在安大略省暂停]]></title>
@@ -198,25 +219,11 @@
             <description><![CDATA[[Bloomberg] 现在已经不是 2021 年了。]]></description>
         </item>
         <item>
-            <title><![CDATA[燃料公司 Arko Petroleum 首次公开募股 2 亿美元后股价下跌 1%]]></title>
+            <title><![CDATA[Arko Petroleum 首次公开募股 2 亿美元后股价下跌 2.5%]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-12/fuel-firm-arko-petroleum-dips-1-in-debut-after-200-million-ipo</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/fuel-firm-arko-petroleum-dips-1-in-debut-after-200-million-ipo</guid>
             <pubDate>Thu, 12 Feb 2026 17:55:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 燃料批发商 Arko Petroleum Corp. 在美国首次公开募股 (IPO) 中筹集了 2 亿美元，其股价开盘价较 IPO 价格低 1.4%。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通任命哈拉米什为首席运营官以加速人工智能实施 - 彭博社]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3214819</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3214819</guid>
-            <pubDate>Thu, 12 Feb 2026 17:54:59 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大豆价格升至 11 月以来最高水平，中美谈判成为焦点]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-12/soy-rises-to-highest-since-november-with-us-china-talks-in-focus</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/soy-rises-to-highest-since-november-with-us-china-talks-in-focus</guid>
-            <pubDate>Thu, 12 Feb 2026 17:54:18 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 大豆期货触及 11 月 18 日以来的最高水平，因交易员关注美国总统特朗普与习近平会晤之前进一步向中国出售美国供应的潜力。]]></description>
+            <description><![CDATA[[Bloomberg] 燃料批发商 Arko Petroleum Corp. 在美国首次公开募股中筹集了 2 亿美元，该公司股价收盘价比 IPO 价格低 2.5%。]]></description>
         </item>
         <item>
             <title><![CDATA[中午涨幅最大的股票：Crocs、Cisco、Lululemon、AppLovin 等]]></title>
@@ -224,20 +231,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/12/stocks-making-the-biggest-moves-midday-crox-csco-lulu-app.html</guid>
             <pubDate>Thu, 12 Feb 2026 17:47:43 GMT</pubDate>
             <description><![CDATA[[CNBC] 这些是午盘交易中涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[邦迪听证会留下有关爱泼斯坦的未解答问题]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-12/bondi-hearing-leaves-unanswered-questions-about-epstein-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-12/bondi-hearing-leaves-unanswered-questions-about-epstein-video</guid>
-            <pubDate>Thu, 12 Feb 2026 17:36:11 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在司法部长帕姆·邦迪就与名誉扫地的金融家杰弗里·爱泼斯坦相关的文件作证数小时后，民主党人希望获得更多答案。 泰勒·肯德尔报道。   （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[舒默威胁要阻止国土安全部提供资金，增加关闭风险]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-12/schumer-threatens-to-block-dhs-funding-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-12/schumer-threatens-to-block-dhs-funding-video</guid>
-            <pubDate>Thu, 12 Feb 2026 17:21:06 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 参议院民主党领袖查克·舒默警告称，民主党将反对资助国土安全部的一项措施，从而增加政府部分关闭的风险。 泰勒·肯德尔报道。   （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[卡夫亨氏新任首席执行官的艰难选择：分股还是双倍下注 - 路透中文网]]></title>
@@ -303,11 +296,11 @@
             <description><![CDATA[[Bloomberg] 一份声明称，数据中心初创公司 Nscale 已从 Pacific Investment Management Co. 和 Blue Owl Capital Inc. 等贷方获得 14 亿美元融资，用于购买将租赁给客户的芯片。]]></description>
         </item>
         <item>
-            <title><![CDATA[埃及部署降息、增加流动性以刺激经济]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-12/egypt-extends-rate-cut-cycle-into-new-year-as-inflation-eases</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/egypt-extends-rate-cut-cycle-into-new-year-as-inflation-eases</guid>
-            <pubDate>Thu, 12 Feb 2026 15:12:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 埃及将利率降至 2023 年中以来的最低水平，并下调了银行准备金率，加大力度刺激企业借贷并加速经济复苏。]]></description>
+            <title><![CDATA[顶级 ICE 承包商 Geo 抹去了所有“特朗普贸易”股票收益]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-12/top-ice-contractor-geo-set-to-erase-all-trump-trade-stock-gain</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/top-ice-contractor-geo-set-to-erase-all-trump-trade-stock-gain</guid>
+            <pubDate>Thu, 12 Feb 2026 15:15:53 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 私人监狱运营商 Geo Group 的股价已经抹去了唐纳德·特朗普总统当选后一度大幅上涨的涨幅，因为对政府移民政策的强烈反对给该公司的前景蒙上阴影。]]></description>
         </item>
         <item>
             <title><![CDATA[美国一月份成屋销售跌至两年多低点 - 路透中文网]]></title>
@@ -329,6 +322,20 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaFlTSHlGZ3gzM0kyWUNQLWpHc0tnWFVVWGhoUGVyQVJRaHQ3cjZZMXdQVVpsenZFLWUxLUtLSWYtZThVc0gxNkN1NzN0Z1hEZ2hQb29mZnM1Nm5ZcklPN2Z6cDJTUnJkM3JzRlpGckZyOXAyQlZrUHUxUmNicklOSHV6c1FwWnloRVItdTBINU1CSTZtZkhrTnF4OEVNRVM2SUQ5djhsYjJZQUFiM2REQ3E4Q1FFbEk2OGFKdW4wdGlUdkFTSXpCZkZPM0JoMFREVGc?oc=5</guid>
             <pubDate>Thu, 12 Feb 2026 15:03:48 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 由于负担能力受到打击，美国人放弃高档内饰而转向入门级汽车 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Citadel 通过出售美国债券筹集 12.5 亿美元用于债务再融资]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-12/citadel-kicks-off-two-part-us-bond-sale-to-refinance-debt</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/citadel-kicks-off-two-part-us-bond-sale-to-refinance-debt</guid>
+            <pubDate>Thu, 12 Feb 2026 15:02:08 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Citadel LLC 通过分两部分的美国债券发行筹集了 12.5 亿美元用于偿还债务，所得收益也可能指定用于与其多策略基金相关的一般企业用途。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于人工智能驱动的抛售席卷整个市场，美国股市暴跌]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-12/us-stock-benchmarks-rebound-as-traders-go-risk-on</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/us-stock-benchmarks-rebound-as-traders-go-risk-on</guid>
+            <pubDate>Thu, 12 Feb 2026 14:52:41 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 受到人工智能威胁的美国公司股票的抛售波及各个行业，包括工业等市场中较为孤立的角落，导致所有市场指标走低。]]></description>
         </item>
         <item>
             <title><![CDATA[盘前涨幅最大的股票：思科、QuantumScape、罗林斯、Fastly 等]]></title>
@@ -380,13 +387,6 @@
             <description><![CDATA[[Reuters Business] 比利时警方因可能存在欺诈行为突击搜查欧盟办事处和比利时财富基金 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[随着期货暴跌，加纳将调整国内可可定价]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-12/ghana-weighs-domestic-cocoa-pricing-overhaul-as-futures-plunge</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/ghana-weighs-domestic-cocoa-pricing-overhaul-as-futures-plunge</guid>
-            <pubDate>Thu, 12 Feb 2026 13:07:48 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 加纳正在寻求彻底改革向农民支付可可的长期定价制度，这表明期货市场的繁荣和萧条给主要种植者带来了压力。]]></description>
-        </item>
-        <item>
             <title><![CDATA[由于投资者谨慎，金融科技公司 Clear Street 将美国 IPO 规模削减 65% - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTVSQUo5ay01ZTh5T2VTNkJ0c05WRkNOQlRycGJhMkY2bVpSWVk1SFEydkpvMnJjTXBXR2Y4VE1pa09BdG1ReXlvV3dTMDU5NENaT3MzOWR1cW9BYXBmRlJWcmNaRmJCOWVBTEx1alhjbV9oWGtIVExKS2JfQlpoZWFTZjRhc0JIQURLZTZ6b25ocnBSNThCRHlodTkyWGtQWUxRUE9qa2ZDYVQ2ZGktbVhvbVc3QUg0RGloTHRUblRhdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNTVSQUo5ay01ZTh5T2VTNkJ0c05WRkNOQlRycGJhMkY2bVpSWVk1SFEydkpvMnJjTXBXR2Y4VE1pa09BdG1ReXlvV3dTMDU5NENaT3MzOWR1cW9BYXBmRlJWcmNaRmJCOWVBTEx1alhjbV9oWGtIVExKS2JfQlpoZWFTZjRhc0JIQURLZTZ6b25ocnBSNThCRHlodTkyWGtQWUxRUE9qa2ZDYVQ2ZGktbVhvbVc3QUg0RGloTHRUblRhdw?oc=5</guid>
@@ -408,7 +408,7 @@
             <description><![CDATA[[Reuters Business] 维多首席执行官表示，由于地缘政治挤压供应，石油市场趋紧 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[科技股溃败影响情绪，新兴股市和货币涨幅回落]]></title>
+            <title><![CDATA[由于科技担忧影响情绪，新兴资产挤压上涨]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-12/emerging-market-stocks-rally-for-fourth-day-led-by-korean-tech</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-12/emerging-market-stocks-rally-for-fourth-day-led-by-korean-tech</guid>
             <pubDate>Thu, 12 Feb 2026 12:40:01 GMT</pubDate>
@@ -450,11 +450,11 @@
             <description><![CDATA[[Reuters Business] 独家：中国比亚迪和吉利竞购汽车工厂，寻求在墨西哥立足 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[独家：美中贸易缓和助长中国关键科技限制措施的封存 - 路透中文网]]></title>
+            <title><![CDATA[独家：特朗普在习近平峰会前暂停对中国科技禁令 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEc0S2MzM1NnZDZCellXUUdkUFZhN0xoZC1td1VhMXdJS2l5TFc4QmRFWnZqdlVRV01GX2lJaWt4UDRON20xSVl0MDJsUkRoWW5qd3NzN2pnYTFHRUJkNnpvaFlxR1RmNDBZeFZHRlJqSzNpN1NVb3h4Rl95NXdQcy02LVVnRUlZd1p1VnR6eFhfcVNyY21IRXZCb3N6Q1FRcDdtUWE3eGJuQnhMQ25XLXZGN3J2ZVBMdHlEVA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEc0S2MzM1NnZDZCellXUUdkUFZhN0xoZC1td1VhMXdJS2l5TFc4QmRFWnZqdlVRV01GX2lJaWt4UDRON20xSVl0MDJsUkRoWW5qd3NzN2pnYTFHRUJkNnpvaFlxR1RmNDBZeFZHRlJqSzNpN1NVb3h4Rl95NXdQcy02LVVnRUlZd1p1VnR6eFhfcVNyY21IRXZCb3N6Q1FRcDdtUWE3eGJuQnhMQ25XLXZGN3J2ZVBMdHlEVA?oc=5</guid>
             <pubDate>Thu, 12 Feb 2026 11:04:58 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：美中贸易缓和助长中国关键科技限制措施的封存 路透]]></description>
+            <description><![CDATA[[Reuters Business] 独家：特朗普在习近平峰会前暂停对中国科技禁令 路透]]></description>
         </item>
         <item>
             <title><![CDATA[在别处寻找迪士尼魔法：加拿大人赴美旅游下降最多 - 路透中文网]]></title>
@@ -478,11 +478,11 @@
             <description><![CDATA[[财新网] 离岸在岸人民币汇率盘中双双升破6.90关口  Caixin]]></description>
         </item>
         <item>
-            <title><![CDATA[随着市场寻求人工智能支出回报，科技、软件溃败拖累华尔街走低 - 路透中文网]]></title>
+            <title><![CDATA[人工智能焦虑加剧科技股溃败，华尔街下跌 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnRJRmlReTVqYXNoM1o4ZUVpSHduN2tENXp2R0lWUnhxaFFpM3JKR3VVX0RNWnRVYVM0TXN2Vl9tVGFDdDlacmFSSXYyZXNSLXJKV3RLT1ppb0g3U0N5VGNDV3d6R3BCVjJjNkNiQkpMUy1lVmc0amJUVEtONXZ2Ny1CNDd6cnRseGIzMVBmMm5CeVhzd0tqaHpqbU1UWDNuX2h1eQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxQTnRJRmlReTVqYXNoM1o4ZUVpSHduN2tENXp2R0lWUnhxaFFpM3JKR3VVX0RNWnRVYVM0TXN2Vl9tVGFDdDlacmFSSXYyZXNSLXJKV3RLT1ppb0g3U0N5VGNDV3d6R3BCVjJjNkNiQkpMUy1lVmc0amJUVEtONXZ2Ny1CNDd6cnRseGIzMVBmMm5CeVhzd0tqaHpqbU1UWDNuX2h1eQ?oc=5</guid>
             <pubDate>Thu, 12 Feb 2026 10:47:28 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 随着市场寻求人工智能支出的回报，科技和软件的溃败拖累华尔街走低 - 路透中文网]]></description>
+            <description><![CDATA[[Reuters Business] 人工智能焦虑加剧，科技股溃败，华尔街下沉 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[乌克兰称俄罗斯袭击摧毁了向欧洲输送石油的管道 - 路透中文网]]></title>
