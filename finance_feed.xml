@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 15 Feb 2026 22:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 22:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国消费物价指数提振情绪后亚洲股市将上涨：市场结束]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-15/asian-stocks-set-to-climb-after-us-cpi-lifts-mood-markets-wrap</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-15/asian-stocks-set-to-climb-after-us-cpi-lifts-mood-markets-wrap</guid>
+            <pubDate>Sun, 15 Feb 2026 22:25:18 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在美国股市近期抛售压力缓解且通胀数据支持美联储今年降息前景后，亚洲股市周一有望上涨。]]></description>
+        </item>
         <item>
             <title><![CDATA[盈利好于预期，澳大利亚银行股创下 2022 年以来最佳一周表现]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-15/earnings-beats-fuel-australian-bank-stocks-best-week-since-2022</link>
@@ -30,7 +37,7 @@
             <description><![CDATA[[Bloomberg] 在有关 MSCI 担忧的警告无人理睬后，印度尼西亚总统下令解雇监管机构。]]></description>
         </item>
         <item>
-            <title><![CDATA[随着中国配方奶粉销量增加，a2 Milk 上调收入指引]]></title>
+            <title><![CDATA[随着中国配方奶粉销量攀升，a2 Milk 上调收入指引]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-15/a2-milk-lifts-revenue-guidance-as-china-formula-sales-increase</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-15/a2-milk-lifts-revenue-guidance-as-china-formula-sales-increase</guid>
             <pubDate>Sun, 15 Feb 2026 20:19:01 GMT</pubDate>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXM4Z2dLanRvSHBPakhzMUhYc1FKXzlBcEVoajNMbEV0NnhISjNOWEllLWRna3pYOGdObDMyNnR3eGVJZGVjSVJXM2stclRnQUdoc3ltYmdEdDNoY2I2RUtoamVKOUhUNVZ6eUhXZlNpbjhfZlo2MmNhOTh2YXdDLWtiMW1vUjZCRk0zbU5UcGNYemJfQVBuTjdiZw?oc=5</guid>
             <pubDate>Fri, 13 Feb 2026 21:55:08 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Lowe's 裁减 600 个公司和支持职位，专注于商店员工 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[影石创新2025年营收逼近百亿，“Pocket”新品蓄势待发 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Kd1hscU04QjV2ZnFXMUk3Q2Z3bnZISXNWdUZwZmRrQnREVmI2dm5uSTRfaTAtNGl2VjI5U3dRM0ZuYm4yd2ZYMUQ1NnZsdk1HMGtz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Kd1hscU04QjV2ZnFXMUk3Q2Z3bnZISXNWdUZwZmRrQnREVmI2dm5uSTRfaTAtNGl2VjI5U3dRM0ZuYm4yd2ZYMUQ1NnZsdk1HMGtz?oc=5</guid>
-            <pubDate>Fri, 13 Feb 2026 21:40:23 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 影石创新2025年营收逼近百亿，“Pocket”新品蓄势待发  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
