@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 15 Feb 2026 17:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 17:51:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -56,6 +56,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai</guid>
             <pubDate>Sun, 15 Feb 2026 14:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 人工智能行业引发的股市动荡反映出两种日益矛盾的担忧。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[斯洛伐克总理指责乌克兰推迟重启石油管道以就欧盟问题向匈牙利施压 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzBOWkFxNTJ0dFpxbGFsRnVBOVNDWTlIMS1NMUhxLVJTY1NFcjFHeFQ4eFYySTB4djdzbnBBLWRpczhqOHhGV0FObXRsVWRPNkZuN2pUbzhDQ2ZWR1dfRW96V3pEaDhLRjE4NFF5VHNNd2hEckNBMUJOXzFrSVFsQUhoWk5Zc3RyM1AwREVUMnFmZklxU2N3R0ZyQ3dGQWxGeGh0Ung3cFI2clpEODhqNldfSUpDU3FHZzN1SlgyVFg?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzBOWkFxNTJ0dFpxbGFsRnVBOVNDWTlIMS1NMUhxLVJTY1NFcjFHeFQ4eFYySTB4djdzbnBBLWRpczhqOHhGV0FObXRsVWRPNkZuN2pUbzhDQ2ZWR1dfRW96V3pEaDhLRjE4NFF5VHNNd2hEckNBMUJOXzFrSVFsQUhoWk5Zc3RyM1AwREVUMnFmZklxU2N3R0ZyQ3dGQWxGeGh0Ung3cFI2clpEODhqNldfSUpDU3FHZzN1SlgyVFg?oc=5</guid>
+            <pubDate>Sun, 15 Feb 2026 13:59:20 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 斯洛伐克总理指责乌克兰推迟重启石油管道以就欧盟问题向匈牙利施压路透]]></description>
         </item>
         <item>
             <title><![CDATA[除夕不看春晚开电话会，这些券商太拼了！春节期间电话会近300场]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTHRiSTZ0UTZjTXpYODF5bmEtbVNKMU5TVGlQaEY3RTJrRWdrNFFMN0YxenRsdzhNTzJHVkpDMnlCT1BIS2VzTmQxeEdua2JaUlBz?oc=5</guid>
             <pubDate>Fri, 13 Feb 2026 20:53:39 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 高盛推出“抗AI冲击”主题投资组合：做多算力与安全，做空可被替代的软件股  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国CPI助长美联储押注，美国通胀低于预期| 实际收益率 2/13/2026]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-13/real-yield-2-13-2025-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-13/real-yield-2-13-2025-video</guid>
-            <pubDate>Fri, 13 Feb 2026 19:51:50 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] “彭博真实收益率”重点介绍了您需要了解的影响市场的新闻。 今天的嘉宾：施瓦布金融研究中心首席固定收益策略师Kathy Jones、摩根大通私人银行宏观和固定收益策略全球主管Alexander Wolf、TCW固定收益综合投资组合经理Jerry Cudzil以及景顺北美投资级信贷主管Matt Brill。  （来源：彭博社）]]></description>
         </item>
     </channel>
 </rss>
