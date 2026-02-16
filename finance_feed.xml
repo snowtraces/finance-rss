@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 16 Feb 2026 21:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 22:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[铜抵消中国对铁矿石的拖累，必和必拓利润攀升]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-16/bhp-profit-climbs-as-copper-surge-offsets-china-drag-on-iron-ore</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-16/bhp-profit-climbs-as-copper-surge-offsets-china-drag-on-iron-ore</guid>
+            <pubDate>Mon, 16 Feb 2026 21:44:32 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 尽管中国需求趋于稳定，令必和必拓集团的铁矿石和炼钢煤炭业务承压，但由于铜价飙升，必和必拓集团截至12月底的六个月盈利增长了五分之一以上。]]></description>
+        </item>
         <item>
             <title><![CDATA[墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌0.13%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3217986</link>
@@ -254,19 +261,11 @@
             <description><![CDATA[[WSJ] 德国产出下降后，12 月份工业生产下降 1.4%，连续三个月的扩张停止。]]></description>
         </item>
         <item>
-            <title><![CDATA[Exclusive: Vitol backs proposed $3 billion LNG power plant for South Africa's Durban port - Reuters]]></title>
+            <title><![CDATA[独家：维托支持为南非德班港斥资30亿美元建设液化天然气发电厂 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDBUZWo5a0lIcTZ5MWlwRmJwT3V5Y1kzRlFveXNpTlNFSEdZSm85ZWl3YmJIOUNyMzgtVmF4UlE2ZTVjTWtmVU1abENmeUt1YmEyY2lsa0d0ZEN0TVFxOU1uQ3RmVGQtVkdEZ2R1aXJKb3dwRzVWS25JRDIxTk1wRURQZ1dBY2l6YVVGdG9xY3c0NWEtb0ZUd2hPZDVnanJKdjl1ZnR1TGJIUzNiMFNuMDhaazJDX1UwN0swSElqQ29ZQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDBUZWo5a0lIcTZ5MWlwRmJwT3V5Y1kzRlFveXNpTlNFSEdZSm85ZWl3YmJIOUNyMzgtVmF4UlE2ZTVjTWtmVU1abENmeUt1YmEyY2lsa0d0ZEN0TVFxOU1uQ3RmVGQtVkdEZ2R1aXJKb3dwRzVWS25JRDIxTk1wRURQZ1dBY2l6YVVGdG9xY3c0NWEtb0ZUd2hPZDVnanJKdjl1ZnR1TGJIUzNiMFNuMDhaazJDX1UwN0swSElqQ29ZQQ?oc=5</guid>
             <pubDate>Mon, 16 Feb 2026 12:06:39 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：维多支持拟投资 30 亿美元为南非德班港建造液化天然气发电厂 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在慕尼黑讨论“共同价值观”；  RAM 对科技投资者的担忧 开盘交易 2/16/2026]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-16/the-opening-trade-2-16-2026-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-16/the-opening-trade-2-16-2026-video</guid>
-            <pubDate>Mon, 16 Feb 2026 12:00:44 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国国务卿马可·卢比奥表示，欧洲的命运与美国交织在一起，同时指责欧洲大陆偏离了共同的西方价值观。
- 这一双刃剑的信息给参加慕尼黑安全会议的盟国领导人带来了一些保证，但并没有缓和他们寻求更多独立于华盛顿的努力。 此外，包括埃隆·马斯克 (Elon Musk) 和蒂姆·库克 (Tim Cook) 在内的越来越多的科技行业领袖警告称，一场全球危机正在酝酿之中：存储芯片的短缺正开始影响利润、破坏企业计划、抬高从笔记本电脑、智能手机到汽车和数据中心等各种产品的价格标签，而且危机只会变得更糟。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[摩根士丹利洗牌欧洲投资银行业领导者]]></title>
@@ -280,7 +279,7 @@
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOWV9YclEzZ3RQY0F6Ym5NTEFUeVFXcFVoazZ2RG8xTjVnSmxkZFlJZGsxWDQtSGpaVnZNLUxraXQyYXBhbHFVUVU3VDNnRVgtZm9DdXQtOWpfUXFub1RBeFFkQm9MRWNhMldsVTZ2TTl6cnp4RDZOLVBMamFQWWl0eWF4OWlCUE81RjN5UmxWdFRXdXRzQWhDSmRla2JheElzX202VXA0U3lFQ0d4M1JrLTh5RnZZWGJUOVJ6Rg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxOWV9YclEzZ3RQY0F6Ym5NTEFUeVFXcFVoazZ2RG8xTjVnSmxkZFlJZGsxWDQtSGpaVnZNLUxraXQyYXBhbHFVUVU3VDNnRVgtZm9DdXQtOWpfUXFub1RBeFFkQm9MRWNhMldsVTZ2TTl6cnp4RDZOLVBMamFQWWl0eWF4OWlCUE81RjN5UmxWdFRXdXRzQWhDSmRla2JheElzX202VXA0U3lFQ0d4M1JrLTh5RnZZWGJUOVJ6Rg?oc=5</guid>
             <pubDate>Mon, 16 Feb 2026 11:34:51 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 俄罗斯途经乌克兰的石油供应停止后，匈牙利向克罗地亚寻求帮助 - 路透中文网]]></description>
+            <description><![CDATA[[Reuters Business] 俄罗斯途经乌克兰的石油停止流动后，匈牙利向克罗地亚寻求帮助 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[飓风杰扎尼在马达加斯加造成 59 人死亡，超过 16,000 人流离失所 - 路透中文网]]></title>
