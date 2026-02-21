@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 21 Feb 2026 20:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 21:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -28,6 +28,13 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/trade/what-to-know-about-trumps-new-tariff-73aef4e9</guid>
             <pubDate>Sat, 21 Feb 2026 19:01:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 总统正在求助于未经考验的法律权威来重建他的全球关税制度。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[意大利RAI为以色列有舵雪橇队最新失态事件道歉 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkRHbk8xT2wxV2NUakQ5THNPSXhRQkpuclZ5RDEyRGRlTWplNE5IdnR6b3JnUFBmc2FBa1g4a1lWQ3BTYVVCMmZYMzNWN0Z5YUtpTHkyYjZ6XzNiaFBwS2VCZ3pod1ZpVk1WbE1HMS16WnpVMGF3MlJPXzJSR0JpWGFFM1ZVWTduSUw4cnIzcDlyVnU4bE1INmlfLTVCQ3gzeGFLbXoyZ0lqRFoydC1OVG9qQkRQTko2T0NDc0xZZk9mcUxob2VUb3lR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxOYkRHbk8xT2wxV2NUakQ5THNPSXhRQkpuclZ5RDEyRGRlTWplNE5IdnR6b3JnUFBmc2FBa1g4a1lWQ3BTYVVCMmZYMzNWN0Z5YUtpTHkyYjZ6XzNiaFBwS2VCZ3pod1ZpVk1WbE1HMS16WnpVMGF3MlJPXzJSR0JpWGFFM1ZVWTduSUw4cnIzcDlyVnU4bE1INmlfLTVCQ3gzeGFLbXoyZ0lqRFoydC1OVG9qQkRQTko2T0NDc0xZZk9mcUxob2VUb3lR?oc=5</guid>
+            <pubDate>Sat, 21 Feb 2026 18:09:36 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 意大利 RAI 因最近针对以色列有舵雪橇队的失态而道歉 路透]]></description>
         </item>
         <item>
             <title><![CDATA[以下是华尔街复苏周期间推动股市的三大力量]]></title>
@@ -702,13 +709,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUVoYzY0Y2ZVa0Rmc1NLZklENnN2X1g0V2t4VG9UOVJnSGhrdGNLbEQ0Z0Y0ald4VVppaGpnOFFMZTJhMEExTERJcXJNZ3E5aXB4a3FacHJITVZwQ2FWSjgxczFzRjh0MFFLRkt6VE82d0dOd2ZCbWVBRXp4NEdqaW9LZUZGcTB4SXFUc3ZGREVFdUpTNkFKOWtRZjEtR2g2UW9XUQ?oc=5</guid>
             <pubDate>Fri, 20 Feb 2026 14:50:19 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 标准普尔全球称美国二月份商业活动增长放缓 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国2月标普全球制造业、服务业PMI不及预期，创数个月低点 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBibWFsU3hpWjRTSC1jd2x2MFc2VUVTRTZ4TVRPT2lBamJSSGVZSlRIZWFYMlpVQkg3YkhxRnFxWWU1QjJpczIzazFzQ0FDODNXSDAw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBibWFsU3hpWjRTSC1jd2x2MFc2VUVTRTZ4TVRPT2lBamJSSGVZSlRIZWFYMlpVQkg3YkhxRnFxWWU1QjJpczIzazFzQ0FDODNXSDAw?oc=5</guid>
-            <pubDate>Fri, 20 Feb 2026 14:45:22 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 美国2月标普全球制造业、服务业PMI不及预期，创数个月低点  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
