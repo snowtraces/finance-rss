@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 21 Feb 2026 21:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 21:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3223747</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223747</guid>
+            <pubDate>Sat, 21 Feb 2026 21:20:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[德国即将查明其复苏是否真实]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-21/germany-about-to-find-out-whether-its-recovery-is-real</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/germany-about-to-find-out-whether-its-recovery-is-real</guid>
+            <pubDate>Sat, 21 Feb 2026 21:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 未来几天来自德国的数据将揭示欧洲最大经济体是否正处于有意义的复苏边缘，还是仍然受到唐纳德·特朗普关税及其自身长期缺陷的阻碍。]]></description>
+        </item>
         <item>
             <title><![CDATA[霍尼韦尔考虑放弃庄信万丰催化剂交易]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-21/honeywell-considers-walking-away-from-johnson-matthey-catalyst-deal</link>
@@ -261,13 +275,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[新股消息 | 绿云软件递表港交所]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3223675</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223675</guid>
-            <pubDate>Sat, 21 Feb 2026 08:05:09 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[欧洲央行内部对拉加德退出的处理方式越来越不满]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-21/inside-the-ecb-irritation-grows-over-lagarde-s-handling-of-exit</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/inside-the-ecb-irritation-grows-over-lagarde-s-handling-of-exit</guid>
@@ -405,7 +412,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-20/fed-s-preferred-inflation-gauge-comes-in-at-3-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/fed-s-preferred-inflation-gauge-comes-in-at-3-video</guid>
             <pubDate>Fri, 20 Feb 2026 23:30:43 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 12 月份美国通胀走高，核心 PCE 环比增长 0.4%，同比增长 3%。 美联储首选的通胀指标表明，事实证明，控制物价上涨比联邦公开市场委员会的预期更加困难。 政策制定者在 1 月份会议上表示，他们希望有更明确的证据表明通胀正在回到 2% 的目标，但周五的 12 月数据表明他们将不得不保持“观望”态度。 惠誉评级美国经济研究主管奥卢·索诺拉 (Olu Sonola) 加入《彭博商业周刊》进行讨论。 他还对国内生产总值以及最高法院驳回特朗普总统关税的潜在经济影响发表了看法。 
+            <description><![CDATA[[Bloomberg] 12 月份美国通胀走高，核心 PCE 环比上涨 0.4%，同比上涨 3%。 美联储首选的通胀指标表明，事实证明，控制物价上涨比联邦公开市场委员会的预期更加困难。 政策制定者在 1 月份会议上表示，他们希望有更明确的证据表明通胀正在回到 2% 的目标，但周五的 12 月数据表明他们将不得不保持“观望”态度。 惠誉评级美国经济研究主管奥卢·索诺拉 (Olu Sonola) 加入《彭博商业周刊》进行讨论。 他还对国内生产总值以及最高法院驳回特朗普总统关税的潜在经济影响发表了看法。 
  索诺拉与卡罗尔·马萨和艾米丽·格拉菲奥交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
@@ -464,13 +471,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/why-foreign-investors-are-seeing-opportunity-in-japan-video</guid>
             <pubDate>Fri, 20 Feb 2026 22:33:33 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 经过数十年的通货紧缩和停滞之后，日本正在拥抱改革。 由于家庭和企业坐拥数万亿现金，通货膨胀迫使人们转变心态。 公司治理的变化、股权参与的增加以及私人信贷的出现正在重塑日本企业为增长融资的方式。 我们研究日本资本市场的复兴能否推动期待已久的经济复苏。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日本的工作文化如何演变]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-20/how-japan-s-work-culture-is-evolving-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/how-japan-s-work-culture-is-evolving-video</guid>
-            <pubDate>Fri, 20 Feb 2026 22:32:46 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 几十年来，许多人认为日本的企业形象以终身雇佣、经连网络和谨慎的资本配置为特征。 现在，通货膨胀、市场改革和投资者压力正在迫使变革。 索尼、松下汽车和东京证券交易所的领导者正在重新思考他们的经营方式。但正如 Mireya Solís 和 Apollo 的 Eiji Ueda 所解释的那样，改变资产负债表可能比改变文化更容易。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[邮轮运营商嘉年华将统一双重上市 - 路透中文网]]></title>
