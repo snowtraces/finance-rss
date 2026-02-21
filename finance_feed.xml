@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 21 Feb 2026 21:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 22:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -13,6 +13,13 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3223747</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223747</guid>
             <pubDate>Sat, 21 Feb 2026 21:20:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[彭博社报道:霍尼韦尔或放弃收购庄信万丰催化剂业务]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3223750</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223750</guid>
+            <pubDate>Sat, 21 Feb 2026 21:13:28 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -35,6 +42,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/riskiest-clo-funds-are-flashing-a-warning-sign-credit-weekly</guid>
             <pubDate>Sat, 21 Feb 2026 20:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 随着投资者对承担信用风险变得更加挑剔，对违约率上升的担忧正在从杠杆贷款市场蔓延到最终购买债务的一些零售基金。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[萨尔萨舞传奇人物威利·科隆去世，享年 75 岁 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTC05b1RXYTVPRm4tSkJsQzhYbjFVeWM1TldYNnBmS2xNaUVWWGNvS01UY3N6T0p2dGtOQm5HZC1kWmNuOFZaN1dkeUJyTVZjTXdqaE1JM1NSYTBVV1lncDdSSFBVVTRaSGV3SndhMExiVjByMzk3ZU1vWC1vZ0JTbDBjNVZwUXF0N3UtRHg2aWprSlJ1SG9qbm5WWHRvX1NSaTdINnpKQ0tkYWM?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTC05b1RXYTVPRm4tSkJsQzhYbjFVeWM1TldYNnBmS2xNaUVWWGNvS01UY3N6T0p2dGtOQm5HZC1kWmNuOFZaN1dkeUJyTVZjTXdqaE1JM1NSYTBVV1lncDdSSFBVVTRaSGV3SndhMExiVjByMzk3ZU1vWC1vZ0JTbDBjNVZwUXF0N3UtRHg2aWprSlJ1SG9qbm5WWHRvX1NSaTdINnpKQ0tkYWM?oc=5</guid>
+            <pubDate>Sat, 21 Feb 2026 19:50:04 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 萨尔萨传奇人物威利科隆去世，享年 75 岁，家人称路透社]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普总统宣布对所有进入美国的进口产品征收 15% 的全球关税，立即生效——以下是您要知道的]]></title>
@@ -268,13 +282,6 @@
             <description><![CDATA[[Bloomberg] 据官员称，香港为去年宏福苑大火中失去房屋的业主提出了高于预期的收购价格，该计划总耗资 68 亿港元（合 8.7 亿美元）。]]></description>
         </item>
         <item>
-            <title><![CDATA[“AI颠覆一切”重创市场之际 “聪明钱”如何斩获阿尔法? 答案是短线战术操作]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3223676</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223676</guid>
-            <pubDate>Sat, 21 Feb 2026 08:05:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[欧洲央行内部对拉加德退出的处理方式越来越不满]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-21/inside-the-ecb-irritation-grows-over-lagarde-s-handling-of-exit</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/inside-the-ecb-irritation-grows-over-lagarde-s-handling-of-exit</guid>
@@ -412,7 +419,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-20/fed-s-preferred-inflation-gauge-comes-in-at-3-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/fed-s-preferred-inflation-gauge-comes-in-at-3-video</guid>
             <pubDate>Fri, 20 Feb 2026 23:30:43 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 12 月份美国通胀走高，核心 PCE 环比上涨 0.4%，同比上涨 3%。 美联储首选的通胀指标表明，事实证明，控制物价上涨比联邦公开市场委员会的预期更加困难。 政策制定者在 1 月份会议上表示，他们希望有更明确的证据表明通胀正在回到 2% 的目标，但周五的 12 月数据表明他们将不得不保持“观望”态度。 惠誉评级美国经济研究主管奥卢·索诺拉 (Olu Sonola) 加入《彭博商业周刊》进行讨论。 他还对国内生产总值以及最高法院驳回特朗普总统关税的潜在经济影响发表了看法。 
+            <description><![CDATA[[Bloomberg] 12 月份美国通胀走高，核心 PCE 环比增长 0.4%，同比增长 3%。 美联储首选的通胀指标表明，事实证明，控制物价上涨比联邦公开市场委员会的预期更加困难。 政策制定者在 1 月份会议上表示，他们希望有更明确的证据表明通胀正在回到 2% 的目标，但周五的 12 月数据表明他们将不得不保持“观望”态度。 惠誉评级美国经济研究主管奥卢·索诺拉 (Olu Sonola) 加入《彭博商业周刊》进行讨论。 他还对国内生产总值以及最高法院驳回特朗普总统关税的潜在经济影响发表了看法。 
  索诺拉与卡罗尔·马萨和艾米丽·格拉菲奥交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
@@ -583,13 +590,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BcG5FM1QtdkwyNENuUjc5RFByN2ZRSERNWlp6VWR3TThleHBBSGNuM0RVRGtZWEctS24tbkdxZnpjOHd1TVdZRG41VjF0X1BsYnBJ?oc=5</guid>
             <pubDate>Fri, 20 Feb 2026 18:08:49 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 达利欧家办重仓黄金！彻底退出桥水后首曝美股持仓，规模升至5亿美元  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[纽约护士达成临时协议结束六周罢工 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHVDaW1jS1dpWUpmTjlFNTZvV3NxbDBJNEVmZWo4RUFDaTd0SXhhQXgydFIyX3B0dEFfODRxOTE1LU54bkN1SWxrM1RyNHE5THJ2UUlmWU1Hcldpamw0WlRoNXozRlVuajFDREhVREFIUmpRRGp0VUtDZnZxRHFDQnJ1X1NBaG12Rm83YkJLVWI1U2RTNF9sZUZfTWFDeVNxazA1Ql9oNkhGQW4yeHZWTlZXTEc4UQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHVDaW1jS1dpWUpmTjlFNTZvV3NxbDBJNEVmZWo4RUFDaTd0SXhhQXgydFIyX3B0dEFfODRxOTE1LU54bkN1SWxrM1RyNHE5THJ2UUlmWU1Hcldpamw0WlRoNXozRlVuajFDREhVREFIUmpRRGp0VUtDZnZxRHFDQnJ1X1NBaG12Rm83YkJLVWI1U2RTNF9sZUZfTWFDeVNxazA1Ql9oNkhGQW4yeHZWTlZXTEc4UQ?oc=5</guid>
-            <pubDate>Fri, 20 Feb 2026 18:01:16 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 纽约护士达成临时协议结束六周罢工 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[MAHA 活动人士警告特朗普可能会因草甘膦订单而失去支持 - 路透]]></title>
