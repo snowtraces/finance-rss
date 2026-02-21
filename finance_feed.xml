@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 21 Feb 2026 23:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 23:46:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国司法部在华纳交易审查中调查 Netflix 对电影制片人的影响力]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-21/doj-probes-netflix-s-power-over-filmmakers-in-warner-deal-review</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/doj-probes-netflix-s-power-over-filmmakers-in-warner-deal-review</guid>
+            <pubDate>Sat, 21 Feb 2026 23:31:32 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 司法部对 Netflix Inc. 拟以 720 亿美元收购华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 的调查包括审查这家流媒体巨头的行为，以及它是否在收购节目的谈判中对创作者施加反竞争影响力。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3223764</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223764</guid>
+            <pubDate>Sat, 21 Feb 2026 23:05:21 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3223747</link>
@@ -30,7 +44,7 @@
             <description><![CDATA[[Bloomberg] 未来几天来自德国的数据将揭示欧洲最大经济体是否正处于有意义的复苏边缘，还是仍然受到唐纳德·特朗普关税及其自身长期缺陷的阻碍。]]></description>
         </item>
         <item>
-            <title><![CDATA[摩根大通表示 1 月 6 日袭击事件发生一个月后关闭了特朗普的银行账户 - 路透中文网]]></title>
+            <title><![CDATA[摩根大通称在 1 月 6 日袭击事件发生一个月后关闭了特朗普的银行账户 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUNXOFdFYUF0NUhtd1JXVi1tTThmaXNoRS00SFpRMFlzVWN3aTBVbjhlWTBlTkVwaXVTTDRjbmNnMjdRUUtScDczTUV4VEJUM1A3cUJGM2MyWXcxOGF3YUY3TkdBWUZjcmt6YW1mdWJDRWtqNGJzZENTcktvSzR0MDFkOHplbm1SdXNvMEJkZGpPS0ttZHFzN0VnNms2WEdiNkNKa2pTTko1cE9nNzFQNms4UTVEX0dYQmJVTXdpUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNYUNXOFdFYUF0NUhtd1JXVi1tTThmaXNoRS00SFpRMFlzVWN3aTBVbjhlWTBlTkVwaXVTTDRjbmNnMjdRUUtScDczTUV4VEJUM1A3cUJGM2MyWXcxOGF3YUY3TkdBWUZjcmt6YW1mdWJDRWtqNGJzZENTcktvSzR0MDFkOHplbm1SdXNvMEJkZGpPS0ttZHFzN0VnNms2WEdiNkNKa2pTTko1cE9nNzFQNms4UTVEX0dYQmJVTXdpUQ?oc=5</guid>
             <pubDate>Sat, 21 Feb 2026 20:30:18 GMT</pubDate>
@@ -261,13 +275,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[伯恩斯坦分析软件股面临的AI颠覆风险]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3223686</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223686</guid>
-            <pubDate>Sat, 21 Feb 2026 09:00:03 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[奇怪的事情：Zohranomics 的知识根源（播客）]]></title>
             <link>https://www.bloomberg.com/news/audio/2026-02-21/odd-lots-the-intellectual-roots-of-zohranomics-podcast</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/audio/2026-02-21/odd-lots-the-intellectual-roots-of-zohranomics-podcast</guid>
@@ -433,7 +440,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-20/fed-s-preferred-inflation-gauge-comes-in-at-3-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/fed-s-preferred-inflation-gauge-comes-in-at-3-video</guid>
             <pubDate>Fri, 20 Feb 2026 23:30:43 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 12 月份美国通胀走高，核心 PCE 环比增长 0.4%，同比增长 3%。 美联储首选的通胀指标表明，事实证明，控制物价上涨比联邦公开市场委员会的预期更加困难。 政策制定者在 1 月份会议上表示，他们希望有更明确的证据表明通胀正在回到 2% 的目标，但周五的 12 月数据表明他们将不得不保持“观望”态度。 惠誉评级美国经济研究主管奥卢·索诺拉 (Olu Sonola) 加入《彭博商业周刊》进行讨论。 他还对国内生产总值以及最高法院驳回特朗普总统关税的潜在经济影响发表了看法。 
+            <description><![CDATA[[Bloomberg] 12 月份美国通胀走高，核心 PCE 环比上涨 0.4%，同比上涨 3%。 美联储首选的通胀指标表明，事实证明，控制物价上涨比联邦公开市场委员会的预期更加困难。 政策制定者在 1 月份会议上表示，他们希望有更明确的证据表明通胀正在回到 2% 的目标，但周五的 12 月数据表明他们将不得不保持“观望”态度。 惠誉评级美国经济研究主管奥卢·索诺拉 (Olu Sonola) 加入《彭博商业周刊》进行讨论。 他还对国内生产总值以及最高法院驳回特朗普总统关税的潜在经济影响发表了看法。 
  索诺拉与卡罗尔·马萨和艾米丽·格拉菲奥交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
@@ -470,14 +477,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEpzQWxRWm82RURTNkdXQzdQaXJfUE5vZlg3STJ5bXpNRDlqREw4OE5iZzVNRzI2ZFVqZm12aWlHelpCbGlCYjBaYXUzeXVteGM1bzJIUzRucWU1cGpXR3c0Q3BhWndfTkY1MHNqU3cwRGFhci1MVFg1R2MwdkV4YUZINkhGREwwdjVFbUw5R2VtZWpTcXVFdjUzSkR2cXZaeVRhYjk5WW5NNWZLNnBLQldTZDY?oc=5</guid>
             <pubDate>Fri, 20 Feb 2026 23:04:42 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 经过一年的动荡，最高法院的关税裁决给美联储的利率路径蒙上阴影 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[索尼、松下和日本企业重塑的内部]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-20/inside-sony-panasonic-and-japan-s-corporate-reinvention-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/inside-sony-panasonic-and-japan-s-corporate-reinvention-video</guid>
-            <pubDate>Fri, 20 Feb 2026 22:34:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 经过数十年的经济保守主义和现金囤积之后，日本企业正在将改革付诸实践。 分拆正在加速，资本结构正在发生变化，私人资本正在介入融资转型。 从松下汽车在阿波罗计划下的分拆到索尼从电子产品转向娱乐领域，日本企业领导者正在拥抱一种新的长期竞争力模式。
-  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[日本的东山再起：为何“失去的十年”可能终于结束]]></title>
