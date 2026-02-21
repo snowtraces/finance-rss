@@ -4,10 +4,38 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 21 Feb 2026 10:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 10:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[最高法院裁决后，美国主要贸易伙伴希望“关税人”总统坚持使用他最喜欢的政策工具]]></title>
+            <link>https://www.wsj.com/economy/trade/tariff-ruling-brings-little-comfort-overseas-f9ea6092</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/trade/tariff-ruling-brings-little-comfort-overseas-f9ea6092</guid>
+            <pubDate>Sat, 21 Feb 2026 10:30:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 美国主要贸易伙伴期望特朗普总统（又名“关税人”）坚持使用他最喜欢的政策工具。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[格雷格·叶（Greg Ip）写道，最高法院裁定特朗普的大部分关税都是非法的，这让世界在总统下台很久之后就能一睹美国的贸易政策]]></title>
+            <link>https://www.wsj.com/economy/trade/trump-lost-on-tariffs-but-trade-will-never-be-the-same-7ff24afc</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/trade/trump-lost-on-tariffs-but-trade-will-never-be-the-same-7ff24afc</guid>
+            <pubDate>Sat, 21 Feb 2026 10:30:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 美国的贸易政策将不再那么混乱，但不会回到2025年之前的状态。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行帕内塔表示关税对美国的损害比其他国家更大]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-21/ecb-s-panetta-says-tariffs-have-damaged-the-us-more-than-others</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/ecb-s-panetta-says-tariffs-have-damaged-the-us-more-than-others</guid>
+            <pubDate>Sat, 21 Feb 2026 10:24:24 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 欧洲央行管理委员会成员法比奥·帕内塔表示，美国经济承受了唐纳德·特朗普总统征收的大部分关税负担。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在全球供应紧张的情况下，巴西和印度达成稀土协议]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-21/brazil-india-seal-rare-earth-deal-amid-global-supply-strains</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/brazil-india-seal-rare-earth-deal-amid-global-supply-strains</guid>
+            <pubDate>Sat, 21 Feb 2026 10:12:01 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 巴西和印度签署了一项关键矿产框架协议，两国同意在加工方面密切合作，此举旨在在全球混乱之际确保稀土供应。]]></description>
+        </item>
         <item>
             <title><![CDATA[新年贺词里，公募掌舵人都在提固收+，行业将如何布局爆发大年？]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3223689</link>
@@ -128,6 +156,13 @@
             <description><![CDATA[[华尔街见闻] 微软与埃克森美孚的PE一样了  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[SK海力士高盛电话会：所有客户需求都无法满足，今年存储价格持续上涨 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rTHBDcDFHN1lreWE0czByOGxFUThtcFNkbExRLUFSNV81QXlGXzU2YUpUbFZTckhOSkdtWXJsT09zZmhMUVE1STd1M0V2ZWdBclZn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rTHBDcDFHN1lreWE0czByOGxFUThtcFNkbExRLUFSNV81QXlGXzU2YUpUbFZTckhOSkdtWXJsT09zZmhMUVE1STd1M0V2ZWdBclZn?oc=5</guid>
+            <pubDate>Sat, 21 Feb 2026 07:01:15 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] SK海力士高盛电话会：所有客户需求都无法满足，今年存储价格持续上涨  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[UBS分析师:沃尔玛第四季度业绩显示稳健执行力]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3223665</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223665</guid>
@@ -161,6 +196,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9obDljUXFkQ3hTcnJQd0hDYV96SU1ONEkwMVM2WU5oUGt3bnZ4bWZJX0RfRlY5SXo3RWNTTU5sdVhNTF9UQnRkdUpkM0tTcS1DWkFZ?oc=5</guid>
             <pubDate>Sat, 21 Feb 2026 03:57:49 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高院否决，特朗普将被迫退税！华尔街“早就下注”，商务部长儿子甚至一度参与 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hMkEwSHd1VEhkdEd2Y3czSlpDd1ljLXBERlh1UW5GamxVMUpwazBCSy1SWFpvdEdYMjNKSWZJSHowTUNPOUxCWTJTOVVyOHFZWUZJ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hMkEwSHd1VEhkdEd2Y3czSlpDd1ljLXBERlh1UW5GamxVMUpwazBCSy1SWFpvdEdYMjNKSWZJSHowTUNPOUxCWTJTOVVyOHFZWUZJ?oc=5</guid>
+            <pubDate>Sat, 21 Feb 2026 03:45:16 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 高院否决，特朗普将被迫退税！华尔街“早就下注”，商务部长儿子甚至一度参与  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[韩国称关税裁决后美国贸易协议仍然完好]]></title>
@@ -237,14 +279,14 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-20/paramount-regulatory-waiting-period-for-warner-bid-ends-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/paramount-regulatory-waiting-period-for-warner-bid-ends-video</guid>
             <pubDate>Fri, 20 Feb 2026 23:45:31 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 派拉蒙 Skydance 表示，在清除美国反垄断障碍后，该公司在美国完成以 779 亿美元收购华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 的提议时“不存在任何法定障碍”。  派拉蒙周五表示，它已遵守美国司法部根据《哈特-斯科特-罗迪诺法案》提出的第二次请求审查程序，10 天的等待期已于周四到期。  等待期到期并不意味着监管机构同意达成协议。 该部门过去曾在等待期过后提起诉讼以阻止合并。 彭博资讯高级反垄断诉讼分析师 Jen Rie 和彭博新闻高级编辑兼娱乐团队负责人 Chris Palmeri 加入《彭博商业周刊》进行讨论。 他们与卡罗尔·马萨和艾米丽·格拉菲奥进行了交谈。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 派拉蒙 Skydance 表示，在清除美国反垄断障碍后，该公司在美国完成以 779 亿美元收购华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 的提议时“没有法定障碍”。  派拉蒙周五表示，它已遵守美国司法部根据《哈特-斯科特-罗迪诺法案》提出的第二次请求审查程序，10 天的等待期已于周四到期。  等待期到期并不意味着监管机构同意达成协议。 该部门过去曾在等待期过后提起诉讼以阻止合并。 彭博资讯高级反垄断诉讼分析师 Jen Rie 和彭博新闻高级编辑兼娱乐团队负责人 Chris Palmeri 加入《彭博商业周刊》进行讨论。 他们与卡罗尔·马萨和艾米丽·格拉菲奥进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[美联储首选通胀指标为 3%，符合预期]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-02-20/fed-s-preferred-inflation-gauge-comes-in-at-3-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/fed-s-preferred-inflation-gauge-comes-in-at-3-video</guid>
             <pubDate>Fri, 20 Feb 2026 23:30:43 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 12 月份美国通胀走高，核心 PCE 环比上涨 0.4%，同比上涨 3%。 美联储首选的通胀指标表明，事实证明，控制物价上涨比联邦公开市场委员会的预期更加困难。 政策制定者在 1 月份会议上表示，他们希望有更明确的证据表明通胀正在回到 2% 的目标，但周五的 12 月数据表明他们将不得不保持“观望”态度。 惠誉评级美国经济研究主管奥卢·索诺拉 (Olu Sonola) 加入《彭博商业周刊》进行讨论。 他还对国内生产总值以及最高法院驳回特朗普总统关税的潜在经济影响发表了看法。 
+            <description><![CDATA[[Bloomberg] 12 月份美国通胀走高，核心 PCE 环比增长 0.4%，同比增长 3%。 美联储首选的通胀指标表明，事实证明，控制物价上涨比联邦公开市场委员会的预期更加困难。 政策制定者在 1 月份会议上表示，他们希望有更明确的证据表明通胀正在回到 2% 的目标，但周五的 12 月数据表明他们将不得不保持“观望”态度。 惠誉评级美国经济研究主管奥卢·索诺拉 (Olu Sonola) 加入《彭博商业周刊》进行讨论。 他还对国内生产总值以及最高法院驳回特朗普总统关税的潜在经济影响发表了看法。 
  索诺拉与卡罗尔·马萨和艾米丽·格拉菲奥交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
@@ -301,7 +343,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-20/inside-sony-panasonic-and-japan-s-corporate-reinvention-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/inside-sony-panasonic-and-japan-s-corporate-reinvention-video</guid>
             <pubDate>Fri, 20 Feb 2026 22:34:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 经过数十年的经济保守主义和现金囤积之后，日本企业正在将改革付诸实践。 分拆正在加速，资本结构正在发生变化，私人资本正在介入融资转型。 从松下汽车在阿波罗计划下的分拆到索尼从电子产品转向娱乐领域，日本企业领导者正在拥抱一种新的长期竞争力模式。
+            <description><![CDATA[[Bloomberg] 经过数十年的经济保守主义和现金囤积之后，日本企业正在将改革付诸实践。 分拆正在加速，资本结构正在发生变化，私人资本正在介入融资转型。 从松下汽车在阿波罗计划下的分拆，到索尼从电子产品转向娱乐领域，日本企业领导者正在拥抱一种新的长期竞争力模式。
   （来源：彭博社）]]></description>
         </item>
         <item>
@@ -389,13 +431,6 @@
             <description><![CDATA[[Bloomberg] 一艘据信载有俄罗斯燃料的船只正在前往古巴，这使得美国总统唐纳德·特朗普的制裁在古巴能源危机日益加深的情况下受到考验。]]></description>
         </item>
         <item>
-            <title><![CDATA[关税冲击影响市场，华尔街的聪明资金获胜]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-20/smart-money-is-winning-as-tariff-whiplash-ai-grip-wall-street</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-20/smart-money-is-winning-as-tariff-whiplash-ai-grip-wall-street</guid>
-            <pubDate>Fri, 20 Feb 2026 21:35:29 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 喧闹、不稳定的华尔街正在做多年来仅仅拥有该指数很少做的事情：让聪明的钱再次显得聪明。]]></description>
-        </item>
-        <item>
             <title><![CDATA[副总统阿尔克明表示，美国最高法院关税裁决恢复了巴西的竞争力 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMWZ1eHk0TE83VDJ0SjJNQlllZDJwSDdHWm5VSWlIM1FOVGRTdHA1TC1xSXNtSXlYeVdOQ0VRSUdPSEdPbE8tNE4teVptT2FMOTdJODFXN3RTc3BrOEpsUFNtZVk0Si1ySk1rOVQyeTAweEhuakZCd2VydkRoWDlWWVFvclVrOE1qVVdIUWFPUHR1WXU1UkhqV0lJMXpEYjQ1a2RJWXN3OWJ4MkNKMW5xVzVCTmQ1UnZYenhEV2ZRQzVQcGJjUTMtaFc0VjBQMmZaSWhpLW9TYzdZYVdE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMWZ1eHk0TE83VDJ0SjJNQlllZDJwSDdHWm5VSWlIM1FOVGRTdHA1TC1xSXNtSXlYeVdOQ0VRSUdPSEdPbE8tNE4teVptT2FMOTdJODFXN3RTc3BrOEpsUFNtZVk0Si1ySk1rOVQyeTAweEhuakZCd2VydkRoWDlWWVFvclVrOE1qVVdIUWFPUHR1WXU1UkhqV0lJMXpEYjQ1a2RJWXN3OWJ4MkNKMW5xVzVCTmQ1UnZYenhEV2ZRQzVQcGJjUTMtaFc0VjBQMmZaSWhpLW9TYzdZYVdE?oc=5</guid>
@@ -464,20 +499,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNNnd3WUFjZXZ3VXpSRG1zSmNCYWVYTkNWWFE4RnpLTnR6WUtGc1BwRVFyVE1FZFBvaVpLWldqR2NwM0MwNzZjd1liU1hIVjlRZHVsWF9jQllLWUgtYVVFdlg4VU5hNE9XTjdhZEpwb2dldFJNSlVycW1kZVZsb1BQYnI4NVFKYm8yb0lVcWxuWWpubTFGUE9NTThWNUU3UE5XZmt6YWluQUhEc3ZVQ0doekJHc0ZHdm13aDRFTVBn?oc=5</guid>
             <pubDate>Fri, 20 Feb 2026 18:24:29 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 部长表示，匈牙利将因石油中断而阻止向乌克兰提供 900 亿欧元贷款 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2025年最后一个季度美国GDP年增长率为1.4%]]></title>
-            <link>https://www.wsj.com/economy/us-gdp-report-2025-b764e50e</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/us-gdp-report-2025-b764e50e</guid>
-            <pubDate>Fri, 20 Feb 2026 17:38:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 2025 年最后一个季度美国 GDP 年增长率为 1.4%。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[未来一周外汇、债券：美伊紧张局势、美国数据成为焦点]]></title>
-            <link>https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-iran-tensions-u-s-data-in-focus-cb8d772f</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-iran-tensions-u-s-data-in-focus-cb8d772f</guid>
-            <pubDate>Fri, 20 Feb 2026 17:34:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 美国和伊朗之间日益紧张的局势将继续成为未来一周投资者关注的主要焦点，美国最高法院推翻特朗普总统全球关税决定的影响也将如此。]]></description>
         </item>
         <item>
             <title><![CDATA[MAHA 活动人士警告特朗普可能会因草甘膦订单而失去支持 - 路透]]></title>
@@ -688,27 +709,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uaUV2UXJDU25BVnpma3VGYkYzSE1YUi0tMDg2aXM0bFNRVDMtUk5GSDJ2SjA2UnpyT3ZQenhJNnhGSFljUXNtMldQOUZ4MmRvZmZN?oc=5</guid>
             <pubDate>Fri, 20 Feb 2026 12:11:22 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] “谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[贸易主管表示，尽管面临阻力，欧盟仍应准备好颁布南方共同市场协议 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDdYTEt6YTA4NURqZkxiSTRVSnhfTmEwMGNjSEp5RDJnVkI1ekNwdVQwYjVjRUZyTzZJc2R6d3NMekxkeTJVS0s2bXNVTDV5QVZVT2ItanRCS3NFdXVMU1RJTzgzN2E5OVprUXgtOU1qTUoySG05WFFYSldOZExlNVRSLWtOTVhuZGpDRFVqU2hZaU9SUGVSdHFLM0RoTmc5aXJ2Z3JCOUd0cmRkZ3V3dHJaMXowQ2NfWmFV?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeDdYTEt6YTA4NURqZkxiSTRVSnhfTmEwMGNjSEp5RDJnVkI1ekNwdVQwYjVjRUZyTzZJc2R6d3NMekxkeTJVS0s2bXNVTDV5QVZVT2ItanRCS3NFdXVMU1RJTzgzN2E5OVprUXgtOU1qTUoySG05WFFYSldOZExlNVRSLWtOTVhuZGpDRFVqU2hZaU9SUGVSdHFLM0RoTmc5aXJ2Z3JCOUd0cmRkZ3V3dHJaMXowQ2NfWmFV?oc=5</guid>
-            <pubDate>Fri, 20 Feb 2026 12:09:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 贸易主管表示，尽管面临阻力，欧盟仍应准备好颁布南方共同市场协议 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最高法院裁定特朗普关税无效后华尔街收高 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnJCV3UxUW1ORUVxWnpFampuaXhUYk5jMFdmbHZUNmhmNTU2ajFtVzAzREdjSGI5WTYxRGhaTnZVRmN6dUFGT3JxbEpia0gxdXdPVXpwNXFnMVVXRUt6c2hVOVZ5VnJnU29Xc1U1aWtDQV9UendyMUlMLU44RHdhNHNZX0hfZ3VxLWpGaXFZUFM?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnJCV3UxUW1ORUVxWnpFampuaXhUYk5jMFdmbHZUNmhmNTU2ajFtVzAzREdjSGI5WTYxRGhaTnZVRmN6dUFGT3JxbEpia0gxdXdPVXpwNXFnMVVXRUt6c2hVOVZ5VnJnU29Xc1U1aWtDQV9UendyMUlMLU44RHdhNHNZX0hfZ3VxLWpGaXFZUFM?oc=5</guid>
-            <pubDate>Fri, 20 Feb 2026 11:52:34 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 最高法院裁定特朗普关税无效后华尔街收高 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧元区制造业PMI创三年半新高，德国回升拉动整体，法国仍在荣枯线下徘徊 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGbTMxQTNEd0xubVIzb1JWV3I4OVltUHV5d1RybTlKc2JaY0JUekNBS2R3R0cxTUMzdzZXdDg4ZGNwN1NQblBzaGZNTHlYT1pfcDVv?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGbTMxQTNEd0xubVIzb1JWV3I4OVltUHV5d1RybTlKc2JaY0JUekNBS2R3R0cxTUMzdzZXdDg4ZGNwN1NQblBzaGZNTHlYT1pfcDVv?oc=5</guid>
-            <pubDate>Fri, 20 Feb 2026 11:18:47 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 欧元区制造业PMI创三年半新高，德国回升拉动整体，法国仍在荣枯线下徘徊  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
