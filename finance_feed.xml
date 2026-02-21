@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 21 Feb 2026 19:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 19:45:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -254,6 +254,13 @@
             <description><![CDATA[[Bloomberg] 困惑、恼怒、不确定。 欧洲央行内部的工作人员对行长克里斯蒂娜·拉加德将在任期结束前辞职的报道感到震惊，这引发了人们对她权威的质疑。]]></description>
         </item>
         <item>
+            <title><![CDATA[高盛：黄金波动性大幅走高，央行购金力度将暂时放缓 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1RmM2YVI1c2FTRFJrTXBGMUFRNDc5ZDVxclJ0Z0ZBbDE3MnZfUFVZLTdneVJvYUVFTGc4VUJ4TmNBQWI1UkNmMUg3bFhFZDI1bE1B?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1RmM2YVI1c2FTRFJrTXBGMUFRNDc5ZDVxclJ0Z0ZBbDE3MnZfUFVZLTdneVJvYUVFTGc4VUJ4TmNBQWI1UkNmMUg3bFhFZDI1bE1B?oc=5</guid>
+            <pubDate>Sat, 21 Feb 2026 07:24:07 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 高盛：黄金波动性大幅走高，央行购金力度将暂时放缓  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[微软与埃克森美孚的PE一样了 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3TTZlWUQ5Y2JhRklLMlpieFctcFhVUWEzYVlraEQ1MUFMMUNDbnhDc0RNUGEwa3g4eVAwMHNpbVpVR1ZYaTNUSW42RmRDYTJMWlE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3TTZlWUQ5Y2JhRklLMlpieFctcFhVUWEzYVlraEQ1MUFMMUNDbnhDc0RNUGEwa3g4eVAwMHNpbVpVR1ZYaTNUSW42RmRDYTJMWlE?oc=5</guid>
@@ -287,13 +294,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9obDljUXFkQ3hTcnJQd0hDYV96SU1ONEkwMVM2WU5oUGt3bnZ4bWZJX0RfRlY5SXo3RWNTTU5sdVhNTF9UQnRkdUpkM0tTcS1DWkFZ?oc=5</guid>
             <pubDate>Sat, 21 Feb 2026 03:57:49 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来” - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ibzNVLUtPd3NyTUJRTHRZbWZicHVmLVNTWjAzdUlyS21wV1V4RzY5N2NINEVMbDEtNDBBUHVvSEJ1QWVVbWNfN3VZV0k5MXNpLUQ4?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ibzNVLUtPd3NyTUJRTHRZbWZicHVmLVNTWjAzdUlyS21wV1V4RzY5N2NINEVMbDEtNDBBUHVvSEJ1QWVVbWNfN3VZV0k5MXNpLUQ4?oc=5</guid>
-            <pubDate>Sat, 21 Feb 2026 03:23:34 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[韩国称关税裁决后美国贸易协议仍然完好]]></title>
@@ -377,7 +377,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-20/paramount-regulatory-waiting-period-for-warner-bid-ends-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/paramount-regulatory-waiting-period-for-warner-bid-ends-video</guid>
             <pubDate>Fri, 20 Feb 2026 23:45:31 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 派拉蒙 Skydance 表示，在清除美国反垄断障碍后，该公司在美国完成以 779 亿美元收购华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 的提议时“没有法定障碍”。  派拉蒙周五表示，它已遵守美国司法部根据《哈特-斯科特-罗迪诺法案》提出的第二次请求审查程序，10 天的等待期已于周四到期。  等待期到期并不意味着监管机构同意达成协议。 该部门过去曾在等待期过后提起诉讼以阻止合并。 彭博资讯高级反垄断诉讼分析师 Jen Rie 和彭博新闻高级编辑兼娱乐团队负责人 Chris Palmeri 加入《彭博商业周刊》进行讨论。 他们与卡罗尔·马萨和艾米丽·格拉菲奥进行了交谈。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 派拉蒙 Skydance 表示，在清除美国反垄断障碍后，该公司在美国完成以 779 亿美元收购华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 的提议时“不存在任何法定障碍”。  派拉蒙周五表示，它已遵守美国司法部根据《哈特-斯科特-罗迪诺法案》提出的第二次请求审查程序，10 天的等待期已于周四到期。  等待期到期并不意味着监管机构同意达成协议。 该部门过去曾在等待期过后提起诉讼以阻止合并。 彭博资讯高级反垄断诉讼分析师 Jen Rie 和彭博新闻高级编辑兼娱乐团队负责人 Chris Palmeri 加入《彭博商业周刊》进行讨论。 他们与卡罗尔·马萨和艾米丽·格拉菲奥进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[美联储首选通胀指标为 3%，符合预期]]></title>
@@ -434,7 +434,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-20/inside-sony-panasonic-and-japan-s-corporate-reinvention-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-20/inside-sony-panasonic-and-japan-s-corporate-reinvention-video</guid>
             <pubDate>Fri, 20 Feb 2026 22:34:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 经过数十年的经济保守主义和现金囤积之后，日本企业正在将改革付诸实践。 分拆正在加速，资本结构正在发生变化，私人资本正在介入融资转型。 从松下汽车在阿波罗计划下的分拆，到索尼从电子产品转向娱乐领域，日本企业领导者正在拥抱一种新的长期竞争力模式。
+            <description><![CDATA[[Bloomberg] 经过数十年的经济保守主义和现金囤积之后，日本企业正在将改革付诸实践。 分拆正在加速，资本结构正在发生变化，私人资本正在介入融资转型。 从松下汽车在阿波罗计划下的分拆到索尼从电子产品转向娱乐领域，日本企业领导者正在拥抱一种新的长期竞争力模式。
   （来源：彭博社）]]></description>
         </item>
         <item>
@@ -492,13 +492,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMWZ1eHk0TE83VDJ0SjJNQlllZDJwSDdHWm5VSWlIM1FOVGRTdHA1TC1xSXNtSXlYeVdOQ0VRSUdPSEdPbE8tNE4teVptT2FMOTdJODFXN3RTc3BrOEpsUFNtZVk0Si1ySk1rOVQyeTAweEhuakZCd2VydkRoWDlWWVFvclVrOE1qVVdIUWFPUHR1WXU1UkhqV0lJMXpEYjQ1a2RJWXN3OWJ4MkNKMW5xVzVCTmQ1UnZYenhEV2ZRQzVQcGJjUTMtaFc0VjBQMmZaSWhpLW9TYzdZYVdE?oc=5</guid>
             <pubDate>Fri, 20 Feb 2026 21:12:57 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 副总裁阿尔克明表示，美国最高法院关税裁决恢复了巴西的竞争力 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[别为美最高法推翻特朗普关税高兴太早？华尔街预计市场反应或昙花一现 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rRkxIZ0RNbGtTUUdwMWtqM3ZmaHJOcHVZendiQ1AtRW9KeHM1N2VzUU14WFF6S2Zvcy1tY0JSbC1PZnZ0Z2xFQm1LQUJzYzFlcjRV?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rRkxIZ0RNbGtTUUdwMWtqM3ZmaHJOcHVZendiQ1AtRW9KeHM1N2VzUU14WFF6S2Zvcy1tY0JSbC1PZnZ0Z2xFQm1LQUJzYzFlcjRV?oc=5</guid>
-            <pubDate>Fri, 20 Feb 2026 20:36:40 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 别为美最高法推翻特朗普关税高兴太早？华尔街预计市场反应或昙花一现  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[业界对美国最高法院对特朗普全球关税裁决的反应 - 路透]]></title>
@@ -569,6 +562,20 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0FIbmtnTWg2YmUyMnJTcXd3bFk5Ykp1MWZkVHg3dllPOTR3LWxiaG8tSU5PR2RjNFpoT0xFNWtJMEJVdGlSejkyc3hlQm8yZy01ZjhBQk1TdFNjb3BEdGpxSV8xZXdwU05UX2k5N0F4eFdKUDVKZ3p5QUdnbWhNNS1nUi1pa2t1VHRBeDNaRUlSS0s4QXI1d3dVZzg5cXJxeWtnNGE3NG14VE54eVE?oc=5</guid>
             <pubDate>Fri, 20 Feb 2026 18:12:20 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美联储洛根认为通胀有所缓解，称利率政策“已做好应对风险的准备” 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[达利欧家办重仓黄金！彻底退出桥水后首曝美股持仓，规模升至5亿美元 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BcG5FM1QtdkwyNENuUjc5RFByN2ZRSERNWlp6VWR3TThleHBBSGNuM0RVRGtZWEctS24tbkdxZnpjOHd1TVdZRG41VjF0X1BsYnBJ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BcG5FM1QtdkwyNENuUjc5RFByN2ZRSERNWlp6VWR3TThleHBBSGNuM0RVRGtZWEctS24tbkdxZnpjOHd1TVdZRG41VjF0X1BsYnBJ?oc=5</guid>
+            <pubDate>Fri, 20 Feb 2026 18:08:49 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 达利欧家办重仓黄金！彻底退出桥水后首曝美股持仓，规模升至5亿美元  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[纽约护士达成临时协议结束六周罢工 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHVDaW1jS1dpWUpmTjlFNTZvV3NxbDBJNEVmZWo4RUFDaTd0SXhhQXgydFIyX3B0dEFfODRxOTE1LU54bkN1SWxrM1RyNHE5THJ2UUlmWU1Hcldpamw0WlRoNXozRlVuajFDREhVREFIUmpRRGp0VUtDZnZxRHFDQnJ1X1NBaG12Rm83YkJLVWI1U2RTNF9sZUZfTWFDeVNxazA1Ql9oNkhGQW4yeHZWTlZXTEc4UQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHVDaW1jS1dpWUpmTjlFNTZvV3NxbDBJNEVmZWo4RUFDaTd0SXhhQXgydFIyX3B0dEFfODRxOTE1LU54bkN1SWxrM1RyNHE5THJ2UUlmWU1Hcldpamw0WlRoNXozRlVuajFDREhVREFIUmpRRGp0VUtDZnZxRHFDQnJ1X1NBaG12Rm83YkJLVWI1U2RTNF9sZUZfTWFDeVNxazA1Ql9oNkhGQW4yeHZWTlZXTEc4UQ?oc=5</guid>
+            <pubDate>Fri, 20 Feb 2026 18:01:16 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 纽约护士达成临时协议结束六周罢工 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[MAHA 活动人士警告特朗普可能会因草甘膦订单而失去支持 - 路透]]></title>
@@ -702,13 +709,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjgzNjd3ZEJ1VUNCQXVyRGtucFA3ZGhMczg4OEI1OFZhR0xFdnoxTVBJS1Q3eWk2RWZVdnNXcHZmMndGeGtMMWVjbG1OZFdJUWdscTV6dmZTQkZka1ZBdlFfRlk5LTY0NmNCUlltZHVXVndLZ21XS1FtR1QwY1RqNWFkRFpqMDFlRnliQ19JeTVzSTRmUzEzcUpPYTc1U1FkcGVUaVNyX2ZpWTdpUjRpa0N0YUc4TFU?oc=5</guid>
             <pubDate>Fri, 20 Feb 2026 14:44:05 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 勘探与生产主管表示，巴西国家石油公司将研究委内瑞拉的机会 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MOL表示克罗地亚必须允许俄罗斯石油流向匈牙利和斯洛伐克 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNVE1uRF85WVpRd1NEODBvWlhPU2Q5aTZEQWtvWEdjbDhYVkd1N3J3SE15NW5ISFNMLWhMV2FjdXVqUEdxR0wtV2JKbmhvTDhDVjFxZ2xlRXowVE5GNlcwWlZHRUVTRnFuUlp2Wk9NZFZNWlljZXlKTDhlWVZZelpSNEtFSlhHc3c5aldpaTNhOEQ5ejlKSHJlaW5uNGx6VTMxMllDb3djTW0zeXdkUlpEQVVLOVM?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNVE1uRF85WVpRd1NEODBvWlhPU2Q5aTZEQWtvWEdjbDhYVkd1N3J3SE15NW5ISFNMLWhMV2FjdXVqUEdxR0wtV2JKbmhvTDhDVjFxZ2xlRXowVE5GNlcwWlZHRUVTRnFuUlp2Wk9NZFZNWlljZXlKTDhlWVZZelpSNEtFSlhHc3c5aldpaTNhOEQ5ejlKSHJlaW5uNGx6VTMxMllDb3djTW0zeXdkUlpEQVVLOVM?oc=5</guid>
-            <pubDate>Fri, 20 Feb 2026 14:37:51 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] MOL表示克罗地亚必须允许俄罗斯石油流向匈牙利和斯洛伐克 路透]]></description>
         </item>
     </channel>
 </rss>
