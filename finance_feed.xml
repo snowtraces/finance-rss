@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 22 Feb 2026 21:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 21:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3223924</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223924</guid>
+            <pubDate>Sun, 22 Feb 2026 21:20:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[由于关税不确定性，美元交易在区间内：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-22/dollar-trades-within-range-amid-tariff-uncertainty-markets-wrap</link>
@@ -163,11 +170,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[国金证券：国内制药供应链景气度上行持续 建议把握CXO行业两大核心主线]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3223869</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223869</guid>
-            <pubDate>Sun, 22 Feb 2026 11:35:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[智谱发布GLM-5技术细节：工程级智能，适配国产算力 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQjNXMng2cFpIVUtpeTBON1ZMM3ZFN0VtRXJLRFVGR2JTbjlfLWJHYndCZFNwcUVwWkdraHBfUkkxQTg2RThoQUFQZ09aYTJLVWtF?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQjNXMng2cFpIVUtpeTBON1ZMM3ZFN0VtRXJLRFVGR2JTbjlfLWJHYndCZFNwcUVwWkdraHBfUkkxQTg2RThoQUFQZ09aYTJLVWtF?oc=5</guid>
+            <pubDate>Sun, 22 Feb 2026 11:20:29 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 智谱发布GLM-5技术细节：工程级智能，适配国产算力  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[波兰 Azoty 寻求聚合物重组中 83% 的债务减记]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://www.wsj.com/articles/feds-logan-notes-more-business-uncertainty-following-tariff-decision-31e81ab9</guid>
             <pubDate>Fri, 20 Feb 2026 19:53:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 达拉斯联储主席洛里·洛根表示，她对利率持“谨慎乐观”态度，并承认企业可能面临更多不确定性，包括最高法院的关税裁决。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[据彭博社报道，康菲石油公司考虑出售价值 20 亿美元的二叠纪资产 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNQno3dUN4c0R5dWZoMWUtREk4bEdRWXZ3LUZFX0tZLWZKeGJPRllRdWkyMF9uR3BZNVNtcHZnaWZoTEhPblNjdHh2eG41QUFLeE1JRGc0bEdFYmVUbE41Q3NRZW9XZ2xzbTE2XzI0QUQ1c2hoRWtrVlZ6RktEQ1VkRTlNSGVuZ0VEYmF0V0hOQlN5S250VEU4NnhpS2VyZlN4TXZXUlc5Z1ZXdjBPSndGcTJFT3RlZ3hEUjhUMEpoelJwNzJPQV82TVdR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxNQno3dUN4c0R5dWZoMWUtREk4bEdRWXZ3LUZFX0tZLWZKeGJPRllRdWkyMF9uR3BZNVNtcHZnaWZoTEhPblNjdHh2eG41QUFLeE1JRGc0bEdFYmVUbE41Q3NRZW9XZ2xzbTE2XzI0QUQ1c2hoRWtrVlZ6RktEQ1VkRTlNSGVuZ0VEYmF0V0hOQlN5S250VEU4NnhpS2VyZlN4TXZXUlc5Z1ZXdjBPSndGcTJFT3RlZ3hEUjhUMEpoelJwNzJPQV82TVdR?oc=5</guid>
-            <pubDate>Fri, 20 Feb 2026 19:20:57 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 据彭博社报道，康菲石油公司考虑出售价值 20 亿美元的二叠纪资产 路透]]></description>
         </item>
     </channel>
 </rss>
