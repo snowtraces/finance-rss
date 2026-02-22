@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 22 Feb 2026 14:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 14:52:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[纽约市东北部可能遭遇“严重”降雪]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-22/potentiall-crippling-snow-aimed-at-new-york-city-northeast</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-22/potentiall-crippling-snow-aimed-at-new-york-city-northeast</guid>
+            <pubDate>Sun, 22 Feb 2026 13:53:28 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 纽约市和东北部地区超过 3500 万人收到暴风雪警告，一场巨大的冬季风暴威胁着脚下的降雪，狂风可能会吹断树枝和电线。]]></description>
+        </item>
         <item>
             <title><![CDATA[国联民生证券：Token需求在“通胀” 短期观察大模型厂商提价与需求带来的边际改善]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3223892</link>
@@ -16,11 +23,25 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
+            <title><![CDATA[全球现金推动拉丁美洲股市历史性开局]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-22/global-cash-fuels-record-start-of-year-for-latin-america-stocks</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-22/global-cash-fuels-record-start-of-year-for-latin-america-stocks</guid>
+            <pubDate>Sun, 22 Feb 2026 13:30:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 全球投资者正以十年来最快的速度涌入拉丁美洲股市，推动该地区市场创下多年来新高。]]></description>
+        </item>
+        <item>
             <title><![CDATA[长城证券：美国电网设备有望开启强制更新周期 利好国内AI电力设备出海需求]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3223888</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3223888</guid>
             <pubDate>Sun, 22 Feb 2026 13:05:11 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[匈牙利将阻止欧盟因乌克兰管道争端对俄罗斯实施新制裁 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTU0d0RWb0lmNjhiRFlrVjlZaldHNVZqcGVOcDVDQmwtN01HeWxrZlFMMzBhd1V4WnFlY3dHZkhQajFEZExVYjFJRnByVXJZWjNxMmZzaXl3UU45cUZ4UkRxQ2o1OUVPM2UzS002WWx4VFVxWjBJRkRsekEyWXpsYzZzc2t1a3lpVGt0cXJoU05PNlQ4LVgzcUViek5OTmwwdHRyNGlad1FXUWpVcUFmdzFFWWtNSVVENUZv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVTU0d0RWb0lmNjhiRFlrVjlZaldHNVZqcGVOcDVDQmwtN01HeWxrZlFMMzBhd1V4WnFlY3dHZkhQajFEZExVYjFJRnByVXJZWjNxMmZzaXl3UU45cUZ4UkRxQ2o1OUVPM2UzS002WWx4VFVxWjBJRkRsekEyWXpsYzZzc2t1a3lpVGt0cXJoU05PNlQ4LVgzcUViek5OTmwwdHRyNGlad1FXUWpVcUFmdzFFWWtNSVVENUZv?oc=5</guid>
+            <pubDate>Sun, 22 Feb 2026 13:02:23 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 匈牙利将阻止欧盟就乌克兰管道争端对俄罗斯实施新制裁 路透]]></description>
         </item>
         <item>
             <title><![CDATA[纳斯达克最大的风险：中国 - 华尔街见闻]]></title>
@@ -485,13 +506,6 @@
             <description><![CDATA[[Bloomberg] 据官员称，香港为去年宏福苑大火中失去房屋的业主提出了高于预期的收购价格，该计划总耗资 68 亿港元（合 8.7 亿美元）。]]></description>
         </item>
         <item>
-            <title><![CDATA[欧洲央行内部对拉加德退出的处理方式越来越不满]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-21/inside-the-ecb-irritation-grows-over-lagarde-s-handling-of-exit</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/inside-the-ecb-irritation-grows-over-lagarde-s-handling-of-exit</guid>
-            <pubDate>Sat, 21 Feb 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 困惑、恼怒、不确定。 欧洲央行内部的工作人员对行长克里斯蒂娜·拉加德将在任期结束前辞职的报道感到震惊，这引发了人们对她权威的质疑。]]></description>
-        </item>
-        <item>
             <title><![CDATA[高盛：黄金波动性大幅走高，央行购金力度将暂时放缓 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1RmM2YVI1c2FTRFJrTXBGMUFRNDc5ZDVxclJ0Z0ZBbDE3MnZfUFVZLTdneVJvYUVFTGc4VUJ4TmNBQWI1UkNmMUg3bFhFZDI1bE1B?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1RmM2YVI1c2FTRFJrTXBGMUFRNDc5ZDVxclJ0Z0ZBbDE3MnZfUFVZLTdneVJvYUVFTGc4VUJ4TmNBQWI1UkNmMUg3bFhFZDI1bE1B?oc=5</guid>
@@ -532,13 +546,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9obDljUXFkQ3hTcnJQd0hDYV96SU1ONEkwMVM2WU5oUGt3bnZ4bWZJX0RfRlY5SXo3RWNTTU5sdVhNTF9UQnRkdUpkM0tTcS1DWkFZ?oc=5</guid>
             <pubDate>Sat, 21 Feb 2026 03:57:49 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[韩国称关税裁决后美国贸易协议仍然完好]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-21/south-korea-says-us-trade-deal-still-intact-after-tariff-ruling</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/south-korea-says-us-trade-deal-still-intact-after-tariff-ruling</guid>
-            <pubDate>Sat, 21 Feb 2026 02:50:50 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 韩国表示，美国最高法院裁定取消根据唐纳德·特朗普总统的紧急权力征收的关税，不会破坏其与华盛顿的更广泛的贸易协议。]]></description>
         </item>
         <item>
             <title><![CDATA[USMCA 风险迫在眉睫，墨西哥和加拿大免征美国新征税]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Kc1BNM3pSWTRHNzljY2lnYmJNdjhVWXhreFBnVXN1U3ctNDU1V29TR0xnQ3A0Wmk1WVEtSHJfQVk1N2tkMGk3WnpnTE1vbERLUVJF?oc=5</guid>
             <pubDate>Fri, 20 Feb 2026 18:53:12 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 最高法裁决后特朗普动用替补工具，加征10%全球关税，放话关税会比之前“高得多”  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[经销商和零售商可能会错过特朗普关税退款 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXpiRF9MU2ZVYmpSbV9SU29QS3FKSHRIcHNwd0NLZzJOR2dNanh3UVY0VHNUN2NWSmZsekdvelVTaGJkbHdoNmZSblBKQTJhUDhIVGZtNW5hdW5yOHdpdE9FX2lDUmdSOTZ0TDdyaklBX3N5Y2t1RFZYRmNUR1ZyZmJLeWg2TjBmcjh4REFzRTFMdXNNcmd0VGVWN0lzWm83cUU4eThTREY?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRXpiRF9MU2ZVYmpSbV9SU29QS3FKSHRIcHNwd0NLZzJOR2dNanh3UVY0VHNUN2NWSmZsekdvelVTaGJkbHdoNmZSblBKQTJhUDhIVGZtNW5hdW5yOHdpdE9FX2lDUmdSOTZ0TDdyaklBX3N5Y2t1RFZYRmNUR1ZyZmJLeWg2TjBmcjh4REFzRTFMdXNNcmd0VGVWN0lzWm83cUU4eThTREY?oc=5</guid>
-            <pubDate>Fri, 20 Feb 2026 18:39:47 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 分销商和零售商可能会错过特朗普关税退款 - 路透中文网]]></description>
         </item>
     </channel>
 </rss>
