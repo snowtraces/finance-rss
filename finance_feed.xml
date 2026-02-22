@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 22 Feb 2026 17:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Feb 2026 17:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[拉加德称美国关税举措有破坏与欧盟平衡的风险]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-22/lagarde-says-us-tariff-moves-risk-upsetting-equilibrium-with-eu</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-22/lagarde-says-us-tariff-moves-risk-upsetting-equilibrium-with-eu</guid>
+            <pubDate>Sun, 22 Feb 2026 17:06:33 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 欧洲央行行长克里斯蒂娜·拉加德周日表示，唐纳德·特朗普总统的最新关税举措可能会破坏欧盟和美国之间此前商定的“平衡”，并可能给经济带来新的阻力。]]></description>
+        </item>
         <item>
             <title><![CDATA[智通港股投资日志|2月23日]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3223913</link>
@@ -30,11 +37,11 @@
             <description><![CDATA[[Bloomberg] 随着从分散策略中获利的机会变得稀缺，股票期权投资者正在寻找市场之间的相对价值交易。]]></description>
         </item>
         <item>
-            <title><![CDATA[格里尔表示，尽管有关税裁决，美国双边贸易协议仍然有效]]></title>
+            <title><![CDATA[特朗普重新调整美国要求合作伙伴遵守关税协议]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-22/us-bilateral-trade-deals-are-still-on-track-greer-says</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-22/us-bilateral-trade-deals-are-still-on-track-greer-says</guid>
             <pubDate>Sun, 22 Feb 2026 14:49:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国贸易代表杰米森·格里尔表示，唐纳德·特朗普总统在美国最高法院的关税政策失败不会破坏政府与其贸易伙伴达成的个别协议。]]></description>
+            <description><![CDATA[[Bloomberg] 美国高级官员表示，唐纳德·特朗普总统在最高法院的关税失败不会破坏与美国合作伙伴谈判达成的协议，因为他们试图捍卫政府自信的贸易政策。]]></description>
         </item>
         <item>
             <title><![CDATA[国联民生证券：Token需求在“通胀” 短期观察大模型厂商提价与需求带来的边际改善]]></title>
@@ -483,13 +490,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-21/jamee-moudud-on-the-intellectual-roots-of-zohranomics</guid>
             <pubDate>Sat, 21 Feb 2026 09:00:11 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 异端如何成为异端。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奇怪的事情：Zohranomics 的知识根源（播客）]]></title>
-            <link>https://www.bloomberg.com/news/audio/2026-02-21/odd-lots-the-intellectual-roots-of-zohranomics-podcast</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/audio/2026-02-21/odd-lots-the-intellectual-roots-of-zohranomics-podcast</guid>
-            <pubDate>Sat, 21 Feb 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] ]]></description>
         </item>
         <item>
             <title><![CDATA[高院否决、特朗普再加！美国关税税率现在变成什么样了？ - 华尔街见闻]]></title>
