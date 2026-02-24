@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 24 Feb 2026 21:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 22:38:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -12,8 +12,36 @@
             <title><![CDATA[金融科技初创公司 Stripe 正在考虑收购，PayPal 股价上涨近 7%]]></title>
             <link>https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html</guid>
-            <pubDate>Tue, 24 Feb 2026 21:45:09 GMT</pubDate>
+            <pubDate>Tue, 24 Feb 2026 22:10:28 GMT</pubDate>
             <description><![CDATA[[CNBC] 由于增长放缓和竞争担忧，PayPal 的股价去年下跌了近三分之一。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[汇丰银行股价从低点上涨89%后面临盈利测试]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-24/hsbc-faces-earnings-test-after-stock-rallies-89-from-low</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/hsbc-faces-earnings-test-after-stock-rallies-89-from-low</guid>
+            <pubDate>Tue, 24 Feb 2026 22:05:31 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 汇丰控股周三公布的财报中，收入前景和子公司收购成为焦点，该股股价徘徊在历史新高附近。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么品牌在超级碗上花费这么多]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-02-24/why-brands-spend-so-much-on-the-super-bowl-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-24/why-brands-spend-so-much-on-the-super-bowl-video</guid>
+            <pubDate>Tue, 24 Feb 2026 22:02:14 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 让我们谈谈您在超级碗期间看到的所有品牌，以及为什么这些公司如此准备并愿意投入巨额资金在一年中最大的体育赛事期间投放广告。 兰德尔·威廉姆斯 (Randall Williams) 解释本期《体育城》（来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[推动释放 8400 亿美元现金提振日本股市前景]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-24/drive-to-unlock-840-billion-in-cash-lifts-japan-stocks-outlook</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/drive-to-unlock-840-billion-in-cash-lifts-japan-stocks-outlook</guid>
+            <pubDate>Tue, 24 Feb 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 日本公司治理准则的新修订可能会释放上市公司持有的 8400 亿美元现金中的一部分，并推动日本股市的另一波买盘。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[盘后涨幅最大的股票：Workday、Cava、Lucid Group 等]]></title>
+            <link>https://www.cnbc.com/2026/02/24/stocks-making-the-biggest-moves-after-hours-wday-cava-lcid.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/02/24/stocks-making-the-biggest-moves-after-hours-wday-cava-lcid.html</guid>
+            <pubDate>Tue, 24 Feb 2026 21:53:09 GMT</pubDate>
+            <description><![CDATA[[CNBC] 这些是在盘中交易中涨幅最大的股票。]]></description>
         </item>
         <item>
             <title><![CDATA[PayPal股价延续涨势,传Stripe有意收购全部或部分业务]]></title>
@@ -128,7 +156,7 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[WisdomTree 获得 SEC 批准代币化货币基金可 24/7 进行交易]]></title>
+            <title><![CDATA[WisdomTree 获得 SEC 批准 24/7 代币化货币市场基金]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-24/wisdomtree-gets-sec-nod-for-tokenized-money-fund-to-trade-24-7</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/wisdomtree-gets-sec-nod-for-tokenized-money-fund-to-trade-24-7</guid>
             <pubDate>Tue, 24 Feb 2026 20:20:09 GMT</pubDate>
@@ -170,6 +198,13 @@
             <description><![CDATA[[Bloomberg] Blue-Owl 的创可贴是针对系统性问题的解决方案。]]></description>
         </item>
         <item>
+            <title><![CDATA[独家：消息人士称，卡尼在白宫会议之前就知道 South Bow 的 Keystone XL 计划 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUUtOXhyeEtMOTk5dzhyYXhDSkNTTmlyTW5vUGo1cmhqUWRXNUpYQmRtZ1ppVnBPT2tmeWRIb2pJamVSaEg2cEVtTk5LWFdpd2Zock5QajdIOTYyTmVHc0lWWW5aOWFCYkplV2JWLTNlWG53RmViYTdkbEdyNzg0S1FvdHkzYjE4VUs1M29TUjZEdjFhaXp4LV83YXgzVGpVNnVhVUJJMmxSRDlUTzJmMDN4bDVhWlpyMVBNY2xyaVdLQQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaUUtOXhyeEtMOTk5dzhyYXhDSkNTTmlyTW5vUGo1cmhqUWRXNUpYQmRtZ1ppVnBPT2tmeWRIb2pJamVSaEg2cEVtTk5LWFdpd2Zock5QajdIOTYyTmVHc0lWWW5aOWFCYkplV2JWLTNlWG53RmViYTdkbEdyNzg0S1FvdHkzYjE4VUs1M29TUjZEdjFhaXp4LV83YXgzVGpVNnVhVUJJMmxSRDlUTzJmMDN4bDVhWlpyMVBNY2xyaVdLQQ?oc=5</guid>
+            <pubDate>Tue, 24 Feb 2026 19:30:11 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 独家：消息人士称，卡尼在白宫会议之前就知道 South Bow 的 Keystone XL 计划 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[中午涨幅最大的股票：IBM、AMD、Dillard's、诺和诺德、是德科技等]]></title>
             <link>https://www.cnbc.com/2026/02/24/stocks-making-the-biggest-moves-midday-ibm-amd-dds-nvo-more.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/24/stocks-making-the-biggest-moves-midday-ibm-amd-dds-nvo-more.html</guid>
@@ -206,13 +241,6 @@
             <description><![CDATA[[Bloomberg] 在汤森路透公司的法律工具赢得了人工智能巨头 Anthropic PBC 的赞誉后，紧张不安的投资者开始关注人工智能领域的胜利。]]></description>
         </item>
         <item>
-            <title><![CDATA[Saks 全球首席执行官谈破产、盈利之路]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-24/saks-global-ceo-on-bankruptcy-path-to-profitability-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-24/saks-global-ceo-on-bankruptcy-path-to-profitability-video</guid>
-            <pubDate>Tue, 24 Feb 2026 18:37:25 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Saks Global 首席执行官 Geoffroy van Raemdonck 在“The Close”节目中与 Romaine Bostick 讨论了他对公司的愿景。 他表示，他的目标是建立一个盈利且可持续发展的 Saks Global，最初的重点是零售业。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[据 Axios 报道，Hegseth 要求 Anthropic 在周五之前放弃人工智能保障措施 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1RlMW1OVWUtdXRlbDZkSkhXQzNncVZhakpPWGFQRGZQTllWYzZHbTRONjB5OTVJQkx1VWpvVkNXUmJpMFRiSXVmX1hndVlUZlBhOUwxeHVNbHBUb3Q2am5pRllfRkhESUVKdXowR01ZTDcwNE9LRXVvQWo0bUxsTXVqR2Z2SnE2el9DX2JiMVhhdVpjemtEZjBhS1VEXzFsd2Ywc1ZIRFdZVmg3SVpMNm13TFV1ZkdMc2JB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1RlMW1OVWUtdXRlbDZkSkhXQzNncVZhakpPWGFQRGZQTllWYzZHbTRONjB5OTVJQkx1VWpvVkNXUmJpMFRiSXVmX1hndVlUZlBhOUwxeHVNbHBUb3Q2am5pRllfRkhESUVKdXowR01ZTDcwNE9LRXVvQWo0bUxsTXVqR2Z2SnE2el9DX2JiMVhhdVpjemtEZjBhS1VEXzFsd2Ywc1ZIRFdZVmg3SVpMNm13TFV1ZkdMc2JB?oc=5</guid>
@@ -224,7 +252,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-02-24/us-finds-that-india-indonesia-laos-unfairly-subsidized-solar</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/us-finds-that-india-indonesia-laos-unfairly-subsidized-solar</guid>
             <pubDate>Tue, 24 Feb 2026 18:33:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 特朗普政府在确定印度、印度尼西亚和老挝对制造业提供不公平补贴后，对这些国家的太阳能进口产品征收了高达 146% 的初步关税，此举可能会让美国生产商受益，但可能会增加消费者成本。]]></description>
+            <description><![CDATA[[Bloomberg] 在确定印度、印度尼西亚和老挝对制造业提供不公平补贴后，特朗普政府对这些国家的太阳能进口产品征收了高达 143% 的初步关税，此举可能会让美国生产商受益，但可能会增加消费者成本。]]></description>
         </item>
         <item>
             <title><![CDATA[据《华尔街日报》报道，特朗普政府考虑采取行动要求银行收集公民信息 - 路透]]></title>
@@ -232,13 +260,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxOc3dNSnY0eU1yY2tPeWdJeFBuYWtYNzBfYVctNk91YjdGcFVVVzc2d1dkc21velhfbWpoRjQ3SXBvOEtLWWdSTUk0bnB4V2dyOTNnQXNJUUhORUhCNThzR3FvNnRzeWFiQ1B6cGRMa3V4ZVlVMmkyN2J4azh4UjBlclpWa25VUkZrbXl1cWptQnpLMU9pRWMtLVJVa01WTTZNUy1QNTBYLWxDTFU2akF1MnRUXzJlOVMyN3M0eXRFNWgyWGNNNG9ubHN6VQ?oc=5</guid>
             <pubDate>Tue, 24 Feb 2026 18:30:33 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据《华尔街日报》报道，特朗普政府考虑采取行动要求银行收集公民信息 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meta、AMD 交易推动人工智能支出激增 | 未平仓合约 2026 年 2 月 24 日]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-24/open-interest-2-24-2026-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-24/open-interest-2-24-2026-video</guid>
-            <pubDate>Tue, 24 Feb 2026 18:19:39 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 跟随马特·米勒 (Matt Miller) 和丹尼·伯格 (Dani Burger) 的“彭博未平仓合约”，在美国交易日快速起步。 人工智能焦虑又回来了——市场也感受到了。  Anthropic 展示了 Claude 的最新能力，投资者质疑这场人工智能竞赛的进展速度有多快。 摩根大通 (JPM) 的杰米·戴蒙 (Jamie Dimon) 警告说，他看到了 2008 年之前贷款热潮的影子。 一项轰动一时的 Meta-AMD 交易表明人工智能支出只会加速。 我们与芝加哥联邦储备银行行长奥斯坦·古尔斯比（Austan Goolsbee）、新一轮现金融资后 SambaNova 首席执行官以及贝克休斯首席执行官洛伦佐·西蒙内利（Lorenzo Simonelli）就地缘政治石油风险加入了彭博未平仓合约进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[盘前涨幅最大的股票：AMD、家得宝、Hims & Hers Health、Diamondback Energy 等]]></title>
@@ -451,6 +472,13 @@
             <description><![CDATA[[Reuters Business] 英国因“俄罗斯虚假信息”制裁两家格鲁吉亚电视频道 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[随着美元回落，新兴货币摆脱了早期的暴跌]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-24/emerging-stocks-hit-new-high-as-asian-tech-rally-powers-on</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/emerging-stocks-hit-new-high-as-asian-tech-rally-powers-on</guid>
+            <pubDate>Tue, 24 Feb 2026 12:44:22 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着美元最初的强势消退，以及全球市场从地缘政治紧张局势和对人工智能破坏性影响的担忧引发的抛售中反弹，大多数发展中国家货币周二扭转了早盘跌势。]]></description>
+        </item>
+        <item>
             <title><![CDATA[诺和诺德将从 2027 年起将 Wegovy 在美国的定价减半 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNVTFMTVV0MFRtVjF5ZXlEbDBFR0NaZzdfVFVpRUViMllpOV9hZjJEY2lrY0VBbVJBQ015XzBKSHNDMm9uNzB3UkE3VlJUcGRkQlNGM3VOdnRyekp0NXY3MHhUNklnS0ctVnJJSlp1YnhGZlB2ajBOOU5WckJmWVA0NkdWbWNZNmtrTk1OSG9Rc0JvQUpGSUhCMmpmQXR0NUdJNUtPVHV5SGk5RUY0V19HX1ZwcXFDSWtKN3RseGZXMmI4QVdxS2JrdFZHYi0?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxNVTFMTVV0MFRtVjF5ZXlEbDBFR0NaZzdfVFVpRUViMllpOV9hZjJEY2lrY0VBbVJBQ015XzBKSHNDMm9uNzB3UkE3VlJUcGRkQlNGM3VOdnRyekp0NXY3MHhUNklnS0ctVnJJSlp1YnhGZlB2ajBOOU5WckJmWVA0NkdWbWNZNmtrTk1OSG9Rc0JvQUpGSUhCMmpmQXR0NUdJNUtPVHV5SGk5RUY0V19HX1ZwcXFDSWtKN3RseGZXMmI4QVdxS2JrdFZHYi0?oc=5</guid>
@@ -491,13 +519,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUhoejdkTDYxM04zNzhrcmFJb2pDejRDcF9oYkFOYUt4RnJsNFlka1Ryb2xkdkhlZ2lHV25QdjgwbXZJU0hONGNMcDJuYS1MRC1UaE1lVTRsODExWUhqclpiSXlXZDhxT0JneFFxd2l6cWQ0b1NDdkZ5OC12TWYzVF8yMFUwenloUkVSUTZyZFNRTTdHUVIzbFl5U0dJX1R0b3dndjBOX003UQ?oc=5</guid>
             <pubDate>Tue, 24 Feb 2026 12:01:37 GMT</pubDate>
             <description><![CDATA[[Reuters Business] AMD 与 Meta 达成第二份大型芯片供应协议 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国国债涨势停滞，10年期国债收益率逼近4%]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-24/us-treasury-gains-fizzle-with-key-yield-hovering-near-4-level</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/us-treasury-gains-fizzle-with-key-yield-hovering-near-4-level</guid>
-            <pubDate>Tue, 24 Feb 2026 11:57:11 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着避险需求的减弱，五年期和十年期国债收益率跌至一月以来最低水平的涨势陷入停滞。]]></description>
         </item>
         <item>
             <title><![CDATA[早间竞价：人工智能的末日和关税的低迷 - 路透中文网]]></title>
@@ -687,27 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWkVRRFZOZUlPUkFOT1FhaGJSS1EwOG1mcV9KR2xyUi1JWnAzOFRNN1RoQzBUQWhVWXA0VlJUSWRldEhIMEd6UFQxdjhoRTdJRjF0bFdsS0tveDBqVERfcjJKSG1Od0dyZzkydldZWnV3ZFpIUWtNRGRGU3hFUkRJRUgxbU5iLXk3WnUyNks1UnRLQURvVlB1SUJ1dlgwSUdyaDBlNTlldXJXaGdfRjRQa0g2U2htLWt5ZllyZ0M3NlNGcUxtVzhKSktTbmdKU1c2V2Q3UEozTDdQQzg?oc=5</guid>
             <pubDate>Tue, 24 Feb 2026 08:21:30 GMT</pubDate>
             <description><![CDATA[[Reuters Business] NHTSA 表示，因可能失去转向控制，福特将在美国召回约 413,000 辆 SUV 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日元跳水！高市早苗对日本央行再次加息表示担忧 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5udlZEWmQwNUF6N1o2WWF4aW9FN00yMUhiZHpsaDRTcHY0YVlzQTRUODM2OFZja1ZCMm15emNsUVZaaDFvMWRtVjRZcUR1ZGZURkpv?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5udlZEWmQwNUF6N1o2WWF4aW9FN00yMUhiZHpsaDRTcHY0YVlzQTRUODM2OFZja1ZCMm15emNsUVZaaDFvMWRtVjRZcUR1ZGZURkpv?oc=5</guid>
-            <pubDate>Tue, 24 Feb 2026 08:06:45 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 日元跳水！高市早苗对日本央行再次加息表示担忧  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿提哈德航空利润飙升近50%，机队和网络扩张支撑强劲需求 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSGVZZWp3bkN4eXNlVE5oZThvdERYVTNoQ01xR2lOeXNXeFhlanhYYUVlYlFRcnowZ2lIOXcwdXdfR2tWWEx3cmtqOGRHR3RwZ1JJamdoWk0tdUMwSWFxY2RoRjdkRmhiTHZETzBoZXdBWlh4ZlA3M3NsN09BLUo1YkkzWVRscGlaMTVuVDUtMjlEVUR1TXFJc0ZvaGJiNHYxMmdfWHVqM2JUc1dOTWs2aTgtRFRocXJkSm94ZUJFTFc1bFI5WjdFVHBpUURIRGJXOWM0dkt2WQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSGVZZWp3bkN4eXNlVE5oZThvdERYVTNoQ01xR2lOeXNXeFhlanhYYUVlYlFRcnowZ2lIOXcwdXdfR2tWWEx3cmtqOGRHR3RwZ1JJamdoWk0tdUMwSWFxY2RoRjdkRmhiTHZETzBoZXdBWlh4ZlA3M3NsN09BLUo1YkkzWVRscGlaMTVuVDUtMjlEVUR1TXFJc0ZvaGJiNHYxMmdfWHVqM2JUc1dOTWs2aTgtRFRocXJkSm94ZUJFTFc1bFI5WjdFVHBpUURIRGJXOWM0dkt2WQ?oc=5</guid>
-            <pubDate>Tue, 24 Feb 2026 08:05:17 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于机队和网络扩张支持强劲需求，阿提哈德航空利润飙升近 50% 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[监管机构表示，埃尼集团将于下月就印度尼西亚天然气项目达成最终投资决定 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2JGdHVtcHJBRzc5djZJa2FpaFU2R0NNUnVXOXNCeW1QdmFsOGR1ZEczWlBkZFVlYjFOb2RUNTVXOVhWR3p6bV9pV3ZSdDE5S0ZIOWI3MWktVEdkSDJGOHNQbGNILUJBdzRKTk40Ul9LTTA1YmkyYmxua2ViT3hlazdUWWE1Z1F2NTVmWFF5NEdRZHQwRWs1emhuZUFxWkJmT0UySEZDNk94UkJiUXhPUE42R1l4a1ZWUVlwNHFseHZYVnZhT0d5bnU3QQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2JGdHVtcHJBRzc5djZJa2FpaFU2R0NNUnVXOXNCeW1QdmFsOGR1ZEczWlBkZFVlYjFOb2RUNTVXOVhWR3p6bV9pV3ZSdDE5S0ZIOWI3MWktVEdkSDJGOHNQbGNILUJBdzRKTk40Ul9LTTA1YmkyYmxua2ViT3hlazdUWWE1Z1F2NTVmWFF5NEdRZHQwRWs1emhuZUFxWkJmT0UySEZDNk94UkJiUXhPUE42R1l4a1ZWUVlwNHFseHZYVnZhT0d5bnU3QQ?oc=5</guid>
-            <pubDate>Tue, 24 Feb 2026 08:00:53 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 监管机构表示，埃尼集团将于下个月做出印度尼西亚天然气项目的最终投资决定 路透]]></description>
         </item>
     </channel>
 </rss>
