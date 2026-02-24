@@ -4,10 +4,38 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 24 Feb 2026 19:48:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 20:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[杰米戴蒙表示，随着银行计划“大规模重新部署”，人工智能已经正在重塑摩根大通的员工队伍]]></title>
+            <link>https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/02/24/jpm-ceo-jamie-dimon-ai-reshaping-workforce-redeployment.html</guid>
+            <pubDate>Tue, 24 Feb 2026 20:29:37 GMT</pubDate>
+            <description><![CDATA[[CNBC] 摩根大通是全球市值最大的银行，拥有业界最大的年度技术预算，接近 200 亿美元，并且制定了雄心勃勃的人工智能计划。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[WisdomTree 获得 SEC 批准代币化货币基金可 24/7 进行交易]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-24/wisdomtree-gets-sec-nod-for-tokenized-money-fund-to-trade-24-7</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/wisdomtree-gets-sec-nod-for-tokenized-money-fund-to-trade-24-7</guid>
+            <pubDate>Tue, 24 Feb 2026 20:20:09 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 一种新型货币市场基金已经登陆华尔街。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CoreWeave 向 Meta Deal 支持的银行寻求 85 亿美元贷款]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-24/coreweave-seeks-8-5-billion-loan-from-banks-backed-by-meta-deal</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/coreweave-seeks-8-5-billion-loan-from-banks-backed-by-meta-deal</guid>
+            <pubDate>Tue, 24 Feb 2026 20:13:37 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 据知情人士透露，CoreWeave Inc. 正寻求从摩根士丹利和三菱日联金融集团等银行筹集约 85 亿美元资金，为 Meta Platforms Inc. 云计算能力的建设提供资金。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普大幅削减关税后，全世界都在问：现在怎么办？]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-24/what-trump-s-tariff-setback-means-for-china-global-trade</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/what-trump-s-tariff-setback-means-for-china-global-trade</guid>
+            <pubDate>Tue, 24 Feb 2026 20:10:02 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 亚洲各地的贸易伙伴正在对最高法院对特朗普关税的裁决做出反应：我们在 Big Take Asia 播客上研究了对悬而未决的交易和美中峰会的影响。]]></description>
+        </item>
         <item>
             <title><![CDATA[私人信贷的未来愿景]]></title>
             <link>https://www.bloomberg.com/news/newsletters/2026-02-24/a-vision-of-private-credit-s-future</link>
@@ -115,7 +143,7 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[丹·勒布表示“失落的卖空艺术”正在卷土重来]]></title>
+            <title><![CDATA[丹·勒布表示“失传的卖空艺术”正在卷土重来]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-24/dan-loeb-says-lost-art-of-short-selling-is-making-a-comeback</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/dan-loeb-says-lost-art-of-short-selling-is-making-a-comeback</guid>
             <pubDate>Tue, 24 Feb 2026 17:56:11 GMT</pubDate>
@@ -150,6 +178,13 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
+            <title><![CDATA[最高法院称其关税非法后特朗普的选择]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-24/trump-s-tariff-options-after-supreme-court-defeat-sections-122-338-and-more</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/trump-s-tariff-options-after-supreme-court-defeat-sections-122-338-and-more</guid>
+            <pubDate>Tue, 24 Feb 2026 17:28:30 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在美国最高法院裁定唐纳德·特朗普总统不能利用 1977 年的紧急状态法征收进口税后，唐纳德·特朗普总统已经依靠替代立法来尝试重建关税墙。]]></description>
+        </item>
+        <item>
             <title><![CDATA[美国铝业计划向数据中心出售厂址,股价上涨]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3227697</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3227697</guid>
@@ -168,17 +203,17 @@
             <link>https://www.bloomberg.com/news/videos/2026-02-24/bloomberg-surveillance-2-24-2026-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-24/bloomberg-surveillance-2-24-2026-video</guid>
             <pubDate>Tue, 24 Feb 2026 17:22:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 乔纳森·费罗、丽莎·阿布拉莫维奇和安玛丽·霍登每天与华尔街、华盛顿及其他地区的领导人和决策者交谈。 没有其他计划可以更好地为投资者和高管在交易日提供定位。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 乔纳森·费罗（Jonathan Ferro）、丽莎·阿布拉莫维奇（Lisa Abramowicz）和安玛丽·霍登（Annmarie Hordern）每天与华尔街、华盛顿及其他地区的领导人和决策者交谈。 没有其他计划可以更好地为投资者和高管提供交易日的定位。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[美国私立学校平均学费逼近创纪录的5万美元]]></title>
+            <title><![CDATA[美国私立学校学费逼近创纪录的5万美元]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-24/us-private-schools-average-tuition-approaches-record-50-000</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/us-private-schools-average-tuition-approaches-record-50-000</guid>
             <pubDate>Tue, 24 Feb 2026 17:12:17 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 标准普尔全球评级公司的一份新报告显示，美国私立学校的费用正在接近 50,000 美元。]]></description>
         </item>
         <item>
-            <title><![CDATA[蒙大拿州新管道提案引发 Keystone XL 复兴]]></title>
+            <title><![CDATA[新蒙大拿管道提案引发 Keystone XL 复兴]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-24/keystone-xl-revival-raised-by-new-pipeline-proposal-in-montana</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/keystone-xl-revival-raised-by-new-pipeline-proposal-in-montana</guid>
             <pubDate>Tue, 24 Feb 2026 17:07:21 GMT</pubDate>
@@ -190,13 +225,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/arnault-tightens-grip-on-lvmh-as-his-stake-crosses-the-50-mark</guid>
             <pubDate>Tue, 24 Feb 2026 17:07:08 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 欧洲首富、法国亿万富翁伯纳德·阿诺特 (Bernard Arnault) 兑现了将其在该奢侈品集团持股超过 50% 的承诺，进一步加强了对 LVMH 的控制。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿瑞斯 (Ares) 取代约翰·特克斯特 (John Textor) 离开跑步足球帝国]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-24/ares-moves-to-oust-john-textor-from-running-football-empire</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/ares-moves-to-oust-john-textor-from-running-football-empire</guid>
-            <pubDate>Tue, 24 Feb 2026 16:50:09 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在信贷投资者最大的体育赌注之一持续亏损和紧张之后，阿瑞斯管理公司已采取行动削弱约翰·特克斯特对其足球俱乐部集团的运营控制。]]></description>
         </item>
         <item>
             <title><![CDATA[Anthropic 公告引发缓解反弹 美国软件股攀升 - 路透中文网]]></title>
@@ -269,11 +297,11 @@
             <description><![CDATA[[Bloomberg] 美国股市周二反弹，人工智能初创公司 Anthropic PBC 表示正在扩大其 Claude 聊天机器人的覆盖范围，以在软件和服务领域建立合作伙伴关系。]]></description>
         </item>
         <item>
-            <title><![CDATA[在特朗普发出威胁后，加拿大为所有湾流喷气式飞机开绿灯]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-24/canada-greenlights-all-gulfstream-jets-after-trump-threats</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/canada-greenlights-all-gulfstream-jets-after-trump-threats</guid>
-            <pubDate>Tue, 24 Feb 2026 14:49:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 加拿大航空监管机构对美国总统唐纳德·特朗普要求批准的剩余湾流私人飞机型号进行了认证，此举缓解了与白宫在该问题上的紧张关系。]]></description>
+            <title><![CDATA[随着预测变暖，美国天然气跌至五个月低点]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-24/us-natural-gas-falls-in-thin-trading-as-forecasts-shift-warmer</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/us-natural-gas-falls-in-thin-trading-as-forecasts-shift-warmer</guid>
+            <pubDate>Tue, 24 Feb 2026 14:45:21 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于预测转暖，美国天然气期货交投清淡，收于约五个月以来的最低水平，表明对供暖和发电厂燃料的需求下降。]]></description>
         </item>
         <item>
             <title><![CDATA[在合法插件引发市场溃败几周后，Anthropic 推出新的人工智能工具 - 路透中文网]]></title>
@@ -318,6 +346,13 @@
             <description><![CDATA[[WSJ] 上个月工厂活动陷入停滞，初步估计销售额将大幅下滑。]]></description>
         </item>
         <item>
+            <title><![CDATA[委内瑞拉准备出口更多石油货物，瞄准印度 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxORHEzS3JXY3JrVlJLMHFudHZLclp2R3J2Qlh3UEpJN1ZRcWo2bUdYS3EwV2F0eHpXWENLUlRkMWdOanN0YVFCU2JtUTVCZUlKVVhIQUJLNnZvQVlJQTlzSGwzTWc0V1U1emppYjNENWJzTWF4WWUxT1ZXVmxPcVI0TXViTnNOa3BIMmllZmdfSGQ0Ujd2bnZnQWFmVnlIQm5OWllhU25ySUZmQ2tMM0ZB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxORHEzS3JXY3JrVlJLMHFudHZLclp2R3J2Qlh3UEpJN1ZRcWo2bUdYS3EwV2F0eHpXWENLUlRkMWdOanN0YVFCU2JtUTVCZUlKVVhIQUJLNnZvQVlJQTlzSGwzTWc0V1U1emppYjNENWJzTWF4WWUxT1ZXVmxPcVI0TXViTnNOa3BIMmllZmdfSGQ0Ujd2bnZnQWFmVnlIQm5OWllhU25ySUZmQ2tMM0ZB?oc=5</guid>
+            <pubDate>Tue, 24 Feb 2026 13:54:36 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 委内瑞拉准备出口更多石油货物，目标是印度 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[芝加哥联储古尔斯比表示，稳健的经济应该让美联储继续关注通胀]]></title>
             <link>https://www.wsj.com/economy/central-banking/solid-economy-should-keep-feds-focus-on-inflation-chicago-feds-goolsbee-says-c2f2fd5c</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/solid-economy-should-keep-feds-focus-on-inflation-chicago-feds-goolsbee-says-c2f2fd5c</guid>
@@ -358,13 +393,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU0dHTmFzZEszcjUwQWVrRG1NdTg2Y09RTnlQank3NVR1LUEtVzM2M2NRTi1haGxHdFlFN2lBYnF6OWNYQUV6cFAySVpFcWoyc2wtNnVQcDNQT2Z4dEZFek12M21SVTBXWWNCTjNCUEt2bGFnYm9OMWhOZ3kwR3YxY3Y5WmdWbWFxNUtGSFFmUjBhS2syQVpiZGFqQVdvcmlFeTNyUlIxLUVfLXJCcU9KZjlPY3Bxck40TzgzMktvcmM?oc=5</guid>
             <pubDate>Tue, 24 Feb 2026 13:10:42 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 诺和诺德将从 2027 年起降低 Ozempic 和 Wegovy 在美国的标价 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美敦力 (Medtronic) 糖尿病部门 MiniMed 在美国 IPO 寻求 7.84 亿美元融资]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-24/medtronic-diabetes-business-minimed-seeks-784-million-in-us-ipo</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/medtronic-diabetes-business-minimed-seeks-784-million-in-us-ipo</guid>
-            <pubDate>Tue, 24 Feb 2026 13:09:52 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] MiniMed Group Inc. 是一家糖尿病管理公司，将从医疗保健巨头美敦力公司 (Medtronic Plc) 中分离出来，寻求通过首次公开募股筹集高达 7.84 亿美元的资金。]]></description>
         </item>
         <item>
             <title><![CDATA[美联储Goolsbee：当前通胀“还不够好”，关税裁决有助降温 - 华尔街见闻]]></title>
@@ -451,11 +479,11 @@
             <description><![CDATA[[Reuters Business] 匈牙利央行对部分 MOL 股票交易展开调查 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[华尔街从科技股溃败中反弹； 关税、人工智能担忧挥之不去 - 路透中文网]]></title>
+            <title><![CDATA[华尔街因科技股复苏而反弹，缓解人工智能担忧 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXBoTURGYm5faWJWWWFYbkhFRzdxVEkzVk1EdVJOQzlrblZlV0ZYZVBHcnFqaV9Kb1BWUWxzSEVRbHhJaEptQ0RjWUV5bjFYVV9PSFJNWmZxQUJ1cFUtcUpfZ2M0RnJYV0VYdVY0X1Z3YkFxTExYS1p0OUZkZVFZYWF2QTJyUXppQWhrb1RnMEptYW1abmxxMXdUcDVTeDlqT29xVTlkMW8tcC05LTdCdF8tUlRrWm5wWGFPSTJB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXBoTURGYm5faWJWWWFYbkhFRzdxVEkzVk1EdVJOQzlrblZlV0ZYZVBHcnFqaV9Kb1BWUWxzSEVRbHhJaEptQ0RjWUV5bjFYVV9PSFJNWmZxQUJ1cFUtcUpfZ2M0RnJYV0VYdVY0X1Z3YkFxTExYS1p0OUZkZVFZYWF2QTJyUXppQWhrb1RnMEptYW1abmxxMXdUcDVTeDlqT29xVTlkMW8tcC05LTdCdF8tUlRrWm5wWGFPSTJB?oc=5</guid>
             <pubDate>Tue, 24 Feb 2026 11:16:12 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 华尔街从科技股溃败中反弹； 关税、人工智能担忧挥之不去 路透]]></description>
+            <description><![CDATA[[Reuters Business] 华尔街因科技股新活力而反弹，缓解了对人工智能的担忧 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[关税、生活成本、移民、地缘.....中选前的重磅国情咨文，市场明早将紧盯特朗普 - 华尔街见闻]]></title>
@@ -514,11 +542,11 @@
             <description><![CDATA[[Reuters Business] 核电初创公司看好美国试点计划截止日期]]></description>
         </item>
         <item>
-            <title><![CDATA[巴西东南部暴雨造成至少22人死亡 - 路透中文网]]></title>
+            <title><![CDATA[巴西东南部暴雨造成至少23人死亡；  47人失踪 - 路透社]]></title>
             <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEtmWUVISVFYQmpNU2ZmcEx5cUVraTd5dmtkLWl6T24zVGYzRU5GRFFSZktpQkM5d0c4cVpPdFVubUJlbWhoR25uRFlHaEFPNEJZOHlVSmpKV0pZT1Z0RVhfeGd2Z3lRdmRJZkNkcnJSUUZuSHF4bEQ3UUtTaGRXNVhpWmI0SEp6U0VKMzQtQTJEQVlQYXRXQkNVNEdXYTUycG02YTRYSFc1NWhDTVN6SEZn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEtmWUVISVFYQmpNU2ZmcEx5cUVraTd5dmtkLWl6T24zVGYzRU5GRFFSZktpQkM5d0c4cVpPdFVubUJlbWhoR25uRFlHaEFPNEJZOHlVSmpKV0pZT1Z0RVhfeGd2Z3lRdmRJZkNkcnJSUUZuSHF4bEQ3UUtTaGRXNVhpWmI0SEp6U0VKMzQtQTJEQVlQYXRXQkNVNEdXYTUycG02YTRYSFc1NWhDTVN6SEZn?oc=5</guid>
             <pubDate>Tue, 24 Feb 2026 10:34:30 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 巴西东南部暴雨造成至少22人死亡 路透]]></description>
+            <description><![CDATA[[Reuters Business] 巴西东南部暴雨造成至少23人死亡；  47 人失踪 路透社]]></description>
         </item>
         <item>
             <title><![CDATA[尼日利亚将于三月开始出口新等级原油，进一步提高产量 - 路透中文网]]></title>
@@ -526,6 +554,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxQcXFhMlBTN0hKMHI3d2lMOGxuWHNmcG9oUUZzMHFTZEtEX2NTT3BDcDdERm1XLWZuVjFkUGlmcTZJU2NUWTJYN29QOTRrcmVTTmM2czAxV1NPMTJrZFNYM2xUUWJrZ3pKSlJZQmVHek11dkgwZnFfc3BZRWJkNVBESnFIUDg4bE54Wnk2dUY2eGRfcVpybk9pY1U3eGpHUXZZREk5YTFmR09hY1hJS3dDTlp4blhYZUpkS1BmN2hB?oc=5</guid>
             <pubDate>Tue, 24 Feb 2026 10:31:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 尼日利亚将于三月开始出口新等级原油，进一步提高产量 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CECO Environmental 同意以 22 亿美元收购 Thermon]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-24/ceco-environmental-nears-2-2-billion-deal-for-thermon</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/ceco-environmental-nears-2-2-billion-deal-for-thermon</guid>
+            <pubDate>Tue, 24 Feb 2026 10:30:46 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] CECO Environmental Corp. 已同意收购 Thermon Group Holdings Inc.，因为这家过滤公司希望在数据中心需求旺盛的情况下进入热解决方案市场。]]></description>
         </item>
         <item>
             <title><![CDATA[周二的国情咨文演讲为特朗普总统提供了一个大平台来宣传他任内的经济表现。 他给自己打了高分，但成绩单却好坏参半。]]></title>
@@ -619,13 +654,6 @@
             <description><![CDATA[[Reuters Business] NHTSA 表示，因可能失去转向控制，福特将在美国召回约 413,000 辆 SUV 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[乐观的盈利超过银行股的下跌，欧洲股市上涨]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-24/european-stocks-decline-with-focus-on-new-us-tariffs-earnings</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-24/european-stocks-decline-with-focus-on-new-us-tariffs-earnings</guid>
-            <pubDate>Tue, 24 Feb 2026 08:18:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于化学品和公用事业的盈利提振，欧洲股市上涨。 摩根大通 (JPMorgan Chase & Co.) 的杰米·戴蒙 (Jamie Dimon) 表示，他看到了与 2008 年金融危机之前的相似之处，银行股下跌。]]></description>
-        </item>
-        <item>
             <title><![CDATA[日元跳水！高市早苗对日本央行再次加息表示担忧 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5udlZEWmQwNUF6N1o2WWF4aW9FN00yMUhiZHpsaDRTcHY0YVlzQTRUODM2OFZja1ZCMm15emNsUVZaaDFvMWRtVjRZcUR1ZGZURkpv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5udlZEWmQwNUF6N1o2WWF4aW9FN00yMUhiZHpsaDRTcHY0YVlzQTRUODM2OFZja1ZCMm15emNsUVZaaDFvMWRtVjRZcUR1ZGZURkpv?oc=5</guid>
@@ -680,34 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QdWJGbC1LWEZjX0UxWWJaY1lMOXZsemRzeV9hSTI1bW5jZllEYkZQMDdjbk1vZmFuOUxlYmYxTnJzUkZSSFA4SG9mNXI3LTN4dVgwbjFHMll4bmRNNnp5NkZB?oc=5</guid>
             <pubDate>Tue, 24 Feb 2026 06:36:00 GMT</pubDate>
             <description><![CDATA[[财新网] 地方寄望“三资三化”筹集化债资金 面临哪些障碍？  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[韩国现代汽车警告称，尽管最高法院作出裁决，美国关税压力可能会加剧 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOXUtanVSR3BnbElicTVIbG1WYmxoMWRnNmFsUVJ4cmV3dkgwMVRQMUtNZ1B5VEhOdEQ1Q2p4Q24wV1VjbkFMRXM1QlZyeERtQWJyaEZqYnR2RjA0ZWEzelZpQWV5THlOX0hhX0ZIVzRURWxjb3AzOGtPWWNxNklIMDZMUk9qUXIxY0FfMndpZjJpV0t0RzR5TkhLc3RZTTE2dVhJU0dqWlo3QUFkRVV5NFdhdVBZcHN3eHpzV0tBeHJGWTFpOTQwRXhyWkt5S1h3bEZGZWtR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOXUtanVSR3BnbElicTVIbG1WYmxoMWRnNmFsUVJ4cmV3dkgwMVRQMUtNZ1B5VEhOdEQ1Q2p4Q24wV1VjbkFMRXM1QlZyeERtQWJyaEZqYnR2RjA0ZWEzelZpQWV5THlOX0hhX0ZIVzRURWxjb3AzOGtPWWNxNklIMDZMUk9qUXIxY0FfMndpZjJpV0t0RzR5TkhLc3RZTTE2dVhJU0dqWlo3QUFkRVV5NFdhdVBZcHN3eHpzV0tBeHJGWTFpOTQwRXhyWkt5S1h3bEZGZWtR?oc=5</guid>
-            <pubDate>Tue, 24 Feb 2026 06:20:55 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 韩国现代汽车警告美国关税压力可能会加剧，尽管最高法院做出了裁决 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德国曾经充满活力的汽车中心地带陷入困境 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVVWNTlEZ3h6cHhKal9Hb3phcjBjT0l1S0xuM254R3VkZ1NBX1JRZGVwaFRmaFpRTzdZSWd4RnlNLVZYM1dxNURaY1JVTXRWT0NXaXZYbkxGN19MNzZUWWJ0RGh3WFAxaUFRVHhpMnJiVVhBcDFtTHIyaUIzVEVSYjR1ZUtYZFFpMGl1ZHZqQjlYaXNtWHh6bGd6M2JUVlk?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVVWNTlEZ3h6cHhKal9Hb3phcjBjT0l1S0xuM254R3VkZ1NBX1JRZGVwaFRmaFpRTzdZSWd4RnlNLVZYM1dxNURaY1JVTXRWT0NXaXZYbkxGN19MNzZUWWJ0RGh3WFAxaUFRVHhpMnJiVVhBcDFtTHIyaUIzVEVSYjR1ZUtYZFFpMGl1ZHZqQjlYaXNtWHh6bGd6M2JUVlk?oc=5</guid>
-            <pubDate>Tue, 24 Feb 2026 06:02:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 德国曾经充满活力的汽车中心地带陷入困境 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯调查 Telegram 创始人杜罗夫，以压制该通讯应用 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQOG9IVUVrbHgzZ3ppWl8zY3FYZXc2dE9zR01DeDQxRjdaZUhWcjRVNWI5T21rVmtjNDdaeThHcGNoQ1dnY3VmOVJhQk5OUjRHa2k5SmZ5NHVYQmR2UDAzczJvdTMzbXdPdWVlTjJIbEIyVDZ6R1pTYkxaSUF4ZFBSSENYQlczazVpQ0NEVW45czQtS1RiQktsY09KNWF1bUIyM2prUjlvRzFDZXF3bWM0M1NRV01rOTBBSE1zUFAwbldET1NubDB5anhpaDBmUQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxQOG9IVUVrbHgzZ3ppWl8zY3FYZXc2dE9zR01DeDQxRjdaZUhWcjRVNWI5T21rVmtjNDdaeThHcGNoQ1dnY3VmOVJhQk5OUjRHa2k5SmZ5NHVYQmR2UDAzczJvdTMzbXdPdWVlTjJIbEIyVDZ6R1pTYkxaSUF4ZFBSSENYQlczazVpQ0NEVW45czQtS1RiQktsY09KNWF1bUIyM2prUjlvRzFDZXF3bWM0M1NRV01rOTBBSE1zUFAwbldET1NubDB5anhpaDBmUQ?oc=5</guid>
-            <pubDate>Tue, 24 Feb 2026 05:55:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 俄罗斯对 Telegram 创始人杜罗夫展开调查，以压制这款即时通讯应用 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[台湾发生5.6级地震，暂无受损报告 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPRThPUUVNZk4zZzRlWDlTOGZRSkFLTTBfeHM5X0xfSE16WEtwMFh0RFZ4d2hvTFl2U1RHcmNVdF9xcERqb2tHdExQWVZ6dDVoZmNkNmJBcmZ4SHg4YmpMYVhwclI0Skd1QUhDdjZLS3RNYk4xQ05RTFNEeUFBTW50Rk9hNXhvMW1tRlpNZ2Zhbl9JQmNUSFBqMWF6RmxKU2JhLXZNbUNoZlY4RnlFY29STA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPRThPUUVNZk4zZzRlWDlTOGZRSkFLTTBfeHM5X0xfSE16WEtwMFh0RFZ4d2hvTFl2U1RHcmNVdF9xcERqb2tHdExQWVZ6dDVoZmNkNmJBcmZ4SHg4YmpMYVhwclI0Skd1QUhDdjZLS3RNYk4xQ05RTFNEeUFBTW50Rk9hNXhvMW1tRlpNZ2Zhbl9JQmNUSFBqMWF6RmxKU2JhLXZNbUNoZlY4RnlFY29STA?oc=5</guid>
-            <pubDate>Tue, 24 Feb 2026 05:23:02 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 台湾发生 5.6 级地震，暂无受损报告 路透]]></description>
         </item>
     </channel>
 </rss>
