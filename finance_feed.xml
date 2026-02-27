@@ -4,16 +4,44 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 27 Feb 2026 18:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 19:31:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[霍赫斯坦谈美伊会谈]]></title>
+            <title><![CDATA[纽约交通局威胁起诉美国]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-02-27/ny-transit-agency-threatens-to-sue-us-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-27/ny-transit-agency-threatens-to-sue-us-video</guid>
+            <pubDate>Fri, 27 Feb 2026 19:26:15 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] MTA 警告特朗普政府，除非在 3 月 6 日之前收到约 6000 万美元的资金，用于自 10 月以来一直停滞的地铁扩建项目，否则它将提起诉讼。 彭博社的米歇尔·卡斯克报道。   （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[EIA 称，12 月份美国原油产量创六个月新低]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-27/us-crude-oil-production-hit-six-month-low-in-december-eia-says</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/us-crude-oil-production-hit-six-month-low-in-december-eia-says</guid>
+            <pubDate>Fri, 27 Feb 2026 19:04:38 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美国政府月度报告显示，12 月份美国原油产量降至近 1370 万桶/日，为六个月来最低。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Generate Biomedicines股价首日开盘低于IPO发行价]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3236349</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3236349</guid>
+            <pubDate>Fri, 27 Feb 2026 18:49:26 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国金融板块周五再度爆发抛售潮 发生了什么？]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3236336</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3236336</guid>
+            <pubDate>Fri, 27 Feb 2026 18:35:23 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[霍赫斯坦称美伊核谈判看起来像是一场骗局]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-02-27/hochstein-on-us-iran-talks-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-27/hochstein-on-us-iran-talks-video</guid>
             <pubDate>Fri, 27 Feb 2026 18:19:50 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] TWG Global 管理合伙人阿莫斯·霍赫斯坦 (Amos Hochstein) 加入“彭博监视”讨论美伊谈判。 霍赫斯坦说：“我仍然不确定这些谈判是否是真的。我认为它们一开始是假的。”  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] TWG Global 管理合伙人、拜登政府前高级安全顾问阿莫斯·霍赫斯坦 (Amos Hochstein) 加入“彭博监视”讨论美伊核谈判。 霍赫斯坦说：“我仍然不确定这些谈判是否是真的。我认为它们一开始是假的。”  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[Ipsos将其俄罗斯子公司80%股权出售给Direct Investments]]></title>
@@ -122,20 +150,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[西班牙股市收低；截至收盘西班牙IBEX35指数下跌0.73%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3236277</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3236277</guid>
-            <pubDate>Fri, 27 Feb 2026 17:10:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[葡萄牙股市上涨；截至收盘PSI上涨0.09%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3236276</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3236276</guid>
-            <pubDate>Fri, 27 Feb 2026 17:09:36 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[加拿大第四季度经济萎缩，结束疲软的一年]]></title>
             <link>https://www.wsj.com/economy/canadas-economy-contracts-in-fourth-quarter-04817ed1</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/canadas-economy-contracts-in-fourth-quarter-04817ed1</guid>
@@ -185,11 +199,11 @@
             <description><![CDATA[[Bloomberg] 美国政府已对一艘被扣押的载有 180 万桶原油的油轮提出没收申诉，指控该船从伊朗和委内瑞拉向流氓政权运输石油。]]></description>
         </item>
         <item>
-            <title><![CDATA[尽管有国家支持，Pemex 年度亏损仍达 26 亿美元]]></title>
+            <title><![CDATA[由于石油产量下降，墨西哥国家石油公司 (Pemex) 报告年度亏损 26 亿美元]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-27/pemex-annual-loss-reaches-2-6-billion-despite-state-support</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/pemex-annual-loss-reaches-2-6-billion-despite-state-support</guid>
             <pubDate>Fri, 27 Feb 2026 15:52:23 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 墨西哥石油公司公布的年度亏损为 452 亿比索（合 26 亿美元），这引发了人们的担忧，即总统克劳迪娅·谢因鲍姆（Claudia Sheinbaum）的巨额财政支持计划并没有扭转这家负债累累的石油巨头的局面。]]></description>
+            <description><![CDATA[[Bloomberg] 墨西哥石油公司公布的年度亏损为 452 亿比索（26 亿美元），因为总统克劳迪娅·谢因鲍姆（Claudia Sheinbaum）对这家负债累累的公司提供的巨额财政支持迄今未能提高原油产量。]]></description>
         </item>
         <item>
             <title><![CDATA[墨西哥国家石油公司 2025 年第四季度亏损收窄 - 路透中文网]]></title>
@@ -227,32 +241,11 @@
             <description><![CDATA[[Bloomberg] 在流媒体巨头 Netflix 撤回对华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 的收购后，该公司股价飙升，一位在 Netflix Inc. 股价上涨上押下重注的期权交易员目前坐拥约 1600 万美元的账面收益。]]></description>
         </item>
         <item>
-            <title><![CDATA[人工智能担忧将提高保险经纪人的私人贷款成本]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-27/ai-fears-set-to-raise-cost-of-private-loan-for-insurance-broker</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/ai-fears-set-to-raise-cost-of-private-loan-for-insurance-broker</guid>
-            <pubDate>Fri, 27 Feb 2026 15:14:43 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于担心人工智能给该行业带来的风险，一家德国保险经纪人的私人信贷机构正在要求提高 12 亿欧元（14 亿美元）贷款的利润率。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉应美国要求拒绝出售哈里伯顿资产]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-27/venezuela-nixed-sale-of-halliburton-s-assets-at-us-request</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/venezuela-nixed-sale-of-halliburton-s-assets-at-us-request</guid>
-            <pubDate>Fri, 27 Feb 2026 15:07:24 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在特朗普政府干预阻止出售后，委内瑞拉取消了从哈里伯顿公司扣押的资产拍卖，因为唐纳德·特朗普总统试图让美国石油公司顺利返回这个南美国家。]]></description>
-        </item>
-        <item>
             <title><![CDATA[意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PclFqVTNrUnZ1NW5UczFiTHo3Um9SN055OVhaTHVoM1MwUUNvSDVXRWZwSlUtWU5Qb01xYzlQbFR6Vnl0WkdMN2tKdkNCcTNPc1Y0?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PclFqVTNrUnZ1NW5UczFiTHo3Um9SN055OVhaTHVoM1MwUUNvSDVXRWZwSlUtWU5Qb01xYzlQbFR6Vnl0WkdMN2tKdkNCcTNPc1Y0?oc=5</guid>
             <pubDate>Fri, 27 Feb 2026 15:05:59 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 意外升温！美国1月核心PPI创一年最快增速，美联储货币政策复杂化加剧  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[南非为嘉能可冶炼厂提供更便宜的电力以挽救就业机会]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-27/south-africa-offers-glencore-smelters-cheaper-power-to-save-jobs</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/south-africa-offers-glencore-smelters-cheaper-power-to-save-jobs</guid>
-            <pubDate>Fri, 27 Feb 2026 15:05:15 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 南非为 Glencore Plc 的铬铁冶炼企业和 Samancor Chrome Ltd. 的业务提供更便宜的电力，以挽救就业机会。]]></description>
         </item>
         <item>
             <title><![CDATA[OpenAI 的 1100 亿美元融资吸引了亚马逊、Nvidia、软银的投资 - 路透中文网]]></title>
@@ -262,7 +255,7 @@
             <description><![CDATA[[Reuters Business] OpenAI 的 1100 亿美元融资吸引了来自亚马逊、Nvidia、软银的投资 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[区块削减引发人工智能焦虑，标普 500 指数因风险而回落]]></title>
+            <title><![CDATA[由于区块削减引发人工智能焦虑，标准普尔 500 指数因风险而下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-02-27/s-p-500-falls-as-risk-off-prevails-block-cuts-spur-ai-anxiety</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/s-p-500-falls-as-risk-off-prevails-block-cuts-spur-ai-anxiety</guid>
             <pubDate>Fri, 27 Feb 2026 14:51:04 GMT</pubDate>
@@ -288,13 +281,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUxBSDdTNFNETHhQTXlkVlRKYzh1aHpmRngyRk1UOUR4d2tCUEVBSG0tV0R0MDl5alhIOWx0ZHg5TUh6QkFFODFrSGVSOXJKVmV0TkVMMDc3YWZlN2x1amhmdlRuVFlkRXluajhDSVluejJvb2xid0x0Z0VsMFhSeDZPV1JSQUphamV3TWx5cFI0QTAyX0pHdlBSVkJJeU9qcmY2Q0x2U1VBTTNldFhXT19wbw?oc=5</guid>
             <pubDate>Fri, 27 Feb 2026 14:26:53 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 据彭博社报道，贝莱德旗下 GIP 和 EQT 即将收购 AES Corp 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苏黎世据称即将通过股权出售融资完成对 Beazley 的交易]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-27/zurich-said-to-near-beazley-deal-funded-by-equity-sale-next-week</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/zurich-said-to-near-beazley-deal-funded-by-equity-sale-next-week</guid>
-            <pubDate>Fri, 27 Feb 2026 14:24:29 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，苏黎世保险集团即将达成协议，收购英国专业保险公司 Beazley Plc，并筹集数十亿美元的股本来为交易提供资金。]]></description>
         </item>
         <item>
             <title><![CDATA[美国能源部长称委内瑞拉石油销售收益不再通过卡塔尔 - 路透中文网]]></title>
@@ -353,6 +339,13 @@
             <description><![CDATA[[财新网] 年报难产、债券回售窗口临近 中航产融债券持有人敦促增加信息披露  财新]]></description>
         </item>
         <item>
+            <title><![CDATA[AI与地缘阴云压顶，快钱大举出逃美股，涌入黄金美债避险 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XY05iM1ZwMmhwUFBOczZtTGlzT3k2ZVFpUDBuSHBldGJ0OGY1cjlNLTRWZFRIRE5rMmdpZkRIUjRCcWtBb25KSFEtdG5SblhBb1pR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XY05iM1ZwMmhwUFBOczZtTGlzT3k2ZVFpUDBuSHBldGJ0OGY1cjlNLTRWZFRIRE5rMmdpZkRIUjRCcWtBb25KSFEtdG5SblhBb1pR?oc=5</guid>
+            <pubDate>Fri, 27 Feb 2026 12:47:00 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] AI与地缘阴云压顶，快钱大举出逃美股，涌入黄金美债避险  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[盘前涨幅最大的股票：Block、Dell Technologies、CoreWeave、Netflix 等]]></title>
             <link>https://www.cnbc.com/2026/02/27/stocks-making-the-biggest-moves-premarket-xyz-dell-crwv-nflx.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/27/stocks-making-the-biggest-moves-premarket-xyz-dell-crwv-nflx.html</guid>
@@ -400,13 +393,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxPUFZwNmkzYjA2enozWWhwbFBNRGpwdGltMnRDclpsTmdIc3lubGc5Sk5CSEJMZ21VQVRGSVd3ckhOUDJIbkpLVE9FRkZJYzYzS0s1TVpYVEZxRlZiOXhNZHRDcUxEc0p4UDJ1Q1J0cS03dWpDdk9RZnN3VngxYkpHNHZfZHI2em5CZkREZU1lNTlLaHRQckJaRmtWeWwxUmRaUlN4d2JlckduMlRaMmZQTHd3?oc=5</guid>
             <pubDate>Fri, 27 Feb 2026 11:43:32 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 由于对人工智能的担忧，标准普尔 500 指数和纳斯达克指数有望出现一年来最大单月跌幅 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利和斯洛伐克希望派团队检查乌克兰德鲁日巴管道受损情况 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzY1V0d0UEI4S3lmYTJ3Sk5pbGhXSVRZMWwwbnZmajNnRnd1d0NVM1RTTzJnTnNyZ3d4d3dUX0trSkN5dUk0cmhBQTZfb3FvMlhSOF96WTJJb3N2Vk45U1ptWEhhX3NidkZTRGx2dzVjbE5URjkxSUE3RzJIS1pJMFBXY0xKYVZMc1VNbWNZOWVWeWlzTk1tYXg2a005RVZjWGQzM05EWTBySkxVdElOZEx3cGdWNDU1czlOSk9lYllldw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzY1V0d0UEI4S3lmYTJ3Sk5pbGhXSVRZMWwwbnZmajNnRnd1d0NVM1RTTzJnTnNyZ3d4d3dUX0trSkN5dUk0cmhBQTZfb3FvMlhSOF96WTJJb3N2Vk45U1ptWEhhX3NidkZTRGx2dzVjbE5URjkxSUE3RzJIS1pJMFBXY0xKYVZMc1VNbWNZOWVWeWlzTk1tYXg2a005RVZjWGQzM05EWTBySkxVdElOZEx3cGdWNDU1czlOSk9lYllldw?oc=5</guid>
-            <pubDate>Fri, 27 Feb 2026 11:40:01 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 匈牙利和斯洛伐克希望团队检查乌克兰德鲁日巴管道受损情况 路透]]></description>
         </item>
         <item>
             <title><![CDATA[分析师因地缘政治风险上调石油前景，供应过剩担忧限制上行空间 - 路透中文网]]></title>
@@ -479,11 +465,25 @@
             <description><![CDATA[[Reuters Business] 投资者欢呼退出华纳兄弟竞赛，Netflix 股价飙升 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[债券一年中最好的一个月使 10 年期债券收益率跌破 4%]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-27/treasuries-regain-edge-as-safety-play-with-best-month-in-year</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/treasuries-regain-edge-as-safety-play-with-best-month-in-year</guid>
+            <pubDate>Fri, 27 Feb 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在全球风险上升的背景下，美国债券迎来了一年来最好的月度表现，需求复苏证明投资者仍然将国债视为动荡时期的首要避风港。]]></description>
+        </item>
+        <item>
             <title><![CDATA[“半价”起拍，北京农商行多笔股权现身阿里拍卖 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzbE5vNnVSekFudGZ1U3pYSkdmYlJLbWdNS0FlNy0xZTJtb3lsVFJwQXdBVDFTSFE5MURpaUlDV2Vhb1BiZ0RscFRMNGdJWmFqSmVJ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzbE5vNnVSekFudGZ1U3pYSkdmYlJLbWdNS0FlNy0xZTJtb3lsVFJwQXdBVDFTSFE5MURpaUlDV2Vhb1BiZ0RscFRMNGdJWmFqSmVJ?oc=5</guid>
             <pubDate>Fri, 27 Feb 2026 09:46:55 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] “半价”起拍，北京农商行多笔股权现身阿里拍卖  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国暂停加拿大菜籽油关税，促进贸易解冻]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-27/china-halts-canada-canola-meal-tariffs-adding-to-trade-thaw</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/china-halts-canada-canola-meal-tariffs-adding-to-trade-thaw</guid>
+            <pubDate>Fri, 27 Feb 2026 09:41:11 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 中国表示将降低对加拿大菜籽粕和龙虾的关税，缓解加拿大总理马克·卡尼一月份访华后对农产品贸易的干扰。]]></description>
         </item>
         <item>
             <title><![CDATA[宁波银行换帅 庄灵君获聘董事长、冯培炯获聘行长 - 财新]]></title>
@@ -615,7 +615,7 @@
             <title><![CDATA[待售卧室突显欧洲住房危机的严重程度 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmszekRDZ1FZZHNuVXJ0b1UwU0JBRjlxeG5FYlVnSjlxcG81YlhqRDZfd0hmYThjMXhZbUNpS0R0YlpOcGN1cm51bnlST18xSzlKZndsVy1YdXR2dzNVT1FKVUtfcWNDZzVMTFVKNWRXMTFRME15WjFJZ3E1dTJTXzFKVm9CbW9WWm9hTGZuVWV2Sk01YXVCUHAxTjFNNVU0QnNhUzdNeWNmUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTmszekRDZ1FZZHNuVXJ0b1UwU0JBRjlxeG5FYlVnSjlxcG81YlhqRDZfd0hmYThjMXhZbUNpS0R0YlpOcGN1cm51bnlST18xSzlKZndsVy1YdXR2dzNVT1FKVUtfcWNDZzVMTFVKNWRXMTFRME15WjFJZ3E1dTJTXzFKVm9CbW9WWm9hTGZuVWV2Sk01YXVCUHAxTjFNNVU0QnNhUzdNeWNmUQ?oc=5</guid>
-            <pubDate>Fri, 27 Feb 2026 06:02:00 GMT</pubDate>
+            <pubDate>Fri, 27 Feb 2026 06:02:51 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 待售卧室突显欧洲住房危机的严重程度 路透]]></description>
         </item>
         <item>
