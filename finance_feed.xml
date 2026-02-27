@@ -4,16 +4,30 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 27 Feb 2026 21:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 21:51:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[标准普尔分析师认为派拉蒙评级在华纳交易后紧张]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-27/s-p-analyst-sees-paramount-rating-as-strained-after-warner-deal</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/s-p-analyst-sees-paramount-rating-as-strained-after-warner-deal</guid>
+            <pubDate>Fri, 27 Feb 2026 21:13:42 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 标准普尔全球评级分析师表示，派拉蒙 Skydance Corp. 以 1110 亿美元收购华纳兄弟探索公司 (Warner Bros. Discovery Inc.) 将使其信用评级面临压力，即使合并后的公司最终可能随着时间的推移降低其债务水平。]]></description>
+        </item>
         <item>
             <title><![CDATA[您在超级碗套房中真正能得到什么]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-02-27/what-you-really-get-in-a-super-bowl-suite-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-27/what-you-really-get-in-a-super-bowl-suite-video</guid>
             <pubDate>Fri, 27 Feb 2026 21:08:25 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 近年来，超级碗门票价格飙升。 但有时，您不仅能获得游戏席位，还可能获得非常特殊的奢侈品。 兰德尔·威廉姆斯解释说，一些粉丝愿意花费大量金钱来获得这种体验。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于伊朗风险，对冲基金将看涨石油押注升至 22 个月高点]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-27/hedge-funds-hike-bullish-oil-bets-to-22-month-high-on-iran-risks</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/hedge-funds-hike-bullish-oil-bets-to-22-month-high-on-iran-risks</guid>
+            <pubDate>Fri, 27 Feb 2026 21:02:02 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于投资者越来越担心美国在中东的军事行动可能迫在眉睫并扰乱流出该地区的石油供应，对冲基金对布伦特原油的看涨程度达到了 2024 年 4 月以来的最高水平。]]></description>
         </item>
         <item>
             <title><![CDATA[超级碗的下一步是什么？]]></title>
@@ -149,6 +163,13 @@
             <description><![CDATA[[Bloomberg] 美国政府月度报告显示，12 月份美国原油产量降至近 1370 万桶/日，为六个月来最低。]]></description>
         </item>
         <item>
+            <title><![CDATA[多尔西直率的人工智能警告加剧了有关就业和利润的争论 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnZmeDZtODJja2l4Qkp4X01CQ0ZEOHFhX2J3S2pscHNlTDl2bWphUUdlSl94dEhyZzZMbmF5U2VRTmdqNWJqUmY0Z2JsMW9Tc1k5b1VDNVRFV2d4TjNfU254RF9sNFdZQzZnOVJKUGU2cjgwYTFGUWFySVFJYVRWSHc5YVZidzh3ZVpRYXJoRWVXY3lUTGdQUzZNZjE2V001c2F2RGF3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnZmeDZtODJja2l4Qkp4X01CQ0ZEOHFhX2J3S2pscHNlTDl2bWphUUdlSl94dEhyZzZMbmF5U2VRTmdqNWJqUmY0Z2JsMW9Tc1k5b1VDNVRFV2d4TjNfU254RF9sNFdZQzZnOVJKUGU2cjgwYTFGUWFySVFJYVRWSHc5YVZidzh3ZVpRYXJoRWVXY3lUTGdQUzZNZjE2V001c2F2RGF3?oc=5</guid>
+            <pubDate>Fri, 27 Feb 2026 18:56:29 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 多尔西直率的人工智能警告加剧了有关就业和利润的争论 - 路透中文网]]></description>
+        </item>
+        <item>
             <title><![CDATA[Generate Biomedicines股价首日开盘低于IPO发行价]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3236349</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3236349</guid>
@@ -205,14 +226,6 @@
             <description><![CDATA[[Bloomberg] 第一品牌集团（First Brands Group）有四个潜在买家购买其剩余的汽车零部件工厂（包括为福特汽车公司供货的工厂），该提案旨在保留数千个工作岗位，因为这家破产公司试图避免关闭和清算剩余工厂。]]></description>
         </item>
         <item>
-            <title><![CDATA[“彭博本周末”值得关注的内容]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-02-27/what-to-watch-for-on-bloomberg-this-weekend-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-02-27/what-to-watch-for-on-bloomberg-this-weekend-video</guid>
-            <pubDate>Fri, 27 Feb 2026 17:26:13 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 大卫·古拉 (David Gura) 和克里斯蒂娜·鲁菲尼 (Christina Ruffini) 预览了他们的新节目“彭博这个周末”的第一集。 他们将密切关注中东和伯克希尔哈撒韦公司的收益。 观看彭博电视台的现场直播。 通过彭博电台收听该节目的现场直播。  “彭博本周末”的直播时间为东部时间周六和周日上午 7 点至 10 点。
-  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[中午涨幅最大的股票：银行股、Netflix、Duolingo、AES、Sunrun 等]]></title>
             <link>https://www.cnbc.com/2026/02/27/stocks-making-the-biggest-moves-midday-banks-nflx-duol-aes-run-.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/27/stocks-making-the-biggest-moves-midday-banks-nflx-duol-aes-run-.html</guid>
@@ -253,13 +266,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-jobs-data-in-focus-853350ce</guid>
             <pubDate>Fri, 27 Feb 2026 16:56:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 美国就业数据将成为未来一周的亮点，因为投资者仍不确定美联储下次可能何时降息。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[休斯顿将以 10 亿美元扩建会议中心出售市政设施]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-27/houston-to-sell-munis-for-1-billion-convention-center-expansion</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/houston-to-sell-munis-for-1-billion-convention-center-expansion</guid>
-            <pubDate>Fri, 27 Feb 2026 16:35:07 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 休斯顿依靠市政债券投资者为耗资数十亿美元的会议中心扩建项目提供资金，这对于促进市中心的经济活动至关重要。]]></description>
         </item>
         <item>
             <title><![CDATA[Tricolor 票据持有人起诉摩根大通、巴克莱银行和 Fifth Third]]></title>
@@ -367,11 +373,11 @@
             <description><![CDATA[[WSJ] 德国通胀 2 月份小幅下降，而法国消费者价格增长则从疫情低点反弹。]]></description>
         </item>
         <item>
-            <title><![CDATA[美国一月份消费者价格强劲上涨 - 路透中文网]]></title>
+            <title><![CDATA[美国1月份生产者价格强劲上涨 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2RDTUFtbWpBTGMyTlBIOGptWTJXWnA2ZzIwcThYc3ZBNHdhRVhrV3NXQWxSWVFoeVJQeVNWTW9MQTNxRU5aQl8yTi02cEpXREJNeGhEcnJnYkhNbC13VG1lWFlnRGNVdy05YmxjdEZCMnpBcGhGdXFQQTJqQlZYQWNkNnBvYWlxYTZMcEd5bndZbGtsOUJqMmxObUg0bmRt?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxQN2RDTUFtbWpBTGMyTlBIOGptWTJXWnA2ZzIwcThYc3ZBNHdhRVhrV3NXQWxSWVFoeVJQeVNWTW9MQTNxRU5aQl8yTi02cEpXREJNeGhEcnJnYkhNbC13VG1lWFlnRGNVdy05YmxjdEZCMnpBcGhGdXFQQTJqQlZYQWNkNnBvYWlxYTZMcEd5bndZbGtsOUJqMmxObUg0bmRt?oc=5</guid>
             <pubDate>Fri, 27 Feb 2026 13:50:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国一月份消费者价格强劲上涨 路透]]></description>
+            <description><![CDATA[[Reuters Business] 美国一月份生产者价格强劲上涨 路透]]></description>
         </item>
         <item>
             <title><![CDATA[PPI 数据显示 1 月份批发价格加速上涨]]></title>
@@ -456,6 +462,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/02/27/crowded-market-themes-may-have-no-place-in-etfs-.html</guid>
             <pubDate>Fri, 27 Feb 2026 12:00:01 GMT</pubDate>
             <description><![CDATA[[CNBC] 市场可能正在进入一个新阶段：淘汰最拥挤的“非传统”策略。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[信贷担忧使 Blue Owl 有望迎来 2022 年以来最糟糕的一个月]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-02-27/credit-fears-put-blue-owl-on-track-for-worst-month-since-2022</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/credit-fears-put-blue-owl-on-track-for-worst-month-since-2022</guid>
+            <pubDate>Fri, 27 Feb 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于投资者对价值 1.8 万亿美元的私人信贷行业的动荡加剧了焦虑，Blue Owl Capital Inc. 的股价创下了有记录以来最严重的月度跌幅。]]></description>
         </item>
         <item>
             <title><![CDATA[巴基斯坦空袭震撼喀布尔后，阿富汗人担心局势进一步升级 - 路透中文网]]></title>
@@ -598,13 +611,6 @@
             <description><![CDATA[[Reuters Business] 华尔街遭受英国抵押贷款机构倒闭的打击，引发更多信贷“蟑螂”的担忧 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[欧洲股市创2013年以来最长月度连涨纪录]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-27/european-stocks-eye-longest-monthly-winning-streak-since-2013</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/european-stocks-eye-longest-monthly-winning-streak-since-2013</guid>
-            <pubDate>Fri, 27 Feb 2026 08:24:52 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 欧洲股市上涨，实现了自 2013 年以来最长的月度连续上涨，并显示出随着投资者寻求美国以外的替代方案，该地区的吸引力日益增强。]]></description>
-        </item>
-        <item>
             <title><![CDATA[总理称克罗地亚准备确保向匈牙利和斯洛伐克供应石油 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHFLeWk4dmloOTNPU1huYUNhbnZLWjRqMmFEZE9jZTJac2dyd0JlakFEQTBWcEl5UUY1RnFKSzVLOE9sTlZBUUNaUDUyUm1xbEZkRjBaSVJaQ1F5RUVuelNTSUtCWTNDVGlYQlMzN1hnUTB3TDVneEtKVVlTR25sdnJSbFdwNjJSTFVQMUJtTXAybDVfWmJkUXNtTWU4aWZLeUo1YURLYVB5ZlV2dEtF?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHFLeWk4dmloOTNPU1huYUNhbnZLWjRqMmFEZE9jZTJac2dyd0JlakFEQTBWcEl5UUY1RnFKSzVLOE9sTlZBUUNaUDUyUm1xbEZkRjBaSVJaQ1F5RUVuelNTSUtCWTNDVGlYQlMzN1hnUTB3TDVneEtKVVlTR25sdnJSbFdwNjJSTFVQMUJtTXAybDVfWmJkUXNtTWU4aWZLeUo1YURLYVB5ZlV2dEtF?oc=5</guid>
@@ -643,7 +649,7 @@
             <title><![CDATA[英国航空母公司 IAG 盈利超出预期，但股价因前景担忧而下跌 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFE1SGNyM3FlRjVvU0pIMFgwWTJWMG9RZGdsaEx0U2hpRjRRdVB0bW1LM2ZHc2hBUm1SSHQ3VHlPNzlEdGZXYU44X0QzUkdtSmJ1YW8tWWphZTB2RlJtamFJMVgwNGFubGJYWlhtU01jaW5yYWEtcFlpQ2pKUlhMejJVQ01FVXBhdmhaS0liMlEwcWctTFZDRjhaeVRuaVB0aUw1STRkYlVXa1Na?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFE1SGNyM3FlRjVvU0pIMFgwWTJWMG9RZGdsaEx0U2hpRjRRdVB0bW1LM2ZHc2hBUm1SSHQ3VHlPNzlEdGZXYU44X0QzUkdtSmJ1YW8tWWphZTB2RlJtamFJMVgwNGFubGJYWlhtU01jaW5yYWEtcFlpQ2pKUlhMejJVQ01FVXBhdmhaS0liMlEwcWctTFZDRjhaeVRuaVB0aUw1STRkYlVXa1Na?oc=5</guid>
-            <pubDate>Fri, 27 Feb 2026 07:09:00 GMT</pubDate>
+            <pubDate>Fri, 27 Feb 2026 07:09:13 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 英国航空母公司 IAG 盈利超出预期，但股价因前景担忧而下跌 路透]]></description>
         </item>
         <item>
@@ -652,13 +658,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcURqX0tUclFuRjZWQXlVczhuNEI0bjFwdzgxeGlGMEVKc3dOem1BeWdYWXRSczIxX2dveVYtUktmOHZlZXdGaXlDREZUNXYwNFdB?oc=5</guid>
             <pubDate>Fri, 27 Feb 2026 06:38:48 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] “达尔文时刻”到来！分析警告：部分PE面临灭绝风险  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国将削减债券销售 20% 并推动金边债券的发展]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-02-27/uk-set-to-slash-bond-sales-to-lowest-in-three-years</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/uk-set-to-slash-bond-sales-to-lowest-in-three-years</guid>
-            <pubDate>Fri, 27 Feb 2026 06:15:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 预计英国将在来年大幅削减英国国债的销售，这对于担心该国财政紧张的债券投资者来说是一个难得的好消息。]]></description>
         </item>
         <item>
             <title><![CDATA[波兰执政党计划禁止 15 岁以下儿童使用社交媒体 - 路透中文网]]></title>
