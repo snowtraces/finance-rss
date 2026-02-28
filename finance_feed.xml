@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 28 Feb 2026 08:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 08:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[英伟达据悉开发AI推理芯片 OpenAI或成最大客户]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3236792</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3236792</guid>
+            <pubDate>Sat, 28 Feb 2026 08:35:21 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[顾勇升任东财基金总经理，开年已有10家公募核心高管变更]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3236780</link>
@@ -75,13 +82,6 @@
             <title><![CDATA[近10年数据复盘：沪指3月平均上涨2.1%，小微盘、红利指数表现较优]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3236750</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3236750</guid>
-            <pubDate>Sat, 28 Feb 2026 07:05:23 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[总裁与合规总监都被出具警示函，中山证券经纪业务三重违规，正待走出困局]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3236749</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3236749</guid>
             <pubDate>Sat, 28 Feb 2026 07:05:23 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
@@ -443,27 +443,6 @@
             <description><![CDATA[[Reuters Business] 格鲁吉亚广播公司称英国制裁是对言论自由的“不可想象的”攻击 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[DeepSeek将发布全新V4模型]]></title>
-            <link>https://www.ftchinese.com/story/001109073</link>
-            <guid isPermaLink="false">https://www.ftchinese.com/story/001109073</guid>
-            <pubDate>Fri, 27 Feb 2026 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] V4是具备图片、视频和文本生成功能的“多模态”模型。DeepSeek已优化V4模型以搭载华为、寒武纪等国产芯片。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI获得创纪录1100亿美元融资]]></title>
-            <link>https://www.ftchinese.com/story/001109068</link>
-            <guid isPermaLink="false">https://www.ftchinese.com/story/001109068</guid>
-            <pubDate>Fri, 27 Feb 2026 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] ChatGPT 正努力从竞争对手 Anthropic 和谷歌手中夺回 AI 模型开发领域的领先地位。此轮融资估值为 7300 亿美元。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国建议驻馆非必要人员]]></title>
-            <link>https://www.ftchinese.com/story/001109067</link>
-            <guid isPermaLink="false">https://www.ftchinese.com/story/001109067</guid>
-            <pubDate>Fri, 27 Feb 2026 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] 消息来源是人们担心美国与伊朗可能爆发战争升级以引发地区冲突。加拿大、中国、印度和波兰已敦促各自公民离开伊朗。]]></description>
-        </item>
-        <item>
             <title><![CDATA[墨西哥国家石油公司 2025 年第四季度亏损收窄 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxObWRpekNVWmExcjB4TnhieFk5bnBkdXFrVXc5T1gxRXl2dWdodEFTdTYtamFOSV9ReWJXc3dtZkVJUTNiRENuZ3A2YXB6MmhWOWJnQmVxWk54dXQyX0YzVE5NcS1qTzBHR0VKNDhOc3dKX1RBZkVhcW94eHlXNDhGRnZCX1FpVnJva2d1NV9PeU1ZWlFhSU44bDN4VXVMaEo2YU9rS19PeDZnRk1jR3c?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxObWRpekNVWmExcjB4TnhieFk5bnBkdXFrVXc5T1gxRXl2dWdodEFTdTYtamFOSV9ReWJXc3dtZkVJUTNiRENuZ3A2YXB6MmhWOWJnQmVxWk54dXQyX0YzVE5NcS1qTzBHR0VKNDhOc3dKX1RBZkVhcW94eHlXNDhGRnZCX1FpVnJva2d1NV9PeU1ZWlFhSU44bDN4VXVMaEo2YU9rS19PeDZnRk1jR3c?oc=5</guid>
@@ -707,6 +686,27 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-27/after-hedge-fund-interest-uk-s-flood-re-plans-more-cat-bonds</guid>
             <pubDate>Fri, 27 Feb 2026 10:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 英国应对洪水相关损失的最终保障计划更多地依赖资本市场，此前其首张巨灾债券引起了包括对冲基金费马资本管理公司在内的专业投资者的浓厚兴趣。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[“半价”起拍，北京农商行多笔股权现身阿里拍卖 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzbE5vNnVSekFudGZ1U3pYSkdmYlJLbWdNS0FlNy0xZTJtb3lsVFJwQXdBVDFTSFE5MURpaUlDV2Vhb1BiZ0RscFRMNGdJWmFqSmVJ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzbE5vNnVSekFudGZ1U3pYSkdmYlJLbWdNS0FlNy0xZTJtb3lsVFJwQXdBVDFTSFE5MURpaUlDV2Vhb1BiZ0RscFRMNGdJWmFqSmVJ?oc=5</guid>
+            <pubDate>Fri, 27 Feb 2026 09:46:55 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] “半价”起拍，北京农商行多笔股权现身阿里拍卖  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[宁波银行换帅 庄灵君获聘董事长、冯培炯获聘行长 - 财新]]></title>
+            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSHFNcmtzNk9IeVg3Rm95aWtMVkhIbVpRT0pQam1IT2lZWl9VNXdIdjN4cW91THl0c0tza25RWTJKY3FMVHlFZThkcFBMbFhfY1NuYVRvakhaaFdsZlp5YW53?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSHFNcmtzNk9IeVg3Rm95aWtMVkhIbVpRT0pQam1IT2lZWl9VNXdIdjN4cW91THl0c0tza25RWTJKY3FMVHlFZThkcFBMbFhfY1NuYVRvakhaaFdsZlp5YW53?oc=5</guid>
+            <pubDate>Fri, 27 Feb 2026 09:11:00 GMT</pubDate>
+            <description><![CDATA[[财新网] 宁波银行换帅 庄灵君获聘董事长、冯培炯获聘行长  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[联合国人权事务高级专员警告称，更多伊朗人因抗议活动而面临处决 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2dHanNRQk5wcUZVMzVoeE5EcWNROGhScDRpZGZ2MXFabjRaa29zTXZYZ2o4TEY1SnBpcVY1Vk5hVWFJZENQcXA1UmZNMktkM1ZJalA0b1FVN3p1ekliNXFpWXRtLVlnN3p1ZmFQNFYzRGc5SzM0RFVnUWI1Qi1TYUp5OE55bjVRSXNyUjFsR0tkRGszemI0bEUwTm5ZbkJhcDhCbGtLX01QQXVyVVpHNi1UTUo2cGF0cXpra05WT0toVTVLbHEtLQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ2dHanNRQk5wcUZVMzVoeE5EcWNROGhScDRpZGZ2MXFabjRaa29zTXZYZ2o4TEY1SnBpcVY1Vk5hVWFJZENQcXA1UmZNMktkM1ZJalA0b1FVN3p1ekliNXFpWXRtLVlnN3p1ZmFQNFYzRGc5SzM0RFVnUWI1Qi1TYUp5OE55bjVRSXNyUjFsR0tkRGszemI0bEUwTm5ZbkJhcDhCbGtLX01QQXVyVVpHNi1UTUo2cGF0cXpra05WT0toVTVLbHEtLQ?oc=5</guid>
+            <pubDate>Fri, 27 Feb 2026 09:06:41 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 联合国人权事务高级专员警告称，更多伊朗人因抗议活动而面临处决 路透]]></description>
         </item>
     </channel>
 </rss>
