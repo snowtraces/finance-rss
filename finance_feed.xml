@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 01 Mar 2026 21:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 21:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3237381</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3237381</guid>
+            <pubDate>Sun, 01 Mar 2026 21:20:15 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[麦哲伦将以 11 亿美元收购 Barrenjoey 银行]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-01/magellan-agrees-to-buy-barrenjoey-in-1-1-billion-deal-for-bank</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-01/magellan-agrees-to-buy-barrenjoey-in-1-1-billion-deal-for-bank</guid>
+            <pubDate>Sun, 01 Mar 2026 21:13:39 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 麦哲伦金融集团 (Magellan Financial Group Ltd.) 同意收购 Barrenjoey Capital Partners，该交易对这家新贵澳大利亚投资银行的估值约为 16.2 亿澳元（11 亿美元）。]]></description>
+        </item>
         <item>
             <title><![CDATA[全球股票交易商为伊朗影响做好准备，能源成为焦点]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-01/energy-in-focus-as-global-equity-traders-brace-for-iran-impact</link>
@@ -159,7 +173,7 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[加密货币失去了对零售大军的控制，现在转向股票]]></title>
+            <title><![CDATA[加密货币失去了对散户的控制，现在转向股票]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-01/crypto-loses-its-grip-on-retail-army-now-defecting-to-equities</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-01/crypto-loses-its-grip-on-retail-army-now-defecting-to-equities</guid>
             <pubDate>Sun, 01 Mar 2026 14:30:00 GMT</pubDate>
@@ -246,14 +260,6 @@
             <description><![CDATA[[Reuters Business] 美国和以色列袭击伊朗，投资者寻求黄金避风港 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[阿曼称取得进展，美伊谈判显示明显分歧]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-01/us-iran-talks-show-stark-divide-as-oman-cites-progress-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-01/us-iran-talks-show-stark-divide-as-oman-cites-progress-video</guid>
-            <pubDate>Sun, 01 Mar 2026 12:45:45 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 《大西洋月刊》国家安全撰稿人南希·优素福表示，最近由阿曼斡旋的美伊谈判暴露了在实质内容和信任方面的巨大分歧。 她与大卫·古拉和克里斯蒂娜·鲁菲尼一起在彭博社的“本周末”节目中发表讲话。 
-  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[沙特阿拉伯股市收低；截至收盘沙特阿拉伯TASI指数下跌2.18%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3237329</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3237329</guid>
@@ -292,13 +298,6 @@
             <title><![CDATA[御德国际控股(08048)发布2024年度业绩 股东应占亏损5476.5万港元 同比扩大341.48%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3237322</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3237322</guid>
-            <pubDate>Sun, 01 Mar 2026 12:35:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[御德国际控股(08048)发布2025年中期业绩 股东应占亏损104.9万港元 同比收窄83.26%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3237321</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3237321</guid>
             <pubDate>Sun, 01 Mar 2026 12:35:10 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
@@ -481,7 +480,7 @@
             <title><![CDATA[美国为何攻击伊朗？  - 路透社]]></title>
             <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkJ1UHMxVDBSRzBiN1hEeWVta2R1azJfMVBxY2lJb0I3V2ptdGEzbFJMejdyb1h2bTZIQ01sS1lCc0VhZVh5N3FnaE85dWpncHR6ZEtLakxLc0pSbzFfeGJvMVFiT2JSM2cyZ19wa3ZQZk1sSlBvLWVaUTNCcUpzOTl1U0NUYWQ2NFZN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkJ1UHMxVDBSRzBiN1hEeWVta2R1azJfMVBxY2lJb0I3V2ptdGEzbFJMejdyb1h2bTZIQ01sS1lCc0VhZVh5N3FnaE85dWpncHR6ZEtLakxLc0pSbzFfeGJvMVFiT2JSM2cyZ19wa3ZQZk1sSlBvLWVaUTNCcUpzOTl1U0NUYWQ2NFZN?oc=5</guid>
-            <pubDate>Sun, 01 Mar 2026 02:19:00 GMT</pubDate>
+            <pubDate>Sun, 01 Mar 2026 02:19:15 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国为何攻击伊朗？   路透社]]></description>
         </item>
         <item>
