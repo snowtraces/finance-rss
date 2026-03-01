@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 01 Mar 2026 16:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 17:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -83,13 +83,6 @@
             <description><![CDATA[[Bloomberg] 彭博资讯 (Bloomberg Intelligence) 的迈克·麦格隆 (Mike McGlone) 解释了美国和以色列对伊朗的袭击对石油和大宗商品价格意味着什么。 他在“彭博本周末”节目中发表讲话。 外交部长阿巴斯·阿拉格奇在接受半岛电视台采访时表示，伊朗无意关闭霍尔木兹海峡，迄今为止一直保持开放。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[美伊冲突升级，三艘油轮在海湾受损 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmlsamZMdF9KREpIYU5wT1lrU3huMlpNMUtZNG41QnBzaENTNjc1ZHVjX1ZOMXhGMGh0d1FqV2NDSlU3NVB0NVZtNG1wVUtaTTlPV3FRNkkwMXFEMDQtZWNSSUl1d0JyY1dITFB5UVQ1ckFYVFF5dzU2Tmd2dXFkVmVxblpza3RxYW5NdVZaM29wYTNfTFVvTGV5STlFaG9zWGNfVEhZdkY?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmlsamZMdF9KREpIYU5wT1lrU3huMlpNMUtZNG41QnBzaENTNjc1ZHVjX1ZOMXhGMGh0d1FqV2NDSlU3NVB0NVZtNG1wVUtaTTlPV3FRNkkwMXFEMDQtZWNSSUl1d0JyY1dITFB5UVQ1ckFYVFF5dzU2Tmd2dXFkVmVxblpza3RxYW5NdVZaM29wYTNfTFVvTGV5STlFaG9zWGNfVEhZdkY?oc=5</guid>
-            <pubDate>Sun, 01 Mar 2026 14:51:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美伊冲突升级，三艘油轮在海湾受损 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[众议员麦考尔表示，伊朗人民有机会获得自由]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-03-01/iranian-people-have-chance-at-freedom-says-rep-mccaul-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-01/iranian-people-have-chance-at-freedom-says-rep-mccaul-video</guid>
@@ -116,6 +109,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-01/crypto-loses-its-grip-on-retail-army-now-defecting-to-equities</guid>
             <pubDate>Sun, 01 Mar 2026 14:30:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 多年来，散户投资者是加密货币最可靠的燃料——抄底买家、模因币投机者、推动每次上涨的动量交易者。 现在他们正在继续前进，阻碍了数字资产十年来所依赖的需求引擎。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[滞留意大利的国防部长将乘坐军用飞机从迪拜返回 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVJJUkM0T3JEdl9GUmtJdmhPVWpzd29TWjRYQjB2Q0lhRThVMHdITTlTdE1JMEdvenliMWI1UG9DTTNUVExTb0xHRGlRbXN0N3hKcVMyNUxVU21fSlh0OWMzSWN5dmtsQ2p6b1V6TzFiNmZDWDRjMGNYdGF5eXJsd21oZF9zNkJhdHZHbDVoWkJibnBfdTV3Q3NQRWdjbDFjNW1IVzBrakpoOGNwaDdQVzdZUXdtb1o5RmpKMG1yM3A1bko5?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNYVJJUkM0T3JEdl9GUmtJdmhPVWpzd29TWjRYQjB2Q0lhRThVMHdITTlTdE1JMEdvenliMWI1UG9DTTNUVExTb0xHRGlRbXN0N3hKcVMyNUxVU21fSlh0OWMzSWN5dmtsQ2p6b1V6TzFiNmZDWDRjMGNYdGF5eXJsd21oZF9zNkJhdHZHbDVoWkJibnBfdTV3Q3NQRWdjbDFjNW1IVzBrakpoOGNwaDdQVzdZUXdtb1o5RmpKMG1yM3A1bko5?oc=5</guid>
+            <pubDate>Sun, 01 Mar 2026 14:26:51 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 滞留意大利的国防部长将乘坐军用飞机从迪拜返回路透社]]></description>
         </item>
         <item>
             <title><![CDATA[海湾地区遭受伊朗前所未有的袭击]]></title>
@@ -392,7 +392,7 @@
             <title><![CDATA[书称，红衣主教在选举教皇利奥的秘密秘密会议期间发现手机 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0tnNDFMWEhjeDFhSFMwdGw2MHNfcDMza21GT2o1dGM0SFpSZXhkaEE0aE52NXFNRExqQmVMWFZHZlNJOHRNZFpjaC1Rdlhmd093WktyM18ybEN1bEYwNV9WcHFSenpKYkwxWE00WXBNWm11M1pjRVJuUGRoM3pHb3VkWnVmOVdLSWU2NWQ3WURWeWtvQkpjUWRaRVQzNkR1TUJiTFUzOHdIRW4yVTVBTkVKQTNhT1phMVJBNTAzdW1KVTdhTmZkSm1VT1g?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0tnNDFMWEhjeDFhSFMwdGw2MHNfcDMza21GT2o1dGM0SFpSZXhkaEE0aE52NXFNRExqQmVMWFZHZlNJOHRNZFpjaC1Rdlhmd093WktyM18ybEN1bEYwNV9WcHFSenpKYkwxWE00WXBNWm11M1pjRVJuUGRoM3pHb3VkWnVmOVdLSWU2NWQ3WURWeWtvQkpjUWRaRVQzNkR1TUJiTFUzOHdIRW4yVTVBTkVKQTNhT1phMVJBNTAzdW1KVTdhTmZkSm1VT1g?oc=5</guid>
-            <pubDate>Sun, 01 Mar 2026 05:06:33 GMT</pubDate>
+            <pubDate>Sun, 01 Mar 2026 05:06:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 书称，红衣主教在选举利奥教皇的秘密会议期间被发现携带手机 路透]]></description>
         </item>
         <item>
@@ -686,7 +686,7 @@
             <title><![CDATA[美国和以色列发动袭击，伊朗领导人哈梅内伊在空袭中身亡 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGphRGktb1FqZHI5Slc3QkRKR1c2OXZWYVdtd240OXdMemc4aVk1OWFILWc5V2pZQXFRc2czVXRBdDBjZDFxUjJ2Uy1admNMeUpFdmFHc25TNTZpaFNsU3hVMUhvdEVacU5rOVZ6NERFM2JwbzRLNWdBWTZxQmllWE9rU1JYa2FsN214Q0E0V1k0SE55anBF?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGphRGktb1FqZHI5Slc3QkRKR1c2OXZWYVdtd240OXdMemc4aVk1OWFILWc5V2pZQXFRc2czVXRBdDBjZDFxUjJ2Uy1admNMeUpFdmFHc25TNTZpaFNsU3hVMUhvdEVacU5rOVZ6NERFM2JwbzRLNWdBWTZxQmllWE9rU1JYa2FsN214Q0E0V1k0SE55anBF?oc=5</guid>
-            <pubDate>Sat, 28 Feb 2026 07:37:00 GMT</pubDate>
+            <pubDate>Sat, 28 Feb 2026 07:37:01 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国和以色列发动袭击，伊朗领导人哈梅内伊在空袭中身亡 路透]]></description>
         </item>
         <item>
@@ -695,6 +695,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YWlJQVXRYMWFnRTlhaTVfd3lZZUlMRjRyZkViUHlWb0Q5b1hrSEhwamdZUnEwblV2WUtpWDJCbThRb2lMT1VoblRDTFBoeTlqczFz?oc=5</guid>
             <pubDate>Sat, 28 Feb 2026 05:49:35 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 日系电视，迎来中国主场时代  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[卫星图像显示美军在沙特空军基地使用了更多飞机 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3pXekpYN3ZmWDg2c0lIUWhVQVVrRmE3aXREZ1pmdUZsWURYQ1l0UzRaaUZ3bmIzZUhiVk1rWnhkV0xXbzcyemZ0b2dVbTA3SXpWUnY1SFo2MHlXMXFWX3g0N08xd2lxaVlDVlAteXZfQm85N2s4TnYtUWgtRHFDdmFwX05pcm5UZzZGcUNqZlV1TC1fZ1V4THlmdFRIbWpZM2ZwZ19LeXNpZGNrVnpUR21abWplRThNalg5d3lSa3hGQXVPRl9oSWpB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxQS3pXekpYN3ZmWDg2c0lIUWhVQVVrRmE3aXREZ1pmdUZsWURYQ1l0UzRaaUZ3bmIzZUhiVk1rWnhkV0xXbzcyemZ0b2dVbTA3SXpWUnY1SFo2MHlXMXFWX3g0N08xd2lxaVlDVlAteXZfQm85N2s4TnYtUWgtRHFDdmFwX05pcm5UZzZGcUNqZlV1TC1fZ1V4THlmdFRIbWpZM2ZwZ19LeXNpZGNrVnpUR21abWplRThNalg5d3lSa3hGQXVPRl9oSWpB?oc=5</guid>
+            <pubDate>Sat, 28 Feb 2026 04:53:53 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 卫星图像显示沙特空军基地有更多美军飞机使用 路透]]></description>
         </item>
         <item>
             <title><![CDATA[“AI音乐”明星初创公司SUNO付费用户3个月翻倍，达到2百万，年度ARR收入达3亿美元 - 华尔街见闻]]></title>
@@ -709,13 +716,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lUnFURmdaWGNNMEVzekhsUkFGVHlZcmZObkRTeUlURkNaUW5VUkZ4XzZ0M1RaSmhxSFZDanVQdW9XZnlqLUZJUEJYNktITVlHVGZR?oc=5</guid>
             <pubDate>Sat, 28 Feb 2026 03:31:41 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] AI冲击之下，新一轮“次贷危机”来了？  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国启动调查，企图取消中国最惠国待遇？专家：美方或希望借此获得谈判筹码 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBdzhzcFFZZjZQOWhhN3JQNEo1czEzdFpUQXQxNlFBRi02VXRoOEtKN0JMMXk1azQ5ZEdqZnNBa25lMDRyZE82RXhnekZ2Qmo4b0xr?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBdzhzcFFZZjZQOWhhN3JQNEo1czEzdFpUQXQxNlFBRi02VXRoOEtKN0JMMXk1azQ5ZEdqZnNBa25lMDRyZE82RXhnekZ2Qmo4b0xr?oc=5</guid>
-            <pubDate>Sat, 28 Feb 2026 03:23:07 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 美国启动调查，企图取消中国最惠国待遇？专家：美方或希望借此获得谈判筹码  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
