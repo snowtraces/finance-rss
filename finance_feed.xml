@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 01 Mar 2026 21:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 22:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[短期日本债券对管理 170 亿美元的银行具有吸引力]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-01/short-term-japan-bonds-hold-allure-for-bank-managing-17-billion</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-01/short-term-japan-bonds-hold-allure-for-bank-managing-17-billion</guid>
+            <pubDate>Sun, 01 Mar 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 日本最大的地区银行之一正在测试该国动荡的债券市场，投资短期票据以确保更高的回报，同时在利率上升时避免投资较长期的证券。]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3237381</link>
@@ -20,7 +27,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-03-01/magellan-agrees-to-buy-barrenjoey-in-1-1-billion-deal-for-bank</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-01/magellan-agrees-to-buy-barrenjoey-in-1-1-billion-deal-for-bank</guid>
             <pubDate>Sun, 01 Mar 2026 21:13:39 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 麦哲伦金融集团 (Magellan Financial Group Ltd.) 同意收购 Barrenjoey Capital Partners，该交易对这家新贵澳大利亚投资银行的估值约为 16.2 亿澳元（11 亿美元）。]]></description>
+            <description><![CDATA[[Bloomberg] 麦哲伦金融集团有限公司 (Magellan Financial Group Ltd.) 同意收购 Barrenjoey Capital Partners，该交易对这家新贵澳大利亚投资银行的估值约为 16.2 亿澳元（11 亿美元）。]]></description>
         </item>
         <item>
             <title><![CDATA[全球股票交易商为伊朗影响做好准备，能源成为焦点]]></title>
@@ -62,7 +69,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-03-01/uae-stock-markets-to-close-for-two-days-on-iran-strikes-fallout</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-01/uae-stock-markets-to-close-for-two-days-on-iran-strikes-fallout</guid>
             <pubDate>Sun, 01 Mar 2026 17:45:56 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 阿拉伯联合酋长国表示，该海湾国家因伊朗对美国和以色列的空袭进行报复而多次遭受打击，该国两个主要市场将每周休市两天，以避免可能出现的崩溃。]]></description>
+            <description><![CDATA[[Bloomberg] 阿拉伯联合酋长国表示，其两个主要市场将每周休市两天，以避免因伊朗对美国和以色列的空袭进行报复而多次遭受打击后可能出现的崩溃。]]></description>
         </item>
         <item>
             <title><![CDATA[劳埃德·布兰克费恩论私人信贷风险]]></title>
@@ -243,14 +250,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-01/ex-goldman-ceo-fears-reckoning-as-private-credit-chases-main-street</guid>
             <pubDate>Sun, 01 Mar 2026 13:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 领导高盛集团渡过2008年金融危机的劳埃德·布兰克费恩(Lloyd Blankfein)现在敲响了警钟，因为华尔街将美国储户的资金引导到最新的放贷狂潮：私人信贷。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国、以色列、伊朗冲突可能持续长达一周]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-01/us-israel-iran-conflict-could-last-up-to-one-week-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-01/us-israel-iran-conflict-could-last-up-to-one-week-video</guid>
-            <pubDate>Sun, 01 Mar 2026 12:57:40 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 彭博情报高级防务分析师韦恩·桑德斯上校（退役）讨论了美国和以色列针对伊朗的持续打击的潜在持续时间和动态。
-  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[美国和以色列袭击伊朗，投资者寻求黄金避风港 - 路透中文网]]></title>
@@ -523,7 +522,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-02-28/us-job-growth-seen-moderating-after-robust-january</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-02-28/us-job-growth-seen-moderating-after-robust-january</guid>
             <pubDate>Sat, 28 Feb 2026 21:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在经历了一年中最强劲的招聘月份后，美国就业增长可能在 2 月份回落，恢复到更为温和且可能可持续的招聘步伐。]]></description>
+            <description><![CDATA[[Bloomberg] 在经历了一年中最强劲的招聘月份后，美国就业增长可能在 2 月份回落，恢复到更为温和且可能可持续的招聘速度。]]></description>
         </item>
         <item>
             <title><![CDATA[基辅称俄罗斯接受美国对乌克兰安全保证的计划 - 路透中文网]]></title>
@@ -652,7 +651,7 @@
             <description><![CDATA[[Reuters Business] 印度将迎来比平常更热的夏季，预计会有更多热浪天数 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[埃尔门乔被杀后，他的贩毒集团的权力在美国深处持续存在 - 路透中文网]]></title>
+            <title><![CDATA[埃尔曼乔被杀后，他的贩毒集团的权力在美国深处持续存在 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNendDd2d3am9td09Wa0QxcG1TQTl0UElReWpmbVFJenYzNGZwOVNLZW92SkxSNGVacjFXa1VEY1R5ZUZ0bWdjQmN6dE5wRlJhR1NYR09HY1ZVa1VKNWJ2NEJBMXhsYlB3Qm1EbFg5RjhIVjVFZlRKRzJVb2FPel9pbllfWGFneHJacjd1T05INC11em8zTUZqYzJROHRrZUNwMmtzVGs5ck8xcllIcFNEYzAyQnh6Vm9Da3JnaFdGMXVsdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNendDd2d3am9td09Wa0QxcG1TQTl0UElReWpmbVFJenYzNGZwOVNLZW92SkxSNGVacjFXa1VEY1R5ZUZ0bWdjQmN6dE5wRlJhR1NYR09HY1ZVa1VKNWJ2NEJBMXhsYlB3Qm1EbFg5RjhIVjVFZlRKRzJVb2FPel9pbllfWGFneHJacjd1T05INC11em8zTUZqYzJROHRrZUNwMmtzVGs5ck8xcllIcFNEYzAyQnh6Vm9Da3JnaFdGMXVsdw?oc=5</guid>
             <pubDate>Sat, 28 Feb 2026 11:03:11 GMT</pubDate>
@@ -711,7 +710,7 @@
             <title><![CDATA[美国和以色列发动袭击，伊朗领导人哈梅内伊在空袭中身亡 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGphRGktb1FqZHI5Slc3QkRKR1c2OXZWYVdtd240OXdMemc4aVk1OWFILWc5V2pZQXFRc2czVXRBdDBjZDFxUjJ2Uy1admNMeUpFdmFHc25TNTZpaFNsU3hVMUhvdEVacU5rOVZ6NERFM2JwbzRLNWdBWTZxQmllWE9rU1JYa2FsN214Q0E0V1k0SE55anBF?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGphRGktb1FqZHI5Slc3QkRKR1c2OXZWYVdtd240OXdMemc4aVk1OWFILWc5V2pZQXFRc2czVXRBdDBjZDFxUjJ2Uy1admNMeUpFdmFHc25TNTZpaFNsU3hVMUhvdEVacU5rOVZ6NERFM2JwbzRLNWdBWTZxQmllWE9rU1JYa2FsN214Q0E0V1k0SE55anBF?oc=5</guid>
-            <pubDate>Sat, 28 Feb 2026 07:37:00 GMT</pubDate>
+            <pubDate>Sat, 28 Feb 2026 07:37:01 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国和以色列发动袭击，伊朗领导人哈梅内伊在空袭中身亡 路透]]></description>
         </item>
     </channel>
