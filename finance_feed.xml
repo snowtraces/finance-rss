@@ -4,10 +4,66 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 06 Mar 2026 21:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 21:52:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国 2 月份失去了 92,000 个工作岗位，这表明就业市场在多个领域继续陷入困境]]></title>
+            <link>https://www.wsj.com/economy/jobs/february-jobs-report-unemployment-1d7d1a9b</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/jobs/february-jobs-report-unemployment-1d7d1a9b</guid>
+            <pubDate>Fri, 06 Mar 2026 21:34:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 就业人数低于预期，这表明几乎每个行业的就业市场都继续陷入困境。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥股市收低；截至收盘墨西哥S&P/BMV IPC指数下跌1.54%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3249561</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249561</guid>
+            <pubDate>Fri, 06 Mar 2026 21:30:56 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加拿大股市收低；截至收盘加拿大多伦多S&P/TSX 综合指数下跌1.57%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3249560</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249560</guid>
+            <pubDate>Fri, 06 Mar 2026 21:30:18 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[战争颠覆全球市场，特朗普要求伊朗投降]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-03-06/trump-demands-iran-surrender-war-upends-global-markets-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-06/trump-demands-iran-surrender-war-upends-global-markets-video</guid>
+            <pubDate>Fri, 06 Mar 2026 21:30:10 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着针对伊斯兰共和国的战争继续激烈进行，美国总统唐纳德·特朗普要求伊朗投降，其影响波及全球供应链和能源市场。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着伊朗战争冲击市场，华尔街的安全网正在崩溃]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-06/wall-street-s-safety-net-is-giving-way-as-iran-war-hits-markets</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/wall-street-s-safety-net-is-giving-way-as-iran-war-hits-markets</guid>
+            <pubDate>Fri, 06 Mar 2026 21:27:24 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 伊朗战争虽然令人不安，但本周并未让华尔街崩溃。 相反，它暴露了旨在缓冲投资者免受混乱影响的多元化策略的局限性。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚股市收低；截至收盘COLCAP下跌0.32%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3249557</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249557</guid>
+            <pubDate>Fri, 06 Mar 2026 21:25:24 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[就业报告疲软令华尔街感到不安 结束钟声]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-03-06/wall-street-rattled-by-weak-jobs-report-closing-bell-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-06/wall-street-rattled-by-weak-jobs-report-closing-bell-video</guid>
+            <pubDate>Fri, 06 Mar 2026 21:24:47 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Romaine Bostick、Katie Greifeld、Carol Massar 和 Tim Stenovec 在 Bloomberg Television、Bloomberg Radio 和 YouTube 上对美国市场进行全面跨平台报道。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯股市上涨；截至收盘MOEX Russia Index上涨1.01%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3249552</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249552</guid>
+            <pubDate>Fri, 06 Mar 2026 21:20:16 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[特朗普政府宣布200亿美元海上再保险计划 以应对伊朗战争]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3249538</link>
@@ -93,11 +149,18 @@
             <description><![CDATA[[Bloomberg] 据知情人士透露，Cerebras Systems Inc.已选择摩根士丹利牵头其首次公开募股，这家人工智能芯片制造商正在重新尝试上市。]]></description>
         </item>
         <item>
-            <title><![CDATA[华尔街监管机构讨论搬入同一建筑群]]></title>
+            <title><![CDATA[SEC 和 CFTC 讨论搬入同一建筑群]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-06/wall-street-regulators-discuss-moving-into-same-building-complex</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/wall-street-regulators-discuss-moving-into-same-building-complex</guid>
             <pubDate>Fri, 06 Mar 2026 20:19:39 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 据知情人士透露，华尔街的两位最高监管机构正在讨论搬入距美国国会大厦仅几步之遥的华盛顿同一栋建筑群的计划。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据彭博社报道，甲骨文和 OpenAI 结束了德克萨斯州数据中心扩建计划 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPbU5ORE8zNV9kUEstSm95enlabmNpcFBHR0EwSWZiMFl2a1BNSjJITkVNZFNSeFByQVFvUXFlYlhtRXJPbjA4Rm5wWnBPRnc2WU9jQnpVZkRKdDA3TXFqVTNKNllzaDE4WGsyREVVdlBNVVl4Qkktb0FJLXZxMWVid21ScHBmb1NRcHA1c1c4ODdzcUdqNmV5MzNpekp1MzBVcmxiLUpMeFFTLXhZblV6VVdKYy1uTHJ4Y3Zha0pR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxPbU5ORE8zNV9kUEstSm95enlabmNpcFBHR0EwSWZiMFl2a1BNSjJITkVNZFNSeFByQVFvUXFlYlhtRXJPbjA4Rm5wWnBPRnc2WU9jQnpVZkRKdDA3TXFqVTNKNllzaDE4WGsyREVVdlBNVVl4Qkktb0FJLXZxMWVid21ScHBmb1NRcHA1c1c4ODdzcUdqNmV5MzNpekp1MzBVcmxiLUpMeFFTLXhZblV6VVdKYy1uTHJ4Y3Zha0pR?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 20:18:27 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 据彭博社报道，甲骨文和 OpenAI 结束了扩建德克萨斯州数据中心站点的计划路透]]></description>
         </item>
         <item>
             <title><![CDATA[退役将军韦斯利·克拉克表示，伊朗战争“距离结束还很遥远”]]></title>
@@ -170,48 +233,6 @@
             <description><![CDATA[[WSJ] 劳动力市场疲软和能源价格上涨正在将央行推向相反的方向。]]></description>
         </item>
         <item>
-            <title><![CDATA[Baird因并购协同效应前景上调联合太平洋评级]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3249499</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249499</guid>
-            <pubDate>Fri, 06 Mar 2026 19:18:30 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德 $26B 私人信贷基金限制提款]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-06/blackrock-26b-private-credit-fund-limits-withdrawals-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-06/blackrock-26b-private-credit-fund-limits-withdrawals-video</guid>
-            <pubDate>Fri, 06 Mar 2026 19:13:31 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 彭博社记者奥利维亚·菲什洛 (Olivia Fishlow) 和詹姆斯·克龙比 (James Crombie) 与卡罗琳·海德 (Caroline Hyde) 和伊莎贝尔·李 (Isabelle Lee) 共同探讨“彭博真实收益率”。 在客户赎回请求激增后，贝莱德限制了其最大私人信贷基金之一的提款，这是投资者对 1.8 万亿美元私人信贷行业感到焦虑的最新迹象。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[油轮运价飙升迫使美国原油托运人使用小型船舶]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-06/surging-tanker-rates-push-us-crude-shippers-to-use-small-vessels</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/surging-tanker-rates-push-us-crude-shippers-to-use-small-vessels</guid>
-            <pubDate>Fri, 06 Mar 2026 19:11:42 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 为了将石油从美国墨西哥湾沿岸运输到亚洲，托运人采取了不同寻常的措施，预订小型船只，因为通常使用的大型油轮的成本飙升。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[倒闭的贷款机构 MFS 首席执行官的内部观察]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-06/inside-look-at-collapsed-lender-mfs-ceo-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-06/inside-look-at-collapsed-lender-mfs-ceo-video</guid>
-            <pubDate>Fri, 06 Mar 2026 19:06:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 彭博社的多纳尔·格里芬 (Donal Griffin) 与卡罗琳·海德 (Caroline Hyde) 和伊莎贝尔·李 (Isabelle Lee) 一起在“彭博实际收益率”节目中讨论了市场金融解决方案的崩溃。 创始人 Paresh Raja 已退出公众视野，他的下落成为围绕 2 月 25 日 MFS 突然解散的众多问题之一。（来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科威特据悉削减石油产量 伊朗冲突外溢冲击加剧]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3249495</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249495</guid>
-            <pubDate>Fri, 06 Mar 2026 19:05:33 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴西反垄断监管机构批准将 Braskem 股份出售给 IG4]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-06/brazil-antitrust-regulator-clears-sale-of-braskem-shares-to-ig4</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/brazil-antitrust-regulator-clears-sale-of-braskem-shares-to-ig4</guid>
-            <pubDate>Fri, 06 Mar 2026 19:03:34 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 巴西反垄断机构已批准一项拟议交易，该交易将允许资产管理公司 IG4 Capital 收购石化生产商 Braskem SA 的控股权。]]></description>
-        </item>
-        <item>
             <title><![CDATA[波士顿联储行长柯林斯主张维持利率稳定]]></title>
             <link>https://www.wsj.com/economy/central-banking/boston-fed-president-collins-argues-for-holding-rates-steady-30ea86c9</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/boston-fed-president-collins-argues-for-holding-rates-steady-30ea86c9</guid>
@@ -226,11 +247,11 @@
             <description><![CDATA[[Reuters Business] 据彭博社报道，特朗普与习近平峰会之前，波音公司已获得接近 500 架喷气式飞机订单 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[波音据报即将与中国达成500架飞机订单,特朗普访华前夕]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3249490</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249490</guid>
-            <pubDate>Fri, 06 Mar 2026 18:50:40 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[在官员称赞采矿潜力后，美国允许委内瑞拉进行部分黄金交易 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1p4Um9ZVnFQZHY5MExOS2puc01mS28wdjFUU1ZGVDBQRGNaRDFqS240M1l4c0VCN3pKRE1TeU5DTDFsNmxfcFZzWXctSEd0ckotQTBnS1prLWxMcnVJby1zenJvOXZiRzhqQXMxYWthWHN5YVFKa1pvcXplTVdYV0FSUzVvaFdrMnFsY3pQcEQxWUJRaU9HTnM2bDRDLTlPUURHRGtLdVdraXkwUXlrQWVOZUItalFuanY0WjFpUFA2S056T3Q0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1p4Um9ZVnFQZHY5MExOS2puc01mS28wdjFUU1ZGVDBQRGNaRDFqS240M1l4c0VCN3pKRE1TeU5DTDFsNmxfcFZzWXctSEd0ckotQTBnS1prLWxMcnVJby1zenJvOXZiRzhqQXMxYWthWHN5YVFKa1pvcXplTVdYV0FSUzVvaFdrMnFsY3pQcEQxWUJRaU9HTnM2bDRDLTlPUURHRGtLdVdraXkwUXlrQWVOZUItalFuanY0WjFpUFA2S056T3Q0?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 18:46:17 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 在官方称赞采矿潜力后，美国允许委内瑞拉黄金的部分交易 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[美联储理事米兰表示二月份失业增加了进一步降息的理由]]></title>
@@ -247,18 +268,18 @@
             <description><![CDATA[[Reuters Business] 石油衍生品交易商认为中东冲击是短暂的 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[美国证券交易委员会希望您停止申请 5 倍杠杆 ETF]]></title>
-            <link>https://www.bloomberg.com/news/newsletters/2026-03-06/sec-to-issuers-stop-filing-for-5x-leveraged-etfs</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-03-06/sec-to-issuers-stop-filing-for-5x-leveraged-etfs</guid>
-            <pubDate>Fri, 06 Mar 2026 18:02:47 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 5 倍杠杆 ETF 在 SEC 遭遇阻力]]></description>
-        </item>
-        <item>
             <title><![CDATA[格里尔和勒布朗在 USMCA 国家准备会谈之际会面]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-06/greer-leblanc-meet-in-washington-as-usmca-preparations-ramp-up</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/greer-leblanc-meet-in-washington-as-usmca-preparations-ramp-up</guid>
             <pubDate>Fri, 06 Mar 2026 18:01:08 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 美国贸易代表杰米森·格里尔和加美贸易部长多米尼克·勒布朗周五在华盛顿会面，这是两人几个月来的首次高层面对面会谈。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[交易商警告称，如果伊朗战争继续肆虐，油价即将跌至100美元]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-06/traders-warn-100-oil-is-imminent-if-iran-war-keeps-raging</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/traders-warn-100-oil-is-imminent-if-iran-war-keeps-raging</guid>
+            <pubDate>Fri, 06 Mar 2026 17:59:03 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 全球能源市场有史以来最严重的混乱之一已经过去一周，油价仍远低于之前危机时的水平。 但越来越多的能源高管和交易员齐声警告称，战争每一天的爆发都会让世界更接近一个转折点——一些人预测几天之内原油价格将跌至 100 美元。]]></description>
         </item>
         <item>
             <title><![CDATA[美伊战争暴露了巨大的市场集中风险。 它不在标准普尔 500 指数股票中]]></title>
@@ -268,25 +289,11 @@
             <description><![CDATA[[CNBC] 美伊战争导致油价飙升，导致新兴市场波动，也显示出新兴市场资金在亚洲经济体的集中程度。]]></description>
         </item>
         <item>
-            <title><![CDATA[美股异动 | Mini Med Group(MMED.US)登陆美股市场 开盘跌1.85%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3249446</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249446</guid>
-            <pubDate>Fri, 06 Mar 2026 17:36:11 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[中午涨幅最大的股票：Marvell Technology、BlackRock、United Airlines、CF Industries 等]]></title>
             <link>https://www.cnbc.com/2026/03/06/stocks-making-the-biggest-moves-midday-mrvl-blk-ual-cf.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/03/06/stocks-making-the-biggest-moves-midday-mrvl-blk-ual-cf.html</guid>
             <pubDate>Fri, 06 Mar 2026 17:30:04 GMT</pubDate>
             <description><![CDATA[[CNBC] 这些是午盘交易中涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国 2 月份失去了 92,000 个工作岗位，这表明就业市场在多个领域继续陷入困境]]></title>
-            <link>https://www.wsj.com/economy/jobs/february-jobs-report-unemployment-1d7d1a9b</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/jobs/february-jobs-report-unemployment-1d7d1a9b</guid>
-            <pubDate>Fri, 06 Mar 2026 17:23:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 就业人数低于预期，这表明几乎每个行业的就业市场都继续陷入困境。]]></description>
         </item>
         <item>
             <title><![CDATA[美敦力 (Medtronic) 子公司 MiniMed 首次公开募股 5.6 亿美元后股价下跌 8%]]></title>
@@ -392,6 +399,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3NLWW13YmFsZTVrdExWZjItOXR2UWhmRnVDTlYxSE5yd3BSRllmTmZHODNESjFfVVZlWnVGblVkeWZjR2E5Z2lLUXJqQjhmaE5qZU9XY3ZQcGNSeTVyU3lUQlB4SnZkbmEyVlVTS3piZVpsUTI4SXVUWW9jd3U3V0Q4QlpSUGNyX1ZKeHJTcW1DUmk3QlhRcHdHQm5wRVVTNTBkY0ZhVExfbjh4WWZEbGp2X2ZCaHBTUElSY1lxZ1I?oc=5</guid>
             <pubDate>Fri, 06 Mar 2026 15:05:44 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 交易商称，俄罗斯乌拉尔石油价格在印度市场首次超过布伦特原油 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[交易撮合者认为伊朗战争阻碍了并购进程的拖延和勤勉]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-06/dealmakers-see-iran-war-stymieing-m-a-with-delays-diligence</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/dealmakers-see-iran-war-stymieing-m-a-with-delays-diligence</guid>
+            <pubDate>Fri, 06 Mar 2026 15:00:29 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 交易撮合者连续第二年看到，创纪录的并购数量的机会可能会在第一季度末之前消失。]]></description>
         </item>
         <item>
             <title><![CDATA[美国机构将与 Waymo、Zoox、Aurora 首席执行官举行自动驾驶安全论坛 - 路透中文网]]></title>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQQk13ZENWOExwR253N0tZaVZaZGVycDk0c1NFM083SzVoblRhV01VX19YQmNaT29NVHBUSFlRM3JQM01MX2pUY1RFRkcwbG9ncU9jaDVDbElNM3ZDT1hkZEE2aDJ6NFJQRlZZR3RNbjY2ZTdOa2F3SjlZU0VaVVpvOEdVVUIxVDd4U09FemF2TFNLc3huaE5LRGpjVERPZFZZdjhwZnV2N0Vvd2Y3RlE?oc=5</guid>
             <pubDate>Fri, 06 Mar 2026 07:04:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Sleijpen 表示，油价飙升并没有破坏欧洲央行的“好地方” 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[富裕的莫斯科削减投资，暴露俄罗斯更深层次的预算问题 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkdkaDZPNjZrb05GMjRWcVpvaUdtR1NaYnplTDM3cGdUR0FrZWUyd1FZZkNXT3ZkQm90TWZlN0hkLW5JN3FKSWYwS2VHdzliODNkYzZodVQzbXdMT0YtclZaNzlVeVBuZWVpZmlOaUhPc2FYVmpCWFFTMDMyQ01QSGZsd21PaTQ3cVlqUVZnVnJEV0N3SE13N0stXzd2TEkyMk1nM0paUHVMdml0RjBtZHg2TUtiVmM?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkdkaDZPNjZrb05GMjRWcVpvaUdtR1NaYnplTDM3cGdUR0FrZWUyd1FZZkNXT3ZkQm90TWZlN0hkLW5JN3FKSWYwS2VHdzliODNkYzZodVQzbXdMT0YtclZaNzlVeVBuZWVpZmlOaUhPc2FYVmpCWFFTMDMyQ01QSGZsd21PaTQ3cVlqUVZnVnJEV0N3SE13N0stXzd2TEkyMk1nM0paUHVMdml0RjBtZHg2TUtiVmM?oc=5</guid>
-            <pubDate>Fri, 06 Mar 2026 06:02:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 富裕的莫斯科削减投资，暴露俄罗斯更深层次的预算问题 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，随着中东出口大幅下降，亚洲难以找到燃料油 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmNKWnNOdk1DQ0tWRjU4TzdDbkZfQTkwZTRPNjFVaVZVSmVWUklBZzdEVmVFVnlZNkhobzJfclR6QjIwNWtjZTdhSDNIekhKQXVkUTZLTmVMRHkxYnFsOHBrX2NZVUxFX0xrdDhtQXd4NHBndWktd2N1LUc3a1hwTGRscVczZGk2ejFIc3lOUUJxSkRacXZVWWxteHN6Mm5KOVl5MTJ6M193RXdJVWQyc0ZIaHBrbGNQcUJDVA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPSmNKWnNOdk1DQ0tWRjU4TzdDbkZfQTkwZTRPNjFVaVZVSmVWUklBZzdEVmVFVnlZNkhobzJfclR6QjIwNWtjZTdhSDNIekhKQXVkUTZLTmVMRHkxYnFsOHBrX2NZVUxFX0xrdDhtQXd4NHBndWktd2N1LUc3a1hwTGRscVczZGk2ejFIc3lOUUJxSkRacXZVWWxteHN6Mm5KOVl5MTJ6M193RXdJVWQyc0ZIaHBrbGNQcUJDVA?oc=5</guid>
-            <pubDate>Fri, 06 Mar 2026 05:52:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 消息人士称，随着中东出口大幅下降，亚洲难以找到燃料油 路透]]></description>
         </item>
     </channel>
 </rss>
