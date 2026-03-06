@@ -4,78 +4,134 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 06 Mar 2026 04:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 05:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[万亿美元市场令华尔街风声鹤唳! 高盛传奇CEO警告：私募信贷风险像极了2008年前夕]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247824</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247824</guid>
-            <pubDate>Fri, 06 Mar 2026 03:43:24 GMT</pubDate>
+            <title><![CDATA[全球基金以四年来最快速度从亚洲撤资]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-06/global-funds-pull-money-from-asia-at-fastest-pace-in-four-years</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/global-funds-pull-money-from-asia-at-fastest-pace-in-four-years</guid>
+            <pubDate>Fri, 06 Mar 2026 05:10:40 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着伊朗冲突升级引发全球市场风险重新评估，海外投资者正以近四年来最快的速度从亚洲新兴股市撤资。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新兴货币和股市将迎来大流行以来最糟糕的一周]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-06/emerging-currencies-equities-set-for-worst-week-since-pandemic</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/emerging-currencies-equities-set-for-worst-week-since-pandemic</guid>
+            <pubDate>Fri, 06 Mar 2026 05:07:28 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 新兴市场股市和货币预计将出现 2020 年疫情最严重时期以来的最大单周跌幅。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[土耳其斥资 120 亿美元保护里拉免受战争引发的动乱]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-06/turkey-spends-12-billion-to-defend-lira-from-war-fueled-turmoil</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/turkey-spends-12-billion-to-defend-lira-from-war-fueled-turmoil</guid>
+            <pubDate>Fri, 06 Mar 2026 05:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在伊朗战争引发全球市场波动的一周内，土耳其花费了 120 亿美元（约相当于其外汇储备的 15%）来保持里拉稳定。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于顶级出口工厂仍处于关闭状态，卡塔尔提出租赁液化天然气油轮]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-06/qatar-offers-to-lease-lng-tankers-as-top-export-plant-stays-shut</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/qatar-offers-to-lease-lng-tankers-as-top-export-plant-stays-shut</guid>
+            <pubDate>Fri, 06 Mar 2026 04:51:05 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 卡塔尔正在提供至少两艘由其控制的液化天然气油轮出租，因为该国在波斯湾的大型出口设施由于中东持续的战争而仍然关闭。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[软银寻求最高400亿美元贷款为OpenAI投资提供资金]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247982</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247982</guid>
+            <pubDate>Fri, 06 Mar 2026 04:48:39 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[Anthropic正式回应：就“供应链风险”认定，将起诉美国国防部]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247915</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247915</guid>
-            <pubDate>Fri, 06 Mar 2026 03:36:09 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织准备帮助受中东石油危机挤压的经济体]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-06/imf-says-ready-to-help-economies-squeezed-by-mideast-oil-shock</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/imf-says-ready-to-help-economies-squeezed-by-mideast-oil-shock</guid>
+            <pubDate>Fri, 06 Mar 2026 04:39:54 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 国际货币基金组织表示，由于中东冲突的不确定性加剧，它随时准备协助面临国际收支问题的国家。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[胰岛素泵与CGM领军者MiniMed(MMED.US)登陆美股 “美敦力光环”难抵消增长疑虑]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247975</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247975</guid>
+            <pubDate>Fri, 06 Mar 2026 04:36:09 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[一文讲清！“天然棉”or“柔韧纤”，看懂洗脸巾差异更会选]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247914</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247914</guid>
-            <pubDate>Fri, 06 Mar 2026 03:35:49 GMT</pubDate>
+            <title><![CDATA[中东战火切断供应，美国出口商喜迎估值修复！Antero(AR.US)获Benchmark上调评级至“买入”]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247974</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247974</guid>
+            <pubDate>Fri, 06 Mar 2026 04:36:09 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[纽商所频拔网线失信誉 专家警告贵金属市场已进入根本性重置]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247912</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247912</guid>
-            <pubDate>Fri, 06 Mar 2026 03:35:28 GMT</pubDate>
+            <title><![CDATA[千亿液冷赛道爆发！全国人大代表、传化集团徐冠巨建议抢占全球算力散热制高点]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247973</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247973</guid>
+            <pubDate>Fri, 06 Mar 2026 04:35:49 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[港股创新药企借力政策东风 药捷安康和宜明昂科均涨超13%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247911</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247911</guid>
-            <pubDate>Fri, 06 Mar 2026 03:35:28 GMT</pubDate>
+            <title><![CDATA[港股恒生科指午盘涨近4% 科网股反弹助力市场回暖]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247971</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247971</guid>
+            <pubDate>Fri, 06 Mar 2026 04:35:25 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[国泰海通证券：维持IFBH(06603)“增持”评级 IF品牌继续强劲]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247908</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247908</guid>
-            <pubDate>Fri, 06 Mar 2026 03:35:14 GMT</pubDate>
+            <title><![CDATA[警惕！伊朗只是引信，韩国股市暴跌才是全球市场的“定时炸弹”]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247967</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247967</guid>
+            <pubDate>Fri, 06 Mar 2026 04:35:09 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[港股异动 | 潍柴动力(02338)再涨近3% 国内柴发自主厂商加速出海 产品交付价格及盈利均有提升空间]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247907</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247907</guid>
-            <pubDate>Fri, 06 Mar 2026 03:35:13 GMT</pubDate>
+            <title><![CDATA[名创优品(09896)3月5日耗资约23.12万美元回购约5.56万股]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247966</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247966</guid>
+            <pubDate>Fri, 06 Mar 2026 04:35:09 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[港股异动 | 中信资源(01205)涨超5% 出售美国铝业股份套现约9.26亿港元]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247906</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247906</guid>
-            <pubDate>Fri, 06 Mar 2026 03:35:13 GMT</pubDate>
+            <title><![CDATA[龙资源(01712)：Uunimaki钻探活动取得优质的结果]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247965</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247965</guid>
+            <pubDate>Fri, 06 Mar 2026 04:35:08 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[国泰海通：政策激发消费内生动力 建议把握政策与基本面共振四条主线]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247905</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247905</guid>
-            <pubDate>Fri, 06 Mar 2026 03:35:13 GMT</pubDate>
+            <title><![CDATA[数百万桶俄罗斯石油已经接近印度]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-06/millions-of-barrels-of-russian-oil-are-already-close-to-india</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/millions-of-barrels-of-russian-oil-are-already-close-to-india</guid>
+            <pubDate>Fri, 06 Mar 2026 04:33:54 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 超过1500万桶俄罗斯石油漂浮在印度附近，在美国颁发临时许可证允许购买后，印度可以快速解决中东供应短缺问题。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亚洲股市因伊朗冲突和油价飙升本周将大幅下跌]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247963</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247963</guid>
+            <pubDate>Fri, 06 Mar 2026 04:20:16 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[EQT再扩美国物流版图! 豪掷5.75亿美元拿下东海岸仓库 聚焦电商与物流红利]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3247904</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247904</guid>
-            <pubDate>Fri, 06 Mar 2026 03:35:12 GMT</pubDate>
+            <title><![CDATA[一艘船如何在伊朗战争中航行霍尔木兹]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-03-06/how-one-ship-navigated-hormuz-amid-iran-war-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-06/how-one-ship-navigated-hormuz-amid-iran-war-video</guid>
+            <pubDate>Fri, 06 Mar 2026 04:14:33 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 本周，当船只试图确保安全通过霍尔木兹海峡时，一艘散货船在过境时发出信号称其为中国所有。 根据船舶跟踪数据，铁娘子号将其目的地信号更改为“中国所有者”。   （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[创业板低开高走半日涨0.85%，智能电网再掀涨停潮，恒科指大爆发涨超3%，京东涨超8% - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuVjhZTTBDWFdNY3ZseGRWSHM0ZV9RamZqNHB6bzhlLTRBYjgtSExwWkFPaGpxNXZRcXNJSWF6SWJPWkR5bl90emdIckJDd0Nvc053?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuVjhZTTBDWFdNY3ZseGRWSHM0ZV9RamZqNHB6bzhlLTRBYjgtSExwWkFPaGpxNXZRcXNJSWF6SWJPWkR5bl90emdIckJDd0Nvc053?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 04:06:20 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 创业板低开高走半日涨0.85%，智能电网再掀涨停潮，恒科指大爆发涨超3%，京东涨超8%  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[理财掘金多资产①|理财配置黄金已超百亿，黄金股性价比被看好]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3247949</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3247949</guid>
+            <pubDate>Fri, 06 Mar 2026 04:05:29 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -93,18 +149,18 @@
             <description><![CDATA[[财新网] 李小加谈RWA：代币化不能降低真实世界底层资产风险  Caixin.com]]></description>
         </item>
         <item>
-            <title><![CDATA[战争凸显石油依赖，亚洲垃圾债券表现落后]]></title>
+            <title><![CDATA[伊朗战争暴露对石油的依赖，亚洲垃圾债券表现不佳]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-06/asian-junk-bonds-trail-peers-as-war-spotlights-oil-dependence</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/asian-junk-bonds-trail-peers-as-war-spotlights-oil-dependence</guid>
             <pubDate>Fri, 06 Mar 2026 03:15:19 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 与全球同类债券相比，亚洲高收益美元债券受到的打击尤为严重，因为不断升级的伊朗冲突凸显了该地区对进口能源的依赖，与美国形成鲜明对比。]]></description>
         </item>
         <item>
-            <title><![CDATA[电装提出 80 亿美元收购要约，罗姆股价将飙升]]></title>
+            <title><![CDATA[电装出价 80 亿美元，罗姆股价将飙升]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-06/denso-offered-to-buy-chipmaker-rohm-for-8-billion-nikkei-says</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/denso-offered-to-buy-chipmaker-rohm-for-8-billion-nikkei-says</guid>
             <pubDate>Fri, 06 Mar 2026 03:14:48 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在《日经新闻》报道 Denso Corp. 已采取收购措施，对该芯片制造商的估值约为 1.3 万亿日元（83 亿美元）后，罗姆公司股价周五在东京交易中将上涨至涨停板。]]></description>
+            <description><![CDATA[[Bloomberg] 在《日经新闻》报道 Denso Corp. 采取收购措施、对这家芯片制造商的估值约为 1.3 万亿日元（83 亿美元）后，罗姆公司的股价将在东京涨停。]]></description>
         </item>
         <item>
             <title><![CDATA[为什么中国的目标是“有质量”的增长和支出控制]]></title>
@@ -119,6 +175,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/ta-associates-said-to-be-considering-sale-of-bubble-tea-maker-gong-cha</guid>
             <pubDate>Fri, 06 Mar 2026 03:07:01 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 据知情人士透露，TA Associates 正在考虑出售珍珠奶茶制造商贡茶。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[台湾富士康表示，每个人都会感受到长期伊朗冲突的影响 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGN2RzJ2NXdQWmJ6U2l3T2dLZktxdml5SU5HU0hOVDlIV0gyaEFQZmt6TzY1Wmx0Y01qTWd3N2VFWHBUZGJfQVpVTWVjMGUtblFYSmJZNzVCU0VNMlJxQTZnQUZBOUFKVFo3TUxnYnNNOXdKQ3lRMzZIcWo1d1ZOYjZXVzI0cUQ1dS1oOVQ1UVRGQmdhdW5BaDcza0VUdlhWYncyR3dhdGgzd2oxZmtFLWtFSmgwUUdRSTFZS19R?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGN2RzJ2NXdQWmJ6U2l3T2dLZktxdml5SU5HU0hOVDlIV0gyaEFQZmt6TzY1Wmx0Y01qTWd3N2VFWHBUZGJfQVpVTWVjMGUtblFYSmJZNzVCU0VNMlJxQTZnQUZBOUFKVFo3TUxnYnNNOXdKQ3lRMzZIcWo1d1ZOYjZXVzI0cUQ1dS1oOVQ1UVRGQmdhdW5BaDcza0VUdlhWYncyR3dhdGgzd2oxZmtFLWtFSmgwUUdRSTFZS19R?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 03:03:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 台湾富士康表示，每个人都会感受到伊朗长期冲突的影响 路透]]></description>
         </item>
         <item>
             <title><![CDATA[泰克集团将于 2026 年向韩国锌业收取更多银、锗费用]]></title>
@@ -142,6 +205,20 @@
             <description><![CDATA[[Bloomberg] KKR & Co. 将收购韩国可再生能源公司 SK Eternix Co. 3,480 亿韩元（2.35 亿美元）的股份，加强其气候和环境投资，并强调其在伊朗战争导致市场波动的情况下进行交易的兴趣。]]></description>
         </item>
         <item>
+            <title><![CDATA[由于美国可能干预期货市场并豁免俄罗斯采购，油价下跌 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlB3dnZBWExHanFHYld3WmJtUE9fUTFYcnJ4cWUxVk5oclpTSldNX2lpU1g0dmxfenFXM1pPdXRLdWxSSzNIOVp0NVFEd0k1ZmZoTkJfaUQwRGNySmVSUFFhYmtyX0lobDR4aGtJcGUyTkpycFBRRlhzRkZ0ZUtfOURzOUJCcnlFaExEV0Z6NmZzODdiZGZRNGgzN2FYM01MUkJxWGJhdm03VmdOdGhITk1tZFYzTlE0SDd0WWRIVlJHM1k?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlB3dnZBWExHanFHYld3WmJtUE9fUTFYcnJ4cWUxVk5oclpTSldNX2lpU1g0dmxfenFXM1pPdXRLdWxSSzNIOVp0NVFEd0k1ZmZoTkJfaUQwRGNySmVSUFFhYmtyX0lobDR4aGtJcGUyTkpycFBRRlhzRkZ0ZUtfOURzOUJCcnlFaExEV0Z6NmZzODdiZGZRNGgzN2FYM01MUkJxWGJhdm03VmdOdGhITk1tZFYzTlE0SDd0WWRIVlJHM1k?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 02:57:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 由于美国可能干预期货市场、对俄罗斯购买豁免，油价下跌 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[记者律师称，美国 ICE 在纳什维尔无逮捕令的情况下逮捕了记者 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNZG5NRURqaEdJR0NRcDg4YWEtUXBSMjNrcVZnZEhyYUd1Z3JBdmdnWnU3OHNCYmQzRW5taDZabHR5SDZRblAweE02TlFEOENmQTI3MHpqZW5RVHkzeWxiYTVBNEVuMXlLaURpQ0NmenFnYkRUUV9xQVBPYkNhZ3ZRd2ZaYTYza2k3OEo0ZTg0Z2xDTWU3blFlS3F3RmJwRGwxQmRDSFhQaGhFSzNzUjM2TnpTenozQTU2RkxmeEZlbzhuTWxzQ1JPbC1veGxpd3c?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxNZG5NRURqaEdJR0NRcDg4YWEtUXBSMjNrcVZnZEhyYUd1Z3JBdmdnWnU3OHNCYmQzRW5taDZabHR5SDZRblAweE02TlFEOENmQTI3MHpqZW5RVHkzeWxiYTVBNEVuMXlLaURpQ0NmenFnYkRUUV9xQVBPYkNhZ3ZRd2ZaYTYza2k3OEo0ZTg0Z2xDTWU3blFlS3F3RmJwRGwxQmRDSFhQaGhFSzNzUjM2TnpTenozQTU2RkxmeEZlbzhuTWxzQ1JPbC1veGxpd3c?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 02:56:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 记者的律师称，美国 ICE 在纳什维尔无逮捕令的情况下逮捕了记者 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[摩根士丹利下调评级给印度股市带来新的打击]]></title>
             <link>https://www.bloomberg.com/news/newsletters/2026-03-06/morgan-stanley-downgrades-india-fiis-dump-1-3-billion-of-stocks-in-two-days</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-03-06/morgan-stanley-downgrades-india-fiis-dump-1-3-billion-of-stocks-in-two-days</guid>
@@ -161,6 +238,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/rate-cut-bets-are-unraveling-across-developing-asia-on-oil-surge</guid>
             <pubDate>Fri, 06 Mar 2026 02:20:27 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 随着交易员加大对伊朗战争引发的石油冲击的押注，亚洲发展中国家的央行正面临着政策前景的突然转变，加剧了在最近一次危机之前就已经存在的通胀压力。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[油价美元涨、股价下跌！市场开始“施压”特朗普 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iR3hZcHRyZFhhNm9mSGFjZHdqdm83R2ZmX3pMWER0a2QxdnVpQjFseElLWGcxOXg0OTUyTHB3VDdUUzdxTnJjNDFDeFAwdGpySmxv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iR3hZcHRyZFhhNm9mSGFjZHdqdm83R2ZmX3pMWER0a2QxdnVpQjFseElLWGcxOXg0OTUyTHB3VDdUUzdxTnJjNDFDeFAwdGpySmxv?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 02:18:55 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 油价美元涨、股价下跌！市场开始“施压”特朗普  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[摩根士丹利对亚洲股市变得更加谨慎，削减印度股票]]></title>
@@ -226,20 +310,6 @@
             <description><![CDATA[[Bloomberg] 被印度近 4 万亿美元经济所吸引的全球银行发现，进入印度是有代价的：有限的控制、长期的回报以及需要非常规的交易结构。]]></description>
         </item>
         <item>
-            <title><![CDATA[菲律宾考虑缩短每周工作时间、减少空调使用量以节省能源]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-06/philippines-mulls-shorter-work-week-using-less-air-con-to-save-on-energy-costs</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/philippines-mulls-shorter-work-week-using-less-air-con-to-save-on-energy-costs</guid>
-            <pubDate>Fri, 06 Mar 2026 01:06:46 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着中东紧张局势推高全球燃料成本，菲律宾正在寻找节省能源的方法，政府建议人们减少使用空调并避免不必要的旅行。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[债券交易员搜寻就业数据以衡量美联储在石油危机中的路径]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-06/bond-traders-scour-jobs-data-to-gauge-fed-path-amid-oil-shock</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/bond-traders-scour-jobs-data-to-gauge-fed-path-amid-oil-shock</guid>
-            <pubDate>Fri, 06 Mar 2026 01:00:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 自伊朗战争爆发以来一直关注通胀的债券投资者表示，美国月度就业报告的意外结果可能会颠覆他们对美联储降息的预期。]]></description>
-        </item>
-        <item>
             <title><![CDATA[稳定经济的承诺帮助特朗普总统在 2024 年赢得了选民的支持。在中期选举前几个月，对伊朗的袭击可能会削弱这种支持。]]></title>
             <link>https://www.wsj.com/economy/consumers/how-war-in-iran-is-colliding-with-trumps-economic-priorities-42b7c165</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/consumers/how-war-in-iran-is-colliding-with-trumps-economic-priorities-42b7c165</guid>
@@ -254,39 +324,11 @@
             <description><![CDATA[[华尔街见闻] 霍尔木兹海峡卡住的不只是“原油”，或许还有“芯片”  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[美敦力 (Medtronic) 部门在美国 IPO 中筹集 5.6 亿美元，定价低于区间]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-06/medtronic-unit-raises-560-million-in-us-ipo-priced-below-range</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/medtronic-unit-raises-560-million-in-us-ipo-priced-below-range</guid>
-            <pubDate>Fri, 06 Mar 2026 00:38:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] MiniMed Group Inc. 是一家糖尿病管理公司，将从医疗保健巨头美敦力公司 (Medtronic Plc) 中分离出来，该公司在美国首次公开募股中筹集了 5.6 亿美元，发行价格低于其上市价格。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[布伦特原油价格达到 100 美元的“可能”情景：高盛的 Dart]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-06/brent-at-100-dollars-possible-scenario-goldman-s-dart-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-06/brent-at-100-dollars-possible-scenario-goldman-s-dart-video</guid>
-            <pubDate>Fri, 06 Mar 2026 00:37:56 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 高盛天然气研究主管 Samantha Dart 表示，如果霍尔木兹海峡石油供应中断数周，布伦特原油价格突破 100 美元门槛的情况是“有可能”的。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高盛表示石油市场尚未对美国霍尔木兹措施充满信心]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-06/goldman-says-oil-market-not-yet-confident-in-us-hormuz-measures</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/goldman-says-oil-market-not-yet-confident-in-us-hormuz-measures</guid>
-            <pubDate>Fri, 06 Mar 2026 00:31:06 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 高盛集团表示，“人们对美国保护霍尔木兹海峡石油和天然气油轮的安全措施能否解决当前局势“没有太大信心”。]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国给予印度进口俄罗斯石油临时豁免]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-06/us-issues-license-to-allow-some-russian-oil-sales-to-india-mme5qix4</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/us-issues-license-to-allow-some-russian-oil-sales-to-india-mme5qix4</guid>
             <pubDate>Fri, 06 Mar 2026 00:29:42 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 美国为印度暂时增加购买俄罗斯石油扫清了道路，扭转了全球第三大原油进口国数月来因波斯湾冲突升级扰乱能源流动而承受的压力。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴西国家石油公司产量超出预期，因石油滑坡而产量下降]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-06/petrobras-tops-estimates-after-strong-output-offsets-price-drop</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/petrobras-tops-estimates-after-strong-output-offsets-price-drop</guid>
-            <pubDate>Fri, 06 Mar 2026 00:05:48 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 巴西国家控股的石油生产商巴西国家石油公司(Petrobras)的利润超出预期，强劲的石油产量和创纪录的出口有助于缓解原油价格疲软的影响。]]></description>
         </item>
         <item>
             <title><![CDATA[在欧中企限制更严，或将导致“多输”局面，欧盟公布法案强推“欧盟制造” - 华尔街见闻]]></title>
@@ -338,7 +380,7 @@
             <description><![CDATA[[CNBC] 这些是在盘中交易中涨幅最大的股票。]]></description>
         </item>
         <item>
-            <title><![CDATA[由于中东战争，石油价格将迎来 2022 年以来最大单周涨幅]]></title>
+            <title><![CDATA[中东战争席卷市场，石油大国每周上涨 17%]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-05/latest-oil-market-news-and-analysis-for-march-6</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-05/latest-oil-market-news-and-analysis-for-march-6</guid>
             <pubDate>Thu, 05 Mar 2026 23:04:02 GMT</pubDate>
@@ -359,6 +401,13 @@
             <description><![CDATA[[华尔街见闻] 非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[美国会众议院否决一项限制美总统发动军事行动权限的议案 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MNmd6eHAxTThQMmVxRVVHVnUxc3JRT2hrNkYxMjBTVDNseDBjRmR2UXBnam1CSHFHTDl4aVJyNHFhVDd2U2JsNjVtRXk2VlFhODh3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MNmd6eHAxTThQMmVxRVVHVnUxc3JRT2hrNkYxMjBTVDNseDBjRmR2UXBnam1CSHFHTDl4aVJyNHFhVDd2U2JsNjVtRXk2VlFhODh3?oc=5</guid>
+            <pubDate>Thu, 05 Mar 2026 22:50:04 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 美国会众议院否决一项限制美总统发动军事行动权限的议案  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[担忧清单越来越长，存储价格还能涨多久？ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TLWtMNlRDQThORXU2aE9QY3I0NF80TEd0UmRxM294UFYyaWtIdzVWNW04OTNubDJ4OFV2djdqRWpwSmNWYVdwTGxPSU9ySUpFdjdF?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TLWtMNlRDQThORXU2aE9QY3I0NF80TEd0UmRxM294UFYyaWtIdzVWNW04OTNubDJ4OFV2djdqRWpwSmNWYVdwTGxPSU9ySUpFdjdF?oc=5</guid>
@@ -373,6 +422,13 @@
             <description><![CDATA[[华尔街见闻] 美油创近六年最大涨幅，特朗普说不担心，高官称研究所有压价选择，财政部或首次下场  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[South Bow 采取行动，通过具有约束力的托运人承诺，恢复 Keystone XL 的部分业务 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEtreVBQUDNNY1NaVTRvZ1A5VEl2a3FyRmo0QjhiZWNOQ2hWQlM4ZUJJaUFmWThWc0RDNnpwcGE5S3dhcUxsa1M1UFdRSm9NZjdFSVY0bjNiWVUxdUg0NEJMSjhnbWc0Qks5QU9OYzBBRnF0WnVOcV9TaVNfVGdJZl9Ja3BfTkJWRFRpVndyV0diUlB1M1VQYWZIMEd3TDZuSGZoLXd3UlBiZEJEY04xYUFLQ1UwTHp0aXc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEtreVBQUDNNY1NaVTRvZ1A5VEl2a3FyRmo0QjhiZWNOQ2hWQlM4ZUJJaUFmWThWc0RDNnpwcGE5S3dhcUxsa1M1UFdRSm9NZjdFSVY0bjNiWVUxdUg0NEJMSjhnbWc0Qks5QU9OYzBBRnF0WnVOcV9TaVNfVGdJZl9Ja3BfTkJWRFRpVndyV0diUlB1M1VQYWZIMEd3TDZuSGZoLXd3UlBiZEJEY04xYUFLQ1UwTHp0aXc?oc=5</guid>
+            <pubDate>Thu, 05 Mar 2026 22:33:46 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] South Bow 采取行动，通过具有约束力的托运人承诺来恢复 Keystone XL 的部分业务 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[亚洲股市抹去损失，美元和石油下跌：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-05/asian-stocks-to-fall-oil-climbs-as-conflict-rages-markets-wrap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-05/asian-stocks-to-fall-oil-climbs-as-conflict-rages-markets-wrap</guid>
@@ -380,11 +436,11 @@
             <description><![CDATA[[Bloomberg] 尽管中东冲突几乎没有缓和的迹象，但亚洲股市在动荡的一周的最后一个交易日抹去了早些时候的跌幅。 黄金和白银上涨。]]></description>
         </item>
         <item>
-            <title><![CDATA[美国证券交易委员会 (SEC) 结束针对加密货币亿万富翁贾斯汀·孙 (Justin Sun) 的诉讼]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-05/sec-ends-case-against-crypto-billionaire-justin-sun</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-05/sec-ends-case-against-crypto-billionaire-justin-sun</guid>
-            <pubDate>Thu, 05 Mar 2026 21:59:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国证券交易委员会表示，随着监管机构继续解决拜登政府期间提起的大量数字资产执法案件，它将结束对加密货币亿万富翁孙宇晨及其附属公司的诉讼，并将支付 1000 万美元。]]></description>
+            <title><![CDATA[3月6日两会日程预告：审查和讨论“十五五”规划纲要草案 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DX3FGOVU1OXJpZzMwdHJJTmRiemJwRk9vMjlVRkpRZ25qM3dyZkhJVjlvUVFiS0p2TTBtYjhKaGs2OWYtcE5FZ3B2S0hDQ1luRmZR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DX3FGOVU1OXJpZzMwdHJJTmRiemJwRk9vMjlVRkpRZ25qM3dyZkhJVjlvUVFiS0p2TTBtYjhKaGs2OWYtcE5FZ3B2S0hDQ1luRmZR?oc=5</guid>
+            <pubDate>Thu, 05 Mar 2026 22:22:50 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 3月6日两会日程预告：审查和讨论“十五五”规划纲要草案  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普称伊朗致电美国商讨协议 - 路透中文网]]></title>
@@ -401,7 +457,7 @@
             <description><![CDATA[[Reuters Business] 泽连斯基表示乌克兰将帮助美国对抗伊朗无人机 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Costco Wholesale 因需求强劲而超出假日季度业绩预期 - 路透中文网]]></title>
+            <title><![CDATA[Costco Wholesale 因需求强劲，假日季度业绩超出预期 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1Q3MGhRZkxwNDRNS2hBSEhCV2ZOREVfYnlKMDVtY20wWmJYczJZa1lFMHZ2WEtMaDhhREtXM1FXUVoweXFGSGdoWU9zSVJfZ3pZLWlVRWsyREJvQWlXb2ZCei1nWENlNDdzQ0czZnlSa2x1aUNWLVF2S2hIajZPU1J4Y18zUWNHaGVmcDVGdF9pVkt5elRsX2M0V3JBY2VoYzZ0NEVYZWpNVEpsZ3hyNTNSZElxNElraDNXSw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1Q3MGhRZkxwNDRNS2hBSEhCV2ZOREVfYnlKMDVtY20wWmJYczJZa1lFMHZ2WEtMaDhhREtXM1FXUVoweXFGSGdoWU9zSVJfZ3pZLWlVRWsyREJvQWlXb2ZCei1nWENlNDdzQ0czZnlSa2x1aUNWLVF2S2hIajZPU1J4Y18zUWNHaGVmcDVGdF9pVkt5elRsX2M0V3JBY2VoYzZ0NEVYZWpNVEpsZ3hyNTNSZElxNElraDNXSw?oc=5</guid>
             <pubDate>Thu, 05 Mar 2026 21:26:26 GMT</pubDate>
@@ -583,13 +639,6 @@
             <description><![CDATA[[Reuters Business] Netflix 收购本·阿弗莱克 (Ben Affleck) 的人工智能电影科技公司 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[资深英雄：特朗普对伊朗战略没有“第二阶段”计划]]></title>
-            <link>https://www.ftchinese.com/story/001109123</link>
-            <guid isPermaLink="false">https://www.ftchinese.com/story/001109123</guid>
-            <pubDate>Thu, 05 Mar 2026 16:00:00 GMT</pubDate>
-            <description><![CDATA[[FT Chinese] 美国参议院情报委员会的高层一号人物马克·沃纳暗示，特朗普政府未能在内部简报上向国会高层说明轰炸伊朗之后的后续打算。]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国警告捷克国防开支削减可能使布拉格成为北约支出最低的国家之一 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDZvT0hNRDc2a2VQMjdEOWxuTDgzQ0pUaWx3S1ZaQ21Oc0cyTmJWejlnektPZHdYTjBYV0ZXczVEbjYyZXd0YTh2TnhhZFJSN2NxRXozY1prcnFlbUZMVHNSUXpTeWdheTNuQTZxa1FnNTBwX21kYWFSTEFZNWozR21SVkF0ekxZRllsSEpicEVxd0pkMGJYQ1R3Q2xwVkxHZ21NUHB1V3Rha1BRVWJJUTdkcEVZU2dRdEZB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDZvT0hNRDc2a2VQMjdEOWxuTDgzQ0pUaWx3S1ZaQ21Oc0cyTmJWejlnektPZHdYTjBYV0ZXczVEbjYyZXd0YTh2TnhhZFJSN2NxRXozY1prcnFlbUZMVHNSUXpTeWdheTNuQTZxa1FnNTBwX21kYWFSTEFZNWozR21SVkF0ekxZRllsSEpicEVxd0pkMGJYQ1R3Q2xwVkxHZ21NUHB1V3Rha1BRVWJJUTdkcEVZU2dRdEZB?oc=5</guid>
@@ -615,7 +664,7 @@
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEs3WVpwRlRGX2lMdURNOXBKQXNyYlcxV3puQ05hcm5NQ25JRjRQVXF6cUhxOXE5bzR1S21HNVRqeVQ3NlhrMFpDQkRkNFpPTVNCMlRhWTNxbnluU0hYWmVyeHpmMVEwNjNkVl9STTNTaFNnMUFna0JGM3I2WFNnNjFaR2dlWVIzQmlLU0M3ZDdrX0NkNGdBMUpYekxwa0pkM2Ewc0tzR29mY2FDYi1ObE4zQmg1RklTX29jeXZkVU5qNDA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTEs3WVpwRlRGX2lMdURNOXBKQXNyYlcxV3puQ05hcm5NQ25JRjRQVXF6cUhxOXE5bzR1S21HNVRqeVQ3NlhrMFpDQkRkNFpPTVNCMlRhWTNxbnluU0hYWmVyeHpmMVEwNjNkVl9STTNTaFNnMUFna0JGM3I2WFNnNjFaR2dlWVIzQmlLU0M3ZDdrX0NkNGdBMUpYekxwa0pkM2Ewc0tzR29mY2FDYi1ObE4zQmg1RklTX29jeXZkVU5qNDA?oc=5</guid>
             <pubDate>Thu, 05 Mar 2026 14:19:36 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 分析师表示，继伊拉克、科威特和阿联酋可能是下一个因伊朗危机而削减石油产量的国家]]></description>
+            <description><![CDATA[[Reuters Business] 分析人士称，继伊拉克、科威特和阿联酋之后可能因伊朗危机而削减石油产量 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[部长表示加拿大将很快发布新的电力和核战略 - 路透中文网]]></title>
@@ -658,55 +707,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/jobs/u-s-jobless-claims-were-unchanged-last-week-bf87087c</guid>
             <pubDate>Thu, 05 Mar 2026 13:49:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 上周美国初请失业金人数保持稳定，因为雇主更愿意留住员工而不是实施裁员。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9scUhHemNqa3pCd2NNQ1NsZlhuN1RkQkt2dWRScHdxYU4zcDdrQmQ2MWVWTnVXc29FOXZ6WUY5NFNiX1JIblVQWF84QXNHNzZ5TFpF?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9scUhHemNqa3pCd2NNQ1NsZlhuN1RkQkt2dWRScHdxYU4zcDdrQmQ2MWVWTnVXc29FOXZ6WUY5NFNiX1JIblVQWF84QXNHNzZ5TFpF?oc=5</guid>
-            <pubDate>Thu, 05 Mar 2026 13:47:17 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧洲复兴开发银行行长称伊朗冲突对经济增长构成风险 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGVhOEY3VFl2ZlFZU1FHaTF3VE9kVDdSYU1YMjgtVE5zcWJ5WDZHOFlydGtBV3ZwUXA4dFRXSFV2eloxbGdVT0NSRzZ5S2k0aE1menZWeUFCZXFIWHd3ZkdFcXg1NFNyOHV4cWxERVVjbDUwMVVUbm9Db2M2NU1TdmtaZHVHSnhMNDJCWkZPblZ1TnFJQWFzbXhZVnFSZWlUR21ybF9GTkNmYkJjOHc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQMGVhOEY3VFl2ZlFZU1FHaTF3VE9kVDdSYU1YMjgtVE5zcWJ5WDZHOFlydGtBV3ZwUXA4dFRXSFV2eloxbGdVT0NSRzZ5S2k0aE1menZWeUFCZXFIWHd3ZkdFcXg1NFNyOHV4cWxERVVjbDUwMVVUbm9Db2M2NU1TdmtaZHVHSnhMNDJCWkZPblZ1TnFJQWFzbXhZVnFSZWlUR21ybF9GTkNmYkJjOHc?oc=5</guid>
-            <pubDate>Thu, 05 Mar 2026 13:32:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 欧洲复兴开发银行行长称伊朗冲突对经济增长构成风险 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[殷拓集团 (EQT) 以 5.75 亿美元收购丰树集团 (Mapletree) 东海岸仓库]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-05/eqt-buys-east-coast-warehouses-from-mapletree-for-575-million</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-05/eqt-buys-east-coast-warehouses-from-mapletree-for-575-million</guid>
-            <pubDate>Thu, 05 Mar 2026 13:30:23 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 丰树投资私人有限公司 (Mapletree Investments Pte) 同意以 5.75 亿美元的价格将东海岸仓库组合出售给殷拓房地产 (EQT Real Estate)。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，以色列将在战争第二阶段攻击伊朗地下导弹基地 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMUw0Y3JrSVhQQjZIWmNIdXMyRWpSTDdjbVphQzBfVWk3MTRaX0R5SkFrQXFHQU94ZlZBd2tkcTQtTnBrVkt6ZzVJVFZIS1NtdkxOcUMyVTVHTUxnQ21vLUxhMFd5UV9RWTFHaG4xVkc5eEFOMFpzYzA3SVVmR0VmZmRhRHZvSWYxemxUSEZMZUdEdWJRNXBOempENlJBVGFQNXB5VVg1alhyUzZyUFhfcFF3SzdlUEQ4cjNIWFF5YThLQ1hheFRQbldKdURXb19rSTJZ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMUw0Y3JrSVhQQjZIWmNIdXMyRWpSTDdjbVphQzBfVWk3MTRaX0R5SkFrQXFHQU94ZlZBd2tkcTQtTnBrVkt6ZzVJVFZIS1NtdkxOcUMyVTVHTUxnQ21vLUxhMFd5UV9RWTFHaG4xVkc5eEFOMFpzYzA3SVVmR0VmZmRhRHZvSWYxemxUSEZMZUdEdWJRNXBOempENlJBVGFQNXB5VVg1alhyUzZyUFhfcFF3SzdlUEQ4cjNIWFF5YThLQ1hheFRQbldKdURXb19rSTJZ?oc=5</guid>
-            <pubDate>Thu, 05 Mar 2026 13:25:26 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 消息人士称，以色列将在战争第二阶段攻击伊朗地下导弹基地 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伯克希尔首席执行官格雷格·阿贝尔在第一封年度信中誓言要保持巴菲特纪律投资的文化]]></title>
-            <link>https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/02/28/berkshire-ceo-abel-vows-to-keep-buffetts-culture-of-disciplined-investing-in-first-annual-letter.html</guid>
-            <pubDate>Thu, 05 Mar 2026 13:16:05 GMT</pubDate>
-            <description><![CDATA[[CNBC] 伯克希尔哈撒韦公司的格雷格阿贝尔发布了他作为首席执行官的第一份年度股东信。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[盘前涨幅最大的股票：BJ's Wholesale、Broadcom、Trade Desk、StubHub 等]]></title>
-            <link>https://www.cnbc.com/2026/03/05/stocks-making-the-biggest-moves-premarket-.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/03/05/stocks-making-the-biggest-moves-premarket-.html</guid>
-            <pubDate>Thu, 05 Mar 2026 13:13:45 GMT</pubDate>
-            <description><![CDATA[[CNBC] 这些是盘前涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[功耗狂降95%、打破光铜取舍困境......Micro LED CPO会是终局解决方案吗？ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BckFJYXp1MGRJeG9NUld4WS04bTVJaWV2ekc0VHphM3NybEd3d29LcXhuYk04bzhsTURWRzkxaFljU25EOGVGZXhlVmR6R1ZxOUxB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BckFJYXp1MGRJeG9NUld4WS04bTVJaWV2ekc0VHphM3NybEd3d29LcXhuYk04bzhsTURWRzkxaFljU25EOGVGZXhlVmR6R1ZxOUxB?oc=5</guid>
-            <pubDate>Thu, 05 Mar 2026 12:49:43 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 功耗狂降95%、打破光铜取舍困境......Micro LED CPO会是终局解决方案吗？  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
