@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 07 Mar 2026 09:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 10:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[中东战争加剧，全球经济面临更大压力]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-07/global-economy-faces-widening-strains-as-mideast-war-intensifies</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-07/global-economy-faces-widening-strains-as-mideast-war-intensifies</guid>
+            <pubDate>Sat, 07 Mar 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 中东战争的经济影响正在向该地区以外蔓延。]]></description>
+        </item>
         <item>
             <title><![CDATA[新股前瞻 | 97% 营收增速、毛利率大幅提升，乐动机器人迈入高质量增长新纪元]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3249885</link>
@@ -93,6 +100,13 @@
             <description><![CDATA[[华尔街见闻] 全球市场回调何时结束？“2020年代市场”会重演“1970年代”滞胀剧本吗？  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[阿塞拜疆表示挫败了伊朗的阴谋，包括袭击主要管道的计划 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWhINDZmUnFJa3FJYXZKalB3MmNBY09aX2h6OVJacVF1Uzd2VEFIVU01aWFYQUtNSWh5REMzVG5MSzk2WEdCdmlWa3V6MC1Ya2tfeXIzLTJaVG95MGZKQTk3NVBhV1hWZVduelFaazROa0pLek5BeVlYVlJhdGZoNjlCZWx4bFFqM05OblRHNll4a1VmZEpmZXlxX2tZSzhPaVloT2NWS1FkU2dqdGJCNWpoNFNQNmxCQUtUaEZjM01NekJPTFE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxQcWhINDZmUnFJa3FJYXZKalB3MmNBY09aX2h6OVJacVF1Uzd2VEFIVU01aWFYQUtNSWh5REMzVG5MSzk2WEdCdmlWa3V6MC1Ya2tfeXIzLTJaVG95MGZKQTk3NVBhV1hWZVduelFaazROa0pLek5BeVlYVlJhdGZoNjlCZWx4bFFqM05OblRHNll4a1VmZEpmZXlxX2tZSzhPaVloT2NWS1FkU2dqdGJCNWpoNFNQNmxCQUtUaEZjM01NekJPTFE?oc=5</guid>
+            <pubDate>Sat, 07 Mar 2026 07:09:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 阿塞拜疆表示挫败了伊朗的阴谋，包括袭击主要管道的计划 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[早期科创项目为何融资难？全国人大代表田轩：资本供给存在结构性错配]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3249846</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249846</guid>
@@ -173,7 +187,7 @@
             <title><![CDATA[霍尔木兹海峡对亚洲电力系统的意义 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZNmNUak1fNVU0OHkzMGIyYUpfUGNCakZxTThNaWtxakUtN2xwTWZnZW90b0xRUC04dnR2ellxT1o3RnZiTGxFNUFPUXp0QmJ2TWc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZNmNUak1fNVU0OHkzMGIyYUpfUGNCakZxTThNaWtxakUtN2xwTWZnZW90b0xRUC04dnR2ellxT1o3RnZiTGxFNUFPUXp0QmJ2TWc?oc=5</guid>
-            <pubDate>Sat, 07 Mar 2026 03:13:00 GMT</pubDate>
+            <pubDate>Sat, 07 Mar 2026 03:17:25 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 霍尔木兹海峡对亚洲电力系统的意义  华尔街见闻]]></description>
         </item>
         <item>
@@ -252,6 +266,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0VyT1UzRU1KWjhDbTY4RXotMjVGb3N0VG03NEViR0htMGktb0FaZ0dWSGEycTVhQnpkeEo2MDd6OHNFYlRCb3l3S2ZjaUY2QXRFQ01weWJ5TmVpSU54Y0VvRjRzSEk2N2dnaDN0eUR0aUtxTndpc04wd29NUG9RQndCWklHY2U5YnBDOEw1VjhsSDdnTFliN3ZkaUVSUmNINmEwam1XVFRNUXROQ3c?oc=5</guid>
             <pubDate>Sat, 07 Mar 2026 00:59:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 伊朗战争颠覆全球能源供应，美国汽油价格飙升 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着战争蔓延，航空公司飞行员与无人机、导弹和压力作斗争 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUG1JZ2p5Vzk0S2FtQzZNMjNQTkM3a2xyTmRjaHo3YXp4U0lXbFpfYkZmekNSQUMzczY0ZlpaSmJxeDFweGFHcmZPc0tQOWg4SmpPcXRNZE1zbTNiY1ZrdTdKZWkxV3Zadl9COEVXVWd0TXpsbFg1NTdtSFlCanNjU2pSVXBYbFBUMWI1SDlfbWdQSmo0Z3I5OUU3SEU3aDRXd0ZPNTAwYWQxRlBvWFI5bmFfVHpCQVEzT0YzUkdsamg5alE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUG1JZ2p5Vzk0S2FtQzZNMjNQTkM3a2xyTmRjaHo3YXp4U0lXbFpfYkZmekNSQUMzczY0ZlpaSmJxeDFweGFHcmZPc0tQOWg4SmpPcXRNZE1zbTNiY1ZrdTdKZWkxV3Zadl9COEVXVWd0TXpsbFg1NTdtSFlCanNjU2pSVXBYbFBUMWI1SDlfbWdQSmo0Z3I5OUU3SEU3aDRXd0ZPNTAwYWQxRlBvWFI5bmFfVHpCQVEzT0YzUkdsamg5alE?oc=5</guid>
+            <pubDate>Sat, 07 Mar 2026 00:54:51 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 随着战争蔓延，航空公司飞行员与无人机、导弹和压力作斗争 路透]]></description>
         </item>
         <item>
             <title><![CDATA[据英国《金融时报》报道，美国在人类冲突中制定了严格的人工智能指南 - 路透中文网]]></title>
@@ -406,13 +427,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/trade/how-the-dash-to-collect-tariff-refunds-will-play-out-c6c634f5</guid>
             <pubDate>Fri, 06 Mar 2026 22:42:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 虽然法官的判决让人燃起希望，但钱可能需要几个月的时间才能到达任何人的银行账户。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈马克：利率存在双面风险]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-06/fed-s-hammack-there-are-two-sided-risks-to-rates-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-06/fed-s-hammack-there-are-two-sided-risks-to-rates-video</guid>
-            <pubDate>Fri, 06 Mar 2026 22:33:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 克利夫兰联储主席贝丝·哈马克接受了迈克尔·麦基的独家采访，讨论了利率的双面风险，以及尽管劳动力市场“稳定”但最新的就业数据令人失望。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[高盛警告称，如果霍尔木兹油流不恢复，油价可能飙升至100美元/桶以上 - 路透中文网]]></title>
@@ -667,13 +681,6 @@
             <description><![CDATA[[Reuters Business] 由于赎回扰乱私人信贷，贝莱德基金限制提款 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[独家：特朗普谈伊朗行动期间天然气价格上涨：“如果上涨，那就上涨” - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPcG5QWHM0LTFkT28zMTFUSnEzcGhyclhYQ01teUx2NXZSTUNlTmpJUE1MTjNWOTk2ZjlDTkp3ek5vQ0VwOHVhWmtiM0RBNTlobkVnZjRBMmJDZHFhS3VlTl9odjk4V01EekMwWVpNUUhqZmcxS1FuSlhjblpkblRaVFEtTVVzOENyVkdqZ2p3UXVwVUFoMmhZNWtmVUpDSndIOEgzWTVHTGg5VkVPMVJabVM4eDdIY1BEaXJSWQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPcG5QWHM0LTFkT28zMTFUSnEzcGhyclhYQ01teUx2NXZSTUNlTmpJUE1MTjNWOTk2ZjlDTkp3ek5vQ0VwOHVhWmtiM0RBNTlobkVnZjRBMmJDZHFhS3VlTl9odjk4V01EekMwWVpNUUhqZmcxS1FuSlhjblpkblRaVFEtTVVzOENyVkdqZ2p3UXVwVUFoMmhZNWtmVUpDSndIOEgzWTVHTGg5VkVPMVJabVM4eDdIY1BEaXJSWQ?oc=5</guid>
-            <pubDate>Fri, 06 Mar 2026 14:06:51 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：特朗普谈伊朗行动期间天然气价格上涨：“如果上涨，那就上涨” 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[据《华尔街日报》报道，科威特已开始削减部分油田的产量 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNYllWWEx5N3FtaGNZTnBsamlCMUpOcWh6eGZ5U2NIOWhQLXNfQmYxSDF0dWxHUGUwRDVFaEhTRVhiZVN1V1gwaUNIRTFPeGtxU1V0ZjFqN2l4SE8tbElyVllWa0tMYUN2N0pRVFlWU0xqT0ozSWJuR2JhT0NGTzJiallyOXVva056ekk1VURpczVacHVTQ2JHN2NLNVRwY2ZQUk9sUDg5NW5HZWRyWVV2TDdxMkUyQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxNYllWWEx5N3FtaGNZTnBsamlCMUpOcWh6eGZ5U2NIOWhQLXNfQmYxSDF0dWxHUGUwRDVFaEhTRVhiZVN1V1gwaUNIRTFPeGtxU1V0ZjFqN2l4SE8tbElyVllWa0tMYUN2N0pRVFlWU0xqT0ozSWJuR2JhT0NGTzJiallyOXVva056ekk1VURpczVacHVTQ2JHN2NLNVRwY2ZQUk9sUDg5NW5HZWRyWVV2TDdxMkUyQQ?oc=5</guid>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE90X2tlWlY3ZElBbkNDMi1FdVNmT0xqNEJ6RHJVbVI3bXpEeXJVcEVMY0NfM0lhY3dKWkdWbHNHRHBMWnk3dWNzUDBzQ2VHQzhpWE4w?oc=5</guid>
             <pubDate>Fri, 06 Mar 2026 13:15:24 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 实物交割危机倒计时，白银或成引爆衍生品危机的导火索？  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[立陶宛称俄罗斯正在北约边境扩大军事力量 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzNDWXp4WEVDcWEya1hqNTdXd2NQbDVqZzVkNkxPNzBYYWFGcU9icGNMNXBkMjlNd0xnZ2U1eWhFZ2FNbXI4OGQ5em13bklvajl2eXNsNFpUTGVhT2FLWENYamlpbFFZRmpPTW9OQVA2ZEdvWDRPWUQ5MVpiQkhRb042aEZpSjJBT2Rpd1l0dm10LVQyWjRMWThzX2lUb01TNktCZUdiR05GUVFCZl9UN2pxRW1jbG40Q1RyTFdxajI4ZE0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzNDWXp4WEVDcWEya1hqNTdXd2NQbDVqZzVkNkxPNzBYYWFGcU9icGNMNXBkMjlNd0xnZ2U1eWhFZ2FNbXI4OGQ5em13bklvajl2eXNsNFpUTGVhT2FLWENYamlpbFFZRmpPTW9OQVA2ZEdvWDRPWUQ5MVpiQkhRb042aEZpSjJBT2Rpd1l0dm10LVQyWjRMWThzX2lUb01TNktCZUdiR05GUVFCZl9UN2pxRW1jbG40Q1RyTFdxajI4ZE0?oc=5</guid>
-            <pubDate>Fri, 06 Mar 2026 13:01:12 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 立陶宛称俄罗斯正在北约边境扩大军事力量 路透]]></description>
         </item>
     </channel>
 </rss>
