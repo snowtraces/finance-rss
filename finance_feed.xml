@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 07 Mar 2026 19:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 19:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[科威特宣布削减石油产量 全球能源供应危机加剧]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3249961</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249961</guid>
+            <pubDate>Sat, 07 Mar 2026 19:35:28 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[Polymarket创始人表示战争押注面临越来越大的阻力]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-07/polymarket-founder-says-war-bets-are-facing-growing-resistance</link>
@@ -245,13 +252,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxQN1lzMHNTVEFZX01USlpOTXM0dUZYT2F1VndyVlRfZm01cm9nWU0zRnlUNFB2dEM1NnprLUZPWVJIdzhPaVVDbmlxNXlvSmp3VnZneC1XaUlZRm9oUUNHR0FqUGRFelVubU5DYWxvR0JsUU1NMmp4eElrUjI4N0tBSklBRmJBWFRkMEN0NXg5VnlZZnFVc05McVBNb3hyYzNRZHhKeWotMllsWEgwTHE0?oc=5</guid>
             <pubDate>Sat, 07 Mar 2026 12:08:12 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 消息人士称，印度石油公司从红海订购了一些石油货物 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全国政协常委、安踏集团丁世忠：体育课不能“缩水”，用体育守护青少年身心健康]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3249909</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249909</guid>
-            <pubDate>Sat, 07 Mar 2026 12:05:46 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[随着伊朗战争爆发，乌克兰拦截无人机制造商考虑向海湾地区出口 - 路透中文网]]></title>
@@ -653,6 +653,13 @@
             <description><![CDATA[[Reuters Business] 据彭博社报道，甲骨文和 OpenAI 放弃了德克萨斯州数据中心扩建计划 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[委内瑞拉在暂停 15 个月后恢复稀释原油出口 - 文件 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEFSWXdYT0Z0VUlXNnI4TEtrMEVBUHFrS0pCOUtfVl9oNUxrTEVaY2s4TkJFUHJ3WU16VjBhcXFrWm9wWDBFOHEtZng5S0VPNndaSFlLUmphTm1RQnA5TTlhU080ZkdBTGhHTF9qVnJ2NVdkaEsyRnotRnIwUy1TbjNIZ0k1azRxTE9IV3hhbGczZWVHdEI0MThiNUFoVUlRdmsydG9FcGdLTFVqWHUyLWVpWkdEdTROcWZNa0FBZHRtSm8?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEFSWXdYT0Z0VUlXNnI4TEtrMEVBUHFrS0pCOUtfVl9oNUxrTEVaY2s4TkJFUHJ3WU16VjBhcXFrWm9wWDBFOHEtZng5S0VPNndaSFlLUmphTm1RQnA5TTlhU080ZkdBTGhHTF9qVnJ2NVdkaEsyRnotRnIwUy1TbjNIZ0k1azRxTE9IV3hhbGczZWVHdEI0MThiNUFoVUlRdmsydG9FcGdLTFVqWHUyLWVpWkdEdTROcWZNa0FBZHRtSm8?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 20:02:41 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 委内瑞拉在暂停 15 个月后恢复稀释原油出口 - 文件 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[巴克莱表示，如果中东紧张局势持续下去，布伦特原油可能会测试120美元/桶 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOeExDRlN3cFFiazVtSXYxd3dFeVRYdzU5aVVTemRoWC1GcGR4XzJiZFJpMm5heGNCZW1KS1FlalRWUUs5OFI1QVBsamdCSGRXcHZfMmNVaHRKdm4yUVZCVW9nSlNkSjNWbHgydzFMV2JMTTZUX05oczd4RmdlWlJPUjBqWmdONXQySHc5TS1SVTMzS0prbVloQ2xfQ1FjMFRWRk12cVRNc2ctNFhrSlgxd1Bvd05ySVpibnhOTzRn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxOeExDRlN3cFFiazVtSXYxd3dFeVRYdzU5aVVTemRoWC1GcGR4XzJiZFJpMm5heGNCZW1KS1FlalRWUUs5OFI1QVBsamdCSGRXcHZfMmNVaHRKdm4yUVZCVW9nSlNkSjNWbHgydzFMV2JMTTZUX05oczd4RmdlWlJPUjBqWmdONXQySHc5TS1SVTMzS0prbVloQ2xfQ1FjMFRWRk12cVRNc2ctNFhrSlgxd1Bvd05ySVpibnhOTzRn?oc=5</guid>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3EyTW5LQzlkc01xcDVzV2hNbzdDZTJBRTB5MUdnMl9ndDJFTXQ3N1BsanZQZHN4SmRpaS16c0lzdGktWVBzSzhmQ2ZReFlRSHltLS1CdHNqUFdtZkRROFExb1BHZlF3SHRfc2NxdWFOenpqWkxlcmpWaE5NNnN2MDBBczdhdU83bThMa1NYZ3YzX2hjRk50TVVCVzIzMjRz?oc=5</guid>
             <pubDate>Fri, 06 Mar 2026 18:31:45 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美联储哈马克称利率可能会维持一段时间 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事米兰表示二月份失业增加了进一步降息的理由]]></title>
-            <link>https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html</guid>
-            <pubDate>Fri, 06 Mar 2026 18:14:50 GMT</pubDate>
-            <description><![CDATA[[CNBC] 米兰在接受 CNBC 采访时表示，美联储应该更多地关注支持劳动力市场，而不是担心通胀。]]></description>
         </item>
     </channel>
 </rss>
