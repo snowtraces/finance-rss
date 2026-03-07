@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 07 Mar 2026 20:48:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 21:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国通胀指标在伊朗战争前可能出现分歧]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-07/us-inflation-gauges-likely-diverged-before-war-in-iran</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-07/us-inflation-gauges-likely-diverged-before-war-in-iran</guid>
+            <pubDate>Sat, 07 Mar 2026 21:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在二月份就业报告惨淡对劳动力市场正在稳定的看法提出挑战之后，包括美联储首选价格指标在内的两份通胀报告将在未来一周浮出水面。]]></description>
+        </item>
         <item>
             <title><![CDATA[随着风险的增加，交易员抢购衍生品：《信贷周刊》]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-07/traders-snatch-up-derivatives-as-risks-grow-credit-weekly</link>
@@ -21,6 +28,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3249961</guid>
             <pubDate>Sat, 07 Mar 2026 19:35:28 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[意大利国防部长敦促军火工业加快生产 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGhjZXJGT3Q1TDEzZGN2OWJUSTVwdmhjdmdjMXpmWWNNWWpqTWlHeGp4OHhQb3NnS3R4N1hDLUdqblBlMm1oc0habVV1N09aVU93bmVoQ1pIcTEyUm45T0dsOFQ1VnpTbS1VNU9JcmN5Z210S29SV3BUNFRfczg2eGhEVHpqSlpmaWV1NHRnd3hkMGpPaU10R2FKeGg4MV9UTFZVbWZsRnJ3b2VwOGlvbDMwdDlTZ3RKMTN0b2lfeGc4OWc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGhjZXJGT3Q1TDEzZGN2OWJUSTVwdmhjdmdjMXpmWWNNWWpqTWlHeGp4OHhQb3NnS3R4N1hDLUdqblBlMm1oc0habVV1N09aVU93bmVoQ1pIcTEyUm45T0dsOFQ1VnpTbS1VNU9JcmN5Z210S29SV3BUNFRfczg2eGhEVHpqSlpmaWV1NHRnd3hkMGpPaU10R2FKeGg4MV9UTFZVbWZsRnJ3b2VwOGlvbDMwdDlTZ3RKMTN0b2lfeGc4OWc?oc=5</guid>
+            <pubDate>Sat, 07 Mar 2026 18:05:38 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 意大利国防部长敦促军火工业加快生产 路透]]></description>
         </item>
         <item>
             <title><![CDATA[Polymarket创始人表示战争押注面临越来越大的阻力]]></title>
@@ -329,13 +343,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-07/henry-blodget-on-ai-hysteria-software-and-bubbles</guid>
             <pubDate>Sat, 07 Mar 2026 09:00:02 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 人工智能将如何影响媒体和软件。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[奇怪的事情：Henry Blodget 谈 OpenAI 的问题（播客）]]></title>
-            <link>https://www.bloomberg.com/news/audio/2026-03-07/henry-blodget-on-the-problem-for-openai-podcast</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/audio/2026-03-07/henry-blodget-on-the-problem-for-openai-podcast</guid>
-            <pubDate>Sat, 07 Mar 2026 09:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 一年前，所有的讨论都是关于大型人工智能公司的估值如何被严重高估。 每个人都称其为泡沫。 快进到现在，市场上的一个主导思想是人工智能是如此强大，以至于所有类型的传统业务——尤其是软件——都可能归零。 那么真相到底在哪里呢？ 那么现在人工智能的估值又如何呢？ 在 2 月 25 日布鲁克林 On Air 播客节现场录制的这一集中，我们再次采访了前华尔街分析师亨利·布洛杰特 (Henry Blodget)。]]></description>
         </item>
         <item>
             <title><![CDATA[3月6日经济主题记者会的十大增量信息 - 华尔街见闻]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3EyTW5LQzlkc01xcDVzV2hNbzdDZTJBRTB5MUdnMl9ndDJFTXQ3N1BsanZQZHN4SmRpaS16c0lzdGktWVBzSzhmQ2ZReFlRSHltLS1CdHNqUFdtZkRROFExb1BHZlF3SHRfc2NxdWFOenpqWkxlcmpWaE5NNnN2MDBBczdhdU83bThMa1NYZ3YzX2hjRk50TVVCVzIzMjRz?oc=5</guid>
             <pubDate>Fri, 06 Mar 2026 18:31:45 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美联储哈马克称利率可能会维持一段时间 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事米兰表示二月份失业增加了进一步降息的理由]]></title>
-            <link>https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html</guid>
-            <pubDate>Fri, 06 Mar 2026 18:14:50 GMT</pubDate>
-            <description><![CDATA[[CNBC] 米兰在接受 CNBC 采访时表示，美联储应该更多地关注支持劳动力市场，而不是担心通胀。]]></description>
         </item>
     </channel>
 </rss>
