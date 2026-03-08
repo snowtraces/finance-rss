@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 08 Mar 2026 16:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 16:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[智通港股投资日志|3月9日]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3250203</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3250203</guid>
+            <pubDate>Sun, 08 Mar 2026 16:05:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[迪士尼皮克斯《Hoppers》卷土重来，票房收入 4600 万美元]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-08/-hoppers-opens-to-46-million-in-comeback-for-disney-s-pixar</link>
@@ -231,14 +238,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-03-08/oil-market-chaos-set-to-deepen-as-more-gulf-giants-cut-output</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/oil-market-chaos-set-to-deepen-as-more-gulf-giants-cut-output</guid>
             <pubDate>Sun, 08 Mar 2026 11:43:12 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 石油市场的混乱局面似乎将进一步加深，随着伊朗战争实际上封锁了霍尔木兹海峡，更多的产量被削减，而且美国考虑扩大在该国的目标范围。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[66亿影视股披露重大资产重组预案 股票明起复牌|盘后公告集锦]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3250147</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3250147</guid>
-            <pubDate>Sun, 08 Mar 2026 11:35:28 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <description><![CDATA[[Bloomberg] 由于伊朗战争造成前所未有的破坏，周一石油市场将出现更多混乱：随着储存空间已满，主要产油国正在限制产量，而全球能源市场最重要的水道仍然几乎关闭。]]></description>
         </item>
         <item>
             <title><![CDATA[做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱 - 华尔街见闻]]></title>
@@ -253,6 +253,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/swiss-put-cash-into-constitution-to-guard-against-its-demise</guid>
             <pubDate>Sun, 08 Mar 2026 11:12:08 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 瑞士投票将现金的可用性写入其宪法，同意采取旨在防止实物货币消亡的举措。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[从 1776 年到 2026 年：亚当·斯密对全球经济的教训 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2hWYV9GdDBjV3hGYmxKWnFMNnhlOFk4Qk1nZHhrRFpTcWNKTnFGeGY5VFdSakx3UEs4bHpSNWUyUW94dy04djl2UVVzUmxMX0NsVUhpNlhxWkZ1WDN5UWw5enk5TV9qV1VMV01ZMVBrcE55bHdLNnRlZ0dOSGdZdW4tOWF0ZklFaEtJT0dZSzAwNHN6QUtxalNxQnd0UV8xRm1sZFl3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2hWYV9GdDBjV3hGYmxKWnFMNnhlOFk4Qk1nZHhrRFpTcWNKTnFGeGY5VFdSakx3UEs4bHpSNWUyUW94dy04djl2UVVzUmxMX0NsVUhpNlhxWkZ1WDN5UWw5enk5TV9qV1VMV01ZMVBrcE55bHdLNnRlZ0dOSGdZdW4tOWF0ZklFaEtJT0dZSzAwNHN6QUtxalNxQnd0UV8xRm1sZFl3?oc=5</guid>
+            <pubDate>Sun, 08 Mar 2026 11:05:22 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 从 1776 年到 2026 年：亚当·斯密对全球经济的教训 路透]]></description>
         </item>
         <item>
             <title><![CDATA[据英国《金融时报》报道，KKR 计划以数十亿美元的价格出售数据中心冷却公司 - 路透中文网]]></title>
@@ -342,7 +349,7 @@
             <title><![CDATA[美国法官宣布卡里·莱克 (Kari Lake) 作为美国之音首席执行官采取的 2025 年行动无效，包括裁员 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlpIbG1Eclo0dzB4bnNRa3paQW4xenZteHczTTlFdUk0MXBPTGtsZWdKZm5wU0ZLZ2EyM0JtN2lmcWhqcWJpT3ZGRkFrV1dXQlQ0TXlGeFpwYXRteTFnUmtBTU8xMi1qVlkzNGVJdXMtZ2FjX1dBUlVZTFlSYk83emU4QlQ0T0QwREoxdmlBQk9EV3hBVjBpbW1kMEtkMHZ0TzRnMWtkUGE4blJyNXJTdXdadEFkeC1ab2s5TkFsWWx1N1ZHSkVKcU1ydkMwbGl3SWQw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlpIbG1Eclo0dzB4bnNRa3paQW4xenZteHczTTlFdUk0MXBPTGtsZWdKZm5wU0ZLZ2EyM0JtN2lmcWhqcWJpT3ZGRkFrV1dXQlQ0TXlGeFpwYXRteTFnUmtBTU8xMi1qVlkzNGVJdXMtZ2FjX1dBUlVZTFlSYk83emU4QlQ0T0QwREoxdmlBQk9EV3hBVjBpbW1kMEtkMHZ0TzRnMWtkUGE4blJyNXJTdXdadEFkeC1ab2s5TkFsWWx1N1ZHSkVKcU1ydkMwbGl3SWQw?oc=5</guid>
-            <pubDate>Sun, 08 Mar 2026 02:02:42 GMT</pubDate>
+            <pubDate>Sun, 08 Mar 2026 02:02:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国法官宣布卡里·莱克 (Kari Lake) 作为美国之音首席执行官采取的 2025 年行动无效，包括裁员 路透]]></description>
         </item>
         <item>
@@ -465,18 +472,18 @@
             <description><![CDATA[[华尔街见闻] 美国宣布有条件放松对委内瑞拉黄金交易相关制裁！委代总统：将以“特朗普式速度”加快美获取委矿产进程，包括黄金、稀土等  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[没了卡塔尔的LNG—中国化工的机会，亚洲电力的风险 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZUEFkS2N1T3VjUW5wVlNmWW5NYjRNTWFtcHlseGZ1LWYzc1psdkpsdXFacFp6RU5aaWlXU0dyYW9vM2xBV1V4YmJUTGMydVl3QXU0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZUEFkS2N1T3VjUW5wVlNmWW5NYjRNTWFtcHlseGZ1LWYzc1psdkpsdXFacFp6RU5aaWlXU0dyYW9vM2xBV1V4YmJUTGMydVl3QXU0?oc=5</guid>
+            <pubDate>Sat, 07 Mar 2026 10:26:40 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 没了卡塔尔的LNG—中国化工的机会，亚洲电力的风险  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[尼泊尔竞选活动内幕可能让巴伦德拉·沙阿上台 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOERwenl2RTNORDBwSE85bmRSdGNWN191SjNBRTIwSEJteHRmM29WSGl1MlZWQzMtOGRMbkJtaTBtY1AxZ2JIeEpuVEpKY1FRcG55aHdHQWxrdnF4STE4WHU1Zy04T0hjWUh0YjlvVXJYQWQ1dTkyM2V5LUxyZWdHUHFLRVJqRWJ0cl9FUDBGQzdfcVdiR3RETEJGS2w3Wk5DM1Ezc2RPMThsdjB6bWtLU0lNcjRsVjk1?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOERwenl2RTNORDBwSE85bmRSdGNWN191SjNBRTIwSEJteHRmM29WSGl1MlZWQzMtOGRMbkJtaTBtY1AxZ2JIeEpuVEpKY1FRcG55aHdHQWxrdnF4STE4WHU1Zy04T0hjWUh0YjlvVXJYQWQ1dTkyM2V5LUxyZWdHUHFLRVJqRWJ0cl9FUDBGQzdfcVdiR3RETEJGS2w3Wk5DM1Ezc2RPMThsdjB6bWtLU0lNcjRsVjk1?oc=5</guid>
             <pubDate>Sat, 07 Mar 2026 09:35:50 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 尼泊尔竞选活动内部可能让巴伦德拉·沙阿掌权 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[罗氏董事长仍预计诊断产品将受到美国关税的打击 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOcTRSeDZTWGVUbnNiMkEzR3E3RGExeWtEandjbG1YX0Rod1BkN2xkeTVKSktOandObWxkOVpFazBpb0dnNjBQdEx4WlVqUTluS3JYcUNfV1JLNXM3TE1adzJGbENxa19Ld1VCajRvWUZ3V1ZwUjdkWlBEUlZJaC0wMXZPcWNLd0dfRUdMSmlYTmF2c2NYMDlaWllPU0JhcDdDS1lNU3lnRjNJbmhqMVkyRGRYam1HLTNld3FTbGZaZ2pPU3dWeXc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxOcTRSeDZTWGVUbnNiMkEzR3E3RGExeWtEandjbG1YX0Rod1BkN2xkeTVKSktOandObWxkOVpFazBpb0dnNjBQdEx4WlVqUTluS3JYcUNfV1JLNXM3TE1adzJGbENxa19Ld1VCajRvWUZ3V1ZwUjdkWlBEUlZJaC0wMXZPcWNLd0dfRUdMSmlYTmF2c2NYMDlaWllPU0JhcDdDS1lNU3lnRjNJbmhqMVkyRGRYam1HLTNld3FTbGZaZ2pPU3dWeXc?oc=5</guid>
-            <pubDate>Sat, 07 Mar 2026 09:23:53 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 罗氏董事长仍预计诊断产品将受到美国关税的打击 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[3月6日经济主题记者会的十大增量信息 - 华尔街见闻]]></title>
@@ -701,13 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGVyOThwVEh2QlN3SVZVYmcxWWpaaWZHbjFDdU5UcTJuMUVfM3FlZnBldndGdThUa1kwUTFudnZkeXpZdmFTXzkxckJjVjJTVVFQcFBUN2RZb3FPVVFSaEdFMFVoOE5DU1hNRTE0N0JpMlgtQ0REZzNFajI3SFh5TGJwTDVSV3hrdTJDbnVqc2p4Tm8yblhLVEtpdzdlNlVFRlBGcTBUQnFQM3JJN3hjTQ?oc=5</guid>
             <pubDate>Fri, 06 Mar 2026 20:43:02 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国国际贸易法院暂停 3 月 5 日的关税退款令 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一份粗略的二月份就业报告暴露了美国对卫生工作者的依赖程度。 以下是最新劳工部报告中的一些主要趋势]]></title>
-            <link>https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1</guid>
-            <pubDate>Fri, 06 Mar 2026 20:37:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 一份粗略的二月份就业报告暴露了美国对卫生工作者的依赖程度。]]></description>
         </item>
     </channel>
 </rss>
