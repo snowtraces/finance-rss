@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 08 Mar 2026 16:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 17:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[霍尔木兹追踪器：与伊朗有关的船只是唯一过境的船只]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-08/hormuz-tracker-iran-linked-ships-are-the-only-ones-to-transit</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/hormuz-tracker-iran-linked-ships-are-the-only-ones-to-transit</guid>
+            <pubDate>Sun, 08 Mar 2026 16:25:34 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 霍尔木兹海峡的过境已连续第七天接近停滞，与伊朗有关的船只是过去 24 小时内唯一穿越该海峡的商船。]]></description>
+        </item>
         <item>
             <title><![CDATA[智通港股投资日志|3月9日]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3250203</link>
@@ -668,13 +675,6 @@
             <description><![CDATA[[华尔街见闻] 油价、失业率齐升！“新美联储通讯社”：美联储最害怕的局面逼近  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[伊朗战争导致美国原油期货每桶上涨12% - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlB3dnZBWExHanFHYld3WmJtUE9fUTFYcnJ4cWUxVk5oclpTSldNX2lpU1g0dmxfenFXM1pPdXRLdWxSSzNIOVp0NVFEd0k1ZmZoTkJfaUQwRGNySmVSUFFhYmtyX0lobDR4aGtJcGUyTkpycFBRRlhzRkZ0ZUtfOURzOUJCcnlFaExEV0Z6NmZzODdiZGZRNGgzN2FYM01MUkJxWGJhdm03VmdOdGhITk1tZFYzTlE0SDd0WWRIVlJHM1k?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlB3dnZBWExHanFHYld3WmJtUE9fUTFYcnJ4cWUxVk5oclpTSldNX2lpU1g0dmxfenFXM1pPdXRLdWxSSzNIOVp0NVFEd0k1ZmZoTkJfaUQwRGNySmVSUFFhYmtyX0lobDR4aGtJcGUyTkpycFBRRlhzRkZ0ZUtfOURzOUJCcnlFaExEV0Z6NmZzODdiZGZRNGgzN2FYM01MUkJxWGJhdm03VmdOdGhITk1tZFYzTlE0SDd0WWRIVlJHM1k?oc=5</guid>
-            <pubDate>Fri, 06 Mar 2026 22:00:22 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 伊朗战争导致美国原油期货每桶上涨 12% 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[贝森特称美国可能取消对更多俄罗斯石油的制裁 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3FYOWNQcDRfWGRYQ0RHMnVMcjFnNjR4VFFaWW1fcExCY0lTTUNJWURXc3FWN3hwM0lPb05jSWE5enpnZE1TQWc1cjhYTUsyd2tKanVVZ1p5WFNGOWYtUDNobk1NaW5UZGU3UHJaZ1hMdEhBamx5MDZNcUVCY2dQN1dDY2E2YjFJOTgtMVRRR3dsUmNDNVZualFpcVY1c0x6Tk52a3JaVlI?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3FYOWNQcDRfWGRYQ0RHMnVMcjFnNjR4VFFaWW1fcExCY0lTTUNJWURXc3FWN3hwM0lPb05jSWE5enpnZE1TQWc1cjhYTUsyd2tKanVVZ1p5WFNGOWYtUDNobk1NaW5UZGU3UHJaZ1hMdEhBamx5MDZNcUVCY2dQN1dDY2E2YjFJOTgtMVRRR3dsUmNDNVZualFpcVY1c0x6Tk52a3JaVlI?oc=5</guid>
@@ -689,25 +689,25 @@
             <description><![CDATA[[WSJ] 就业人数低于预期，这表明几乎每个行业的就业市场都继续陷入困境。]]></description>
         </item>
         <item>
-            <title><![CDATA[英伟达根据 2027 财年计划为首席执行官黄蜂设定了 400 万美元的目标现金奖金 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmJjZGR4NlA2eFpFTDAzQjQzMHhLR3ZVbGRiMlFvdnNZczN5MGMxWG4yNHV4amluNm9SR1BqdklJTzFWel9LbFB6dlVBdUhjdEE4ODRBY0V2M3FtNk12VG5kMjNaeXFiVkgxLWxWc2g4MF9tOGFhdTNZZm1hM3JLXzdHUkZIcFdRY0RCYVJOMlpUbUdJR2JYZFRBZVNIVnZNZHZhRG84dHVsTGMxZkJaMFd6NXBFdEE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmJjZGR4NlA2eFpFTDAzQjQzMHhLR3ZVbGRiMlFvdnNZczN5MGMxWG4yNHV4amluNm9SR1BqdklJTzFWel9LbFB6dlVBdUhjdEE4ODRBY0V2M3FtNk12VG5kMjNaeXFiVkgxLWxWc2g4MF9tOGFhdTNZZm1hM3JLXzdHUkZIcFdRY0RCYVJOMlpUbUdJR2JYZFRBZVNIVnZNZHZhRG84dHVsTGMxZkJaMFd6NXBFdEE?oc=5</guid>
-            <pubDate>Fri, 06 Mar 2026 21:26:18 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Nvidia 根据 2027 财年计划为 CEO 黄蜂设定了 400 万美元的目标现金奖金 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国提供200亿美元再保险计划刺激海湾石油流量]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-06/us-launches-20-billion-reinsurance-plan-to-ease-gulf-oil-trade</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-06/us-launches-20-billion-reinsurance-plan-to-ease-gulf-oil-trade</guid>
-            <pubDate>Fri, 06 Mar 2026 20:53:03 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 特朗普政府宣布了一项 200 亿美元的再保险计划，旨在恢复霍尔木兹海峡的航运，该海峡的交通在美国和以色列对伊朗的袭击中几乎停止。]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国国际贸易法院暂停 3 月 5 日的关税退款令 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGVyOThwVEh2QlN3SVZVYmcxWWpaaWZHbjFDdU5UcTJuMUVfM3FlZnBldndGdThUa1kwUTFudnZkeXpZdmFTXzkxckJjVjJTVVFQcFBUN2RZb3FPVVFSaEdFMFVoOE5DU1hNRTE0N0JpMlgtQ0REZzNFajI3SFh5TGJwTDVSV3hrdTJDbnVqc2p4Tm8yblhLVEtpdzdlNlVFRlBGcTBUQnFQM3JJN3hjTQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGVyOThwVEh2QlN3SVZVYmcxWWpaaWZHbjFDdU5UcTJuMUVfM3FlZnBldndGdThUa1kwUTFudnZkeXpZdmFTXzkxckJjVjJTVVFQcFBUN2RZb3FPVVFSaEdFMFVoOE5DU1hNRTE0N0JpMlgtQ0REZzNFajI3SFh5TGJwTDVSV3hrdTJDbnVqc2p4Tm8yblhLVEtpdzdlNlVFRlBGcTBUQnFQM3JJN3hjTQ?oc=5</guid>
             <pubDate>Fri, 06 Mar 2026 20:43:02 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国国际贸易法院暂停 3 月 5 日的关税退款令 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一份粗略的二月份就业报告暴露了美国对卫生工作者的依赖程度。 以下是最新劳工部报告中的一些主要趋势]]></title>
+            <link>https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/jobs/the-month-healthcare-jobs-stopped-propping-up-the-labor-market-200cf6c1</guid>
+            <pubDate>Fri, 06 Mar 2026 20:37:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 一份粗略的二月份就业报告暴露了美国对卫生工作者的依赖程度。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据彭博社报道，甲骨文和 OpenAI 放弃了德克萨斯州数据中心扩建计划 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPbU5ORE8zNV9kUEstSm95enlabmNpcFBHR0EwSWZiMFl2a1BNSjJITkVNZFNSeFByQVFvUXFlYlhtRXJPbjA4Rm5wWnBPRnc2WU9jQnpVZkRKdDA3TXFqVTNKNllzaDE4WGsyREVVdlBNVVl4Qkktb0FJLXZxMWVid21ScHBmb1NRcHA1c1c4ODdzcUdqNmV5MzNpekp1MzBVcmxiLUpMeFFTLXhZblV6VVdKYy1uTHJ4Y3Zha0pR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxPbU5ORE8zNV9kUEstSm95enlabmNpcFBHR0EwSWZiMFl2a1BNSjJITkVNZFNSeFByQVFvUXFlYlhtRXJPbjA4Rm5wWnBPRnc2WU9jQnpVZkRKdDA3TXFqVTNKNllzaDE4WGsyREVVdlBNVVl4Qkktb0FJLXZxMWVid21ScHBmb1NRcHA1c1c4ODdzcUdqNmV5MzNpekp1MzBVcmxiLUpMeFFTLXhZblV6VVdKYy1uTHJ4Y3Zha0pR?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 20:18:27 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 据彭博社报道，甲骨文和 OpenAI 放弃了德克萨斯州数据中心扩建计划 路透]]></description>
         </item>
     </channel>
 </rss>
