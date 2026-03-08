@@ -4,10 +4,31 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 08 Mar 2026 22:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 23:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[由于韩国央行推迟加息，韩国债券收益率似乎受到限制]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-08/korean-bond-yields-look-capped-as-bok-to-push-back-rate-hikes</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/korean-bond-yields-look-capped-as-bok-to-push-back-rate-hikes</guid>
+            <pubDate>Sun, 08 Mar 2026 23:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 策略师表示，韩国短期债券收益率不太可能重回2月份的高点，因为韩国央行优先考虑的是稳定市场而不是短期加息。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[伊朗主导的溃败吸引买家对亚洲芯片股反弹的押注]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-08/iran-led-rout-tempts-dip-buyers-bets-on-asia-chip-stock-rebound</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/iran-led-rout-tempts-dip-buyers-bets-on-asia-chip-stock-rebound</guid>
+            <pubDate>Sun, 08 Mar 2026 23:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 战争引发的亚洲股市崩盘正激发全球投资者增加对主要芯片公司投资的兴趣，反映出人们对人工智能繁荣能够抵御中东冲突的信心。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[石油价格上涨引发对通胀加速的担忧，金价延续跌势]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-08/gold-extends-decline-as-oil-tops-110-and-inflation-fears-mount</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/gold-extends-decline-as-oil-tops-110-and-inflation-fears-mount</guid>
+            <pubDate>Sun, 08 Mar 2026 22:35:38 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 中东战争延续到第二周，油价飙升至每桶100美元以上，美元走强和通胀风险打压金价下跌。]]></description>
+        </item>
         <item>
             <title><![CDATA[新城发展(01030)子公司拟分拆商业不动产REITs]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3250221</link>
@@ -28,6 +49,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3250219</guid>
             <pubDate>Sun, 08 Mar 2026 22:35:08 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Starmer 承诺为英国家庭提供支持，应对油价 100 美元的担忧]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-08/starmer-pledges-support-for-uk-households-on-fears-of-100-oil</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/starmer-pledges-support-for-uk-households-on-fears-of-100-oil</guid>
+            <pubDate>Sun, 08 Mar 2026 22:30:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于油价触及每桶 100 美元，而伊朗战争几乎没有解决的迹象，英国首相基尔·斯塔默 (Keir Starmer) 提出了帮助家庭应对能源费用飙升的前景。]]></description>
         </item>
         <item>
             <title><![CDATA[战争愈演愈烈，美国股市期货下跌，油价突破 100 美元：市场总结]]></title>
@@ -63,13 +91,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2026-03-08/iran-latest-mmia2vxb</guid>
             <pubDate>Sun, 08 Mar 2026 21:42:23 GMT</pubDate>
             <description><![CDATA[[Bloomberg] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高盛称对冲基金在美国股市暴跌期间增加了空头押注]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-08/goldman-says-hedge-funds-add-short-bets-on-us-stocks-amid-rout</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/goldman-says-hedge-funds-add-short-bets-on-us-stocks-amid-rout</guid>
-            <pubDate>Sun, 08 Mar 2026 20:23:10 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于中东紧张局势几乎没有消退的迹象，快钱投资者正在加大对美国股市的押注，押注未来会出现更多痛苦。]]></description>
         </item>
         <item>
             <title><![CDATA[股票和债券交易员关注另一个波动性的开盘]]></title>
@@ -119,6 +140,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTDk2dUliTE9RM2EwUHJCWkEzVHB1QUNaSG82b2VJd3RuNTAxcGlWaFV6TzlsQU1NTjY5SVhWNWpNWEFvRTdfQjRLcDcyQk80XzBXTG9BeENuaUdYeWt0R1JSTGNra1ZicXlvQzlpWVg1RFBfNnZKamUyWFFBS2tkZUJjZVFYTk5Ta3FZU2xmZXdPakxIOUswMDNNbHR5eE1hQUJTUklEQndMQklCQ2pLMnR5YUVjNHY0?oc=5</guid>
             <pubDate>Sun, 08 Mar 2026 16:04:29 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 英国首相斯塔默与美国总统特朗普就中东问题进行交谈 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[油库被炸后德黑兰居民被告知今晚酸雨]]></title>
+            <link>https://www.ftchinese.com/story/001109135</link>
+            <guid isPermaLink="false">https://www.ftchinese.com/story/001109135</guid>
+            <pubDate>Sun, 08 Mar 2026 16:00:00 GMT</pubDate>
+            <description><![CDATA[[FT Chinese] 以军轰炸伊朗首都的多个油库后，伊朗红新月会发出警告，人口1000万的德黑兰一旦爆发，雨水可能“高度危险且呈现谜样”。]]></description>
         </item>
         <item>
             <title><![CDATA[迪士尼皮克斯《Hoppers》卷土重来，票房收入 4600 万美元]]></title>
@@ -282,27 +310,6 @@
             <description><![CDATA[[Bloomberg] 在国际妇女节当天，彭博社的克里斯蒂娜·鲁菲尼和大卫·古拉与美国雪橇伟大选手凯莉·汉弗莱斯和埃拉娜·迈耶斯·泰勒进行了交谈，她们都是六届奥运会奖牌获得者，也是四十多岁的母亲。 两位运动员都强调支持系统（家庭、儿童保育、队友和国家计划）对于使女性能够参加最高水平的比赛的重要性。 观看“彭博本周末”节目。   （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[由于伊朗战争封锁油轮，伊拉克石油产量骤降约 60%]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-08/iraq-oil-output-plunges-about-60-as-iran-war-blocks-tankers</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/iraq-oil-output-plunges-about-60-as-iran-war-blocks-tankers</guid>
-            <pubDate>Sun, 08 Mar 2026 12:31:02 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于伊朗战争意味着没有足够的油轮来装载该国的原油，伊拉克的石油产量已下降了约 60%。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伊朗冲突使新兴市场的复苏面临考验]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-08/iran-conflict-puts-the-emerging-markets-revival-to-the-test</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/iran-conflict-puts-the-emerging-markets-revival-to-the-test</guid>
-            <pubDate>Sun, 08 Mar 2026 12:30:03 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 伊朗战争对华尔街最喜欢的交易之一——新兴市场造成了打击。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伊朗冲突一周后的地区动态]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-08/regional-dynamics-one-week-into-iran-conflict-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-08/regional-dynamics-one-week-into-iran-conflict-video</guid>
-            <pubDate>Sun, 08 Mar 2026 12:17:34 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 涉及伊朗的军事冲突持续一周后，彭博周末特约编辑米沙尔·侯赛因深入研究了沙特阿拉伯、伊朗、阿联酋和美国等主要地区参与者之间的复杂关系。 观看“彭博本周末”节目。   （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[“代理AI”崛起，CPU翻身？ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QOWlFRUVYQktNeG5NRVBtRTJsamM1dlM1NWFObHNiRTFzbjVDU1JiaGZhQW9nY3RYWFI5SXJFYWZBYkM0a2otOFNINWRXcVZ0aTBv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QOWlFRUVYQktNeG5NRVBtRTJsamM1dlM1NWFObHNiRTFzbjVDU1JiaGZhQW9nY3RYWFI5SXJFYWZBYkM0a2otOFNINWRXcVZ0aTBv?oc=5</guid>
@@ -411,7 +418,7 @@
             <title><![CDATA[美国法官宣布卡里·莱克 (Kari Lake) 作为美国之音首席执行官采取的 2025 年行动无效，包括裁员 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlpIbG1Eclo0dzB4bnNRa3paQW4xenZteHczTTlFdUk0MXBPTGtsZWdKZm5wU0ZLZ2EyM0JtN2lmcWhqcWJpT3ZGRkFrV1dXQlQ0TXlGeFpwYXRteTFnUmtBTU8xMi1qVlkzNGVJdXMtZ2FjX1dBUlVZTFlSYk83emU4QlQ0T0QwREoxdmlBQk9EV3hBVjBpbW1kMEtkMHZ0TzRnMWtkUGE4blJyNXJTdXdadEFkeC1ab2s5TkFsWWx1N1ZHSkVKcU1ydkMwbGl3SWQw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWlpIbG1Eclo0dzB4bnNRa3paQW4xenZteHczTTlFdUk0MXBPTGtsZWdKZm5wU0ZLZ2EyM0JtN2lmcWhqcWJpT3ZGRkFrV1dXQlQ0TXlGeFpwYXRteTFnUmtBTU8xMi1qVlkzNGVJdXMtZ2FjX1dBUlVZTFlSYk83emU4QlQ0T0QwREoxdmlBQk9EV3hBVjBpbW1kMEtkMHZ0TzRnMWtkUGE4blJyNXJTdXdadEFkeC1ab2s5TkFsWWx1N1ZHSkVKcU1ydkMwbGl3SWQw?oc=5</guid>
-            <pubDate>Sun, 08 Mar 2026 02:02:42 GMT</pubDate>
+            <pubDate>Sun, 08 Mar 2026 02:02:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国法官宣布卡里·莱克 (Kari Lake) 作为美国之音首席执行官采取的 2025 年行动无效，包括裁员 路透]]></description>
         </item>
         <item>
@@ -548,13 +555,6 @@
             <description><![CDATA[[Reuters Business] 由于伊朗战争影响供应，印度提高烹饪天然气价格 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[2月中国外储重回3.4万亿美元 小幅增持黄金3万盎司 - Caixin.com]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Zc3I4dFZjZ213RjZpVTZFWm0wbTlrYXZQOW42ZWc1T3FTSjlPZEJLaW5PQlBydGx5TjNpRmV3anhEUW16MUVONmJRRGlhcEVhMkhtRHBSc3o0c096d3RNTHFR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Zc3I4dFZjZ213RjZpVTZFWm0wbTlrYXZQOW42ZWc1T3FTSjlPZEJLaW5PQlBydGx5TjNpRmV3anhEUW16MUVONmJRRGlhcEVhMkhtRHBSc3o0c096d3RNTHFR?oc=5</guid>
-            <pubDate>Sat, 07 Mar 2026 08:06:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 2月中国外储重回3.4万亿美元 小幅增持黄金3万盎司  Caixin.com]]></description>
-        </item>
-        <item>
             <title><![CDATA[全球市场回调何时结束？“2020年代市场”会重演“1970年代”滞胀剧本吗？ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE45RFg1Ullkc2RLTlIzeWw1VUd2aURWVm43ZDd1YkdvM1ltZWF4WFE4NkJKbUpUaEdTY1dRUmJHYVlsQWkyQ0M5eWtlMHJFaFM5TXZB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE45RFg1Ullkc2RLTlIzeWw1VUd2aURWVm43ZDd1YkdvM1ltZWF4WFE4NkJKbUpUaEdTY1dRUmJHYVlsQWkyQ0M5eWtlMHJFaFM5TXZB?oc=5</guid>
@@ -574,13 +574,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUG1JZ2p5Vzk0S2FtQzZNMjNQTkM3a2xyTmRjaHo3YXp4U0lXbFpfYkZmekNSQUMzczY0ZlpaSmJxeDFweGFHcmZPc0tQOWg4SmpPcXRNZE1zbTNiY1ZrdTdKZWkxV3Zadl9COEVXVWd0TXpsbFg1NTdtSFlCanNjU2pSVXBYbFBUMWI1SDlfbWdQSmo0Z3I5OUU3SEU3aDRXd0ZPNTAwYWQxRlBvWFI5bmFfVHpCQVEzT0YzUkdsamg5alE?oc=5</guid>
             <pubDate>Sat, 07 Mar 2026 06:04:18 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着战争蔓延，航空公司飞行员与无人机、导弹和压力作斗争 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于中东紧张局势，巴基斯坦将零售燃油价格提高约20% - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1ZsSjJORi11NmlOeDF3UnNoajN5ZVlqcl8zNDZHeUpDMWp2SmFXYWVfSzBoTWJ4a1ZSN3lyNHZFQmVHamV1TW9lM2NqVFYwaFY0XzVDS1hTWmczTXdLSWo4S2JHZ3dkQkpqdFA5X25mYlhibFlnQUNSVGtsY0Y3VktpMmNlMU5wTDFuMHJQQUJxdTMyTnhDZmVOaHdfaG56emhYZVlhUGNhVkdPU05RQ2c4NmxfSVZ0amNULXVYcw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1ZsSjJORi11NmlOeDF3UnNoajN5ZVlqcl8zNDZHeUpDMWp2SmFXYWVfSzBoTWJ4a1ZSN3lyNHZFQmVHamV1TW9lM2NqVFYwaFY0XzVDS1hTWmczTXdLSWo4S2JHZ3dkQkpqdFA5X25mYlhibFlnQUNSVGtsY0Y3VktpMmNlMU5wTDFuMHJQQUJxdTMyTnhDZmVOaHdfaG56emhYZVlhUGNhVkdPU05RQ2c4NmxfSVZ0amNULXVYcw?oc=5</guid>
-            <pubDate>Sat, 07 Mar 2026 06:00:23 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于中东紧张局势，巴基斯坦将零售燃油价格提高约 20% 路透]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普政府称被 ICE 逮捕的纳什维尔记者将获得正当程序 - 路透]]></title>
@@ -660,18 +653,18 @@
             <description><![CDATA[[Reuters Business] 据英国《金融时报》报道，美国在人类冲突中制定了严格的人工智能指南 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[短线交易监管新规发布 明确董监高持股计算口径 - Caixin.com]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOeVR2Y1pXWVpfMDVtUlVHQzl5alVCQW12MUZlVTFqR2U3Mnl0eHd0M0pJYlBtNEdaTGV3enlBWlpJRzJTdFRZQnd2T1pPaFQ4VnJWT2otS0RCa0Y1MWdnRUV3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOeVR2Y1pXWVpfMDVtUlVHQzl5alVCQW12MUZlVTFqR2U3Mnl0eHd0M0pJYlBtNEdaTGV3enlBWlpJRzJTdFRZQnd2T1pPaFQ4VnJWT2otS0RCa0Y1MWdnRUV3?oc=5</guid>
-            <pubDate>Sat, 07 Mar 2026 00:22:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 短线交易监管新规发布 明确董监高持股计算口径  Caixin.com]]></description>
-        </item>
-        <item>
             <title><![CDATA[Robinhood 的风险基金为投资者提供投资私营公司的机会，首日股价下跌 11%]]></title>
             <link>https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html</guid>
             <pubDate>Fri, 06 Mar 2026 23:41:32 GMT</pubDate>
             <description><![CDATA[[CNBC] Robinhood 的 Venture Fund I 周五在纽约证券交易所首次亮相时暴跌 11%，这让投资者对风险投资的兴趣产生了怀疑。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于中东紧张局势，巴基斯坦将零售燃油价格提高约20% - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1ZsSjJORi11NmlOeDF3UnNoajN5ZVlqcl8zNDZHeUpDMWp2SmFXYWVfSzBoTWJ4a1ZSN3lyNHZFQmVHamV1TW9lM2NqVFYwaFY0XzVDS1hTWmczTXdLSWo4S2JHZ3dkQkpqdFA5X25mYlhibFlnQUNSVGtsY0Y3VktpMmNlMU5wTDFuMHJQQUJxdTMyTnhDZmVOaHdfaG56emhYZVlhUGNhVkdPU05RQ2c4NmxfSVZ0amNULXVYcw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1ZsSjJORi11NmlOeDF3UnNoajN5ZVlqcl8zNDZHeUpDMWp2SmFXYWVfSzBoTWJ4a1ZSN3lyNHZFQmVHamV1TW9lM2NqVFYwaFY0XzVDS1hTWmczTXdLSWo4S2JHZ3dkQkpqdFA5X25mYlhibFlnQUNSVGtsY0Y3VktpMmNlMU5wTDFuMHJQQUJxdTMyTnhDZmVOaHdfaG56emhYZVlhUGNhVkdPU05RQ2c4NmxfSVZ0amNULXVYcw?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 23:25:39 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 由于中东紧张局势，巴基斯坦将零售燃油价格提高约 20% 路透]]></description>
         </item>
         <item>
             <title><![CDATA[非农爆冷叠加中东战火，美国股汇齐跌，大宗商品指数历史新高，美油飙升16%，“恐慌指数”VIX大涨 - 华尔街见闻]]></title>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TWUxhc3VNUUxhVldlV05QazI4TUN4WWc1RmVoQk13Mkh6N01Ia2llNExONm9EdFYyS2REcGZGWUtTdVpBNlMzN0daLUNrMVEzWU5V?oc=5</guid>
             <pubDate>Fri, 06 Mar 2026 22:06:12 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 油价、失业率齐升！“新美联储通讯社”：美联储最害怕的局面逼近  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[贝森特称美国可能取消对更多俄罗斯石油的制裁 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3FYOWNQcDRfWGRYQ0RHMnVMcjFnNjR4VFFaWW1fcExCY0lTTUNJWURXc3FWN3hwM0lPb05jSWE5enpnZE1TQWc1cjhYTUsyd2tKanVVZ1p5WFNGOWYtUDNobk1NaW5UZGU3UHJaZ1hMdEhBamx5MDZNcUVCY2dQN1dDY2E2YjFJOTgtMVRRR3dsUmNDNVZualFpcVY1c0x6Tk52a3JaVlI?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3FYOWNQcDRfWGRYQ0RHMnVMcjFnNjR4VFFaWW1fcExCY0lTTUNJWURXc3FWN3hwM0lPb05jSWE5enpnZE1TQWc1cjhYTUsyd2tKanVVZ1p5WFNGOWYtUDNobk1NaW5UZGU3UHJaZ1hMdEhBamx5MDZNcUVCY2dQN1dDY2E2YjFJOTgtMVRRR3dsUmNDNVZualFpcVY1c0x6Tk52a3JaVlI?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 21:57:55 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 贝森特表示，美国可能会取消对更多俄罗斯石油的制裁 - 路透中文网]]></description>
         </item>
     </channel>
 </rss>
