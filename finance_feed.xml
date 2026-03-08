@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 08 Mar 2026 20:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 20:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[高盛称对冲基金在美国股市暴跌期间增加了空头押注]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-08/goldman-says-hedge-funds-add-short-bets-on-us-stocks-amid-rout</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/goldman-says-hedge-funds-add-short-bets-on-us-stocks-amid-rout</guid>
+            <pubDate>Sun, 08 Mar 2026 20:23:10 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于中东紧张局势几乎没有消退的迹象，快钱投资者正在加大对美国股市的押注，押注未来会出现更多痛苦。]]></description>
+        </item>
         <item>
             <title><![CDATA[《今日美国》称，美国可能很快宣布与古巴达成经济协议]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-08/us-may-announce-economic-deal-with-cuba-soon-usa-today-says</link>
@@ -70,13 +77,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-08/-hoppers-opens-to-46-million-in-comeback-for-disney-s-pixar</guid>
             <pubDate>Sun, 08 Mar 2026 15:54:08 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 华特迪士尼公司 (Walt Disney Co.) 皮克斯工作室的新动画电影《霍珀斯》(Hoppers) 首映，成为美国和加拿大影院票房最高的电影，票房收入达 4,600 万美元。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科威特因中东冲突宣布不可抗力，削减原油产量 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZURTLWd2YkJiSm9fb1BJODAzd2xDX0gwZEhpS05IZzFWckJfaGpwN0hqdnlyMzlaZW1sdUpiQjBpS0FlRHh1TF8zcllMN1M3VmZILXNnSEkxdl96ZkZWa2VnV3hMa3poa0NRaVhnNkVnZTZXcjY4NnFpOF9wTEtGd191U3dETEx3dXJPaXNpQ3BBZmhLN1hMeDVrdUNKdzhxTzRjWE1EakhDYk4yTG13Wk1Vajk2VVVQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZURTLWd2YkJiSm9fb1BJODAzd2xDX0gwZEhpS05IZzFWckJfaGpwN0hqdnlyMzlaZW1sdUpiQjBpS0FlRHh1TF8zcllMN1M3VmZILXNnSEkxdl96ZkZWa2VnV3hMa3poa0NRaVhnNkVnZTZXcjY4NnFpOF9wTEtGd191U3dETEx3dXJPaXNpQ3BBZmhLN1hMeDVrdUNKdzhxTzRjWE1EakhDYk4yTG13Wk1Vajk2VVVQ?oc=5</guid>
-            <pubDate>Sun, 08 Mar 2026 15:47:24 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 科威特因中东冲突宣布不可抗力，削减原油产量 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国能源部长捍卫对俄罗斯石油制裁的豁免，并将其归咎于天然气价格上涨的担忧 - 路透中文网]]></title>
@@ -423,13 +423,6 @@
             <description><![CDATA[[华尔街见闻] 伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[美国通胀指标在伊朗战争前可能出现分歧]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-07/us-inflation-gauges-likely-diverged-before-war-in-iran</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-07/us-inflation-gauges-likely-diverged-before-war-in-iran</guid>
-            <pubDate>Sat, 07 Mar 2026 21:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在二月份就业报告惨淡对劳动力市场正在稳定的看法提出挑战之后，包括美联储首选价格指标在内的两份通胀报告将在未来一周浮出水面。]]></description>
-        </item>
-        <item>
             <title><![CDATA[OpenAI 硬件负责人在与五角大楼达成协议后辞职 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTJ2em9NVjIwZkxQOWl0dVVHMGZNZEtqT3lxN0hOOHo4VEUxbU1kZHp4eUNKWGVua2tEZ05idnZWbk5Fc2V6ZjlTMHFtM0R2RnlKem9DbldNZWRnOWwza3k0TFRnXzcxamlnYzJkWkxLSUtnc1ZIUkpwM01hUWlYNHp3b2x6bmJSR3dwMHlCTTZoWExwUGVhN212cGZXY2M?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTJ2em9NVjIwZkxQOWl0dVVHMGZNZEtqT3lxN0hOOHo4VEUxbU1kZHp4eUNKWGVua2tEZ05idnZWbk5Fc2V6ZjlTMHFtM0R2RnlKem9DbldNZWRnOWwza3k0TFRnXzcxamlnYzJkWkxLSUtnc1ZIUkpwM01hUWlYNHp3b2x6bmJSR3dwMHlCTTZoWExwUGVhN212cGZXY2M?oc=5</guid>
@@ -463,6 +456,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGUwZFpZLWg2djhvbWxFMDZFNmZ3NjBfTHFOb0lSbTAwdDAzeThfZzBKeGtqeGw3dHNwTVJjaWdlekxkTElhRUxleUdBN2I3RXlKdjNGLXdyeDJITmtPMkJKT3dMUER4QWY5YjVjMmppUGc2YW16UDBtcl9oQ1diRmZRNWNYTjU5RHRCTWNDejhkRXJycWtLdVduSF9EOW1IaUhFdUlndDVCOVVqMlA1WHY0TmRyTmJzOGFicll1eHRyVXo3alJYYTZvTEE?oc=5</guid>
             <pubDate>Sat, 07 Mar 2026 15:14:37 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着 Nexperia 争端再次升级，中国警告全球芯片短缺 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[科威特因中东冲突宣布不可抗力，削减原油产量 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZURTLWd2YkJiSm9fb1BJODAzd2xDX0gwZEhpS05IZzFWckJfaGpwN0hqdnlyMzlaZW1sdUpiQjBpS0FlRHh1TF8zcllMN1M3VmZILXNnSEkxdl96ZkZWa2VnV3hMa3poa0NRaVhnNkVnZTZXcjY4NnFpOF9wTEtGd191U3dETEx3dXJPaXNpQ3BBZmhLN1hMeDVrdUNKdzhxTzRjWE1EakhDYk4yTG13Wk1Vajk2VVVQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZURTLWd2YkJiSm9fb1BJODAzd2xDX0gwZEhpS05IZzFWckJfaGpwN0hqdnlyMzlaZW1sdUpiQjBpS0FlRHh1TF8zcllMN1M3VmZILXNnSEkxdl96ZkZWa2VnV3hMa3poa0NRaVhnNkVnZTZXcjY4NnFpOF9wTEtGd191U3dETEx3dXJPaXNpQ3BBZmhLN1hMeDVrdUNKdzhxTzRjWE1EakhDYk4yTG13Wk1Vajk2VVVQ?oc=5</guid>
+            <pubDate>Sat, 07 Mar 2026 14:06:39 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 科威特因中东冲突宣布不可抗力，削减原油产量 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美银与存储一线厂商交流：中东目前影响甚微，2月销售异常强劲 - 华尔街见闻]]></title>
@@ -507,13 +507,6 @@
             <description><![CDATA[[华尔街见闻] 没了卡塔尔的LNG—中国化工的机会，亚洲电力的风险  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[尼泊尔竞选活动内幕可能让巴伦德拉·沙阿上台 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOERwenl2RTNORDBwSE85bmRSdGNWN191SjNBRTIwSEJteHRmM29WSGl1MlZWQzMtOGRMbkJtaTBtY1AxZ2JIeEpuVEpKY1FRcG55aHdHQWxrdnF4STE4WHU1Zy04T0hjWUh0YjlvVXJYQWQ1dTkyM2V5LUxyZWdHUHFLRVJqRWJ0cl9FUDBGQzdfcVdiR3RETEJGS2w3Wk5DM1Ezc2RPMThsdjB6bWtLU0lNcjRsVjk1?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOERwenl2RTNORDBwSE85bmRSdGNWN191SjNBRTIwSEJteHRmM29WSGl1MlZWQzMtOGRMbkJtaTBtY1AxZ2JIeEpuVEpKY1FRcG55aHdHQWxrdnF4STE4WHU1Zy04T0hjWUh0YjlvVXJYQWQ1dTkyM2V5LUxyZWdHUHFLRVJqRWJ0cl9FUDBGQzdfcVdiR3RETEJGS2w3Wk5DM1Ezc2RPMThsdjB6bWtLU0lNcjRsVjk1?oc=5</guid>
-            <pubDate>Sat, 07 Mar 2026 09:35:50 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 尼泊尔竞选活动内部可能让巴伦德拉·沙阿掌权 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[3月6日经济主题记者会的十大增量信息 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxQS1GNjU3d2JRUDR4Y0lzVWFlbEg5ZC0tMEJCMXNqN00wR0UycHZCOFJ1ZDdSajdUVjdqeDllMFlNQ0U0YlpBNWVPaHo4V3Q3dnRr?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxQS1GNjU3d2JRUDR4Y0lzVWFlbEg5ZC0tMEJCMXNqN00wR0UycHZCOFJ1ZDdSajdUVjdqeDllMFlNQ0U0YlpBNWVPaHo4V3Q3dnRr?oc=5</guid>
@@ -528,11 +521,11 @@
             <description><![CDATA[[Reuters Business] 由于伊朗战争影响供应，印度提高烹饪天然气价格 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[2月中国外储重回3.4万亿美元 小幅增持黄金3万盎司 - 财新]]></title>
+            <title><![CDATA[2月中国外储重回3.4万亿美元 小幅增持黄金3万盎司 - Caixin.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Zc3I4dFZjZ213RjZpVTZFWm0wbTlrYXZQOW42ZWc1T3FTSjlPZEJLaW5PQlBydGx5TjNpRmV3anhEUW16MUVONmJRRGlhcEVhMkhtRHBSc3o0c096d3RNTHFR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Zc3I4dFZjZ213RjZpVTZFWm0wbTlrYXZQOW42ZWc1T3FTSjlPZEJLaW5PQlBydGx5TjNpRmV3anhEUW16MUVONmJRRGlhcEVhMkhtRHBSc3o0c096d3RNTHFR?oc=5</guid>
             <pubDate>Sat, 07 Mar 2026 08:06:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 2月中国外储重回3.4万亿美元 小幅增持黄金3万盎司  财新]]></description>
+            <description><![CDATA[[财新网] 2月中国外储重回3.4万亿美元 小幅增持黄金3万盎司  Caixin.com]]></description>
         </item>
         <item>
             <title><![CDATA[全球市场回调何时结束？“2020年代市场”会重演“1970年代”滞胀剧本吗？ - 华尔街见闻]]></title>
@@ -552,7 +545,7 @@
             <title><![CDATA[随着战争蔓延，航空公司飞行员与无人机、导弹和压力作斗争 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUG1JZ2p5Vzk0S2FtQzZNMjNQTkM3a2xyTmRjaHo3YXp4U0lXbFpfYkZmekNSQUMzczY0ZlpaSmJxeDFweGFHcmZPc0tQOWg4SmpPcXRNZE1zbTNiY1ZrdTdKZWkxV3Zadl9COEVXVWd0TXpsbFg1NTdtSFlCanNjU2pSVXBYbFBUMWI1SDlfbWdQSmo0Z3I5OUU3SEU3aDRXd0ZPNTAwYWQxRlBvWFI5bmFfVHpCQVEzT0YzUkdsamg5alE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUG1JZ2p5Vzk0S2FtQzZNMjNQTkM3a2xyTmRjaHo3YXp4U0lXbFpfYkZmekNSQUMzczY0ZlpaSmJxeDFweGFHcmZPc0tQOWg4SmpPcXRNZE1zbTNiY1ZrdTdKZWkxV3Zadl9COEVXVWd0TXpsbFg1NTdtSFlCanNjU2pSVXBYbFBUMWI1SDlfbWdQSmo0Z3I5OUU3SEU3aDRXd0ZPNTAwYWQxRlBvWFI5bmFfVHpCQVEzT0YzUkdsamg5alE?oc=5</guid>
-            <pubDate>Sat, 07 Mar 2026 06:07:49 GMT</pubDate>
+            <pubDate>Sat, 07 Mar 2026 06:08:07 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 随着战争蔓延，航空公司飞行员与无人机、导弹和压力作斗争 路透]]></description>
         </item>
         <item>
@@ -647,11 +640,11 @@
             <description><![CDATA[[Reuters Business] 据英国《金融时报》报道，美国在人类冲突中制定了严格的人工智能指南 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[短线交易监管新规发布 明确董监高持股计算口径 - 财新]]></title>
+            <title><![CDATA[短线交易监管新规发布 明确董监高持股计算口径 - Caixin.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOeVR2Y1pXWVpfMDVtUlVHQzl5alVCQW12MUZlVTFqR2U3Mnl0eHd0M0pJYlBtNEdaTGV3enlBWlpJRzJTdFRZQnd2T1pPaFQ4VnJWT2otS0RCa0Y1MWdnRUV3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOeVR2Y1pXWVpfMDVtUlVHQzl5alVCQW12MUZlVTFqR2U3Mnl0eHd0M0pJYlBtNEdaTGV3enlBWlpJRzJTdFRZQnd2T1pPaFQ4VnJWT2otS0RCa0Y1MWdnRUV3?oc=5</guid>
             <pubDate>Sat, 07 Mar 2026 00:22:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 短线交易监管新规发布 明确董监高持股计算口径  财新]]></description>
+            <description><![CDATA[[财新网] 短线交易监管新规发布 明确董监高持股计算口径  Caixin.com]]></description>
         </item>
         <item>
             <title><![CDATA[Robinhood 的风险基金为投资者提供投资私营公司的机会，首日股价下跌 11%]]></title>
@@ -694,6 +687,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TWUxhc3VNUUxhVldlV05QazI4TUN4WWc1RmVoQk13Mkh6N01Ia2llNExONm9EdFYyS2REcGZGWUtTdVpBNlMzN0daLUNrMVEzWU5V?oc=5</guid>
             <pubDate>Fri, 06 Mar 2026 22:06:12 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 油价、失业率齐升！“新美联储通讯社”：美联储最害怕的局面逼近  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[伊朗战争导致美国原油期货每桶上涨12% - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlB3dnZBWExHanFHYld3WmJtUE9fUTFYcnJ4cWUxVk5oclpTSldNX2lpU1g0dmxfenFXM1pPdXRLdWxSSzNIOVp0NVFEd0k1ZmZoTkJfaUQwRGNySmVSUFFhYmtyX0lobDR4aGtJcGUyTkpycFBRRlhzRkZ0ZUtfOURzOUJCcnlFaExEV0Z6NmZzODdiZGZRNGgzN2FYM01MUkJxWGJhdm03VmdOdGhITk1tZFYzTlE0SDd0WWRIVlJHM1k?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlB3dnZBWExHanFHYld3WmJtUE9fUTFYcnJ4cWUxVk5oclpTSldNX2lpU1g0dmxfenFXM1pPdXRLdWxSSzNIOVp0NVFEd0k1ZmZoTkJfaUQwRGNySmVSUFFhYmtyX0lobDR4aGtJcGUyTkpycFBRRlhzRkZ0ZUtfOURzOUJCcnlFaExEV0Z6NmZzODdiZGZRNGgzN2FYM01MUkJxWGJhdm03VmdOdGhITk1tZFYzTlE0SDd0WWRIVlJHM1k?oc=5</guid>
+            <pubDate>Fri, 06 Mar 2026 22:00:22 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 伊朗战争导致美国原油期货每桶上涨 12% 路透]]></description>
         </item>
         <item>
             <title><![CDATA[贝森特称美国可能取消对更多俄罗斯石油的制裁 - 路透中文网]]></title>
