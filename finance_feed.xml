@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 10 Mar 2026 22:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 22:53:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[随着交易员消化中东战争的不确定性，金价稳定]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-10/gold-steadies-as-traders-digest-uncertainty-over-middle-east-war</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-10/gold-steadies-as-traders-digest-uncertainty-over-middle-east-war</guid>
+            <pubDate>Tue, 10 Mar 2026 22:21:19 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 金价几乎没有变化，因为交易员消化了美国官员关于中东战争的相互矛盾的声明，这加剧了能源市场的极度波动。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[交易员努力应对美国关于霍尔木兹海峡的复杂信息，油价上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-10/latest-oil-market-news-and-analysis-for-march-11</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-10/latest-oil-market-news-and-analysis-for-march-11</guid>
+            <pubDate>Tue, 10 Mar 2026 22:12:34 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于市场努力应对特朗普政府有关伊朗战争和通过重要的霍尔木兹海峡的航运的评论迅速转变，油价在又一个动荡的交易日后攀升。]]></description>
+        </item>
         <item>
             <title><![CDATA[美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3254329</link>
@@ -282,6 +296,13 @@
             <description><![CDATA[[Reuters Business] 确保霍尔木兹海峡航运安全面临哪些挑战？   路透社]]></description>
         </item>
         <item>
+            <title><![CDATA[EIA称，未来两个月因伊朗战争布伦特原油价格将维持在95美元以上 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGFIWXNmTDU0TzZzSXVPNnJDRnhoLUxzMlIyUWFZVnVvQTZVaHowT0JnUnF1RWZwNFdqTUNHaDV4SmFMZGstTDVEc1R2NERYWVlGcEtRdGhlMEttdlVIR2dGNUJBa1lhY2UxcEU1OWE4NG5OZlo4eXFiWUh1Qkw0alhHSko1QkdhMTJYeGZQTlhxNEFYMjAwWnJ5T1lhUW9KMjhTa2JFYl9NMkhNeFhNbmpINC02OTBlU0ZiM0VrU3BXNDBlYmVJUjk2MUI?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxPUGFIWXNmTDU0TzZzSXVPNnJDRnhoLUxzMlIyUWFZVnVvQTZVaHowT0JnUnF1RWZwNFdqTUNHaDV4SmFMZGstTDVEc1R2NERYWVlGcEtRdGhlMEttdlVIR2dGNUJBa1lhY2UxcEU1OWE4NG5OZlo4eXFiWUh1Qkw0alhHSko1QkdhMTJYeGZQTlhxNEFYMjAwWnJ5T1lhUW9KMjhTa2JFYl9NMkhNeFhNbmpINC02OTBlU0ZiM0VrU3BXNDBlYmVJUjk2MUI?oc=5</guid>
+            <pubDate>Tue, 10 Mar 2026 16:23:08 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] EIA称，未来两个月因伊朗战争布伦特原油价格将维持在95美元以上 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[随着战争持续，汽油价格上涨和库存波动可能对美国低收入和高收入消费者造成打击 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkpqdlZXSlBlV0RtUnNiM0NxbjQxalhhZ2VHSllKZUkxTUJBMWwwV2lKUlZwTHdIck1ENzN1NjE1YVl2dUNqZHJaUlh6MlNIa3VOMGdZSHFpVEtHQ21uVEhpbnoxQV9kYTlYSTBDTndFQVNRUTQ3T3BoTUJ4NGJJT1k4Tl9DQVJqXzBuUS1CbG1aWU5ZUzZWU2hyNDNZa2FwWjJ6a3VvVm9vd1BwNTZvTGZuZkNnWno5UkNjMTBHcFdNQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRkpqdlZXSlBlV0RtUnNiM0NxbjQxalhhZ2VHSllKZUkxTUJBMWwwV2lKUlZwTHdIck1ENzN1NjE1YVl2dUNqZHJaUlh6MlNIa3VOMGdZSHFpVEtHQ21uVEhpbnoxQV9kYTlYSTBDTndFQVNRUTQ3T3BoTUJ4NGJJT1k4Tl9DQVJqXzBuUS1CbG1aWU5ZUzZWU2hyNDNZa2FwWjJ6a3VvVm9vd1BwNTZvTGZuZkNnWno5UkNjMTBHcFdNQQ?oc=5</guid>
@@ -301,6 +322,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxQVVpiSkVuSEN0LXoxMkE2QlBIWmZBcTNhbVB4Yl9FRU1kUGtGaE8tMnlfczdzR25MNS1fMVh3WjJ3ZXJxNFo1WnU1cHhCakRDOHVtSVZqQU5zaF9IMjgxdGFZakVIV25lc2duUGRYSFNNdC1vOFBDNFJ0cklLcHhNSUlVQUdpM01CZjdDTGNFQmlGNnZaQXlWVzk2cmJaLWt5em81R3dIRTZ2NzlPTVBZ?oc=5</guid>
             <pubDate>Tue, 10 Mar 2026 15:32:26 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 俄罗斯油价飙升，但油轮成本侵蚀收益 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃隆·马斯克表示 X Money 将于下个月进入早期公众访问阶段 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTY2ZTFEem9zbWtocFR3WGlVR296enhUS0VKdy1VNi1TQnNWbGhuWnM4ZExJa29BaS1IVWQ0TUtZbTZzMFZfVG85NW15WEQzV19oMEZXSEZQZVVYaTN0Ujdkb3dHZFZlR2UtYVh6SUxtSTlMVFZfOUZkYzFkbk1JVjdGM2ZueUNUaldkUGtra0JzMWpEU0ZTNTNTQm1tVWhnMTRsaTRHY2U2NzhUNl9QQ2RsUlNYMlpHMGYzQWtFSjJSYjg?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTY2ZTFEem9zbWtocFR3WGlVR296enhUS0VKdy1VNi1TQnNWbGhuWnM4ZExJa29BaS1IVWQ0TUtZbTZzMFZfVG85NW15WEQzV19oMEZXSEZQZVVYaTN0Ujdkb3dHZFZlR2UtYVh6SUxtSTlMVFZfOUZkYzFkbk1JVjdGM2ZueUNUaldkUGtra0JzMWpEU0ZTNTNTQm1tVWhnMTRsaTRHY2U2NzhUNl9QQ2RsUlNYMlpHMGYzQWtFSjJSYjg?oc=5</guid>
+            <pubDate>Tue, 10 Mar 2026 15:07:05 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 埃隆·马斯克表示 X Money 将于下个月进入早期公众访问阶段 路透]]></description>
         </item>
         <item>
             <title><![CDATA[保时捷计划通过削减成本和内燃机来重获速度 - 路透中文网]]></title>
@@ -401,13 +429,6 @@
             <description><![CDATA[[华尔街见闻] 特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[美国天然气因天气温和、全球价格下跌而扩大损失]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-10/us-natural-gas-extends-losses-on-mild-weather-global-price-drop</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-10/us-natural-gas-extends-losses-on-mild-weather-global-price-drop</guid>
-            <pubDate>Tue, 10 Mar 2026 13:35:11 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国天然气期货连续第二天下跌，原因是天气预报转暖，以及特朗普政府就伊朗战争状况发出混杂的信息后，全球石油和天然气价格在交易时段疯狂下跌。]]></description>
-        </item>
-        <item>
             <title><![CDATA[高盛交易员：回避本轮反弹，更大的市场隐患尚未消散 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE05YXo2ZHlTazZoWjVPM1k2S1V2aWNsLTZSQm9MeGUtaE96Q0VETlZnRHhud043RlFqZkpTbGcwZU9VdHJLVTUwYnVFYjV2djdZQnlN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE05YXo2ZHlTazZoWjVPM1k2S1V2aWNsLTZSQm9MeGUtaE96Q0VETlZnRHhud043RlFqZkpTbGcwZU9VdHJLVTUwYnVFYjV2djdZQnlN?oc=5</guid>
@@ -441,13 +462,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxQbElwdjQ0NDNWZDVqTWpDODJXM09IczhGSGs0S3psVnBrQ1hQdHhySzBGbjZONUtkX1NmaXY3S3AzcVFJNUZsRWtrQjBXZDFrcFNHQjFndHl3T1czUE4xVTJJbi1HcUE0WUxZc3Q5cUpmVmpVODFTWVltY1VQNWRUVFFjd1hqVTlUMVdWMkZiaUZBUzd0UlIwelpkb3lVRXg2enVmX2JyVXk5Q1po?oc=5</guid>
             <pubDate>Tue, 10 Mar 2026 12:40:19 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Wood Mackenzie 称，海湾地区关闭期间油价可能触及 150 美元 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安大略省教师协会自 2009 年以来首次出现私募股权亏损]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-10/spacex-gold-drive-gains-at-ontario-teachers-despite-private-equity-losses</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-10/spacex-gold-drive-gains-at-ontario-teachers-despite-private-equity-losses</guid>
-            <pubDate>Tue, 10 Mar 2026 12:30:34 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 安大略省教师养老金计划 (Ontario Teachers’ Pension Plan) 正在彻底改革其私募股权投资方式，此前这家价值 2000 亿美元的资产管理公司在该投资组合上出现了 16 年来的首次亏损。]]></description>
         </item>
         <item>
             <title><![CDATA[中国央行主管媒体：适度宽松的货币政策怎么干？ - 华尔街见闻]]></title>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWM1OVIwTkhOMGFmTW5mY1g4UHE5SmVnOWY5LW5kcnoyWTl2UlFuUFhPd3VOcUN3ZU5wanVIS1RaZlNvX3lyZEJOWVVQTi13WlBlV3daT29VSzdjd1FVVWdQNWVqdFVTdHg3TlIxTTRUVDlOZFJKNFhrYkhHV1pSMnRFT002eE80YXVHb1pzc1Vya0VVRFhKTWg5RGVOWWJha2RVWDBHUjR2WWdpbmpyYjlLamJ0bmJ4aklxZw?oc=5</guid>
             <pubDate>Tue, 10 Mar 2026 07:33:48 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 泰国命令官员使用楼梯并在家工作以推动节能行动 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[今年收益44%，平安基金林清源：AI趋势不变，围绕AI电力布局 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiQkZwcVFaUTBxWWZhZ21GVkk2TGJFRVJLWEhsQ3RNVnJNaG92MkZmRGRVMVdVNlo4MWlHS09hd2Q5NWpPV3VXMXJIc2MyU2pjVUlj?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiQkZwcVFaUTBxWWZhZ21GVkk2TGJFRVJLWEhsQ3RNVnJNaG92MkZmRGRVMVdVNlo4MWlHS09hd2Q5NWpPV3VXMXJIc2MyU2pjVUlj?oc=5</guid>
-            <pubDate>Tue, 10 Mar 2026 07:14:26 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 今年收益44%，平安基金林清源：AI趋势不变，围绕AI电力布局  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿美公司认为，如果霍尔木兹海峡继续被封锁，石油市场将面临“灾难性后果” - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnRReWlfYmtYZFIwUjV1MG10azR4THM5VHpXTDFVVm9fTnpmTlNKQ1dXeUdjd2s0aGZCclJWb2Q1YWxDSVJTRmZ6U3M5aXJzaGQwbkVOaGgwTHhKR29zamEzRXRvZmFrN2pnaV9rTmJGUkFkUEsxM3pyVVdYaXNyR2VteDYzc0JKOE1xcExUSVRJOHIxX0NTWGxfMWZzTUJxM2FJaEZ4ODkwWlgwR1RzV1FoSTMxaXkxWjY4dmRUbGI?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnRReWlfYmtYZFIwUjV1MG10azR4THM5VHpXTDFVVm9fTnpmTlNKQ1dXeUdjd2s0aGZCclJWb2Q1YWxDSVJTRmZ6U3M5aXJzaGQwbkVOaGgwTHhKR29zamEzRXRvZmFrN2pnaV9rTmJGUkFkUEsxM3pyVVdYaXNyR2VteDYzc0JKOE1xcExUSVRJOHIxX0NTWGxfMWZzTUJxM2FJaEZ4ODkwWlgwR1RzV1FoSTMxaXkxWjY4dmRUbGI?oc=5</guid>
-            <pubDate>Tue, 10 Mar 2026 07:05:01 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 沙特阿美公司认为，如果霍尔木兹海峡仍然被封锁，石油市场将面临“灾难性后果” - 路透中文网]]></description>
         </item>
     </channel>
 </rss>
