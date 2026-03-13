@@ -4,10 +4,18 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 13 Mar 2026 23:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 23:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[华尔街周刊 | 美国就业疲软、瑞典国防支出、私人信贷困境]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-03-13/wall-street-week-yellow-alert-on-private-credit-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-13/wall-street-week-yellow-alert-on-private-credit-video</guid>
+            <pubDate>Fri, 13 Mar 2026 23:14:02 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 本周，威利特顾问公司 (Willett Advisors) 的史蒂文·拉特纳 (Steven Rattner) 解释了美国劳动力市场为何疲软，以及关税、人工智能和滞胀风险接下来可能意味着什么。 随着欧洲准备在国防上投入更多资金，瑞典正在成为欧洲大陆发展中一个不太可能但却至关重要的参与者。 此外，随着一些投资者试图将资金撤出，私人信贷的优势正在变成弱点。 后来，尼泊尔的 Z 世代抗议活动推翻了政府，现在该国选民正试图将这场起义转化为持久的变革。
+  （来源：彭博社）]]></description>
+        </item>
         <item>
             <title><![CDATA[美股“七巨头”全部进入技术性回调区间 微软(MSFT.US)今年至今已累跌超18%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3261205</link>
@@ -236,13 +244,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-13/eni-sees-path-to-exporting-venezuelan-gas-in-post-maduro-opening</guid>
             <pubDate>Fri, 13 Mar 2026 18:13:51 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 意大利能源公司埃尼公司看到了出口委内瑞拉天然气的潜力，这是这个加勒比国家在美国支持的临时政府领导下逐步重返国际市场的新迹象。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[帕特尔：美联储不想先发制人地降息]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-13/fed-doesn-t-want-to-preemptively-cut-patel-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-13/fed-doesn-t-want-to-preemptively-cut-patel-video</guid>
-            <pubDate>Fri, 13 Mar 2026 18:12:29 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 交易员目前已完全消化 2027 年中下一次降息的预期，越来越多的华尔街经济学家也将他们对下一次降息的呼吁推到了更晚的日期。  Parametric 的 SMA 固定收益投资组合经理 Nisha Patel 与 Emily Graffeo 和 Matt Miller 共同探讨“彭博实际收益率”。   （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[摩根大通致力于成为初创企业界的新硅谷银行]]></title>
