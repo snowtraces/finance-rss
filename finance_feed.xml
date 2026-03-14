@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 14 Mar 2026 09:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 10:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[家庭机器人迎奇点时刻：科沃斯携手小龙虾，敲开具身智能商业大门]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3261448</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3261448</guid>
+            <pubDate>Sat, 14 Mar 2026 10:05:59 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高盛:软件巨头面临"根本性转型",代理式AI崛起带来挑战]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3261446</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3261446</guid>
+            <pubDate>Sat, 14 Mar 2026 09:43:54 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[周五公布的一系列数据显示经济出现裂痕，从家庭支出疲软到消费者信心降温和通胀上升。 油价可能会加剧这三个问题。]]></title>
             <link>https://www.wsj.com/economy/oil-shock-hits-an-economy-already-showing-cracks-bf7e385d</link>
@@ -121,18 +135,11 @@
             <description><![CDATA[[Bloomberg] 对俄罗斯的无人机袭击引发了一家炼油厂起火，并造成克拉斯诺达尔地区南部一个重要港口受损，而乌克兰则面临今年迄今为止最大规模的导弹和无人机袭击之一。]]></description>
         </item>
         <item>
-            <title><![CDATA[特朗普袭击伊朗哈格石油中心并敦促重新开放霍尔木兹]]></title>
+            <title><![CDATA[特朗普袭击伊朗哈尔格石油中心并敦促重新开放霍尔木兹]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-14/iran-repeats-retaliation-threat-as-us-hits-kharg-island-military</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-14/iran-repeats-retaliation-threat-as-us-hits-kharg-island-military</guid>
             <pubDate>Sat, 14 Mar 2026 04:52:20 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 美国隔夜首次袭击了伊朗几乎所有石油出口的哈格岛军事基地，加大了中东战争的赌注，这场战争已经持续了两周多，而且几乎没有缓和的迹象。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[恒科指数连跌6周后迎超跌反弹 机构称趋势性反转仍需等待]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3261372</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3261372</guid>
-            <pubDate>Sat, 14 Mar 2026 04:35:33 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[总统称，蓬勃发展的台湾完全有能力承担更多军费开支 - 路透中文网]]></title>
@@ -154,13 +161,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-14/australia-s-rural-areas-facing-unacceptable-fuel-shortages</guid>
             <pubDate>Sat, 14 Mar 2026 04:06:47 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 澳大利亚能源部长克里斯·鲍文表示，农村和偏远地区正面临“真实且不可接受的燃料短缺”，这是美以与伊朗战争的连锁反应，导致全球油价飙升。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微软(MSFT.US)Azure抢跑，成为全球首家开始验证英伟达 Vera Rubin NVL72 系统的云服务商]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3261363</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3261363</guid>
-            <pubDate>Sat, 14 Mar 2026 04:06:11 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[西屋电气表示，美国和日本就其在潜在核电项目中的角色达成一致 - 路透中文网]]></title>
@@ -258,7 +258,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-03-13/wall-street-week-yellow-alert-on-private-credit-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-13/wall-street-week-yellow-alert-on-private-credit-video</guid>
             <pubDate>Fri, 13 Mar 2026 23:14:02 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 本周，威利特顾问公司 (Willett Advisors) 的史蒂文·拉特纳 (Steven Rattner) 解释了美国劳动力市场为何疲软，以及关税、人工智能和滞胀风险接下来可能意味着什么。 随着欧洲准备在国防上投入更多资金，瑞典正在成为欧洲大陆发展中一个不太可能但却至关重要的参与者。 此外，随着一些投资者试图将资金撤出，私人信贷的优势正在变成弱点。 后来，尼泊尔的 Z 世代抗议活动推翻了政府，现在该国选民正试图将这场起义转化为持久的变革。
+            <description><![CDATA[[Bloomberg] 本周，威利特顾问公司 (Willett Advisors) 的史蒂文·拉特纳 (Steven Rattner) 解释了美国劳动力市场为何疲软，以及关税、人工智能和滞胀风险接下来可能意味着什么。 随着欧洲准备在国防上投入更多资金，瑞典正在成为欧洲大陆发展中的一个不太可能但至关重要的参与者。 此外，随着一些投资者试图将资金撤出，私人信贷的优势正在变成弱点。 后来，尼泊尔的 Z 世代抗议活动推翻了政府，现在该国选民正试图将这场起义转化为持久的变革。
   （来源：彭博社）]]></description>
         </item>
         <item>
