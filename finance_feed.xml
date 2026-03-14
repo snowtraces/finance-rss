@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 14 Mar 2026 19:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 20:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[特朗普的战争震动了全球央行，从美联储到欧洲央行再到日本央行]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-14/trump-s-war-jolts-global-central-banks-from-fed-to-ecb-to-boj</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-14/trump-s-war-jolts-global-central-banks-from-fed-to-ecb-to-boj</guid>
+            <pubDate>Sat, 14 Mar 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在美国和伊朗之间的冲突持续两周多后，从华盛顿到伦敦再到雅加达的各国央行即将对经济损失进行首次评估。]]></description>
+        </item>
         <item>
             <title><![CDATA[摩根大通大胆推动卸载巨额杠杆收购债务]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-14/jpmorgan-makes-bold-push-to-offload-huge-lbo-debt-credit-weekly</link>
@@ -232,13 +239,6 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3261468</guid>
             <pubDate>Sat, 14 Mar 2026 11:35:30 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[标准普尔因钻石行业困境而下调博茨瓦纳信用评级]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-14/botswana-s-credit-rating-is-cut-by-s-p-on-diamond-industry-woes</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-14/botswana-s-credit-rating-is-cut-by-s-p-on-diamond-industry-woes</guid>
-            <pubDate>Sat, 14 Mar 2026 11:31:15 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 标准普尔全球评级周五晚间下调了博茨瓦纳的信用评分，维持其投资评级，但指出钻石行业陷入困境，财政稳定面临风险。 评级公司维持负面展望。]]></description>
         </item>
         <item>
             <title><![CDATA[前往俄罗斯途中的希腊油轮在黑海遭遇袭击]]></title>
@@ -654,6 +654,13 @@
             <description><![CDATA[[华尔街见闻] 美国1月JOLTS职位空缺远超预期，裁员减少，招聘持稳  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[中华人民共和国国民经济和社会发展第十五个五年规划纲要 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qVExzTE5CZ0VtaXlFendvb1lNSXpLMUJROWw4U3ZRUWRmVkpHb1RQY3ZsRjdtV1RwMTJDSGJvblc0dGJKX01sMkNYbHRJazF0Wnhj?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qVExzTE5CZ0VtaXlFendvb1lNSXpLMUJROWw4U3ZRUWRmVkpHb1RQY3ZsRjdtV1RwMTJDSGJvblc0dGJKX01sMkNYbHRJazF0Wnhj?oc=5</guid>
+            <pubDate>Fri, 13 Mar 2026 13:53:54 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 中华人民共和国国民经济和社会发展第十五个五年规划纲要  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9abHVGdVdkWTZQeVlfdTFFYXF2cHZFYmtUcVprUFdHc21pRXc3amxNZ2hpaHdtU3AwMWFIUms3YmZES2ktcGM4OUlpSFh4OVo1N3NR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9abHVGdVdkWTZQeVlfdTFFYXF2cHZFYmtUcVprUFdHc21pRXc3amxNZ2hpaHdtU3AwMWFIUms3YmZES2ktcGM4OUlpSFh4OVo1N3NR?oc=5</guid>
@@ -701,13 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM2JFMU5rbnBpTVdrc0F3SmlqUTVNYWkyRE9zQS1qZy0zWGg5YVRYTTd5VXc5NDBvRTliMkxMdWJyRnpJQnFjUkJ6S05ydHBmOVl1V0V5b09iTXRydWk0YTBvd1UxMFkwaU9kOWptWkNjaV9aUEprTWp1c0xyd21FTEdsWXNaRnNkV0J1UEx3RzNvT0RaNlVfODZtOWFsREQyMlhsSThxR1JhRHZCM1R4N21KSzJlbGkyVGFJRWYyUjc?oc=5</guid>
             <pubDate>Fri, 13 Mar 2026 13:07:01 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 消息人士称，由于伊朗战争，沙特阿拉伯将石油产量削减 20%，至 800 万桶/日 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瑞士基金经理预计伊朗战争将增加来自海湾的资金流入 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNS01xZ1ZXMjc4RXFoZEs1TTJxS3ItUmpBOVJEUE5JVkZyWXM0VVgwR3dQZllOeENtRHR6eWVtc1FqejdXcjBtTFl2Ql8zamhCS2poSENyY1hoWF9ReWdZellsNmhCZ1RtUmxIcURadVFIaW1McUtwU0ZHQ2ZDTmFOb2ZHSEtJSktzOF8xU0FpQ3QydGgyanltaFhpN0l2THdzV2FJR09iM2Z3TDNpVHR6Yw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxNS01xZ1ZXMjc4RXFoZEs1TTJxS3ItUmpBOVJEUE5JVkZyWXM0VVgwR3dQZllOeENtRHR6eWVtc1FqejdXcjBtTFl2Ql8zamhCS2poSENyY1hoWF9ReWdZellsNmhCZ1RtUmxIcURadVFIaW1McUtwU0ZHQ2ZDTmFOb2ZHSEtJSktzOF8xU0FpQ3QydGgyanltaFhpN0l2THdzV2FJR09iM2Z3TDNpVHR6Yw?oc=5</guid>
-            <pubDate>Fri, 13 Mar 2026 12:41:31 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 瑞士基金经理预计伊朗战争将增加来自海湾的资金流入 路透]]></description>
         </item>
     </channel>
 </rss>
