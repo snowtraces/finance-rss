@@ -4,16 +4,30 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 15 Mar 2026 22:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 22:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[哈格袭击加剧中东冲突，油价飙升]]></title>
+            <title><![CDATA[油价上涨，金价稳定，中东冲突进入第三周]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-15/gold-steadies-as-oil-jumps-mideast-conflict-enters-third-week</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/gold-steadies-as-oil-jumps-mideast-conflict-enters-third-week</guid>
+            <pubDate>Sun, 15 Mar 2026 22:25:06 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着中东战争进入第三周，交易员权衡全球石油供应面临的进一步威胁，金价保持稳定。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哈格袭击加剧中东冲突，油价攀升]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-15/latest-oil-market-news-and-analysis-for-march-16</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/latest-oil-market-news-and-analysis-for-march-16</guid>
             <pubDate>Sun, 15 Mar 2026 22:01:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国对伊朗主要出口中心的袭击标志着战争再次升级，威胁到该地区向全球消费者提供的重要能源供应，油价飙升3.3%。]]></description>
+            <description><![CDATA[[Bloomberg] 美国对伊朗主要出口中心的袭击标志着战争再次升级，几乎切断了该地区全球客户的能源供应，油价上涨了 3.3%。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LVMH 支持的 L Catterton 目标在日本交易 3.13 亿美元]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-15/lvmh-backed-l-catterton-targets-313-million-for-japan-deals</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/lvmh-backed-l-catterton-targets-313-million-for-japan-deals</guid>
+            <pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由法国奢侈时尚品牌 LVMH Moet Hennessy Louis Vuitton SE 支持的私募股权公司 L Catterton 计划在未来三年内向五家日本消费品企业投资约 500 亿日元（3.13 亿美元）。]]></description>
         </item>
         <item>
             <title><![CDATA[美国袭击伊朗主要出口中心后油价上涨]]></title>
@@ -275,11 +289,11 @@
             <description><![CDATA[[Bloomberg] 印太国家凭借供应链优势将能源交易转向美国。 美国环保署署长李·泽尔丁 (Lee Zeldin) 在“彭博本周末”节目中与大卫·古拉 (David Gura)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和丽莎·马特奥 (Lisa Mateo) 进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[战争进入第 16 天，伊朗发生新的袭击]]></title>
+            <title><![CDATA[战争进入第 16 天，伊朗遭受新的打击]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-03-15/new-strikes-in-iran-as-war-enters-day-16-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-15/new-strikes-in-iran-as-war-enters-day-16-video</guid>
             <pubDate>Sun, 15 Mar 2026 12:26:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着战争进入第 16 天，无人机对阿联酋石油设施的袭击标志着美以伊冲突升级。Joumanna Bercetche、Philip Crowther 和 Laura Davison 在“彭博本周末”节目中与 David Gura、Christina Ruffini 和 Lisa Mateo 进行了交谈。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 随着战争进入第 16 天，对阿联酋石油设施的无人机袭击标志着美国-以色列-伊朗冲突的升级。Joumanna Bercetche、Philip Crowther 和 Laura Davison 在“彭博本周末”节目中与 David Gura、Christina Ruffini 和 Lisa Mateo 进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[泽尔丁表示，亚洲寻求美国能源以减少中东依赖]]></title>
@@ -294,20 +308,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-15/trump-ignoring-lessons-from-past-sir-lawrence-freedman-video</guid>
             <pubDate>Sun, 15 Mar 2026 12:17:18 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 专家警告特朗普政府在袭击后可能面临更极端的政权。 伦敦国王学院战争研究名誉教授劳伦斯·弗里德曼爵士在“彭博本周末”节目中与大卫·古拉、克里斯蒂娜·鲁菲尼和丽莎·马特奥进行了交谈。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[私人信贷紧缩如何引发有关风险的新问题]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-15/why-the-private-credit-trade-might-be-flashing-yellow-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-15/why-the-private-credit-trade-might-be-flashing-yellow-video</guid>
-            <pubDate>Sun, 15 Mar 2026 12:03:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 近年来，私人信贷呈爆炸式增长，吸引了主要机构和另类资产巨头，甚至在零售投资组合中占据更大比重。 但随着部分私人信贷领域出现裂缝，我们来看看非银行贷款的好处如何可能转化为脆弱性。  Apollo 的 Marc Rowan 指出私人贷款对机构的广泛吸引力，而前高盛首席执行官 Lloyd Blankfein 和前美联储理事 Daniel Tarullo 则担心它可能对散户投资者造成伤害。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普拒绝潜在的伊朗协议：本周末将在彭博社上发表]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-15/trump-rejects-potential-iran-deal-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-15/trump-rejects-potential-iran-deal-video</guid>
-            <pubDate>Sun, 15 Mar 2026 12:03:25 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 当市场收盘时，消息并没有停止。 主持人大卫·古拉 (David Gura)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和丽莎·马特奥 (Lisa Mateo) 为周末最大的头条新闻“来自纽约的直播”带来了清晰、背景和幽默。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[恶劣天气导致航班停飞、降雪并导致电力中断]]></title>
@@ -425,7 +425,7 @@
             <title><![CDATA[消息人士称，阿联酋富查伊拉在袭击后恢复石油装载 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenczOGhBaVVOLUhhY2FITEFObXp5Z09PamhTMko4VG1ZU2gxLWFFaTlaelUyM0o0eVdmUF9PdDJTdEh2REx3RXFSc2xFb3VlQmlxNzFvWkVIdWRtVkRZQjE2QTVwaE9RV0VlQ0Q4bTRuSWZHencxYW9tWnFBNVJIZW1zWjFwUHctSTdCNExfSzl1RWs5VXpjdXZ2YXEwMVgtcDVjdldwUU16X19jMVkxcWR6SDlvS0Nkak5va09iQTNpZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenczOGhBaVVOLUhhY2FITEFObXp5Z09PamhTMko4VG1ZU2gxLWFFaTlaelUyM0o0eVdmUF9PdDJTdEh2REx3RXFSc2xFb3VlQmlxNzFvWkVIdWRtVkRZQjE2QTVwaE9RV0VlQ0Q4bTRuSWZHencxYW9tWnFBNVJIZW1zWjFwUHctSTdCNExfSzl1RWs5VXpjdXZ2YXEwMVgtcDVjdldwUU16X19jMVkxcWR6SDlvS0Nkak5va09iQTNpZw?oc=5</guid>
-            <pubDate>Sun, 15 Mar 2026 06:43:00 GMT</pubDate>
+            <pubDate>Sun, 15 Mar 2026 06:43:48 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 消息人士称，阿联酋富查伊拉在袭击后恢复石油装载 路透]]></description>
         </item>
         <item>
@@ -439,7 +439,7 @@
             <title><![CDATA[台湾称大规模中国军机在异常缺席后返回 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWdxa2VhdmFhWXB6VHF5QTV2Z0xSeDEzTDNxTDlxdjhhRVowSDlJRlN2dDZZMjJoc1NUXzNiS24xOVBWWENSYlF4QzRudzBYNGdKRm9lMHdnWUlEMWtrNElHazJJYjZCdjBtMXhOY05NZkVwYmgyOTNvbzlfU2hadEYybmFhaVBjaFJya1E4dmRJaFEzdHBOWHZsZ1htVUE0TFVwSmREbERlcVpBWWV3UGlaWXd0SlNpVFlhREc1MWJMeFQxUjFSenRVTWdBSGpxbHRWT3FBZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWdxa2VhdmFhWXB6VHF5QTV2Z0xSeDEzTDNxTDlxdjhhRVowSDlJRlN2dDZZMjJoc1NUXzNiS24xOVBWWENSYlF4QzRudzBYNGdKRm9lMHdnWUlEMWtrNElHazJJYjZCdjBtMXhOY05NZkVwYmgyOTNvbzlfU2hadEYybmFhaVBjaFJya1E4dmRJaFEzdHBOWHZsZ1htVUE0TFVwSmREbERlcVpBWWV3UGlaWXd0SlNpVFlhREc1MWJMeFQxUjFSenRVTWdBSGpxbHRWT3FBZw?oc=5</guid>
-            <pubDate>Sun, 15 Mar 2026 02:53:00 GMT</pubDate>
+            <pubDate>Sun, 15 Mar 2026 02:53:51 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 台湾称大规模中国军机在异常缺席后返航 路透]]></description>
         </item>
         <item>
@@ -483,13 +483,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYS1zd051YmRJTUU3NC00T3BzdHZ3a0xZbkswR0JOS3N3dVBjWmxadTFTbXA4ZDFwdjRsdTA2X0x4cFp1Y0RSM3V0bEZnOWM2M1VBMDcyamZES2d0VHFEYWtJVF9HSndqazRyRS0zc25GVl9jU0pVbS1BaGt2WXQ3bDF6ejdwYS01ZlZDNGZsZXRHSGZtR20zaGNPOU1yR0JWaGk4b0dvRWNCVW9EUExEbDMtZUNBcHp3X3B2RGlPZU9RZUhHdE9pZS1rZVA0Q1d5QXlscg?oc=5</guid>
             <pubDate>Sat, 14 Mar 2026 21:42:47 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 朝鲜领导人金正恩监督多管火箭发射器的试射 - 朝中社 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国商务部撤销计划中的人工智能芯片出口规定 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRThuSC0xOThBSkZibWpSTnp4VlIwaFh2el9saXFhUTZMZHpLR1VMdW9xd0VKZFVtSWlNcXppemJJZGI0ZFNBY2pYOUF3UF9RMkNSTnQ4eERRTGUzX0xpYWJ2MkQ2OERoWWlrN1BqclJfRWRpQXhPLW1HMjhySHZTa0N4YmxVVS1aamFpSmFNZ1dBZnFrU0pLS0tJaWtkUnRuYjlhLXAzeThBdG9jRlpjUGVMX3plc3RiaWdSamZiVTY3Nmc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRThuSC0xOThBSkZibWpSTnp4VlIwaFh2el9saXFhUTZMZHpLR1VMdW9xd0VKZFVtSWlNcXppemJJZGI0ZFNBY2pYOUF3UF9RMkNSTnQ4eERRTGUzX0xpYWJ2MkQ2OERoWWlrN1BqclJfRWRpQXhPLW1HMjhySHZTa0N4YmxVVS1aamFpSmFNZ1dBZnFrU0pLS0tJaWtkUnRuYjlhLXAzeThBdG9jRlpjUGVMX3plc3RiaWdSamZiVTY3Nmc?oc=5</guid>
-            <pubDate>Sat, 14 Mar 2026 20:57:04 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国商务部撤销计划中的人工智能芯片出口规定 路透]]></description>
         </item>
         <item>
             <title><![CDATA[市长称俄罗斯防空系统击落了 65 架飞往莫斯科的无人机 - 路透中文网]]></title>
@@ -607,7 +600,7 @@
             <title><![CDATA[遭受美国袭击的哈格岛是伊朗石油出口的重要枢纽 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckhQZUZ6czRqRUd3djdWaUtvZlZ2cjRkOVZxUmp2N3ZHbFZmNTI2dEpJYXJFOGtkQklSdUJxSkZQa1B2aWV5dXhEalRxdFhWckJ6VEJ4TEFhSW1vSWNrclhaLTgtZHp0YUVJRlFSaVRJSTJxT0F1RnV0NHM0RkJtWkJIZlZmcW12RWo1RmJVTl92TFlVSUhuV0ZUVlEwUHhkRjNPaXdFNGw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckhQZUZ6czRqRUd3djdWaUtvZlZ2cjRkOVZxUmp2N3ZHbFZmNTI2dEpJYXJFOGtkQklSdUJxSkZQa1B2aWV5dXhEalRxdFhWckJ6VEJ4TEFhSW1vSWNrclhaLTgtZHp0YUVJRlFSaVRJSTJxT0F1RnV0NHM0RkJtWkJIZlZmcW12RWo1RmJVTl92TFlVSUhuV0ZUVlEwUHhkRjNPaXdFNGw?oc=5</guid>
-            <pubDate>Sat, 14 Mar 2026 05:29:15 GMT</pubDate>
+            <pubDate>Sat, 14 Mar 2026 05:29:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 遭受美国袭击的哈格岛是伊朗石油出口的重要枢纽 - 路透中文网]]></description>
         </item>
         <item>
@@ -686,6 +679,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJvandPSW96amFlOGRFcnlVbUsyWVF1Q3g0TzNZb25tYVlGZE1ZMURiaVcydkxfZjlWM0hKWXF1WjZDUm1QWXk0QlVVekVBY0NMSHluYUlVeWVQRHd4SDhHTHN0TmpYbXlwRU5qNk5Dby01QzhtX18wZVFiSTFzZXB2eVNPRmZwZ1M1bVZfUlZVYzdoYnlPN1NraklwNWlQMFpEQXdPZjZVU1ZKLTJqUGZRNjBwallhelRqMjdBcVJQcDhGY29nNUZ0OWI?oc=5</guid>
             <pubDate>Fri, 13 Mar 2026 22:12:40 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 霍尔木兹海峡持续关闭，原油期货转好 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部撤销计划中的人工智能芯片出口规定 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRThuSC0xOThBSkZibWpSTnp4VlIwaFh2el9saXFhUTZMZHpLR1VMdW9xd0VKZFVtSWlNcXppemJJZGI0ZFNBY2pYOUF3UF9RMkNSTnQ4eERRTGUzX0xpYWJ2MkQ2OERoWWlrN1BqclJfRWRpQXhPLW1HMjhySHZTa0N4YmxVVS1aamFpSmFNZ1dBZnFrU0pLS0tJaWtkUnRuYjlhLXAzeThBdG9jRlpjUGVMX3plc3RiaWdSamZiVTY3Nmc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRThuSC0xOThBSkZibWpSTnp4VlIwaFh2el9saXFhUTZMZHpLR1VMdW9xd0VKZFVtSWlNcXppemJJZGI0ZFNBY2pYOUF3UF9RMkNSTnQ4eERRTGUzX0xpYWJ2MkQ2OERoWWlrN1BqclJfRWRpQXhPLW1HMjhySHZTa0N4YmxVVS1aamFpSmFNZ1dBZnFrU0pLS0tJaWtkUnRuYjlhLXAzeThBdG9jRlpjUGVMX3plc3RiaWdSamZiVTY3Nmc?oc=5</guid>
+            <pubDate>Fri, 13 Mar 2026 21:41:12 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国商务部撤销计划中的人工智能芯片出口规定 路透]]></description>
         </item>
         <item>
             <title><![CDATA[法官驳回了司法部在对鲍威尔进行刑事调查时发出的传票，这是美联储的重大胜利]]></title>
