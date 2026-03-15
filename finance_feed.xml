@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 15 Mar 2026 19:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 20:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[Triton Partners 为延迟旗舰基金筹集 55 亿欧元]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-15/triton-partners-raises-5-5-billion-for-delayed-flagship-fund</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/triton-partners-raises-5-5-billion-for-delayed-flagship-fund</guid>
+            <pubDate>Sun, 15 Mar 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 知情人士称，Triton Partners 已为其新旗舰基金筹集了 55 亿欧元（合 63 亿美元），这是这家欧洲收购公司吸引新资金的能力因工作文化争议和艰难的筹款环境而受到损害后的一个重要里程碑。]]></description>
+        </item>
         <item>
             <title><![CDATA[股票、债券开盘前，石油供应成为焦点]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-15/oil-supplies-in-focus-ahead-of-stock-bond-open-markets-wrap</link>
@@ -233,11 +240,11 @@
             <description><![CDATA[[Bloomberg] 印太国家凭借供应链优势将能源交易转向美国。 美国环保署署长李·泽尔丁 (Lee Zeldin) 在“彭博本周末”节目中与大卫·古拉 (David Gura)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和丽莎·马特奥 (Lisa Mateo) 进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[战争进入第 16 天，伊朗遭受新的打击]]></title>
+            <title><![CDATA[战争进入第 16 天，伊朗发生新的袭击]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-03-15/new-strikes-in-iran-as-war-enters-day-16-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-15/new-strikes-in-iran-as-war-enters-day-16-video</guid>
             <pubDate>Sun, 15 Mar 2026 12:26:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着战争进入第 16 天，对阿联酋石油设施的无人机袭击标志着美国-以色列-伊朗冲突的升级。Joumanna Bercetche、Philip Crowther 和 Laura Davison 在“彭博本周末”节目中与 David Gura、Christina Ruffini 和 Lisa Mateo 进行了交谈。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 随着战争进入第 16 天，无人机对阿联酋石油设施的袭击标志着美以伊冲突升级。Joumanna Bercetche、Philip Crowther 和 Laura Davison 在“彭博本周末”节目中与 David Gura、Christina Ruffini 和 Lisa Mateo 进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[泽尔丁表示，亚洲寻求美国能源以减少中东依赖]]></title>
@@ -408,13 +415,6 @@
             <description><![CDATA[[Reuters Business] 消息人士称，阿联酋富查伊拉在袭击后恢复石油装载 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[阿联酋主要港口在无人机袭击和火灾后恢复装油]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-15/key-uae-port-resumes-oil-loadings-following-drone-attack-fire</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/key-uae-port-resumes-oil-loadings-following-drone-attack-fire</guid>
-            <pubDate>Sun, 15 Mar 2026 05:44:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 周六，无人机袭击和火灾迫使阿拉伯联合酋长国一个主要港口的石油装载被迫停止，重新开放了该国唯一绕过被封锁的霍尔木兹海峡的出口路线。]]></description>
-        </item>
-        <item>
             <title><![CDATA[多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xcWxEQnY2UDlFcXlNVW83S1VhUU1MX0d5Y0N4Yk9RMWhFWk1lN1NodlVUcnpfdW9zWExEWlFSNXBrSmlkRW9DMGowajltcTBha2NN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xcWxEQnY2UDlFcXlNVW83S1VhUU1MX0d5Y0N4Yk9RMWhFWk1lN1NodlVUcnpfdW9zWExEWlFSNXBrSmlkRW9DMGowajltcTBha2NN?oc=5</guid>
@@ -579,7 +579,7 @@
             <title><![CDATA[日本大臣表示，欧洲通过支持释放石油库存来回报东京的帮助 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDBDUVQ3T2l6RVdCNjk0aEdqbDBUdGNnRkhSSzJtUldwU3EzaDRQaEc3emt1Ty1xbnhqQUZBNnNWQjZkMkFuNXRLaDdWWE1fTnpuTDNJYnppejF2amJGZm5UTUhxc2dsQnE5UHlyd25zMVVuaUdhelJnUExoeTFhRmc0SWpLSGxwZHJnODB0Z3ZXUlpKUF94bGpOeU1qdm93ZUZNcmVqbXpvc0prSldzYTlWQThfdWRqYnJPajNrd1NOWno5dHNKV2RB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDBDUVQ3T2l6RVdCNjk0aEdqbDBUdGNnRkhSSzJtUldwU3EzaDRQaEc3emt1Ty1xbnhqQUZBNnNWQjZkMkFuNXRLaDdWWE1fTnpuTDNJYnppejF2amJGZm5UTUhxc2dsQnE5UHlyd25zMVVuaUdhelJnUExoeTFhRmc0SWpLSGxwZHJnODB0Z3ZXUlpKUF94bGpOeU1qdm93ZUZNcmVqbXpvc0prSldzYTlWQThfdWRqYnJPajNrd1NOWno5dHNKV2RB?oc=5</guid>
-            <pubDate>Sat, 14 Mar 2026 06:08:13 GMT</pubDate>
+            <pubDate>Sat, 14 Mar 2026 06:08:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 日本大臣表示，欧洲通过支持释放石油库存来回报东京的帮助 路透]]></description>
         </item>
         <item>
