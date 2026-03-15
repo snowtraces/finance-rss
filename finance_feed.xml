@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 15 Mar 2026 15:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 15:52:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -233,11 +233,11 @@
             <description><![CDATA[[Bloomberg] 对于亚洲新兴市场货币来说，最糟糕的时期可能很快就会过去，这些货币在伊朗战争期间承受着压力，因为各国央行已经开始加大支持力度，并为这种情况储备了额外的储备。]]></description>
         </item>
         <item>
-            <title><![CDATA[美国恶劣天气导致航班停飞、大雪倾盆、电力中断]]></title>
+            <title><![CDATA[恶劣天气导致航班停飞、降雪并导致电力中断]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-15/wild-us-weather-halts-flights-dumps-snow-and-knocks-out-power</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/wild-us-weather-halts-flights-dumps-snow-and-knocks-out-power</guid>
             <pubDate>Sun, 15 Mar 2026 11:50:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 暴风雪、野火和雷暴正向美国东部袭来，导致中西部地区数千人断电、数百架航班停飞。]]></description>
+            <description><![CDATA[[Bloomberg] 席卷美国东部的暴风雪、野火和雷暴导致中西部地区数千人断电，数百架航班停飞。]]></description>
         </item>
         <item>
             <title><![CDATA[系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周 - 华尔街见闻]]></title>
@@ -324,6 +324,13 @@
             <description><![CDATA[[Reuters Business] 泽伦斯基表示乌克兰需要资金和技术以换取中东无人机的帮助 - 路透中文网]]></description>
         </item>
         <item>
+            <title><![CDATA[通知称，Hindalco因伊朗战争而停止生产挤压铝产品 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPRl9DLVhMNGdOV194MkZoaXFjdFBHcWFLUm0wVldwQjdiVmNxM1QyM05NaV9JNkFBdnlWMG9Jc1c3bi1WR1lrcXJ1TURucmdpS0VWR0JLQno5MExSay1qRlFHRFdzRHJXWGdKei1Od0pTZGI2T2J1RVdkMU02Sm8zMTBkUlkzc0NGbmg5eVBBQWJZRDIxWjNMOVVsczBCcWV0VlZ0UUZoNDQ3bUdHdnVSd2l0VWdPQVhqZzNSdGM0RTJsUW5LenhhMkx3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPRl9DLVhMNGdOV194MkZoaXFjdFBHcWFLUm0wVldwQjdiVmNxM1QyM05NaV9JNkFBdnlWMG9Jc1c3bi1WR1lrcXJ1TURucmdpS0VWR0JLQno5MExSay1qRlFHRFdzRHJXWGdKei1Od0pTZGI2T2J1RVdkMU02Sm8zMTBkUlkzc0NGbmg5eVBBQWJZRDIxWjNMOVVsczBCcWV0VlZ0UUZoNDQ3bUdHdnVSd2l0VWdPQVhqZzNSdGM0RTJsUW5LenhhMkx3?oc=5</guid>
+            <pubDate>Sun, 15 Mar 2026 08:32:58 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 通知称，Hindalco 由于伊朗战争而停止生产挤压铝产品]]></description>
+        </item>
+        <item>
             <title><![CDATA[美国表示购买美国石油，日本将释放石油库存 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQc184dWNEaWxrZWJ2bTVqcXZEcDNlLV94RWRHZUVMQzVYalZmdTh2WVVZNVhlMXZHc1BacUpyNktJbkpTWC1laXpHYThhUm1ubFBhdXQtdnFmTXRtaGhRTnNyTDBMZ2h2T0JDR3FpXzkwT2pFRHU1NVZ4MDdBZmtWa3l5QTd3dWFyUXJuNFdiZEhpamEzZ3hMUW9GN1NaZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxQc184dWNEaWxrZWJ2bTVqcXZEcDNlLV94RWRHZUVMQzVYalZmdTh2WVVZNVhlMXZHc1BacUpyNktJbkpTWC1laXpHYThhUm1ubFBhdXQtdnFmTXRtaGhRTnNyTDBMZ2h2T0JDR3FpXzkwT2pFRHU1NVZ4MDdBZmtWa3l5QTd3dWFyUXJuNFdiZEhpamEzZ3hMUW9GN1NaZw?oc=5</guid>
@@ -341,7 +348,7 @@
             <title><![CDATA[消息人士称，阿联酋富查伊拉在袭击后恢复石油装载 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenczOGhBaVVOLUhhY2FITEFObXp5Z09PamhTMko4VG1ZU2gxLWFFaTlaelUyM0o0eVdmUF9PdDJTdEh2REx3RXFSc2xFb3VlQmlxNzFvWkVIdWRtVkRZQjE2QTVwaE9RV0VlQ0Q4bTRuSWZHencxYW9tWnFBNVJIZW1zWjFwUHctSTdCNExfSzl1RWs5VXpjdXZ2YXEwMVgtcDVjdldwUU16X19jMVkxcWR6SDlvS0Nkak5va09iQTNpZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQenczOGhBaVVOLUhhY2FITEFObXp5Z09PamhTMko4VG1ZU2gxLWFFaTlaelUyM0o0eVdmUF9PdDJTdEh2REx3RXFSc2xFb3VlQmlxNzFvWkVIdWRtVkRZQjE2QTVwaE9RV0VlQ0Q4bTRuSWZHencxYW9tWnFBNVJIZW1zWjFwUHctSTdCNExfSzl1RWs5VXpjdXZ2YXEwMVgtcDVjdldwUU16X19jMVkxcWR6SDlvS0Nkak5va09iQTNpZw?oc=5</guid>
-            <pubDate>Sun, 15 Mar 2026 06:43:00 GMT</pubDate>
+            <pubDate>Sun, 15 Mar 2026 06:43:48 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 消息人士称，阿联酋富查伊拉在袭击后恢复石油装载 路透]]></description>
         </item>
         <item>
@@ -621,7 +628,7 @@
             <title><![CDATA[独家：随着人工智能成本上升元计划大规模裁员 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5</guid>
-            <pubDate>Sat, 14 Mar 2026 00:17:00 GMT</pubDate>
+            <pubDate>Sat, 14 Mar 2026 00:17:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：随着人工智能成本上升元计划大规模裁员 路透]]></description>
         </item>
         <item>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGhocDFBcGNpVHU1OVRucXJmdW01SkhCWEl4bGc5UU8xSFVwUlJ1UjJHUTh4VXowem4xVV8xcmd5YTRLaC1rTFBnM0JGZWdOTER2LXotNkg4SUZWYnVKQzJoS2plV2stOG8zMTNNQldHWHVKUUl6cTMxZ3IyWnNyeFZQaTIzWmwzN3R0XzlJYlF0OG51QjExZGZoWkl5d2lXTXpmU3pkMUVRNEVRN19ZSE1OMGNZQQ?oc=5</guid>
             <pubDate>Fri, 13 Mar 2026 17:55:20 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 欧洲迈出第一步，禁止人工智能生成的儿童性虐待图片 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[外汇、债券未来一周：能源价格上涨后央行决策成为焦点]]></title>
-            <link>https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-central-bank-decisions-in-focus-after-jump-in-energy-prices-8499b5e8</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-central-bank-decisions-in-focus-after-jump-in-energy-prices-8499b5e8</guid>
-            <pubDate>Fri, 13 Mar 2026 17:16:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 随着投资者关注政策制定者对近期石油和天然气价格上涨的反应，包括美联储在内的主要央行的决定将成为未来一周的焦点。]]></description>
         </item>
     </channel>
 </rss>
