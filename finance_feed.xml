@@ -4,16 +4,30 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 15 Mar 2026 06:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 07:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[弗朗辛·拉夸 (Francine Lacqua) 播客介绍领导人（视频）]]></title>
+            <title><![CDATA[国航将于3月30日恢复北京-平壤航班]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-15/air-china-to-resume-beijing-pyongyang-flights-on-march-30</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/air-china-to-resume-beijing-pyongyang-flights-on-march-30</guid>
+            <pubDate>Sun, 15 Mar 2026 06:20:03 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 携程网订票信息显示，国航将于3月30日恢复北京至平壤的直飞航班。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚财长称油价上涨将导致家庭成本上升]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-15/australian-treasurer-says-household-costs-to-rise-on-oil-price</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/australian-treasurer-says-household-costs-to-rise-on-oil-price</guid>
+            <pubDate>Sun, 15 Mar 2026 06:13:15 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 财长吉姆·查尔默斯 (Jim Chalmers) 周日表示，随着油价上涨，澳大利亚家庭可能面临更大的生活成本压力，通胀率将升至 4.5% 以上。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[弗朗辛·拉夸 (Francine Lacqua) 介绍领导者：播客]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-03-15/introducing-leaders-with-francine-lacqua-podcast-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-15/introducing-leaders-with-francine-lacqua-podcast-video</guid>
             <pubDate>Sun, 15 Mar 2026 06:02:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] ]]></description>
+            <description><![CDATA[[Bloomberg] 是什么让领导者成功？ 向高层人士学习。 与彭博电视台屡获殊荣的主播兼特约编辑弗朗辛·拉夸 (Francine Lacqua) 一起，与首席执行官和其他行业领袖进行对话，了解他们的驱动因素、他们对成功的定义以及他们如何在快速变化的世界中塑造自己的公司。 每隔星期一发布一次。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[阿联酋主要港口在无人机袭击和火灾后恢复装油]]></title>
@@ -28,13 +42,6 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3261626</guid>
             <pubDate>Sun, 15 Mar 2026 05:35:52 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[印尼总统普拉博沃认为美以在伊朗发动战争没有任何道理]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-15/indonesia-s-prabowo-sees-no-rationality-to-us-israel-war-in-iran</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/indonesia-s-prabowo-sees-no-rationality-to-us-israel-war-in-iran</guid>
-            <pubDate>Sun, 15 Mar 2026 05:07:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 印尼总统普拉博沃·苏比安托表示，他对美以在伊朗发生的战争感到“非常惊讶”，并补充说他认为军事行动没有任何“理性”。]]></description>
         </item>
         <item>
             <title><![CDATA[中东战争中断流动，澳大利亚吹捧液化天然气可靠性]]></title>
@@ -93,6 +100,13 @@
             <description><![CDATA[[WSJ] 经过一年的低迷之后，现在出现了房地产热潮。 一位购房者表示：“价格猛涨。”]]></description>
         </item>
         <item>
+            <title><![CDATA[股票交易者应对伊朗战争供应中断的指南]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-15/stock-trader-s-guide-to-navigating-supply-disruption-by-iran-war</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-15/stock-trader-s-guide-to-navigating-supply-disruption-by-iran-war</guid>
+            <pubDate>Sun, 15 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 伊朗战争旷日持久和油价上涨的前景正促使股票投资者重新评估更广泛的行业，包括随着供应中断加剧，从食品配送公司到化妆品制造商等不太明显的目标。]]></description>
+        </item>
+        <item>
             <title><![CDATA[【早报】伊朗提出停战条件；腾讯“龙虾”全国免费安装]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3261563</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3261563</guid>
@@ -105,13 +119,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxPQUNLTDU4T19PUGdndUtPMGFMYWJnaFN6bm9yYXk0b3FES0NUczFfOWpJRzZ2R1FNY19VdG5uQjd0RE9sYnFUd1RSZndMZVlXMmEyRnBEU1ltZkdBMVJCdlFNU19LZ0JEQ1gzSXk1SlFuZlhDZmd1RHdyVFJPOHJINTJzQmU3bFNmN0dnZkV2RC1aSDc5WDBXN1dOR1R1LXYxMzgxVXh4NVpDQXNNME5aSjlWSE5FREYwcC1QNEVPRjlEcEVUVVdSZWFvVQ?oc=5</guid>
             <pubDate>Sat, 14 Mar 2026 23:11:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] FCC 的卡尔在转发特朗普对伊朗报道的评论时向广播公司发出警告 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[更多伊朗女足运动员推翻澳大利亚庇护申请]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-14/more-iranian-women-soccer-players-reverse-australia-asylum-claim</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-14/more-iranian-women-soccer-players-reverse-australia-asylum-claim</guid>
-            <pubDate>Sat, 14 Mar 2026 22:31:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据内政部长托尼·伯克称，上周获得澳大利亚庇护的伊朗女子足球队的另外三名成员已决定返回伊朗。]]></description>
         </item>
         <item>
             <title><![CDATA[据 CNBC 报道，Fertitta Entertainment 正在洽谈以 65 亿美元收购凯撒娱乐集团 - 路透]]></title>
@@ -133,6 +140,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3261536</guid>
             <pubDate>Sat, 14 Mar 2026 21:20:16 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国商务部撤销计划中的人工智能芯片出口规定 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRThuSC0xOThBSkZibWpSTnp4VlIwaFh2el9saXFhUTZMZHpLR1VMdW9xd0VKZFVtSWlNcXppemJJZGI0ZFNBY2pYOUF3UF9RMkNSTnQ4eERRTGUzX0xpYWJ2MkQ2OERoWWlrN1BqclJfRWRpQXhPLW1HMjhySHZTa0N4YmxVVS1aamFpSmFNZ1dBZnFrU0pLS0tJaWtkUnRuYjlhLXAzeThBdG9jRlpjUGVMX3plc3RiaWdSamZiVTY3Nmc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRThuSC0xOThBSkZibWpSTnp4VlIwaFh2el9saXFhUTZMZHpLR1VMdW9xd0VKZFVtSWlNcXppemJJZGI0ZFNBY2pYOUF3UF9RMkNSTnQ4eERRTGUzX0xpYWJ2MkQ2OERoWWlrN1BqclJfRWRpQXhPLW1HMjhySHZTa0N4YmxVVS1aamFpSmFNZ1dBZnFrU0pLS0tJaWtkUnRuYjlhLXAzeThBdG9jRlpjUGVMX3plc3RiaWdSamZiVTY3Nmc?oc=5</guid>
+            <pubDate>Sat, 14 Mar 2026 20:57:04 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国商务部撤销计划中的人工智能芯片出口规定 路透]]></description>
         </item>
         <item>
             <title><![CDATA[市长称俄罗斯防空系统击落了 65 架飞往莫斯科的无人机 - 路透中文网]]></title>
@@ -195,7 +209,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-03-14/pointed-news-quiz-oil-asia-politics-hollywood-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-14/pointed-news-quiz-oil-asia-politics-hollywood-video</guid>
             <pubDate>Sat, 14 Mar 2026 16:29:59 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 《彭博这个周末》的大卫·古拉、克里斯蒂娜·鲁菲尼和丽莎·马特奥扮演《Pointed!》 下注你的积分，利用你的赌注并明智地回答。  Bloomberg.com 每周都会有一个新的测验（来源：Bloomberg）]]></description>
+            <description><![CDATA[[Bloomberg] 《彭博本周末》的大卫·古拉、克里斯蒂娜·鲁菲尼和丽莎·马特奥扮演《Pointed!》 下注你的积分，利用你的赌注并明智地回答。  Bloomberg.com 每周都会有一个新的测验（来源：Bloomberg）]]></description>
         </item>
         <item>
             <title><![CDATA[特灵首席执行官周六在“彭博社本周末”高级管理层中发言]]></title>
@@ -216,7 +230,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-03-14/bloomberg-this-weekend-3-14-2026-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-14/bloomberg-this-weekend-3-14-2026-video</guid>
             <pubDate>Sat, 14 Mar 2026 16:12:44 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 当市场收盘时，消息并没有停止。 主持人大卫·古拉 (David Gura)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和丽莎·马特奥 (Lisa Mateo) 为周末最大的头条新闻“来自纽约的直播”带来了清晰、背景和幽默。 美联社国际记者 Philip Crowther、前国家安全委员会委员 Joel Rayburn 上校（已退役）、Axios 能源记者 Ben Geman、国际海事组织秘书长 Arsenio Dominguez、GasBuddy Patrick De Haan 石油分析主管、前能源部部长 Ernest Moniz 和特灵首席执行官 Dave Regnery 出席了本次展会。   （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 当市场收盘时，消息并没有停止。 主持人大卫·古拉 (David Gura)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和丽莎·马特奥 (Lisa Mateo) 为周末最大的头条新闻“来自纽约的直播”带来了清晰、背景和幽默。 美联社国际记者 Philip Crowther、前国家安全委员会成员 Joel Rayburn 上校（已退役）、Axios 能源记者 Ben Geman、国际海事组织秘书长 Arsenio Dominguez、GasBuddy Patrick De Haan 石油分析主管、前能源部部长 Ernest Moniz 和特灵首席执行官 Dave Regnery 出席了节目。   （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[“伊朗越过了红线”：前能源部长谈伊朗核计划]]></title>
@@ -337,13 +351,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-14/second-dynacom-oil-tanker-passes-hormuz-as-other-owners-hold-back</guid>
             <pubDate>Sat, 14 Mar 2026 13:09:27 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 由于伊朗针对以色列和美国的袭击而对该地区进行猛烈攻击，希腊船东不顾航运业的谨慎态度，派遣第二艘油轮通过霍尔木兹海峡。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伊朗战争加剧了韩国大亨的大型油轮赌注]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-14/iran-war-supercharges-secretive-korean-tycoon-s-big-tanker-bet</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-14/iran-war-supercharges-secretive-korean-tycoon-s-big-tanker-bet</guid>
-            <pubDate>Sat, 14 Mar 2026 13:00:47 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着伊朗战争给全球能源市场造成混乱，一位神秘的韩国大亨的收入飙升。]]></description>
         </item>
         <item>
             <title><![CDATA[石油部表示，印度禁止拥有管道燃气连接的家庭使用液化石油气 - 路透中文网]]></title>
@@ -503,7 +510,7 @@
             <title><![CDATA[独家：随着人工智能成本上升元计划大规模裁员 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHRvMGkwTFd4Qkt3QzB1bDhZa2g1cWtiVlRXc0NoSlpfM2N4cmJUV0VTd3REcFljTHlWVDh6cUQ2emJaUVdPUVY1MFVqWVYzNFVkbk9zU2VhSDUtcUtBYlZtNVR5MGUwQ2FoakZYdkJtbWx4aTdOOTFxRmNXUWJVVDhXNy1YVGppMjlDNlZCcHVyNUM1OGswYzEwc3BZNmRQN3FnQzIwSQ?oc=5</guid>
-            <pubDate>Sat, 14 Mar 2026 00:17:00 GMT</pubDate>
+            <pubDate>Sat, 14 Mar 2026 00:17:17 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 独家：随着人工智能成本上升元计划大规模裁员 路透]]></description>
         </item>
         <item>
@@ -533,13 +540,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFJvandPSW96amFlOGRFcnlVbUsyWVF1Q3g0TzNZb25tYVlGZE1ZMURiaVcydkxfZjlWM0hKWXF1WjZDUm1QWXk0QlVVekVBY0NMSHluYUlVeWVQRHd4SDhHTHN0TmpYbXlwRU5qNk5Dby01QzhtX18wZVFiSTFzZXB2eVNPRmZwZ1M1bVZfUlZVYzdoYnlPN1NraklwNWlQMFpEQXdPZjZVU1ZKLTJqUGZRNjBwallhelRqMjdBcVJQcDhGY29nNUZ0OWI?oc=5</guid>
             <pubDate>Fri, 13 Mar 2026 22:12:40 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 霍尔木兹海峡持续关闭，原油期货转好 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国商务部撤销计划中的人工智能芯片出口规定 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRThuSC0xOThBSkZibWpSTnp4VlIwaFh2el9saXFhUTZMZHpLR1VMdW9xd0VKZFVtSWlNcXppemJJZGI0ZFNBY2pYOUF3UF9RMkNSTnQ4eERRTGUzX0xpYWJ2MkQ2OERoWWlrN1BqclJfRWRpQXhPLW1HMjhySHZTa0N4YmxVVS1aamFpSmFNZ1dBZnFrU0pLS0tJaWtkUnRuYjlhLXAzeThBdG9jRlpjUGVMX3plc3RiaWdSamZiVTY3Nmc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRThuSC0xOThBSkZibWpSTnp4VlIwaFh2el9saXFhUTZMZHpLR1VMdW9xd0VKZFVtSWlNcXppemJJZGI0ZFNBY2pYOUF3UF9RMkNSTnQ4eERRTGUzX0xpYWJ2MkQ2OERoWWlrN1BqclJfRWRpQXhPLW1HMjhySHZTa0N4YmxVVS1aamFpSmFNZ1dBZnFrU0pLS0tJaWtkUnRuYjlhLXAzeThBdG9jRlpjUGVMX3plc3RiaWdSamZiVTY3Nmc?oc=5</guid>
-            <pubDate>Fri, 13 Mar 2026 21:41:12 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国商务部撤销计划中的人工智能芯片出口规定 路透]]></description>
         </item>
         <item>
             <title><![CDATA[法官驳回了司法部在对鲍威尔进行刑事调查时发出的传票，这是美联储的重大胜利]]></title>
