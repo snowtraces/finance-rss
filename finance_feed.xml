@@ -4,10 +4,31 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Tue, 17 Mar 2026 21:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 22:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[伊朗确认安全局长去世，原油价格上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-17/latest-oil-market-news-and-analysis-for-march-18</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-17/latest-oil-market-news-and-analysis-for-march-18</guid>
+            <pubDate>Tue, 17 Mar 2026 22:03:40 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着中东战争的拖延，石油价格上涨，伊朗证实其安全负责人死亡，这场冲突再次加剧，扰乱了能源市场。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[“房地产兄弟”关于住房负担能力的新节目]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-03-17/-property-brothers-on-housing-affordability-new-show-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-17/-property-brothers-on-housing-affordability-new-show-video</guid>
+            <pubDate>Tue, 17 Mar 2026 21:40:56 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Scott Brothers Global 联合创始人兼首席执行官 Jonathan 和 Drew Scott（HGTV 的“地产兄弟”）讨论了他们的新节目，在可负担性方面“朝着错误的方向发展”，以及人工智能如何帮助开发商。 他们与 Romaine Bostick 一起坐下来听“The Close”。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥股市上涨；截至收盘墨西哥S&P/BMV IPC指数上涨0.83%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3266375</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3266375</guid>
+            <pubDate>Tue, 17 Mar 2026 21:30:17 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[哥伦比亚股市收低；截至收盘COLCAP下跌0.05%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3266371</link>
@@ -16,11 +37,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[必和必拓任命布兰登·克雷格 (Brandon Craig) 为首席执行官，从 7 月 1 日起接替迈克·亨利 (Mike Henry)]]></title>
+            <title><![CDATA[必和必拓任命克雷格为首席执行官，矿业巨头专注于增长]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-17/bhp-names-brandon-craig-ceo-to-replace-mike-henry-from-july-1</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-17/bhp-names-brandon-craig-ceo-to-replace-mike-henry-from-july-1</guid>
             <pubDate>Tue, 17 Mar 2026 21:22:52 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 必和必拓集团有限公司表示，布兰登·克雷格将从 7 月 1 日起接替迈克·亨利，担任首席执行官。]]></description>
+            <description><![CDATA[[Bloomberg] 必和必拓集团任命布兰登·克雷格为新任首席执行官，这家全球最大的矿业公司寻求在铜和钾肥领域开启新的增长之路，同时应对铁矿石产量放缓的问题。]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index下跌0.00%]]></title>
@@ -63,6 +84,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-17/how-asia-became-the-frontline-of-the-global-energy-crisis</guid>
             <pubDate>Tue, 17 Mar 2026 21:00:04 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 从巴基斯坦飙升的燃料价格到印度烹饪天然气的短缺，亚洲在伊朗战争引发的能源紧缩中首当其冲。 通过 Big Take Asia 播客了解危机的进展情况。   （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[创纪录的澳大利亚债券销售热潮因伊朗战争而受阻，收益率上升]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-17/record-aussie-bond-sales-boom-dented-by-iran-war-rising-yields</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-17/record-aussie-bond-sales-boom-dented-by-iran-war-rising-yields</guid>
+            <pubDate>Tue, 17 Mar 2026 21:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 自伊朗战争爆发以来，澳大利亚的债券销售市场一直落后于美国和欧洲同行，因为这场冲突引发了通货膨胀，并将当地借贷成本推高至一些发达国家的最高水平。]]></description>
         </item>
         <item>
             <title><![CDATA[英伟达恢复中国AI芯片生产,CEO预测订单规模将达1万亿美元]]></title>
@@ -163,6 +191,13 @@
             <description><![CDATA[[Bloomberg] 以色列称，它在一次夜间袭击中杀死了伊朗安全负责人阿里·拉里贾尼。 以色列总理杰明·内塔尼亚胡在视频声明中表示，他的军队正在“破坏这个政权，希望给伊朗人民一个推翻它的机会。那么谁还负责呢？据彭博社的丹·威廉姆斯报道。（来源：彭博社）]]></description>
         </item>
         <item>
+            <title><![CDATA[DI 报道称，由于燃油价格高涨，SAS 航空公司将取消 4 月份 1,000 架航班 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1B6OVVmQXVHaHRYVXFiMzZHQzBPVTNjcjdNNHkzQUN2S3NHbnU4RFZSTm9ZYW1UUG51LUhxblhmd3k3UDNPX1lDMnNpVHc0cVZDS3UySEZydy1yU1dXbUNYMFRENTNQRDN4VW5ic1VldlU3WXNpM2o4dWpsenY4aHM3dlNDbXdOWHVMTnItRE9iLTI4a1B2M2JLRkJlczNvVUxfNU9GRVg5OGhjd2VhLXJEMkE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1B6OVVmQXVHaHRYVXFiMzZHQzBPVTNjcjdNNHkzQUN2S3NHbnU4RFZSTm9ZYW1UUG51LUhxblhmd3k3UDNPX1lDMnNpVHc0cVZDS3UySEZydy1yU1dXbUNYMFRENTNQRDN4VW5ic1VldlU3WXNpM2o4dWpsenY4aHM3dlNDbXdOWHVMTnItRE9iLTI4a1B2M2JLRkJlczNvVUxfNU9GRVg5OGhjd2VhLXJEMkE?oc=5</guid>
+            <pubDate>Tue, 17 Mar 2026 20:05:03 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] DI 报道称，由于燃油价格高涨，SAS 航空公司将取消 4 月份 1,000 架航班 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[尽管Nvidia强调铜互连需求,Credo Technology股价仍大跌]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3266220</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3266220</guid>
@@ -221,33 +256,11 @@
             <description><![CDATA[[Bloomberg] 3月初最具弹性的货币之一——加元——正面临失去优势的风险，因为该国央行行长本周齐聚一堂评估其疲软的经济。]]></description>
         </item>
         <item>
-            <title><![CDATA[联合利华考虑在投资组合审查中分拆食品业务]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3266192</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3266192</guid>
-            <pubDate>Tue, 17 Mar 2026 19:08:55 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[反恐高级官员辞职抗议伊朗战争]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-17/counterterrorism-official-resigns-in-protest-of-iran-war-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-17/counterterrorism-official-resigns-in-protest-of-iran-war-video</guid>
-            <pubDate>Tue, 17 Mar 2026 19:00:26 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 一名高级反恐官员和坚定的“让美国再次伟大”共和党人因与伊朗的战争而辞职，声称以色列误导了唐纳德·特朗普总统，让他相信德黑兰政权构成了迫在眉睫的威胁。
- 国家反恐中心主任乔·肯特表示，他不能支持“让下一代在一场对美国人民没有任何好处的战争中战斗和死亡”。  J Street 高级副总裁兼首席政策官 Ilan Goldenberg 加入 Balance of Power 讨论对伊朗战争的影响。   （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[经济学家克里斯托弗·西姆斯 (Christopher Sims) 去世，享年 83 岁，他的工作改变了央行对经济因果关系的理解]]></title>
             <link>https://www.wsj.com/economy/central-banking/christopher-sims-economist-who-taught-the-data-to-speak-dies-at-83-12e85dd8</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/christopher-sims-economist-who-taught-the-data-to-speak-dies-at-83-12e85dd8</guid>
             <pubDate>Tue, 17 Mar 2026 19:00:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 这位诺贝尔奖获得者的工作改变了央行理解经济因果关系的方式。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[众议员麦考尔表示，俄罗斯向伊朗提供情报以消灭美国目标]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-17/rep-mccaul-on-russia-s-relationship-with-iran-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-17/rep-mccaul-on-russia-s-relationship-with-iran-video</guid>
-            <pubDate>Tue, 17 Mar 2026 18:50:39 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 德克萨斯州共和党众议员迈克尔·麦考尔表示，他不同意政府取消对俄罗斯石油部分制裁的举措，因为莫斯科是帮助伊朗瞄准美国资产的对手。 众议员麦考尔加入讨论布隆伯格的权力平衡。   （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[独家：亚马逊 CEO 预计人工智能到 2036 年将 AWS 销售预测翻倍至 6000 亿美元 - 路透中文网]]></title>
@@ -313,6 +326,20 @@
             <description><![CDATA[[Bloomberg] 亚利桑那州表示，它对卡尔希经营非法赌博业务提出刑事指控，预测市场交易所与大约十几个州之间的法律斗争大幅升级。]]></description>
         </item>
         <item>
+            <title><![CDATA[百度推出新人工智能代理加入中国 OpenClaw 热潮 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxORk5KVFQtbzYtcWJPZDljRFBMSkpKVmdYQkstejM3VVVseDZoYlUzUVJYRmFLeGNTbGwtb2VJUENFekJYRDlGalNsb1g3TEVWdklDTVhOYTZtUk5hVmpuZU1SNFRKU3NoSVhfTkNHVGFXMEt5cjBCaGxXdjViYVV5LXpRU2hKZ3ZxUC00XzRqS2ZKdHdHVkp0ZFlpaF9fdkdTT3hmTXgwQ0w3RlZXUDJrNDRR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxORk5KVFQtbzYtcWJPZDljRFBMSkpKVmdYQkstejM3VVVseDZoYlUzUVJYRmFLeGNTbGwtb2VJUENFekJYRDlGalNsb1g3TEVWdklDTVhOYTZtUk5hVmpuZU1SNFRKU3NoSVhfTkNHVGFXMEt5cjBCaGxXdjViYVV5LXpRU2hKZ3ZxUC00XzRqS2ZKdHdHVkp0ZFlpaF9fdkdTT3hmTXgwQ0w3RlZXUDJrNDRR?oc=5</guid>
+            <pubDate>Tue, 17 Mar 2026 16:29:05 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 百度推出新人工智能代理加入中国 OpenClaw 热潮 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[智利铜矿巨头Codelco 1月产量环比骤降47%，去年底增产数据疑遭“注水” - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fMWo4WGZOY3RfSGxDb3VZOE8yRTUzbC05cTZJSGE4VGc4clRxRXNKdTNVX2paN2lHd2xpVXZwMDZINXZxSng3aUJjLXNCQ1R6ai1j?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fMWo4WGZOY3RfSGxDb3VZOE8yRTUzbC05cTZJSGE4VGc4clRxRXNKdTNVX2paN2lHd2xpVXZwMDZINXZxSng3aUJjLXNCQ1R6ai1j?oc=5</guid>
+            <pubDate>Tue, 17 Mar 2026 15:56:19 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 智利铜矿巨头Codelco 1月产量环比骤降47%，去年底增产数据疑遭“注水”  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[独家：消息人士称，美国鼓励叙利亚对真主党采取行动，但大马士革犹豫不决 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxORWFOY190d25Qa3dFZk5KS3RpUms3bDF3TGFIRGg1bXJjT2paRlh1aTZIdERieXktbUtkMWgxWjBEWjdUUk1kWFhlNVNQQmd0WUV5aTBmdHJMOURJQW1UbUF5RUdhakRudFVLbUdqWGQxMWJlbDI4Ym1RNHRuaHlNTktyUi1sWGtWUjhhd0VESWVzRURXQnNORFVDa042bVlxaFdlMFdydWxrVWxQQUhXVGxWNDFIMWx6R3hMcUJCZVNJU0MtNzFHT0pJcmU5RHRYUnYtajNKMjA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2AFBVV95cUxORWFOY190d25Qa3dFZk5KS3RpUms3bDF3TGFIRGg1bXJjT2paRlh1aTZIdERieXktbUtkMWgxWjBEWjdUUk1kWFhlNVNQQmd0WUV5aTBmdHJMOURJQW1UbUF5RUdhakRudFVLbUdqWGQxMWJlbDI4Ym1RNHRuaHlNTktyUi1sWGtWUjhhd0VESWVzRURXQnNORFVDa042bVlxaFdlMFdydWxrVWxQQUhXVGxWNDFIMWx6R3hMcUJCZVNJU0MtNzFHT0pJcmU5RHRYUnYtajNKMjA?oc=5</guid>
@@ -332,6 +359,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxNZTZ1eTR3TnhaNEp0QktMUzA4WWJzcnE1MmtmTG9OeXpwdHpuUnZvM0tueFFUT19TTjVaSlI5RE5KZG1GVUhfMmt2UGVobzVIWmJIb2lqSDdkWmxTYjVxd3pjdk5MbDZkVGRtMW96NC0xdnhYT2hjQXMxZU8xcHZVMHFtMzM5TVV2SWhQT1p4UDRsQmlRal90RUNCakhtYy1vdjluR1cxcHV4aGJtb3YzLXRvOEJmQQ?oc=5</guid>
             <pubDate>Tue, 17 Mar 2026 15:24:50 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 微软重组 Copilot 团队，释放 AI 负责人来推动超级智能业务 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯3月油气收入预计同比下降52% - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPeFhKVi0wWlZuMTVRaXp5M2dRc1VHNm0ybGVXaTBQRW9uamxsMEVpNy04ZVFCVkJzSEhaMkxOdVRTcjJzeDM2RFExdG01ekZhUFVZbXVudkFPcFd3RTdtb1JZRHhuMUpkU3gyQVlmSUZyTWtSUVpfZEZOX0xJVlZRaG45cEdqSFdoclc2NVk0Q1R3VWNSWjhwWUVrV2txcUoyRXJId3dyQUVSYnEwQ0ZRU2tn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxPeFhKVi0wWlZuMTVRaXp5M2dRc1VHNm0ybGVXaTBQRW9uamxsMEVpNy04ZVFCVkJzSEhaMkxOdVRTcjJzeDM2RFExdG01ekZhUFVZbXVudkFPcFd3RTdtb1JZRHhuMUpkU3gyQVlmSUZyTWtSUVpfZEZOX0xJVlZRaG45cEdqSFdoclc2NVk0Q1R3VWNSWjhwWUVrV2txcUoyRXJId3dyQUVSYnEwQ0ZRU2tn?oc=5</guid>
+            <pubDate>Tue, 17 Mar 2026 15:21:58 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 俄罗斯3月份石油和天然气收入预计同比下降52% 路透]]></description>
         </item>
         <item>
             <title><![CDATA[万辰集团营收破500亿，盈利与分红双双步入“兑现期” - 华尔街见闻]]></title>
@@ -397,18 +431,18 @@
             <description><![CDATA[[Reuters Business] 波音预计商用飞机部门将于 2027 年实现盈利，晚于预期 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[伊朗战争推高油价，市场却“无视通胀”？分析师警告：TIPS流动性溢价掩盖真实风险 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zYWRIYlUzdVUxUjZvWXF4b2MyU0dVV1lVX0JLTXJWTHRIS1ZMaUZKeXFyb0lid0xIS2szSWMzaXQ0cW93ZnpwRFhtRUt3N2lVOXhB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zYWRIYlUzdVUxUjZvWXF4b2MyU0dVV1lVX0JLTXJWTHRIS1ZMaUZKeXFyb0lid0xIS2szSWMzaXQ0cW93ZnpwRFhtRUt3N2lVOXhB?oc=5</guid>
+            <pubDate>Tue, 17 Mar 2026 14:03:43 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 伊朗战争推高油价，市场却“无视通胀”？分析师警告：TIPS流动性溢价掩盖真实风险  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[礼来公司在减肥药进一步降价之前获得汇丰银行的单独销售]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-17/lilly-lly-gets-lone-sell-as-hsbc-sees-more-weight-loss-drug-price-cuts</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-17/lilly-lly-gets-lone-sell-as-hsbc-sees-more-weight-loss-drug-price-cuts</guid>
             <pubDate>Tue, 17 Mar 2026 13:59:36 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 汇丰银行一年内第二次看跌礼来公司股票，称投资者对减肥药的预期过高，该公司股价暴跌。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于中东地区挥之不去的担忧，美国天然气价格随石油价格上涨]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-17/us-natural-gas-rallies-with-oil-on-lingering-mideast-fears</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-17/us-natural-gas-rallies-with-oil-on-lingering-mideast-fears</guid>
-            <pubDate>Tue, 17 Mar 2026 13:49:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国天然气期货收盘小幅走高，而石油期货则因对霍尔木兹海峡能源供应长期中断的担忧而继续攀升。]]></description>
         </item>
         <item>
             <title><![CDATA[世界银行拥抱产业政策，放弃三个十年的耻辱]]></title>
@@ -607,11 +641,11 @@
             <description><![CDATA[[Reuters Business] 亚马逊在美国城市推出 1 小时送货服务挑战沃尔玛 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[华尔街最终因交易员关注美联储而结束 - 路透中文网]]></title>
+            <title><![CDATA[华尔街最终因交易员转向美联储而告终 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVJfR0w1aWlSQzFvR2htWWR1UHlHZlBsSEZPcHFGclFRMGZNT0hzQW14OGdvZlhLdjVzNnRDd2xpM2laYmNZRDhoUDQyX3IxbU1YcmptaUtDaDJZTS1GQlM1YTZ2OXBwSHhCVlV1V3Z3V2RYVnR4UVpFaGxrZElEa0I1cE0wMXJUMXZacWhtR3liWTZYUHM2LVE3ZW1pQVg4Mm1IMmpGWDhYTWhpcmxYYnJnMHl5VklvWXA3bw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNbVJfR0w1aWlSQzFvR2htWWR1UHlHZlBsSEZPcHFGclFRMGZNT0hzQW14OGdvZlhLdjVzNnRDd2xpM2laYmNZRDhoUDQyX3IxbU1YcmptaUtDaDJZTS1GQlM1YTZ2OXBwSHhCVlV1V3Z3V2RYVnR4UVpFaGxrZElEa0I1cE0wMXJUMXZacWhtR3liWTZYUHM2LVE3ZW1pQVg4Mm1IMmpGWDhYTWhpcmxYYnJnMHl5VklvWXA3bw?oc=5</guid>
             <pubDate>Tue, 17 Mar 2026 09:43:40 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 华尔街最终成为交易员关注美联储的焦点 路透]]></description>
+            <description><![CDATA[[Reuters Business] 华尔街最终因交易员转向美联储而告终 路透]]></description>
         </item>
         <item>
             <title><![CDATA[AT1债券市场重新开放，汇丰银行筹集25亿美元]]></title>
@@ -642,7 +676,7 @@
             <description><![CDATA[[Reuters Business] 英国、芬兰和荷兰考虑联合防务融资和采购 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[由于美国加密立法停滞，花旗集团削减了 12 个月的比特币和以太坊目标 - 路透中文网]]></title>
+            <title><![CDATA[由于美国加密立法停滞，花旗集团削减了 12 个月的比特币和以太币目标 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQNENyT1FaQmMxd0JuaGk0OUJka1VEa240dzYwVlZSZVoxYUVMRDE0VVN6OXRNd0RjYmpQU2FleHZCMXkzS1VPZndYMkVqSDlaaUFCUllyYXE2MUpVNU1RNy1Qd0lEU2xiT0tLMnBfUXczaE1sVXc2RHpkblN3SjZNZW1UcXJHeFYxT3BGeU5FeHRLZ0Vra3RWUmFsYzhoZDY5RXBRSlNBTXNGTjNLTlpvMkdlM0lkM3g1MEVhWUpYMmhzcWl3Tnc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxQNENyT1FaQmMxd0JuaGk0OUJka1VEa240dzYwVlZSZVoxYUVMRDE0VVN6OXRNd0RjYmpQU2FleHZCMXkzS1VPZndYMkVqSDlaaUFCUllyYXE2MUpVNU1RNy1Qd0lEU2xiT0tLMnBfUXczaE1sVXc2RHpkblN3SjZNZW1UcXJHeFYxT3BGeU5FeHRLZ0Vra3RWUmFsYzhoZDY5RXBRSlNBTXNGTjNLTlpvMkdlM0lkM3g1MEVhWUpYMmhzcWl3Tnc?oc=5</guid>
             <pubDate>Tue, 17 Mar 2026 08:23:28 GMT</pubDate>
@@ -675,41 +709,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFgybTVtWlAxNmE5LW9meGkxbF85QUdJZjctVGtUV2hvQzVTdTZWZGQzVTRzRXZscHU0SjJINHlSM3FUZWV2MVZDZFl4M00wdnRoSjloNUxhZ21KRzJCQmFBMnlPYm1NMXVnSHFuWGtXS0VqcURwTW53dFdQQjdrUVRwM2VWREU2a1NVTTdPTTF2UkZvaG9sOHA5WE5HMnJydHdhbjR1eW1rZGtXcWZFSG10NGZSWHlPSWl3VkxpS05SN28?oc=5</guid>
             <pubDate>Tue, 17 Mar 2026 07:03:05 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 斯塔默表示支持泽连斯基，英国和乌克兰希望出售无人机 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI紧急刹车：砍掉“支线任务”，All in编程和企业市场 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lbmE5NkVaTV82bE9KUXFuY3I0YU55M1Qyc3V1cmt1Qld0d3IwRkVlbVpiM3E4TnhPOVZmU0lxSDhBV0FrbFFKcTREbVItbl9ST1Fr?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lbmE5NkVaTV82bE9KUXFuY3I0YU55M1Qyc3V1cmt1Qld0d3IwRkVlbVpiM3E4TnhPOVZmU0lxSDhBV0FrbFFKcTREbVItbl9ST1Fr?oc=5</guid>
-            <pubDate>Tue, 17 Mar 2026 06:50:58 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] OpenAI紧急刹车：砍掉“支线任务”，All in编程和企业市场  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[变压器供应告急！全球短缺恐持续到2029年 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE94eGtYSnlnUTJLY2h3UmhNalpXbEZkaWNxcVp6aHZnUjZNYnhPWDVoTU5nZm9fLWd2dndvTUN5NE1lbWZyOHJrYTdicUE4dU9PZEdz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE94eGtYSnlnUTJLY2h3UmhNalpXbEZkaWNxcVp6aHZnUjZNYnhPWDVoTU5nZm9fLWd2dndvTUN5NE1lbWZyOHJrYTdicUE4dU9PZEdz?oc=5</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:20 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 变压器供应告急！全球短缺恐持续到2029年  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不只是美国，欧洲也遍布信贷“蟑螂”！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5eFpTRGU2MWtvaUkwWUpqbEx6MDRFeW90elRJN2VubmpaSF9teEVFYjZvSXI3blhGMmx2SDU5cEliX3ZzbndfZzRyVUVFZHhQNWtF?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5eFpTRGU2MWtvaUkwWUpqbEx6MDRFeW90elRJN2VubmpaSF9teEVFYjZvSXI3blhGMmx2SDU5cEliX3ZzbndfZzRyVUVFZHhQNWtF?oc=5</guid>
-            <pubDate>Tue, 17 Mar 2026 06:32:17 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 不只是美国，欧洲也遍布信贷“蟑螂”！  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[泰国寻求俄罗斯原油以提高国内柴油价格 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHlXMDJybE4yNFlvX29NTVRFbWp1WFpSaWplaHA5MWdpLWlBaFIxbndmeEpPazlQamh6REwyQ2NrY3NvX2JET3U3T2RwRkJnNVE5MUhDVk9XMW43NnYxczNEdzNqeVctTld2Z2RCR0hyMm9wR1lmNmtqZnhHdVp6VmkwU2ZpYnVFVmgzREwyNHNyMk1zS1hHczNxMnlqUzVXOXpCSEp4LXpWcDVLbzN5VTlHWllwNW8?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHlXMDJybE4yNFlvX29NTVRFbWp1WFpSaWplaHA5MWdpLWlBaFIxbndmeEpPazlQamh6REwyQ2NrY3NvX2JET3U3T2RwRkJnNVE5MUhDVk9XMW43NnYxczNEdzNqeVctTld2Z2RCR0hyMm9wR1lmNmtqZnhHdVp6VmkwU2ZpYnVFVmgzREwyNHNyMk1zS1hHczNxMnlqUzVXOXpCSEp4LXpWcDVLbzN5VTlHWllwNW8?oc=5</guid>
-            <pubDate>Tue, 17 Mar 2026 06:31:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 泰国寻求俄罗斯原油以提高国内柴油价格 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瑞银：若霍尔木兹持续封锁，全球原油库存将在4月底降至历史最低 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tNi1kMmJDNktQY0p4bjhQem9Fc3N0d0ZXZWx5T2FSanJ6VXFOdUJXM19EZGVyQjlWS1lpbloxbzRQWjlVemhqYllaSDBsQ2RFMndj?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tNi1kMmJDNktQY0p4bjhQem9Fc3N0d0ZXZWx5T2FSanJ6VXFOdUJXM19EZGVyQjlWS1lpbloxbzRQWjlVemhqYllaSDBsQ2RFMndj?oc=5</guid>
-            <pubDate>Tue, 17 Mar 2026 06:26:56 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 瑞银：若霍尔木兹持续封锁，全球原油库存将在4月底降至历史最低  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
