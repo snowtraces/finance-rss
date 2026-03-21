@@ -4,10 +4,31 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 21 Mar 2026 04:03:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 05:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[僵尸船冒充液化天然气运输船似乎要过境霍尔木兹]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-21/zombie-ship-posing-as-lng-carrier-appears-to-transit-hormuz</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-21/zombie-ship-posing-as-lng-carrier-appears-to-transit-hormuz</guid>
+            <pubDate>Sat, 21 Mar 2026 04:31:20 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 周五，一艘看似废弃天然气运输船的船只离开霍尔木兹海峡，这表明随着中东战争的进展，通过该水道的策略正在如何演变。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[托马斯·普利兹克卸任董事长后,凯悦收购猜测升温]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3273418</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3273418</guid>
+            <pubDate>Sat, 21 Mar 2026 04:10:49 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联航(UAL.US)计划削减5%航班! 当高油价侵蚀利润 航空业进入盈利保卫战!]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3273412</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3273412</guid>
+            <pubDate>Sat, 21 Mar 2026 03:36:08 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[美国发布伊朗石油30天制裁豁免令 贝森特：将向全球供油约1.4亿桶]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3273405</link>
@@ -74,18 +95,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[财联社汽车早报【3月21日】]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3273383</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3273383</guid>
-            <pubDate>Sat, 21 Mar 2026 01:35:23 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[油价风暴逼近：瑞银警告冲击超预期，美国紧急释储1.72亿桶能否力挽狂澜？]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3273381</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3273381</guid>
-            <pubDate>Sat, 21 Mar 2026 01:35:08 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[2020 vs 1970 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRUc1UHlHaFZsejhzRnU3bEpMQzNwR3diV25JYkFsNDktdWJIa252dHVseEtqM041cVZmZ2tmYzd2YXNHWUJIdFNiX2ttXzVoQmc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRUc1UHlHaFZsejhzRnU3bEpMQzNwR3diV25JYkFsNDktdWJIa252dHVseEtqM041cVZmZ2tmYzd2YXNHWUJIdFNiX2ttXzVoQmc?oc=5</guid>
+            <pubDate>Sat, 21 Mar 2026 00:46:55 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 2020 vs 1970  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[共同社报道，伊朗表示准备让日本船只使用霍尔木兹海峡]]></title>
@@ -95,11 +109,11 @@
             <description><![CDATA[[Bloomberg] 据共同社报道，伊朗外长阿巴斯·阿拉格奇表示，在两国官员磋商后，伊朗准备允许与日本有关的船只通过霍尔木兹海峡。]]></description>
         </item>
         <item>
-            <title><![CDATA[美联航将削减 5% 航班，计划从伊朗战争中消耗 175 美元的石油 - 路透中文网]]></title>
+            <title><![CDATA[美联航将削减更多航班 预计 2027 年油价将突破 100 美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmxBMll4LWY2RTVKRThiS21zaEVfNFU4VE5OUzU2anY3SXloVUx2UDVuNDJEY09CRUJnWkd3OWh5MzdqTDQ1NGxBbUo5ZTBOSmVQTHZQNWM5N25uaEJVZlNBTEpXSWxZaEduZ3Y0bmxRMjJxS1ZzSEJldjNLUUdxbWNDOXdtUnhGdFBoQTNRYXRUMkZfVEljZVV6c3hLTFFTR2ZF?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmxBMll4LWY2RTVKRThiS21zaEVfNFU4VE5OUzU2anY3SXloVUx2UDVuNDJEY09CRUJnWkd3OWh5MzdqTDQ1NGxBbUo5ZTBOSmVQTHZQNWM5N25uaEJVZlNBTEpXSWxZaEduZ3Y0bmxRMjJxS1ZzSEJldjNLUUdxbWNDOXdtUnhGdFBoQTNRYXRUMkZfVEljZVV6c3hLTFFTR2ZF?oc=5</guid>
             <pubDate>Fri, 20 Mar 2026 23:33:22 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美联航将削减 5% 的航班，计划从伊朗战争中消耗 175 美元的石油 路透]]></description>
+            <description><![CDATA[[Reuters Business] 联合航空预计 2027 年油价将突破 100 美元，将削减更多航班 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国允许出售搁浅的伊朗石油以限制燃油价格上涨]]></title>
@@ -159,11 +173,11 @@
             <description><![CDATA[[Reuters Business] 黑石旗舰私人信贷基金三年多来首次出现月度亏损 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美国从储备中向石油公司提供4520万桶贷款，这是伊朗战争的第一批资金 - 路透中文网]]></title>
+            <title><![CDATA[美国从储备中向石油公司提供4520万桶贷款，这是第一批伊朗战争 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWRqalFRdDVNUVJYZTBFakNRMy1LUG5MYTc2N2lFWm9kUjNZLWJEc2hlSHBlamdjZGJWZHpjY2tzb2VKaDc5NmZzdEwyNGcxd2FGYjdNNnY4SUdHMWx0clQwWFpocG04bmZqQnZpWE02R1JNemYxUGdHcThnd3RpV0gzM0l2bnhyQmJyalRYb1NDTms5RXhReFcxeU84ajF4Rjl5cnF1aGJRVk45bjcwSHUzOA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWRqalFRdDVNUVJYZTBFakNRMy1LUG5MYTc2N2lFWm9kUjNZLWJEc2hlSHBlamdjZGJWZHpjY2tzb2VKaDc5NmZzdEwyNGcxd2FGYjdNNnY4SUdHMWx0clQwWFpocG04bmZqQnZpWE02R1JNemYxUGdHcThnd3RpV0gzM0l2bnhyQmJyalRYb1NDTms5RXhReFcxeU84ajF4Rjl5cnF1aGJRVk45bjcwSHUzOA?oc=5</guid>
             <pubDate>Fri, 20 Mar 2026 22:32:51 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国从储备中向石油公司提供 4520 万桶贷款，这是伊朗战争的第一批资金 路透]]></description>
+            <description><![CDATA[[Reuters Business] 美国从储备中向石油公司借出 4520 万桶伊朗战争的第一批资金 路透]]></description>
         </item>
         <item>
             <title><![CDATA[由于伊朗战争的不确定性，摩根大通策略师下调了标准普尔 500 指数目标]]></title>
@@ -191,7 +205,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-03-20/diesel-costs-become-new-worry-as-gallon-surpasses-5-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-20/diesel-costs-become-new-worry-as-gallon-surpasses-5-video</guid>
             <pubDate>Fri, 20 Mar 2026 21:47:29 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国一加仑柴油的平均价格本周历史上第二次突破 5 美元。  （俄罗斯 2022 年入侵乌克兰标志着该燃料首次涉足此前深不可测的领域。）尽管大多数消费者更关心汽油价格，但柴油价格的大幅上涨让企业保持警惕。 这是因为它为几乎所有行业提供动力，从耕地的拖拉机到建筑机械，再到从海岸到海岸运输货物和人员的半挂卡车、火车和公共汽车。 美国卡车运输协会首席经济学家鲍勃·科斯特洛 (Bob Costello) 表示，柴油是卡车运输行业的第二大支出，仅次于司机工资，约占运营成本的五分之一。 彭博新闻石油记者 Nathan Risser 加入《彭博商业周刊》进行讨论。 他与卡罗尔·马萨和蒂姆·斯特诺维克进行了交谈。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 美国一加仑柴油的平均价格本周历史上第二次突破 5 美元。  （俄罗斯 2022 年入侵乌克兰标志着该燃料首次涉足此前深不可测的领域。）尽管大多数消费者更关心汽油价格，但柴油价格的大幅上涨让企业保持警惕。 这是因为它为几乎所有行业提供动力，从耕地的拖拉机到建筑机械，再到从海岸到海岸运输货物和人员的半挂卡车、火车和公共汽车。 美国卡车运输协会首席经济学家鲍勃·科斯特洛表示，柴油是卡车运输行业的第二大支出，仅次于司机工资，约占运营成本的五分之一。 彭博新闻石油记者 Nathan Risser 加入《彭博商业周刊》进行讨论。 他与卡罗尔·马萨和蒂姆·斯特诺维克进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[法官暂时禁止卡尔希在内华达州运营]]></title>
@@ -201,7 +215,7 @@
             <description><![CDATA[[Bloomberg] 在内华达州监管机构称卡尔希没有博彩许可证后，法官暂时禁止该公司在内华达州提供预测市场合同。  根据内华达州博彩管制委员会提供的命令副本，卡森城地方法院法官贾森·D·伍德伯里周五签署了一项临时限制令，禁止卡尔希体育、选举和娱乐活动合同长达两周。 卡尔希的发言人拒绝发表评论。 盛德国际律师事务所合伙人、商品期货交易委员会前执行总监 Ian McGinley 加入《彭博商业周刊》进行讨论。 他与卡罗尔·马萨和蒂姆·斯特诺维克进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[以小盘股为主的罗素 2000 指数成为首个进入修正区间的美国基准指数]]></title>
+            <title><![CDATA[以小盘股为主的罗素 2000 指数成为首个进入调整区间的美国基准指数]]></title>
             <link>https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html</guid>
             <pubDate>Fri, 20 Mar 2026 21:41:56 GMT</pubDate>
@@ -314,7 +328,7 @@
             <description><![CDATA[[华尔街见闻] 日本软银集团：美国俄亥俄州数据中心将是一个5000亿美元的项目  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Roblox 将彻底改革广告政策，并于 2027 年引入收入共享 - 路透中文网]]></title>
+            <title><![CDATA[Roblox 将彻底改革广告政策，并于 2027 年引入收入分成 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHo3dk9hcVJZYXowNlZMYVFEMGl3aUFydE9PeHkzTWhyYXBUSGduS0pfSms2bnRCajNRUzdEN2QzM1VkRDgxdGE5R0dfNXdBM3ZEVk5ZXzN4cWRhRzB2cGZXanpvYlBFcnRoNkV4ZUFueHFhSm1QWjZXeHRqNUlwSGJSNjEzOUNHWkZwcW14MWJ4aDh1TTltQ0RwQjBNQTZYaTg1QWp2R1Q4aHZwc2c4TXQ4RDdWTW5M?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcHo3dk9hcVJZYXowNlZMYVFEMGl3aUFydE9PeHkzTWhyYXBUSGduS0pfSms2bnRCajNRUzdEN2QzM1VkRDgxdGE5R0dfNXdBM3ZEVk5ZXzN4cWRhRzB2cGZXanpvYlBFcnRoNkV4ZUFueHFhSm1QWjZXeHRqNUlwSGJSNjEzOUNHWkZwcW14MWJ4aDh1TTltQ0RwQjBNQTZYaTg1QWp2R1Q4aHZwc2c4TXQ4RDdWTW5M?oc=5</guid>
             <pubDate>Fri, 20 Mar 2026 19:59:28 GMT</pubDate>
@@ -326,13 +340,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxOcE92dlNnaDhlbVR5R1lraVZvbmNmc1dZazJvYmgyYi1Nc1BTQWo2RHBrcnhCRENrZXE3LVBQNGprNnVpRnVsRDZIVFNzY1Q3ZDFuMHlWT3FGZi1KSDhodlZPeHpNTEtTOFNPbmNBMzJ0MUJBUmpEX1U0dktTS3hfd2tSXzNtNmFhR2FxQlNMdXVXNTBTaWtkNl9VNndvZGZWaFlpdF9rNTV4QXVjeXYw?oc=5</guid>
             <pubDate>Fri, 20 Mar 2026 19:46:35 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 古巴 79 岁民谣歌手现在已全副武装准备入侵 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[交易员今年首次对美元持积极态度]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-20/traders-turn-positive-on-us-dollar-for-first-time-this-year</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-20/traders-turn-positive-on-us-dollar-for-first-time-this-year</guid>
-            <pubDate>Fri, 20 Mar 2026 19:41:18 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于中东战争推高能源成本并支持美元作为避险货币的地位，交易商今年首次对美元转为看好。]]></description>
         </item>
         <item>
             <title><![CDATA[消息人士称，森科尔全球市场和贸易风险管理主管将离职 - 路透中文网]]></title>
@@ -510,6 +517,13 @@
             <description><![CDATA[[WSJ] 尽管经济形势日益严峻，加拿大消费者在今年头几个月表现出了韧性的迹象。]]></description>
         </item>
         <item>
+            <title><![CDATA[NextEra 获得特朗普批准高达 10 吉瓦的天然气发电项目 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tJQjBYeXpnbEFqX2J0TlpxZWxVRk9XdzVHTzBHcXF2VnBNR1RLTzBmQ1BSeW5tM3NaemJ2VEJ3UzgzcWJQbDY1N19GWVZqZk5vRlRNXzJ4U3ZyS3IzUFFIcFI5RWROSGJpUDk3R3ZBcV9yUkJZNXRKbVhOOEZLVTBpLXg2S3BKaDhjNTVnVHhMbGN5Q0dJZWtrT2lvZWRRbVhScVMzckhqN2Zx?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0tJQjBYeXpnbEFqX2J0TlpxZWxVRk9XdzVHTzBHcXF2VnBNR1RLTzBmQ1BSeW5tM3NaemJ2VEJ3UzgzcWJQbDY1N19GWVZqZk5vRlRNXzJ4U3ZyS3IzUFFIcFI5RWROSGJpUDk3R3ZBcV9yUkJZNXRKbVhOOEZLVTBpLXg2S3BKaDhjNTVnVHhMbGN5Q0dJZWtrT2lvZWRRbVhScVMzckhqN2Zx?oc=5</guid>
+            <pubDate>Fri, 20 Mar 2026 14:58:25 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] NextEra 获得特朗普批准高达 10 吉瓦的天然气发电项目 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[铜与黄金一起遭遇大宗商品抛售。 背后有一个令人担忧的原因]]></title>
             <link>https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/03/19/copper-joins-gold-in-broad-commodities-sell-off-theres-a-worrying-reason-behind-it.html</guid>
@@ -594,18 +608,18 @@
             <description><![CDATA[[财新网] 金融法草案公开征求意见：建立兜底监管机制 实现监管全覆盖  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[伊朗袭击后印度预计卡塔尔液化天然气供应减少 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUxTbXdoZURlLUFRcnFaYXRQX3dxekd2VllrRGpQTjVGUmRpUTBIXzVXTHZnODZ3cDNTQjlsaGhyQkNqOUt5VDdJR0ltOUk0VnZnTjVGTFBUaldBVkZuZ290elNpUVBCcWFuRUctdG1MY3h1UWNKMEUxMDdoYzg2LWNUd3h3UEtiLW0xaXVWU3FLcGxKOG9QeGlYa3ljN0x3YlFN?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUxTbXdoZURlLUFRcnFaYXRQX3dxekd2VllrRGpQTjVGUmRpUTBIXzVXTHZnODZ3cDNTQjlsaGhyQkNqOUt5VDdJR0ltOUk0VnZnTjVGTFBUaldBVkZuZ290elNpUVBCcWFuRUctdG1MY3h1UWNKMEUxMDdoYzg2LWNUd3h3UEtiLW0xaXVWU3FLcGxKOG9QeGlYa3ljN0x3YlFN?oc=5</guid>
-            <pubDate>Fri, 20 Mar 2026 12:48:01 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 伊朗袭击后印度预计卡塔尔液化天然气供应减少 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[Ecolab 将以 47.5 亿美元收购 CoolIT，以进军人工智能数据中心热潮 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOVVNuNzEtOTg1N0VFZS1SbEpGeGd0RDNiWG5sQWhNQjRUNXpxOEhMVW1aNjM2UU50WHB0RlJSUzhjbTVzQm5tUEdOQ2x1a3g3bU9BZFc0ZVY4X1NwbDhNbHZWVmJvUHg0Um9SRThsQmZRWXM3OEJnNlRKSVg2MVVXV3ZoU2VIX0g5dUVsOFFLQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxOVVNuNzEtOTg1N0VFZS1SbEpGeGd0RDNiWG5sQWhNQjRUNXpxOEhMVW1aNjM2UU50WHB0RlJSUzhjbTVzQm5tUEdOQ2x1a3g3bU9BZFc0ZVY4X1NwbDhNbHZWVmJvUHg0Um9SRThsQmZRWXM3OEJnNlRKSVg2MVVXV3ZoU2VIX0g5dUVsOFFLQQ?oc=5</guid>
             <pubDate>Fri, 20 Mar 2026 12:10:48 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Ecolab 将以 47.5 亿美元收购 CoolIT，以进军人工智能数据中心热潮 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯石油公司在二月份下跌后将重新夺回印度第一的位置 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGI1blhudlI4dEZQc191UnlVVTU5M0pMRTBxZ2h4SXNxLXQ0N1F1UU5KeGktbUVJalRuNm1oblN6UC1tYllqb0NaRTFDRGppcXNNTTRaNUctZTRVV0FHaUc2TkMycDRvUzdWNzNOSkpkTFUxOGZ5dkdXWkFUTmtMLTBqaVlSMnNYaHlHUktJb3lYQVhkZ2tuTkQ4TU1nNjRTb3lpZHRlRFNVQzR3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxQNGI1blhudlI4dEZQc191UnlVVTU5M0pMRTBxZ2h4SXNxLXQ0N1F1UU5KeGktbUVJalRuNm1oblN6UC1tYllqb0NaRTFDRGppcXNNTTRaNUctZTRVV0FHaUc2TkMycDRvUzdWNzNOSkpkTFUxOGZ5dkdXWkFUTmtMLTBqaVlSMnNYaHlHUktJb3lYQVhkZ2tuTkQ4TU1nNjRTb3lpZHRlRFNVQzR3?oc=5</guid>
+            <pubDate>Fri, 20 Mar 2026 12:09:02 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 俄罗斯石油公司将在 2 月份下跌后重新夺回印度市场第一的宝座 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[由于对长期战争的担忧，美国股市跌至六个月低点]]></title>
@@ -671,13 +685,6 @@
             <description><![CDATA[[WSJ] 随着中东冲突导致能源价格飙升，市场正在关注政策制定者这一次将如何应对。]]></description>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫称欧盟液化天然气计划弄巧成拙，俄罗斯将寻找新市场 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWZJeVlpclJtNGhpM0g2Vnp1X1p1b2xWRThDLUtJWEl4MUpzb0VuUDlVQ0lSMG95VDNJeVAzQ1g0a1J0aTI3MGR0TEk0UkhKZURYZlpKMzY3TlVUMWRmODUtVUlQZGtIN1o4ZU0xeTJXVFhTeXF2ZkdOdGg4R1NXNW1WMW5yQmw5Qnk2SUhWaEhabThGWTc5Z0ZyUEVDdklPRnVCZEVRN2xKakMwR1k0MFZ3R2ZPdlhOeVoweVpR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWZJeVlpclJtNGhpM0g2Vnp1X1p1b2xWRThDLUtJWEl4MUpzb0VuUDlVQ0lSMG95VDNJeVAzQ1g0a1J0aTI3MGR0TEk0UkhKZURYZlpKMzY3TlVUMWRmODUtVUlQZGtIN1o4ZU0xeTJXVFhTeXF2ZkdOdGg4R1NXNW1WMW5yQmw5Qnk2SUhWaEhabThGWTc5Z0ZyUEVDdklPRnVCZEVRN2xKakMwR1k0MFZ3R2ZPdlhOeVoweVpR?oc=5</guid>
-            <pubDate>Fri, 20 Mar 2026 10:21:03 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 克里姆林宫称欧盟液化天然气计划弄巧成拙，俄罗斯将寻找新市场 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[德国放宽对海湾国家和乌克兰的武器出口限制 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQcThZWVdhTjZybDNsX2JMdVllZ3Vha2s5UWVkenpBN01vZkNXUEppUlVxOGdVdHVCa1o4SldVeUZLMFI2SFBleThDcGljVm96bXdPVkxvcFhxbXNkcFRuR3V5cm9WQlNad2hDLS1zZnI0MTdqLU12Q3BfVFlGX1RKUmQyTUx3MDBBWWJVeENsQ09vc2ZhbFZuUWQzS0lUTU5fWjZaNXlRcjVfLVdIeEgxV1dCT0hNMFNVMnQzcnNvZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQcThZWVdhTjZybDNsX2JMdVllZ3Vha2s5UWVkenpBN01vZkNXUEppUlVxOGdVdHVCa1o4SldVeUZLMFI2SFBleThDcGljVm96bXdPVkxvcFhxbXNkcFRuR3V5cm9WQlNad2hDLS1zZnI0MTdqLU12Q3BfVFlGX1RKUmQyTUx3MDBBWWJVeENsQ09vc2ZhbFZuUWQzS0lUTU5fWjZaNXlRcjVfLVdIeEgxV1dCT0hNMFNVMnQzcnNvZw?oc=5</guid>
@@ -692,13 +699,6 @@
             <description><![CDATA[[Reuters Business] 路透社/益普索民意调查发现，汽油价格上涨将打击美国家庭财务状况，预计会带来更多痛苦 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[鲍威尔对美联储董事会席位的决定可能会影响沃什的领导地位 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFdRd2lpUFZyWGx6QU1nVHh1TjYzNHFXVUtHdktpcW1FZHNrcTJkelpQWlR3R1dkTlUydXFnb3BpUzdDVFZJY0lLdk9HRjhGa0duWFVkaTEwaWhERllnTGNLbTY1QVdZMlhhdXBiSUhBZ0ZBa2w1T3FYbE8tS2JaeEVZb2RLc2gyeTlzRFpjXzRWYVZTSGNNa1dVMWJaNGNxWWRVRlBHQjFpUQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFdRd2lpUFZyWGx6QU1nVHh1TjYzNHFXVUtHdktpcW1FZHNrcTJkelpQWlR3R1dkTlUydXFnb3BpUzdDVFZJY0lLdk9HRjhGa0duWFVkaTEwaWhERllnTGNLbTY1QVdZMlhhdXBiSUhBZ0ZBa2w1T3FYbE8tS2JaeEVZb2RLc2gyeTlzRFpjXzRWYVZTSGNNa1dVMWJaNGNxWWRVRlBHQjFpUQ?oc=5</guid>
-            <pubDate>Fri, 20 Mar 2026 10:02:12 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 鲍威尔对美联储董事会席位的决定可能会影响沃什的领导地位 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国监管机构关闭了涉及超过 200 万辆特斯拉汽车的缺陷请愿书 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXlTNlZ3bzY2dnJoSDNERnp1SXhNTGM1TGZTV0RwTlZyOWtXZm5IeG5mRG1aclFYUThoNTRxc0JMbHE3dktXZDd6b0JPeUtoN1AxSUp2ZTJ6TjVwbE5vRVdfTEJMYXVFTmR2eHhnM0hSeVdGRFVkVm5BVWpRMXNvS1ltLTVqczNYdmJoNmllS0VLUlphX2tSVGg4Sk91dmowUkJPQm9pclVYa09vTFpUQ25SQ21WamEyLXJlYzZWNlNJRmQ1WmVHSjNFN1ZmaHJETmZ5ZzhVaTVZUzA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVXlTNlZ3bzY2dnJoSDNERnp1SXhNTGM1TGZTV0RwTlZyOWtXZm5IeG5mRG1aclFYUThoNTRxc0JMbHE3dktXZDd6b0JPeUtoN1AxSUp2ZTJ6TjVwbE5vRVdfTEJMYXVFTmR2eHhnM0hSeVdGRFVkVm5BVWpRMXNvS1ltLTVqczNYdmJoNmllS0VLUlphX2tSVGg4Sk91dmowUkJPQm9pclVYa09vTFpUQ25SQ21WamEyLXJlYzZWNlNJRmQ1WmVHSjNFN1ZmaHJETmZ5ZzhVaTVZUzA?oc=5</guid>
@@ -706,11 +706,11 @@
             <description><![CDATA[[Reuters Business] 美国监管机构关闭了涉及超过 200 万辆特斯拉汽车的缺陷请愿书 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[北京支持的大脑芯片公司称其比马斯克的 Neuralink 落后 3 年 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbVhseDRjaEs3RTZ4cEJrNjBUc3R5UkZUZ05Odkg1UTdsWVpuX3hoQmhIcFo5Qi1Pb1VQdVdyWVUxSmJBUEJGbERZNEhYMHRXNVN1ZzB4clNTbWRLaWRoLWo5dVZaUlF3c2tvRkxPcGU2WEVINmpkNjg1XzdLY19JSHZRZHl6b1lpNE9kSElCMDdGUHdtOElIMkhPY2VIZVlOZGxOOVM2cEktTW0zeHZhSDBEbjVjamFyU2hCZ2JXT1c0LTU4MkNrTVMwd2h6dUEweWZXcEwxeTZnSjdC?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbVhseDRjaEs3RTZ4cEJrNjBUc3R5UkZUZ05Odkg1UTdsWVpuX3hoQmhIcFo5Qi1Pb1VQdVdyWVUxSmJBUEJGbERZNEhYMHRXNVN1ZzB4clNTbWRLaWRoLWo5dVZaUlF3c2tvRkxPcGU2WEVINmpkNjg1XzdLY19JSHZRZHl6b1lpNE9kSElCMDdGUHdtOElIMkhPY2VIZVlOZGxOOVM2cEktTW0zeHZhSDBEbjVjamFyU2hCZ2JXT1c0LTU4MkNrTVMwd2h6dUEweWZXcEwxeTZnSjdC?oc=5</guid>
-            <pubDate>Fri, 20 Mar 2026 09:20:13 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 北京支持的大脑芯片公司称其比马斯克的 Neuralink 落后 3 年 路透]]></description>
+            <title><![CDATA[宇树科技IPO获受理，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYXFlOWZZQ0w2MENvNXhwRHYwZzFTSUM3bGVjc3RiUThEZGxoTy1zQ1lwMTQzUm9SMzcza1RDTVhscHpYRTBoVUpEcXNOS1NRbG84?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYXFlOWZZQ0w2MENvNXhwRHYwZzFTSUM3bGVjc3RiUThEZGxoTy1zQ1lwMTQzUm9SMzcza1RDTVhscHpYRTBoVUpEcXNOS1NRbG84?oc=5</guid>
+            <pubDate>Fri, 20 Mar 2026 09:38:34 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 宇树科技IPO获受理，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
