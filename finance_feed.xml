@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 22 Mar 2026 19:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 19:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[America Movil 旗下 Claro 将以 7.5 亿美元收购 Desktop SA]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-22/america-movil-s-claro-to-buy-desktop-sa-in-750-million-deal</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/america-movil-s-claro-to-buy-desktop-sa-in-750-million-deal</guid>
+            <pubDate>Sun, 22 Mar 2026 19:13:47 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 两家公司周日宣布，Claro Telecom Participacoes SA 将以 40 亿雷亚尔（7.5 亿美元）的企业价值收购电信公司 Desktop SA 的多数股权。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[意大利邮政发起 108 亿欧元的意大利电信投标]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-22/poste-italiane-launches-10-8-billion-telecom-italia-bid</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/poste-italiane-launches-10-8-billion-telecom-italia-bid</guid>
+            <pubDate>Sun, 22 Mar 2026 19:07:20 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 一份声明称，意大利邮政公司 (Poste Italiane SpA) 表示，将向意大利电信公司 (Telecom Italia SpA) 发起价值约 108 亿欧元（合 125 亿美元）的公开要约，寻求完全控制这家前电话垄断企业，因为这家国家支持的集团进一步向数字基础设施领域扩张。]]></description>
+        </item>
         <item>
             <title><![CDATA[帕斯基表示将在周一董事会会议上审查洛瓦利奥的立场]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-22/paschi-said-to-review-lovaglio-position-at-monday-board-meeting</link>
@@ -422,32 +436,11 @@
             <description><![CDATA[[Bloomberg] 自中东战争爆发以来，全球经济的首次集体健康检查将以美国和欧元区商业调查的形式进行。]]></description>
         </item>
         <item>
-            <title><![CDATA[道富银行和 Voya 寻求规避违约风险]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-21/state-street-voya-seek-shelter-from-default-risk-credit-weekly</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-21/state-street-voya-seek-shelter-from-default-risk-credit-weekly</guid>
-            <pubDate>Sat, 21 Mar 2026 19:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着能源价格上涨和通胀担忧加剧，企业债券的风险看起来越来越大，包括道富银行和 Voya 投资管理公司在内的大型基金管理公司一直在考虑购买抵押债券和其他证券化债务。]]></description>
-        </item>
-        <item>
             <title><![CDATA[七国集团准备采取行动保护全球能源供应，支持霍尔木兹海峡安全 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmRtY3N4SWpBdERQM2sxSk50ZWVsN1Q3ZmstTDdCM0dNM0dsaW80WlliTTAzQ1oyOWdXZEZIek4ta2JQZW9XX3lmTkZhalM5SVFhQ0IwemdETWhLN1k3T3YtOHc1Sm9jSGFHSnNQbVhRdG01bmFKRmR6QnBCV1VoR1NndEhTTWFnekFLWlN4cEJ3ZUZheVVEYmtCRnRKXzhGZ1RwWUt1ZWNUendWRnZaMmRjMDlTYjREaGJrMGZrbHg4QQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmRtY3N4SWpBdERQM2sxSk50ZWVsN1Q3ZmstTDdCM0dNM0dsaW80WlliTTAzQ1oyOWdXZEZIek4ta2JQZW9XX3lmTkZhalM5SVFhQ0IwemdETWhLN1k3T3YtOHc1Sm9jSGFHSnNQbVhRdG01bmFKRmR6QnBCV1VoR1NndEhTTWFnekFLWlN4cEJ3ZUZheVVEYmtCRnRKXzhGZ1RwWUt1ZWNUendWRnZaMmRjMDlTYjREaGJrMGZrbHg4QQ?oc=5</guid>
             <pubDate>Sat, 21 Mar 2026 18:58:48 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 七国集团准备采取行动保护全球能源供应，支持霍尔木兹海峡安全 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[韩国流行音乐超级组合 BTS 关闭首尔市中心举办复出演唱会 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPaHhzUXBDZl9DOWxRLU5KQmhkQ0p0Y3E3TnFqdzdyVmJQa1B2cWlTTWdreno5ajY1NUZIMnpxcVRBaWVLUWJqc0xvTllIcnJDVS1HS2xTZWZXWXhVYUprUjNYUEdPdjNpbTdra2Q5N1dQOEdSV3lVeHJhV0Z5TUJMZ01lZmpudEFnZDJiZkRjTUcybXVlamRKSXpFcjJkRTNwUmdGMnU1cndTX2N6bnZPUjY2MXhrMHZjcUFpWnBCVHk4bV9Yb1RST2hR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPaHhzUXBDZl9DOWxRLU5KQmhkQ0p0Y3E3TnFqdzdyVmJQa1B2cWlTTWdreno5ajY1NUZIMnpxcVRBaWVLUWJqc0xvTllIcnJDVS1HS2xTZWZXWXhVYUprUjNYUEdPdjNpbTdra2Q5N1dQOEdSV3lVeHJhV0Z5TUJMZ01lZmpudEFnZDJiZkRjTUcybXVlamRKSXpFcjJkRTNwUmdGMnU1cndTX2N6bnZPUjY2MXhrMHZjcUFpWnBCVHk4bV9Yb1RST2hR?oc=5</guid>
-            <pubDate>Sat, 21 Mar 2026 18:34:44 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 韩国流行音乐超级组合 BTS 关闭首尔市中心举办复出演唱会 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西德克萨斯天然气价格负值揭示全球能源不匹配]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-21/negative-west-texas-waha-gas-prices-reveal-global-energy-mismatch</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-21/negative-west-texas-waha-gas-prices-reveal-global-energy-mismatch</guid>
-            <pubDate>Sat, 21 Mar 2026 18:02:27 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 全球能源供应的混乱意味着，尽管世界某些地区的买家迫切希望获得天然气，但德克萨斯州的额外产量如此之多，以至于生产商正在尽快将其烧掉。]]></description>
         </item>
         <item>
             <title><![CDATA[利比亚聘请公司来解决漂向海岸的受困俄罗斯油轮 - 路透中文网]]></title>
@@ -597,7 +590,7 @@
             <description><![CDATA[[华尔街见闻] 小鹏首次单季盈利，2026年再砸70亿做物理AI  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[英国《金融时报》报道，欧盟敦促成员国因伊朗战争而削减天然气储存目标 - 路透中文网]]></title>
+            <title><![CDATA[英国《金融时报》报道，欧盟敦促成员国因伊朗战争而削减天然气储存目标 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjBYMzVoUE1KWkdTMVpBSHoyQm5JZjBpVTF6MW16XzJsM1JiNEVuN1N2T1hKckF6ZWM5Z2ZzS1lrX2NCQkE2alV6cEhvNG55YTJ4U2FTU3QwYXJTOVpIbkplNGZjV05EaFhOWFpseGdWTHcwU1podFVoNzU2bHpXMjRGcWNFRk9Kc25oNk5zRDRUdHdpRmhfcHd3a0Z1UTBuN3JkZ3ZsZENCUDJ1cDUtQmFyTTExQTg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjBYMzVoUE1KWkdTMVpBSHoyQm5JZjBpVTF6MW16XzJsM1JiNEVuN1N2T1hKckF6ZWM5Z2ZzS1lrX2NCQkE2alV6cEhvNG55YTJ4U2FTU3QwYXJTOVpIbkplNGZjV05EaFhOWFpseGdWTHcwU1podFVoNzU2bHpXMjRGcWNFRk9Kc25oNk5zRDRUdHdpRmhfcHd3a0Z1UTBuN3JkZ3ZsZENCUDJ1cDUtQmFyTTExQTg?oc=5</guid>
             <pubDate>Sat, 21 Mar 2026 06:10:00 GMT</pubDate>
@@ -674,7 +667,7 @@
             <description><![CDATA[[Reuters Business] 黑石旗舰私人信贷基金三年多来首次出现月度亏损 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[以小盘股为主的罗素 2000 指数成为首个进入修正区间的美国基准指数]]></title>
+            <title><![CDATA[以小盘股为主的罗素 2000 指数成为首个进入调整区间的美国基准指数]]></title>
             <link>https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/03/20/small-cap-russell-2000-enters-correction-territory.html</guid>
             <pubDate>Fri, 20 Mar 2026 21:41:56 GMT</pubDate>
@@ -686,6 +679,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBRVVtdDdiLWxkZGVkSjJrcjFpUGg5dkdKV0tVWG1NcFJGaG05UnlreWxxTzUzSVpYWmRLQkh0dGZRR1JJZ0hxc3lhMFo1Sm85eDdN?oc=5</guid>
             <pubDate>Fri, 20 Mar 2026 21:39:33 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 战火冲击能源命脉，伊拉克油企产量跌超七成、要对外企“免责”，伊朗回应美“放松制裁”  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[韩国流行音乐超级组合 BTS 关闭首尔市中心举办复出演唱会 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPaHhzUXBDZl9DOWxRLU5KQmhkQ0p0Y3E3TnFqdzdyVmJQa1B2cWlTTWdreno5ajY1NUZIMnpxcVRBaWVLUWJqc0xvTllIcnJDVS1HS2xTZWZXWXhVYUprUjNYUEdPdjNpbTdra2Q5N1dQOEdSV3lVeHJhV0Z5TUJMZ01lZmpudEFnZDJiZkRjTUcybXVlamRKSXpFcjJkRTNwUmdGMnU1cndTX2N6bnZPUjY2MXhrMHZjcUFpWnBCVHk4bV9Yb1RST2hR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPaHhzUXBDZl9DOWxRLU5KQmhkQ0p0Y3E3TnFqdzdyVmJQa1B2cWlTTWdreno5ajY1NUZIMnpxcVRBaWVLUWJqc0xvTllIcnJDVS1HS2xTZWZXWXhVYUprUjNYUEdPdjNpbTdra2Q5N1dQOEdSV3lVeHJhV0Z5TUJMZ01lZmpudEFnZDJiZkRjTUcybXVlamRKSXpFcjJkRTNwUmdGMnU1cndTX2N6bnZPUjY2MXhrMHZjcUFpWnBCVHk4bV9Yb1RST2hR?oc=5</guid>
+            <pubDate>Fri, 20 Mar 2026 21:02:41 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 韩国流行音乐超级组合 BTS 关闭首尔市中心举办复出演唱会 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国及其盟国在靠近亚洲热点地区建造导弹和无人机 - 路透中文网]]></title>
