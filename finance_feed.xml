@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 22 Mar 2026 21:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 22:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[特朗普的霍尔木兹最后通牒可能导致战争升级，油价上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-22/latest-oil-market-news-and-analysis-for-march-23</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/latest-oil-market-news-and-analysis-for-march-23</guid>
+            <pubDate>Sun, 22 Mar 2026 22:01:54 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在唐纳德·特朗普总统向伊朗发出重新开放霍尔木兹海峡的最后通牒以及德黑兰威胁进行报复后，油价上涨。]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3273826</link>
@@ -24,11 +31,11 @@
   （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[展望下调、石油等影响新西兰收益率升至一年来最高]]></title>
+            <title><![CDATA[石油展望下调新西兰收益率创2024年以来最高]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-22/nz-yields-rise-to-highest-in-a-year-on-outlook-cut-oil-s-rise</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/nz-yields-rise-to-highest-in-a-year-on-outlook-cut-oil-s-rise</guid>
             <pubDate>Sun, 22 Mar 2026 20:33:43 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 惠誉评级将新西兰 AA+ 信用评级前景下调至负面后，该国债券收益率升至约一年来的最高水平。]]></description>
+            <description><![CDATA[[Bloomberg] 惠誉评级将新西兰 AA+ 信用评级前景下调至负面后，该国基准债券收益率升至 2024 年以来的最高水平。]]></description>
         </item>
         <item>
             <title><![CDATA[由于冲突给供应链带来风险，恒天然提高了指导意见]]></title>
@@ -206,7 +213,7 @@
             <description><![CDATA[[Bloomberg] 费马资本管理公司表示，欧洲限制散户投资者购买巨灾债券的提议面临严重阻力，因为专门从事保险相关策略的基金经理采取了协调一致的行动。]]></description>
         </item>
         <item>
-            <title><![CDATA[以色列大使 莱特：我们希望与黎巴嫩实现和平]]></title>
+            <title><![CDATA[以色列大使 莱特：我们希望与黎巴嫩和平]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-03-22/israeli-amb-leiter-we-want-peace-with-lebanon-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-22/israeli-amb-leiter-we-want-peace-with-lebanon-video</guid>
             <pubDate>Sun, 22 Mar 2026 13:12:26 GMT</pubDate>
@@ -262,7 +269,7 @@
             <description><![CDATA[[Bloomberg] 本币债务曾经是新兴市场投资者的首选，但现在正迅速成为一种痛苦的交易。]]></description>
         </item>
         <item>
-            <title><![CDATA[HORMUZ TRACKER：前往中国的液化石油气运输船加入稀疏运输行列]]></title>
+            <title><![CDATA[HORMUZ TRACKER：前往中国的液化石油气运输船加入稀疏运输]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-22/hormuz-tracker-china-bound-lpg-carrier-joins-sparse-transits</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/hormuz-tracker-china-bound-lpg-carrier-joins-sparse-transits</guid>
             <pubDate>Sun, 22 Mar 2026 12:09:38 GMT</pubDate>
@@ -372,13 +379,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FOTh2UzRyS211NmpnNmtra2hVZkhkX2thdzF5YkNuVi1qbXZKY2hQWVhHWW5wSGdGX3d5ZmFtNjdBMXlqTVpERUtQd3JpQWRBQ3E4?oc=5</guid>
             <pubDate>Sun, 22 Mar 2026 08:03:19 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 抛开美伊和高油价，未来哪些行业能保持独立高景气？  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[霍尔木兹海峡关闭迫使特朗普和进口商寻求解决方案]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-22/hormuz-strait-closure-forcing-trump-importers-to-seek-solution</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/hormuz-strait-closure-forcing-trump-importers-to-seek-solution</guid>
-            <pubDate>Sun, 22 Mar 2026 07:38:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着该地区冲突的加深，霍尔木兹海峡的有效关闭已进入第四周，这给美国政府和波斯湾石油、天然气和燃料的主要进口国带来了越来越大的压力，促使它们竞相寻求解决方案。]]></description>
         </item>
         <item>
             <title><![CDATA[韩国任命国际清算银行资深人士为新任央行行长]]></title>
@@ -640,6 +640,13 @@
             <description><![CDATA[[华尔街见闻] 英伟达机器人负责人：AI智能体将引爆机器人领域"ChatGPT时刻"  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[美国及其盟国在靠近亚洲热点地区建造导弹和无人机 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWExsVzBNLWhRa0NuR3M4LXpfbVhWZC1FbHI2dGFFNEhPczhnNWdJeDB3QUNTUEx1SHlSRUF1UEp5Q0hIMFFnOTFTMGx2VWJ0NXozU3FCbnI0NnpiaWhLLUdON0M0UHFGWVBGUEF3c1U3bmpvTXQzR1Rud3h3ZGhXVWhkOFJfLTA3SGQtSnFyZUUySHZZd012WkVtc0F6R1d6cThHNnh0TGNMQUFPN1JBUmx2SVVLc3hPcnd5bTYyU1BZQQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWExsVzBNLWhRa0NuR3M4LXpfbVhWZC1FbHI2dGFFNEhPczhnNWdJeDB3QUNTUEx1SHlSRUF1UEp5Q0hIMFFnOTFTMGx2VWJ0NXozU3FCbnI0NnpiaWhLLUdON0M0UHFGWVBGUEF3c1U3bmpvTXQzR1Rud3h3ZGhXVWhkOFJfLTA3SGQtSnFyZUUySHZZd012WkVtc0F6R1d6cThHNnh0TGNMQUFPN1JBUmx2SVVLc3hPcnd5bTYyU1BZQQ?oc=5</guid>
+            <pubDate>Sat, 21 Mar 2026 04:28:26 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国及其盟国开始在靠近亚洲热点的地方建造导弹和无人机 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYXFlOWZZQ0w2MENvNXhwRHYwZzFTSUM3bGVjc3RiUThEZGxoTy1zQ1lwMTQzUm9SMzcza1RDTVhscHpYRTBoVUpEcXNOS1NRbG84?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYXFlOWZZQ0w2MENvNXhwRHYwZzFTSUM3bGVjc3RiUThEZGxoTy1zQ1lwMTQzUm9SMzcza1RDTVhscHpYRTBoVUpEcXNOS1NRbG84?oc=5</guid>
@@ -701,13 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ0RuYWhOaFhBc09ybTZKMW5FZG1YdzMwcHpKUEtPdGl1RkNSanUyZDVnVHZMS2dROXo5MjRBVE14Z0MzTURqcjBFOWRFSzVMUGpjUThPcm0yUzFBSlNmU1ZFQS1vbWtzWkRza0pHOHk5NzYxdFg4Q0xEN2cxNzNaNFpuNTVJQU1aOEZwcDctcXBXVnowVWtkb256bjZMcDdndmZUajlXR2VEaW00NFpxbUZ3a3hMdkJQMlg0?oc=5</guid>
             <pubDate>Fri, 20 Mar 2026 21:07:15 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 官员称，美国向中东派遣海军陆战队和两栖攻击舰 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[韩国流行音乐超级组合 BTS 关闭首尔市中心举办复出演唱会 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPaHhzUXBDZl9DOWxRLU5KQmhkQ0p0Y3E3TnFqdzdyVmJQa1B2cWlTTWdreno5ajY1NUZIMnpxcVRBaWVLUWJqc0xvTllIcnJDVS1HS2xTZWZXWXhVYUprUjNYUEdPdjNpbTdra2Q5N1dQOEdSV3lVeHJhV0Z5TUJMZ01lZmpudEFnZDJiZkRjTUcybXVlamRKSXpFcjJkRTNwUmdGMnU1cndTX2N6bnZPUjY2MXhrMHZjcUFpWnBCVHk4bV9Yb1RST2hR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxPaHhzUXBDZl9DOWxRLU5KQmhkQ0p0Y3E3TnFqdzdyVmJQa1B2cWlTTWdreno5ajY1NUZIMnpxcVRBaWVLUWJqc0xvTllIcnJDVS1HS2xTZWZXWXhVYUprUjNYUEdPdjNpbTdra2Q5N1dQOEdSV3lVeHJhV0Z5TUJMZ01lZmpudEFnZDJiZkRjTUcybXVlamRKSXpFcjJkRTNwUmdGMnU1cndTX2N6bnZPUjY2MXhrMHZjcUFpWnBCVHk4bV9Yb1RST2hR?oc=5</guid>
-            <pubDate>Fri, 20 Mar 2026 21:02:41 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 韩国流行音乐超级组合 BTS 关闭首尔市中心举办复出演唱会 路透]]></description>
         </item>
     </channel>
 </rss>
