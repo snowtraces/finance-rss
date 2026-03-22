@@ -4,16 +4,30 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 22 Mar 2026 22:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 22:52:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[特朗普的霍尔木兹最后通牒可能导致战争升级，油价上涨]]></title>
+            <title><![CDATA[石油激增迫使拉丁美洲改革其能源政策]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-22/oil-s-surge-forces-latin-america-to-overhaul-its-energy-policies</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/oil-s-surge-forces-latin-america-to-overhaul-its-energy-policies</guid>
+            <pubDate>Sun, 22 Mar 2026 22:31:47 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 拉丁美洲各国政府正在对能源和财政政策进行全面调整，并警告称，伊朗战争导致的油价飙升威胁到地区稳定。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着战争风险的增加，金价在经历了四个十年来最糟糕的一周后上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-22/gold-wavers-after-worst-week-in-four-decades-as-war-risks-mount</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/gold-wavers-after-worst-week-in-four-decades-as-war-risks-mount</guid>
+            <pubDate>Sun, 22 Mar 2026 22:24:19 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 黄金在经历了 40 多年来最大单周跌幅后小幅上涨，受到交易员考虑中东不断升级的战争而逢低买盘的支撑。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普的霍尔木兹最后通牒未能刺激交易者，油价下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-22/latest-oil-market-news-and-analysis-for-march-23</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/latest-oil-market-news-and-analysis-for-march-23</guid>
             <pubDate>Sun, 22 Mar 2026 22:01:54 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 在唐纳德·特朗普总统向伊朗发出重新开放霍尔木兹海峡的最后通牒以及德黑兰威胁进行报复后，油价上涨。]]></description>
+            <description><![CDATA[[Bloomberg] 油价在最初小幅上涨后转低，投资者评估了唐纳德·特朗普总统向伊朗发出的重新开放霍尔木兹海峡的最后通牒，以及德黑兰在中东战争中进行更多报复的威胁。]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
@@ -45,11 +59,11 @@
             <description><![CDATA[[Bloomberg] 全球最大的乳制品出口商恒天然合作集团上调了全年指引，同时警告称，中东冲突对下半年的供应链构成风险。]]></description>
         </item>
         <item>
-            <title><![CDATA[随着战争的激烈进行，交易者准备迎接动荡的开盘：市场结束]]></title>
+            <title><![CDATA[随着原油价格走低，美国股指期货下跌：市场结束]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-22/markets-set-for-turbulent-open-as-war-rages-on-markets-wrap</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/markets-set-for-turbulent-open-as-war-rages-on-markets-wrap</guid>
             <pubDate>Sun, 22 Mar 2026 19:30:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着美国对伊朗的战争进入第四周且没有缓和的迹象，投资者正准备迎接另一场动荡的交易。]]></description>
+            <description><![CDATA[[Bloomberg] 周一早盘，美国股指期货在涨跌之间波动，投资者面临又一个动荡的交易日，伊朗冲突已进入第四周，且没有任何缓和迹象。]]></description>
         </item>
         <item>
             <title><![CDATA[America Movil 旗下 Claro 将以 7.5 亿美元收购 Desktop SA]]></title>
@@ -206,7 +220,7 @@
             <description><![CDATA[[Bloomberg] 随着伊朗战争进入第三周，众议员格伦·艾维 (Glenn Ivey) 与戴维·古拉 (David Gura) 和克里斯蒂娜·鲁菲尼 (Christina Ruffini) 在彭博社本周末讨论国会是否考虑为伊朗战争提供 2000 亿美元的额外资金、美国总统唐纳德·特朗普宣布 ICE 将在美国机场开展工作，以及为国土安全部提供资金的斗争的进展。 每周六和周日早上观看现场直播。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[对冲基金费马反对欧盟限制散户投资者购买巨灾债券的计划]]></title>
+            <title><![CDATA[对冲基金 Fermat 反对“史无前例”的 UCITS 计划]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-22/fermat-criticizes-eu-plan-to-limit-retail-investor-access-to-cat-bonds</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/fermat-criticizes-eu-plan-to-limit-retail-investor-access-to-cat-bonds</guid>
             <pubDate>Sun, 22 Mar 2026 13:30:00 GMT</pubDate>
@@ -367,13 +381,6 @@
             <description><![CDATA[[Reuters Business] 中国商务部部长会见制药公司高管以推动外国投资 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[燃料需求疲软，中石化全年利润下滑]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-22/sinopec-s-full-year-profit-falls-as-fuel-demand-weakens</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/sinopec-s-full-year-profit-falls-as-fuel-demand-weakens</guid>
-            <pubDate>Sun, 22 Mar 2026 08:33:05 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 中石化报告称，由于燃料需求疲弱和化学品市场过度饱和削弱了利润率，2025年利润降幅超出预期。]]></description>
-        </item>
-        <item>
             <title><![CDATA[抛开美伊和高油价，未来哪些行业能保持独立高景气？ - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FOTh2UzRyS211NmpnNmtra2hVZkhkX2thdzF5YkNuVi1qbXZKY2hQWVhHWW5wSGdGX3d5ZmFtNjdBMXlqTVpERUtQd3JpQWRBQ3E4?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FOTh2UzRyS211NmpnNmtra2hVZkhkX2thdzF5YkNuVi1qbXZKY2hQWVhHWW5wSGdGX3d5ZmFtNjdBMXlqTVpERUtQd3JpQWRBQ3E4?oc=5</guid>
@@ -412,7 +419,7 @@
             <title><![CDATA[致命的东航客机失事四年后，调查人员没有给出答案 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNW5uSlBybEVGU0tuc2txc1B4a1c1SEZoTFd2VTdXbHZyMERpb0xiaHFLNEI5TWhkSkFENU9QYVBBWVN5cThwQ2NFSVFNVmdUVGFfNHNZSlhFTzFSXzViRk5zdDJVeWhDWlV5UTc5NXpNRkZWbkVickdmSUx4UFlrRGJSTFQxcjNlaWU2d0xJbThMLVhTOUdTSklNejRJbXZJWnpZZVdLT21nTG9yWk5fNDdpTVZfdlN5cW91T3BLWnhnOHIwdUFCRFN3Tzg5SmczTkZoTjZ3aERmbzA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNW5uSlBybEVGU0tuc2txc1B4a1c1SEZoTFd2VTdXbHZyMERpb0xiaHFLNEI5TWhkSkFENU9QYVBBWVN5cThwQ2NFSVFNVmdUVGFfNHNZSlhFTzFSXzViRk5zdDJVeWhDWlV5UTc5NXpNRkZWbkVickdmSUx4UFlrRGJSTFQxcjNlaWU2d0xJbThMLVhTOUdTSklNejRJbXZJWnpZZVdLT21nTG9yWk5fNDdpTVZfdlN5cW91T3BLWnhnOHIwdUFCRFN3Tzg5SmczTkZoTjZ3aERmbzA?oc=5</guid>
-            <pubDate>Sun, 22 Mar 2026 02:40:12 GMT</pubDate>
+            <pubDate>Sun, 22 Mar 2026 02:40:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 致命的东航客机失事四年后，调查人员没有给出任何答案 路透]]></description>
         </item>
         <item>
@@ -456,13 +463,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVnozUTVSWTNkemd1dC0xbmcxR1JsbDhsWDlmdlRwdG12UG5RNmZVQi1vMU1aQXJHcmZQTTlXUEtRQ1pmMzJnUFZXbEVtNUtfTkVLcTBfU2lrNXJkblhsQ0ZicFFLVDJLZ3FFOG9sOVZjNzFDblo3RF91WWx3RkpaOHl5ZXpqTmxkRFRqRUJaY3pvU1lFMUZmSGdOcHRKb3FHenRsUmJlaUYxUUM2ZEJwTDRfVEFOcHFpWDk1VVVHRzdnd3BYcGI5cXU2M09fNEpUdlpsQ0hjVkpxdw?oc=5</guid>
             <pubDate>Sat, 21 Mar 2026 23:03:30 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 大众汽车首席执行官告诉报纸德国汽车制造商应该关注中国的规划 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战争冲击波正在席卷全球经济]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-03-21/shockwave-of-war-is-rippling-through-the-global-economy</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-21/shockwave-of-war-is-rippling-through-the-global-economy</guid>
-            <pubDate>Sat, 21 Mar 2026 20:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 自中东战争爆发以来，全球经济的首次集体健康检查将以美国和欧元区商业调查的形式进行。]]></description>
         </item>
         <item>
             <title><![CDATA[七国集团准备采取行动保护全球能源供应，支持霍尔木兹海峡安全 - 路透中文网]]></title>
@@ -605,7 +605,7 @@
             <description><![CDATA[[华尔街见闻] 小鹏首次单季盈利，2026年再砸70亿做物理AI  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[英国《金融时报》报道，欧盟敦促成员国因伊朗战争而削减天然气储存目标 - 路透]]></title>
+            <title><![CDATA[英国《金融时报》报道，欧盟敦促成员国因伊朗战争而削减天然气储存目标 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjBYMzVoUE1KWkdTMVpBSHoyQm5JZjBpVTF6MW16XzJsM1JiNEVuN1N2T1hKckF6ZWM5Z2ZzS1lrX2NCQkE2alV6cEhvNG55YTJ4U2FTU3QwYXJTOVpIbkplNGZjV05EaFhOWFpseGdWTHcwU1podFVoNzU2bHpXMjRGcWNFRk9Kc25oNk5zRDRUdHdpRmhfcHd3a0Z1UTBuN3JkZ3ZsZENCUDJ1cDUtQmFyTTExQTg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQWjBYMzVoUE1KWkdTMVpBSHoyQm5JZjBpVTF6MW16XzJsM1JiNEVuN1N2T1hKckF6ZWM5Z2ZzS1lrX2NCQkE2alV6cEhvNG55YTJ4U2FTU3QwYXJTOVpIbkplNGZjV05EaFhOWFpseGdWTHcwU1podFVoNzU2bHpXMjRGcWNFRk9Kc25oNk5zRDRUdHdpRmhfcHd3a0Z1UTBuN3JkZ3ZsZENCUDJ1cDUtQmFyTTExQTg?oc=5</guid>
             <pubDate>Sat, 21 Mar 2026 06:10:00 GMT</pubDate>
