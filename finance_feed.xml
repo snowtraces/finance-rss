@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 22 Mar 2026 20:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 20:52:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -23,11 +23,18 @@
             <description><![CDATA[[Bloomberg] 两家公司周日宣布，Claro Telecom Participacoes SA 将以 40 亿雷亚尔（7.5 亿美元）的企业价值收购电信公司 Desktop SA 的多数股权。]]></description>
         </item>
         <item>
-            <title><![CDATA[意大利邮政发起 108 亿欧元的意大利电信投标]]></title>
+            <title><![CDATA[Poste 提出 108 亿欧元要约，要求意大利电信退市]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-22/poste-italiane-launches-10-8-billion-telecom-italia-bid</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-22/poste-italiane-launches-10-8-billion-telecom-italia-bid</guid>
             <pubDate>Sun, 22 Mar 2026 19:07:20 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 一份声明称，意大利邮政公司 (Poste Italiane SpA) 表示，将向意大利电信公司 (Telecom Italia SpA) 发起价值约 108 亿欧元（合 125 亿美元）的公开要约，寻求完全控制这家前电话垄断企业，因为这家国家支持的集团进一步向数字基础设施领域扩张。]]></description>
+            <description><![CDATA[[Bloomberg] Poste Italiane SpA 表示，将向 Telecom Italia SpA 发起价值约 108 亿欧元（合 125 亿美元）的自愿公开要约，寻求对这家前电话垄断企业的完全控制权，并为其退市做好准备。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[德国总理梅尔茨领导的保守党将赢得州选举 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNR0E0U1hrNFhpMEdLX2FlTnZ1SjJxZWFfUFdhamVCS0hReEU4ZWdKUHNQamExekhYT0dFM3lQMW9BX3FyVm1rc3N6QXBBbC1Kak5hV3BndC1MSVlDN3d0WVpfZHl1dFNvOUd4d0lwaHIwUS1qeXRPNEU5eUdJRWppaUhvcUlFbU5USHMtUG9JMlZpd0xKQlBUa3Z0YlpVUTJrMlRZZVhIMWRaM3J2UU1xTjFfVEZ3ZVlPZTRiMXRmVG03dE16ZkFrbTQ2RQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNR0E0U1hrNFhpMEdLX2FlTnZ1SjJxZWFfUFdhamVCS0hReEU4ZWdKUHNQamExekhYT0dFM3lQMW9BX3FyVm1rc3N6QXBBbC1Kak5hV3BndC1MSVlDN3d0WVpfZHl1dFNvOUd4d0lwaHIwUS1qeXRPNEU5eUdJRWppaUhvcUlFbU5USHMtUG9JMlZpd0xKQlBUa3Z0YlpVUTJrMlRZZVhIMWRaM3J2UU1xTjFfVEZ3ZVlPZTRiMXRmVG03dE16ZkFrbTQ2RQ?oc=5</guid>
+            <pubDate>Sun, 22 Mar 2026 17:05:30 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 德国总理梅尔茨领导的保守派将赢得州选举 路透]]></description>
         </item>
         <item>
             <title><![CDATA[帕斯基表示将在周一董事会会议上审查洛瓦利奥的立场]]></title>
@@ -266,6 +273,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-22/coming-up-on-bloomberg-this-weekend-3-22-26-video</guid>
             <pubDate>Sun, 22 Mar 2026 11:56:22 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 当市场收盘时，消息并没有停止。 主持人大卫·古拉 (David Gura)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和丽莎·马特奥 (Lisa Mateo) 为周末最大的头条新闻“来自纽约的直播”带来了清晰、背景和幽默。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高盛解读“伊朗战争会持续多久”：市场只交易了“通胀”，还未交易“衰退” - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IR0ROdk5SQUI4RkRPWHNjRGpjNHpESW1QTm45SjJoN0pHaHo4ZC1QYy0tak9rUlJyb0x0dWZRR1E2OGJIbUZtU2hOUkZzYzJaV0Yw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IR0ROdk5SQUI4RkRPWHNjRGpjNHpESW1QTm45SjJoN0pHaHo4ZC1QYy0tak9rUlJyb0x0dWZRR1E2OGJIbUZtU2hOUkZzYzJaV0Yw?oc=5</guid>
+            <pubDate>Sun, 22 Mar 2026 11:49:37 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 高盛解读“伊朗战争会持续多久”：市场只交易了“通胀”，还未交易“衰退”  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[中美之间的人工智能竞赛愈演愈烈。 伯恩斯坦表示，这些股票可能会成为赢家]]></title>
@@ -555,13 +569,6 @@
             <description><![CDATA[[WSJ] 由于顽固的通货膨胀、伊朗和富有弹性的经济，曾经不可想象的加息已变得可以想象。]]></description>
         </item>
         <item>
-            <title><![CDATA[美国允许伊朗石油海上销售30天以抑制价格 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPVThQV2w3RUFSVU5YeThFdFVXMUxVYTN2elRyRk5vdG5MWWtLdUpRM2lERkNpd29wZkVjQlYwaWR4RTFvNm5zUUwyc0ptVHlsbXR5MVlCa1B3dkVIUzgyaEs5aFM5WFpiWTVJUnJSY3o2M1FlOHdOZEV1ZUZPV1NCNDZ1VEQ1d0xOUjdtQl9rSHpZZ1J3RHh0LUpHVUxEekd2QmRJVFlqWXl6Q19uRnNz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxPVThQV2w3RUFSVU5YeThFdFVXMUxVYTN2elRyRk5vdG5MWWtLdUpRM2lERkNpd29wZkVjQlYwaWR4RTFvNm5zUUwyc0ptVHlsbXR5MVlCa1B3dkVIUzgyaEs5aFM5WFpiWTVJUnJSY3o2M1FlOHdOZEV1ZUZPV1NCNDZ1VEQ1d0xOUjdtQl9rSHpZZ1J3RHh0LUpHVUxEekd2QmRJVFlqWXl6Q19uRnNz?oc=5</guid>
-            <pubDate>Sat, 21 Mar 2026 09:11:39 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国允许伊朗石油海上销售 30 天以抑制价格 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[伊朗战争对能源的影响迫使世界付出代价并削减消费 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3ZsUWlwZVNmajd6U1hZS2dwUG41YS1hVHUtY1N2RTlCZHdtUjdVRDJmcFB2bzBITG5aWE1NWTNOUm82aVhCV2d6MGc3eWJZczJFZzlIdHg2czZZeU43MXVaTTg5Mm5wX0pyUUEybHFDaWhHV0tWVGJ4Z0Z6N2FyRkJYMlBwNFRTeFhOZUNfN0pTc3Q3VWhFRVdwN2xuTElvaUQyR3I0X2Z5aUNjdHg0VQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3ZsUWlwZVNmajd6U1hZS2dwUG41YS1hVHUtY1N2RTlCZHdtUjdVRDJmcFB2bzBITG5aWE1NWTNOUm82aVhCV2d6MGc3eWJZczJFZzlIdHg2czZZeU43MXVaTTg5Mm5wX0pyUUEybHFDaWhHV0tWVGJ4Z0Z6N2FyRkJYMlBwNFRTeFhOZUNfN0pTc3Q3VWhFRVdwN2xuTElvaUQyR3I0X2Z5aUNjdHg0VQ?oc=5</guid>
@@ -625,13 +632,6 @@
             <description><![CDATA[[华尔街见闻] 英伟达机器人负责人：AI智能体将引爆机器人领域"ChatGPT时刻"  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[美联航将削减更多航班 预计 2027 年油价将突破 100 美元 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmxBMll4LWY2RTVKRThiS21zaEVfNFU4VE5OUzU2anY3SXloVUx2UDVuNDJEY09CRUJnWkd3OWh5MzdqTDQ1NGxBbUo5ZTBOSmVQTHZQNWM5N25uaEJVZlNBTEpXSWxZaEduZ3Y0bmxRMjJxS1ZzSEJldjNLUUdxbWNDOXdtUnhGdFBoQTNRYXRUMkZfVEljZVV6c3hLTFFTR2ZF?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmxBMll4LWY2RTVKRThiS21zaEVfNFU4VE5OUzU2anY3SXloVUx2UDVuNDJEY09CRUJnWkd3OWh5MzdqTDQ1NGxBbUo5ZTBOSmVQTHZQNWM5N25uaEJVZlNBTEpXSWxZaEduZ3Y0bmxRMjJxS1ZzSEJldjNLUUdxbWNDOXdtUnhGdFBoQTNRYXRUMkZfVEljZVV6c3hLTFFTR2ZF?oc=5</guid>
-            <pubDate>Sat, 21 Mar 2026 04:27:15 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 联合航空预计 2027 年油价将突破 100 美元，将削减更多航班 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[宇树科技IPO获受理，美团为第二大股东，2025年度营收同比暴增335.4%，净利润增长204% | IPO见闻 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYXFlOWZZQ0w2MENvNXhwRHYwZzFTSUM3bGVjc3RiUThEZGxoTy1zQ1lwMTQzUm9SMzcza1RDTVhscHpYRTBoVUpEcXNOS1NRbG84?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qYXFlOWZZQ0w2MENvNXhwRHYwZzFTSUM3bGVjc3RiUThEZGxoTy1zQ1lwMTQzUm9SMzcza1RDTVhscHpYRTBoVUpEcXNOS1NRbG84?oc=5</guid>
@@ -658,6 +658,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XRUc1UHlHaFZsejhzRnU3bEpMQzNwR3diV25JYkFsNDktdWJIa252dHVseEtqM041cVZmZ2tmYzd2YXNHWUJIdFNiX2ttXzVoQmc?oc=5</guid>
             <pubDate>Sat, 21 Mar 2026 00:41:00 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 2020 vs 1970  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国允许伊朗石油海上销售30天以抑制价格 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPVThQV2w3RUFSVU5YeThFdFVXMUxVYTN2elRyRk5vdG5MWWtLdUpRM2lERkNpd29wZkVjQlYwaWR4RTFvNm5zUUwyc0ptVHlsbXR5MVlCa1B3dkVIUzgyaEs5aFM5WFpiWTVJUnJSY3o2M1FlOHdOZEV1ZUZPV1NCNDZ1VEQ1d0xOUjdtQl9rSHpZZ1J3RHh0LUpHVUxEekd2QmRJVFlqWXl6Q19uRnNz?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxPVThQV2w3RUFSVU5YeThFdFVXMUxVYTN2elRyRk5vdG5MWWtLdUpRM2lERkNpd29wZkVjQlYwaWR4RTFvNm5zUUwyc0ptVHlsbXR5MVlCa1B3dkVIUzgyaEs5aFM5WFpiWTVJUnJSY3o2M1FlOHdOZEV1ZUZPV1NCNDZ1VEQ1d0xOUjdtQl9rSHpZZ1J3RHh0LUpHVUxEekd2QmRJVFlqWXl6Q19uRnNz?oc=5</guid>
+            <pubDate>Fri, 20 Mar 2026 23:09:52 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国允许伊朗石油海上销售 30 天以抑制价格 路透]]></description>
         </item>
         <item>
             <title><![CDATA[黑石旗舰私人信贷基金三年多来首次出现月度亏损 - 路透中文网]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jQkgyQjFQeV9OXzhoVGFJVlE5SGUxWDFXNGVCbGRieDJXMFFvLXk2U3lwVWtfaW1ZaG9rRVR4elpPMXJ0QnZERy03WnNackVGTlFV?oc=5</guid>
             <pubDate>Fri, 20 Mar 2026 20:01:21 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 日本软银集团：美国俄亥俄州数据中心将是一个5000亿美元的项目  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Netflix 表示 BTS 韩国演唱会预示着一系列现场活动 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHE1QmRzUmRZT2VsZ1NVOWdDUC1kOWV1YTM5UFE2Z3Ewb2xqYVEwUmlyTGJLX0VJVzB3TjNWR29LWXNDZDVheWktalEwU25hQXhCQ1VCcC1MZHRXdjU0WHJ5V1B5SlZVUHdLdGRLYlF2RTQ1WmRtVWVjYzVhTl93MUtmM1NIVGh0aHVTcFItRk14X1dJdTB0TFVtd1dMY2FwWmJTUUtvZ2NHRGJzaERB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHE1QmRzUmRZT2VsZ1NVOWdDUC1kOWV1YTM5UFE2Z3Ewb2xqYVEwUmlyTGJLX0VJVzB3TjNWR29LWXNDZDVheWktalEwU25hQXhCQ1VCcC1MZHRXdjU0WHJ5V1B5SlZVUHdLdGRLYlF2RTQ1WmRtVWVjYzVhTl93MUtmM1NIVGh0aHVTcFItRk14X1dJdTB0TFVtd1dMY2FwWmJTUUtvZ2NHRGJzaERB?oc=5</guid>
-            <pubDate>Fri, 20 Mar 2026 19:48:13 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Netflix 称 BTS 韩国演唱会预示着一系列现场活动 路透]]></description>
         </item>
     </channel>
 </rss>
