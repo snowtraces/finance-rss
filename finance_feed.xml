@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 28 Mar 2026 05:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 06:55:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[华创证券张瑜：高油价带来“出清”，中国中游份额或“上行”]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3286100</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3286100</guid>
+            <pubDate>Sat, 28 Mar 2026 06:35:08 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[跨界投资GPU交易“盲盒”待拆 大胜达取消临时股东会]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3286081</link>
@@ -100,13 +107,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[未来数据集团(08229)发布年度业绩，股东应占亏损3919.5万港元 同比增加138.37%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3286054</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3286054</guid>
-            <pubDate>Sat, 28 Mar 2026 03:05:24 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[资产规模行业居首、利润次之 国泰海通首份合并年报出炉 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE13RndwTk1aamFwMWFLZVozeG1HQ1ZOYnNlQjcxU3FpSjdiMXBXQUFidy1BeEx5b0kyaDhzb3NPWjVfcWJmLTR4em5ndjZvUTByQ1NLakxEZlp3RUFWbk9jeWFR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE13RndwTk1aamFwMWFLZVozeG1HQ1ZOYnNlQjcxU3FpSjdiMXBXQUFidy1BeEx5b0kyaDhzb3NPWjVfcWJmLTR4em5ndjZvUTByQ1NLakxEZlp3RUFWbk9jeWFR?oc=5</guid>
@@ -147,6 +147,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-28/putin-is-messianic-about-expanding-power-burns-says-video</guid>
             <pubDate>Sat, 28 Mar 2026 02:03:43 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 美国前驻华大使尼古拉斯·伯恩斯剖析了伊朗冲突、乌克兰战争以及与中国的紧张关系等全球利害关系。 伯恩斯讨论了伊朗重塑地缘政治力量的方式、俄罗斯为何可能获得战略优势，以及如果美国联盟继续削弱将面临什么风险。 他还解释了为什么美国与其盟友的关系仍然是其对抗中国的最大竞争优势。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[倾向于加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JdWk1TF9QakpqUnV6Qm9kRG1HMjVxTlhXM3Y1Wi1QaUdPQ2doVlVtbkt0TExCTUlRb1h3WjNXdkR6ODNVUHh2WV9yNV9iVjZlX1gw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JdWk1TF9QakpqUnV6Qm9kRG1HMjVxTlhXM3Y1Wi1QaUdPQ2doVlVtbkt0TExCTUlRb1h3WjNXdkR6ODNVUHh2WV9yNV9iVjZlX1gw?oc=5</guid>
+            <pubDate>Sat, 28 Mar 2026 01:14:28 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 倾向于加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[2025年末中国对外净资产4.07万亿美元 升至全球第二 - 财新]]></title>
@@ -254,7 +261,7 @@
             <description><![CDATA[[Bloomberg] 知情人士称，特朗普政府正在向盟友发出信号，表示虽然向中东部署了数千名士兵，但没有立即对伊朗进行地面入侵的计划。 这些要求匿名讨论私人审议的人士警告称，唐纳德·特朗普总统可能随时改变主意或继续发动袭击。  周五，避险情绪继续笼罩市场，随着投资者对地缘政治风险越来越不安，美国主要股指进入调整区间。 彭博新闻社国家安全编辑伊恩·马洛 (Iain Marlow) 加入《彭博商业周刊》进行讨论。 他与蒂姆·斯特诺维克和伊莎贝尔·李进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[花旗全球信贷主管负责私人信贷风险]]></title>
+            <title><![CDATA[花旗全球信贷主管探讨私人信贷风险]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-03-27/citi-s-global-credit-head-on-risks-in-private-credit-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-27/citi-s-global-credit-head-on-risks-in-private-credit-video</guid>
             <pubDate>Fri, 27 Mar 2026 21:44:09 GMT</pubDate>
@@ -493,18 +500,11 @@
             <description><![CDATA[[Reuters Business] 俄罗斯将奥斯卡获奖电影《无名先生》制片人称为“外国特工” 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[这只廉价金融科技股陷入了五年的困境。 转机即将来临]]></title>
+            <title><![CDATA[这只廉价的金融科技股陷入了五年的困境。 转机即将来临]]></title>
             <link>https://www.cnbc.com/2026/03/27/this-bargain-fintech-stock-is-stuck-in-a-five-year-rut-a-turnaround-is-coming.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/03/27/this-bargain-fintech-stock-is-stuck-in-a-five-year-rut-a-turnaround-is-coming.html</guid>
             <pubDate>Fri, 27 Mar 2026 15:14:32 GMT</pubDate>
             <description><![CDATA[[CNBC] 经过最近的收购，该公司重新调整了重点并扩大了规模。 强劲的现金流和股票回购也可能带来好处。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧洲航空机构称将改善与美国联邦航空局和波音公司的关系 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnhqODNySm40VEhCQnFqUEtkaU42dF9SazM4RFQ5MlJUTV9VN2ZJTHByTTJSUHZ3Zkh4R3l5SDRwUkM0THdfZEcxLXpSWTdsTnljci1hbTkyX3NXa1dTV0Z4MXV4ckxWQ215em10VWJLLW5KUi1hNzBsdUlpTUlMU2ZVRWlaSnBBa0ROak9uVEFJQ3RpNnUzRU5CYW5paUcxZ2ZicU1aNi0zcXpUdFJrV2YzenRtemdHMDlnYnV2amV1MDlK?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnhqODNySm40VEhCQnFqUEtkaU42dF9SazM4RFQ5MlJUTV9VN2ZJTHByTTJSUHZ3Zkh4R3l5SDRwUkM0THdfZEcxLXpSWTdsTnljci1hbTkyX3NXa1dTV0Z4MXV4ckxWQ215em10VWJLLW5KUi1hNzBsdUlpTUlMU2ZVRWlaSnBBa0ROak9uVEFJQ3RpNnUzRU5CYW5paUcxZ2ZicU1aNi0zcXpUdFJrV2YzenRtemdHMDlnYnV2amV1MDlK?oc=5</guid>
-            <pubDate>Fri, 27 Mar 2026 14:40:13 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 欧洲航空机构称将改善与美国联邦航空局和波音公司的关系 路透]]></description>
         </item>
         <item>
             <title><![CDATA[年内高位国债收益率吸引买家，与石油挂钩]]></title>
