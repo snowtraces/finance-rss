@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 28 Mar 2026 21:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 21:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3286249</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3286249</guid>
+            <pubDate>Sat, 28 Mar 2026 21:20:17 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[巴基斯坦：伊朗同意新增放行20艘巴船只通过霍尔木兹海峡]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3286248</link>
@@ -282,13 +289,6 @@
             <description><![CDATA[[Reuters Business] 数据显示，两艘前往印度的液化石油气油轮穿过霍尔木兹海峡离开海湾]]></description>
         </item>
         <item>
-            <title><![CDATA[从泰诺麦博看中国创新型生物药企的价值锚点：以长期主义穿越成长周期]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3286170</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3286170</guid>
-            <pubDate>Sat, 28 Mar 2026 11:35:57 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[AI债务风险风向标：甲骨文债券CDS创新高 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQkVrcWlvbW5vT2FuR3VxMk5pQlFIU1hjdnhTSEktbGpJZ3gtaWtpZnVHLVYzOE0waDRvcElIVmlEUTRqY2hCdHZDYl9PbklfM2Jn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQkVrcWlvbW5vT2FuR3VxMk5pQlFIU1hjdnhTSEktbGpJZ3gtaWtpZnVHLVYzOE0waDRvcElIVmlEUTRqY2hCdHZDYl9PbklfM2Jn?oc=5</guid>
@@ -399,6 +399,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zbTFGVEx0ZkdWU0RXS2xGb3d6NUdjVGZsalVyVzhJTktqNjg1RDZFOXNaU1Zzd2ZueUE0bGw4QnZRXzNzS3hpNXpBOWl3Q2ZHWVpUNVc5WWxFdXJxdUhWbEtB?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 02:36:00 GMT</pubDate>
             <description><![CDATA[[财新网] 兴业银行2025年营收、净利润双增 要把国际化打造成新增长极  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxSDRkQ3dSQVFVQnd0eUdGSzhHMGQ4d1VKMTdwdWcySXphaVFHQXhpTHpld1BnUlMxUkhwRjdaclMtTkpqMEFZSXBMeVg0LUZjRDhv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxSDRkQ3dSQVFVQnd0eUdGSzhHMGQ4d1VKMTdwdWcySXphaVFHQXhpTHpld1BnUlMxUkhwRjdaclMtTkpqMEFZSXBMeVg0LUZjRDhv?oc=5</guid>
+            <pubDate>Sat, 28 Mar 2026 01:28:29 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[倾向于加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作 - 华尔街见闻]]></title>
@@ -611,7 +618,7 @@
             <description><![CDATA[[Reuters Business] 俄罗斯将奥斯卡获奖电影《无名先生》制片人称为“外国特工” 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[这只廉价金融科技股陷入了五年的困境。 转机即将来临]]></title>
+            <title><![CDATA[这只廉价的金融科技股陷入了五年的困境。 转机即将来临]]></title>
             <link>https://www.cnbc.com/2026/03/27/this-bargain-fintech-stock-is-stuck-in-a-five-year-rut-a-turnaround-is-coming.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/03/27/this-bargain-fintech-stock-is-stuck-in-a-five-year-rut-a-turnaround-is-coming.html</guid>
             <pubDate>Fri, 27 Mar 2026 15:14:32 GMT</pubDate>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNM05ueEhpUzdOeFp5bnJUUzh1TktUd0FRRWZRd2tZTkJpNHNiSXJPaktOREZqLUwyVzBkV0hzakhDTVEzTVRxMGNrWDMycFpiWlljR3lIX21ha2NnRmlJZDFFdHFYQUg1ZFVZNXZySGtkUERtZEVGOG5IajY2TU5sV09CWldOYWVreGp5MVNfc3Zia2JoUzZCSGRaYS1oSllsQ09rLWt5MkI4Vlc2ald1TEE1QXFqbGxIYVlMMHlSQmYxS2IteFE?oc=5</guid>
             <pubDate>Fri, 27 Mar 2026 12:38:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 巨大的伊朗导弹碎片散落在以色列和约旦河西岸各地 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美银Hartnett：美股还没“跌透”，特朗普或将被迫推出"政策急救包" - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRXRtOERURFV4aHpQVFM0R1o3b2NKTm1GZmJxLUs3dkNfY0ViNjkzRGhsUmllNGRZam9rV3RuY3V6MW43Ym4teXJmU0tjWVFJd01Z?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tRXRtOERURFV4aHpQVFM0R1o3b2NKTm1GZmJxLUs3dkNfY0ViNjkzRGhsUmllNGRZam9rV3RuY3V6MW43Ym4teXJmU0tjWVFJd01Z?oc=5</guid>
-            <pubDate>Fri, 27 Mar 2026 12:37:31 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 美银Hartnett：美股还没“跌透”，特朗普或将被迫推出"政策急救包"  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
