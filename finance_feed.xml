@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 29 Mar 2026 20:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 21:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[澳大利亚的低燃料储备是否令人担忧？]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-03-29/could-australia-run-out-of-fuel-as-iran-war-disrupts-global-oil-supplies</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-29/could-australia-run-out-of-fuel-as-iran-war-disrupts-global-oil-supplies</guid>
+            <pubDate>Sun, 29 Mar 2026 21:23:20 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 尽管是主要能源出口国，澳大利亚严重依赖进口精炼燃料来为运输、农业和其他经济领域提供动力，这使其极易受到全球供应链中断的影响。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3286559</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3286559</guid>
+            <pubDate>Sun, 29 Mar 2026 21:20:15 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[战争进入第五周，投资者的不安情绪加剧]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-29/investor-unease-builds-entering-war-s-fifth-week-markets-wrap</link>
@@ -226,13 +240,6 @@
             <description><![CDATA[[Reuters Business] Insilico Medicine 与礼来公司 (Eli Lilly) 达成 27.5 亿美元的药物合作 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[沙特阿拉伯股市收低；截至收盘沙特阿拉伯TASI指数下跌0.13%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3286522</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3286522</guid>
-            <pubDate>Sun, 29 Mar 2026 12:45:17 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[霍尔木兹追踪：沙特原油罕见地运往巴基斯坦]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-03-29/hormuz-tracker-saudi-crude-heads-to-pakistan-in-rare-transit</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-03-29/hormuz-tracker-saudi-crude-heads-to-pakistan-in-rare-transit</guid>
@@ -268,11 +275,11 @@
             <description><![CDATA[[Reuters Business] 雪佛龙表示惠斯通天然气设施的维修需要数周时间 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[“伊朗冲击”引发财政恶化担忧，欧元区借贷成本飙升创多年新高 - 华尔街见闻]]></title>
+            <title><![CDATA[“伊朗冲击”引发财政恶化担忧，欧元区借贷成本飙升创多年新高 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE50clV5Qks2NmpjN0s3c0xERG5YOHhIUFBOWld5V2kya01IbC1xYi02clYzTFVDcDhDS1NBa0RVeWt6RmFON25CMkh5NVRCMkRHMVA0?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE50clV5Qks2NmpjN0s3c0xERG5YOHhIUFBOWld5V2kya01IbC1xYi02clYzTFVDcDhDS1NBa0RVeWt6RmFON25CMkh5NVRCMkRHMVA0?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 11:05:04 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] “伊朗冲击”引发财政恶化担忧，欧元区借贷成本飙升创多年新高  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] “伊朗冲击”引发财政恶化担忧，欧元区借贷成本飙升创多年新高  wallstreetcn.com]]></description>
         </item>
         <item>
             <title><![CDATA[政府称两艘开往印度的液化石油气油轮通过霍尔木兹海峡 - 路透]]></title>
@@ -324,11 +331,11 @@
             <description><![CDATA[[Bloomberg] 在美国驻香港总领事馆发布警告称，新规定赋予当局在国家安全调查中要求提供智能手机或其他设备密码的权力后，北京召见了美国驻香港最高特使。]]></description>
         </item>
         <item>
-            <title><![CDATA[伊朗战争久拖不决，“供应链冲击”将依次展开 - 华尔街见闻]]></title>
+            <title><![CDATA[伊朗战争久拖不决，“供应链冲击”将依次展开 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LVkRlTEJvTGVOS1pmWjZodWhDU1NJSkJWaUU3RlpMYW16emZIdjJzb1dWYjhMVm5YWFhGWTF1OXEzYzZVSExITW5NUUxBbHJYS0Nn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LVkRlTEJvTGVOS1pmWjZodWhDU1NJSkJWaUU3RlpMYW16emZIdjJzb1dWYjhMVm5YWFhGWTF1OXEzYzZVSExITW5NUUxBbHJYS0Nn?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 06:21:40 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 伊朗战争久拖不决，“供应链冲击”将依次展开  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 伊朗战争久拖不决，“供应链冲击”将依次展开  wallstreetcn.com]]></description>
         </item>
         <item>
             <title><![CDATA[菲律宾企业集团因注资 ABS-CBN 引发领导层争吵]]></title>
@@ -345,53 +352,53 @@
             <description><![CDATA[[Bloomberg] 随着基辅加大对俄罗斯石油出口基础设施的打击力度，俄罗斯乌斯季卢加港因乌克兰无人机袭击而遭受新的破坏。]]></description>
         </item>
         <item>
-            <title><![CDATA[恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观” - 华尔街见闻]]></title>
+            <title><![CDATA[恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观” - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aRHVzN0lsUDhsT3U5UFlXeVZqWHBBVThXZXZDcmszdzZpcm9wc0lPSjhQelQtTmZIdTJGaEFERmtmZXdCS2lIV1FHNlVtenpkZmRF?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aRHVzN0lsUDhsT3U5UFlXeVZqWHBBVThXZXZDcmszdzZpcm9wc0lPSjhQelQtTmZIdTJGaEFERmtmZXdCS2lIV1FHNlVtenpkZmRF?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 03:40:41 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[大行邮储交出业绩答卷：营利双增，手续费及佣金净收入逆势大涨 - 华尔街见闻]]></title>
+            <title><![CDATA[大行邮储交出业绩答卷：营利双增，手续费及佣金净收入逆势大涨 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTkIxeFd0ZkZsRFhWUFJnWEZTMy00V25ZRkNRMEJzSmNEelFIeUlHeFc0UEVqbGlFeTBNQTlQV1Uyb1R3a2lSTWxZQmhMQWpKcTRN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pTkIxeFd0ZkZsRFhWUFJnWEZTMy00V25ZRkNRMEJzSmNEelFIeUlHeFc0UEVqbGlFeTBNQTlQV1Uyb1R3a2lSTWxZQmhMQWpKcTRN?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 03:38:02 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 大行邮储交出业绩答卷：营利双增，手续费及佣金净收入逆势大涨  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 大行邮储交出业绩答卷：营利双增，手续费及佣金净收入逆势大涨  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[2025年交行净利润增长2.18% 启动零售板块架构改革 - finance.caixin.com]]></title>
+            <title><![CDATA[2025年交行净利润增长2.18% 启动零售板块架构改革 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xVlkzWEx4Qkd5SGw0VXJ3ZDBQT19YWDZNN1NmV3gxZUN5OWFkTm5Wb0pnOTU4ZUdFcktnN0F1QUdYaG9ueUNDdGUwUkhFSE5rZ2dNX1JpS0dLV2ZjWS1wODdR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xVlkzWEx4Qkd5SGw0VXJ3ZDBQT19YWDZNN1NmV3gxZUN5OWFkTm5Wb0pnOTU4ZUdFcktnN0F1QUdYaG9ueUNDdGUwUkhFSE5rZ2dNX1JpS0dLV2ZjWS1wODdR?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 03:28:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 2025年交行净利润增长2.18% 启动零售板块架构改革  finance.caixin.com]]></description>
+            <description><![CDATA[[财新网] 2025年交行净利润增长2.18% 启动零售板块架构改革  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[存保基金公布年度账本 2025年金融风险处置花了多少钱？ - finance.caixin.com]]></title>
+            <title><![CDATA[存保基金公布年度账本 2025年金融风险处置花了多少钱？ - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE80WDh3Q0h3Z2Y5ZEVvdkxCRjVJVVBPTE5uWkRfS1hScm1iYzB1c0VKM3ltdkNsMkxRZHAtbmpXVnZxWHc3cTBTZFpjYlR5NHZON3dJZjJ0ZnhXaExrZlZ5aU5R?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE80WDh3Q0h3Z2Y5ZEVvdkxCRjVJVVBPTE5uWkRfS1hScm1iYzB1c0VKM3ltdkNsMkxRZHAtbmpXVnZxWHc3cTBTZFpjYlR5NHZON3dJZjJ0ZnhXaExrZlZ5aU5R?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 02:43:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 存保基金公布年度账本 2025年金融风险处置花了多少钱？  finance.caixin.com]]></description>
+            <description><![CDATA[[财新网] 存保基金公布年度账本 2025年金融风险处置花了多少钱？  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[所有“联创”均离职，马斯克“彻底重组”xAI - 华尔街见闻]]></title>
+            <title><![CDATA[所有“联创”均离职，马斯克“彻底重组”xAI - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XOHMwQXlpZWZRMFZLd3JrMFN3REFpVUU0SEFiZHluTG0wak1xRTVydlRKbUlSM2RIdWRiYkp0czE5alZ6RmgwWE1jc29Idkw2UnJF?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XOHMwQXlpZWZRMFZLd3JrMFN3REFpVUU0SEFiZHluTG0wak1xRTVydlRKbUlSM2RIdWRiYkp0czE5alZ6RmgwWE1jc29Idkw2UnJF?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 02:33:17 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 所有“联创”均离职，马斯克“彻底重组”xAI  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 所有“联创”均离职，马斯克“彻底重组”xAI  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[周六，仅“四艘船”经由“伊朗走廊”穿越霍尔木兹海峡，其中两艘LPG船驶往印度 - 华尔街见闻]]></title>
+            <title><![CDATA[周六，仅“四艘船”经由“伊朗走廊”穿越霍尔木兹海峡，其中两艘LPG船驶往印度 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CbmlUZ09XLTVHNVFCZlVoQ2otcjRwQ0pCVk9kMHdvaUV6TUN2Qnl1U2tFUHc5RDYxWEc5NTQzXzM2T1lTbDJYUFdqLWVwLUZqdDJB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CbmlUZ09XLTVHNVFCZlVoQ2otcjRwQ0pCVk9kMHdvaUV6TUN2Qnl1U2tFUHc5RDYxWEc5NTQzXzM2T1lTbDJYUFdqLWVwLUZqdDJB?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 02:10:53 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 周六，仅“四艘船”经由“伊朗走廊”穿越霍尔木兹海峡，其中两艘LPG船驶往印度  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 周六，仅“四艘船”经由“伊朗走廊”穿越霍尔木兹海峡，其中两艘LPG船驶往印度  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[建行2025年成绩单：总资产破45万亿，非息收入大增近20%成破局关键 - 华尔街见闻]]></title>
+            <title><![CDATA[建行2025年成绩单：总资产破45万亿，非息收入大增近20%成破局关键 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWWEFKSExPTE9SSk5ua19qQVZmOXhYRTFmb1hqNVl0T18taUFlSXBRcUw3NXJlRzZVLTdJa1J5a01iQXpTWmtkZVNyRHgzZFZyd0RZ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWWEFKSExPTE9SSk5ua19qQVZmOXhYRTFmb1hqNVl0T18taUFlSXBRcUw3NXJlRzZVLTdJa1J5a01iQXpTWmtkZVNyRHgzZFZyd0RZ?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 02:06:07 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 建行2025年成绩单：总资产破45万亿，非息收入大增近20%成破局关键  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 建行2025年成绩单：总资产破45万亿，非息收入大增近20%成破局关键  wallstreetcn.com]]></description>
         </item>
         <item>
             <title><![CDATA[随着燃油价格上涨，澳大利亚两个州将提供免费交通]]></title>
@@ -401,18 +408,18 @@
             <description><![CDATA[[Bloomberg] 由于中东长期敌对行动增加了供应风险，澳大利亚两个州将暂时提供免费公共交通，以缓解燃料成本上涨的影响。]]></description>
         </item>
         <item>
-            <title><![CDATA[“中东最大铝厂”在周六遭遇“重大损失”，目前尚不清楚“是否停产” - 华尔街见闻]]></title>
+            <title><![CDATA[“中东最大铝厂”在周六遭遇“重大损失”，目前尚不清楚“是否停产” - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE54NGkwMUJwRTNEaWpwVGVFLWpzblpXZmx0OFRrRTFkXzFvMF9rdUdwX2hsM1pKdTdXZ3cwemxXVl9ZQlhxY19mLWZGUWlDclRMNDkw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE54NGkwMUJwRTNEaWpwVGVFLWpzblpXZmx0OFRrRTFkXzFvMF9rdUdwX2hsM1pKdTdXZ3cwemxXVl9ZQlhxY19mLWZGUWlDclRMNDkw?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 01:26:50 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] “中东最大铝厂”在周六遭遇“重大损失”，目前尚不清楚“是否停产”  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] “中东最大铝厂”在周六遭遇“重大损失”，目前尚不清楚“是否停产”  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[黄金见底了吗？ - 华尔街见闻]]></title>
+            <title><![CDATA[黄金见底了吗？ - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Fb1ZaYjRlRTg2Q0lTWW0xbTJRbHBwSDA0RWY3MVk1aTVXS2hWekJPMmFMcjhsQmlGVFVLT21xR2wxMHJIU3lQcjVUaVU2LWtyV1E?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Fb1ZaYjRlRTg2Q0lTWW0xbTJRbHBwSDA0RWY3MVk1aTVXS2hWekJPMmFMcjhsQmlGVFVLT21xR2wxMHJIU3lQcjVUaVU2LWtyV1E?oc=5</guid>
             <pubDate>Sun, 29 Mar 2026 01:06:14 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 黄金见底了吗？  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 黄金见底了吗？  wallstreetcn.com]]></description>
         </item>
         <item>
             <title><![CDATA[Narelle之后澳大利亚液化天然气中断仍在继续，数千人断电 - 路透中文网]]></title>
@@ -478,13 +485,6 @@
             <description><![CDATA[[Reuters Business] 据彭博社报道，沙特管道每天输送 700 万桶石油，绕过霍尔木兹海峡]]></description>
         </item>
         <item>
-            <title><![CDATA[彭博社本周末 03/28/2026]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-03-28/bloomberg-this-weekend-03-28-2026-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-03-28/bloomberg-this-weekend-03-28-2026-video</guid>
-            <pubDate>Sat, 28 Mar 2026 16:07:30 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 当市场收盘时，消息并没有停止。 主持人大卫·古拉 (David Gura)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和丽莎·马特奥 (Lisa Mateo) 为周末最大的头条新闻“来自纽约的直播”带来了清晰、背景和幽默。 与会人员包括内华达州工会代表 TSA 工人 Jill DeJanovich、前美国驻乌克兰大使 William Taylor、国际海事组织秘书长 Arsenio Dominguez、玉米和大豆种植者 John Bartman、参议员 Todd Young 和参议员 Elissa Slotkin 以及乔治·布什准将马克·金米特 (Mark Kimmitt) 领导下的前政治军事事务助理国务卿。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[法国在巴黎美国银行袭击事件后启动恐怖调查 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjc2d1JvUWlhWmR5dV9DcmhtRmIyZ3AwazBJUzYzU1Q5aFRsYVhWX1FNdHI3VkhjR0YxOEktRmM1THJfQ0pDWDBVMl9ZaGNBVVVPcnpXbFZiLVhkcUdVSHBuRVdySW0xcEI2UDYtWXl2MzdneWo5MVF5WlR0RzRIdG52OFlnYTZFdUU5RTdlU2FqY3lXUC0xYmlNUHNRTmk1U2FJX25tYmFIVEhINm1ZTW92RDdCRE5VenZ3dkVHOHh4d0VsT3czQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNjc2d1JvUWlhWmR5dV9DcmhtRmIyZ3AwazBJUzYzU1Q5aFRsYVhWX1FNdHI3VkhjR0YxOEktRmM1THJfQ0pDWDBVMl9ZaGNBVVVPcnpXbFZiLVhkcUdVSHBuRVdySW0xcEI2UDYtWXl2MzdneWo5MVF5WlR0RzRIdG52OFlnYTZFdUU5RTdlU2FqY3lXUC0xYmlNUHNRTmk1U2FJX25tYmFIVEhINm1ZTW92RDdCRE5VenZ3dkVHOHh4d0VsT3czQQ?oc=5</guid>
@@ -548,11 +548,11 @@
             <description><![CDATA[[CNBC] 管理期货跟踪预计将在数月内显现的宏观主题，在传统资产下跌时表现良好。 这可能是其中之一。]]></description>
         </item>
         <item>
-            <title><![CDATA[全球ETF史上最强开局：年初以来已吸金超5000亿美元 - 华尔街见闻]]></title>
+            <title><![CDATA[全球ETF史上最强开局：年初以来已吸金超5000亿美元 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UVU5sVmY5d240ams3OE4yc01mWVJXQUFZWW9MSlJ6OEFUUTlCdm81MkxlV201cG4yVEMyQWcwZzB1NGdsalNCYUp4LTA3b0xYU0E?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UVU5sVmY5d240ams3OE4yc01mWVJXQUFZWW9MSlJ6OEFUUTlCdm81MkxlV201cG4yVEMyQWcwZzB1NGdsalNCYUp4LTA3b0xYU0E?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 11:52:36 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 全球ETF史上最强开局：年初以来已吸金超5000亿美元  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 全球ETF史上最强开局：年初以来已吸金超5000亿美元  wallstreetcn.com]]></description>
         </item>
         <item>
             <title><![CDATA[数据显示，两艘驶往印度的液化石油气油轮穿过霍尔木兹海峡离开海湾 - 路透]]></title>
@@ -562,32 +562,32 @@
             <description><![CDATA[[Reuters Business] 数据显示，两艘前往印度的液化石油气油轮穿过霍尔木兹海峡离开海湾]]></description>
         </item>
         <item>
-            <title><![CDATA[直击“宇宙行”业绩发布会， 2026年将迎来利息净收入拐点，有信心交出良好业绩答卷 - 华尔街见闻]]></title>
+            <title><![CDATA[直击“宇宙行”业绩发布会， 2026年将迎来利息净收入拐点，有信心交出良好业绩答卷 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qT0c5Vnp0MUo1cS1BaUdGWnZTakRVRUtueF9nQWZWWGFXT1pCWWFkSGZlSDR5eEY3QTBqRTZ2Qm1yT0VWalBaNW10VHVURFpUMmZv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qT0c5Vnp0MUo1cS1BaUdGWnZTakRVRUtueF9nQWZWWGFXT1pCWWFkSGZlSDR5eEY3QTBqRTZ2Qm1yT0VWalBaNW10VHVURFpUMmZv?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 11:19:00 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 直击“宇宙行”业绩发布会， 2026年将迎来利息净收入拐点，有信心交出良好业绩答卷  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 直击“宇宙行”业绩发布会， 2026年将迎来利息净收入拐点，有信心交出良好业绩答卷  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[AI债务风险风向标：甲骨文债券CDS创新高 - 华尔街见闻]]></title>
+            <title><![CDATA[AI债务风险风向标：甲骨文债券CDS创新高 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQkVrcWlvbW5vT2FuR3VxMk5pQlFIU1hjdnhTSEktbGpJZ3gtaWtpZnVHLVYzOE0waDRvcElIVmlEUTRqY2hCdHZDYl9PbklfM2Jn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQkVrcWlvbW5vT2FuR3VxMk5pQlFIU1hjdnhTSEktbGpJZ3gtaWtpZnVHLVYzOE0waDRvcElIVmlEUTRqY2hCdHZDYl9PbklfM2Jn?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 11:01:34 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] AI债务风险风向标：甲骨文债券CDS创新高  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] AI债务风险风向标：甲骨文债券CDS创新高  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[交通银行：2025年营收净利双增，利息净收入表现强势，全年股息率近5% - 华尔街见闻]]></title>
+            <title><![CDATA[交通银行：2025年营收净利双增，利息净收入表现强势，全年股息率近5% - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IOVJCZk9rR3hlWVBKUGJmb0p4ODB1YUE0WDdhY2FmcS1pLXc5OVhJX09zVTUwRkJPLWVBYl9oLVJDcFlWbk41U1ZFVTl2S3JWQ1JR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IOVJCZk9rR3hlWVBKUGJmb0p4ODB1YUE0WDdhY2FmcS1pLXc5OVhJX09zVTUwRkJPLWVBYl9oLVJDcFlWbk41U1ZFVTl2S3JWQ1JR?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 10:53:02 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 交通银行：2025年营收净利双增，利息净收入表现强势，全年股息率近5%  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 交通银行：2025年营收净利双增，利息净收入表现强势，全年股息率近5%  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[不只便宜还高档，中国电动车在美国越来越受欢迎了 - 华尔街见闻]]></title>
+            <title><![CDATA[不只便宜还高档，中国电动车在美国越来越受欢迎了 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UMjJ2NFZMQ2pVTUFlQjlhLWI4OU9IWno4NmtvaDg2TXNwNms2eVA1NkRnRU5PMTYyeU4xbDZldGQ2cE5nWUNDeXdJZXIzTy1jMU9N?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UMjJ2NFZMQ2pVTUFlQjlhLWI4OU9IWno4NmtvaDg2TXNwNms2eVA1NkRnRU5PMTYyeU4xbDZldGQ2cE5nWUNDeXdJZXIzTy1jMU9N?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 09:51:05 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 不只便宜还高档，中国电动车在美国越来越受欢迎了  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 不只便宜还高档，中国电动车在美国越来越受欢迎了  wallstreetcn.com]]></description>
         </item>
         <item>
             <title><![CDATA[奥地利 Raiffeisen 将以 6.8 亿美元收购 BBVA 罗马尼亚子公司 - 路透中文网]]></title>
@@ -597,74 +597,74 @@
             <description><![CDATA[[Reuters Business] 奥地利 Raiffeisen 将以 6.8 亿美元收购 BBVA 罗马尼亚子公司 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[工行2025年“成绩单”发布，总资产突破53万亿，豪气分红超1100亿 - 华尔街见闻]]></title>
+            <title><![CDATA[工行2025年“成绩单”发布，总资产突破53万亿，豪气分红超1100亿 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZSmlqUk95eVlnOEdxVE5HOXgwcFdtNEN3d3BCaXRCZmhMNlVIcjBsS1ltTUNDNEx4ZGFhSHBjRlpUN3ZSU3N6LU5UcTBzZWxGZjRV?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZSmlqUk95eVlnOEdxVE5HOXgwcFdtNEN3d3BCaXRCZmhMNlVIcjBsS1ltTUNDNEx4ZGFhSHBjRlpUN3ZSU3N6LU5UcTBzZWxGZjRV?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 09:29:02 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 工行2025年“成绩单”发布，总资产突破53万亿，豪气分红超1100亿  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 工行2025年“成绩单”发布，总资产突破53万亿，豪气分红超1100亿  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[2025年末中国全口径外债余额微降0.7% 本币外债占比升至55.5% - finance.caixin.com]]></title>
+            <title><![CDATA[2025年末中国全口径外债余额微降0.7% 本币外债占比升至55.5% - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ROTJ3Q3hZRFBPZDh3N2VNdjZFVEM1ZGg5Zmd6NFBVMjlXeWZLdHVkN3NRNHVZVkJZZFgtY3RZWk40OWhEYjdESXN4bU1Cdm1FNXhrbTI2eUUwa0VkazBaQll3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ROTJ3Q3hZRFBPZDh3N2VNdjZFVEM1ZGg5Zmd6NFBVMjlXeWZLdHVkN3NRNHVZVkJZZFgtY3RZWk40OWhEYjdESXN4bU1Cdm1FNXhrbTI2eUUwa0VkazBaQll3?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 03:40:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 2025年末中国全口径外债余额微降0.7% 本币外债占比升至55.5%  finance.caixin.com]]></description>
+            <description><![CDATA[[财新网] 2025年末中国全口径外债余额微降0.7% 本币外债占比升至55.5%  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[资产规模行业居首、利润次之 国泰海通首份合并年报出炉 - finance.caixin.com]]></title>
+            <title><![CDATA[资产规模行业居首、利润次之 国泰海通首份合并年报出炉 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE13RndwTk1aamFwMWFLZVozeG1HQ1ZOYnNlQjcxU3FpSjdiMXBXQUFidy1BeEx5b0kyaDhzb3NPWjVfcWJmLTR4em5ndjZvUTByQ1NLakxEZlp3RUFWbk9jeWFR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE13RndwTk1aamFwMWFLZVozeG1HQ1ZOYnNlQjcxU3FpSjdiMXBXQUFidy1BeEx5b0kyaDhzb3NPWjVfcWJmLTR4em5ndjZvUTByQ1NLakxEZlp3RUFWbk9jeWFR?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 03:03:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 资产规模行业居首、利润次之 国泰海通首份合并年报出炉  finance.caixin.com]]></description>
+            <description><![CDATA[[财新网] 资产规模行业居首、利润次之 国泰海通首份合并年报出炉  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[工行归母净利润增长1% 行长刘珺称要为现代经济输送多类型“血液” - finance.caixin.com]]></title>
+            <title><![CDATA[工行归母净利润增长1% 行长刘珺称要为现代经济输送多类型“血液” - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE44WjVDQWllRnFWQnp3OFhDQXBRUjBkNmp4TXNyVnZLSFVEbjhiYmxLY0puR1JZQ2paX2VSYTMySDlLcnlaY1dmT1hCY05aa3Zma05LLTRPSHhBdTJMd2R6VHR3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE44WjVDQWllRnFWQnp3OFhDQXBRUjBkNmp4TXNyVnZLSFVEbjhiYmxLY0puR1JZQ2paX2VSYTMySDlLcnlaY1dmT1hCY05aa3Zma05LLTRPSHhBdTJMd2R6VHR3?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 02:51:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 工行归母净利润增长1% 行长刘珺称要为现代经济输送多类型“血液”  finance.caixin.com]]></description>
+            <description><![CDATA[[财新网] 工行归母净利润增长1% 行长刘珺称要为现代经济输送多类型“血液”  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[建行归母净利润同比增长0.99% 不良率下降但个贷资产质量仍承压 - finance.caixin.com]]></title>
+            <title><![CDATA[建行归母净利润同比增长0.99% 不良率下降但个贷资产质量仍承压 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE94dXRBY0lyV2NveXVraHE3aW5rX3RJUmwtOV9GOVYtU1BjLW1YQlZ6WHFCQjRWVktCWDN1blhjSmNQeWdjSVVWLUxEX1ZQaUl5b1hDZjJ2c29QUUoycEllSi13?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE94dXRBY0lyV2NveXVraHE3aW5rX3RJUmwtOV9GOVYtU1BjLW1YQlZ6WHFCQjRWVktCWDN1blhjSmNQeWdjSVVWLUxEX1ZQaUl5b1hDZjJ2c29QUUoycEllSi13?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 02:46:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 建行归母净利润同比增长0.99% 不良率下降但个贷资产质量仍承压  finance.caixin.com]]></description>
+            <description><![CDATA[[财新网] 建行归母净利润同比增长0.99% 不良率下降但个贷资产质量仍承压  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[兴业银行2025年营收、净利润双增 要把国际化打造成新增长极 - finance.caixin.com]]></title>
+            <title><![CDATA[兴业银行2025年营收、净利润双增 要把国际化打造成新增长极 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zbTFGVEx0ZkdWU0RXS2xGb3d6NUdjVGZsalVyVzhJTktqNjg1RDZFOXNaU1Zzd2ZueUE0bGw4QnZRXzNzS3hpNXpBOWl3Q2ZHWVpUNVc5WWxFdXJxdUhWbEtB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zbTFGVEx0ZkdWU0RXS2xGb3d6NUdjVGZsalVyVzhJTktqNjg1RDZFOXNaU1Zzd2ZueUE0bGw4QnZRXzNzS3hpNXpBOWl3Q2ZHWVpUNVc5WWxFdXJxdUhWbEtB?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 02:36:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 兴业银行2025年营收、净利润双增 要把国际化打造成新增长极  finance.caixin.com]]></description>
+            <description><![CDATA[[财新网] 兴业银行2025年营收、净利润双增 要把国际化打造成新增长极  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？ - 华尔街见闻]]></title>
+            <title><![CDATA[周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？ - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxSDRkQ3dSQVFVQnd0eUdGSzhHMGQ4d1VKMTdwdWcySXphaVFHQXhpTHpld1BnUlMxUkhwRjdaclMtTkpqMEFZSXBMeVg0LUZjRDhv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxSDRkQ3dSQVFVQnd0eUdGSzhHMGQ4d1VKMTdwdWcySXphaVFHQXhpTHpld1BnUlMxUkhwRjdaclMtTkpqMEFZSXBMeVg0LUZjRDhv?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 01:28:29 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[倾向于加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作 - 华尔街见闻]]></title>
+            <title><![CDATA[倾向于加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作 - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JdWk1TF9QakpqUnV6Qm9kRG1HMjVxTlhXM3Y1Wi1QaUdPQ2doVlVtbkt0TExCTUlRb1h3WjNXdkR6ODNVUHh2WV9yNV9iVjZlX1gw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JdWk1TF9QakpqUnV6Qm9kRG1HMjVxTlhXM3Y1Wi1QaUdPQ2doVlVtbkt0TExCTUlRb1h3WjNXdkR6ODNVUHh2WV9yNV9iVjZlX1gw?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 01:14:28 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 倾向于加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 倾向于加入美以行动？海湾多国联合声明谴责伊朗，沙特、阿联酋已有所动作  wallstreetcn.com]]></description>
         </item>
         <item>
-            <title><![CDATA[总理阿尔巴内塞表示，澳大利亚将修改出口融资法以提高燃料安全 - 路透中文网]]></title>
+            <title><![CDATA[总理阿尔巴内塞表示，澳大利亚将修改出口金融法以提高燃料安全 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ1FrUDVEWGJ4V1pteFZzMTloWFJlUDVFQURCNktfLURaVnRfODFuM1N3Z3BFdEVmRlNtaWdPNkUxLTJlZFVLdFE3YmV5Q2NyWHhrN3NpZnRuVVZfN29weXZVSkU2V2JyNnlUU3ZfLWpWcTI1a09jcFVlaU5nTUVSQkVBclg0bzVHdHIybktrY3JiSS0wbEllV2pkNl9aMy10TkpPamY1NldteVBvWTlENnFJWGNsUE1nYkgyRENlMDRGZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ1FrUDVEWGJ4V1pteFZzMTloWFJlUDVFQURCNktfLURaVnRfODFuM1N3Z3BFdEVmRlNtaWdPNkUxLTJlZFVLdFE3YmV5Q2NyWHhrN3NpZnRuVVZfN29weXZVSkU2V2JyNnlUU3ZfLWpWcTI1a09jcFVlaU5nTUVSQkVBclg0bzVHdHIybktrY3JiSS0wbEllV2pkNl9aMy10TkpPamY1NldteVBvWTlENnFJWGNsUE1nYkgyRENlMDRGZw?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 00:36:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 总理阿尔巴内塞表示，澳大利亚将修改出口融资法以提高燃料安全 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[2025年末中国对外净资产4.07万亿美元 升至全球第二 - finance.caixin.com]]></title>
+            <title><![CDATA[2025年末中国对外净资产4.07万亿美元 升至全球第二 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XaWRFMTNjZEtxclVKeXhjQXgtWkIyNVNwaUxSdWstVkoweU40c3ZGUFVkVnZ2eVd1TG1XcXpqQ2FpeVM0MHNBb1lTYnEwUG5ad3JtMFlFNWZGYmtIamxQc2J3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XaWRFMTNjZEtxclVKeXhjQXgtWkIyNVNwaUxSdWstVkoweU40c3ZGUFVkVnZ2eVd1TG1XcXpqQ2FpeVM0MHNBb1lTYnEwUG5ad3JtMFlFNWZGYmtIamxQc2J3?oc=5</guid>
             <pubDate>Sat, 28 Mar 2026 00:02:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 2025年末中国对外净资产4.07万亿美元 升至全球第二  finance.caixin.com]]></description>
+            <description><![CDATA[[财新网] 2025年末中国对外净资产4.07万亿美元 升至全球第二  财新]]></description>
         </item>
         <item>
             <title><![CDATA[中东战争导致经济前景黯淡，股市下跌，油价上涨 - 路透中文网]]></title>
@@ -674,11 +674,11 @@
             <description><![CDATA[[Reuters Business] 中东战争导致经济前景黯淡，股市下跌，油价上涨 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3% - 华尔街见闻]]></title>
+            <title><![CDATA[局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3% - wallstreetcn.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LbU9Lc3NmRWFKZUhRZC1UMGVaN05rQ29HUkpETmlaMHRWZ2RhdUQyUG04V21lcGg5NC1FRDY4Q3Z1bVp1TWhQLV9XcW9ZOUM1RnVv?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LbU9Lc3NmRWFKZUhRZC1UMGVaN05rQ29HUkpETmlaMHRWZ2RhdUQyUG04V21lcGg5NC1FRDY4Q3Z1bVp1TWhQLV9XcW9ZOUM1RnVv?oc=5</guid>
             <pubDate>Fri, 27 Mar 2026 23:00:15 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%  wallstreetcn.com]]></description>
         </item>
         <item>
             <title><![CDATA[毕马威称将裁员英国审计部门 - 路透中文网]]></title>
