@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 03 Apr 2026 20:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 21:30:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -16,11 +16,18 @@
             <description><![CDATA[[WSJ] 医疗保健继续推动就业增长，三月份较好的天气也有所帮助。]]></description>
         </item>
         <item>
-            <title><![CDATA[据《纽约时报》报道，马斯克要求 SpaceX IPO 银行购买 Grok AI 订阅服务 - reuters.com]]></title>
+            <title><![CDATA[消息人士称，遭受攻击的俄罗斯石油码头已连续第二周无法接收货物 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3h1MnVBMDZwZHdXb1NCVHFoeGNRVDR2eWdtT2hhU2dZY0l6eUItdVFiTXcxcXBjYVZYS2NfaHN3NE5XZ0NlX1BQRGFpYVVqVmZBTXE5ZEdRNGJjWVliNWRWcjd4ckhBQk9pa0d5T213OW43elNtWkVqcV8yT3hSUjU1MWE3N1hCSzZVRXBtdWNyS0xrMzhEa0JSZGlzRGdaYnFlRS1SVkhoWFo1NFJTZEV3ajhYU3ZrNVlKMjVmdzE2LVdvNHBJekl3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3h1MnVBMDZwZHdXb1NCVHFoeGNRVDR2eWdtT2hhU2dZY0l6eUItdVFiTXcxcXBjYVZYS2NfaHN3NE5XZ0NlX1BQRGFpYVVqVmZBTXE5ZEdRNGJjWVliNWRWcjd4ckhBQk9pa0d5T213OW43elNtWkVqcV8yT3hSUjU1MWE3N1hCSzZVRXBtdWNyS0xrMzhEa0JSZGlzRGdaYnFlRS1SVkhoWFo1NFJTZEV3ajhYU3ZrNVlKMjVmdzE2LVdvNHBJekl3?oc=5</guid>
+            <pubDate>Fri, 03 Apr 2026 20:00:11 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 消息人士称，遭受攻击的俄罗斯石油码头连续第二周无法接收货物 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据《纽约时报》报道，马斯克要求 SpaceX IPO 银行购买 Grok AI 订阅服务 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkdGRFZaZWhpcTI5emtZeGZLMnpWa040cnVDQml6eGxTWGhaV1otQnI5Q3lnRDlzVW5XV1R0YkhYSl8yX3BqX2NPWHllOGlIY1NsN3ROMDlTM1ZXRVJBdG96bDFtTXAtaUpmdVYwMXJZOFFONm5XUGlMbjgyNnl2MGlnWTRFWTFfRXdRbGU1ckRNeGFaa2lGRno2T29aaXNFZEhCVWt4VmV0STVJcGV1cW9lcFBiOG52?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkdGRFZaZWhpcTI5emtZeGZLMnpWa040cnVDQml6eGxTWGhaV1otQnI5Q3lnRDlzVW5XV1R0YkhYSl8yX3BqX2NPWHllOGlIY1NsN3ROMDlTM1ZXRVJBdG96bDFtTXAtaUpmdVYwMXJZOFFONm5XUGlMbjgyNnl2MGlnWTRFWTFfRXdRbGU1ckRNeGFaa2lGRno2T29aaXNFZEhCVWt4VmV0STVJcGV1cW9lcFBiOG52?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 19:43:31 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 据路透社报道，马斯克要求 SpaceX IPO 银行购买 Grok AI 订阅服务]]></description>
+            <description><![CDATA[[Reuters Business] 据《纽约时报》报道，马斯克要求 SpaceX IPO 银行购买 Grok AI 订阅服务 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美法官维持对传唤鲍威尔的禁令，上诉或推迟沃什的提名确认]]></title>
@@ -30,18 +37,32 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[美国联合航空将为高级客舱推出分级票价类别 - reuters.com]]></title>
+            <title><![CDATA[检察官对法国滚动新闻频道 CNews 展开仇恨言论调查 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEQ4akxFUGU0UG1pU1FUWjBfSUQwYWxCdEFnVk9kWWZYOWpoeGZBeU9BMG1tb1ZrcXJUSGZXZ1k3UDN2anpPTnJmQmdoMktkQ3Q2U2V1U280eDA0Vm03bzRSb0M5bVBIRG1nVkYxdmNEb19vWWlHRGlMczRJckZ1VkVtb3VzS19lR2Z2bWZTcUdKbWFrOG5HWWNlUGJ2V0NCdzM2Y1M4ZG9FemRoMnlZa01STTFnZVl0V0Q1Z3dPTzQ0TFN0em55RkdqM0Q1c2VO?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEQ4akxFUGU0UG1pU1FUWjBfSUQwYWxCdEFnVk9kWWZYOWpoeGZBeU9BMG1tb1ZrcXJUSGZXZ1k3UDN2anpPTnJmQmdoMktkQ3Q2U2V1U280eDA0Vm03bzRSb0M5bVBIRG1nVkYxdmNEb19vWWlHRGlMczRJckZ1VkVtb3VzS19lR2Z2bWZTcUdKbWFrOG5HWWNlUGJ2V0NCdzM2Y1M4ZG9FemRoMnlZa01STTFnZVl0V0Q1Z3dPTzQ0TFN0em55RkdqM0Q1c2VO?oc=5</guid>
+            <pubDate>Fri, 03 Apr 2026 19:33:10 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 检察官对法国滚动新闻频道 CNews 展开仇恨言论调查 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普对伊朗的愤怒使北约陷入新的危机 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2liSDZHMVVtSHozdTMyejFlbDNQMVBSVU5JR09Vb3FxUV9QVDRaUDdxdGxhcGxPaEU4WE0tN2l2XzZILXVSck9lcF9UTDFWMGstcXhidklfOC04bUVCM1dtUDhKQjlfMnNtcFNRYjFVek9ONHhfOERBa0JyZnpsWFd3REtWSGxnYTcwdnhRbFFmTHNGSHRqZkZERU84S2tSTThDUG9tUHdiQ3pZb0lUVV9EY3BETU0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2liSDZHMVVtSHozdTMyejFlbDNQMVBSVU5JR09Vb3FxUV9QVDRaUDdxdGxhcGxPaEU4WE0tN2l2XzZILXVSck9lcF9UTDFWMGstcXhidklfOC04bUVCM1dtUDhKQjlfMnNtcFNRYjFVek9ONHhfOERBa0JyZnpsWFd3REtWSGxnYTcwdnhRbFFmTHNGSHRqZkZERU84S2tSTThDUG9tUHdiQ3pZb0lUVV9EY3BETU0?oc=5</guid>
+            <pubDate>Fri, 03 Apr 2026 19:16:49 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 特朗普对伊朗的愤怒使北约陷入新的危机 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国联合航空将为高级客舱推出分级票价类别 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNdnlmNzVBcVFJWFpzS2NjSzlIa3V0eDg4X2FOOWZlN25TNHVpYkxjSUJ3Z3gzc0VNOVZuLXNST1FsY0FCT09DVkFEMWFuSjdYa0RVZTV0U1lUbVBzbW5MOHZxYUZWb0dDbWd0aWVxR0hjMTJCaS16YXFaengtVVU2cENkcjRqX0l3X3ZLWlBRbWVfUG00ZTVUbGN0RVlLTzcwNFRVMFlBTTkwbU1z?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxNdnlmNzVBcVFJWFpzS2NjSzlIa3V0eDg4X2FOOWZlN25TNHVpYkxjSUJ3Z3gzc0VNOVZuLXNST1FsY0FCT09DVkFEMWFuSjdYa0RVZTV0U1lUbVBzbW5MOHZxYUZWb0dDbWd0aWVxR0hjMTJCaS16YXFaengtVVU2cENkcjRqX0l3X3ZLWlBRbWVfUG00ZTVUbGN0RVlLTzcwNFRVMFlBTTkwbU1z?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 19:05:55 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国联合航空将为高级客舱引入分级票价类别 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 美国联合航空将为高级客舱引入分级票价类别 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[消费者大额交易在第一季度罕见地卷土重来 - reuters.com]]></title>
+            <title><![CDATA[消费者大额交易在第一季度罕见地卷土重来 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVhPa0d6RUdROTVkdDByZTM5S1hEaW9BRTA5c1FYSzhBV05vV2t4ZmdIR29iVmc2NG1IV1dEMl9vbW5rV2dsYTlRMFJoeUlBazQ3bW9GU1pwWFlRZDJQdlVLTzRmbkJqd0Y4cERWVmVPdDhFcGFSQ1RVQVlxaWx6NmJkMnl5Wmd4SEUyMEV0amtxVWhwd0NoaXUzVWc4MW9zaXJOZWZSNA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVhPa0d6RUdROTVkdDByZTM5S1hEaW9BRTA5c1FYSzhBV05vV2t4ZmdIR29iVmc2NG1IV1dEMl9vbW5rV2dsYTlRMFJoeUlBazQ3bW9GU1pwWFlRZDJQdlVLTzRmbkJqd0Y4cERWVmVPdDhFcGFSQ1RVQVlxaWx6NmJkMnl5Wmd4SEUyMEV0amtxVWhwd0NoaXUzVWc4MW9zaXJOZWZSNA?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 19:04:26 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 消费者大型交易在第一季度罕见地卷土重来 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 消费者大促销在第一季度罕见地卷土重来 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国法官驳回皮罗恢复已被撤销的美联储传票的动议]]></title>
@@ -51,18 +72,18 @@
             <description><![CDATA[[Bloomberg] 司法部未能继续对美联储建筑翻修成本超支问题进行调查，这为最终可能上诉至最高法院的上诉奠定了基础。]]></description>
         </item>
         <item>
-            <title><![CDATA[阿富汗发生里氏5.9级地震，8人死亡 - 路透中文网]]></title>
+            <title><![CDATA[阿富汗5.9级地震造成8人死亡 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHF4RExtTVdzajRiLTFyN3N4VnhuVXdyXzJqTmpVaEFKTlEzSURBQU50WjJLalM4ZTFESGY2bXY5N0FuMmk5MklDcUpXeHRQRk5jODdzdE5qQXc0RkNIbE93SHZBNHBQTUZBYXJiSmZTdXZSSnZmb21MdkdINm82a21SeVgtckpaZjRSOTRET0k4Z1VlTHRsQzE1OEViY2tFb2Q4VlZLUm9aQTQtejNoMEdvdHJPMnJxaFltNFJRODduYW54Mklr?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHF4RExtTVdzajRiLTFyN3N4VnhuVXdyXzJqTmpVaEFKTlEzSURBQU50WjJLalM4ZTFESGY2bXY5N0FuMmk5MklDcUpXeHRQRk5jODdzdE5qQXc0RkNIbE93SHZBNHBQTUZBYXJiSmZTdXZSSnZmb21MdkdINm82a21SeVgtckpaZjRSOTRET0k4Z1VlTHRsQzE1OEViY2tFb2Q4VlZLUm9aQTQtejNoMEdvdHJPMnJxaFltNFJRODduYW54Mklr?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 18:35:53 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 阿富汗发生里氏 5.9 级地震，造成 8 人死亡 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 阿富汗发生里氏 5.9 级地震，造成 8 人死亡 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[泽伦斯基指责俄罗斯“复活节升级”，大规模日间袭击造成两人死亡 - reuters.com]]></title>
+            <title><![CDATA[泽伦斯基指责俄罗斯“复活节升级”，大规模日间袭击造成两人死亡 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPMEROeEZKLTlzMTdRWlV3NVRZQVVycHFCaW1rRE1aSGlsaGdwLWstUWh5cDBqNlBxQ19ON1lZb0I3VzZhRHE5UjdncFlBSlJMSkNWU1J4cW93VnIwMDdaWjlHRlZUSFRqRzNrUjFBWWhvc3AtRy05Szd5TnNnUC1YajIyak9KZXJpTlVJTTZ4ZzNKQjFRbGRuSGk3bjVFZ0QzUFB5d1pva2hqZGhoVG5FRDktRjQxUEpWbUJWNA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPMEROeEZKLTlzMTdRWlV3NVRZQVVycHFCaW1rRE1aSGlsaGdwLWstUWh5cDBqNlBxQ19ON1lZb0I3VzZhRHE5UjdncFlBSlJMSkNWU1J4cW93VnIwMDdaWjlHRlZUSFRqRzNrUjFBWWhvc3AtRy05Szd5TnNnUC1YajIyak9KZXJpTlVJTTZ4ZzNKQjFRbGRuSGk3bjVFZ0QzUFB5d1pva2hqZGhoVG5FRDktRjQxUEpWbUJWNA?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 18:21:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 泽连斯基指责俄罗斯“复活节升级”，大规模日间袭击造成两人死亡]]></description>
+            <description><![CDATA[[Reuters Business] 泽连斯基指责俄罗斯“复活节升级”，大规模日间袭击造成两人死亡 路透]]></description>
         </item>
         <item>
             <title><![CDATA[中东最大铝企证实市场猜测：阿布扎比工厂复产可能需要一年]]></title>
@@ -86,25 +107,18 @@
             <description><![CDATA[[华尔街见闻] 二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[特朗普对伊朗的愤怒使北约陷入新的危机 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2liSDZHMVVtSHozdTMyejFlbDNQMVBSVU5JR09Vb3FxUV9QVDRaUDdxdGxhcGxPaEU4WE0tN2l2XzZILXVSck9lcF9UTDFWMGstcXhidklfOC04bUVCM1dtUDhKQjlfMnNtcFNRYjFVek9ONHhfOERBa0JyZnpsWFd3REtWSGxnYTcwdnhRbFFmTHNGSHRqZkZERU84S2tSTThDUG9tUHdiQ3pZb0lUVV9EY3BETU0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2liSDZHMVVtSHozdTMyejFlbDNQMVBSVU5JR09Vb3FxUV9QVDRaUDdxdGxhcGxPaEU4WE0tN2l2XzZILXVSck9lcF9UTDFWMGstcXhidklfOC04bUVCM1dtUDhKQjlfMnNtcFNRYjFVek9ONHhfOERBa0JyZnpsWFd3REtWSGxnYTcwdnhRbFFmTHNGSHRqZkZERU84S2tSTThDUG9tUHdiQ3pZb0lUVV9EY3BETU0?oc=5</guid>
-            <pubDate>Fri, 03 Apr 2026 17:08:01 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 特朗普对伊朗的愤怒使北约陷入新的危机 reuters.com]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克斯坦在沙特支持的恢复行动中释放濒危猎鹰 - reuters.com]]></title>
+            <title><![CDATA[哈萨克斯坦在沙特支持的恢复行动中释放濒危猎隼 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxOVTA1M1lSR19WY3VyblYtWWlWQTMtX0wzNXZIcGo0SGc4NDNmVld2WTU5U1Zvb2t6cWU4YXdWR3BQVXNxZEFMcjJZQlhHX3pHSkdQRTdlMXktdV9uTjFROEI1VWdRdzl6YlN1RWhZNTUwVFpkR0F4YlVxRGVTQllOa2VRbmhXWVI1SnRKUXVaSjg0RGpWTXFaVEl4VkJNUDA3N2hvWDB1MF9JbEpjSUduSUpnam9CTUlwUWM3MTNiWXU3OTNrbFVSbEpTZ24?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxOVTA1M1lSR19WY3VyblYtWWlWQTMtX0wzNXZIcGo0SGc4NDNmVld2WTU5U1Zvb2t6cWU4YXdWR3BQVXNxZEFMcjJZQlhHX3pHSkdQRTdlMXktdV9uTjFROEI1VWdRdzl6YlN1RWhZNTUwVFpkR0F4YlVxRGVTQllOa2VRbmhXWVI1SnRKUXVaSjg0RGpWTXFaVEl4VkJNUDA3N2hvWDB1MF9JbEpjSUduSUpnam9CTUlwUWM3MTNiWXU3OTNrbFVSbEpTZ24?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 17:01:20 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 哈萨克斯坦在沙特支持的恢复活动中释放了濒临灭绝的隼隼 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 哈萨克斯坦在沙特支持的恢复行动中释放濒临灭绝的猎隼 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[日本、法国和阿曼船只穿越霍尔木兹海峡 - reuters.com]]></title>
+            <title><![CDATA[日本、法国和阿曼船只穿越霍尔木兹海峡 - 路透社]]></title>
             <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDZlUENrREdFa2cxVWpLTE44Q1FGVjU1SXFiS2RVWUUzeVJWNDdDMXNzSlA1X1ZTUlJ0YnNjb0FFQ0RMRnhLaDg4cUV5T1pMX2xOQU5tSmpfQ0x3MjhQQ3lCREJ4ZXI1REVDVGJGZE5oaFRXVzN1TjR3WWRYWksxamRRcWo0aXJHWlljdHdrZ2tPcjJNbTNKZlhveXlvN3dp?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDZlUENrREdFa2cxVWpLTE44Q1FGVjU1SXFiS2RVWUUzeVJWNDdDMXNzSlA1X1ZTUlJ0YnNjb0FFQ0RMRnhLaDg4cUV5T1pMX2xOQU5tSmpfQ0x3MjhQQ3lCREJ4ZXI1REVDVGJGZE5oaFRXVzN1TjR3WWRYWksxamRRcWo0aXJHWlljdHdrZ2tPcjJNbTNKZlhveXlvN3dp?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 16:45:30 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 日本、法国和阿曼船只穿越霍尔木兹海峡 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 日本、法国和阿曼船只穿越霍尔木兹海峡 路透社]]></description>
         </item>
         <item>
             <title><![CDATA[马斯克宣布V3版“星舰”首次发射还要再等4至6周 目前定档5月]]></title>
@@ -118,7 +132,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-04-03/bloomberg-surveillance-4-3-2026-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-03/bloomberg-surveillance-4-3-2026-video</guid>
             <pubDate>Fri, 03 Apr 2026 16:26:38 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 乔纳森·费罗（Jonathan Ferro）、丽莎·阿布拉莫维奇（Lisa Abramowicz）和安玛丽·霍登（Annmarie Hordern）每天与华尔街、华盛顿及其他地区的领导人和决策者交谈。 没有其他计划可以更好地为投资者和高管提供交易日的定位。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 乔纳森·费罗（Jonathan Ferro）、丽莎·阿布拉莫维奇（Lisa Abramowicz）和安玛丽·霍登（Annmarie Hordern）每天与华尔街、华盛顿及其他地区的领导人和决策者交谈。 没有其他计划可以更好地为投资者和高管在交易日提供定位。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[包括护理在内的医疗保健工作在三月份再次蓬勃发展。 该行业提供了 20 世纪 80 年代以来最稳定的就业增长]]></title>
@@ -153,7 +167,7 @@
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlnai1qck50QlpLN0ZTa2NxU3J6UWxXY1NYMjFJZURjVnRWRG5yUTRYVVFNdmJPWGExRF9ZYkRUenpxb01wcXRKRmpHX2ZrZDRsUnQ4SDJFWW95RVR4c1M2VUxvcGlBbElyd19pcW5PZlZTMGMzWURLazhQakxrMUY4b3YtaTd2cGhlWkZTenA4dDNncmxiRUdvbXNMWk5QRHE3NHlsTlZuc1loelVtamY3WGs1RG1VZzhSLUtGTmw5Vkk?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlnai1qck50QlpLN0ZTa2NxU3J6UWxXY1NYMjFJZURjVnRWRG5yUTRYVVFNdmJPWGExRF9ZYkRUenpxb01wcXRKRmpHX2ZrZDRsUnQ4SDJFWW95RVR4c1M2VUxvcGlBbElyd19pcW5PZlZTMGMzWURLazhQakxrMUY4b3YtaTd2cGhlWkZTenA4dDNncmxiRUdvbXNMWk5QRHE3NHlsTlZuc1loelVtamY3WGs1RG1VZzhSLUtGTmw5Vkk?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 15:10:45 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 参议员敦促特朗普禁止中国汽车制造商在美国生产汽车 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 参议员敦促特朗普禁止中国汽车制造商在美国生产汽车 路透]]></description>
         </item>
         <item>
             <title><![CDATA[摩洛哥股市收低；截至收盘摩洛哥MASI自由流通指数下跌0.06%]]></title>
@@ -202,7 +216,7 @@
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0FPUXFlS0p3RjVqbUVZRnJMWm0wOXc3bjlxN0VNbmNEeVJnZFdJcGhURXNaRTVoMjBRV2IxdlBDTk5leEpSWnZrZkdzY0VNR0lseEZKblNiT2tMNHFzYUFvQ1hzdndTdG1ZY2lkaEY4RWdKdmptcUlHSVZNTnlkLUFGNWZxZDNWbmplT3JYZlplS005UmdoZDAxejlJYW9UUHVnajUzTUJPZ2NDWHZ5SjVSdDJOcjVjRXp0RU8wRGhQLUk?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0FPUXFlS0p3RjVqbUVZRnJMWm0wOXc3bjlxN0VNbmNEeVJnZFdJcGhURXNaRTVoMjBRV2IxdlBDTk5leEpSWnZrZkdzY0VNR0lseEZKblNiT2tMNHFzYUFvQ1hzdndTdG1ZY2lkaEY4RWdKdmptcUlHSVZNTnlkLUFGNWZxZDNWbmplT3JYZlplS005UmdoZDAxejlJYW9UUHVnajUzTUJPZ2NDWHZ5SjVSdDJOcjVjRXp0RU8wRGhQLUk?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 14:49:35 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 中国航天先锋称可重复使用火箭首飞失败 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 中国航天先锋称可重复使用火箭首飞失败 路透]]></description>
         </item>
         <item>
             <title><![CDATA[经济学家斯洛克认为“Nike Swoosh”将在美国复苏]]></title>
@@ -212,18 +226,18 @@
             <description><![CDATA[[Bloomberg] 阿波罗公司首席经济学家托斯顿·斯洛克解释了他认为尽管受到伊朗战争影响仍支持美国经济增长的三个因素。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[独家：美国在警告存在缺口的情况下颠覆了疟疾和艾滋病毒的全球供应计划 - reuters.com]]></title>
+            <title><![CDATA[独家：美国在警告存在缺口的情况下颠覆了疟疾和艾滋病毒的全球供应计划 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQeDFOU2Qwa3JoUDcxS2d0TDdCc0xKWTRVdkFoR3JTSEJ5ejBjdmRGVkllSjV5YWlfS1lXYnRQSHp1ajZPQ3RWZlp4UW9wU1podDl1RUVxb2NGeWRqeGdjZkdXbmNOZHQ4UVRxTnBIUlh5QUJxMjdSYURXZFZGWGNEb0h0d1EwODZkYUJHUzg0SXJoSU1rLWdMQjBvZ0pWYVdVNkp2TW9VX2twTFhQbk5mMk1qZklGV3dtZ0lOb3FyWm9aekxrTFhTMUpEN3ZfYnM?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxQeDFOU2Qwa3JoUDcxS2d0TDdCc0xKWTRVdkFoR3JTSEJ5ejBjdmRGVkllSjV5YWlfS1lXYnRQSHp1ajZPQ3RWZlp4UW9wU1podDl1RUVxb2NGeWRqeGdjZkdXbmNOZHQ4UVRxTnBIUlh5QUJxMjdSYURXZFZGWGNEb0h0d1EwODZkYUJHUzg0SXJoSU1rLWdMQjBvZ0pWYVdVNkp2TW9VX2twTFhQbk5mMk1qZklGV3dtZ0lOb3FyWm9aekxrTFhTMUpEN3ZfYnM?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 14:29:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：美国在警告存在缺口的情况下颠覆了疟疾和艾滋病毒的全球供应计划 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 独家：美国在警告存在缺口的情况下颠覆了疟疾和艾滋病毒的全球供应计划 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[即时观点：美国 3 月份就业报告强于预期，可能导致美联储观望 - reuters.com]]></title>
+            <title><![CDATA[即时观点：美国3月份就业报告强于预期，可能导致美联储观望 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 14:25:57 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 即时查看：美国 3 月份就业报告强于预期，可能导致美联储观望 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 即时观点：美国 3 月份就业报告强于预期，可能导致美联储观望 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国3月新增就业岗位17.8万个 失业率降至4.3%]]></title>
@@ -254,7 +268,7 @@
             <description><![CDATA[[Bloomberg] 国家经济委员会主任凯文·哈塞特对美国3月就业报告做出反应，并讨论了与伊朗战争相关的石油市场供应中断以及油价对美国经济的潜在影响。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[NEC 的哈塞​​特认为就业报告背后有积极的势头]]></title>
+            <title><![CDATA[NEC 的哈塞​​特看到就业报告背后的积极势头]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-04-03/nec-s-hassett-sees-positive-momentum-behind-jobs-report-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-03/nec-s-hassett-sees-positive-momentum-behind-jobs-report-video</guid>
             <pubDate>Fri, 03 Apr 2026 13:28:28 GMT</pubDate>
@@ -272,21 +286,14 @@
             <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmRCdERDTG1NNTh4THRjbVNoMnYxR1M4N3pZcHVITG9LRmQyYnRPYjFkQm1GN002SXdrcHAtVWhkcjlpZUhGdTFsU1FlU3BtTllFTi1zWGxuQXZCXzNlNnRsRDBJd2lwZHA5WWJraGNYV2UyZmVvYl9pYjY4dUQ3MnV6ekdBVEdlY2VneUxESzdxVmx6Nl9CUXdCakpDLS1uaEZMSVB6a3RiTEdfRE5HUDBGcUd5Z213bnc0bFRPN0E5WFQ0ZWd2NFg4SHBaM1ZaU0JMcWxHd0V5eXVC?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmRCdERDTG1NNTh4THRjbVNoMnYxR1M4N3pZcHVITG9LRmQyYnRPYjFkQm1GN002SXdrcHAtVWhkcjlpZUhGdTFsU1FlU3BtTllFTi1zWGxuQXZCXzNlNnRsRDBJd2lwZHA5WWJraGNYV2UyZmVvYl9pYjY4dUQ3MnV6ekdBVEdlY2VneUxESzdxVmx6Nl9CUXdCakpDLS1uaEZMSVB6a3RiTEdfRE5HUDBGcUd5Z213bnc0bFRPN0E5WFQ0ZWd2NFg4SHBaM1ZaU0JMcWxHd0V5eXVC?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 13:22:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 中国加强边境管制，在口蹄疫爆发期间扑杀牛 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 中国加强边境管制，在口蹄疫爆发期间扑杀牛 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[汽车网站 Edmunds 测试了一款中国 SUV，称这应该让美国汽车制造商感到担忧 - reuters.com]]></title>
+            <title><![CDATA[汽车网站 Edmunds 测试了一款中国 SUV，称这应该让美国汽车制造商感到担忧 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaWVpX0dXT1FGS3JlVk5oWmt1cWYzVm1WYWFkWlpxOWwzMHQ2VXdKd1NQM3Z4SmpMZ3ItVDhuSEhhaW5sRXUweWoxQUZWbktfc3VOQVgtaWpOWC1yQ29uejIyWEctbkZuTW4wQ3hmSEhQWXVCSUNRcE9YbFNiT0RWTTlLb1NGR29LZWV1VktMaExfQkdfRVlTcWQyMXRoTFQzSGlNVVlaZVNKdEhWUVhybzYzc1otaXlWX2tRdGl2RklzeHpuOU9fOTJRMmZRZ001?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaWVpX0dXT1FGS3JlVk5oWmt1cWYzVm1WYWFkWlpxOWwzMHQ2VXdKd1NQM3Z4SmpMZ3ItVDhuSEhhaW5sRXUweWoxQUZWbktfc3VOQVgtaWpOWC1yQ29uejIyWEctbkZuTW4wQ3hmSEhQWXVCSUNRcE9YbFNiT0RWTTlLb1NGR29LZWV1VktMaExfQkdfRVlTcWQyMXRoTFQzSGlNVVlaZVNKdEhWUVhybzYzc1otaXlWX2tRdGl2RklzeHpuOU9fOTJRMmZRZ001?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 13:21:31 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 汽车网站 Edmunds 测试了一款中国 SUV，表示美国汽车制造商应该对此感到担忧 reuters.com]]></description>
-        </item>
-        <item>
-            <title><![CDATA[检察官对法国滚动新闻频道 CNews 展开仇恨言论调查 - reuters.com]]></title>
-            <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEQ4akxFUGU0UG1pU1FUWjBfSUQwYWxCdEFnVk9kWWZYOWpoeGZBeU9BMG1tb1ZrcXJUSGZXZ1k3UDN2anpPTnJmQmdoMktkQ3Q2U2V1U280eDA0Vm03bzRSb0M5bVBIRG1nVkYxdmNEb19vWWlHRGlMczRJckZ1VkVtb3VzS19lR2Z2bWZTcUdKbWFrOG5HWWNlUGJ2V0NCdzM2Y1M4ZG9FemRoMnlZa01STTFnZVl0V0Q1Z3dPTzQ0TFN0em55RkdqM0Q1c2VO?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMEQ4akxFUGU0UG1pU1FUWjBfSUQwYWxCdEFnVk9kWWZYOWpoeGZBeU9BMG1tb1ZrcXJUSGZXZ1k3UDN2anpPTnJmQmdoMktkQ3Q2U2V1U280eDA0Vm03bzRSb0M5bVBIRG1nVkYxdmNEb19vWWlHRGlMczRJckZ1VkVtb3VzS19lR2Z2bWZTcUdKbWFrOG5HWWNlUGJ2V0NCdzM2Y1M4ZG9FemRoMnlZa01STTFnZVl0V0Q1Z3dPTzQ0TFN0em55RkdqM0Q1c2VO?oc=5</guid>
-            <pubDate>Fri, 03 Apr 2026 13:17:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 检察官对法国滚动新闻频道 CNews reuters.com 展开仇恨言论调查]]></description>
+            <description><![CDATA[[Reuters Business] 汽车网站 Edmunds 测试了一款中国 SUV，称这应该让美国汽车制造商感到担忧 路透]]></description>
         </item>
         <item>
             <title><![CDATA[Seedance 2.0 正式开放、120万亿tokens打底，火山引擎想要什么？ - 华尔街见闻]]></title>
@@ -335,7 +342,7 @@
             <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOQnlWSlMtcjYtdEk1ZUZhSUJOSmItMFlCOTRUZ0llbUR0X3duM1pFeGtUNVNpZjlWODNIbl96bmx6cUhJcjBLUkNaUi1GS1RwbDd5ckRxWmJsZ04wUnZ3bmluTnVlMThfNUNWR29DaktCdXJKaGw4anNFRTFjWk1aZ3R6UVFRUmpfdFBTbEg4bHZrQ2lRWG9PcTNaNi1DeTVHSEp6YkNPUlc3dVJ4MVFaNmpNNFdzUEZOSHdGRWl6V09KbURE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxOQnlWSlMtcjYtdEk1ZUZhSUJOSmItMFlCOTRUZ0llbUR0X3duM1pFeGtUNVNpZjlWODNIbl96bmx6cUhJcjBLUkNaUi1GS1RwbDd5ckRxWmJsZ04wUnZ3bmluTnVlMThfNUNWR29DaktCdXJKaGw4anNFRTFjWk1aZ3R6UVFRUmpfdFBTbEg4bHZrQ2lRWG9PcTNaNi1DeTVHSEp6YkNPUlc3dVJ4MVFaNmpNNFdzUEZOSHdGRWl6V09KbURE?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 11:44:17 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 消息人士称，乌克兰无人机袭击导致俄罗斯新乌菲姆斯克炼油厂的关键装置关闭]]></description>
+            <description><![CDATA[[Reuters Business] 消息人士称，乌克兰无人机袭击导致俄罗斯新乌菲姆斯克炼油厂的关键装置关闭 路透]]></description>
         </item>
         <item>
             <title><![CDATA[政府财政趋紧 香港大学拟发行10亿美元票据融资 - 财新网]]></title>
@@ -352,11 +359,11 @@
             <description><![CDATA[[WSJ] 中东战争的事态发展仍将是投资者关注的焦点，因为战争何时结束仍存在更大的不确定性。]]></description>
         </item>
         <item>
-            <title><![CDATA[欧盟援助农场欺诈调查扩大，希腊总理改组内阁 - reuters.com]]></title>
+            <title><![CDATA[欧盟援助农场欺诈调查扩大 希腊总理改组内阁 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3BKaWNfRFQtYXlXYVVDbGk4S0tIOUt6TEdNUE5BOUNGUTQyN2xyOXRPOHBYT011clM1ZjB1VWRTMGFTNVBQSG1LeXBCc2ZJUmItMDY4TTRNUldueVJGMDgxdkdfY1U1ZjJPdmxkQjRUUlBzU2UtOVhpRFJieGxBeUdlaEp3bjU5V0NScVR6a05OdTk5M09CYVZLa0R0eDFsYjZBdnlteFotdXNQRm9BZUtweVBoQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3BKaWNfRFQtYXlXYVVDbGk4S0tIOUt6TEdNUE5BOUNGUTQyN2xyOXRPOHBYT011clM1ZjB1VWRTMGFTNVBQSG1LeXBCc2ZJUmItMDY4TTRNUldueVJGMDgxdkdfY1U1ZjJPdmxkQjRUUlBzU2UtOVhpRFJieGxBeUdlaEp3bjU5V0NScVR6a05OdTk5M09CYVZLa0R0eDFsYjZBdnlteFotdXNQRm9BZUtweVBoQQ?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 11:11:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 欧盟援助农场欺诈调查扩大，希腊总理改组内阁 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 欧盟援助农场欺诈调查扩大，希腊总理改组内阁 路透]]></description>
         </item>
         <item>
             <title><![CDATA[惠誉上调中信银行长期外币发行人主体评级至“A-” - 财新网]]></title>
@@ -380,11 +387,11 @@
             <description><![CDATA[[Bloomberg] Barry 与 Primary Venture Partners 的创始人兼执行合伙人 Songyee Yoon 进行了交谈。 他们讨论了她的风险投资公司对人工智能本土公司的关注，以及对技术创新的理解。 他们还讨论了科技投资格局，以及她如何确定哪些公司是人工智能的本土公司，哪些公司正在追逐人工智能的繁荣。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[意大利梅洛尼公投后选举新旅游部长 - reuters.com]]></title>
+            <title><![CDATA[意大利公投后梅洛尼任命新旅游部长 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTC16TUtqOVFxaGZzM3dTb3Uwd1JFdEFpRWRQbzByVGhTeUpQcFpoM3d6cFV6UEJFQjdVbVBRQThXUXhQdEp5aHJldkdJejdfLVp6NXNjM2VQcFUzRkJ6WS1sU0JibnNtSnJmODc2a21kU2hEZmxDa0RWN294TEtLVE1FZzF2cTRTblMzVnZNYmhXY0RLRXJQcG5EaHNmSmZYUDBSVE1qSDVvaGtVX2N2UlNlTFVRWXJUNXl4M1VieF84SE0?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTC16TUtqOVFxaGZzM3dTb3Uwd1JFdEFpRWRQbzByVGhTeUpQcFpoM3d6cFV6UEJFQjdVbVBRQThXUXhQdEp5aHJldkdJejdfLVp6NXNjM2VQcFUzRkJ6WS1sU0JibnNtSnJmODc2a21kU2hEZmxDa0RWN294TEtLVE1FZzF2cTRTblMzVnZNYmhXY0RLRXJQcG5EaHNmSmZYUDBSVE1qSDVvaGtVX2N2UlNlTFVRWXJUNXl4M1VieF84SE0?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 10:41:08 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 意大利梅洛尼在公投后选举新旅游部长 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 意大利梅洛尼在全民公投后选举新旅游部长 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[以色列在战后关闭一个月后恢复最大天然气田]]></title>
@@ -457,11 +464,11 @@
             <description><![CDATA[[Bloomberg] 法国总理塞巴斯蒂安·勒科尔努 (Sebastien Lecornu) 要求部长们准备措施，帮助因伊朗战争导致燃油价格飙升后依赖汽车的个人。]]></description>
         </item>
         <item>
-            <title><![CDATA[克里姆林宫推动国家支持的消息应用程序触动了一些人的神经 - reuters.com]]></title>
+            <title><![CDATA[克里姆林宫推动国家支持的消息应用程序触动了一些人的神经 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPTU5YWFhvM3dzYjQxNTdkOWc5dHpVRUN1MV9CdDQ1b0lSWkZrWEx1Y0tjdFpTeWJJakdUZDZhSkNjckJnLWt3VjBxa3p2VzRyUHNhVmh3NE01Q1A2bjczVFVFX1FjWXk4alFkS28tWUloLU9HMDhVcmM3RnJ1ZjItZHA2WV9yT0F6YzU0U0h0OWp4NkpyUzVEam5uMWRHYy1KVWpoUzlkcTdjVURVZ05jaTVZZkNNdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxPTU5YWFhvM3dzYjQxNTdkOWc5dHpVRUN1MV9CdDQ1b0lSWkZrWEx1Y0tjdFpTeWJJakdUZDZhSkNjckJnLWt3VjBxa3p2VzRyUHNhVmh3NE01Q1A2bjczVFVFX1FjWXk4alFkS28tWUloLU9HMDhVcmM3RnJ1ZjItZHA2WV9yT0F6YzU0U0h0OWp4NkpyUzVEam5uMWRHYy1KVWpoUzlkcTdjVURVZ05jaTVZZkNNdw?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 08:05:38 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 克里姆林宫推动国家支持的消息应用程序触动了一些路透社的神经]]></description>
+            <description><![CDATA[[Reuters Business] 克里姆林宫推动国家支持的消息应用程序触动了一些人的神经 路透]]></description>
         </item>
         <item>
             <title><![CDATA[梅洛尼访问海湾地区，加强与受战争影响国家的能源联系]]></title>
@@ -492,11 +499,11 @@
             <description><![CDATA[[Bloomberg] 现在显然有很多关于人工智能和可能破坏白领工作的讨论。 凭直觉，银行家可能会成为这种情况的受害者。 但在我们回答人工智能是否会颠覆一个行业或一项工作之前，我们必须知道这项工作实际上需要什么。 投资银行家实际上是做什么的？为什么他们会为此获得报酬？ 为了回答这个问题，我们采访了长期担任格林希尔投资银行前首席执行官的斯科特·博克(Scott Bok)。 斯科特也是《嘘声》的作者]]></description>
         </item>
         <item>
-            <title><![CDATA[中东冲突影响航运业，现代汽车表示出口中断 - reuters.com]]></title>
+            <title><![CDATA[中东冲突影响航运业，现代汽车表示出口中断 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFNKX041OXdSeTdrSDEwT0hTellUTzVIX240eTBQclNUOFBmT3lnV05yMnc2MDB4dWRybFVZZG5mSV9SZzAyWGtVRng1ZXJGR2tJSENRbFp3N2RzQ0ljNDFIR2FFOXBFSndBQ3BZc2pYUi1veGVsUE42N08xR21SckdpNWQ1N3dpcXJfelRlUHgtaU5QaEVZYUFUQUZfQzZCSXNnc1pVb0hKVzY5c1NibkhFWWhaRHBrS2NCUHJfMEFwMWVDNUhIcHBPalZVc3JiVG5mbmVR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFNKX041OXdSeTdrSDEwT0hTellUTzVIX240eTBQclNUOFBmT3lnV05yMnc2MDB4dWRybFVZZG5mSV9SZzAyWGtVRng1ZXJGR2tJSENRbFp3N2RzQ0ljNDFIR2FFOXBFSndBQ3BZc2pYUi1veGVsUE42N08xR21SckdpNWQ1N3dpcXJfelRlUHgtaU5QaEVZYUFUQUZfQzZCSXNnc1pVb0hKVzY5c1NibkhFWWhaRHBrS2NCUHJfMEFwMWVDNUhIcHBPalZVc3JiVG5mbmVR?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 07:57:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 中东冲突袭击航运业，现代汽车表示出口中断 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 由于中东冲突影响航运业，现代汽车表示出口中断 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[一艘法籍集装箱船驶出霍尔木兹海峡，或为伊朗战争以来西欧船只首次通过 - 华尔街见闻]]></title>
@@ -534,18 +541,18 @@
             <description><![CDATA[[Bloomberg] 尽管伊朗战争带来了经济压力，但土耳其三月份的年度通胀放缓幅度超出了经济学家的预期。]]></description>
         </item>
         <item>
-            <title><![CDATA[由于对燃料危机的担忧加剧，澳大利亚人取消复活节旅行 - reuters.com]]></title>
+            <title><![CDATA[由于对燃料危机的担忧加剧，澳大利亚人取消复活节旅行 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2dQdjJEdlRjYmpHWHowQm1pOUFNYnBGNGtkc1V1TFpaU1Y3OGpiUHREdG9QX2ZFNjA5TWdVcDU4bG5nQi1tY2FUOGd1eXdUSk01eFRlaGR5YV9mTWY2NzZiTWkzYWo2ZWo0dUMwMnFETzFpSHQya1ZTc1c3M0UxdzZ5OEZUZkZRWlZIYmF4TnlKblJhYnA4ZEhWTGJHa29ZbFA3VndzdVJ1WUxRVVRIaEFPLTBiZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2dQdjJEdlRjYmpHWHowQm1pOUFNYnBGNGtkc1V1TFpaU1Y3OGpiUHREdG9QX2ZFNjA5TWdVcDU4bG5nQi1tY2FUOGd1eXdUSk01eFRlaGR5YV9mTWY2NzZiTWkzYWo2ZWo0dUMwMnFETzFpSHQya1ZTc1c3M0UxdzZ5OEZUZkZRWlZIYmF4TnlKblJhYnA4ZEhWTGJHa29ZbFA3VndzdVJ1WUxRVVRIaEFPLTBiZw?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 06:45:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于对燃料危机的担忧加剧，澳大利亚人取消复活节旅行 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 由于对燃料危机的担忧加剧，澳大利亚人取消复活节旅行 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[PMI显示俄罗斯服务业六个月来首次收缩 - reuters.com]]></title>
+            <title><![CDATA[PMI显示俄罗斯服务业六个月来首次收缩 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNYktVeFU1SEpYbDd4S0RlWHB1cTBZbGVFdTloajVvWXNYSmxpLTlLNm9HeDFQdndDN0wtUHdHZzJLMkZMWE80SDlxOTlfa0NxUTVXczRiLXlDbGV1R0RXNGsxWTJaaV9XSEJjcC12M2p2dWRjMmxZM2pCUlJBZ01nY05FLUJSNWZYb0hUcGJrcXc4T3hyVDU5NVoyaW1KSkFPWkVMbVdCdlBubC1mMnYw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNYktVeFU1SEpYbDd4S0RlWHB1cTBZbGVFdTloajVvWXNYSmxpLTlLNm9HeDFQdndDN0wtUHdHZzJLMkZMWE80SDlxOTlfa0NxUTVXczRiLXlDbGV1R0RXNGsxWTJaaV9XSEJjcC12M2p2dWRjMmxZM2pCUlJBZ01nY05FLUJSNWZYb0hUcGJrcXc4T3hyVDU5NVoyaW1KSkFPWkVMbVdCdlBubC1mMnYw?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 06:10:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] PMI 显示，俄罗斯服务业六个月来首次出现收缩 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] PMI 显示俄罗斯服务业六个月来首次出现收缩 路透]]></description>
         </item>
         <item>
             <title><![CDATA[报道：苹果正高价囤积“所有的”移动DRAM - 华尔街见闻]]></title>
@@ -555,11 +562,11 @@
             <description><![CDATA[[华尔街见闻] 报道：苹果正高价囤积“所有的”移动DRAM  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[特斯拉扩大商店和服务网络，瞄准日本顶级进口车市场 - 路透中文网]]></title>
+            <title><![CDATA[特斯拉扩大商店和服务网络，瞄准日本顶级进口汽车市场 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU1ZxRkdpWC11LTdJejhKVmt0MzdzX21GWlZwX052b1RDMDFmakxiRHluOXp3NnR2OU9qOGJzZU1TS0xXb3RBU3JvaDNITTN3clA3T0xLYWFJalVzc1hER2czUENnYm55Z2oxWVBUcDA0LTZ6WXg4ajdpRk9xY0xaX0VFS3N4UDVEbFVvSFJ4N0dJZmpjQ05PQVZjZ1pYTlo4SFlCTUx5U0s1TERPZ25NemZpcEJLSlVucFlleHBWOEVIR0tFVWFXT0tBS2Y2SWlwWHZJNQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU1ZxRkdpWC11LTdJejhKVmt0MzdzX21GWlZwX052b1RDMDFmakxiRHluOXp3NnR2OU9qOGJzZU1TS0xXb3RBU3JvaDNITTN3clA3T0xLYWFJalVzc1hER2czUENnYm55Z2oxWVBUcDA0LTZ6WXg4ajdpRk9xY0xaX0VFS3N4UDVEbFVvSFJ4N0dJZmpjQ05PQVZjZ1pYTlo4SFlCTUx5U0s1TERPZ25NemZpcEJLSlVucFlleHBWOEVIR0tFVWFXT0tBS2Y2SWlwWHZJNQ?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 05:29:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 特斯拉扩大商店和服务网络，瞄准日本顶级进口车市场 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 特斯拉扩大商店和服务网络，瞄准日本顶级进口汽车市场 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[船舶通过霍尔木兹海峡收取人民币费用提振中国支付股]]></title>
@@ -573,7 +580,7 @@
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEVNa25SUi1oZkdQM1pJajBwZmVtRWNoYURNcXMxZ29pS01xN0Q0dnBWNXdRaVB5X1A2dnZMVnpFNm13YnNtLXc5RWdvaC0tclpTMWluSXktMzdMUmtnaEJZclBmMlVKQ1ROYUlubmN0LVI2anR6aXVERFNmTnRrRVEyVWdDYVl6OUZ0OHJncExsSFZsdTZGeEI2Q0VobnpOMWhJOGRjLVh1Sjd1TE9BMWJiUWlfZGdKM3JMY1B5TXlHelNVRUpCUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEVNa25SUi1oZkdQM1pJajBwZmVtRWNoYURNcXMxZ29pS01xN0Q0dnBWNXdRaVB5X1A2dnZMVnpFNm13YnNtLXc5RWdvaC0tclpTMWluSXktMzdMUmtnaEJZclBmMlVKQ1ROYUlubmN0LVI2anR6aXVERFNmTnRrRVEyVWdDYVl6OUZ0OHJncExsSFZsdTZGeEI2Q0VobnpOMWhJOGRjLVh1Sjd1TE9BMWJiUWlfZGdKM3JMY1B5TXlHelNVRUpCUQ?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 04:16:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 欧盟能源专员告诉英国《金融时报》路透社，欧洲必须为“长期”能源冲击做好准备]]></description>
+            <description><![CDATA[[Reuters Business] 欧盟能源专员告诉英国《金融时报》，欧洲必须为“长期”能源冲击做好准备 路透]]></description>
         </item>
         <item>
             <title><![CDATA[石油危机五十年：六轮中东冲突如何重塑油价、通胀与市场交易逻辑 - 华尔街见闻]]></title>
@@ -583,18 +590,18 @@
             <description><![CDATA[[华尔街见闻] 石油危机五十年：六轮中东冲突如何重塑油价、通胀与市场交易逻辑  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[即使伊朗战争挤压企业，日本央行仍保持加息大门 - reuters.com]]></title>
+            <title><![CDATA[尽管伊朗战争挤压企业，日本央行仍保持加息大门 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPZFAyb1FPMU1naGdONTc0WEJXM08wMC1FRFd0N2VEaUNEVGQxcE45MUlrUDlfQWU0SzVkQUZQUi1Bc3BsMVdUZTAtaDUwLVBicVdVTjBQaWNXOEZfMnBpSl8xbDZnRWhrYUszWWZndFRFYVVMMmpXZEROU29uZUFObVIxMzI5NDhqNlQzRF90bHoxb2FOU3FrdzNDTHUwcHBJT3RYamZNa2YtNVB0QTFIeEo0TzdMVncwMkpRV1Zn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxPZFAyb1FPMU1naGdONTc0WEJXM08wMC1FRFd0N2VEaUNEVGQxcE45MUlrUDlfQWU0SzVkQUZQUi1Bc3BsMVdUZTAtaDUwLVBicVdVTjBQaWNXOEZfMnBpSl8xbDZnRWhrYUszWWZndFRFYVVMMmpXZEROU29uZUFObVIxMzI5NDhqNlQzRF90bHoxb2FOU3FrdzNDTHUwcHBJT3RYamZNa2YtNVB0QTFIeEo0TzdMVncwMkpRV1Zn?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 04:00:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 即使伊朗战争挤压企业，日本央行仍保持加息大门 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 即使伊朗战争挤压企业，日本央行仍保持加息大门 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[微软将在日本投资 100 亿美元用于人工智能和网络防御扩张 - reuters.com]]></title>
+            <title><![CDATA[微软将在日本投资 100 亿美元用于人工智能和网络防御扩张 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 03:37:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 微软将在日本投资 100 亿美元用于人工智能和网络防御扩张 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 微软将在日本投资 100 亿美元用于人工智能和网络防御扩张 路透]]></description>
         </item>
         <item>
             <title><![CDATA[今日开盘：两市双双高开 沪指涨幅0.21% - 财新网]]></title>
@@ -604,11 +611,11 @@
             <description><![CDATA[[财新网] 今日开盘：两市双双高开 沪指涨幅0.21%  财新网]]></description>
         </item>
         <item>
-            <title><![CDATA[印度“蒙扎罗新娘”：减肥注射成为婚前准备的一部分 - reuters.com]]></title>
+            <title><![CDATA[印度“蒙扎罗新娘”：减肥注射成为婚前准备的一部分 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZlc2ckhxcF8yTm13RnBwSm9qeVZnTlhyLUxfRlU3V3VUSHJXZ3R4dU9teFpIX1FvZU1ydG81cnlVSkxFTEpIVno0MWpLRld4aUVEMC1hNVNpbndaUFFmM0ZkMlNzdXdmUTY3akJERTB3NUlqbFVWM3pXb3djblF5U2dFZlJPc1FYZ0ZvQlZEcUVPU3RWY2J4OEVoWHJmaWhXZjZLS05LOUFSWUtxbTBKalFUMUFIcUJkZzVOSC1wWUZKaTBqU0FhMHhKS21INWFzNVFvSzlHX24?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZlc2ckhxcF8yTm13RnBwSm9qeVZnTlhyLUxfRlU3V3VUSHJXZ3R4dU9teFpIX1FvZU1ydG81cnlVSkxFTEpIVno0MWpLRld4aUVEMC1hNVNpbndaUFFmM0ZkMlNzdXdmUTY3akJERTB3NUlqbFVWM3pXb3djblF5U2dFZlJPc1FYZ0ZvQlZEcUVPU3RWY2J4OEVoWHJmaWhXZjZLS05LOUFSWUtxbTBKalFUMUFIcUJkZzVOSC1wWUZKaTBqU0FhMHhKS21INWFzNVFvSzlHX24?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 01:01:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 印度的“Mounjaro 新娘”：减肥注射成为婚前准备的一部分 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 印度的“Mounjaro 新娘”：减肥注射成为婚前准备的一部分 路透]]></description>
         </item>
         <item>
             <title><![CDATA[霍尔木兹海峡现“新迹象”：400万桶原油、首艘LNG船“似乎”已通过，且走靠近阿曼海岸的“南线” - 华尔街见闻]]></title>
@@ -660,25 +667,25 @@
             <description><![CDATA[[华尔街见闻] 微软、谷歌同日发布新AI模型：语音、图像与本地开源能力齐上阵  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[巴西Braskem公司因石化价格上涨而提振，但债务问题迫在眉睫 - reuters.com]]></title>
+            <title><![CDATA[巴西Braskem公司因石化价格上涨而提振，但债务问题迫在眉睫 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmxQd3NhaEU2ck9zVTRhWGd1SDRBZmU3Z1lFQ2lBYlZNMDM3N2xCbFVWM2lCYW5UeHg0dTZaM2VReVBCVnFBYTZzRFVScl90ZVJ2eFpGd19raVZ6RHI2dUtRZUVCR2h6ZnhqVE1NRXMzT21rSEVrR1FHSUxBcXVWeGNWMzVGbEFTNXdyOFZxTEN0YXpKLXZvdDJRSkNNeWZjRzJnT0hGZDc3VVQ5M2ViLUxrMTdZNDZKYVE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmxQd3NhaEU2ck9zVTRhWGd1SDRBZmU3Z1lFQ2lBYlZNMDM3N2xCbFVWM2lCYW5UeHg0dTZaM2VReVBCVnFBYTZzRFVScl90ZVJ2eFpGd19raVZ6RHI2dUtRZUVCR2h6ZnhqVE1NRXMzT21rSEVrR1FHSUxBcXVWeGNWMzVGbEFTNXdyOFZxTEN0YXpKLXZvdDJRSkNNeWZjRzJnT0hGZDc3VVQ5M2ViLUxrMTdZNDZKYVE?oc=5</guid>
             <pubDate>Thu, 02 Apr 2026 22:52:47 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 巴西 Braskem 因石化价格上涨而提振，但债务问题迫在眉睫 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 巴西 Braskem 因石化价格上涨而提振，但债务问题迫在眉睫 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[耶稣受难节假期前忧虑挥之不去，华尔街收盘涨跌互现 - reuters.com]]></title>
+            <title><![CDATA[耶稣受难节假期前忧虑挥之不去，华尔街收盘涨跌互现 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxORzZMOVRDU0NuWFBVVHF2MEtHZWVrMEpRRU9OTzRiRk1sYkF1YmFaelI1S2dWa0pBZ0NOZmVXS20tZ3Vrek1kUnhUNE9ObjhMbExSU1J3Z0dpdkVQLXQtZ3A0RU9Bd0ktcTNER1FCdnRRZU9LT0RDR21ELTRVLUVtdGxJOW1iNzduYk5QMG91NTNGSDVVeFhSZzJoS2ZiMVdlTmVKU2NqQml4N1VDb054eEtfNA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxORzZMOVRDU0NuWFBVVHF2MEtHZWVrMEpRRU9OTzRiRk1sYkF1YmFaelI1S2dWa0pBZ0NOZmVXS20tZ3Vrek1kUnhUNE9ObjhMbExSU1J3Z0dpdkVQLXQtZ3A0RU9Bd0ktcTNER1FCdnRRZU9LT0RDR21ELTRVLUVtdGxJOW1iNzduYk5QMG91NTNGSDVVeFhSZzJoS2ZiMVdlTmVKU2NqQml4N1VDb054eEtfNA?oc=5</guid>
             <pubDate>Thu, 02 Apr 2026 22:52:35 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 耶稣受难节假期前忧虑挥之不去，华尔街收盘涨跌不一 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 耶稣受难节假期前忧虑挥之不去，华尔街收盘涨跌互现 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[说唱歌手 Pooh Shiesty 等 7 人被捕，被控抢劫、绑架 - reuters.com]]></title>
+            <title><![CDATA[说唱歌手 Pooh Shiesty 等 7 人被捕，被控抢劫、绑架 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1NDM3pHTzRyMElhbW1heWhJaDV6QzB2YjZzcFFvVW9KY05LbUJUcVNBMW1sOU1Rb0xEVXVaSWRQUWdwOEdTeHZUNWZVUVIwYXV6S01hakUxUVFOd1ctTDhDUFFHRmFIaWRUR0hfZHZRX19ubEFhc2wyV0EwdlNDN1I0LVRwVjdybnJzeFVYdW1VcDlubTVfRHRoaHVOWEJpVWtJQi1HOV9yN3dUYVQzMlBNQ3RfN0RWR1p2Z1kwODdVMUZWVk9n?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1NDM3pHTzRyMElhbW1heWhJaDV6QzB2YjZzcFFvVW9KY05LbUJUcVNBMW1sOU1Rb0xEVXVaSWRQUWdwOEdTeHZUNWZVUVIwYXV6S01hakUxUVFOd1ctTDhDUFFHRmFIaWRUR0hfZHZRX19ubEFhc2wyV0EwdlNDN1I0LVRwVjdybnJzeFVYdW1VcDlubTVfRHRoaHVOWEJpVWtJQi1HOV9yN3dUYVQzMlBNQ3RfN0RWR1p2Z1kwODdVMUZWVk9n?oc=5</guid>
             <pubDate>Thu, 02 Apr 2026 22:39:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 说唱歌手 Pooh Shiesty 等 7 人被捕，被控抢劫、绑架 reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 说唱歌手 Pooh Shiesty 等 7 人被捕，被控抢劫、绑架 路透]]></description>
         </item>
         <item>
             <title><![CDATA[国债因三月份就业人数走强而下跌：市场总结]]></title>
@@ -688,11 +695,11 @@
             <description><![CDATA[[Bloomberg] 3月份就业数据强于预期促使交易员削减降息押注后，美国国债下跌。 早些时候，亚洲股市上涨，因人们乐观地认为，尽管中东发生战争，但霍尔木兹海峡的航运将会增加。]]></description>
         </item>
         <item>
-            <title><![CDATA[巴西航空工业公司第一季度交付量增长 47% - reuters.com]]></title>
+            <title><![CDATA[巴西航空工业公司第一季度交付量增长 47% - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOWG1VT1F6S0xXSndzVWZSenFMU2FxS1JqZnhLQXpzZUhEWmFWcjU4clFveF9DWTRKdGZwbFhZNWpSUld4VHF3bldCNW9pelhVTUxlUEczaXVWNGJNV3MxRTR2cmc5UVhsaHgyb1pjZjRDSXhJb1FnYjRxZzhJUFdEMHRGTmM0c0JGUmgzNC1YSWNBWWpmRG4wWkppRTJ2OENYNUt4VXdTdm5QVU83U2JTRw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxOWG1VT1F6S0xXSndzVWZSenFMU2FxS1JqZnhLQXpzZUhEWmFWcjU4clFveF9DWTRKdGZwbFhZNWpSUld4VHF3bldCNW9pelhVTUxlUEczaXVWNGJNV3MxRTR2cmc5UVhsaHgyb1pjZjRDSXhJb1FnYjRxZzhJUFdEMHRGTmM0c0JGUmgzNC1YSWNBWWpmRG4wWkppRTJ2OENYNUt4VXdTdm5QVU83U2JTRw?oc=5</guid>
             <pubDate>Thu, 02 Apr 2026 22:05:45 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 巴西航空工业公司第一季度交付量增长 47% reuters.com]]></description>
+            <description><![CDATA[[Reuters Business] 巴西航空工业公司第一季度交付量增长 47% 路透]]></description>
         </item>
         <item>
             <title><![CDATA[伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压 - 华尔街见闻]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qc0I1UWRRTnBJSmNJQ0pwUFZ3NmtlYS1MWnFFQm84N1VXMU1Tc1RteExRV2tvWlp3cjlBaXhPRWplY1VhMzU0eXByc1I3bmV4S0lz?oc=5</guid>
             <pubDate>Thu, 02 Apr 2026 21:55:47 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独家：消息人士称，石油巨头对美国海湾深水油田股份表现出早期兴趣 - reuters.com]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXZmQ3lLbkJEQmxnd0lkSDZycFdTd0tMbXl4WEFpbU4zSFh2eU5GNXh6T2R2RGtGelQ2V3BnRDM2Tl9uRDVCa1gyMHlPVjM1cEZJUTcxdWpRMkN1OVViZWZVOXpCc2J4SHpLOVJyMXpmWk5YVWwzV1I2SF91QzFlemp0emQxWUY3c2JkVEprSjdTS0VNTzJsMXEzMFk0XzhRckdSS2NTRUdLNzVseFdXcnFUN0FZak1KY1B2OENaWEQ2UQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXZmQ3lLbkJEQmxnd0lkSDZycFdTd0tMbXl4WEFpbU4zSFh2eU5GNXh6T2R2RGtGelQ2V3BnRDM2Tl9uRDVCa1gyMHlPVjM1cEZJUTcxdWpRMkN1OVViZWZVOXpCc2J4SHpLOVJyMXpmWk5YVWwzV1I2SF91QzFlemp0emQxWUY3c2JkVEprSjdTS0VNTzJsMXEzMFk0XzhRckdSS2NTRUdLNzVseFdXcnFUN0FZak1KY1B2OENaWEQ2UQ?oc=5</guid>
-            <pubDate>Thu, 02 Apr 2026 21:55:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家：消息人士称，石油巨头对美国海湾深水油田股份表现出早期兴趣]]></description>
         </item>
     </channel>
 </rss>
