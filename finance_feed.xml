@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 03 Apr 2026 21:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 22:44:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -21,6 +21,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3297448</guid>
             <pubDate>Fri, 03 Apr 2026 21:20:19 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[私人信贷部门面临的压力可能是灾难性的，但现在还不是时候 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGQ3OXNUcENwVE9OS2JtMlJfeEpUNlctTlRiMk4zdHotSlRpOVhUdnlEbnhaSms4T3BNWXdEOVp6c0k0b0FlUTUyMlN4VzNWTWhqQjVnV0N4MUxoaFFXaTlmWUUwTTZaQUprdGE1WjVKV3AyT0NZT2VKaG5WU1V5Q3JsX1hxWDA1TWppZGNQUEQ4MFprLS1JWnU3S05pR0JUZWlqM3luZHFUU1BaOEdvOWVNTnBxOU41bGc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGQ3OXNUcENwVE9OS2JtMlJfeEpUNlctTlRiMk4zdHotSlRpOVhUdnlEbnhaSms4T3BNWXdEOVp6c0k0b0FlUTUyMlN4VzNWTWhqQjVnV0N4MUxoaFFXaTlmWUUwTTZaQUprdGE1WjVKV3AyT0NZT2VKaG5WU1V5Q3JsX1hxWDA1TWppZGNQUEQ4MFprLS1JWnU3S05pR0JUZWlqM3luZHFUU1BaOEdvOWVNTnBxOU41bGc?oc=5</guid>
+            <pubDate>Fri, 03 Apr 2026 20:53:43 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 私人信贷部门面临的压力可能是灾难性的，但现在还不是时候 路透]]></description>
         </item>
         <item>
             <title><![CDATA[这些图表显示 3 月份就业增长的大部分集中在少数几个行业]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1NDM3pHTzRyMElhbW1heWhJaDV6QzB2YjZzcFFvVW9KY05LbUJUcVNBMW1sOU1Rb0xEVXVaSWRQUWdwOEdTeHZUNWZVUVIwYXV6S01hakUxUVFOd1ctTDhDUFFHRmFIaWRUR0hfZHZRX19ubEFhc2wyV0EwdlNDN1I0LVRwVjdybnJzeFVYdW1VcDlubTVfRHRoaHVOWEJpVWtJQi1HOV9yN3dUYVQzMlBNQ3RfN0RWR1p2Z1kwODdVMUZWVk9n?oc=5</guid>
             <pubDate>Thu, 02 Apr 2026 22:39:43 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 说唱歌手 Pooh Shiesty 等 7 人被捕，被控抢劫、绑架 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国债因三月份就业人数走强而下跌：市场总结]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-02/asian-equities-may-open-higher-after-us-rebound-markets-wrap</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-02/asian-equities-may-open-higher-after-us-rebound-markets-wrap</guid>
-            <pubDate>Thu, 02 Apr 2026 22:29:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 3月份就业数据强于预期促使交易员削减降息押注后，美国国债下跌。 早些时候，亚洲股市上涨，因人们乐观地认为，尽管中东发生战争，但霍尔木兹海峡的航运将会增加。]]></description>
         </item>
     </channel>
 </rss>
