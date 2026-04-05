@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 05 Apr 2026 09:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 10:30:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[A股一季度新股盘点：首日上市平均上涨164%，沪深新股单签均赚2.7万元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3297881</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3297881</guid>
+            <pubDate>Sun, 05 Apr 2026 10:05:39 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[各国央行都担心自己最后一个错误：在疫情后的繁荣时期加息的时间太长。 但那次繁荣和这次石油危机是有区别的。]]></title>
             <link>https://www.wsj.com/economy/central-banking/pain-at-the-pump-should-mean-pain-in-the-economy-not-higher-rates-02fbd9ba</link>
@@ -48,7 +55,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say</guid>
             <pubDate>Sun, 05 Apr 2026 07:30:21 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] OPEC+ 成员国计划提高 5 月份的生产配额，这是一个象征性举措，因为中东冲突限制了该联盟几个最大成员国的生产和发货。]]></description>
+            <description><![CDATA[[Bloomberg] OPEC+成员国计划提高5月份的生产配额，这是一个具有象征意义的举措，因为中东冲突限制了该联盟几个最大成员国的产量和出货量。]]></description>
         </item>
         <item>
             <title><![CDATA[中物联：3月中国大宗商品价格指数（CBPI）为129.9点 环比上涨4%]]></title>
@@ -184,13 +191,6 @@
             <description><![CDATA[[Reuters Business] 埃及在能源危机中提高高用量家庭和企业的电价 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3297748</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3297748</guid>
-            <pubDate>Sat, 04 Apr 2026 21:20:18 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[伊朗战争以来美国通胀首次出现飙升]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-04/us-inflation-seen-spiking-in-first-snapshot-since-iran-war</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-04/us-inflation-seen-spiking-in-first-snapshot-since-iran-war</guid>
@@ -275,11 +275,11 @@
             <description><![CDATA[[Reuters Business] 肯尼亚燃料高管因政府调查供应链违规行为而辞职 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[新一轮打击金融“黑灰产”启动 纳入非法网贷平台和助贷机构 - 财新网]]></title>
+            <title><![CDATA[新一轮打击金融“黑灰产”启动 纳入非法网贷平台和助贷机构 - finance.caixin.com]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xX0tQalcxQnVwS013S1VxcEFzUGpJdG00dzhORGZvRkQyY3B3M3NmRG03bE5XQnlVbW90bWU2bHdrYmZrckV4QXpzWXdBQVVObXF0UnN1YUZHeW13bXd4VVhB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xX0tQalcxQnVwS013S1VxcEFzUGpJdG00dzhORGZvRkQyY3B3M3NmRG03bE5XQnlVbW90bWU2bHdrYmZrckV4QXpzWXdBQVVObXF0UnN1YUZHeW13bXd4VVhB?oc=5</guid>
             <pubDate>Sat, 04 Apr 2026 14:17:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 新一轮打击金融“黑灰产”启动 纳入非法网贷平台和助贷机构  财新网]]></description>
+            <description><![CDATA[[财新网] 新一轮打击金融“黑灰产”启动 纳入非法网贷平台和助贷机构  finance.caixin.com]]></description>
         </item>
         <item>
             <title><![CDATA[印度七年来首次购买伊朗石油，没有出现付款问题 - 路透中文网]]></title>
