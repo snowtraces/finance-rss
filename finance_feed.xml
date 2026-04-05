@@ -4,16 +4,30 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 05 Apr 2026 22:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 22:59:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[油价上涨 特朗普发出新最后通牒并升级伊朗威胁]]></title>
+            <title><![CDATA[特朗普威胁升级对伊朗的袭击，金价下跌]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-05/gold-falls-as-trump-threatens-escalation-of-us-attacks-on-iran</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-05/gold-falls-as-trump-threatens-escalation-of-us-attacks-on-iran</guid>
+            <pubDate>Sun, 05 Apr 2026 22:14:55 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在美国总统唐纳德·特朗普加大威胁摧毁伊朗发电厂且德黑兰几乎没有迹象表明接受美国结束中东战争的要求后，金价下跌。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普发出新最后通牒并升级伊朗威胁，油价上涨]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-05/latest-oil-market-news-and-analysis-for-april-6</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-05/latest-oil-market-news-and-analysis-for-april-6</guid>
             <pubDate>Sun, 05 Apr 2026 22:02:56 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 唐纳德·特朗普总统对伊朗施加了新的最后期限，并升级威胁称，如果霍尔木兹海峡不重新开放，将袭击发电厂和其他基础设施，油价上涨。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国在伊朗的危险救援任务是如何差点偏离轨道的 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNZlB6OWpEQUtjb2V2MkhwVU1KYWRLSWpzT2tzUlVSMzdtUzNHekN4UHlVVmZUZjFGSzMwM0RSZGZfMjgyZkdoaG9kM2VsZzJXSUJuQlAzZjg0Zi1yN2hYTkxIRTFLRnhLaVYyZDhZbnpwTjM1Z25jdmc5U3JpUnk3V3B1OE9BUGlWTFdyYUhsTjJhTk9vMGk5Rk9JYUtPV2NzMVhTSGVFRldXT2Z5SEhCSGQ0LW9IQVVaYjQtekdn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNZlB6OWpEQUtjb2V2MkhwVU1KYWRLSWpzT2tzUlVSMzdtUzNHekN4UHlVVmZUZjFGSzMwM0RSZGZfMjgyZkdoaG9kM2VsZzJXSUJuQlAzZjg0Zi1yN2hYTkxIRTFLRnhLaVYyZDhZbnpwTjM1Z25jdmc5U3JpUnk3V3B1OE9BUGlWTFdyYUhsTjJhTk9vMGk5Rk9JYUtPV2NzMVhTSGVFRldXT2Z5SEhCSGQ0LW9IQVVaYjQtekdn?oc=5</guid>
+            <pubDate>Sun, 05 Apr 2026 21:22:46 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国在伊朗的一次危险救援任务是如何险些偏离轨道的 路透]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
@@ -21,13 +35,6 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3297942</guid>
             <pubDate>Sun, 05 Apr 2026 21:20:16 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国在伊朗的危险救援任务是如何差点偏离轨道的 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNZlB6OWpEQUtjb2V2MkhwVU1KYWRLSWpzT2tzUlVSMzdtUzNHekN4UHlVVmZUZjFGSzMwM0RSZGZfMjgyZkdoaG9kM2VsZzJXSUJuQlAzZjg0Zi1yN2hYTkxIRTFLRnhLaVYyZDhZbnpwTjM1Z25jdmc5U3JpUnk3V3B1OE9BUGlWTFdyYUhsTjJhTk9vMGk5Rk9JYUtPV2NzMVhTSGVFRldXT2Z5SEhCSGQ0LW9IQVVaYjQtekdn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNZlB6OWpEQUtjb2V2MkhwVU1KYWRLSWpzT2tzUlVSMzdtUzNHekN4UHlVVmZUZjFGSzMwM0RSZGZfMjgyZkdoaG9kM2VsZzJXSUJuQlAzZjg0Zi1yN2hYTkxIRTFLRnhLaVYyZDhZbnpwTjM1Z25jdmc5U3JpUnk3V3B1OE9BUGlWTFdyYUhsTjJhTk9vMGk5Rk9JYUtPV2NzMVhTSGVFRldXT2Z5SEhCSGQ0LW9IQVVaYjQtekdn?oc=5</guid>
-            <pubDate>Sun, 05 Apr 2026 21:05:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国在伊朗的一次危险救援任务是如何险些偏离轨道的 路透]]></description>
         </item>
         <item>
             <title><![CDATA[去银行化是一场令人困惑的噩梦。 情况有变得更糟的风险]]></title>
@@ -324,13 +331,6 @@
             <description><![CDATA[[Bloomberg] 科威特石油部门从夜间到周日遭受了新一轮袭击，无人机袭击导致炼油部门和石化工厂的运营设施起火，而几小时前，该国能源总部被无人机点燃。]]></description>
         </item>
         <item>
-            <title><![CDATA[消息人士称，遭受攻击的俄罗斯石油码头已连续第二周无法接收货物 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3h1MnVBMDZwZHdXb1NCVHFoeGNRVDR2eWdtT2hhU2dZY0l6eUItdVFiTXcxcXBjYVZYS2NfaHN3NE5XZ0NlX1BQRGFpYVVqVmZBTXE5ZEdRNGJjWVliNWRWcjd4ckhBQk9pa0d5T213OW43elNtWkVqcV8yT3hSUjU1MWE3N1hCSzZVRXBtdWNyS0xrMzhEa0JSZGlzRGdaYnFlRS1SVkhoWFo1NFJTZEV3ajhYU3ZrNVlKMjVmdzE2LVdvNHBJekl3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3h1MnVBMDZwZHdXb1NCVHFoeGNRVDR2eWdtT2hhU2dZY0l6eUItdVFiTXcxcXBjYVZYS2NfaHN3NE5XZ0NlX1BQRGFpYVVqVmZBTXE5ZEdRNGJjWVliNWRWcjd4ckhBQk9pa0d5T213OW43elNtWkVqcV8yT3hSUjU1MWE3N1hCSzZVRXBtdWNyS0xrMzhEa0JSZGlzRGdaYnFlRS1SVkhoWFo1NFJTZEV3ajhYU3ZrNVlKMjVmdzE2LVdvNHBJekl3?oc=5</guid>
-            <pubDate>Sat, 04 Apr 2026 22:53:54 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 消息人士称，遭受攻击的俄罗斯石油码头连续第二周无法接收货物 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国营救飞行员并发誓如果海峡继续关闭，伊朗将陷入“地狱” - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTZTQzJkN0xHZUhpanpfYlJFMmM5aFgtUjRzemtaM2lMdXoxU1FfSlQ1elhWM0VySktNQ0puRWJQTkpvR2pRcWhsXzg0RHpENnpxdzJpN1VpNEIzVnNuNWNpZHptUW1WcDZ1aXJwZjJDdFNxc1BoUDZWZTBfaUJtWC1RcXBhT1gtYzdaTkhNV0tmT2laNTZHejk0UFJJYjJFREpHVG1IcHI2WlI5Z0xVOFBfTVZSUlR3VjJ2SzhlS2pKQUxpNkJNTXRCeTJqR1JjZ08wWWxB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTZTQzJkN0xHZUhpanpfYlJFMmM5aFgtUjRzemtaM2lMdXoxU1FfSlQ1elhWM0VySktNQ0puRWJQTkpvR2pRcWhsXzg0RHpENnpxdzJpN1VpNEIzVnNuNWNpZHptUW1WcDZ1aXJwZjJDdFNxc1BoUDZWZTBfaUJtWC1RcXBhT1gtYzdaTkhNV0tmT2laNTZHejk0UFJJYjJFREpHVG1IcHI2WlI5Z0xVOFBfTVZSUlR3VjJ2SzhlS2pKQUxpNkJNTXRCeTJqR1JjZ08wWWxB?oc=5</guid>
@@ -513,13 +513,6 @@
             <description><![CDATA[[WSJ] 劳动力市场正在保持稳定，但经济重新加速的充满希望的故事已经让位于一个更狭隘的问题：伊朗战争将造成多大损害？]]></description>
         </item>
         <item>
-            <title><![CDATA[Telegram 杜罗夫称俄罗斯通过屏蔽 VPN 引发支付系统问题 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmJOQ0lYR2RQVmw4dG1rZFl5azQ0MC1LUlhlNGRJMGt0cFpaSFpDczF3bUl5VVpWeEJDdk8wUDgwRmFhQmJ2bjBFU1dFZEV6MFBXWDkzbjRXVFEzMjE4WXdtTHZTaXZmV0ExWFVNcFIxem9EZlNNc3MyYXR1Q2pCbmRBVUtKMmk4cEYyQjNCMGVNTG95RHFmaTRjX3NEMFdGN3pzamFFdHVKTG96NWVYVFFQWm80U2hPa1pWU185UQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmJOQ0lYR2RQVmw4dG1rZFl5azQ0MC1LUlhlNGRJMGt0cFpaSFpDczF3bUl5VVpWeEJDdk8wUDgwRmFhQmJ2bjBFU1dFZEV6MFBXWDkzbjRXVFEzMjE4WXdtTHZTaXZmV0ExWFVNcFIxem9EZlNNc3MyYXR1Q2pCbmRBVUtKMmk4cEYyQjNCMGVNTG95RHFmaTRjX3NEMFdGN3pzamFFdHVKTG96NWVYVFFQWm80U2hPa1pWU185UQ?oc=5</guid>
-            <pubDate>Sat, 04 Apr 2026 09:24:57 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Telegram 的杜罗夫称俄罗斯通过阻止 VPN 引发了支付系统问题 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[台湾称其对来自“主要”国家的液化天然气供应有保证 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0Y4VWlDS0w0SlRFQ3RfbE5CaS1TSjJoVGRBLVhBakxJX2g5QWtpSk0zRHZLbXZMVzlZUklZR3JzTDVSbm9nZnUzQUl1WmRfc2NxODBhSjlRN1NHTEVoUnVjN3IzWF9ZdW9VMmVLcWlkbUtueWJrUXo3cjNtMG8wNDkxN0EyaU1JT3M5MExtSVZzOURRMW85eEZSQnVQYVdJSVpkZzEwdXNoV25NeGZTQjRoWQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0Y4VWlDS0w0SlRFQ3RfbE5CaS1TSjJoVGRBLVhBakxJX2g5QWtpSk0zRHZLbXZMVzlZUklZR3JzTDVSbm9nZnUzQUl1WmRfc2NxODBhSjlRN1NHTEVoUnVjN3IzWF9ZdW9VMmVLcWlkbUtueWJrUXo3cjNtMG8wNDkxN0EyaU1JT3M5MExtSVZzOURRMW85eEZSQnVQYVdJSVpkZzEwdXNoV25NeGZTQjRoWQ?oc=5</guid>
@@ -548,13 +541,6 @@
             <description><![CDATA[[Bloomberg] 乌克兰表示，它连夜袭击了俄罗斯的一家氮肥厂，而克里姆林宫的部队则瞄准了乌克兰的几个地区，其中包括对第聂伯罗彼得罗夫斯克的致命袭击，因为战争没有任何放缓的迹象。]]></description>
         </item>
         <item>
-            <title><![CDATA[德国等国敦促欧盟对能源暴利征税]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-04/five-eu-states-call-for-energy-windfall-profit-tax-reuters-says</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-04/five-eu-states-call-for-energy-windfall-profit-tax-reuters-says</guid>
-            <pubDate>Sat, 04 Apr 2026 07:49:39 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 五名欧盟成员国敦促欧盟对能源公司因美以对伊朗战争而获得的暴利征税。]]></description>
-        </item>
-        <item>
             <title><![CDATA[由于伊朗战争石油冲击公共财政，塞内加尔禁止政府旅行 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVNNb1hNSDhiNEUtWko0RTJ3SjZOYnhRNE9yV2dJWXJPOVdFc1pKZ3lvTXlTQ0FsYmhzMUhpLVlhWDFDM201MktsNS1NbzFKa3VqTi01UnBpd0kyWWs2NkszRG1jc241dFEyYWJLT0Q0WUVJQnJuYWdFR054RzF0RUstVHlxNEVDSnBaeWxKMFF0aDBELXV6SHhwTkxFTXhmWXZENXFISVJRRDB1azZrOGg3eE1CeFhQVE5JLU54RQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVNNb1hNSDhiNEUtWko0RTJ3SjZOYnhRNE9yV2dJWXJPOVdFc1pKZ3lvTXlTQ0FsYmhzMUhpLVlhWDFDM201MktsNS1NbzFKa3VqTi01UnBpd0kyWWs2NkszRG1jc241dFEyYWJLT0Q0WUVJQnJuYWdFR054RzF0RUstVHlxNEVDSnBaeWxKMFF0aDBELXV6SHhwTkxFTXhmWXZENXFISVJRRDB1azZrOGg3eE1CeFhQVE5JLU54RQ?oc=5</guid>
@@ -574,6 +560,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UNm5aSC1va1VmZXdpcWJuNHZnTWg1dFVmVElCenZXRElsMGwzTzhESE0ybkNlS0pHVHRZTjFGOE80TFQ4Y0p6dzItX3ZpaHZIWUlN?oc=5</guid>
             <pubDate>Sat, 04 Apr 2026 06:58:43 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 威震伦敦金融城的“空头”：曾拒绝Ken Griffin、如今35岁掌管200亿美元  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Telegram 杜罗夫称俄罗斯通过屏蔽 VPN 引发支付系统问题 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmJOQ0lYR2RQVmw4dG1rZFl5azQ0MC1LUlhlNGRJMGt0cFpaSFpDczF3bUl5VVpWeEJDdk8wUDgwRmFhQmJ2bjBFU1dFZEV6MFBXWDkzbjRXVFEzMjE4WXdtTHZTaXZmV0ExWFVNcFIxem9EZlNNc3MyYXR1Q2pCbmRBVUtKMmk4cEYyQjNCMGVNTG95RHFmaTRjX3NEMFdGN3pzamFFdHVKTG96NWVYVFFQWm80U2hPa1pWU185UQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmJOQ0lYR2RQVmw4dG1rZFl5azQ0MC1LUlhlNGRJMGt0cFpaSFpDczF3bUl5VVpWeEJDdk8wUDgwRmFhQmJ2bjBFU1dFZEV6MFBXWDkzbjRXVFEzMjE4WXdtTHZTaXZmV0ExWFVNcFIxem9EZlNNc3MyYXR1Q2pCbmRBVUtKMmk4cEYyQjNCMGVNTG95RHFmaTRjX3NEMFdGN3pzamFFdHVKTG96NWVYVFFQWm80U2hPa1pWU185UQ?oc=5</guid>
+            <pubDate>Sat, 04 Apr 2026 06:07:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Telegram 的杜罗夫称俄罗斯通过阻止 VPN 引发了支付系统问题 路透]]></description>
         </item>
         <item>
             <title><![CDATA[消息人士称，无人机袭击伊拉克北鲁迈拉油田，造成三名工人受伤 - 路透中文网]]></title>
@@ -637,6 +630,13 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/jobs/breaking-down-the-booming-march-jobs-report-a11a31c7</guid>
             <pubDate>Fri, 03 Apr 2026 20:09:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 医疗保健继续推动就业增长，三月份较好的天气也有所帮助。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，遭受攻击的俄罗斯石油码头已连续第二周无法接收货物 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3h1MnVBMDZwZHdXb1NCVHFoeGNRVDR2eWdtT2hhU2dZY0l6eUItdVFiTXcxcXBjYVZYS2NfaHN3NE5XZ0NlX1BQRGFpYVVqVmZBTXE5ZEdRNGJjWVliNWRWcjd4ckhBQk9pa0d5T213OW43elNtWkVqcV8yT3hSUjU1MWE3N1hCSzZVRXBtdWNyS0xrMzhEa0JSZGlzRGdaYnFlRS1SVkhoWFo1NFJTZEV3ajhYU3ZrNVlKMjVmdzE2LVdvNHBJekl3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3h1MnVBMDZwZHdXb1NCVHFoeGNRVDR2eWdtT2hhU2dZY0l6eUItdVFiTXcxcXBjYVZYS2NfaHN3NE5XZ0NlX1BQRGFpYVVqVmZBTXE5ZEdRNGJjWVliNWRWcjd4ckhBQk9pa0d5T213OW43elNtWkVqcV8yT3hSUjU1MWE3N1hCSzZVRXBtdWNyS0xrMzhEa0JSZGlzRGdaYnFlRS1SVkhoWFo1NFJTZEV3ajhYU3ZrNVlKMjVmdzE2LVdvNHBJekl3?oc=5</guid>
+            <pubDate>Fri, 03 Apr 2026 19:59:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 消息人士称，遭受攻击的俄罗斯石油码头连续第二周无法接收货物 路透]]></description>
         </item>
         <item>
             <title><![CDATA[据《纽约时报》报道，马斯克要求 SpaceX IPO 银行购买 Grok AI 订阅服务 - 路透中文网]]></title>
