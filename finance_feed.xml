@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 05 Apr 2026 04:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 06:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[意大利因供应短缺而在部分机场设置航空燃油限制]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-05/italy-sets-jet-fuel-limits-at-some-airports-on-supply-shortage</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-05/italy-sets-jet-fuel-limits-at-some-airports-on-supply-shortage</guid>
+            <pubDate>Sun, 05 Apr 2026 05:03:49 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于中东冲突几乎没有结束的迹象，意大利的几个机场发布了未来几天燃油供应有限的警告。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Danantara 以 1.59 亿美元的交易推进资产管理公司合并]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-05/danantara-advances-asset-manager-merger-with-159-million-deal</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-05/danantara-advances-asset-manager-merger-with-159-million-deal</guid>
+            <pubDate>Sun, 05 Apr 2026 05:00:26 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 印度尼西亚主权财富基金正在推进一项计划，合并国有银行的资产管理部门，以提高其区域竞争力。]]></description>
+        </item>
         <item>
             <title><![CDATA[伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3297816</link>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaWVpX0dXT1FGS3JlVk5oWmt1cWYzVm1WYWFkWlpxOWwzMHQ2VXdKd1NQM3Z4SmpMZ3ItVDhuSEhhaW5sRXUweWoxQUZWbktfc3VOQVgtaWpOWC1yQ29uejIyWEctbkZuTW4wQ3hmSEhQWXVCSUNRcE9YbFNiT0RWTTlLb1NGR29LZWV1VktMaExfQkdfRVlTcWQyMXRoTFQzSGlNVVlaZVNKdEhWUVhybzYzc1otaXlWX2tRdGl2RklzeHpuOU9fOTJRMmZRZ001?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 13:21:31 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 汽车网站 Edmunds 测试了一款中国 SUV，称这应该让美国汽车制造商感到担忧 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Seedance 2.0 正式开放、120万亿tokens打底，火山引擎想要什么？ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsR29IWk1uZjhpQkRiQ09NVEtPNkd2X3ZIVWlndzNGYjJ1UGJUc18ySktTMEJNV3NWYUJScDBOVFM3N1VZRERmTUJPMEtMYldFVzE4?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsR29IWk1uZjhpQkRiQ09NVEtPNkd2X3ZIVWlndzNGYjJ1UGJUc18ySktTMEJNV3NWYUJScDBOVFM3N1VZRERmTUJPMEtMYldFVzE4?oc=5</guid>
-            <pubDate>Fri, 03 Apr 2026 13:11:58 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] Seedance 2.0 正式开放、120万亿tokens打底，火山引擎想要什么？  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[经济学家罗斯表示，劳动力市场“稳定，但波动很大”]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-03/labor-market-stable-with-a-lot-of-volatility-economist-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-03/labor-market-stable-with-a-lot-of-volatility-economist-video</guid>
-            <pubDate>Fri, 03 Apr 2026 13:05:50 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 沃尔夫研究公司（Wolfe Research）首席经济学家斯蒂芬妮·罗斯（Stephanie Roth）对美国 3 月份就业报告做出了反应，该报告显示，由于本月招聘超出预期，失业率降至 4.3%。  （来源：彭博社）]]></description>
         </item>
     </channel>
 </rss>
