@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 05 Apr 2026 17:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 17:57:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -98,6 +98,13 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-05/chinese-bonds-near-inflection-point-as-inflation-outlook-shifts</guid>
             <pubDate>Sun, 05 Apr 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 中国债券可能正面临一个历史转折点，随着通货紧缩压力缓解和货币宽松预期消退，收益率将从历史低位攀升。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国AI热潮点燃资本市场，港股Q1融资规模创五年新高 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTFNhSHJlMDVudmVEZkhRVFo0ZkpUTmJ0S19SSHVkMWZpRGFvN0RaQlBnUWdsOXpWaDBESy1TdFhtSUhVV21WUUptZzNVUk1SNU1z?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXTFNhSHJlMDVudmVEZkhRVFo0ZkpUTmJ0S19SSHVkMWZpRGFvN0RaQlBnUWdsOXpWaDBESy1TdFhtSUhVV21WUUptZzNVUk1SNU1z?oc=5</guid>
+            <pubDate>Sun, 05 Apr 2026 11:35:31 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 中国AI热潮点燃资本市场，港股Q1融资规模创五年新高  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[微软谷歌争相与SK海力士签署长期DRAM协议，数十万亿韩元长约呼之欲出 - 华尔街见闻]]></title>
@@ -464,13 +471,6 @@
             <description><![CDATA[[WSJ] 劳动力市场正在保持稳定，但经济重新加速的充满希望的故事已经让位于一个更狭隘的问题：伊朗战争将造成多大损害？]]></description>
         </item>
         <item>
-            <title><![CDATA[Telegram 杜罗夫称俄罗斯通过屏蔽 VPN 引发支付系统问题 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmJOQ0lYR2RQVmw4dG1rZFl5azQ0MC1LUlhlNGRJMGt0cFpaSFpDczF3bUl5VVpWeEJDdk8wUDgwRmFhQmJ2bjBFU1dFZEV6MFBXWDkzbjRXVFEzMjE4WXdtTHZTaXZmV0ExWFVNcFIxem9EZlNNc3MyYXR1Q2pCbmRBVUtKMmk4cEYyQjNCMGVNTG95RHFmaTRjX3NEMFdGN3pzamFFdHVKTG96NWVYVFFQWm80U2hPa1pWU185UQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmJOQ0lYR2RQVmw4dG1rZFl5azQ0MC1LUlhlNGRJMGt0cFpaSFpDczF3bUl5VVpWeEJDdk8wUDgwRmFhQmJ2bjBFU1dFZEV6MFBXWDkzbjRXVFEzMjE4WXdtTHZTaXZmV0ExWFVNcFIxem9EZlNNc3MyYXR1Q2pCbmRBVUtKMmk4cEYyQjNCMGVNTG95RHFmaTRjX3NEMFdGN3pzamFFdHVKTG96NWVYVFFQWm80U2hPa1pWU185UQ?oc=5</guid>
-            <pubDate>Sat, 04 Apr 2026 09:24:57 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Telegram 的杜罗夫称俄罗斯通过阻止 VPN 引发了支付系统问题 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[台湾称其对来自“主要”国家的液化天然气供应有保证 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0Y4VWlDS0w0SlRFQ3RfbE5CaS1TSjJoVGRBLVhBakxJX2g5QWtpSk0zRHZLbXZMVzlZUklZR3JzTDVSbm9nZnUzQUl1WmRfc2NxODBhSjlRN1NHTEVoUnVjN3IzWF9ZdW9VMmVLcWlkbUtueWJrUXo3cjNtMG8wNDkxN0EyaU1JT3M5MExtSVZzOURRMW85eEZSQnVQYVdJSVpkZzEwdXNoV25NeGZTQjRoWQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0Y4VWlDS0w0SlRFQ3RfbE5CaS1TSjJoVGRBLVhBakxJX2g5QWtpSk0zRHZLbXZMVzlZUklZR3JzTDVSbm9nZnUzQUl1WmRfc2NxODBhSjlRN1NHTEVoUnVjN3IzWF9ZdW9VMmVLcWlkbUtueWJrUXo3cjNtMG8wNDkxN0EyaU1JT3M5MExtSVZzOURRMW85eEZSQnVQYVdJSVpkZzEwdXNoV25NeGZTQjRoWQ?oc=5</guid>
@@ -532,6 +532,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UNm5aSC1va1VmZXdpcWJuNHZnTWg1dFVmVElCenZXRElsMGwzTzhESE0ybkNlS0pHVHRZTjFGOE80TFQ4Y0p6dzItX3ZpaHZIWUlN?oc=5</guid>
             <pubDate>Sat, 04 Apr 2026 06:58:43 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 威震伦敦金融城的“空头”：曾拒绝Ken Griffin、如今35岁掌管200亿美元  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Telegram 杜罗夫称俄罗斯通过屏蔽 VPN 引发支付系统问题 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmJOQ0lYR2RQVmw4dG1rZFl5azQ0MC1LUlhlNGRJMGt0cFpaSFpDczF3bUl5VVpWeEJDdk8wUDgwRmFhQmJ2bjBFU1dFZEV6MFBXWDkzbjRXVFEzMjE4WXdtTHZTaXZmV0ExWFVNcFIxem9EZlNNc3MyYXR1Q2pCbmRBVUtKMmk4cEYyQjNCMGVNTG95RHFmaTRjX3NEMFdGN3pzamFFdHVKTG96NWVYVFFQWm80U2hPa1pWU185UQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmJOQ0lYR2RQVmw4dG1rZFl5azQ0MC1LUlhlNGRJMGt0cFpaSFpDczF3bUl5VVpWeEJDdk8wUDgwRmFhQmJ2bjBFU1dFZEV6MFBXWDkzbjRXVFEzMjE4WXdtTHZTaXZmV0ExWFVNcFIxem9EZlNNc3MyYXR1Q2pCbmRBVUtKMmk4cEYyQjNCMGVNTG95RHFmaTRjX3NEMFdGN3pzamFFdHVKTG96NWVYVFFQWm80U2hPa1pWU185UQ?oc=5</guid>
+            <pubDate>Sat, 04 Apr 2026 06:07:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Telegram 的杜罗夫称俄罗斯通过阻止 VPN 引发了支付系统问题 路透]]></description>
         </item>
         <item>
             <title><![CDATA[消息人士称，无人机袭击伊拉克北鲁迈拉油田，造成三名工人受伤 - 路透中文网]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlnai1qck50QlpLN0ZTa2NxU3J6UWxXY1NYMjFJZURjVnRWRG5yUTRYVVFNdmJPWGExRF9ZYkRUenpxb01wcXRKRmpHX2ZrZDRsUnQ4SDJFWW95RVR4c1M2VUxvcGlBbElyd19pcW5PZlZTMGMzWURLazhQakxrMUY4b3YtaTd2cGhlWkZTenA4dDNncmxiRUdvbXNMWk5QRHE3NHlsTlZuc1loelVtamY3WGs1RG1VZzhSLUtGTmw5Vkk?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 15:10:45 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 参议员敦促特朗普禁止中国汽车制造商在美国生产汽车 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国新增就业岗位 17.8 万个，强于预期，表明今年早些时候的疲软只是暂时的低迷]]></title>
-            <link>https://www.wsj.com/economy/jobs/march-jobs-report-unemployment-dfd5d52f</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/jobs/march-jobs-report-unemployment-dfd5d52f</guid>
-            <pubDate>Fri, 03 Apr 2026 15:00:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 美国劳工部周五表示，美国 3 月份新增就业岗位 17.8 万个，远超预期。]]></description>
         </item>
     </channel>
 </rss>
