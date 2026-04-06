@@ -4,15 +4,106 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Mon, 06 Apr 2026 08:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 10:05:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[印度尼西亚股市收低；截至收盘印尼雅加达综合指数下跌0.92%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298164</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298164</guid>
-            <pubDate>Mon, 06 Apr 2026 08:30:17 GMT</pubDate>
+            <title><![CDATA[摩根大通首席执行官杰米戴蒙在致股东的年度信中警告称，如果利率开始上升，伊朗战争可能会推高通胀并进一步拖累金融市场]]></title>
+            <link>https://www.wsj.com/finance/jamie-dimon-warns-of-higher-inflation-interest-rates-from-iran-war-3cba4c12</link>
+            <guid isPermaLink="false">https://www.wsj.com/finance/jamie-dimon-warns-of-higher-inflation-interest-rates-from-iran-war-3cba4c12</guid>
+            <pubDate>Mon, 06 Apr 2026 10:00:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 摩根大通首席执行官表示，在长期冲突带来的经济风险依然存在的情况下，必须解决伊朗的威胁。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[霍尔木兹海峡不开一切免谈！八大产油国“象征性”增产难解史上最大原油供应中断]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298206</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298206</guid>
+            <pubDate>Mon, 06 Apr 2026 09:35:10 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[石油危机给全球经济带来压力]]></title>
+            <link>https://www.bloomberg.com/news/newsletters/2026-04-06/oil-shock-is-adding-stress-to-the-global-economy</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-04-06/oil-shock-is-adding-stress-to-the-global-economy</guid>
+            <pubDate>Mon, 06 Apr 2026 09:34:45 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 能源市场的压力已经达到了白热化的程度。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[《华尔街日报》花了一天时间聆听来自国家经济第一线——加油站的声音。 这是他们告诉我们的。]]></title>
+            <link>https://www.wsj.com/economy/gas-station-prices-louisiana-780019dd</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/gas-station-prices-louisiana-780019dd</guid>
+            <pubDate>Mon, 06 Apr 2026 09:30:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 我们花了一天的时间聆听来自国家经济第一线——加油站的声音。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[前华尔街交易员试图在 Milei 的阿根廷扭转困境]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-06/argentina-is-ripe-for-ex-wall-street-trader-hunting-for-m-a-returns</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-06/argentina-is-ripe-for-ex-wall-street-trader-hunting-for-m-a-returns</guid>
+            <pubDate>Mon, 06 Apr 2026 09:30:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在纽约为奥本海默公司和摩根士丹利从事证券交易多年后，埃斯特班·诺法尔对回报的追求让他回到了阿根廷。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[下周市场五大关注焦点]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298205</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298205</guid>
+            <pubDate>Mon, 06 Apr 2026 09:28:00 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利预计标普500不会创出新低]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298201</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298201</guid>
+            <pubDate>Mon, 06 Apr 2026 09:07:21 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[伊朗战争推高能源价格 欧盟警告各成员国：过度补贴或引发财政危机]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298191</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298191</guid>
+            <pubDate>Mon, 06 Apr 2026 09:05:25 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[万向钱潮(000559.SZ)发布2025年度业绩，归母净利润10.36亿元，增长8.89%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298190</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298190</guid>
+            <pubDate>Mon, 06 Apr 2026 09:05:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[深南电A(000037.SZ)下属公司拟投建中山市翠亨新区300MW/600MWh独立储能电站(二、三期)项目]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298189</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298189</guid>
+            <pubDate>Mon, 06 Apr 2026 09:05:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[艾迪药业(688488.SH)：抗艾滋病领域在研1类新药ACC085注射液将开展临床试验]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298188</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298188</guid>
+            <pubDate>Mon, 06 Apr 2026 09:05:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[广生堂(300436.SZ)：公司乙肝创新药尚处于在研阶段]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298187</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298187</guid>
+            <pubDate>Mon, 06 Apr 2026 09:05:10 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大西洋(600558.SH)发布2025年度业绩，归母净利润1.82亿元，增长17.56%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298173</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298173</guid>
+            <pubDate>Mon, 06 Apr 2026 08:35:12 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[海泰科(301022.SZ)筹划收购旭域股份相关事项 4月7日起停牌]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3298172</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298172</guid>
+            <pubDate>Mon, 06 Apr 2026 08:35:11 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -21,55 +112,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXBzR1pzeXE3NFg4NmcwM3EzeVh1LUQzSDJXYy1PMldhTVQ3T0RnSTBJbUdOME9ZSnJNa2liZHpCUkl1aUVoTzNKMkVUWDV2aEFtNFBWUFE2akgxUkhsU3NGQ25nM1FkNmdMcTdhZ3hmQVYyNm5TWnFnRUhHV2xLZmRDUDdHcnB3MXBROFlTM2VZV0hqcmc0WVZjYWRCRjlFVFBBa085aFd0Ym5JOFQ1R3FzdDB1SDRGWVVBUTRfeGUtUQ?oc=5</guid>
             <pubDate>Mon, 06 Apr 2026 08:20:45 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 官员称，俄罗斯高级指挥官在三月空难中丧生 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yardeni Research看好当前股市估值水平]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298165</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298165</guid>
-            <pubDate>Mon, 06 Apr 2026 08:17:39 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[研学游订单翻倍！春假搅动清明节旅游市场 节后有望热度延续]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298148</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298148</guid>
-            <pubDate>Mon, 06 Apr 2026 08:05:29 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[红板科技(603459.SH)将于4月8日在上交所主板上市]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298147</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298147</guid>
-            <pubDate>Mon, 06 Apr 2026 08:05:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国核电(601985.SH)：浙江金七门核电站2号机组浇筑核岛第一罐混凝土]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298146</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298146</guid>
-            <pubDate>Mon, 06 Apr 2026 08:05:12 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国核电(601985.SH)一季度累计商运发电量581.09亿千瓦时]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298145</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298145</guid>
-            <pubDate>Mon, 06 Apr 2026 08:05:12 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日本央行“打太极”！地区报告提及双重风险 4月加息悬念犹存]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298144</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298144</guid>
-            <pubDate>Mon, 06 Apr 2026 08:05:12 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[福田汽车(600166.SH)3月份汽车产品合计销量8.68万辆]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298143</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298143</guid>
-            <pubDate>Mon, 06 Apr 2026 08:05:11 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[吉娜·雷蒙多谈欧洲工业如何被压垮]]></title>
@@ -86,25 +128,11 @@
             <description><![CDATA[[Bloomberg] ]]></description>
         </item>
         <item>
-            <title><![CDATA[高盛将奈飞评级上调至买入,称"当前水平风险回报更为积极"]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298139</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298139</guid>
-            <pubDate>Mon, 06 Apr 2026 07:51:24 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[特斯拉 3 月份韩国销量增长逾 300% 至 11,134 辆 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0QzV3NWLWhlSHBzSG53T3pzTXhYRF9TS1JDMEkyb1lsU2tWNHNYNDdTNjFoSUM4aHhaVV9KYjRwTWxsT0hvWWtjYlVVcUpGRTgyS1NQeFpzbWhaZk5TNEZYVG1PeTBUU1hPNnhsQ3YwT2hqeHRaNW1FOGJJMGJ1NmJXaERtYlpVblJqWTA1UmhJTG5mSWdRNkNwS1J5MzFoQldhTzZoS3RZMHFJRTltRXNMRUpUTmxOS2QxMjY3RFNidkFpQU9JVg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0QzV3NWLWhlSHBzSG53T3pzTXhYRF9TS1JDMEkyb1lsU2tWNHNYNDdTNjFoSUM4aHhaVV9KYjRwTWxsT0hvWWtjYlVVcUpGRTgyS1NQeFpzbWhaZk5TNEZYVG1PeTBUU1hPNnhsQ3YwT2hqeHRaNW1FOGJJMGJ1NmJXaERtYlpVblJqWTA1UmhJTG5mSWdRNkNwS1J5MzFoQldhTzZoS3RZMHFJRTltRXNMRUpUTmxOS2QxMjY3RFNidkFpQU9JVg?oc=5</guid>
             <pubDate>Mon, 06 Apr 2026 07:44:21 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 特斯拉 3 月份韩国销量增长逾 300%，达到 11,134 辆 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3298126</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3298126</guid>
-            <pubDate>Mon, 06 Apr 2026 07:35:30 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[美国宇航局数据显示，俄罗斯重要的黑海石油码头着火]]></title>
@@ -125,14 +153,14 @@
             <link>https://www.bloomberg.com/news/articles/2026-04-06/major-fertilizer-buyer-india-issues-tender-as-war-hits-supply</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-06/major-fertilizer-buyer-india-issues-tender-as-war-hits-supply</guid>
             <pubDate>Mon, 06 Apr 2026 06:42:13 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于中东冲突扰乱了国内生产，导致供应紧张，全球最大的尿素进口国印度正寻求在季风播种季节之前购买约 250 万吨主要作物养分。]]></description>
+            <description><![CDATA[[Bloomberg] 由于中东冲突扰乱了国内生产，导致供应紧张，全球最大的尿素进口国印度计划在季风播种季节之前购买约 250 万吨主要作物养分。]]></description>
         </item>
         <item>
             <title><![CDATA[战争颠覆市场，沙特提高亚洲石油溢价至创纪录水平]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-06/saudis-raise-oil-price-to-record-premium-as-war-riles-markets</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-06/saudis-raise-oil-price-to-record-premium-as-war-riles-markets</guid>
             <pubDate>Mon, 06 Apr 2026 05:55:07 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着波斯湾冲突的扩大和伊朗接近关闭霍尔木兹海峡震动能源市场，沙特阿拉伯已将其主要石油等级的价格提高到创纪录的高溢价。]]></description>
+            <description><![CDATA[[Bloomberg] 随着中东冲突的扩大和伊朗接近关闭霍尔木兹海峡震动能源市场，沙特阿拉伯将其主要石油等级的亚洲价格提高到创纪录的高溢价。]]></description>
         </item>
         <item>
             <title><![CDATA[伊朗停火报告推动新兴市场股市和货币上涨]]></title>
@@ -205,13 +233,6 @@
             <description><![CDATA[[Bloomberg] 市场有很多值得权衡的因素，但乐观情绪在复活节周末受到了打击。]]></description>
         </item>
         <item>
-            <title><![CDATA[最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nVGpkejN6Um5jbUFLTmF4OHpxaUpzWFBrcDBjUlJJbmhleTBGOGhOVEZsT0Nkb1RZZzlXbmZJMHBnd0poS0JuTGlWekprQXc3NjNR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nVGpkejN6Um5jbUFLTmF4OHpxaUpzWFBrcDBjUlJJbmhleTBGOGhOVEZsT0Nkb1RZZzlXbmZJMHBnd0poS0JuTGlWekprQXc3NjNR?oc=5</guid>
-            <pubDate>Mon, 06 Apr 2026 04:02:09 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量  华尔街见闻]]></description>
-        </item>
-        <item>
             <title><![CDATA[伊朗战争可能永久重塑全球能源安全]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-06/podcast-the-iran-war-may-be-permanently-rewiring-global-energy-security</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-06/podcast-the-iran-war-may-be-permanently-rewiring-global-energy-security</guid>
@@ -219,11 +240,11 @@
             <description><![CDATA[[Bloomberg] 剑桥大学教授海伦·汤普森警告说，美以袭击伊朗引发的能源中断暴露了深层的脆弱性。]]></description>
         </item>
         <item>
-            <title><![CDATA[美国和伊朗收到和平建议，特朗普发誓如果海峡继续关闭“地狱” - 路透中文网]]></title>
+            <title><![CDATA[特朗普的“地狱”警告临近最后期限，美国和伊朗正在权衡和平计划 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1NVOGlScVVMZU1ST3hlMjZVOXJCVkNsN0t6YmM2aDd0SUdDT1NWVVdhTEY2RXNVYUlxUzV5ZXJiMlJEWTZjRFBIZ0Z4N2pKeFU1SnV3czNuOGpJY1dOMGVwZnlvbWRTd0dycEQwekU4YllaZV85c3B2UUZHRlN0eUVIQkpaTXVRSDdLR1U1UjUtUG01SUI5WENsamJuWjZYdjRpU0VYYnlJVFdna09pbFpSVllVOEk3SGFaR2g4WlRmbW5J?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNb1NVOGlScVVMZU1ST3hlMjZVOXJCVkNsN0t6YmM2aDd0SUdDT1NWVVdhTEY2RXNVYUlxUzV5ZXJiMlJEWTZjRFBIZ0Z4N2pKeFU1SnV3czNuOGpJY1dOMGVwZnlvbWRTd0dycEQwekU4YllaZV85c3B2UUZHRlN0eUVIQkpaTXVRSDdLR1U1UjUtUG01SUI5WENsamJuWjZYdjRpU0VYYnlJVFdna09pbFpSVllVOEk3SGFaR2g4WlRmbW5J?oc=5</guid>
             <pubDate>Mon, 06 Apr 2026 03:41:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国和伊朗收到和平建议，特朗普发誓如果海峡继续关闭，“地狱” 路透]]></description>
+            <description><![CDATA[[Reuters Business] 特朗普的“地狱”警告临近最后期限，美国和伊朗正在权衡和平计划 路透]]></description>
         </item>
         <item>
             <title><![CDATA[韩国李明博表示，霍尔木兹海峡中断威胁石油供应，韩国必须平衡风险 - 路透中文网]]></title>
@@ -293,7 +314,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-04-05/latest-oil-market-news-and-analysis-for-april-6</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-05/latest-oil-market-news-and-analysis-for-april-6</guid>
             <pubDate>Sun, 05 Apr 2026 22:02:56 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 油价波动，因交易商追踪报道称推动中东停火、唐纳德·特朗普总统就伊朗问题发出的新最后通牒（如果霍尔木兹海峡不重新开放）以及沙特原油定价创纪录。]]></description>
+            <description><![CDATA[[Bloomberg] 油价从上涨转为下跌，交易员权衡了据报道推动中东停火与美国总统唐纳德·特朗普要求伊朗重新开放霍尔木兹海峡的新最后通牒。]]></description>
         </item>
         <item>
             <title><![CDATA[美国在伊朗的危险救援任务是如何差点偏离轨道的 - 路透中文网]]></title>
@@ -350,20 +371,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-05/by-the-way-headlines-you-should-see-video</guid>
             <pubDate>Sun, 05 Apr 2026 15:01:24 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 顺便了解 AI Coworker、EMS、津巴布韦豪华住宅以及所有头条新闻。 丽莎·马特奥 (Lisa Mateo)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和乔·马蒂厄 (Joe Mathieu) 深入探讨您可能错过的彭博本周末头条新闻。 在这里观看更多内容：每周六和周日早上观看现场直播。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伊朗冲突期间黎巴嫩人道主义危机升级]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-05/humanitarian-crisis-escalates-in-lebanon-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-05/humanitarian-crisis-escalates-in-lebanon-video</guid>
-            <pubDate>Sun, 05 Apr 2026 14:56:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据联合国称，自美国、以色列和伊朗爆发冲突以来，已有超过 110 万人在黎巴嫩流离失所。 英国前外交大臣、国际救援委员会主席兼首席执行官大卫·米利班德本周末与克里斯蒂娜·鲁菲尼和乔·马蒂厄一起在彭博社讨论黎巴嫩和叙利亚日益恶化的人道主义局势。 本周末观看彭博社的完整采访。 每周六和周日早上观看现场直播。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TMZ 前往华盛顿]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-05/tmz-heads-to-washington-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-05/tmz-heads-to-washington-video</guid>
-            <pubDate>Sun, 05 Apr 2026 14:51:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] TMZ 正在向华盛顿特区扩张，寻找对选民负责的政客。  TMZ 执行制片人哈维·莱文 (Harvey Levin) 本周末与彭博社 (Bloomberg) 的克里斯蒂娜·鲁菲尼 (Christina Ruffini) 一起讨论最新的合资项目。 每周六和周日早上观看现场直播。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[随着通胀路径的转变，中国债券接近拐点]]></title>
@@ -693,13 +700,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3S3lYM1V3WDB4aHphOUJteTJEd2R1c3NmYjQ1MFlhVGNNRkxIM2thZXZOV2NGRHRQMlBwTnNrMS1YY3o1dFctNS1KVjhYek14d1gw?oc=5</guid>
             <pubDate>Fri, 03 Apr 2026 22:24:39 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 偏鸽派的旧金山联储戴利“放鹰”：零就业增长未必意味着劳动力市场疲软  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特朗普政府最新的预算计算假设长期经济增长速度快于许多经济学家的预期]]></title>
-            <link>https://www.wsj.com/economy/trump-budget-projects-long-term-growth-above-many-forecasts-fbd4f1de</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/trump-budget-projects-long-term-growth-above-many-forecasts-fbd4f1de</guid>
-            <pubDate>Fri, 03 Apr 2026 21:29:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 总统表示，他的政策，包括高额关税和严格的移民政策，将提振经济。]]></description>
         </item>
         <item>
             <title><![CDATA[中东冲突加剧，巴基斯坦大幅上调燃油价格 - 路透中文网]]></title>
