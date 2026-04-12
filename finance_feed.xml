@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 12 Apr 2026 17:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 18:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[@greg_ip 写道，伊朗和中国都不具备美国那样的经济实力，但两国通过使用检查站弥补了这一点]]></title>
+            <link>https://www.wsj.com/economy/global/kryptonite-to-americas-economic-super-powers-chokepoints-351ee72c</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/global/kryptonite-to-americas-economic-super-powers-chokepoints-351ee72c</guid>
+            <pubDate>Sun, 12 Apr 2026 17:47:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 美国在经济战中发挥了规模优势，但中国和伊朗通过控制关键经济资产进行了反击。]]></description>
+        </item>
         <item>
             <title><![CDATA[贝宁开始计票，前德勤高管有望获胜]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-12/benin-begins-vote-count-with-ex-deloitte-executive-poised-to-win</link>
@@ -198,11 +205,11 @@
             <description><![CDATA[[Bloomberg] 拉丁美洲资产已成为试图应对日益动荡的全球背景的新兴市场投资者的避风港，这得益于一系列石油出口国和对中东紧张局势的更大程度的隔离。]]></description>
         </item>
         <item>
-            <title><![CDATA[秘鲁为两院制国会总统投票以求稳定]]></title>
+            <title><![CDATA[秘鲁延长总统和国会投票时间，但投票站出现延误]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-12/peru-voting-for-president-bicameral-congress-in-bid-for-stability</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-12/peru-voting-for-president-bicameral-congress-in-bid-for-stability</guid>
             <pubDate>Sun, 12 Apr 2026 12:15:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 秘鲁人将于周日前往投票站，从创纪录的 36 名候选人中选出一位新总统，并对立法机构进行彻底改革，这将是三十多年来首次恢复两院制。]]></description>
+            <description><![CDATA[[Bloomberg] 秘鲁将在周日总统选举期间将投票站延长一个小时，因为首都利马的几个投票地点出现延误，主要原因是选票没有按时送达。]]></description>
         </item>
         <item>
             <title><![CDATA[匈牙利投票，欧尔班的命运不确定]]></title>
@@ -322,13 +329,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/inflation-growth-and-jobs-all-look-worse-with-the-war-cc9263e5</guid>
             <pubDate>Sun, 12 Apr 2026 09:30:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 很少有人认为冲突会破坏有弹性的经济，但通胀、增长和就业预计都会受到打击。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[@greg_ip 写道，伊朗和中国都不具备美国那样的经济实力，但两国通过使用检查站弥补了这一点]]></title>
-            <link>https://www.wsj.com/economy/global/kryptonite-to-americas-economic-super-powers-chokepoints-351ee72c</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/global/kryptonite-to-americas-economic-super-powers-chokepoints-351ee72c</guid>
-            <pubDate>Sun, 12 Apr 2026 09:30:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 美国在经济战中发挥了规模优势，但中国和伊朗通过控制关键经济资产进行了反击。]]></description>
         </item>
         <item>
             <title><![CDATA[战争间歇期的四个缩圈方向：AI硬件、资源、周期涨价和红利 - 华尔街见闻]]></title>
@@ -620,18 +620,18 @@
             <description><![CDATA[[华尔街见闻] 摩根大通详细拆解中东油气损失：这是完整列表  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[OpenAI 发现涉及第三方工具的安全问题，称用户数据未被访问 - 路透]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnU4UTdodW53WXFybnlRdHlud2JjQXNON1RmMndnV3dtdXlHeS12NlI2eTYxQ1RaOF9ZanY5RmZab0k1MVBRbjhSaWIwU0FCTVNPVXl5M0RxcmRVMUlVZi1vcjRPcWRYZ0JOcVZMVUIyYkMxUlJqMjRiOTlTaUxTUW1ZbHdLeHNNSm1ZTnpPc2Q3MnNicDNDR1V0cGhac3ZjMndDeVFVeDVRYzB4SmVkMHpjUVRmY280YjRZSXY5OVc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnU4UTdodW53WXFybnlRdHlud2JjQXNON1RmMndnV3dtdXlHeS12NlI2eTYxQ1RaOF9ZanY5RmZab0k1MVBRbjhSaWIwU0FCTVNPVXl5M0RxcmRVMUlVZi1vcjRPcWRYZ0JOcVZMVUIyYkMxUlJqMjRiOTlTaUxTUW1ZbHdLeHNNSm1ZTnpPc2Q3MnNicDNDR1V0cGhac3ZjMndDeVFVeDVRYzB4SmVkMHpjUVRmY280YjRZSXY5OVc?oc=5</guid>
-            <pubDate>Sat, 11 Apr 2026 03:00:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] OpenAI 发现涉及第三方工具的安全问题，称用户数据未被访问 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国通胀压力才刚开始？“油价冲击”只是眼前，中国PPI已经转正 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqRUdRdWtZTVhiTDZvSnIyMzgxelY3SUcxMGwyaG5JcjhVQU1fWDRmRm1LVDctZjRRYXdRUDhHbGlFaWo4WnRwRnRLdzJ0ZmlxYkFN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqRUdRdWtZTVhiTDZvSnIyMzgxelY3SUcxMGwyaG5JcjhVQU1fWDRmRm1LVDctZjRRYXdRUDhHbGlFaWo4WnRwRnRLdzJ0ZmlxYkFN?oc=5</guid>
             <pubDate>Sat, 11 Apr 2026 02:51:38 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 美国通胀压力才刚开始？“油价冲击”只是眼前，中国PPI已经转正  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI 发现涉及第三方工具的安全问题，称用户数据未被访问 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnU4UTdodW53WXFybnlRdHlud2JjQXNON1RmMndnV3dtdXlHeS12NlI2eTYxQ1RaOF9ZanY5RmZab0k1MVBRbjhSaWIwU0FCTVNPVXl5M0RxcmRVMUlVZi1vcjRPcWRYZ0JOcVZMVUIyYkMxUlJqMjRiOTlTaUxTUW1ZbHdLeHNNSm1ZTnpPc2Q3MnNicDNDR1V0cGhac3ZjMndDeVFVeDVRYzB4SmVkMHpjUVRmY280YjRZSXY5OVc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnU4UTdodW53WXFybnlRdHlud2JjQXNON1RmMndnV3dtdXlHeS12NlI2eTYxQ1RaOF9ZanY5RmZab0k1MVBRbjhSaWIwU0FCTVNPVXl5M0RxcmRVMUlVZi1vcjRPcWRYZ0JOcVZMVUIyYkMxUlJqMjRiOTlTaUxTUW1ZbHdLeHNNSm1ZTnpPc2Q3MnNicDNDR1V0cGhac3ZjMndDeVFVeDVRYzB4SmVkMHpjUVRmY280YjRZSXY5OVc?oc=5</guid>
+            <pubDate>Sat, 11 Apr 2026 02:04:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] OpenAI 发现涉及第三方工具的安全问题，称用户数据未被访问 路透]]></description>
         </item>
         <item>
             <title><![CDATA[新西兰为气旋瓦伊努做好准备，奥克兰可能发生洪水 - 路透中文网]]></title>
