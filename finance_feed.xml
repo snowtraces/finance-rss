@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 18 Apr 2026 19:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 20:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[伊朗：关闭霍尔木兹海峡 直至美国解除封锁]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3317764</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3317764</guid>
+            <pubDate>Sat, 18 Apr 2026 20:35:28 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[战争再次给全球经济带来滞胀危险]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-18/war-revives-stagflation-dangers-for-global-economy</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-18/war-revives-stagflation-dangers-for-global-economy</guid>
+            <pubDate>Sat, 18 Apr 2026 20:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 中东七周战争的累积全球影响将在下周来自多个国家的第二轮商业调查中开始显现。]]></description>
+        </item>
         <item>
             <title><![CDATA[准备好将战争抛在脑后的交易者加大了风险]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-18/traders-ready-to-put-war-behind-them-dial-up-risk-credit-weekly</link>
@@ -42,6 +56,13 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/america-is-in-the-middle-of-a-stealth-manufacturing-boom-af0702af</guid>
             <pubDate>Sat, 18 Apr 2026 16:00:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 尽管工厂就业岗位稳步下滑，但工厂实际产出大幅增长，而且可能还在加快。 信贷是最基本的经济力量：需求。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ANP报道荷兰将启动第一阶段能源危机计划 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0tRejBhM2c2M1lsbXhKRE5STDdnamhXRkMtc0pQalgxZTd1MDFPTk1KbDVseGl1T0RoOXNrQnZzUk1RLUV6ZUF1M0VTRnFob1VrNHV2ZVp3RzVNUk1ha080LXhac3B0cDRiaVU0NEZORGF2MFU1VHhPX3NzcFBkQmN5cHdSRlhRc1dCd190ZzhUak83aEFpZ0R1eTMzTTJnMy1JTkUtT19MM2gxaGlwVUR5d1lCZw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0tRejBhM2c2M1lsbXhKRE5STDdnamhXRkMtc0pQalgxZTd1MDFPTk1KbDVseGl1T0RoOXNrQnZzUk1RLUV6ZUF1M0VTRnFob1VrNHV2ZVp3RzVNUk1ha080LXhac3B0cDRiaVU0NEZORGF2MFU1VHhPX3NzcFBkQmN5cHdSRlhRc1dCd190ZzhUak83aEFpZ0R1eTMzTTJnMy1JTkUtT19MM2gxaGlwVUR5d1lCZw?oc=5</guid>
+            <pubDate>Sat, 18 Apr 2026 15:45:43 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 据 ANP 报道，荷兰将启动第一阶段能源危机计划 路透]]></description>
         </item>
         <item>
             <title><![CDATA[保利发展的深耕与远见：核心城市销售贡献达92%，以确定性布局领跑新周期]]></title>
@@ -275,13 +296,6 @@
             <description><![CDATA[[Bloomberg] HDFC Bank Ltd.是印度最大的私营银行，其董事长上个月突然离职后面临挫折，该银行报告称，由于贷款强劲增长，业绩好于预期。]]></description>
         </item>
         <item>
-            <title><![CDATA[中信证券：3月多地房价止跌回升 行业景气周期重启可期]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3317700</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3317700</guid>
-            <pubDate>Sat, 18 Apr 2026 09:35:09 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[伊拉克国家通讯社称几天内将恢复所有油田的石油出口 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxQWE5EcGFORy1kZkwya0g4ZEY1c24xY3FnNVBFQVVGMzJtcWg0ZE1OcU12THlLdmNsbFR5T0xGZjB1NEVkNGtVbU9SbHZhZ2FhelRvRnlzd1dLbXlUdTlFU0E2WTdDcmR5dlRiMmloX0FJTEhoWkloejhDRzI2OUJ0Sy1GNXljbWx4d2hjN3lRTnB5WHJKTGkyZnhJd3lZNEhUZXZHYmJKc3BkSjhONHlDd01tdFJ4QXVDd1FHOFV3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxQWE5EcGFORy1kZkwya0g4ZEY1c24xY3FnNVBFQVVGMzJtcWg0ZE1OcU12THlLdmNsbFR5T0xGZjB1NEVkNGtVbU9SbHZhZ2FhelRvRnlzd1dLbXlUdTlFU0E2WTdDcmR5dlRiMmloX0FJTEhoWkloejhDRzI2OUJ0Sy1GNXljbWx4d2hjN3lRTnB5WHJKTGkyZnhJd3lZNEhUZXZHYmJKc3BkSjhONHlDd01tdFJ4QXVDd1FHOFV3?oc=5</guid>
@@ -385,13 +399,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-18/russia-said-fire-broke-out-at-baltic-port-after-drone-attack</guid>
             <pubDate>Sat, 18 Apr 2026 05:06:20 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 俄罗斯表示，在乌克兰无人机袭击后，波罗的海维索茨克地区一个港口的夜间大火被扑灭，而克里姆林宫对乌克兰北部的袭击导致 38 万用户断电。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国经济遭受重创，尽管战争风险消退，特朗普仍保持联系]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-18/uk-bears-scars-to-economy-trump-ties-even-as-war-risks-subside</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-18/uk-bears-scars-to-economy-trump-ties-even-as-war-risks-subside</guid>
-            <pubDate>Sat, 18 Apr 2026 05:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 英国经济以及伦敦与华盛顿的关系遭受了重大打击，可能会持续数月。]]></description>
         </item>
         <item>
             <title><![CDATA[出口禁令后中国3月份成品油发货量下降 - 路透中文网]]></title>
@@ -590,6 +597,13 @@
             <description><![CDATA[[CNBC] 这些是午盘涨幅最大的股票。]]></description>
         </item>
         <item>
+            <title><![CDATA[突尼斯喜剧演员阿卜杜利被缺席判刑，称裁决目标是言论自由 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdktaVDFIdnMtX2x0dGZETkVVRGJwZWdVMDZoNUY4c2lVWk5qdm9HNk53MXlyNVVINFBnN2dCajU3c2dlYTYxWHJISmZDNUM5aHpWRld6UmlBQXlybUVDcVlmUExCMG92NklpVHg3T0pRTmpORGNPZUFtNDV5TWU5RHB1dVRORGc3LWNvWWlYRXMzTVdtakhpMFdzREsyVGMyWlRMOWJUNGVpVjNvbW1kcS1vN3ByNk5JeXJGSk1ONzFzeXUxU1ZzSDdxRmlZdHRZ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdktaVDFIdnMtX2x0dGZETkVVRGJwZWdVMDZoNUY4c2lVWk5qdm9HNk53MXlyNVVINFBnN2dCajU3c2dlYTYxWHJISmZDNUM5aHpWRld6UmlBQXlybUVDcVlmUExCMG92NklpVHg3T0pRTmpORGNPZUFtNDV5TWU5RHB1dVRORGc3LWNvWWlYRXMzTVdtakhpMFdzREsyVGMyWlRMOWJUNGVpVjNvbW1kcS1vN3ByNk5JeXJGSk1ONzFzeXUxU1ZzSDdxRmlZdHRZ?oc=5</guid>
+            <pubDate>Fri, 17 Apr 2026 18:05:56 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 突尼斯喜剧演员阿卜杜利被缺席判刑，称裁决目标是言论自由 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[霍尔木兹海峡重新开放，油价下跌可能重塑美联储降息选择 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkgyRGcxLVlpUFRuOExKY3lyUjFKaUFUbnRWdWVWNGpzbkc0Y1RqcGVGVTkzLW5yZllTVDVqU1hzbHAxemtBalZIUVoxTzFBbmdxdFdYS0VDWm53U2ctMUdNSUcwUVBFNVNDd2hMNVhBemRBbGgxbHNBMmY2QnRObmtNYnFKSzRjeGxMRzl5MUo4NUlhLUhVRDdFWEtwZUxRTGVPYkdzWHFoS2s2QWdGTEpmZVgxR09ESDFLVXdxbFJ5V3FkbkZHdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkgyRGcxLVlpUFRuOExKY3lyUjFKaUFUbnRWdWVWNGpzbkc0Y1RqcGVGVTkzLW5yZllTVDVqU1hzbHAxemtBalZIUVoxTzFBbmdxdFdYS0VDWm53U2ctMUdNSUcwUVBFNVNDd2hMNVhBemRBbGgxbHNBMmY2QnRObmtNYnFKSzRjeGxMRzl5MUo4NUlhLUhVRDdFWEtwZUxRTGVPYkdzWHFoS2s2QWdGTEpmZVgxR09ESDFLVXdxbFJ5V3FkbkZHdw?oc=5</guid>
@@ -693,20 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZktmbXhDMWFGRlVRMUdBMXJKS0F4bUxEeVVlLWRTdmVHSVVxdDdBN2xZNEtPZFZDbV9fMEV0bG5zYV9nRzZGVXZhY2lrVjJYbkc1UmpsYWQtcy1lRGo0aXlIN0tYTVB6bnZSSVVlT0VzMGoyYnBmNzM5SkV6MGE2b09lOWRlM1BtU3dFWkVsWk1JbXJwU2c0OXNMSWw3YlZ2ZTBqVXl4N0RrVmtjUmF2VktWU1lrR1doOGhB?oc=5</guid>
             <pubDate>Fri, 17 Apr 2026 15:01:36 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 西门子计划于 2027 年 2 月就西门子医疗股份分拆进行股东投票 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[“违规转让证券”被明确定义 证监会出台裁量阶次力求“过罚相当” - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zWEVnRkd4d0JYVlZsTTdnSUxEVmdGR1dxSG10OHBsV1lwSkVPX1JxTkRINzNTbGhLa25kT0hBZ3ZPT1RYcHYzQ0RxLV80bHQ4OTJpYlZockJrQk9FUko3TjdB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zWEVnRkd4d0JYVlZsTTdnSUxEVmdGR1dxSG10OHBsV1lwSkVPX1JxTkRINzNTbGhLa25kT0hBZ3ZPT1RYcHYzQ0RxLV80bHQ4OTJpYlZockJrQk9FUko3TjdB?oc=5</guid>
-            <pubDate>Fri, 17 Apr 2026 14:12:00 GMT</pubDate>
-            <description><![CDATA[[财新网] “违规转让证券”被明确定义 证监会出台裁量阶次力求“过罚相当”  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公募基金绩效考核新规出炉 投资者盈亏情况纳入考核 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FQkRBWGNDTXpJWURGQURhWk05UG03UGhhUHVrbG9EWi1fYnJWN2ItaUdXVFZjM2dGTHJTaUZzY0V0Q1I0QmZLRjhXYnlKVHRZQ2R4UHN0UVZzR2x2bGtkV0tB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FQkRBWGNDTXpJWURGQURhWk05UG03UGhhUHVrbG9EWi1fYnJWN2ItaUdXVFZjM2dGTHJTaUZzY0V0Q1I0QmZLRjhXYnlKVHRZQ2R4UHN0UVZzR2x2bGtkV0tB?oc=5</guid>
-            <pubDate>Fri, 17 Apr 2026 13:54:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 公募基金绩效考核新规出炉 投资者盈亏情况纳入考核  财新]]></description>
         </item>
     </channel>
 </rss>
