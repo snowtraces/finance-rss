@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 18 Apr 2026 21:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 22:30:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3317765</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3317765</guid>
+            <pubDate>Sat, 18 Apr 2026 21:20:15 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[伊朗：关闭霍尔木兹海峡 直至美国解除封锁]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3317764</link>
@@ -289,13 +296,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[公募牌照红利失效，中小公募股权打折也难寻买家？信托股东仍有一份未竟的出清清单]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3317706</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3317706</guid>
-            <pubDate>Sat, 18 Apr 2026 10:05:30 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[印度 HDFC 银行贷款强劲增长超出预期]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-18/india-s-hdfc-bank-beats-estimates-as-loan-growth-stays-strong</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-18/india-s-hdfc-bank-beats-estimates-as-loan-growth-stays-strong</guid>
@@ -398,7 +398,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-04-18/greek-indian-tankers-u-turn-before-hormuz-amid-reopening-doubt</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-18/greek-indian-tankers-u-turn-before-hormuz-amid-reopening-doubt</guid>
             <pubDate>Sat, 18 Apr 2026 05:12:54 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 周六，更多原油和天然气运输船开始测试霍尔木兹海峡，尽管伊朗当局发出的混杂信息让船东们对这个重要能源咽喉点的状况感到担忧。]]></description>
+            <description><![CDATA[[Bloomberg] 周六，更多原油和天然气运输船已开始测试霍尔木兹海峡，尽管伊朗当局发出的混杂信息让船东们对这个重要能源咽喉点的状况感到担忧。]]></description>
         </item>
         <item>
             <title><![CDATA[乌克兰袭击后俄罗斯波罗的海港口大火被扑灭]]></title>
