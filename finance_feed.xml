@@ -4,16 +4,65 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 19 Apr 2026 22:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 23:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[美国扣押伊朗船只导致冲突升级后油价飙升]]></title>
+            <title><![CDATA[【早报】伊朗：已为战火重燃做好准备；伊媒：伊朗拒绝参加伊美第二轮谈判]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3318032</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3318032</guid>
+            <pubDate>Sun, 19 Apr 2026 23:05:29 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[港股本周要闻前瞻｜恒瑞医药等公司将披露业绩 4月LPR利率报价公布]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3318031</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3318031</guid>
+            <pubDate>Sun, 19 Apr 2026 23:05:29 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[菲律宾央行行长敦促银行促进外汇对冲]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-19/philippine-central-banker-urges-banks-to-promote-fx-hedging-amid-iran-war</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-19/philippine-central-banker-urges-banks-to-promote-fx-hedging-amid-iran-war</guid>
+            <pubDate>Sun, 19 Apr 2026 23:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 一位央行行长表示，菲律宾银行可能不得不更加努力地说服企业对冲外汇风险，因为伊朗战争凸显了该国容易受到地缘政治冲击的影响。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国银行、Jupiter 认为亚洲防务股在军备建设方面有上涨空间]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-19/bofa-jupiter-see-upside-for-asia-defense-stocks-on-arms-buildup</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-19/bofa-jupiter-see-upside-for-asia-defense-stocks-on-arms-buildup</guid>
+            <pubDate>Sun, 19 Apr 2026 23:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 伊朗战争引发全球军备扩张后，亚洲国防股重新吸引了投资者的兴趣，一些投资者将该行业视为长期增长故事，而不是短期地缘政治贸易。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新西兰总理卢克森维持决心，民调支持率下降]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-19/new-zealand-pm-luxon-holds-resolve-as-polling-support-tumbles</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-19/new-zealand-pm-luxon-holds-resolve-as-polling-support-tumbles</guid>
+            <pubDate>Sun, 19 Apr 2026 22:59:13 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 新西兰总理克里斯托弗·卢克森 (Christopher Luxon) 表示，他不打算在 11 月大选前辞职，因为民意调查显示他和他的国家党的支持率下降。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[财经早知道｜特朗普：美伊20日将在伊斯兰堡举行谈判 - 财新]]></title>
+            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QYXMwZ2NEMEI2MllhYm1zMTQ5WTJqbk9PZWpOZTQ2Slg0MVpORmdKZXA1S3hwZDVwampoWU1UM3VjWmdBQ2FrbDZLcXliZm5VcGV5U3lKRUFmX3JJaHFISmxR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QYXMwZ2NEMEI2MllhYm1zMTQ5WTJqbk9PZWpOZTQ2Slg0MVpORmdKZXA1S3hwZDVwampoWU1UM3VjWmdBQ2FrbDZLcXliZm5VcGV5U3lKRUFmX3JJaHFISmxR?oc=5</guid>
+            <pubDate>Sun, 19 Apr 2026 22:47:00 GMT</pubDate>
+            <description><![CDATA[[财新网] 财经早知道｜特朗普：美伊20日将在伊斯兰堡举行谈判  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国股指期货下跌，伊朗紧张局势导致油价上涨：市场结束]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-19/us-futures-fall-oil-jumps-as-iran-tensions-worsen-markets-wrap</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-19/us-futures-fall-oil-jumps-as-iran-tensions-worsen-markets-wrap</guid>
+            <pubDate>Sun, 19 Apr 2026 22:12:31 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于周末美伊紧张局势再度升级以及霍尔木兹海峡持续对峙，风险情绪恶化，美国股指期货下跌，油价上涨，美元上涨。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国扣押伊朗船只危及谈判后石油和天然气价格上涨]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-19/latest-oil-market-news-and-analysis-for-april-20</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-19/latest-oil-market-news-and-analysis-for-april-20</guid>
             <pubDate>Sun, 19 Apr 2026 22:03:21 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国海军在一个混乱的周末扣押了一艘伊朗船只，德黑兰向船只开火，并在霍尔木兹海峡开放水道几小时后重新实施控制，油价飙升。]]></description>
+            <description><![CDATA[[Bloomberg] 美国海军在一个混乱的周末扣押了一艘伊朗船只，德黑兰向船只开火并重新对霍尔木兹海峡实施控制，导致石油和天然气价格飙升。]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
@@ -37,7 +86,7 @@
             <description><![CDATA[[Bloomberg] 随着人才竞争达到新的极限，竞争对手之间的“拦截交易”正在升温。]]></description>
         </item>
         <item>
-            <title><![CDATA[Point72，贝莱德支持的竞赛寻找日本银行业人才]]></title>
+            <title><![CDATA[Point72，贝莱德支持的竞赛寻找日本金融人才]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-19/point72-blackrock-backed-contest-seeks-japanese-banking-talent</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-19/point72-blackrock-backed-contest-seeks-japanese-banking-talent</guid>
             <pubDate>Sun, 19 Apr 2026 21:00:00 GMT</pubDate>
@@ -55,7 +104,7 @@
             <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHRvSkI2SmpWS2Y3cnJKZHhTamdOdnN0MU5LbVd1WWVMV2dBX2QwcTFjczl1dzRuUkt1Qzd3NXZiR2VuRVlELW9BZWwtSUlQVFpfVFFIMXdqYm9HMGRTUmRYRUYyNFNlZTRfWkZMU2Jfc1l3Nl9VN0J0dlV2YmFueGtLV2lvZGVkUDRiSGNmMUNhci03bjZrZ0VJa2tuTng5QTBxX0NSblBaX3pyVnNKNTVPRXNudlcwVTRPQ0RfMHVINXpjcDRfcQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHRvSkI2SmpWS2Y3cnJKZHhTamdOdnN0MU5LbVd1WWVMV2dBX2QwcTFjczl1dzRuUkt1Qzd3NXZiR2VuRVlELW9BZWwtSUlQVFpfVFFIMXdqYm9HMGRTUmRYRUYyNFNlZTRfWkZMU2Jfc1l3Nl9VN0J0dlV2YmFueGtLV2lvZGVkUDRiSGNmMUNhci03bjZrZ0VJa2tuTng5QTBxX0NSblBaX3pyVnNKNTVPRXNudlcwVTRPQ0RfMHVINXpjcDRfcQ?oc=5</guid>
             <pubDate>Sun, 19 Apr 2026 20:11:18 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国能源部长称明年之前天然气价格可能保持在每加仑 3 美元以上 路透]]></description>
+            <description><![CDATA[[Reuters Business] 美国能源部长表示，明年之前天然气价格可能会保持在每加仑 3 美元以上 路透]]></description>
         </item>
         <item>
             <title><![CDATA[交易员准备迎接霍尔木兹对峙再次陷入混乱]]></title>
@@ -79,6 +128,13 @@
             <description><![CDATA[[Bloomberg] 唐纳德·特朗普总统在《真相社会》上表示，美国海军舰艇“在机舱上炸出一个洞”，阻止了悬挂伊朗国旗的货轮，美国海军陆战队负责保管这艘船。]]></description>
         </item>
         <item>
+            <title><![CDATA[乌克兰总理称国际货币基金组织同意提高个体经营者税收“没有建设性” - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOdnpSaHl5WjRGeWd6UHdPLTAwVnJPN1gxMXFGTEV3UVdXTEtseXJ5QkhyOHlvd01RMGFsa3N4djRxTzNNRmh3eGF5b2pCZzBsRzgyb1Rjc0hEa3JVT0JPXzFCMjJpa2kxMzFVSW5RV1RRTEJzQXlHNHpwNGs5Y21MR2Q4TFZFT3h4MTVfUjhNekNmOE5rY2lJcjR3UEVSUFhnRGtLQXQzOHNORjJycC15WjFhQnVnbWZBd2c?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxOdnpSaHl5WjRGeWd6UHdPLTAwVnJPN1gxMXFGTEV3UVdXTEtseXJ5QkhyOHlvd01RMGFsa3N4djRxTzNNRmh3eGF5b2pCZzBsRzgyb1Rjc0hEa3JVT0JPXzFCMjJpa2kxMzFVSW5RV1RRTEJzQXlHNHpwNGs5Y21MR2Q4TFZFT3h4MTVfUjhNekNmOE5rY2lJcjR3UEVSUFhnRGtLQXQzOHNORjJycC15WjFhQnVnbWZBd2c?oc=5</guid>
+            <pubDate>Sun, 19 Apr 2026 19:08:26 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 乌克兰总理表示国际货币基金组织同意提高个体经营者税收“没有建设性” 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[月之暗面IPO迷局：资本挤破头，骗子兜售融资额度，相关人士称“不愿为上市而上市”]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3318013</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3318013</guid>
@@ -98,6 +154,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/04/19/software-tech-stocks-market-rally-microsoft.html</guid>
             <pubDate>Sun, 19 Apr 2026 18:38:11 GMT</pubDate>
             <description><![CDATA[[CNBC] 在 2026 年的市场中，微软股价下跌了近 20%，更多科技和软件股票在大幅下跌后寻找买入机会。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据 Axios 报道，尽管已列入黑名单，美国安全机构仍在使用 Anthropic 的 Mythos - 路透社]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVQxQUdjUjgtWnUzUnNfXzI5WFdiMXNkOC1qakZhZ0hfMEZvUVBpckJXQWlFTkdKTzljaU1vQm5hSDFOY3ZHc2p3M1pSSVp5enZuS0VfS3RiT3o4MWx4MnE2dkNHaWNDNVZlR0xUZDRpbEc5eW83V3BmQm9CX1JTeWxvdXJubnJwT19lTXJaLUotTzJ6X1ZER0poQ2N5VEMzOUNuWUxJZWxqYnlRVFNjQzJHeUhCalNNY21KMDJLSQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVQxQUdjUjgtWnUzUnNfXzI5WFdiMXNkOC1qakZhZ0hfMEZvUVBpckJXQWlFTkdKTzljaU1vQm5hSDFOY3ZHc2p3M1pSSVp5enZuS0VfS3RiT3o4MWx4MnE2dkNHaWNDNVZlR0xUZDRpbEc5eW83V3BmQm9CX1JTeWxvdXJubnJwT19lTXJaLUotTzJ6X1ZER0poQ2N5VEMzOUNuWUxJZWxqYnlRVFNjQzJHeUhCalNNY21KMDJLSQ?oc=5</guid>
+            <pubDate>Sun, 19 Apr 2026 18:32:56 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 据 Axios 报道，尽管已列入黑名单，美国安全机构仍在使用 Anthropic 的 Mythos 路透社]]></description>
         </item>
         <item>
             <title><![CDATA[德国默茨表示工业人工智能需要欧盟放宽监管 - 路透中文网]]></title>
@@ -303,25 +366,11 @@
             <description><![CDATA[[Bloomberg] 新兴市场债券销售正从上个月的低迷中回升，从巴西到土耳其的发行人利用市场反弹的机会筹集新的融资。]]></description>
         </item>
         <item>
-            <title><![CDATA[蓝色起源推出首款可重复使用的助推器]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-19/blue-origin-launches-with-first-reused-booster-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-19/blue-origin-launches-with-first-reused-booster-video</guid>
-            <pubDate>Sun, 19 Apr 2026 12:23:05 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 亚马逊创始人杰夫·贝佐斯旗下的美国太空公司蓝色起源周日成功重复使用并回收了新格伦火箭的助推器，证实了其掌握了一项技术壮举，可以提高其发射节奏并扩大与 SpaceX 的竞争。 彭博科技联合主持人埃德·勒德洛 (Ed Ludlow) 与大卫·古拉 (David Gura) 和克里斯蒂娜·鲁菲尼 (Christina Ruffini) 一起在彭博社本周末进行讨论。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[从人工智能购物到视频，阿里巴巴正在做出分析师希望看到的投资]]></title>
             <link>https://www.cnbc.com/2026/04/19/baba-makes-ai-investments-stock-analysts-want-to-see.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/04/19/baba-makes-ai-investments-stock-analysts-want-to-see.html</guid>
             <pubDate>Sun, 19 Apr 2026 12:21:37 GMT</pubDate>
             <description><![CDATA[[CNBC] 这家中国科技公司的股价有望创下一月份以来的最佳月份表现。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[霍尔木兹海峡陷入停滞，美伊和平协议希望破灭]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-19/hormuz-at-standstill-denting-us-iran-peace-deal-hopes-video</guid>
-            <pubDate>Sun, 19 Apr 2026 12:16:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 周日早些时候，伊朗改变了重新开放该航道的决定，并向试图通过的船只开火，并警告说，只要美国继续封锁伊朗港口，伊朗就会阻止过境，之后霍尔木兹海峡的航运几乎陷入停滞。 彭博新闻社白宫记者考特尼·萨勃拉曼尼安、彭博情报高级国防研究分析师韦恩·桑德斯上校和美联社国际记者菲利普·克劳瑟本周末与大卫·古拉和克里斯蒂娜·鲁菲尼一起在彭博社进行讨论。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[荣耀“闪电”夺冠马拉松，手机大厂给机器人圈上了一课？]]></title>
@@ -345,32 +394,11 @@
             <description><![CDATA[[华尔街见闻] 下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[人形机器人半马跑进1小时 行业加速放量期上市公司卡位“供应链”]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3317967</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3317967</guid>
-            <pubDate>Sun, 19 Apr 2026 11:05:32 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[天迈科技(300807.SZ)筹划收购芬能自动化100%股权 股票明起停牌]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3317966</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3317966</guid>
-            <pubDate>Sun, 19 Apr 2026 11:05:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[前澳大利亚士兵公开反对阿富汗战争罪指控 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGZaTmtXWmtJbE1tQjBQUEpXTXNQaFZGSU44UnhBU2Z1Q0JPZnU4X2tjOEF3QnhiX014NWNUd1FzVE94MXZqSnZNZGtVU3dFcWFQNTFoYmpEMHNpRVNTQmpYRnEzSi1odExDbjUwRFRJMmZlWmdsXzE5b0ZIeXlybVVMWF91TzVubmNDWUh0YXNHckdxbzh6VVlaSy1zeFBuVHhsajQxR2dyeWlxWDY3bzYya3lkU2QxZDZqYTJJVTVfRmxmbnJ5ejgxb2Qwdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxNNGZaTmtXWmtJbE1tQjBQUEpXTXNQaFZGSU44UnhBU2Z1Q0JPZnU4X2tjOEF3QnhiX014NWNUd1FzVE94MXZqSnZNZGtVU3dFcWFQNTFoYmpEMHNpRVNTQmpYRnEzSi1odExDbjUwRFRJMmZlWmdsXzE5b0ZIeXlybVVMWF91TzVubmNDWUh0YXNHckdxbzh6VVlaSy1zeFBuVHhsajQxR2dyeWlxWDY3bzYya3lkU2QxZDZqYTJJVTVfRmxmbnJ5ejgxb2Qwdw?oc=5</guid>
             <pubDate>Sun, 19 Apr 2026 10:11:30 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 前澳大利亚士兵公开反对有关阿富汗战争罪的指控 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国东方证券交易将创造860亿美元的经纪业务]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-19/china-s-orient-securities-deal-to-create-86-billion-brokerage</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-19/china-s-orient-securities-deal-to-create-86-billion-brokerage</guid>
-            <pubDate>Sun, 19 Apr 2026 10:05:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 两家上海政府支持的券商计划合并，合并后将创建一家资产约 860 亿美元的公司，突显了中国在寻求建立世界一流投资银行的过程中推动证券业整合的努力。]]></description>
         </item>
         <item>
             <title><![CDATA[“TINA”的复兴冲击了“TIARA”的交易，投资者纷纷涌入美国股市 - 路透中文网]]></title>
@@ -441,13 +469,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmItOTJ2VDl0NVZBSVFWUWdFLWNfZU1aVVprMHN5N1hoaHZVb2kxOWpIcnEtODZldnNNS3BOT2xTbEpmNWJTQldIZFcyeDFDMHNsT29TdzFWNlh1bHZDQWxBeS1TMURMTklmZmJZOTk2MWU0S3VFcnRzN243Rk9lV090MlZlcTZNMHlTbldvS190aFBBSGFlMi1fVDZvWU1HeEhod2xlMEJWQQ?oc=5</guid>
             <pubDate>Sat, 18 Apr 2026 20:41:40 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 特斯拉将机器人出租车服务扩展到达拉斯和休斯顿 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战争再次给全球经济带来滞胀危险]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-18/war-revives-stagflation-dangers-for-global-economy</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-18/war-revives-stagflation-dangers-for-global-economy</guid>
-            <pubDate>Sat, 18 Apr 2026 20:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 中东七周战争的累积全球影响将在下周来自多个国家的第二轮商业调查中开始显现。]]></description>
         </item>
         <item>
             <title><![CDATA[尽管工厂就业岗位稳步下滑，但工厂实际产出大幅增长，而且可能还在加快。  @greg_ip 写道，归功于最基本的经济力量：需求]]></title>
@@ -553,6 +574,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DX0x0aVl1STZKUTJ2clUtRE5kRlNpc2MwQ1FJRFBHdGJRUU8ycVdnNHR0UzMwZ0JwdVQ1QWxhcWx5dF9wbTNXU1hrV2daaWJNbThv?oc=5</guid>
             <pubDate>Sat, 18 Apr 2026 08:52:31 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] AIDC供电，短期靠燃机“救火”，长期靠这三条路线  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在应对伊朗战争价格冲击的国家施压下，美国延长了对俄罗斯石油的豁免 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5</guid>
+            <pubDate>Sat, 18 Apr 2026 07:29:18 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 在应对伊朗战争价格冲击的国家施加压力后，美国延长了对俄罗斯石油的豁免 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？ - 华尔街见闻]]></title>
@@ -679,34 +707,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/skimp-on-yogurt-splurge-on-skydiving-the-rise-of-the-frugal-rich-44b2e482</guid>
             <pubDate>Sat, 18 Apr 2026 01:00:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 高收入者正在拥抱节俭——除非是为了真正有趣的事情。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[短短11天，美股从“超卖”到“超买”，史上罕见！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HcHNaUFVRVEVjdlpoX3lqV3pJVDhZcVNhMW1GQ0gzeWZWbEF2NzJZQWZXN3NOVDJENjVvcHZzRUU2emRFSUR0U3N6cFhXR2prWHc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HcHNaUFVRVEVjdlpoX3lqV3pJVDhZcVNhMW1GQ0gzeWZWbEF2NzJZQWZXN3NOVDJENjVvcHZzRUU2emRFSUR0U3N6cFhXR2prWHc?oc=5</guid>
-            <pubDate>Sat, 18 Apr 2026 00:57:39 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 短短11天，美股从“超卖”到“超买”，史上罕见！  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[燃油激增威胁精神航空公司破产退出并增加清算风险 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbUpNbDlkX2VjY3Fqa1FCeU4tR0pZMkh1OGJjOC1ac1dvZjFRenFLT2wxdURkNHdqNWNzU0tMWmZKQjdaS3NwbDdldE8yY3hKX2xnRHV2S19tNUh2Y3ZzcGdxem96eV9KMFdQZ3d2SUFNNDY0cmVqTTBjWlY4MzFxUmRlVnlfbHcyTGIzakFqeW9DNmJ2M042Vjk1b2F3NjBaY3lvQjlVcW9QbW1UOUNoZmVuNDVwVTBObmdKeGw4TmU2dkdQWm5CWXM4UUYxOTE4cnhobFZ5dTJ2Zw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbUpNbDlkX2VjY3Fqa1FCeU4tR0pZMkh1OGJjOC1ac1dvZjFRenFLT2wxdURkNHdqNWNzU0tMWmZKQjdaS3NwbDdldE8yY3hKX2xnRHV2S19tNUh2Y3ZzcGdxem96eV9KMFdQZ3d2SUFNNDY0cmVqTTBjWlY4MzFxUmRlVnlfbHcyTGIzakFqeW9DNmJ2M042Vjk1b2F3NjBaY3lvQjlVcW9QbW1UOUNoZmVuNDVwVTBObmdKeGw4TmU2dkdQWm5CWXM4UUYxOTE4cnhobFZ5dTJ2Zw?oc=5</guid>
-            <pubDate>Sat, 18 Apr 2026 00:44:38 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 燃油激增威胁精神航空公司破产退出，增加清算风险 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在应对伊朗战争价格冲击的国家施压下，美国延长了对俄罗斯石油的豁免 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipwFBVV95cUxNSkpBSFVfcGM2Uk9FbVBxTGQwSTQ5SExOeXVtRGM2Y1lOa2kxdVpYLTNXdkJ6WHJ0OGtmWVkyN2hna0hJanExVzFNTDRUa2hRZWJjOUU1SlhXQW5RQUd5S3lrS0dyd2p2eTBvRk1aMkFrQkVQSnpqVlY4ZnU2MnhDWi1xRzZjdUYybVk5dlFCWHVuVjh1YXN5ZVVEMzcydjN4b1lpTXBCYw?oc=5</guid>
-            <pubDate>Sat, 18 Apr 2026 00:24:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 在应对伊朗战争价格冲击的国家施加压力后，美国延长了对俄罗斯石油的豁免 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WYTN0enN5cUFCcF9ybU5yeEJ0eDIwRFBBUHlqNnZ0R250R24xYUQ5ZUxNSGVXVHVJNmNzOTNtQUZOaURGSXN4MkVKNnJBSHF6X1lj?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WYTN0enN5cUFCcF9ybU5yeEJ0eDIwRFBBUHlqNnZ0R250R24xYUQ5ZUxNSGVXVHVJNmNzOTNtQUZOaURGSXN4MkVKNnJBSHF6X1lj?oc=5</guid>
-            <pubDate>Sat, 18 Apr 2026 00:18:12 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
