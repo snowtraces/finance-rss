@@ -4,23 +4,23 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 25 Apr 2026 21:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 22:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[美国太空军披露“金穹”合同细节：SpaceX、安杜里尔等12家公司获32亿美元订单]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3330353</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3330353</guid>
+            <pubDate>Sat, 25 Apr 2026 22:05:26 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3330348</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3330348</guid>
             <pubDate>Sat, 25 Apr 2026 21:20:15 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国称海军在阿拉伯海拦截与伊朗有关的船只]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-25/us-says-it-intercepted-iran-linked-vessel-in-arabian-sea</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-25/us-says-it-intercepted-iran-linked-vessel-in-arabian-sea</guid>
-            <pubDate>Sat, 25 Apr 2026 20:57:56 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据美国中央司令部称，美国海军周六在阿拉伯海拦截了一艘受制裁的船只，这是特朗普政府封锁伊朗能源出口的一部分。]]></description>
         </item>
         <item>
             <title><![CDATA[分析师:买入这些内存股票以把握火热的CPU交易机会]]></title>
@@ -51,7 +51,7 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[廉价的私人信贷基金吸引了抄底者]]></title>
+            <title><![CDATA[廉价的私人信贷基金吸引逢低买入者]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-25/cheap-private-credit-funds-draw-bargain-hunters-credit-weekly</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-25/cheap-private-credit-funds-draw-bargain-hunters-credit-weekly</guid>
             <pubDate>Sat, 25 Apr 2026 19:00:00 GMT</pubDate>
@@ -184,13 +184,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[DeepSeek‑V4 实测：百万字上下文、Agent、逻辑推理一次看全]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3330316</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3330316</guid>
-            <pubDate>Sat, 25 Apr 2026 13:05:56 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[“他扼杀了市场”：股市随着特朗普的言论而波动]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-25/-he-has-the-market-in-a-chokehold-stocks-swing-as-trump-posts</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-25/-he-has-the-market-in-a-chokehold-stocks-swing-as-trump-posts</guid>
@@ -308,6 +301,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EMWhMd0U3dzBQX2xWSW11WDJCMzcyaURreGRIRS1KTS12N0Y1VDM1Q2d2a242TUhUNVpCTVJCMHROeGY0TVRkQ01SSEdoNzFpRFJj?oc=5</guid>
             <pubDate>Sat, 25 Apr 2026 08:19:38 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 无胜算、无防守：市场为何陷入停滞  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[<strong>了解人工智能中最具病毒性的图表</strong>]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-25/understanding-the-most-viral-chart-in-artificial-intelligence</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-25/understanding-the-most-viral-chart-in-artificial-intelligence</guid>
+            <pubDate>Sat, 25 Apr 2026 08:00:18 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 另一张图表向右上方移动。]]></description>
         </item>
         <item>
             <title><![CDATA[欧盟新制裁将打击俄罗斯亚马尔液化天然气公司的凝析油进口 - 路透中文网]]></title>
@@ -653,13 +653,6 @@
             <description><![CDATA[[CNBC] 据 Kalshi 投注者称，尽管美国和伊朗延长了停火期限，但周三交通恢复正常的可能性仍低于 50%。]]></description>
         </item>
         <item>
-            <title><![CDATA[由于生产问题，美国 FDA 拒绝艾伯维 (AbbVie) 的抗皱治疗产品 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXpoSU5URUNnWXZiRVZkdzFtaVVJMlFIZENpZC1MZ3dUN3FwNDdGUFNzdlVzOEJjQjhGYTRaTmVMUWYxZm5peGo2a25FcXM1NklKQ2RYTVFRMXk3cjBoSE1laERjY1p6TUtmQkc3WDFqRUlJU1dHVHA2UnFFS2N2b2dmVDM5Sm43ZUV5N0dTcmU0eTRLNHdxaDBMRGZySHVGOGx2Zml5dkstWVplcWpLeWNWQ1pRNkVWWjFJUzNB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXpoSU5URUNnWXZiRVZkdzFtaVVJMlFIZENpZC1MZ3dUN3FwNDdGUFNzdlVzOEJjQjhGYTRaTmVMUWYxZm5peGo2a25FcXM1NklKQ2RYTVFRMXk3cjBoSE1laERjY1p6TUtmQkc3WDFqRUlJU1dHVHA2UnFFS2N2b2dmVDM5Sm43ZUV5N0dTcmU0eTRLNHdxaDBMRGZySHVGOGx2Zml5dkstWVplcWpLeWNWQ1pRNkVWWjFJUzNB?oc=5</guid>
-            <pubDate>Fri, 24 Apr 2026 13:45:40 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于生产问题，美国 FDA 拒绝艾伯维 (AbbVie) 的抗皱治疗产品 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[中概股未完成备案抢跑上市 证监会开首张罚单 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZQUxJUURtZkxTMWJLYjk3ZWxNUl9xaElyMk5mdVZ2THVES18xbEE4NzdabVZoc2EteWVObmxkc2t3NUpHTkpDblZDcHVsZy1zaDkwaEkzQXF5X1NoUWNmNTBR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZQUxJUURtZkxTMWJLYjk3ZWxNUl9xaElyMk5mdVZ2THVES18xbEE4NzdabVZoc2EteWVObmxkc2t3NUpHTkpDblZDcHVsZy1zaDkwaEkzQXF5X1NoUWNmNTBR?oc=5</guid>
@@ -707,6 +700,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT3B0ZTEtSE1tLXY1ZDNaMkZ4RnJfZFVVMUpSbjZRMVA0S191ZFpYY21fQ0xBRUYwUnJUVmN6N3prZ29rS2NXU1huNDdOMXNPQ1BIbHJZSE5qVzVmNHQyX2dCM0tCQzFEYkNQQlFrVjdkWmhyT0tkN2J6d25sZWxYUGZpbEpCVW5FOHFMMGZ0X3RFbnYtRFR2dTNxNVgta0hueHUyczRkM2tBZXJKeUJSNHNxNG4zMFRfb2hmdUlCbVZzZw?oc=5</guid>
             <pubDate>Fri, 24 Apr 2026 12:29:15 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 俄罗斯称欧盟新制裁将伤害发展中国家 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[被忽视的关键原料危机，正在拖垮设备与芯片厂商 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NRFpaWXZsRnFQRHBBck1ycjFtZ0p2bjJHSmlEcjhEUU1XWV91WGd1WlRDS0VyeVpxVWE1Ynltdm10Yko4N0FDclNvN1M1bEgyR25N?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NRFpaWXZsRnFQRHBBck1ycjFtZ0p2bjJHSmlEcjhEUU1XWV91WGd1WlRDS0VyeVpxVWE1Ynltdm10Yko4N0FDclNvN1M1bEgyR25N?oc=5</guid>
+            <pubDate>Fri, 24 Apr 2026 12:26:47 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 被忽视的关键原料危机，正在拖垮设备与芯片厂商  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
