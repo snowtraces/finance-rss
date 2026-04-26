@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 26 Apr 2026 21:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 22:02:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3330672</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3330672</guid>
+            <pubDate>Sun, 26 Apr 2026 21:20:15 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[高盛和摩根大通显示华尔街在量子计算竞赛中的分歧]]></title>
             <link>https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests</link>
@@ -171,13 +178,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[海通国际：港股市场对油价冲击脱敏 AI硬件成为交易主线]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3330632</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3330632</guid>
-            <pubDate>Sun, 26 Apr 2026 12:35:07 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[特朗普在新闻晚宴上枪击后撤离，枪手被拘留]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-04-26/trump-evacuated-after-shooting-at-press-dinner-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-26/trump-evacuated-after-shooting-at-press-dinner-video</guid>
@@ -234,7 +234,7 @@
             <description><![CDATA[[Bloomberg] 霍尔木兹海峡的交通几乎完全停止，伊朗和美国都没有表现出放松海上交通封锁的迹象。]]></description>
         </item>
         <item>
-            <title><![CDATA[瑞士要求赔偿克莱恩·蒙塔纳火灾遇难者的治疗费用，此举激怒了意大利 - 路透中文网]]></title>
+            <title><![CDATA[瑞士要求赔偿克莱恩·蒙塔纳火灾受害者的治疗费用，此举激怒了意大利 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX1dTMHBmaUpPUXhyWk1BNUdNSGE2QldIOHpQc0tIMHplVVVaVTlqekNrTjBDd3RfVElkZ3hPcXRlUU9CbEd2dmZWS1FjYzM4MS0wc24ySURCdTc5SXhxaGI1M0hKSmtHSjhRdHJZZTMyZ3VjRy1HV0I0aTdvVWsxOUtxV0JnVGRYc3dGbkNST1BUd1lpU2tORXoxcy1YQjZWWFcxUlpXRkNkdlhrWEZDSUo0dFkxTTlZck5RN05rWEp6NEQxbFJfNy1QQThzckQ1MUluYTRyc216QWlBNWF4cjhYMWs?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX1dTMHBmaUpPUXhyWk1BNUdNSGE2QldIOHpQc0tIMHplVVVaVTlqekNrTjBDd3RfVElkZ3hPcXRlUU9CbEd2dmZWS1FjYzM4MS0wc24ySURCdTc5SXhxaGI1M0hKSmtHSjhRdHJZZTMyZ3VjRy1HV0I0aTdvVWsxOUtxV0JnVGRYc3dGbkNST1BUd1lpU2tORXoxcy1YQjZWWFcxUlpXRkNkdlhrWEZDSUo0dFkxTTlZck5RN05rWEp6NEQxbFJfNy1QQThzckQ1MUluYTRyc216QWlBNWF4cjhYMWs?oc=5</guid>
             <pubDate>Sun, 26 Apr 2026 10:23:43 GMT</pubDate>
@@ -306,7 +306,7 @@
             <description><![CDATA[[华尔街见闻] 高盛：DeepSeek V4对中国AI意味着什么？  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[当被问及他是否是庆典袭击者的目标时，特朗普说“我猜” - 路透中文网]]></title>
+            <title><![CDATA[Trump says 'I guess' when asked if he was target of gala attacker - Reuters]]></title>
             <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPSW5wZkNZaDdkQzBDWFpKNHRhcUo4MmdxMWFYMW9rV09nYTVoTVdpYlZjeUdldFoyQUhyZ2FXWVQ0OGJDa3dWOE1lZ3YxOUNtN213UjhXeHZnbVB5MDN1RDFrdjJzSzdBaTRvS3FiWE5YTFZPWlRzSXNzaUhHeGhjS19RbXlQdmNOR2ROeldkYjhfazNNaEs4N25aQ3pIblB6eHpoT2t2X0JXbnQ0QXZTTlBfZ3ZaTDlpR1E0UUR1b1V6M0k2NzJfb3U3MXhrdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxPSW5wZkNZaDdkQzBDWFpKNHRhcUo4MmdxMWFYMW9rV09nYTVoTVdpYlZjeUdldFoyQUhyZ2FXWVQ0OGJDa3dWOE1lZ3YxOUNtN213UjhXeHZnbVB5MDN1RDFrdjJzSzdBaTRvS3FiWE5YTFZPWlRzSXNzaUhHeGhjS19RbXlQdmNOR2ROeldkYjhfazNNaEs4N25aQ3pIblB6eHpoT2t2X0JXbnQ0QXZTTlBfZ3ZaTDlpR1E0UUR1b1V6M0k2NzJfb3U3MXhrdw?oc=5</guid>
             <pubDate>Sun, 26 Apr 2026 02:55:16 GMT</pubDate>
@@ -348,7 +348,7 @@
             <description><![CDATA[[Bloomberg] 即将上任的匈牙利总理彼得·马扎尔表示，他有消息称，与欧尔班·维克多即将卸任的政府有联系的富人正在将资产转移到国外，并呼吁当局拘留逃亡的“寡头”家庭。]]></description>
         </item>
         <item>
-            <title><![CDATA[廉价的私人信贷基金吸引了抄底者]]></title>
+            <title><![CDATA[廉价的私人信贷基金吸引逢低买入者]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-25/cheap-private-credit-funds-draw-bargain-hunters-credit-weekly</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-25/cheap-private-credit-funds-draw-bargain-hunters-credit-weekly</guid>
             <pubDate>Sat, 25 Apr 2026 19:00:00 GMT</pubDate>
@@ -530,6 +530,13 @@
             <description><![CDATA[[Reuters Business] 林肯国际计划在美国市场进行罕见的投资银行 IPO 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[英特尔股价飙升，因有迹象表明 CPU 的人工智能热潮即将到来 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTljTXlld2NZUEpMNUZ6RFlXS2VVNFJWcTd6UGQ5M3d5RkJJU1U3WEJnOXhnbVI5UmRIT09mdnNmQXk4QW9tcVVESzJyaU1KM3BQSndIdWowN19fSHdlY2ZWN1kxTTNId1VWTDZKRzlpUHB1MGNFbml0dWNqajNIVUg0Yl9nbG00RnNXbi1DeTBFU2dCOFZ2U0VZcHRWR3lDZkVVZE1FVWhqZEw0WXVV?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTljTXlld2NZUEpMNUZ6RFlXS2VVNFJWcTd6UGQ5M3d5RkJJU1U3WEJnOXhnbVI5UmRIT09mdnNmQXk4QW9tcVVESzJyaU1KM3BQSndIdWowN19fSHdlY2ZWN1kxTTNId1VWTDZKRzlpUHB1MGNFbml0dWNqajNIVUg0Yl9nbG00RnNXbi1DeTBFU2dCOFZ2U0VZcHRWR3lDZkVVZE1FVWhqZEw0WXVV?oc=5</guid>
+            <pubDate>Fri, 24 Apr 2026 22:44:26 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 英特尔股价飙升，因有迹象表明 CPU 的人工智能热潮即将到来 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[Jane Street 2025年交易收入396亿美元，超越所有华尔街银行 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoWlRHOEVMOElrVEJlTnM2Y3NPSW5nVXQySmFteHMzQTJXcDFacnhESFl1bERPdkhiM0Fab0pnVW5vaUdDd1U5Uktnd2tkQUxGOWln?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoWlRHOEVMOElrVEJlTnM2Y3NPSW5nVXQySmFteHMzQTJXcDFacnhESFl1bERPdkhiM0Fab0pnVW5vaUdDd1U5Uktnd2tkQUxGOWln?oc=5</guid>
@@ -703,13 +710,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-major-central-bank-meetings-due-as-middle-east-conflict-continues-f325a311</guid>
             <pubDate>Fri, 24 Apr 2026 16:14:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 主要央行将在未来一周做出一系列决定，其中包括美联储、欧洲央行、日本央行和英格兰银行。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[失业率很低。 股市处于高位。 消费者支出健康。 但如果问美国人过得怎么样，你可能会认为我们正处于经济衰退之中。]]></title>
-            <link>https://www.wsj.com/economy/most-americans-think-the-job-market-will-get-worse-heres-why-that-matters-d121585a</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/most-americans-think-the-job-market-will-get-worse-heres-why-that-matters-d121585a</guid>
-            <pubDate>Fri, 24 Apr 2026 16:01:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 大公司正在裁员数千人，但总体失业率没有变化。 就连有稳定工作、高薪的人也被吓到了。]]></description>
         </item>
     </channel>
 </rss>
