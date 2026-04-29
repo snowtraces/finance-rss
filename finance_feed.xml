@@ -4,44 +4,264 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 29 Apr 2026 17:56:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 19:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[华勤技术(603296.SH)发布一季度业绩，归母净利润10.61亿元，同比增长25.96%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3338549</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338549</guid>
-            <pubDate>Wed, 29 Apr 2026 17:35:08 GMT</pubDate>
+            <title><![CDATA[美联储维持利率稳定，但反对声音达到1992年以来最高水平]]></title>
+            <link>https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html</guid>
+            <pubDate>Wed, 29 Apr 2026 19:23:36 GMT</pubDate>
+            <description><![CDATA[[CNBC] 美联储周三公布了最新的利率决定。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[比尔·阿克曼 (Bill Ackman) 的美国潘兴广场 (Pershing Square USA) 开始交易，远低于 IPO 价格]]></title>
+            <link>https://www.cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html</guid>
+            <pubDate>Wed, 29 Apr 2026 19:19:16 GMT</pubDate>
+            <description><![CDATA[[CNBC] 此次上市让公众投资者首次直接持有阿克曼投资平台的股份，该平台运营着由 10 家大盘股组成的集中投资组合。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储维持利率稳定； 但鲍威尔八年的主席任期充满争议，央行的利率立场招致四人反对]]></title>
+            <link>https://www.wsj.com/economy/central-banking/fed-closes-powell-era-with-rates-on-hold-and-divide-over-what-comes-next-0aec10c2</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/fed-closes-powell-era-with-rates-on-hold-and-divide-over-what-comes-next-0aec10c2</guid>
+            <pubDate>Wed, 29 Apr 2026 19:16:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 鲍威尔表示，在凯文·沃什担任美联储主席后，他将继续留在美联储董事会，任期尚未确定，因为担心法律攻击“正在打击该机构”。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[杰罗姆·鲍威尔表示，他将继续担任美联储理事，称特朗普的批评“史无前例”]]></title>
+            <link>https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html</guid>
+            <pubDate>Wed, 29 Apr 2026 19:15:55 GMT</pubDate>
+            <description><![CDATA[[CNBC] 鲍威尔谈到了在主席任期结束后是否继续担任理事会成员的问题。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[需要投资独特的旅游品牌：凯恩首席执行官]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/need-to-invest-in-distinctive-travel-brands-cain-ceo-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/need-to-invest-in-distinctive-travel-brands-cain-ceo-video</guid>
+            <pubDate>Wed, 29 Apr 2026 19:13:56 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Cain International 联合创始人兼首席执行官 Jonathan Goldstein 在“彭博交易”中与 Dani Burger 讨论了在投资奢侈品资产时关注品牌实力和卓越运营的重要性。   （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着潜在买家的青睐，PayPal 新任首席执行官将 Venmo 打造为独立业务部门]]></title>
+            <link>https://www.cnbc.com/2026/04/29/paypal-restructures-venmo-standalone-unit.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/04/29/paypal-restructures-venmo-standalone-unit.html</guid>
+            <pubDate>Wed, 29 Apr 2026 19:13:31 GMT</pubDate>
+            <description><![CDATA[[CNBC] PayPal 认为，新的公司结构可以重新激发这家在电子商务之战中输给苹果、谷歌和 Stripe 的公司的增长。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[即将发生的重大航空公司并购：McCaleb]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/significant-airline-m-a-on-the-horizon-mccaleb-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/significant-airline-m-a-on-the-horizon-mccaleb-video</guid>
+            <pubDate>Wed, 29 Apr 2026 19:09:58 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 波士顿咨询集团运输公司 (Boston Consulting Group Transport) 旅行、运输和休闲业务董事总经理兼合伙人汤姆·麦卡莱布 (Tom McCaleb) 与丹尼·伯格 (Dani Burger) 一起参加“彭博交易”。   （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[鲍威尔称他“别无选择”只能留在美联储]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/powell-says-he-has-no-choice-but-to-stay-at-fed-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/powell-says-he-has-no-choice-but-to-stay-at-fed-video</guid>
+            <pubDate>Wed, 29 Apr 2026 19:06:56 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美联储主席杰罗姆·鲍威尔表示，对最近对央行的法律攻击的担忧促使他决定留在该机构，并将在适当的时候离开。 虽然鲍威尔作为美联储主席的任期将于 5 月 15 日结束，但他在理事会的席位要到 2028 年才会到期。（来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储如期维持利率不变 内部分歧创1992年以来新高]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3338700</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338700</guid>
+            <pubDate>Wed, 29 Apr 2026 19:06:05 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[美的集团(000333.SZ)发布一季度业绩，归母净利润126.75亿元，增长2.03%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3338548</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338548</guid>
-            <pubDate>Wed, 29 Apr 2026 17:35:08 GMT</pubDate>
+            <title><![CDATA[美联储维持利率不变引发通胀担忧,美债收益率攀升]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3338697</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3338697</guid>
+            <pubDate>Wed, 29 Apr 2026 19:04:52 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[可川科技(603052.SH)发布一季度业绩，归母净亏损1158.87万元]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3338547</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338547</guid>
-            <pubDate>Wed, 29 Apr 2026 17:35:08 GMT</pubDate>
+            <title><![CDATA[美国原油出口突破600万桶/日创历史纪录，库存超预期下滑，WTI涨近7% - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE94emZ1c08zeXhTdDFoc21LLVJpSnk2dzJsOGg4NzY4OTJjbnJ1NklhNXhzRDNXVnk0Y1FmdkhpdGNlSlRSZzBCSzB4MmRYcnU3aWY4?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE94emZ1c08zeXhTdDFoc21LLVJpSnk2dzJsOGg4NzY4OTJjbnJ1NklhNXhzRDNXVnk0Y1FmdkhpdGNlSlRSZzBCSzB4MmRYcnU3aWY4?oc=5</guid>
+            <pubDate>Wed, 29 Apr 2026 18:58:22 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 美国原油出口突破600万桶/日创历史纪录，库存超预期下滑，WTI涨近7%  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[卡尔希投注者称：鲍威尔表示，他将在主席任期结束后继续担任美联储理事]]></title>
+            <link>https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html</guid>
+            <pubDate>Wed, 29 Apr 2026 18:53:28 GMT</pubDate>
+            <description><![CDATA[[CNBC] 该平台上的投注者认为鲍威尔要到八月才会离开。 如果他留任到那时，他将再参加两次联邦公开市场委员会会议。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Avis Budget首席执行官指控主要投资者引发股价暴跌]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3338673</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3338673</guid>
+            <pubDate>Wed, 29 Apr 2026 18:43:30 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[三花智控(002050.SZ)发布一季度业绩，归母净利润9.28亿元，增长2.68%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3338546</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338546</guid>
-            <pubDate>Wed, 29 Apr 2026 17:35:07 GMT</pubDate>
+            <title><![CDATA[美联储决定后华尔街扩大损失，大型科技公司盈利即将到来 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2xIcDUxN3pVSGgtN3VKSnZsLXphakpwdFRHb2NtcnA1NzEtWG1DUWpxTTFhWGNsSGdXS2xMQXdJcV9Gbzc0TzdMUUNNbk9DOE95LWk2YktiR0JoZ1RyV0R4OEgwTWIxbGc0QkNmVzFVcHlZVENWZWJkQ1JGdTVfM3NiaF9MM1JleWlnR1hWSjRaM0N0bm5rWGlXZDJXako4MnkwcVNZOF9vdw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2xIcDUxN3pVSGgtN3VKSnZsLXphakpwdFRHb2NtcnA1NzEtWG1DUWpxTTFhWGNsSGdXS2xMQXdJcV9Gbzc0TzdMUUNNbk9DOE95LWk2YktiR0JoZ1RyV0R4OEgwTWIxbGc0QkNmVzFVcHlZVENWZWJkQ1JGdTVfM3NiaF9MM1JleWlnR1hWSjRaM0N0bm5rWGlXZDJXako4MnkwcVNZOF9vdw?oc=5</guid>
+            <pubDate>Wed, 29 Apr 2026 18:42:55 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美联储决定后华尔街扩大损失，大型科技公司盈利即将到来 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[捷蓝航空、预订部门对旅行需求的更新情况参差不齐]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/jetblue-booking-give-mixed-update-on-travel-demand-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/jetblue-booking-give-mixed-update-on-travel-demand-video</guid>
+            <pubDate>Wed, 29 Apr 2026 18:40:58 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 彭博社的 Scarlet Fu 在“彭博交易”中讨论了伊朗战争期间燃油价格飙升的旅行需求。 本周，捷蓝航空、Booking Holdings 和希尔顿对未来的旅行需求发表了不同的评论。   （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普认为阿联酋退出欧佩克可能会在战争期间降低能源价格]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-29/trump-hails-uae-s-exit-from-opec-says-will-lower-energy-prices</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/trump-hails-uae-s-exit-from-opec-says-will-lower-energy-prices</guid>
+            <pubDate>Wed, 29 Apr 2026 18:39:15 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美国总统唐纳德·特朗普表示，阿拉伯联合酋长国退出欧佩克的决定将有助于降低能源价格，该价格因伊朗战争而飙升并继续攀升。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[寒武纪(688256.SH)发布一季度业绩，归母净利润10.13亿元，同比增长185.04%]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3338661</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338661</guid>
+            <pubDate>Wed, 29 Apr 2026 18:35:14 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[Eylea销售下滑和监管延迟致Regeneron股价下跌5%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3338538</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3338538</guid>
-            <pubDate>Wed, 29 Apr 2026 17:27:29 GMT</pubDate>
+            <title><![CDATA[中国东航(600115.SH)发布一季度业绩，归母净利润16.33亿元，同比扭亏为盈]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3338660</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338660</guid>
+            <pubDate>Wed, 29 Apr 2026 18:35:14 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[双良节能(600481.SH)发布一季度业绩，归母净亏损3.94亿元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3338659</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338659</guid>
+            <pubDate>Wed, 29 Apr 2026 18:35:13 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[国晟科技(603778.SH)发布一季度业绩，归母净亏损3484万元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3338658</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338658</guid>
+            <pubDate>Wed, 29 Apr 2026 18:35:13 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国国航(601111.SH)发布一季度业绩，归母净利润17.14亿元，同比扭亏]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3338657</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338657</guid>
+            <pubDate>Wed, 29 Apr 2026 18:35:13 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[南方航空(600029.SH)发布一季度业绩，扭亏为盈至14.81亿元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3338656</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338656</guid>
+            <pubDate>Wed, 29 Apr 2026 18:35:12 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大全能源(688303.SH)发布一季度业绩，归母净亏损8.01亿元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3338655</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338655</guid>
+            <pubDate>Wed, 29 Apr 2026 18:35:12 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[政策宽松倾向分歧巨大 美联储维持利率稳定 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTE2dHRRUFRZX2pNc0IxanRJTExxV2NKRFlNRkVFQ3hBNHhxVkVDbHpRWTNpRTB6ejh5M0hxanFQTzc3MTZlMXhYNVJRd2hqcjNFQW0wZlFOQzN5LUJ3bG44bUxGa09UaGpVRV9xVWdBVjVlVkl5MF94cHFqa3V3R2NJcGNyb3FvLTUzYnkzOEE1YTNTaFhINEMyeVlhS3FDTHl2YTVBcDZaZU81dVE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTE2dHRRUFRZX2pNc0IxanRJTExxV2NKRFlNRkVFQ3hBNHhxVkVDbHpRWTNpRTB6ejh5M0hxanFQTzc3MTZlMXhYNVJRd2hqcjNFQW0wZlFOQzN5LUJ3bG44bUxGa09UaGpVRV9xVWdBVjVlVkl5MF94cHFqa3V3R2NJcGNyb3FvLTUzYnkzOEE1YTNTaFhINEMyeVlhS3FDTHl2YTVBcDZaZU81dVE?oc=5</guid>
+            <pubDate>Wed, 29 Apr 2026 18:31:43 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 政策宽松倾向分歧巨大，美联储维持利率不变 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通的米歇尔表示，美联储正在转向对称政策]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/fed-moving-towards-symmetrical-policy-jpm-s-michele-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/fed-moving-towards-symmetrical-policy-jpm-s-michele-video</guid>
+            <pubDate>Wed, 29 Apr 2026 18:30:58 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 摩根大通资产管理公司固定收益全球主管鲍勃·米歇尔（Bob Michele）在彭博电视上表示：“如果美联储不采取对称姿态，那他就疯了。”  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sun Pharma 和礼来公司引领最新的医疗保健交易热潮]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/sun-pharma-lilly-lead-latest-healthcare-deal-rush-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/sun-pharma-lilly-lead-latest-healthcare-deal-rush-video</guid>
+            <pubDate>Wed, 29 Apr 2026 18:27:58 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 彭博社的 Scarlet Fu 在“彭博交易”中总结了最近的制药交易。  礼来公司 (Eli Lilly) 同意以 23 亿美元现金收购少数人持股的 Ajax Therapeutics。  Sun Pharmaceutical Industries 已同意收购纽约上市的女性保健公司 Organon。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通的米歇尔表示，美联储今年可能会按兵不动]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/fed-can-stay-on-hold-this-year-jpmorgan-s-michele-says-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/fed-can-stay-on-hold-this-year-jpmorgan-s-michele-says-video</guid>
+            <pubDate>Wed, 29 Apr 2026 18:23:13 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 摩根大通资产管理公司固定收益全球主管鲍勃·米歇尔在彭博电视上表示，伊朗冲突带来的通胀风险意味着美联储可能会在年底前按兵不动。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储维持利率不变，四名官员持不同意见]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/fed-leave-rates-unchanged-four-officials-dissent-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/fed-leave-rates-unchanged-four-officials-dissent-video</guid>
+            <pubDate>Wed, 29 Apr 2026 18:20:42 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美联储将利率维持在 3.5% 至 3.75% 的范围内不变。 但四名官员投票反对这一决定。 这是自 1992 年以来首次出现四人反对。 彭博社的迈克尔·麦基报道。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[参议员摩尔·卡皮托表示，伊朗拥有核武器是“对世界的真正危险”]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/sen-moore-capito-on-fisa-energy-prices-and-iran-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/sen-moore-capito-on-fisa-energy-prices-and-iran-video</guid>
+            <pubDate>Wed, 29 Apr 2026 18:19:01 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 共和党参议员雪莱·摩尔·卡皮托 (Shelley Moore Capito) 加入《权力平衡》，讨论中东谈判的紧张局势以及即将到期的外国情报监视法案 (FISA)。 参议员摩尔·卡皮托表示，即将到期的《外国情报监视法》部分是美国调查和阻止外国威胁的重要工具。
+  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通力同意以 $34.4B 收购 TK Elevator]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/kone-agrees-to-buy-tk-elevator-for-34-4b-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/kone-agrees-to-buy-tk-elevator-for-34-4b-video</guid>
+            <pubDate>Wed, 29 Apr 2026 18:13:58 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 彭博社的利亚娜·贝克 (Liana Baker) 与丹尼·伯格 (Dani Burger) 一起参与“彭博交易”。 通力同意以 344 亿美元（含债务）收购 TK Elevator，将这家芬兰公司转变为行业主导者，并给竞争对手带来新的压力。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2026 年又是催化剂丰收的一年：阿斯利康首席财务官]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/2026-another-catalyst-rich-year-astrazeneca-cfo-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/2026-another-catalyst-rich-year-astrazeneca-cfo-video</guid>
+            <pubDate>Wed, 29 Apr 2026 18:13:57 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 阿斯利康首席财务官 Aradhana Sarin 与 Dani Burger 和 Katie Greifeld 一起参加“彭博交易”。 得益于其重磅抗癌药物的需求，阿斯利康第一季度的利润增长超过预期。   （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储公布利率决议，美国10年期国债收益率短线从4.39%上扬至4.40%上方。黄金微幅走低，日内跌约1.2%，美元维持超过0.2%的涨幅。美股略走低，标普500指数跌0.3%，道指跌360点、跌幅0.7%，纳指跌0.3%，纳斯达克100指数涨0.17% - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE11d3h4a2dZUWxJLUp4ZkVYS2Y1dGJWQ1ZqeVdjYnlqUFlrTUM4VmVoeXdjOHRPQk5VT0M0TElybVVDMW9PajB3M2lXV0RnbXo3bmJv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE11d3h4a2dZUWxJLUp4ZkVYS2Y1dGJWQ1ZqeVdjYnlqUFlrTUM4VmVoeXdjOHRPQk5VT0M0TElybVVDMW9PajB3M2lXV0RnbXo3bmJv?oc=5</guid>
+            <pubDate>Wed, 29 Apr 2026 18:08:36 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 美联储公布利率决议，美国10年期国债收益率短线从4.39%上扬至4.40%上方。黄金微幅走低，日内跌约1.2%，美元维持超过0.2%的涨幅。美股略走低，标普500指数跌0.3%，道指跌360点、跌幅0.7%，纳指跌0.3%，纳斯达克100指数涨0.17%  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这是新的美联储声明中的变化]]></title>
+            <link>https://www.cnbc.com/2026/04/29/april-fed-meeting-statement-redline.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/04/29/april-fed-meeting-statement-redline.html</guid>
+            <pubDate>Wed, 29 Apr 2026 18:06:00 GMT</pubDate>
+            <description><![CDATA[[CNBC] 这是周三联邦公开市场委员会声明与美联储 3 月份上一次政策制定会议后发布的声明的比较。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于第一季度利润下降，保时捷将中东问题列入问题清单 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHc1YmJERVpaREM3cDJtVTY0MUktYUZUTG13aURySkcxSGhueTZXN1QyWC1rLU1na01MWUtNQW9tVUdQSVRySUZzOC1NZFJwV01Vb1o3M1RWZmxwai1hRnlfMGtMT0FSOVJCbXRucVYxVlBMTUV1NEpHckwxYzB0dmNMdHpWUXZLdFUzNWhkSVFXczNRZDBRYjloeEZiME1RS2d0YU9nWDduazM3b2xUYnV5LUVXRHl0YWU2cQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHc1YmJERVpaREM3cDJtVTY0MUktYUZUTG13aURySkcxSGhueTZXN1QyWC1rLU1na01MWUtNQW9tVUdQSVRySUZzOC1NZFJwV01Vb1o3M1RWZmxwai1hRnlfMGtMT0FSOVJCbXRucVYxVlBMTUV1NEpHckwxYzB0dmNMdHpWUXZLdFUzNWhkSVFXczNRZDBRYjloeEZiME1RS2d0YU9nWDduazM3b2xUYnV5LUVXRHl0YWU2cQ?oc=5</guid>
+            <pubDate>Wed, 29 Apr 2026 18:05:46 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 随着第一季度利润下降，保时捷将中东问题列入问题清单 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普就伊朗问题向梅尔茨回击]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/trump-fires-back-at-merz-over-iran-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/trump-fires-back-at-merz-over-iran-video</guid>
+            <pubDate>Wed, 29 Apr 2026 17:58:17 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在德国总理暗示伊朗“羞辱”美国谈判代表后，唐纳德·特朗普进行了回击。
+
+ 亚历克斯·摩根解释道。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[保乐力加 (Pernod Ricard) 和杰克丹尼 (Jack Daniel’s) Maker 终止合并讨论]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-04-29/pernod-ricard-and-jack-daniel-s-end-merger-discussions-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/pernod-ricard-and-jack-daniel-s-end-merger-discussions-video</guid>
+            <pubDate>Wed, 29 Apr 2026 17:58:11 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 彭博社的米歇尔·戴维斯 (Michelle Davis) 与丹尼·伯格 (Dani Burger) 一起参加“彭博交易”。  杰克丹尼尔（Jack Daniel）的所有者布朗福曼（Brown-Forman）和詹姆森威士忌制造商保乐力加（Pernod Ricard SA）终止了合并谈判，标志着一项旨在应对行业低迷的潜在跨大西洋交易的突然结束。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[交易员准备迎接与收益相关的 8000 亿美元的股票走势]]></title>
@@ -58,39 +278,18 @@
             <description><![CDATA[[Bloomberg] Pershing Square 创始人兼首席执行官 Bill Ackman 讨论了 Pershing Square 新的封闭式基金和另类资产管理公司最近的 IPO。 阿克曼强调，此次 IPO 标志着长期旅程的开始，50 亿美元的资本将在几周内准备好部署。 他与丹尼·伯格就“彭博交易”进行了交谈。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[豪迈科技(002595.SZ)发布一季度业绩，归母净利润5.15亿元，下降0.83%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3338522</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338522</guid>
-            <pubDate>Wed, 29 Apr 2026 17:05:14 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[美伊战争尚未结束，油价逼近 120 美元]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-04-29/brent-oil-hits-highest-since-june-2022-on-us-iran-stalemate</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/brent-oil-hits-highest-since-june-2022-on-us-iran-stalemate</guid>
+            <pubDate>Wed, 29 Apr 2026 17:06:33 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于美伊冲突尚未结束或霍尔木兹海峡能源流动受阻，油价飙升至 2022 年 6 月以来的最高水平，加剧了人们对全球供应缓冲迅速萎缩的担忧。]]></description>
         </item>
         <item>
-            <title><![CDATA[引力传媒(603598.SH)发布一季度业绩，归母净利润1039万元，同比增长37.73%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3338521</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338521</guid>
-            <pubDate>Wed, 29 Apr 2026 17:05:14 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[佛慈制药(002644.SZ)发布一季度业绩，归母净利润2266.12万元，同比增长16.92%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3338520</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338520</guid>
-            <pubDate>Wed, 29 Apr 2026 17:05:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[长高电新(002452.SZ)发布一季度业绩，归母净利润5662.03万元，增长69.27%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3338519</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338519</guid>
-            <pubDate>Wed, 29 Apr 2026 17:05:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[神州高铁(000008.SZ)发布一季度业绩，归母净亏损3040.11万元，收窄28.68%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3338518</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3338518</guid>
-            <pubDate>Wed, 29 Apr 2026 17:05:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[环球音乐将出售一半 Spotify 股份进行回购，第一季度受美元疲软打击 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjRPamg2NG1RdkdrVlZTU3ZEc1VDV1p4dmVDWmZvVmkyNU91V3Q2ckhuanJFNWx3X3U0QktOaHNIWDctYjFoWWl0THBpVnFMVG15RGQybmlTakhsNkx3QzZVRzZOTEpYY0pQeTJ4a3hfNE1pbXBQLWNnS3NsRzZfaWhMeXpIT0l6SDJYVEJMY2lUM1k2d3NwUnVUUG5WTzZwdEdKYmNqSjh2elJ5TldyV3F6MlMxVWpSdm1GdTl3bWpBc3Nn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjRPamg2NG1RdkdrVlZTU3ZEc1VDV1p4dmVDWmZvVmkyNU91V3Q2ckhuanJFNWx3X3U0QktOaHNIWDctYjFoWWl0THBpVnFMVG15RGQybmlTakhsNkx3QzZVRzZOTEpYY0pQeTJ4a3hfNE1pbXBQLWNnS3NsRzZfaWhMeXpIT0l6SDJYVEJMY2lUM1k2d3NwUnVUUG5WTzZwdEdKYmNqSjh2elJ5TldyV3F6MlMxVWpSdm1GdTl3bWpBc3Nn?oc=5</guid>
+            <pubDate>Wed, 29 Apr 2026 17:05:33 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 环球音乐将出售一半 Spotify 股份进行回购，第一季度受美元疲软打击 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[Atome认为战争推动的转变将促进低碳化肥的发展]]></title>
@@ -107,13 +306,6 @@
             <description><![CDATA[[Bloomberg] 潘兴广场 (Pershing Square) 创始人兼首席执行官比尔·阿克曼 (Bill Ackman) 在接受《彭博交易》(Bloomberg Deals) 节目丹尼·伯格 (Dani Burger) 采访时表示，他没有看到市场出现任何战略错位。 阿克曼的封闭式基金和另类资产管理公司的联合首次公开募股筹集了 50 亿美元。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[比尔·阿克曼 (Bill Ackman) 50 亿美元潘兴广场 (Pershing Square) IPO 开始交易，测试伯克希尔风格的愿景]]></title>
-            <link>https://www.cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/04/29/bill-ackmans-5-billion-pershing-square-ipo-to-start-trading-testing-berkshire-style-vision.html</guid>
-            <pubDate>Wed, 29 Apr 2026 16:58:33 GMT</pubDate>
-            <description><![CDATA[[CNBC] 此次上市让公众投资者首次直接持有阿克曼投资平台的股份，该平台运营着由 10 家大盘股组成的集中投资组合。]]></description>
-        </item>
-        <item>
             <title><![CDATA[阿克曼表示投资首次公开募股收益需要几周而不是几个月的时间]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-04-29/ackman-says-it-ll-take-weeks-to-invest-ipo-proceeds-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/ackman-says-it-ll-take-weeks-to-invest-ipo-proceeds-video</guid>
@@ -128,7 +320,7 @@
             <description><![CDATA[[Reuters Business] EIA称美国石油库存暴跌，该国首次成为每周原油净出口国 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美联储预计将维持利率稳定，鲍威尔的未来成为焦点]]></title>
+            <title><![CDATA[鲍威尔表示他不会成为沃什美联储的“影子主席”]]></title>
             <link>https://www.bloomberg.com/news/live-blog/2026-04-29/fed-rate-decision-and-powell-news-conference</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/live-blog/2026-04-29/fed-rate-decision-and-powell-news-conference</guid>
             <pubDate>Wed, 29 Apr 2026 16:44:09 GMT</pubDate>
@@ -142,32 +334,11 @@
             <description><![CDATA[[Bloomberg] 一个新的法学硕士活在我们的历史中。]]></description>
         </item>
         <item>
-            <title><![CDATA[华尔街在大型科技公司财报和美联储会议之前失去动力 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2xIcDUxN3pVSGgtN3VKSnZsLXphakpwdFRHb2NtcnA1NzEtWG1DUWpxTTFhWGNsSGdXS2xMQXdJcV9Gbzc0TzdMUUNNbk9DOE95LWk2YktiR0JoZ1RyV0R4OEgwTWIxbGc0QkNmVzFVcHlZVENWZWJkQ1JGdTVfM3NiaF9MM1JleWlnR1hWSjRaM0N0bm5rWGlXZDJXako4MnkwcVNZOF9vdw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2xIcDUxN3pVSGgtN3VKSnZsLXphakpwdFRHb2NtcnA1NzEtWG1DUWpxTTFhWGNsSGdXS2xMQXdJcV9Gbzc0TzdMUUNNbk9DOE95LWk2YktiR0JoZ1RyV0R4OEgwTWIxbGc0QkNmVzFVcHlZVENWZWJkQ1JGdTVfM3NiaF9MM1JleWlnR1hWSjRaM0N0bm5rWGlXZDJXako4MnkwcVNZOF9vdw?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 16:17:02 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 华尔街在大型科技公司财报和美联储会议之前失去动力 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[贸易动荡损害CN铁路； 股价跌幅自 2021 年以来最大]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-29/cn-rail-shares-drop-the-most-since-2021-amid-macro-uncertainty</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/cn-rail-shares-drop-the-most-since-2021-amid-macro-uncertainty</guid>
             <pubDate>Wed, 29 Apr 2026 16:12:20 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 加拿大国家铁路公司(Canadian National Railway Co.)的收入低于预期，股价出现四年多来最大跌幅，北美贸易前景仍不明朗。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关税和中国市场影响保时捷第一季度业绩下滑 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHc1YmJERVpaREM3cDJtVTY0MUktYUZUTG13aURySkcxSGhueTZXN1QyWC1rLU1na01MWUtNQW9tVUdQSVRySUZzOC1NZFJwV01Vb1o3M1RWZmxwai1hRnlfMGtMT0FSOVJCbXRucVYxVlBMTUV1NEpHckwxYzB0dmNMdHpWUXZLdFUzNWhkSVFXczNRZDBRYjloeEZiME1RS2d0YU9nWDduazM3b2xUYnV5LUVXRHl0YWU2cQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHc1YmJERVpaREM3cDJtVTY0MUktYUZUTG13aURySkcxSGhueTZXN1QyWC1rLU1na01MWUtNQW9tVUdQSVRySUZzOC1NZFJwV01Vb1o3M1RWZmxwai1hRnlfMGtMT0FSOVJCbXRucVYxVlBMTUV1NEpHckwxYzB0dmNMdHpWUXZLdFUzNWhkSVFXczNRZDBRYjloeEZiME1RS2d0YU9nWDduazM3b2xUYnV5LUVXRHl0YWU2cQ?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 16:11:37 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于关税和中国市场的影响，保时捷第一季度业绩下滑 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开店狂奔的百胜中国 外卖单多成了一种烦恼 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ObktnNjFKY2FlNGRhT25FMEtFQURlSmVRbV9md3BtNmRPZzZZZmRCNURYZG1GQWxnaWFJTUtWcms2cEYyUXZJY2w3ZDJRajRPa3dZ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ObktnNjFKY2FlNGRhT25FMEtFQURlSmVRbV9md3BtNmRPZzZZZmRCNURYZG1GQWxnaWFJTUtWcms2cEYyUXZJY2w3ZDJRajRPa3dZ?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 16:09:50 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 开店狂奔的百胜中国 外卖单多成了一种烦恼  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[由于进口大幅增加，美国3月份商品贸易逆差扩大 - 路透中文网]]></title>
@@ -184,20 +355,6 @@
             <description><![CDATA[[Reuters Business] 美联储主席提名人沃什扫清了参议院确认程序的关键障碍 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[卡尔希投注者认为鲍威尔在主席任期结束后继续担任美联储理事]]></title>
-            <link>https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/04/29/kalshi-bettors-prediction-powell-to-stay-as-fed-governor.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:53:55 GMT</pubDate>
-            <description><![CDATA[[CNBC] 该平台上的投注者认为鲍威尔要到八月才会离开。 如果他留任到那时，他将再参加两次联邦公开市场委员会会议。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[期权交易者以 80,000 美元围绕比特币搭建“电子围栏”]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-29/option-traders-build-electric-fence-around-bitcoin-at-80-000</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/option-traders-build-electric-fence-around-bitcoin-at-80-000</guid>
-            <pubDate>Wed, 29 Apr 2026 15:53:04 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 比特币一直逼近8万美元，但仍难以突破。 原因之一：期权市场中的一股隐藏力量正在对其产生不利影响。]]></description>
-        </item>
-        <item>
             <title><![CDATA[加拿大央行维持政策利率稳定，预计通胀将于四月见顶]]></title>
             <link>https://www.wsj.com/economy/central-banking/bank-of-canada-holds-policy-rate-steady-expects-inflation-to-peak-in-april-a43c560b</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/bank-of-canada-holds-policy-rate-steady-expects-inflation-to-peak-in-april-a43c560b</guid>
@@ -205,81 +362,11 @@
             <description><![CDATA[[WSJ] 加拿大央行将主要利率维持在2.25%不变，并表示只要经济按预期发展，利率就可能保持在接近这一水平。]]></description>
         </item>
         <item>
-            <title><![CDATA[恒兴股份闯关北交所：一门新材料定位下的“建材”生意 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZzlWZ3RhWU5UbGlPTDlqOXN6ZnlxQkNLQmZZczEzaXFJLVFPLUVQeVU3akZrYUhhaF9TMFpGbHRUVG1oS1IzYlBvR1FZN1NLVHIw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZzlWZ3RhWU5UbGlPTDlqOXN6ZnlxQkNLQmZZczEzaXFJLVFPLUVQeVU3akZrYUhhaF9TMFpGbHRUVG1oS1IzYlBvR1FZN1NLVHIw?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 15:39:49 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 恒兴股份闯关北交所：一门新材料定位下的“建材”生意  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[正式赴任总经理，“徐方”组合准备待发 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE82blVNa1FGalgyTW9KRm1FMlRZenZzVVhoVXlBZkhCeVd4OUVUWXA1QVRYaHY3VlRrU2xYN0cyLVJ1X1lfU05VRE91elRpLUpEeUNB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE82blVNa1FGalgyTW9KRm1FMlRZenZzVVhoVXlBZkhCeVd4OUVUWXA1QVRYaHY3VlRrU2xYN0cyLVJ1X1lfU05VRE91elRpLUpEeUNB?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 15:39:34 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 正式赴任总经理，“徐方”组合准备待发  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大型科技资本支出达到临界极限]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-29/big-tech-capex-hits-critical-limit-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/big-tech-capex-hits-critical-limit-video</guid>
-            <pubDate>Wed, 29 Apr 2026 15:36:58 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] TD Cowen 高级股票研究分析师约翰·布莱克利奇 (John Blackledge) 表示，大型科技公司正处于临界点。 他加入了彭博未平仓合约，解释了为什么大规模的人工智能支出可能已经达到顶峰，为什么AWS和谷歌云的增长可能决定这些股票的成败，以及市场变得多么脆弱。 在如此高的期望下，即使是一个小小的失误也可能引发另一次抛售。  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[美联储周三发布最新利率决定时，所有值得期待的事情都在这里]]></title>
             <link>https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html</guid>
             <pubDate>Wed, 29 Apr 2026 15:35:18 GMT</pubDate>
             <description><![CDATA[[CNBC] 这可能是杰罗姆·鲍威尔作为美联储主席的最后一次会议，他和他的政策制定者同行可能会继续采取谨慎的态度。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[“周三全押”测试每个人都做多的股市]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-29/-all-in-wednesday-to-test-stock-market-where-everyone-s-long</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/-all-in-wednesday-to-test-stock-market-where-everyone-s-long</guid>
-            <pubDate>Wed, 29 Apr 2026 15:31:01 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 一直在享受股市盛宴的投资者到今晚就会知道这场盛宴是否会继续。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科技继续引领潮流：达德利]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-29/tech-continues-to-lead-the-way-dudley-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/tech-continues-to-lead-the-way-dudley-video</guid>
-            <pubDate>Wed, 29 Apr 2026 15:29:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 富兰克林邓普顿公开市场高级投资策略师卡特里娜·杜德利 (Katrina Dudley) 与彭博社 (Bloomberg) 的丹尼·伯格 (Dani Burger) 在“未平仓合约”中展望了大型科技公司的盈利。 她表示，投资者将关注资本支出指导及其可持续性。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Booking首席执行官：伊朗战争对旅行的影响不仅仅是价格]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-29/iran-war-disrupts-travel-more-than-prices-booking-ceo-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/iran-war-disrupts-travel-more-than-prices-booking-ceo-video</guid>
-            <pubDate>Wed, 29 Apr 2026 15:23:19 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Booking 首席执行官格伦·福格尔 (Glenn Fogel) 加入彭博未平仓合约，解释了为什么全球旅行受到冲击，以及为什么他并不担心长期问题。 从战争导致的主要航线中断到消费者情绪的变化，他解释了经济放缓的真正原因。 他表示，旅游需求势不可挡，但地缘政治仍然控制着时机。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[富国银行首席执行官表示私人信贷不是系统性风险]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-29/wells-fargo-ceo-private-credit-isn-t-a-systemic-risk-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/wells-fargo-ceo-private-credit-isn-t-a-systemic-risk-video</guid>
-            <pubDate>Wed, 29 Apr 2026 15:22:48 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 富国银行董事长兼首席执行官查理·沙夫解释了为什么他不相信私人信贷正处于崩溃的边缘，但警告投资者可能低估了风险。 他出现在本周的“大卫·鲁宾斯坦秀：点对点对话”节目中。 本次采访于 4 月 20 日在华盛顿特区经济俱乐部录制。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[霍尔木兹危机推动保险业飙升]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-29/hormuz-crisis-drives-insurance-spike-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/hormuz-crisis-drives-insurance-spike-video</guid>
-            <pubDate>Wed, 29 Apr 2026 15:21:33 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 达信首席执行官约翰·多伊尔表示，通过霍尔木兹海峡的运输并未停止，但运输成本却大幅上升。 他加入了彭博未平仓合约，解释了保险公司如何应对地缘政治风险、为什么即使在紧张局势缓解后保费仍可能保持高位，以及为什么网络威胁现在是他在人工智能时代最关心的问题。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[彭博社监测 2026 年 4 月 29 日]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-04-29/bloomberg-surveillance-4-29-2026-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-04-29/bloomberg-surveillance-4-29-2026-video</guid>
-            <pubDate>Wed, 29 Apr 2026 15:20:09 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 乔纳森·费罗（Jonathan Ferro）、丽莎·阿布拉莫维奇（Lisa Abramowicz）和安玛丽·霍登（Annmarie Hordern）每天与华尔街、华盛顿及其他地区的领导人和决策者交谈。 没有其他计划可以更好地为投资者和高管提供交易日的定位。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tricolor、MFS 进军市场，银行对资产贷款变得挑剔]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-29/banks-get-picky-on-asset-based-loans-as-tricolor-mfs-hit-market</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/banks-get-picky-on-asset-based-loans-as-tricolor-mfs-hit-market</guid>
-            <pubDate>Wed, 29 Apr 2026 15:15:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 欧洲银行对资产支持贷款更加挑剔，因为 Tricolor Holdings 和 Market Financial Solutions Ltd. 等倒闭事件让企业对该行业更加谨慎。]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普会见石油公司，讨论可能将伊朗封锁延长数月 - 路透中文网]]></title>
@@ -296,11 +383,11 @@
             <description><![CDATA[[财新网] 耀才证券辟谣 不拓展内地客户、无涉足代币化资产等web3领域计划  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[随着油价飙升，美国国债收益率创三月以来最高水平]]></title>
+            <title><![CDATA[美联储分歧刺激交易员押注 2027 年加息，美国债券暴跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-29/us-treasury-yields-hit-highest-levels-since-march-as-oil-surges</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/us-treasury-yields-hit-highest-levels-since-march-as-oil-surges</guid>
             <pubDate>Wed, 29 Apr 2026 14:48:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于油价上涨进一步削弱了美联储降息的预期，美国国债暴跌，收益率升至本月最高水平。]]></description>
+            <description><![CDATA[[Bloomberg] 美联储维持利率稳定的决定暴露出政策制定者之间对于中东战争的经济影响存在分歧，美国国债继续下跌。]]></description>
         </item>
         <item>
             <title><![CDATA[随着伊朗战争能源紧缩加剧，美国石油出口创历史新高]]></title>
@@ -331,13 +418,6 @@
             <description><![CDATA[[Reuters Business] 交通部长称意大利有足够的航空燃油到五月底 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[美联储可能在鲍威尔时代的最后一次会议上维持利率不变 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTE2dHRRUFRZX2pNc0IxanRJTExxV2NKRFlNRkVFQ3hBNHhxVkVDbHpRWTNpRTB6ejh5M0hxanFQTzc3MTZlMXhYNVJRd2hqcjNFQW0wZlFOQzN5LUJ3bG44bUxGa09UaGpVRV9xVWdBVjVlVkl5MF94cHFqa3V3R2NJcGNyb3FvLTUzYnkzOEE1YTNTaFhINEMyeVlhS3FDTHl2YTVBcDZaZU81dVE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTE2dHRRUFRZX2pNc0IxanRJTExxV2NKRFlNRkVFQ3hBNHhxVkVDbHpRWTNpRTB6ejh5M0hxanFQTzc3MTZlMXhYNVJRd2hqcjNFQW0wZlFOQzN5LUJ3bG44bUxGa09UaGpVRV9xVWdBVjVlVkl5MF94cHFqa3V3R2NJcGNyb3FvLTUzYnkzOEE1YTNTaFhINEMyeVlhS3FDTHl2YTVBcDZaZU81dVE?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 14:28:58 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美联储可能会在鲍威尔时代的最后一次会议上维持利率不变 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[SpaceX 首次公开募股：马斯克迄今为止最雄心勃勃的计划 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnpBUDR2YUlhbHV6QkJfYTZOenhxQndJQ2g1WkJ6cjFBSm80NEtEaGJ6TGhyWFJDNjcwODlWNjBSSmZOb1NMcWdtSmx5YUhLWXFVT1g1NGtqRE0wQkJBTDVvdGpGVVY2Ym9pTFBUU2VXR29nZ2Z6OHI0RTdrTWtDTXdVd3A5MndTMlJlSzd2dnFNbWdNczIwcXhvS2Noc1FFeGs5Ni1YMFlpVkVHc0IwaA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnpBUDR2YUlhbHV6QkJfYTZOenhxQndJQ2g1WkJ6cjFBSm80NEtEaGJ6TGhyWFJDNjcwODlWNjBSSmZOb1NMcWdtSmx5YUhLWXFVT1g1NGtqRE0wQkJBTDVvdGpGVVY2Ym9pTFBUU2VXR29nZ2Z6OHI0RTdrTWtDTXdVd3A5MndTMlJlSzd2dnFNbWdNczIwcXhvS2Noc1FFeGs5Ni1YMFlpVkVHc0IwaA?oc=5</guid>
@@ -352,25 +432,11 @@
             <description><![CDATA[[Reuters Business] MercadoLibre 首席执行官标记贷款簿销售，淡化委内瑞拉扩张 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[日元触及 160 美元关口，日本央行路径成为焦点]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-29/yen-hits-key-160-per-dollar-level-as-traders-eye-boj-next-steps</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/yen-hits-key-160-per-dollar-level-as-traders-eye-boj-next-steps</guid>
-            <pubDate>Wed, 29 Apr 2026 13:57:07 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 日本央行 4 月会议后，行长上田一夫 (Kazuo Ueda) 没有就央行下一次加息的时间给出明确信号，日元兑美元汇率跌破 160 美元兑 160 元的关键水平。]]></description>
-        </item>
-        <item>
             <title><![CDATA[SoFi 2026 年预测不变，业绩创历史新高，股价下跌 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSURYQlNlRXRuMXFlQ3pHWkM4ZGhuMmtoWktxRktYQURLQXo5cnByby1LeWU1eFQzZWhfZGltYmJGM2Zmc1JPUWVBZDNRdGhXcHp1YWxreHJqMExTYWFITWp4N0trRW1jQVd0RFMzZm96QjRuQUZjbHRvUUdfc0p1TEE0ODByZ0NDT3I2eTVxMl9jZkJTMVNOYmdzZC1HY09SbEdmMnBZMWlfU0k?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSURYQlNlRXRuMXFlQ3pHWkM4ZGhuMmtoWktxRktYQURLQXo5cnByby1LeWU1eFQzZWhfZGltYmJGM2Zmc1JPUWVBZDNRdGhXcHp1YWxreHJqMExTYWFITWp4N0trRW1jQVd0RFMzZm96QjRuQUZjbHRvUUdfc0p1TEE0ODByZ0NDT3I2eTVxMl9jZkJTMVNOYmdzZC1HY09SbEdmMnBZMWlfU0k?oc=5</guid>
             <pubDate>Wed, 29 Apr 2026 13:37:40 GMT</pubDate>
             <description><![CDATA[[Reuters Business] SoFi 2026 年预测不变，业绩创历史新高，股价下跌 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿克曼的潘兴广场新基金将在备受期待的首次亮相 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNYl9lQUJVei1wal9aUlRlcGxxRC11aEZrb01ZNEZqQWg5UUZsb3ZVa3UxamJEUjU0YVNuMlFrZGMwaU9PcE43WkwtMVE4QnBxbFBuQ2hLdVQ2NEtZcDZhOWpkLTdCWGFRYmNNZ3dRdEkzTFN4cGhiNFhSaThJZmQ5VDBrMHBDTUhTZG1raU9GU3JjMkN0ZExCemRXQmdkTlBkUlE5QUt5YUtsMmtaUlBF?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxNYl9lQUJVei1wal9aUlRlcGxxRC11aEZrb01ZNEZqQWg5UUZsb3ZVa3UxamJEUjU0YVNuMlFrZGMwaU9PcE43WkwtMVE4QnBxbFBuQ2hLdVQ2NEtZcDZhOWpkLTdCWGFRYmNNZ3dRdEkzTFN4cGhiNFhSaThJZmQ5VDBrMHBDTUhTZG1raU9GU3JjMkN0ZExCemRXQmdkTlBkUlE5QUt5YUtsMmtaUlBF?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 13:37:23 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 阿克曼的潘兴广场，新基金将在备受期待的首次亮相路透社]]></description>
         </item>
         <item>
             <title><![CDATA[市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌 - 华尔街见闻]]></title>
@@ -394,11 +460,25 @@
             <description><![CDATA[[Reuters Business] 由于加密货币暴跌削弱了交易量增长，Robinhood 股价下跌 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[由于 IT 支出谨慎，Cognizant 预测季度收入低于预期 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnJDWFZRZm42TWFVYkd4WFZxcndYQmQ3c2M4dFN5UEdHRExUanlpNzVxQXp0SUV3dG5ET2JNSk5FWTR2TjJwemFpWktaSU5oVElSTE9wNGI1azZMOVhndGc3blNhcl9mbGMzUkljSUFDMU1yWXJ3MEZJWm1mZElGR2hwQkFGbDcwZzZmcjFWaGZSdWRDTXNxNWRSMVJHaDB6LUFsSlBFWUhOTFZpbkRQTFFHeVFGQ1RSSFlB?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnJDWFZRZm42TWFVYkd4WFZxcndYQmQ3c2M4dFN5UEdHRExUanlpNzVxQXp0SUV3dG5ET2JNSk5FWTR2TjJwemFpWktaSU5oVElSTE9wNGI1azZMOVhndGc3blNhcl9mbGMzUkljSUFDMU1yWXJ3MEZJWm1mZElGR2hwQkFGbDcwZzZmcjFWaGZSdWRDTXNxNWRSMVJHaDB6LUFsSlBFWUhOTFZpbkRQTFFHeVFGQ1RSSFlB?oc=5</guid>
+            <pubDate>Wed, 29 Apr 2026 13:26:40 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 由于 IT 支出谨慎，Cognizant 预测季度收入低于预期 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[美英制药交易完成后，阿斯利康将在英国投资 4.05 亿美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1FtNm0zckZ0MC1uR0gtRzJUWlVoZTVKbEVvOUdVZHNxOUpTc1lJSEhNQ0xaWkhmNUpsLXpJU3hMS2hKeGd2Y2l3WFRheEswMGw4dUFlbDdNd0lXbkhJTTdIdFNKZUpJWmZOYkV4QmM0MXpuM0JQeW1kSXh4S0VZcXZEbHRPN0R4dEM5TkE0T1E0UUk0cWhCWG5LYW1jUUZ2MXpkWTVUaTdFRkJUYS1FSnNFclBRU0xobENiOHdHeHN0b1pWT0l5cTFXcXhMSzRR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1FtNm0zckZ0MC1uR0gtRzJUWlVoZTVKbEVvOUdVZHNxOUpTc1lJSEhNQ0xaWkhmNUpsLXpJU3hMS2hKeGd2Y2l3WFRheEswMGw4dUFlbDdNd0lXbkhJTTdIdFNKZUpJWmZOYkV4QmM0MXpuM0JQeW1kSXh4S0VZcXZEbHRPN0R4dEM5TkE0T1E0UUk0cWhCWG5LYW1jUUZ2MXpkWTVUaTdFRkJUYS1FSnNFclBRU0xobENiOHdHeHN0b1pWT0l5cTFXcXhMSzRR?oc=5</guid>
             <pubDate>Wed, 29 Apr 2026 13:21:58 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美英制药交易后阿斯利康将在英国投资 4.05 亿美元 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[万科Q1营收同比下降近24%，净亏损小幅收窄至59.5亿元 | 财报见闻 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPYkQ1X3FKQnU2MDg0M0ctMDlvWjdScjJvX0lNNnNqdnYtM3JRa01EWHZzU0YxMTJpN3VIRzdUazkzOUE5RkNJTkE3QnROTTJHUWM0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPYkQ1X3FKQnU2MDg0M0ctMDlvWjdScjJvX0lNNnNqdnYtM3JRa01EWHZzU0YxMTJpN3VIRzdUazkzOUE5RkNJTkE3QnROTTJHUWM0?oc=5</guid>
+            <pubDate>Wed, 29 Apr 2026 13:16:50 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 万科Q1营收同比下降近24%，净亏损小幅收窄至59.5亿元 | 财报见闻  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[初创公司 Blockworks 希望成为加密货币领域的晨星 (Morningstar)。 计划如何做]]></title>
@@ -413,13 +493,6 @@
             <guid isPermaLink="false">https://www.wsj.com/economy/housing/u-s-housing-starts-rose-in-march-0ec10f04</guid>
             <pubDate>Wed, 29 Apr 2026 12:59:00 GMT</pubDate>
             <description><![CDATA[[WSJ] 新屋开工量（衡量新住宅建设的指标）3 月份增长 10.8%，达到 150.2 万套。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EQT 称准备改进对英国 Intertek 的收购要约]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-29/eqt-is-said-to-prepare-improved-takeover-offer-for-uk-s-intertek</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/eqt-is-said-to-prepare-improved-takeover-offer-for-uk-s-intertek</guid>
-            <pubDate>Wed, 29 Apr 2026 12:56:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 知情人士称，在看到英国产品测试公司Intertek拒绝了两项报价后，EQT AB正准备向Intertek Group Plc再次提出改进的报价。]]></description>
         </item>
         <item>
             <title><![CDATA[伊朗里亚尔跌至历史新低，因停火促使人们纷纷抢购硬通货 - 路透中文网]]></title>
@@ -447,14 +520,21 @@
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQanpfaEhRQmgtbTZGaWd4c1d4MHQ2Ry1DMmRQX0dMUGd3ZVV5S1lLLWJ2Q0s4N00zSzlvR2ZSQ3A4X0F1Ti1hVmE1R2FZYlNQSVpldHR1Zy0weTFmQmJ5UDhublpMRkFFcGZ0VUlRM1BfOVFKaEhZSUs5Njk5cDE4c0lHNnRnTS1HSW9TQTJ2R05mU19nQ2VfRDA1eUdLS2VyeENDUG9zSUhCaGJ2bmZVY0lOT0hIdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQanpfaEhRQmgtbTZGaWd4c1d4MHQ2Ry1DMmRQX0dMUGd3ZVV5S1lLLWJ2Q0s4N00zSzlvR2ZSQ3A4X0F1Ti1hVmE1R2FZYlNQSVpldHR1Zy0weTFmQmJ5UDhublpMRkFFcGZ0VUlRM1BfOVFKaEhZSUs5Njk5cDE4c0lHNnRnTS1HSW9TQTJ2R05mU19nQ2VfRDA1eUdLS2VyeENDUG9zSUhCaGJ2bmZVY0lOT0hIdw?oc=5</guid>
             <pubDate>Wed, 29 Apr 2026 12:37:46 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Visa 股价上涨，利润超出预期，上调预测缓解中东紧张局势 路透]]></description>
+            <description><![CDATA[[Reuters Business] Visa 股价攀升，利润超出预期，上调预测缓解中东紧张局势 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[阿克曼 50 亿美元的潘兴 IPO 顺利冲过终点线]]></title>
+            <title><![CDATA[比尔·阿克曼 (Bill Ackman) 的美国潘兴广场 (Pershing Square USA) 首次公开募股 50 亿美元后股价下跌 16%]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-04-29/ackman-s-5-billion-pershing-ipo-squeaks-across-the-finish-line</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/ackman-s-5-billion-pershing-ipo-squeaks-across-the-finish-line</guid>
             <pubDate>Wed, 29 Apr 2026 12:36:14 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 经过多年的社交媒体大肆宣传，比尔·阿克曼（Bill Ackman）的潘兴广场（Pershing Square）终于要上市了，要建立一个以沃伦·巴菲特为蓝本的帝国，即使在为自己的愿景筹集了 50 亿美元之后，这位对冲基金亿万富翁仍面临着另一项考验。]]></description>
+            <description><![CDATA[[Bloomberg] 比尔·阿克曼 (Bill Ackman) 的潘兴广场美国有限公司 (Pershing Square USA Ltd.) 的封闭式基金和他的另类资产管理公司联合首次公开募股筹集了 50 亿美元后，其股价在首次公开募股中暴跌 16%。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[意大利制药商 Chiesi 将以 19 亿美元收购 KalVista - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3FIb0ZXZy1pbGRKdVlmZTl2MG9UdXBKeDBTZEF0a1VWVnVyenVrQXJ0anNXRk9jYzB0b2lkRTFib0lsb3RpVkUyNGtaTndZOXduNW9SRGJWRFBTV1BJSmhCQ2FkbU14dXNuRUFvTjhoVkRxRDVZcGhtaVdjMEE3MTFLcHczRjFjQjJHRHNXQ09HNjM0dWRTNTQ2cm9ySFBoZUFMWlplTDBXaVMzUUk1WWhveWhvMWlBNWtyWg?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQN3FIb0ZXZy1pbGRKdVlmZTl2MG9UdXBKeDBTZEF0a1VWVnVyenVrQXJ0anNXRk9jYzB0b2lkRTFib0lsb3RpVkUyNGtaTndZOXduNW9SRGJWRFBTV1BJSmhCQ2FkbU14dXNuRUFvTjhoVkRxRDVZcGhtaVdjMEE3MTFLcHczRjFjQjJHRHNXQ09HNjM0dWRTNTQ2cm9ySFBoZUFMWlplTDBXaVMzUUk1WWhveWhvMWlBNWtyWg?oc=5</guid>
+            <pubDate>Wed, 29 Apr 2026 12:29:53 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 意大利制药商 Chiesi 将以 19 亿美元收购 KalVista 路透]]></description>
         </item>
         <item>
             <title><![CDATA[核聚变还在等待“iPhone时刻” - 华尔街见闻]]></title>
@@ -476,20 +556,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnBTR1FuajdKSWM2NEJxd3pCUzE4dUFydDdrUmx1U0NwaDdPOF9GOXZHeVpTOEplVll3NlpWS2ZpVHN6ZVBjSTdRRVhXYkxLV08tc1ZpTXBMLUU2ekM3Q19KUW9Rc0NZQlNOWDlKZWlIZ1c3TGs1QlV3U05RaElXczdodlVpVHdzbWRwN0daUjhyREc3ZTRaWE5wUEVTcUlNQUE?oc=5</guid>
             <pubDate>Wed, 29 Apr 2026 12:09:40 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 私人防空系统在乌克兰起飞 路透社]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰称袭击俄罗斯油站并制裁油轮]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-29/ukraine-says-it-hit-russia-s-oil-station-and-sanctioned-tanker</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/ukraine-says-it-hit-russia-s-oil-station-and-sanctioned-tanker</guid>
-            <pubDate>Wed, 29 Apr 2026 12:04:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 乌克兰表示，它袭击了俄罗斯境内的一个石油泵站，以及黑海的一艘受制裁的油轮，这是针对其对手能源基础设施的最新一波袭击。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于汽油价格吃掉家庭预算，Wingstop 食客减少了开​​支]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-29/wingstop-sinks-as-fewer-diners-feasted-on-fast-food-chicken</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/wingstop-sinks-as-fewer-diners-feasted-on-fast-food-chicken</guid>
-            <pubDate>Wed, 29 Apr 2026 12:04:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Wingstop Inc.表示，伊朗战争正在推高天然气价格，并使家庭预算紧张，以至于消费者再也买不起鸡翅。]]></description>
         </item>
         <item>
             <title><![CDATA[由特朗普预定的鲍威尔美联储主席任期即将结束 - 路透中文网]]></title>
@@ -517,7 +583,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-04-29/us-stock-futures-edge-up-on-tech-gains-before-megacap-earnings</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/us-stock-futures-edge-up-on-tech-gains-before-megacap-earnings</guid>
             <pubDate>Wed, 29 Apr 2026 11:38:46 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于油价飙升以及美国总统唐纳德·特朗普拒绝伊朗重新开放霍尔木兹海峡的提议后美国和伊朗之间的僵局升级，周三交易波动较大，美国股市大多走低。 投资者还为当天晚些时候四家大型公司的收益报告做好准备。]]></description>
+            <description><![CDATA[[Bloomberg] 由于油价飙升以及美国和伊朗之间在霍尔木兹海峡的僵局升级，周三美国股市在波动的交易中下跌。 投资者在等待盘后四家大型公司的盈利报告的同时，还评估了美联储的政策决定。]]></description>
         </item>
         <item>
             <title><![CDATA[苹果新任首席执行官 Ternus 可能会因强劲业绩而成为盈利焦点 - 路透中文网]]></title>
@@ -644,69 +710,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mWXlSMFhiUG1HNFlET1A2N0p4OGdNVDNCdG1xUUc5bnN6SFdBSW5IV3Z2SUdmT0FqM0JFektuRFNKT2VSSHlmRnlURG95MTRuVGg4?oc=5</guid>
             <pubDate>Wed, 29 Apr 2026 08:55:50 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] Labubu冰箱炒至9万，跨界家电能救股价腰斩的泡泡玛特吗？  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巴克莱预计阿联酋退出欧佩克后石油供应增长更快 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHJOTUhzRkk5MWtwdV9aR243V1Z5bFZLcGV4blhKbHBLbE1iakVmcU9FY0tkOXlQTGRQZjJqcnRYVEhfMm5pNllRSlZ4V1JJLVY5ZGZEbV9tSG40R3ZNUnJpZzN6WHpkS3R4VFptLWVNaVBwNTVUUDRCNlkzZ19vSDFUd3R3Rndram0xWTNTQ3h3TGZidGFhbzdLTi12WTVRNlItXy10U2RtbC1CY0luYzJnTEY?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHJOTUhzRkk5MWtwdV9aR243V1Z5bFZLcGV4blhKbHBLbE1iakVmcU9FY0tkOXlQTGRQZjJqcnRYVEhfMm5pNllRSlZ4V1JJLVY5ZGZEbV9tSG40R3ZNUnJpZzN6WHpkS3R4VFptLWVNaVBwNTVUUDRCNlkzZ19vSDFUd3R3Rndram0xWTNTQ3h3TGZidGFhbzdLTi12WTVRNlItXy10U2RtbC1CY0luYzJnTEY?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 08:47:47 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 巴克莱银行预计阿联酋退出欧佩克后石油供应增长更快 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沪指重返4100点，创业板涨超2%，稀土、锂电大爆发，恒科指涨逾1%，半导体逆势大跌 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE16cXBveVVtcS1yOU1RbkpXRVBnVHdwMHFzY2djaU51QjVGQVpnVjNMU1JHNmM2RlgxZFRjSjJ6eEZvdTdMRVJWTXlGdFktVkdtdHVB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE16cXBveVVtcS1yOU1RbkpXRVBnVHdwMHFzY2djaU51QjVGQVpnVjNMU1JHNmM2RlgxZFRjSjJ6eEZvdTdMRVJWTXlGdFktVkdtdHVB?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 08:32:23 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 沪指重返4100点，创业板涨超2%，稀土、锂电大爆发，恒科指涨逾1%，半导体逆势大跌  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瑞银大幅上调锂价预测：这一轮周期，和过去完全不同 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nM0ZMdGZKQ2otMXpIYlFWUkNGVU42SVlUNFRiR2hzZDhfY09tVGhNR0hFUW5fUHBEVTlST1dYRHJ2blVEUUNlUEtsY3ByOW9iWW1B?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nM0ZMdGZKQ2otMXpIYlFWUkNGVU42SVlUNFRiR2hzZDhfY09tVGhNR0hFUW5fUHBEVTlST1dYRHJ2blVEUUNlUEtsY3ByOW9iWW1B?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 08:20:58 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 瑞银大幅上调锂价预测：这一轮周期，和过去完全不同  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[传奇交易员：要等到1亿人出事，AI才会被监管 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNHlOUHF3MFFVaFdEck1JTjFkM2k4Mk5xVnM0bjJOXzNhYk1wd2JjLWZsM3BlZnB1RTk3XzlrMFpEbXRxNzFCdFI0YkVSSlIxenc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjNHlOUHF3MFFVaFdEck1JTjFkM2k4Mk5xVnM0bjJOXzNhYk1wd2JjLWZsM3BlZnB1RTk3XzlrMFpEbXRxNzFCdFI0YkVSSlIxenc?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 08:09:11 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 传奇交易员：要等到1亿人出事，AI才会被监管  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[刘浩凌调任证监会副主席 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2YmVBNDdpSkRKRjQwOG9VcUhBN0JMcHRxczZoT3kzR0pxS3NVeDJONzBJcG1JOEJrWE0tZGo0dGJnMUVUdmZlNWR3T2lMcmJFZ3FqRHo0Yy1zX0U4SEhSREZB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2YmVBNDdpSkRKRjQwOG9VcUhBN0JMcHRxczZoT3kzR0pxS3NVeDJONzBJcG1JOEJrWE0tZGo0dGJnMUVUdmZlNWR3T2lMcmJFZ3FqRHo0Yy1zX0U4SEhSREZB?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 08:07:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 刘浩凌调任证监会副主席  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战争和恶劣天气影响农作物价格创 2023 年以来新高]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-29/crop-prices-hit-highest-since-2023-as-war-and-bad-weather-bite</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/crop-prices-hit-highest-since-2023-as-war-and-bad-weather-bite</guid>
-            <pubDate>Wed, 29 Apr 2026 07:44:54 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 霍尔木兹海峡的长期关闭和极端天气已将农产品价格推升至两年高点，因为化肥问题和收成减少的前景推高了食品通胀风险。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧洲股市因石油价格上涨和盈利好坏收低]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-04-29/european-stocks-steady-with-earnings-in-focus-ubs-jumps-on-beat</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-04-29/european-stocks-steady-with-earnings-in-focus-ubs-jumps-on-beat</guid>
-            <pubDate>Wed, 29 Apr 2026 07:27:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 欧洲股市收低，因长期海上封锁伊朗港口的前景在盈利结果喜忧参半的情况下削弱了风险情绪。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[印尼短剧企业拟港交所第二上市 东南亚公司料接力赴港融资 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aMkFYajFSZVdtdnpOamVWU0tqV0lES0ZhQ1ZUQ0xDNWZCdFhxYU1sUk8xOGVxYk82VzIzd3JOOVBMQjNja0JwMDMzQm9TUFZWRGFHTTl3NlljYVJjR0hDNmRB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aMkFYajFSZVdtdnpOamVWU0tqV0lES0ZhQ1ZUQ0xDNWZCdFhxYU1sUk8xOGVxYk82VzIzd3JOOVBMQjNja0JwMDMzQm9TUFZWRGFHTTl3NlljYVJjR0hDNmRB?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 07:18:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 印尼短剧企业拟港交所第二上市 东南亚公司料接力赴港融资  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[今夜，鲍威尔“最后一舞”：大概按兵不动，但鹰味更浓！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5bUVGMmJRSWZNVzdLTmNxcDIzR0w1Zmd4VDJJV2tOTDl6TWw3R2U5cmRyd1N4Vm1pdmVXLS1UWXlWTHpFeW9IM0N1WEU2S3E2OGc4?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5bUVGMmJRSWZNVzdLTmNxcDIzR0w1Zmd4VDJJV2tOTDl6TWw3R2U5cmRyd1N4Vm1pdmVXLS1UWXlWTHpFeW9IM0N1WEU2S3E2OGc4?oc=5</guid>
-            <pubDate>Wed, 29 Apr 2026 06:38:14 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 今夜，鲍威尔“最后一舞”：大概按兵不动，但鹰味更浓！  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
