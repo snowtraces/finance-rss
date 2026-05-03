@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 03 May 2026 19:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 20:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[随着交易恢复，中东和平努力成为焦点：市场总结]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-05-03/mideast-peace-efforts-in-focus-as-trading-resumes-markets-wrap</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-03/mideast-peace-efforts-in-focus-as-trading-resumes-markets-wrap</guid>
+            <pubDate>Sun, 03 May 2026 20:00:04 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着投资者评估最新的中东停战提案的可行性，并等待美国重要的就业报告来评估战争的经济影响，风险资产长达一个月的飙升面临着另一项考验。]]></description>
+        </item>
         <item>
             <title><![CDATA[国债市场关注耶伦时代债务策略的转变]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-05-03/treasury-market-on-watch-for-shift-in-yellen-era-debt-playbook</link>
@@ -244,7 +251,7 @@
             <link>https://www.bloomberg.com/news/articles/2026-05-03/usd-ars-milei-struggles-to-convince-argentines-to-put-cash-in-savings-accounts</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-03/usd-ars-milei-struggles-to-convince-argentines-to-put-cash-in-savings-accounts</guid>
             <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 亚历杭德罗·拉马斯 (Alejandro Lamas) 说，当美元钞票被藏在床垫下多年后，你会惊讶地发现它们变得如此潮湿和发臭。 多年来，他从阿根廷人那里得到了很多二手车，所以他是一位行家。 塞给他一张假货，他一接触就知道了。]]></description>
+            <description><![CDATA[[Bloomberg] 亚历杭德罗·拉马斯说，当美元钞票被藏在床垫下多年后，你会惊讶地发现它变得如此潮湿和发臭。 多年来，他从阿根廷人那里得到了很多二手车，所以他是一位行家。 塞给他一张假货，他一接触就知道了。]]></description>
         </item>
         <item>
             <title><![CDATA[OPEC+同意自霍尔木兹海峡关闭以来第三次上调石油产量配额 - 路透中文网]]></title>
@@ -492,13 +499,6 @@
             <description><![CDATA[[Reuters Business] 尽管消费者面临压力，伯克希尔哈撒韦公司利润仍增长，现金创纪录 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[油轮定价之争持续了几个世纪——老伦敦市场]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-05-02/oil-tanker-pricing-feud-embroils-a-centuries-old-london-market</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-02/oil-tanker-pricing-feud-embroils-a-centuries-old-london-market</guid>
-            <pubDate>Sat, 02 May 2026 11:32:30 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 全球最大石油贸易商之一的一项法律索赔让全球金融中一个神秘但关键的角落成为人们关注的焦点——价值数十亿美元的货运市场以及位于该市场核心、拥有 282 年历史的伦敦金融城机构。]]></description>
-        </item>
-        <item>
             <title><![CDATA[全球原油库存见底！三大能源巨头警告：市场远未感受到真正冲击 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBLUlIdTlVNlR6cFh5X0lBUGJ4alhXLVpHNmIxZXpCSUU3QkptVk9fVEZNVFJtLXNyQWZJVFFRbWNlcy1xY2RYVzJHRW56cGhIUVdz?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBLUlIdTlVNlR6cFh5X0lBUGJ4alhXLVpHNmIxZXpCSUU3QkptVk9fVEZNVFJtLXNyQWZJVFFRbWNlcy1xY2RYVzJHRW56cGhIUVdz?oc=5</guid>
@@ -530,7 +530,7 @@
             <title><![CDATA[伊朗对峙可能会让特朗普的处境比参战前更糟 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU0F5dU0yQWlzdGU4SlE5TVpWQlQ0X2RCMTgtYW5iYk9kZ0F2ekstUEpfYUdnS3FqOGlkbGNLY0RLR0YzTjNYMGUtREY2ZWtuQmF3Z2xWaDJMbkxMWklaOEJtQm80SXJKZGFta1FJTk43Y09sLTExUFVaTFNUdEo5bmdldy1DalR0NmhiNVh6YnJKdW9ZN1JmclRGOUpQLUsxT0ZuQ2xnSTJHWk1qODYwOGRic0RJV3JK?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU0F5dU0yQWlzdGU4SlE5TVpWQlQ0X2RCMTgtYW5iYk9kZ0F2ekstUEpfYUdnS3FqOGlkbGNLY0RLR0YzTjNYMGUtREY2ZWtuQmF3Z2xWaDJMbkxMWklaOEJtQm80SXJKZGFta1FJTk43Y09sLTExUFVaTFNUdEo5bmdldy1DalR0NmhiNVh6YnJKdW9ZN1JmclRGOUpQLUsxT0ZuQ2xnSTJHWk1qODYwOGRic0RJV3JK?oc=5</guid>
-            <pubDate>Sat, 02 May 2026 05:02:00 GMT</pubDate>
+            <pubDate>Sat, 02 May 2026 05:08:22 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 伊朗对峙可能会让特朗普的处境比参战前更糟 路透]]></description>
         </item>
         <item>
@@ -553,6 +553,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE14bHc0THVsUkZoOUE5Q2xILTcyRFFiQjhoSFRFeVRkQmR0aXpfNjNpTk4zdGN2SFlLN19aZHc4bFF5N2tFU3ZsYWN6eWtIRTNES0Zr?oc=5</guid>
             <pubDate>Sat, 02 May 2026 02:57:08 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 赶在假期前“第二次干预汇市”？市场甚至猜测“日本不止拉高日元，还砸了油价”  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[精神航空公司关闭，这是该行业首个伊朗战争伤亡者 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZklaaVV4bnpCX2pSaUNpLW93WVQzR0ljQl9xbFdRaUNFNTBLVFZSb0Eza1NCWk9BQ0EyYzR6TFN1ckV1alBaTUd3Y2E4Q3ZQWHJJbnlCcU5uNWV2XzRkQldYSDB4TlBGTzBJcmk2R3BmcGhhWFFkYVJNZEpLbEh2akZlNGZUcHlzOGoyZ1U1bXB1NXF4S3Z0Y2lqMmxvTFYwWkFmWVU0SlZrWmpCWVhad2dCWXdSU0FZMjl6RDlEQWo?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZklaaVV4bnpCX2pSaUNpLW93WVQzR0ljQl9xbFdRaUNFNTBLVFZSb0Eza1NCWk9BQ0EyYzR6TFN1ckV1alBaTUd3Y2E4Q3ZQWHJJbnlCcU5uNWV2XzRkQldYSDB4TlBGTzBJcmk2R3BmcGhhWFFkYVJNZEpLbEh2akZlNGZUcHlzOGoyZ1U1bXB1NXF4S3Z0Y2lqMmxvTFYwWkFmWVU0SlZrWmpCWVhad2dCWXdSU0FZMjl6RDlEQWo?oc=5</guid>
+            <pubDate>Sat, 02 May 2026 02:08:23 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 精神航空公司关闭，这是该行业首个伊朗战争伤亡者 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[美联储官员开始讨论未来加息的条件，不再讨论降息]]></title>
@@ -657,7 +664,7 @@
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTU5NWEV1Umo4bnFiZXhCVnVGUlVfcmhHMWZxdDMzSWszLWp2X1dPUEV6dkpQQzNtMlp2bDdyb1ctS1NOaGk3ZHVxTDdYak0tYzVSTTBHYnAwQzVON201clViVUR1N0FTR0JVcDY2U1VRVG5MbG4zZzJxc0dsVzdQR2tzWUF1YnptQVQ4NDFONjBKMUlPWUl4THRmbmZKSy1JQ0NhN1lkNk5qV0JCSk5RZ183OGhlNlZnLVRpMTZBYndTUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTU5NWEV1Umo4bnFiZXhCVnVGUlVfcmhHMWZxdDMzSWszLWp2X1dPUEV6dkpQQzNtMlp2bDdyb1ctS1NOaGk3ZHVxTDdYak0tYzVSTTBHYnAwQzVON201clViVUR1N0FTR0JVcDY2U1VRVG5MbG4zZzJxc0dsVzdQR2tzWUF1YnptQVQ4NDFONjBKMUlPWUl4THRmbmZKSy1JQ0NhN1lkNk5qV0JCSk5RZ183OGhlNlZnLVRpMTZBYndTUQ?oc=5</guid>
             <pubDate>Fri, 01 May 2026 21:08:42 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 苹果公司 Cue 预计将推出 F1 电影续集，并希望电视节目能够在全球范围内扩展 路透]]></description>
+            <description><![CDATA[[Reuters Business] 苹果公司 Cue 预计将推出 F1 电影续集，并希望电视节目能在全球范围内扩展 路透]]></description>
         </item>
         <item>
             <title><![CDATA[AI芯片制造商Cerebras的IPO目标融资40亿美元，估值约400亿 - 华尔街见闻]]></title>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxOejJFSmZVXzM5eDNBcmlmenRFNFBQRVM1Z3V4VmRDYnRwSUhZYVlXTHdRQ0piaXRDVFJZd242b0tFS2ZhNmRkYU9xald6dUNmVExPMGQyRWh5YWNTWUNETXFkSGxMM0NHWmZOSlFxTkhpUFVtd0kwZ0V3MkJOcnpkdVpoNndYcmpxQ3I1UEVwdjZLMFhXTkhEbXVjVXUxMHRGLWFiMVMxTTBoTnY0OUZhRXVTcEoyQnlBMTV4RlVwT3BDMjBhMkdB?oc=5</guid>
             <pubDate>Fri, 01 May 2026 19:03:53 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 世卫组织因病原体共享争议而推迟大流行病条约 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃克森美孚净利润下降，产出受到伊朗战争打击 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnc1S3VOZEI5bVhCUjFLbGQ0LWZmLTFRYl9iU3pMTjl2WjNRRjRDZlN6dDFabEtYaFBrNExOQXlaSlM1dnFncjdzeWNWT2JiNXV6NW9wTW5fWUNBMkVNOWRUQkVLYVdHSWxiNWhTTHpQTEhCRHN6NldMbllwc0tLN0VjUm5yTnYzd1hGVW9YT3d2MlRiSWt1MDhyZmhRUDlQVmM0TnhMN25wM3c1MjFnR090aU1PU1VXTjQxMVl3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNWnc1S3VOZEI5bVhCUjFLbGQ0LWZmLTFRYl9iU3pMTjl2WjNRRjRDZlN6dDFabEtYaFBrNExOQXlaSlM1dnFncjdzeWNWT2JiNXV6NW9wTW5fWUNBMkVNOWRUQkVLYVdHSWxiNWhTTHpQTEhCRHN6NldMbllwc0tLN0VjUm5yTnYzd1hGVW9YT3d2MlRiSWt1MDhyZmhRUDlQVmM0TnhMN25wM3c1MjFnR090aU1PU1VXTjQxMVl3?oc=5</guid>
-            <pubDate>Fri, 01 May 2026 18:51:46 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 埃克森美孚净利润下降，产出受到伊朗战争打击 路透]]></description>
         </item>
     </channel>
 </rss>
