@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 09 May 2026 21:39:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 22:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[寻找全球股市下一波反弹的交易员押注亚洲]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-05-09/traders-looking-for-next-leg-in-global-stocks-rally-bet-on-asia</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-09/traders-looking-for-next-leg-in-global-stocks-rally-bet-on-asia</guid>
+            <pubDate>Sat, 09 May 2026 22:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着焦点从伊朗战争上移开，投资者和策略师都在寻找股市的下一轮上涨。 许多人正在转向亚洲。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[华尔街、贸易商齐声警告：霍尔木兹僵局正在“抽干”全球石油库存]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3358088</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3358088</guid>
+            <pubDate>Sat, 09 May 2026 21:35:22 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[通胀鼓声持续，美国消费者心神不宁]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-05-09/inflation-drumbeat-persists-for-unnerved-us-consumer</link>
@@ -69,7 +83,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-05-09/china-summit-stays-on-track-despite-iran-concerns-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-05-09/china-summit-stays-on-track-despite-iran-concerns-video</guid>
             <pubDate>Sat, 09 May 2026 16:56:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 尽管中国官员对在美伊冲突解决之前举行会面感到不安，但唐纳德·特朗普总统仍在推进在北京会见习近平的计划。 前驻华大使、哈佛大学外交与国际关系教授尼古拉斯·伯恩斯 (Nicholas Burns) 本周末与大卫·古拉 (David Gura) 和克里斯蒂娜·鲁菲尼 (Christina Ruffini) 一起在彭博社进行讨论。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 尽管中国官员对在美伊冲突解决之前举行会面感到不安，但唐纳德·特朗普总统仍在推进在北京与习近平会面的计划。 前驻华大使、哈佛大学外交与国际关系教授尼古拉斯·伯恩斯 (Nicholas Burns) 本周末与大卫·古拉 (David Gura) 和克里斯蒂娜·鲁菲尼 (Christina Ruffini) 一起在彭博社进行讨论。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[“中国只是在观看”：罗·卡纳谈为何伊朗冲突是送给北京的礼物]]></title>
@@ -174,13 +188,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-09/earnings-bonanza-that-no-one-saw-coming-fuels-stocks-record-run</guid>
             <pubDate>Sat, 09 May 2026 13:00:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 伊朗战争本来应该会破坏美国股市的涨势，并影响公司前景。 相反，井喷的财报季为华尔街多头提供了新的素材。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[减重22.5%！罗氏(RHHBY.US)GLP-1新药首次在国内获批临床]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3357968</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3357968</guid>
-            <pubDate>Sat, 09 May 2026 12:36:54 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[伊朗战争正在以前所未有的速度耗尽世界石油缓冲]]></title>
@@ -288,7 +295,7 @@
             <description><![CDATA[[Bloomberg] 非洲的农田可能价值 1 万亿美元，但全球冲击正在加剧这一风险。 化肥短缺、成本上升和供应中断给整个非洲大陆的粮食生产带来压力。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[由于战争阻碍霍尔木兹运输，中国能源进口大幅下降]]></title>
+            <title><![CDATA[由于战争阻碍霍尔木兹运输，中国能源进口锐减]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-05-09/china-s-energy-imports-plunge-as-war-chokes-hormuz-shipments</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-09/china-s-energy-imports-plunge-as-war-chokes-hormuz-shipments</guid>
             <pubDate>Sat, 09 May 2026 04:33:32 GMT</pubDate>
@@ -426,13 +433,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxQVk5VSEdQN0h4cDhZbWVINEpZeV9adFhWRE1oTVZGMF9FUTVQaFIxbFdSUVlKY1dpSkVTdFdUTnRkOU5xajVlcTc3aEktb1cxb2lDR09zc25oUUwtelFGMlVhYnFocWNWMHF3ejMxUWVlcFZPSm9SQjlhRjlxWTdBWUdjbkZUU1ZURFEzMzR4RTBEaEV2ZUJQdXQyV1hVa2ZjeHdKTVJtYjdhWjl0RkNrajFPWFVuUQ?oc=5</guid>
             <pubDate>Fri, 08 May 2026 21:28:09 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 花旗称如果美伊谈判依然棘手，油价可能进一步上涨 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[赢得衰退的经济：霍华德·林宗 (Howard Lindzon) 的商业硕士]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-05-08/winning-the-degenerate-economy-howard-lindzon-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-05-08/winning-the-degenerate-economy-howard-lindzon-video</guid>
-            <pubDate>Fri, 08 May 2026 21:20:18 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Barry 与 StockTwits 联合创始人兼首席执行官、Social Leverage 创始人兼执行合伙人 Howard Lindzon 进行了交谈。 他们讨论了他对风险投资的展望，包括他认为人类行为可能带来的利润。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[乌克兰战争忧虑加深，普京出席规模缩减的二战胜利阅兵 - 路透中文网]]></title>
