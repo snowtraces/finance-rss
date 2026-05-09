@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 09 May 2026 22:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 23:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[环球下周看点：4月CPI为美联储“沃什时代”定调、AI芯片明星股上市]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3358105</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3358105</guid>
+            <pubDate>Sat, 09 May 2026 23:05:26 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[寻找全球股市下一波反弹的交易员押注亚洲]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-05-09/traders-looking-for-next-leg-in-global-stocks-rally-bet-on-asia</link>
@@ -83,7 +90,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-05-09/china-summit-stays-on-track-despite-iran-concerns-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-05-09/china-summit-stays-on-track-despite-iran-concerns-video</guid>
             <pubDate>Sat, 09 May 2026 16:56:17 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 尽管中国官员对在美伊冲突解决之前举行会面感到不安，但唐纳德·特朗普总统仍在推进在北京与习近平会面的计划。 前驻华大使、哈佛大学外交与国际关系教授尼古拉斯·伯恩斯 (Nicholas Burns) 本周末与大卫·古拉 (David Gura) 和克里斯蒂娜·鲁菲尼 (Christina Ruffini) 一起在彭博社进行讨论。  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 尽管中国官员对在美伊冲突解决之前举行会面感到不安，但唐纳德·特朗普总统仍在推进在北京会见习近平的计划。 前驻华大使、哈佛大学外交与国际关系教授尼古拉斯·伯恩斯 (Nicholas Burns) 本周末与大卫·古拉 (David Gura) 和克里斯蒂娜·鲁菲尼 (Christina Ruffini) 一起在彭博社进行讨论。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[“中国只是在观看”：罗·卡纳谈为何伊朗冲突是送给北京的礼物]]></title>
@@ -173,13 +180,6 @@
             <link>https://cn.investing.com/news/stock-market-news/article-3357980</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3357980</guid>
             <pubDate>Sat, 09 May 2026 13:35:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国金证券：国产算力链有望迎黄金时代 继续坚定看好算力链高景气行情]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3357973</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3357973</guid>
-            <pubDate>Sat, 09 May 2026 13:05:12 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -295,7 +295,7 @@
             <description><![CDATA[[Bloomberg] 非洲的农田可能价值 1 万亿美元，但全球冲击正在加剧这一风险。 化肥短缺、成本上升和供应中断给整个非洲大陆的粮食生产带来压力。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[由于战争阻碍霍尔木兹运输，中国能源进口锐减]]></title>
+            <title><![CDATA[由于战争阻碍霍尔木兹运输，中国能源进口大幅下降]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-05-09/china-s-energy-imports-plunge-as-war-chokes-hormuz-shipments</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-09/china-s-energy-imports-plunge-as-war-chokes-hormuz-shipments</guid>
             <pubDate>Sat, 09 May 2026 04:33:32 GMT</pubDate>
@@ -603,6 +603,13 @@
             <description><![CDATA[[CNBC] 这些是盘前涨幅最大的股票。]]></description>
         </item>
         <item>
+            <title><![CDATA[杜科诺火山持续喷发，印尼当局停止搜寻三名失踪徒步旅行者 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3dZUUplem94anZ4WVU4ZnB2cFo1NUVUcmZSWWtmWnRDMHJIV2hGZ1kwZmVxeUlNZ2VWUEFRbFhhMTRFSml0LUdkc1JnRVZtMGNJS0djNTBKWVFkREJpX090ZGdaYUh0Ung2b0lxTEVKLTRvZF95aVBxQl9QazVDRTFjRTYzMWdOLW9Kb2FpRXpaU2RGUXdRQXZBVDBubTRiczl6ZldIX0FZT0RWMHhaZlBOWS1Sd1pSZWRMd3FRbG9LS0wyaVJXWEZsWFE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxOV3dZUUplem94anZ4WVU4ZnB2cFo1NUVUcmZSWWtmWnRDMHJIV2hGZ1kwZmVxeUlNZ2VWUEFRbFhhMTRFSml0LUdkc1JnRVZtMGNJS0djNTBKWVFkREJpX090ZGdaYUh0Ung2b0lxTEVKLTRvZF95aVBxQl9QazVDRTFjRTYzMWdOLW9Kb2FpRXpaU2RGUXdRQXZBVDBubTRiczl6ZldIX0FZT0RWMHhaZlBOWS1Sd1pSZWRMd3FRbG9LS0wyaVJXWEZsWFE?oc=5</guid>
+            <pubDate>Fri, 08 May 2026 16:52:41 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 杜科诺火山持续喷发，印度尼西亚当局停止搜寻三名失踪的徒步旅行者 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[波兰签署首笔贷款协议作为欧盟国防支出推动的一部分 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGJEelFXR1NTbFIza0szRXJWY0dKV1I5cnRxaHVub3ZyYnJBRmtfd005QTR0MUM4LUxVUXpUT3Rzc2xrdGV6Zm9kS3dfN3J6dGZBa0k3cG4yQlJYOU1RTUl3dzB2ZktxRDJwRVVGUVUycmIzUmRPeDduMFp3dVBReE04cUhVMEhRUk1GQjR3UEQtRzlLNnRMUllmbkRtalgySkhhbTVLZTBwamJtRXBxWHpvUDJoTmpKa0NZSlB3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGJEelFXR1NTbFIza0szRXJWY0dKV1I5cnRxaHVub3ZyYnJBRmtfd005QTR0MUM4LUxVUXpUT3Rzc2xrdGV6Zm9kS3dfN3J6dGZBa0k3cG4yQlJYOU1RTUl3dzB2ZktxRDJwRVVGUVUycmIzUmRPeDduMFp3dVBReE04cUhVMEhRUk1GQjR3UEQtRzlLNnRMUllmbkRtalgySkhhbTVLZTBwamJtRXBxWHpvUDJoTmpKa0NZSlB3?oc=5</guid>
@@ -706,13 +713,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXp4bWlrRVVFMm84clY1dlhrUlI5aEpTWldJRUJLZDFWb1FNZmJNdl81Z3F5R1dJOWk1ZDNzZG5rOW90SERnZEtMMFBFMDM0cjZvS1JWNGRxNGJRcHFRYWctTFhIbmtWZnoxZUpsSHR3bDNEb2hqXzduaVBQei1jM1pIOG9Tenc2TjlzRDNaNElhX0NNM3pDR3JKNUppcGg4NkYxemNNUlBOb1RCVkRZeEoxaUNNak0?oc=5</guid>
             <pubDate>Fri, 08 May 2026 13:32:05 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 乌克兰称防空导弹短缺 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[专家竞相编写遏制首次船载汉坦病毒爆发的指南 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxORzg5dENyZ2dTUExEaHRXSXM2MGdCOTEzbHRJdzRpaGlZYzRxSnN4alQxQ2hHSVdhX3pnRzEzbXlobXBGSnFabWlHaWlYYVppMl9oWlB1bUNMamRTdWt1bUFnWEN0bWozNnp6eVNGTW9KWWxDVzNTSnVHX215S082dU1pbVlnakN1UWtCYkJ5VGNQTFpVcEdXNDBjUU1mRU1fOXhHZnI0cWZSdWZCdTc2V1hGa3ZnQWY1aDdKc3ZvcVAtWWQxVUUwUHN1bmtlQ2hsLTFCeGJESXpxRE80?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxORzg5dENyZ2dTUExEaHRXSXM2MGdCOTEzbHRJdzRpaGlZYzRxSnN4alQxQ2hHSVdhX3pnRzEzbXlobXBGSnFabWlHaWlYYVppMl9oWlB1bUNMamRTdWt1bUFnWEN0bWozNnp6eVNGTW9KWWxDVzNTSnVHX215S082dU1pbVlnakN1UWtCYkJ5VGNQTFpVcEdXNDBjUU1mRU1fOXhHZnI0cWZSdWZCdTc2V1hGa3ZnQWY1aDdKc3ZvcVAtWWQxVUUwUHN1bmtlQ2hsLTFCeGJESXpxRE80?oc=5</guid>
-            <pubDate>Fri, 08 May 2026 13:28:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 专家竞相编写遏制首次船载汉坦病毒爆发的指南 路透]]></description>
         </item>
     </channel>
 </rss>
