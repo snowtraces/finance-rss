@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 09 May 2026 18:56:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 19:56:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[超大规模云服务商财报揭示三大关键主题]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3358083</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3358083</guid>
+            <pubDate>Sat, 09 May 2026 19:47:46 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[妙手重押英特尔、乘着卫星“走进光里” 景林最新美股持仓曝光]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3358028</link>
@@ -169,13 +176,6 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[超70万亿存款即将到期！中小银行扎堆上线大额存单“揽储”，茅台农商行利率达2.15%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3357967</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3357967</guid>
-            <pubDate>Sat, 09 May 2026 12:36:34 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[伊朗战争正在以前所未有的速度耗尽世界石油缓冲]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace</guid>
@@ -281,7 +281,7 @@
             <description><![CDATA[[Bloomberg] 非洲的农田可能价值 1 万亿美元，但全球冲击正在加剧这一风险。 化肥短缺、成本上升和供应中断给整个非洲大陆的粮食生产带来压力。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[由于战争阻碍霍尔木兹运输，中国能源进口大幅下降]]></title>
+            <title><![CDATA[由于战争阻碍霍尔木兹运输，中国能源进口锐减]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-05-09/china-s-energy-imports-plunge-as-war-chokes-hormuz-shipments</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-09/china-s-energy-imports-plunge-as-war-chokes-hormuz-shipments</guid>
             <pubDate>Sat, 09 May 2026 04:33:32 GMT</pubDate>
