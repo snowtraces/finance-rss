@@ -4,10 +4,52 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 16 May 2026 23:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 01:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[华侨银行拟在香港增聘30至50名客户经理]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3371844</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3371844</guid>
+            <pubDate>Sun, 17 May 2026 01:05:09 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[近390股本周获涨停，四大板块占比较高，这些千亿权重股在列]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3371839</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3371839</guid>
+            <pubDate>Sun, 17 May 2026 00:35:41 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中泰证券：AI围绕核心优势布局 亦有望“后发先至” 重申腾讯控股(00700)“买入”评级]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3371838</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3371838</guid>
+            <pubDate>Sun, 17 May 2026 00:35:11 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[战时能源价格飙升在打击消费者的同时提振了投资者，扩大了美国经济的分化]]></title>
+            <link>https://www.wsj.com/economy/consumers/the-oil-shock-is-causing-a-45-billion-rupture-in-the-economy-938e13c0</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/consumers/the-oil-shock-is-causing-a-45-billion-rupture-in-the-economy-938e13c0</guid>
+            <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 战时价格飙升在打击消费者的同时也提振了投资者。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印度错过了人工智能，现在它作为市场宠儿的地位可能结束了]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-05-17/india-missed-out-on-ai-and-now-its-run-as-market-darling-may-be-over</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-05-17/india-missed-out-on-ai-and-now-its-run-as-market-darling-may-be-over</guid>
+            <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 随着人工智能贸易重塑全球投资流，印度成为最大的输家之一。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[招商证券：A股2026Q1净利润同比增速由负转正 盈利有望延续修复态势]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3371827</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3371827</guid>
+            <pubDate>Sat, 16 May 2026 23:35:09 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[【早报】俄罗斯总统普京将访华；商务部公布中美经贸磋商初步成果]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3371814</link>
@@ -49,6 +91,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXdYTlpSWTFqaE9aZzlmaXBjVkxabk5Pd21xbDBmZFhHcXp3Vlh2eTRlcmdhZThqMTJTNGxtb3NWQVVhMTN2VjExeVNMYmdheTlzSjlDU3Z6Zkg5ekE1cjJJb2FncW9GaEExQmRtUDV1OWhWYmVYVEExQVlJaUtMSGRNYTRLVUowOFFTNWQxT1QzNGhwdkpVWUlGWnJObjAtb3BSei05QmZ5MTdwdEJMeGlvVQ?oc=5</guid>
             <pubDate>Sat, 16 May 2026 20:31:43 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 突尼斯人抗议赛义德被捕和经济紧张 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[《太阳报》报道，英国政府将取消燃油税上调计划 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeU5rTzhRTG8tdHp1cnkxaHhzQjJLZEthWWhUVDN1dXE2ZHNxWWlwOW96WFpSQ1JZZjdxMUNId29pX05rT3FJREw1aUFfT0s0MjJnTXhROVNNWXdrZDh2RnhJbHJoY3UteGd1VXU0TDJqaVpkellwNjhCMXJaY1RRWExadlYxdWJJSWVyd2EyTkRtR3ZKREpWNmJLenEycnpfcmZZT2U2T3o?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeU5rTzhRTG8tdHp1cnkxaHhzQjJLZEthWWhUVDN1dXE2ZHNxWWlwOW96WFpSQ1JZZjdxMUNId29pX05rT3FJREw1aUFfT0s0MjJnTXhROVNNWXdrZDh2RnhJbHJoY3UteGd1VXU0TDJqaVpkellwNjhCMXJaY1RRWExadlYxdWJJSWVyd2EyTkRtR3ZKREpWNmJLenEycnpfcmZZT2U2T3o?oc=5</guid>
+            <pubDate>Sat, 16 May 2026 20:22:14 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 《太阳报》报道，英国政府将取消燃油税上调计划 路透]]></description>
         </item>
         <item>
             <title><![CDATA[伊朗战争阴影下全球库存竞赛加剧]]></title>
@@ -128,27 +177,6 @@
             <description><![CDATA[[Bloomberg] 当市场收盘时，消息并没有停止。 主持人大卫·古拉 (David Gura)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和丽莎·马特奥 (Lisa Mateo) 为周末最大的头条新闻“来自纽约的直播”带来了清晰、背景和幽默。 卡内基国际和平基金会核政策项目非常驻学者 Nicole Grajewski、独立润滑剂制造商协会首席执行官 Holly Alfano 以及《点赞、关注、订阅：影响儿童和在线童年的成本》一书的作者 Fortesa Latifi 也加入其中。   （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[贝莱德考虑在SpaceX IPO中投资50亿至100亿美元]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3371780</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3371780</guid>
-            <pubDate>Sat, 16 May 2026 16:49:02 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[贝莱德考虑向SpaceX IPO投资50亿至100亿美元]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-432SI-3371779</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-432SI-3371779</guid>
-            <pubDate>Sat, 16 May 2026 16:47:11 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新纪元能源洽购竞争对手Dominion Energy，或最快周一宣布交易]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3371778</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3371778</guid>
-            <pubDate>Sat, 16 May 2026 16:26:58 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[美国地质调查局称安提瓜和巴布达发生里氏 6.0 级地震 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNdEJGYmVYbF9ZcEx5T0lzNnhHRTNzd3RHTlhNeDNvLXphVjd6ZmZQa3ppckg5QU1fMTZMMVNTS1hPR2QxNXZrQmZoQjMta0dsTW9HaENXNzh3YWcwREd3UVBhNEdjZ3hKRUxic0tJSE5BaDFva01qM0M2czUxaTBTVzRPdUhWRTlaZlE5S0NmRVZ6eGxsbVAyaW4xdG1iYlJ5SzhOMEY0emJWZnYxYkREdg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxNdEJGYmVYbF9ZcEx5T0lzNnhHRTNzd3RHTlhNeDNvLXphVjd6ZmZQa3ppckg5QU1fMTZMMVNTS1hPR2QxNXZrQmZoQjMta0dsTW9HaENXNzh3YWcwREd3UVBhNEdjZ3hKRUxic0tJSE5BaDFva01qM0M2czUxaTBTVzRPdUhWRTlaZlE5S0NmRVZ6eGxsbVAyaW4xdG1iYlJ5SzhOMEY0emJWZnYxYkREdg?oc=5</guid>
@@ -161,13 +189,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-05-16/returning-from-china-trump-is-ambiguous-over-taiwan-video</guid>
             <pubDate>Sat, 16 May 2026 15:40:40 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 唐纳德·特朗普总统表示，他在台湾问题上没有向中国国家主席习近平做出任何承诺，并将很快就计划中的与台湾的 140 亿美元武器交易做出决定。 彭博社白宫记者考特尼·萨勃拉曼尼安和记者米歇尔·卡斯克今天早上在《彭博本周末》节目中与克里斯蒂娜·鲁菲尼和大卫·古拉一起讨论峰会的协议、症结点和未完成的任务。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[困在业绩补偿里的广东明珠：实控人张坚力尚欠2亿，逾期或将触发ST风险]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3371776</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3371776</guid>
-            <pubDate>Sat, 16 May 2026 15:35:46 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[体育、媒体、通货膨胀| 针对性新闻测验]]></title>
@@ -216,7 +237,7 @@
             <link>https://www.bloomberg.com/news/videos/2026-05-16/wall-street-week-dalio-s-warning-nyc-tax-standoff-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-05-16/wall-street-week-dalio-s-warning-nyc-tax-standoff-video</guid>
             <pubDate>Sat, 16 May 2026 14:15:21 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 本周，雷·达里奥 (Ray Dalio) 解释了市场为何对战争不屑一顾，以及为何这一次可能会有所不同。 而且，为什么人工智能高管要警告他们同时竞相构建的系统存在危险？   此外，中国对能源基础设施的大规模投资正在日益影响全球人工智能领导地位和工业实力的竞争。 随后，纽约能否在提高税收以弥补日益扩大的预算缺口的同时，继续保持对企业和年轻工人的吸引力？  （来源：彭博社）]]></description>
+            <description><![CDATA[[Bloomberg] 本周，雷·达利奥 (Ray Dalio) 解释了市场为何对战争不屑一顾，以及为何这一次可能会有所不同。 而且，为什么人工智能高管要警告他们同时竞相构建的系统存在危险？   此外，中国对能源基础设施的大规模投资正在日益影响全球人工智能领导地位和工业实力的竞争。 之后，纽约能否继续保持对企业和年轻工人的吸引力，同时提高税收以弥补日益扩大的预算缺口？  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[2026年一季度商业银行净息差降至1.40% 不良贷款“双升” - Caixin]]></title>
@@ -224,6 +245,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TRjNmTEdFZEdlT0tDa0g0Si14SDY1aW5XaEo0MEZVVDg3dXBCcFlfdnVQOTQ0VjBKWWtqbDRpbUxaUjRydURkWWFSR1U2Q1EtRnd2RFJidC1rMER4OUt3TU53?oc=5</guid>
             <pubDate>Sat, 16 May 2026 13:49:00 GMT</pubDate>
             <description><![CDATA[[财新网] 2026年一季度商业银行净息差降至1.40% 不良贷款“双升”  Caixin]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储任命鲍威尔为临时主席，直至沃什宣誓就职 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnk3MDJaZFlZTjlQczZHbFp4V1gtcFVPNVZwa281eEk1MXlxTTFSUmQyWFp1dldMTjgzZVpROGtZcUpSLXJpZDhuUndmNDAtSThBWHFUYktpYTVxM2lUUDlWdUdrcnhhcDRhS2twY0Q5czRpVWRrY1JuTXo0Q2ZGaXI2OUFoXzBBUldhendDRVVCZDBHUDc1c2VheUI4TFFxNFE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnk3MDJaZFlZTjlQczZHbFp4V1gtcFVPNVZwa281eEk1MXlxTTFSUmQyWFp1dldMTjgzZVpROGtZcUpSLXJpZDhuUndmNDAtSThBWHFUYktpYTVxM2lUUDlWdUdrcnhhcDRhS2twY0Q5czRpVWRrY1JuTXo0Q2ZGaXI2OUFoXzBBUldhendDRVVCZDBHUDc1c2VheUI4TFFxNFE?oc=5</guid>
+            <pubDate>Sat, 16 May 2026 13:47:50 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美联储任命鲍威尔为临时主席，直至沃什宣誓就职 路透]]></description>
         </item>
         <item>
             <title><![CDATA[凯文·沃什 (Kevin Warsh) 进入美联储，面临降息问题的“家庭斗争”]]></title>
@@ -569,13 +597,6 @@
             <description><![CDATA[[WSJ] 此外，债券收益率触及一年多以来的最高水平，以及购买优质二手电动汽车的提示。]]></description>
         </item>
         <item>
-            <title><![CDATA[美联储任命鲍威尔为临时主席，直至沃什宣誓就职 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnk3MDJaZFlZTjlQczZHbFp4V1gtcFVPNVZwa281eEk1MXlxTTFSUmQyWFp1dldMTjgzZVpROGtZcUpSLXJpZDhuUndmNDAtSThBWHFUYktpYTVxM2lUUDlWdUdrcnhhcDRhS2twY0Q5czRpVWRrY1JuTXo0Q2ZGaXI2OUFoXzBBUldhendDRVVCZDBHUDc1c2VheUI4TFFxNFE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnk3MDJaZFlZTjlQczZHbFp4V1gtcFVPNVZwa281eEk1MXlxTTFSUmQyWFp1dldMTjgzZVpROGtZcUpSLXJpZDhuUndmNDAtSThBWHFUYktpYTVxM2lUUDlWdUdrcnhhcDRhS2twY0Q5czRpVWRrY1JuTXo0Q2ZGaXI2OUFoXzBBUldhendDRVVCZDBHUDc1c2VheUI4TFFxNFE?oc=5</guid>
-            <pubDate>Fri, 15 May 2026 21:13:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美联储任命鲍威尔为临时主席，直至沃什宣誓就职 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[Kissei 报道称，安进的罕见病药物与日本的死亡和肝损伤有关 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWpwcjZsdDFoUlFXVEFITmJieUlDVTFmMmVuU0hid2lGdWVyTVBOc1FVQUxYcTZJOWdHRUlXNlZ1M0tsX0J5WkYyenpBbVdNZXdjbVlOOC13NUtIclNaY0Z3RkMwU2F0WGswcGEzZkJ0QldaTVdDSnhaSE5RdmZhWm9JWWRKWTRzdDV5V2Y1dVVPZXFRSGNqN0dtYW9mX3ZUSGNvb1VWNnNMSFFDYW54ZHdUM01hNWFFa1N5bnI0QWtHbWlVc0NmSko3TXRxcG4wZTRYdVdtck5ER0U?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWpwcjZsdDFoUlFXVEFITmJieUlDVTFmMmVuU0hid2lGdWVyTVBOc1FVQUxYcTZJOWdHRUlXNlZ1M0tsX0J5WkYyenpBbVdNZXdjbVlOOC13NUtIclNaY0Z3RkMwU2F0WGswcGEzZkJ0QldaTVdDSnhaSE5RdmZhWm9JWWRKWTRzdDV5V2Y1dVVPZXFRSGNqN0dtYW9mX3ZUSGNvb1VWNnNMSFFDYW54ZHdUM01hNWFFa1N5bnI0QWtHbWlVc0NmSko3TXRxcG4wZTRYdVdtck5ER0U?oc=5</guid>
@@ -588,6 +609,13 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/05/15/berkshire-hathaway-returns-to-airlines-with-2point6-billion-stake-in-delta-air-lines.html</guid>
             <pubDate>Fri, 15 May 2026 20:50:03 GMT</pubDate>
             <description><![CDATA[[CNBC] 截至 3 月底，这家总部位于奥马哈的公司持有价值超过 26 亿美元的头寸，成为达美伯克希尔公司的第 14 大持仓。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[科技公司首席执行官受邀前往美国国会就儿童网络安全问题作证 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFFwNkJWT2RYd1ctZmtzMUJha2kyLVdlRkx5ZkJOS3ZBRjFpakpwLVZsV3JhQUk5ZEdRRG1DQjgwT3pZVFdaR3h6OGxrRmlnelh6VjE1cmtNMnVKX290cy1OZUE3V0FaMFFEOU81VXdmUHdOVVgzSVA0cFVrd1lXckdOQmxLV0psejRELW9iSXQyVHJHN25NS1Vnc1F6N1k?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFFwNkJWT2RYd1ctZmtzMUJha2kyLVdlRkx5ZkJOS3ZBRjFpakpwLVZsV3JhQUk5ZEdRRG1DQjgwT3pZVFdaR3h6OGxrRmlnelh6VjE1cmtNMnVKX290cy1OZUE3V0FaMFFEOU81VXdmUHdOVVgzSVA0cFVrd1lXckdOQmxLV0psejRELW9iSXQyVHJHN25NS1Vnc1F6N1k?oc=5</guid>
+            <pubDate>Fri, 15 May 2026 20:15:16 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 科技公司首席执行官受邀前往美国国会就儿童网络安全问题作证 路透]]></description>
         </item>
         <item>
             <title><![CDATA[由于强制要求和高油价，美国炼油商最终从生物燃料中获利 - 路透中文网]]></title>
@@ -679,34 +707,6 @@
             <guid isPermaLink="false">https://www.cnbc.com/2026/05/15/biggest-bottleneck-in-the-ai-buildup-fuels-dram-etf-to-record.html</guid>
             <pubDate>Fri, 15 May 2026 17:02:06 GMT</pubDate>
             <description><![CDATA[[CNBC] 根据 TMX VettaFi 的数据，Roundhill Memory ETF (DRAM) 的资产刚刚以交易所交易基金有史以来最快的速度达到 100 亿美元。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，冰淇淋巨头股价下跌，私募股权投资公司陷入困境 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDBDQUVWQ05CTk0yZ1NycXRzUVR5T2tKdm9MS2V3SkpQZ2ZpSnE1dHFUTjNWeHhoVnpRTlRxeGlCMTYtbVN0WWNxb00xTzk0a1pXdFA3R2sxMzVGbHczVGEzcEFtZkQ0LWdqQ1o5RndLcUhYN2lGaENySVRYUnk3T2U2anBGSzFRTlVuTXhvN0J6Y1B1NkxhcHdrX2FlZmRVV0tXUUFYTlZmMFp6?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxOMDBDQUVWQ05CTk0yZ1NycXRzUVR5T2tKdm9MS2V3SkpQZ2ZpSnE1dHFUTjNWeHhoVnpRTlRxeGlCMTYtbVN0WWNxb00xTzk0a1pXdFA3R2sxMzVGbHczVGEzcEFtZkQ0LWdqQ1o5RndLcUhYN2lGaENySVRYUnk3T2U2anBGSzFRTlVuTXhvN0J6Y1B1NkxhcHdrX2FlZmRVV0tXUUFYTlZmMFp6?oc=5</guid>
-            <pubDate>Fri, 15 May 2026 16:57:50 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 消息人士称，随着冰淇淋巨头股价下跌，私募股权公司开始关注 Magnum 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[NFL 希望禁止某些交易合同进入预测市场，例如“第一场比赛”、伤病等]]></title>
-            <link>https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/05/15/prediction-markets-nfl-letter-wants-certain-betting-contracts-banned.html</guid>
-            <pubDate>Fri, 15 May 2026 16:27:26 GMT</pubDate>
-            <description><![CDATA[[CNBC] CNBC 审阅了这封信，呼吁禁止某些合同并提高参与体育相关合同的年龄要求。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[未来一周外汇、债券：中东不确定性持续，美联储会议纪要成为焦点]]></title>
-            <link>https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-fed-minutes-in-focus-as-middle-east-uncertainty-continues-69d556d6</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-fed-minutes-in-focus-as-middle-east-uncertainty-continues-69d556d6</guid>
-            <pubDate>Fri, 15 May 2026 16:16:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 人们将密切关注美联储最近一次会议纪要，以寻找在能源价格上涨的情况下加息前景是否开始增强的迹象。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[丹麦检查死鲸是否是德国最近获救的蒂米 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTI5bTFhSTYwMi1lNnNIMVM1WUMwc0NKUDJtNUM0RTVRZUpRTWp6eDJpU2NNY1FoQng5RzliblVJdHBDY050SF85YUhPMXBvRl9QaWx0N3lJcENRbWVBbFlONlk4U0VIaUc5V1pSZHdfRUFWMldTN1JoR3lrLXB0VFlWcURfa2d2RlJiM0kySGJiZWFQS0o4aDYzMDVuRFliZnIwcndLRF9FcXBuajlrYlNRQmlJZ08wRkRxdA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTI5bTFhSTYwMi1lNnNIMVM1WUMwc0NKUDJtNUM0RTVRZUpRTWp6eDJpU2NNY1FoQng5RzliblVJdHBDY050SF85YUhPMXBvRl9QaWx0N3lJcENRbWVBbFlONlk4U0VIaUc5V1pSZHdfRUFWMldTN1JoR3lrLXB0VFlWcURfa2d2RlJiM0kySGJiZWFQS0o4aDYzMDVuRFliZnIwcndLRF9FcXBuajlrYlNRQmlJZ08wRkRxdA?oc=5</guid>
-            <pubDate>Fri, 15 May 2026 16:15:54 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 丹麦检查死鲸是否是德国最近获救的蒂米路透社]]></description>
         </item>
     </channel>
 </rss>
