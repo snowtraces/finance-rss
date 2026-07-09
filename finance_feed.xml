@@ -4,79 +4,269 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 09 Jul 2026 01:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jul 2026 05:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[隔夜美股 | 美联储官员对高通胀担忧日益加剧 三大指数涨跌不一 闪迪(SNDK.US)涨6.7%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452733</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452733</guid>
-            <pubDate>Thu, 09 Jul 2026 00:54:57 GMT</pubDate>
+            <title><![CDATA[塔塔集团的目标是到 2031 年汽车业务收入达到 1000 亿美元]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/tata-group-targets-100-billion-revenue-from-auto-units-by-2031</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/tata-group-targets-100-billion-revenue-from-auto-units-by-2031</guid>
+            <pubDate>Thu, 09 Jul 2026 05:23:24 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 董事长 Natarajan Chandrasekaran 表示，塔塔集团的目标是到 2031 年 3 月结束的年度实现约 1000 亿美元的汽车收入，并概述了塔塔汽车乘用车和商用车业务分拆后其四大汽车业务的增长计划。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如果油价低于 70 美元，德意志银行将关注印度和印度尼西亚债券]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/deutsche-bank-eyes-india-indonesia-bonds-if-oil-holds-below-70</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/deutsche-bank-eyes-india-indonesia-bonds-if-oil-holds-below-70</guid>
+            <pubDate>Thu, 09 Jul 2026 05:20:05 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 如果油价保持在足够低的水平以压低通胀和收益率，德意志银行的私人部门将考虑购买新兴亚洲债券。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚同意在莫迪访问期间向印度出售铀]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/australia-agrees-to-sell-uranium-to-india-during-modi-visit</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/australia-agrees-to-sell-uranium-to-india-during-modi-visit</guid>
+            <pubDate>Thu, 09 Jul 2026 05:09:16 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 澳大利亚同意向印度出售铀用于发电，这是两国在总理纳伦德拉·莫迪访问墨尔本期间签署的一项具有里程碑意义的协议。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国顶级太阳能公司从白银转向铜]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/china-s-top-solar-firm-makes-switch-from-silver-to-copper</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/china-s-top-solar-firm-makes-switch-from-silver-to-copper</guid>
+            <pubDate>Thu, 09 Jul 2026 04:54:42 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 中国最大的太阳能制造商已开始生产用铜代替银的电池，以应对去年以来令整个行业不安的贵金属价格飙升。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[莫迪开始为期两天的澳大利亚访问]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-07-09/modi-kicks-off-two-day-australia-visit-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-09/modi-kicks-off-two-day-australia-visit-video</guid>
+            <pubDate>Thu, 09 Jul 2026 04:54:39 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 印度总理纳伦德拉·莫迪和澳大利亚总理安东尼·阿尔巴内斯承诺在墨尔本会谈期间深化经济和防务关系。 预计两位领导人将签署国防和能源协议。
+  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国和伊朗袭击后霍尔木兹交通几乎停止]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-07-09/hormuz-traffic-grinds-to-near-halt-after-us-iran-strike-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-09/hormuz-traffic-grinds-to-near-halt-after-us-iran-strike-video</guid>
+            <pubDate>Thu, 09 Jul 2026 04:38:14 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美国军队连续第二天袭击伊朗，暴力升级威胁到达成永久和平协议的努力。 彭博社的阿比尔·阿布·奥马尔报道。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高盛称霍尔木兹火山爆发可能会延迟石油供应的恢复]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/goldman-says-hormuz-flare-up-may-delay-recovery-in-oil-supplies</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/goldman-says-hormuz-flare-up-may-delay-recovery-in-oil-supplies</guid>
+            <pubDate>Thu, 09 Jul 2026 04:16:20 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 高盛集团表示，如果新的紧张局势扰乱霍尔木兹海峡的航运，中东石油供应的复苏可能会受挫。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国要求银行家避免承销短期地方政府融资平台债券]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/china-asks-bankers-to-avoid-underwriting-short-term-lgfv-bonds</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/china-asks-bankers-to-avoid-underwriting-short-term-lgfv-bonds</guid>
+            <pubDate>Thu, 09 Jul 2026 04:14:53 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 据知情人士透露，中国正在引导市政借款人不再在国内市场发行短期债券，这是遏制实力较弱的发行人融资的最新举措。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[误解备忘录的误差范围]]></title>
+            <link>https://www.bloomberg.com/opinion/newsletters/2026-07-09/us-iran-memorandum-of-misunderstanding-s-margin-of-error</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/opinion/newsletters/2026-07-09/us-iran-memorandum-of-misunderstanding-s-margin-of-error</guid>
+            <pubDate>Thu, 09 Jul 2026 04:04:28 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 只要不跨越一条大线，市场就可以忍受这种情况。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国出厂价格上涨加速，消费者通胀放缓]]></title>
+            <link>https://www.wsj.com/economy/chinas-factory-gate-inflation-accelerates-243c8b9d</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/chinas-factory-gate-inflation-accelerates-243c8b9d</guid>
+            <pubDate>Thu, 09 Jul 2026 03:43:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 由于中东冲突的影响继续波及经济，中国 6 月份工厂出厂通胀加速，但消费者价格涨幅降温，表明国内需求持续疲软。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[淡马锡首席信息官 Rohit Sipahimalani 对美国资本支出激增风险发出警告]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-07-09/temasek-cio-warns-on-us-capex-surge-risks-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-09/temasek-cio-warns-on-us-capex-surge-risks-video</guid>
+            <pubDate>Thu, 09 Jul 2026 03:41:15 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 淡马锡国际首席信息官罗希特·西帕希马拉尼 (Rohit Sipahimalani) 在接受彭博社哈斯琳达·阿明 (Haslinda Amin) 的广泛采访时讨论了投资机会，并警告说，美国资本支出的激增可能会给市场带来风险。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[日本五年期债券发行对高收益需求旺盛]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/japan-s-five-year-bond-sale-demand-in-line-with-12-month-average</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/japan-s-five-year-bond-sale-demand-in-line-with-12-month-average</guid>
+            <pubDate>Thu, 09 Jul 2026 03:40:12 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 周四日本五年期债券发售的需求与最近的拍卖基本一致，表明收益率上升正在吸引一些买家。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亚洲股市下跌，油价上涨与三星拖累情绪，日本芯片股反弹限制跌幅]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3453051</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3453051</guid>
+            <pubDate>Thu, 09 Jul 2026 03:39:32 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[美方对伊朗发动新一轮军事打击 特朗普称停火协议“已经结束”]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452731</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452731</guid>
-            <pubDate>Thu, 09 Jul 2026 00:54:25 GMT</pubDate>
+            <title><![CDATA[智谱AI股价今日为何大涨？]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3453048</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3453048</guid>
+            <pubDate>Thu, 09 Jul 2026 03:39:15 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[智通港股早知道 | 美媒称霍尔木兹海峡油轮通行基本停止 美联储部分官员支持6月加息]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452777</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452777</guid>
-            <pubDate>Thu, 09 Jul 2026 00:54:06 GMT</pubDate>
+            <title><![CDATA[AWS增速有望飙至35.5%、AI营收暴涨近500%！TD Cowen看好亚马逊(AMZN.US)Q2交出亮眼成绩单]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3453028</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3453028</guid>
+            <pubDate>Thu, 09 Jul 2026 03:36:28 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[SpaceXAI(SPCX.US)联合Cursor发布Grok 4.5：主攻编码与金融任务，向Anthropic和OpenAI发起新一轮挑战]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452816</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452816</guid>
-            <pubDate>Thu, 09 Jul 2026 00:36:17 GMT</pubDate>
+            <title><![CDATA[国投证券国际：首予粤港湾智算(01396)买入评级 目标价20.00港元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3453025</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3453025</guid>
+            <pubDate>Thu, 09 Jul 2026 03:35:14 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[中信建投：AI电力缺口持续 国产主电源链迎放量机遇]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452814</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452814</guid>
-            <pubDate>Thu, 09 Jul 2026 00:35:12 GMT</pubDate>
+            <title><![CDATA[中泰国际：维持信达生物(01801)买入评级 目标价134.50港元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3453024</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3453024</guid>
+            <pubDate>Thu, 09 Jul 2026 03:35:12 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[探路者(300005.SZ)向特定对象发行股票申请获深交所审核通过]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452813</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452813</guid>
-            <pubDate>Thu, 09 Jul 2026 00:35:11 GMT</pubDate>
+            <title><![CDATA[港股异动 | 老铺黄金(06181)跌超6% 地缘冲突再起金价回调 瑞银此前下调其目标价]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3453023</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3453023</guid>
+            <pubDate>Thu, 09 Jul 2026 03:35:12 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[天数智芯(09903)拟折让约15%配售1485.7万股 净筹约70.34亿港元]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452812</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452812</guid>
-            <pubDate>Thu, 09 Jul 2026 00:35:11 GMT</pubDate>
+            <title><![CDATA[长持者抛压未减：筑底后期三大信号待确认]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3453022</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3453022</guid>
+            <pubDate>Thu, 09 Jul 2026 03:35:11 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[英矽智能(03696)发盈喜 预计上半年净利润约3350万美元至约3950万美元 同比扭亏为盈]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452811</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452811</guid>
-            <pubDate>Thu, 09 Jul 2026 00:35:10 GMT</pubDate>
+            <title><![CDATA[ETF异动 | 易方达人工智能ETF(03489)早盘涨近3% 算力恐慌恐慌已充分释放 七月财报期有望验证景气度]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3453021</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3453021</guid>
+            <pubDate>Thu, 09 Jul 2026 03:35:11 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[9部门支持加快零售业创新发展]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452810</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452810</guid>
-            <pubDate>Thu, 09 Jul 2026 00:35:10 GMT</pubDate>
+            <title><![CDATA[ETF异动 | 南方两倍做多英伟达(07788)涨超7% Nemotron 3 Ultra亮相 机构指英伟达市场估值存不合理折价]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3453020</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3453020</guid>
+            <pubDate>Thu, 09 Jul 2026 03:35:11 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[贝达药业(300558.SZ)：恩沙替尼术后辅助治疗临床研究成果发表]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3452809</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3452809</guid>
-            <pubDate>Thu, 09 Jul 2026 00:35:10 GMT</pubDate>
+            <title><![CDATA[Sensor Tower：6月中国出海手游收入前三保持不变 《杖剑传说》登顶收入增长榜冠军]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3453019</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3453019</guid>
+            <pubDate>Thu, 09 Jul 2026 03:35:10 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国和伊朗袭击后霍尔木兹船舶交通几乎停止]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/hormuz-traffic-grinds-to-a-near-halt-as-ceasefire-under-threat</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/hormuz-traffic-grinds-to-a-near-halt-as-ceasefire-under-threat</guid>
+            <pubDate>Thu, 09 Jul 2026 03:05:51 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 周四，美国连续第二天袭击伊朗，双方之间脆弱的休战看起来越来越不稳定，霍尔木兹海峡的交通几乎陷入瘫痪。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PE倍数创本轮AI牛市以来最低！美银称英伟达“估值不合理” - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5URm5JUTRDVjBWM1BRTC1tUU1YZTJYcERhQlZrMXJLcFZnSnFac0tvcUVnUEtxX2tsU1FIMU03ZGRUeHJEb0Y5bnpwVEdaaTNaYzdF?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5URm5JUTRDVjBWM1BRTC1tUU1YZTJYcERhQlZrMXJLcFZnSnFac0tvcUVnUEtxX2tsU1FIMU03ZGRUeHJEb0Y5bnpwVEdaaTNaYzdF?oc=5</guid>
+            <pubDate>Thu, 09 Jul 2026 03:01:58 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] PE倍数创本轮AI牛市以来最低！美银称英伟达“估值不合理”  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着石油价格上涨，美国和伊朗的紧张局势使印度卢比重新承受压力]]></title>
+            <link>https://www.bloomberg.com/news/newsletters/2026-07-09/india-s-rupee-back-under-pressure-as-us-iran-tensions-increase-inr-usd</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-07-09/india-s-rupee-back-under-pressure-as-us-iran-tensions-increase-inr-usd</guid>
+            <pubDate>Thu, 09 Jul 2026 02:40:52 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 事实证明，印度央行迄今为止的措施不如 2013 年有效。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[风险资产摆脱美国对伊朗更多打击的影响，铜价上涨]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/copper-rises-as-risk-assets-shrug-off-more-us-strikes-on-iran</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/copper-rises-as-risk-assets-shrug-off-more-us-strikes-on-iran</guid>
+            <pubDate>Thu, 09 Jul 2026 02:26:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 铜价结束了连续两天的下跌，因为它摆脱了美国对伊朗新一轮打击的影响，转而关注人工智能带来的长期需求提振的乐观情绪。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[法官向阿达尼施压，要求其提供有关司法部撤销案件的更多细节]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/adani-pressed-by-judge-for-more-details-on-doj-move-to-drop-case</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/adani-pressed-by-judge-for-more-details-on-doj-move-to-drop-case</guid>
+            <pubDate>Thu, 09 Jul 2026 02:06:58 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 一名美国法官向高塔姆·阿达尼 (Gautam Adani) 施压，要求其提供有关司法部驳回针对这位印度亿万富翁的重大刑事案件的更多细节。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[长鑫科技下周四打新 发行66.88亿股、战略配售50% - 财新]]></title>
+            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WcTl3VFZobFFsSUxyQUxrUU81UllFcHJOTk1tN0xUTVZ2YTZqbG5KWFNxWGFjWkx5dmZKZ0Z3Y2ViUmdyVzNmb00yOWFicEEwUjdhbmZEeVhraDVNTnpFeU9n?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WcTl3VFZobFFsSUxyQUxrUU81UllFcHJOTk1tN0xUTVZ2YTZqbG5KWFNxWGFjWkx5dmZKZ0Z3Y2ViUmdyVzNmb00yOWFicEEwUjdhbmZEeVhraDVNTnpFeU9n?oc=5</guid>
+            <pubDate>Thu, 09 Jul 2026 01:33:00 GMT</pubDate>
+            <description><![CDATA[[财新网] 长鑫科技下周四打新 发行66.88亿股、战略配售50%  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[从“稀缺”到“放缓”？“空头”德银：泡泡玛特IP周期见顶，下半年面临更严峻下滑风险 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fRGNhanRvR2s5aWNwQkdlcF9Oc2kxcTEwWGpud3JiVWczNlRQdjNRN3hzVWdnaHdvUjc5OUpGaFVPcVY5UUpuRnVFeUgyZ3FvN2VV?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fRGNhanRvR2s5aWNwQkdlcF9Oc2kxcTEwWGpud3JiVWczNlRQdjNRN3hzVWdnaHdvUjc5OUpGaFVPcVY5UUpuRnVFeUgyZ3FvN2VV?oc=5</guid>
+            <pubDate>Thu, 09 Jul 2026 01:30:21 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 从“稀缺”到“放缓”？“空头”德银：泡泡玛特IP周期见顶，下半年面临更严峻下滑风险  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[首席未来官：Kate Gulliver，Wayfair]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-07-09/chief-future-officer-kate-gulliver-wayfair</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-09/chief-future-officer-kate-gulliver-wayfair</guid>
+            <pubDate>Thu, 09 Jul 2026 01:30:18 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 本集介绍了 Wayfair 首席财务官 Kate Gulliver，她领导这家家居用品零售商在房地产市场充满挑战的时期努力实现盈利增长，并推出了开设实体旗舰店的新举措。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[今日开盘：两市双双高开 沪指涨幅0.17% - 财新]]></title>
+            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XUzJ2bnBQc2IxcGIyZVNKUU9wZDVZQjZQb3VaNDBzRkVYd0dGRU1qaVY3TXBlTlczY3hQRXRadXBEM1NCTW5qbTkwRDd4Slh2SWdod05tVlowQVRFaXIyS093?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XUzJ2bnBQc2IxcGIyZVNKUU9wZDVZQjZQb3VaNDBzRkVYd0dGRU1qaVY3TXBlTlczY3hQRXRadXBEM1NCTW5qbTkwRDd4Slh2SWdod05tVlowQVRFaXIyS093?oc=5</guid>
+            <pubDate>Thu, 09 Jul 2026 01:29:00 GMT</pubDate>
+            <description><![CDATA[[财新网] 今日开盘：两市双双高开 沪指涨幅0.17%  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中国通过 Anthropic 的克劳德代码警告人工智能风险]]></title>
+            <link>https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html</guid>
+            <pubDate>Thu, 09 Jul 2026 01:24:02 GMT</pubDate>
+            <description><![CDATA[[CNBC] 中国表示，克劳德代码的特定版本存在后门漏洞，可以将敏感信息发送到远程服务器。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[日本顶级眼镜制造商如何通过通胀考验]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-07-09/how-japan-s-top-eyewear-maker-is-passing-inflation-test-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-09/how-japan-s-top-eyewear-maker-is-passing-inflation-test-video</guid>
+            <pubDate>Thu, 09 Jul 2026 01:10:38 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 25 年前，JINS 以其价格为 4,990 日元的廉价眼镜而声名鹊起，随着价格下跌或停滞不前，JINS 成为廉价时尚的家喻户晓的名字。 现在，这家总部位于东京的镜片制造商正将自己定位为利用向更大定价权的转变，在豪华场所开设商店并提供更广泛的价格范围。 彭博社的里德·史蒂文森从东京报道。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国连续第二天对伊朗发动打击]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-07-09/us-launches-strikes-on-iran-for-second-straight-day-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-09/us-launches-strikes-on-iran-for-second-straight-day-video</guid>
+            <pubDate>Thu, 09 Jul 2026 01:08:05 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 美国军方表示，这是连续第二天袭击伊朗，暴力升级，有可能使本已脆弱的停火协议变得紧张。 彭博社的杰夫·梅森报道了最新进展。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国对伊朗发动新一轮打击后油价上涨 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdklGcG9tdzh1UWdoWldFbWpRaXJELXpXclBKYzlJbzBpaXNJMWJBTnRYUFh1WndvTmNVN2x3ZHBlQm94ZVI0M24zdnVHSVZtR0dNVDMxdmM0SmJUTGZLUWZTWGdwcWlQM0JfcHlBVVB6V2lZOEo1bzFHMUZ1ZkM4b2ZCdnFWOGhOZmVkSXVIODdhUWxDYU9mNlMxdnRoRkZBUV9iNEVMakdpZw?oc=5</guid>
+            <pubDate>Thu, 09 Jul 2026 01:04:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国对伊朗发动新一轮打击后油价上涨 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行 Shin 认为有必要在下周会议之前加息]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-09/bank-of-korea-sees-need-to-hike-rate-on-higher-inflation-growth</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/bank-of-korea-sees-need-to-hike-rate-on-higher-inflation-growth</guid>
+            <pubDate>Thu, 09 Jul 2026 01:00:28 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 韩国央行行长申贤松(Shin Hyun Song)向议会表示，政策利率需要在适当的时候上调，这在人们普遍预期的加息前一周强化了该行的鹰派立场。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[战局转变促使特朗普“变脸”：将授权海外生产“爱国者”供乌使用 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qVmZFN1dabHZZb3BRRFB0Y045RGJkMUxpaHQ1NnZUcXlvR3lfaVc1c1ZRRi1JWXZSbkZXaFRQLWlROHRNdnVZUlpSZndiS2NvTmZn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qVmZFN1dabHZZb3BRRFB0Y045RGJkMUxpaHQ1NnZUcXlvR3lfaVc1c1ZRRi1JWXZSbkZXaFRQLWlROHRNdnVZUlpSZndiS2NvTmZn?oc=5</guid>
+            <pubDate>Thu, 09 Jul 2026 00:57:42 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 战局转变促使特朗普“变脸”：将授权海外生产“爱国者”供乌使用  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[不莱曼强调复苏，新西兰制造业创五年新高]]></title>
@@ -84,6 +274,27 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-09/nz-manufacturing-hits-5-year-high-as-breman-highlights-recovery</guid>
             <pubDate>Thu, 09 Jul 2026 00:30:59 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 6月份，新西兰制造业以近五年来最快的速度扩张，央行行长安娜·布雷曼(Anna Breman)指出经济正在迅速复苏，凸显了本周加息的决定。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[报告称刚果新省疑似埃博拉病例 死亡人数已达 600 人 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmRadnQxenNrMHFHUWFaZ0tWR0NZRFg4WG1CTXRoc0xQQVc4aWVtYzM0bThZTXpZZ2Nxd1p5NlJjQWpwMmJ0VThmcmp6TU5PaUd1Y2cyVXBLT0puU2owaEk0WC0xRnpLMmw2VUVfTHBQeGlfUE56TlNxTWFYVm5tRllTOWY1LXVYaS1mTjVWeGdQbWRoVHZNOGFkT2tUbEowV2F3YWJ5enB1Q0tYSzVmcnA2Z1pkbWJ0T1FrMUZtVlUxOEQyUlZ2cV9ZeUx3cHgzSmgya2hWZzg2Zw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmRadnQxenNrMHFHUWFaZ0tWR0NZRFg4WG1CTXRoc0xQQVc4aWVtYzM0bThZTXpZZ2Nxd1p5NlJjQWpwMmJ0VThmcmp6TU5PaUd1Y2cyVXBLT0puU2owaEk0WC0xRnpLMmw2VUVfTHBQeGlfUE56TlNxTWFYVm5tRllTOWY1LXVYaS1mTjVWeGdQbWRoVHZNOGFkT2tUbEowV2F3YWJ5enB1Q0tYSzVmcnA2Z1pkbWJ0T1FrMUZtVlUxOEQyUlZ2cV9ZeUx3cHgzSmgya2hWZzg2Zw?oc=5</guid>
+            <pubDate>Thu, 09 Jul 2026 00:19:06 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 报告称新刚果省疑似埃博拉病例，死亡人数已达 600 人 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[韩股跌入熊市，高盛建议客户“转投中国AI产业链” - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BQ1IxOFI1RmlRSEt3MW1ka2hld05Zd3NFXzVxWUJzMUw3NnBjcmNNdzE0VVNvZXV1SXZ0dnJzd0lUY3hpbmc0MnY0WHVDa1hidk1v?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BQ1IxOFI1RmlRSEt3MW1ka2hld05Zd3NFXzVxWUJzMUw3NnBjcmNNdzE0VVNvZXV1SXZ0dnJzd0lUY3hpbmc0MnY0WHVDa1hidk1v?oc=5</guid>
+            <pubDate>Thu, 09 Jul 2026 00:03:21 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 韩股跌入熊市，高盛建议客户“转投中国AI产业链”  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[算力过剩？Meta要投百亿美元建首个加拿大数据中心 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE13U1dnUGFMdERURnpZV09XTzdJS0dhU2N6V0UxdnJhc2h4MjBSVzlpV1hSc3hDMVlCWThzN3NkalNPOU9pUnBTSzVDV2QwQnRGUl9n?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE13U1dnUGFMdERURnpZV09XTzdJS0dhU2N6V0UxdnJhc2h4MjBSVzlpV1hSc3hDMVlCWThzN3NkalNPOU9pUnBTSzVDV2QwQnRGUl9n?oc=5</guid>
+            <pubDate>Thu, 09 Jul 2026 00:02:10 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 算力过剩？Meta要投百亿美元建首个加拿大数据中心  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[高收益为更多全球债券流入印度尼西亚奠定了基础]]></title>
@@ -103,8 +314,15 @@
             <title><![CDATA[抄底资金涌向美国芯片ETF - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RQjhRTXVHdkYtR3daUkVjd2xjXzFxZ1NEWmVhV2lXQ25lczFDYm81d1dvRXhrUGRDOUhZeTdaMmdEd2t3TldwWWF6MTFaUGtYRUE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RQjhRTXVHdkYtR3daUkVjd2xjXzFxZ1NEWmVhV2lXQ25lczFDYm81d1dvRXhrUGRDOUhZeTdaMmdEd2t3TldwWWF6MTFaUGtYRUE?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 23:49:00 GMT</pubDate>
+            <pubDate>Wed, 08 Jul 2026 23:52:04 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 抄底资金涌向美国芯片ETF  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[优质牛仔布受到青睐，但股价下跌，李维斯 (Levi Strauss) 上调预期 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzQtMlhfSVdfdjBqOGpkSTJPSkZMTndubndVSEwwbl9MeUQ3ekxKYWJUUXdUenF0Y0lLaFpKUUF1OURSVmVqT0p1OXRNenNpRDdzOGUzUVljVHlaQnlPV0l5VDI3Wmh6RVoxbjA0Rm8yY3U0UlFDRVJyWVhzV3kxZ0FrQTRRd1A4dHBHTVE3SjRrQTZVLWFWRHRFR2RzM0dyOVBwVDlMd0s?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzQtMlhfSVdfdjBqOGpkSTJPSkZMTndubndVSEwwbl9MeUQ3ekxKYWJUUXdUenF0Y0lLaFpKUUF1OURSVmVqT0p1OXRNenNpRDdzOGUzUVljVHlaQnlPV0l5VDI3Wmh6RVoxbjA0Rm8yY3U0UlFDRVJyWVhzV3kxZ0FrQTRRd1A4dHBHTVE3SjRrQTZVLWFWRHRFR2RzM0dyOVBwVDlMd0s?oc=5</guid>
+            <pubDate>Wed, 08 Jul 2026 23:24:40 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 随着优质牛仔布受到青睐，李维斯 (Levi Strauss) 上调预期，但股价下跌 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普称伊朗协议“结束”后标普500指数收低 - 路透中文网]]></title>
@@ -121,11 +339,11 @@
             <description><![CDATA[[财新网] 财经早知道｜工信部：Claude Code存在安全后门隐患，危害严重  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[苹果供应商立讯精密将在香港 2026 年最大规模上市后进行交易]]></title>
+            <title><![CDATA[苹果供应商立讯精密在香港上市 30 亿美元后股价下跌]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/apple-supplier-luxshare-to-trade-after-hk-s-biggest-2026-listing</guid>
             <pubDate>Wed, 08 Jul 2026 23:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 苹果公司供应商立讯精密工业有限公司 (Luxshare Precision Industry Co.) 将于周四在香港开始交易，此前该公司在香港上市，筹集了 243 亿港元（约合 31 亿美元）的资金，这是香港今年迄今为止规模最大的一次上市。]]></description>
+            <description><![CDATA[[Bloomberg] 苹果公司(Apple Inc.)供应商立讯精密工业有限公司(Luxshare Precision Industry Co.)周四在香港上市首日股价下跌，此前该公司在该市今年迄今为止规模最大的上市中筹集了243亿港元（约合31亿美元）的资金。]]></description>
         </item>
         <item>
             <title><![CDATA[由于美国对伊朗的打击放大了通胀风险，金价保持下跌]]></title>
@@ -142,13 +360,6 @@
             <description><![CDATA[[Bloomberg] 据知情人士透露，豪华汽车市场和媒体公司杜邦注册集团已选择银行进行美国首次公开募股。]]></description>
         </item>
         <item>
-            <title><![CDATA[由于俄勒冈州调查，派拉蒙不会在 7 月 22 日之前完成华纳兄弟交易 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDdlUFI0ZlhmRXYzUkRWWUlVV005dk9vdjJQQ3AxVUtfN0tyTXJzRGxHZ3JqQTJ1SXBqYk5IdV9NSjN1dWptYWtpRVZCdWN1TkltSFpmX3o4ZzQ0RFpRTmxyb2tNR0hmTllzNThLbGhQazBzZzhLQ2x2REpndFZjX2pDRE5RRkRsQVlNcXRoOHd1eDhNaDIxeUN2bHVEdjRTaU9EZF9KcE9maU5TSGVfRWNYWEdnei11dUE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDdlUFI0ZlhmRXYzUkRWWUlVV005dk9vdjJQQ3AxVUtfN0tyTXJzRGxHZ3JqQTJ1SXBqYk5IdV9NSjN1dWptYWtpRVZCdWN1TkltSFpmX3o4ZzQ0RFpRTmxyb2tNR0hmTllzNThLbGhQazBzZzhLQ2x2REpndFZjX2pDRE5RRkRsQVlNcXRoOHd1eDhNaDIxeUN2bHVEdjRTaU9EZF9KcE9maU5TSGVfRWNYWEdnei11dUE?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 22:41:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 在俄勒冈州调查中，派拉蒙不会在 7 月 22 日之前完成华纳兄弟的交易 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[三星、SK 海力士和杠杆 ETF 推动了韩国 70% 的交易]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-07-08/samsung-sk-hynix-and-leveraged-etfs-drive-70-of-korea-trading</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/samsung-sk-hynix-and-leveraged-etfs-drive-70-of-korea-trading</guid>
@@ -163,32 +374,18 @@
             <description><![CDATA[[Reuters Business] 美国对伊朗发动新一轮打击，油价每桶上涨逾一美元 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[阿斯顿·马丁债券持有人在债务危机中签署合作协议]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-07-08/noteholders-to-aston-martin-sign-cooperation-pact-amid-debt-rout</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/noteholders-to-aston-martin-sign-cooperation-pact-amid-debt-rout</guid>
-            <pubDate>Wed, 08 Jul 2026 22:22:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于盈利压力给公司债务带来压力，豪华汽车制造商阿斯顿·马丁的一群债权人签署了一项合作协议。]]></description>
+            <title><![CDATA[独家：消息人士称中国取消7月份燃料出口限制 - 路透]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczZhYmpBVW0zQnJyY2N1c05Udmt2Vy1BUzhlaGozWlJzbm5rTWlMaFU1YVNOaUgyM282Q3k1OFFVZGYwcklsMXVEeVFPdWZSRDR6NGpkbGJVZEM2TjRIWENsZzdkYVNzSjlHUnQ2Z09CUms0LXlzZ3A3NFpzZkdSUGhBWU1fRHFhWDNZWjFxclJLTm1jN1hPN0pXWERfWjJyTnRxTmgyOWdKUQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczZhYmpBVW0zQnJyY2N1c05Udmt2Vy1BUzhlaGozWlJzbm5rTWlMaFU1YVNOaUgyM282Q3k1OFFVZGYwcklsMXVEeVFPdWZSRDR6NGpkbGJVZEM2TjRIWENsZzdkYVNzSjlHUnQ2Z09CUms0LXlzZ3A3NFpzZkdSUGhBWU1fRHFhWDNZWjFxclJLTm1jN1hPN0pXWERfWjJyTnRxTmgyOWdKUQ?oc=5</guid>
+            <pubDate>Wed, 08 Jul 2026 22:16:30 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 独家：消息人士称，中国取消了 7 月份的燃料出口限制 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[标准普尔将哈雷戴维森的信用评级下调至垃圾级]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-07-08/harley-davidson-s-credit-ratings-get-cut-to-junk-by-s-p</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/harley-davidson-s-credit-ratings-get-cut-to-junk-by-s-p</guid>
-            <pubDate>Wed, 08 Jul 2026 22:17:03 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 标准普尔全球评级周三将哈雷戴维森公司的信用评级下调至垃圾级，理由是该公司开始销售低成本摩托车以增加收入的战略。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SK 海力士美国发行超额认购超过七倍]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-07-08/sk-hynix-us-offering-is-more-than-seven-times-oversubscribed</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/sk-hynix-us-offering-is-more-than-seven-times-oversubscribed</guid>
-            <pubDate>Wed, 08 Jul 2026 22:16:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，SK 海力士公司在美国上市的超额认购超过七倍，这家韩国存储芯片制造商准备周四为其发行定价。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着筹码上涨，亚洲股市上涨，布伦特原油上涨：市场结束]]></title>
+            <title><![CDATA[美国打击伊朗，油价上涨，股市失去动力：市场总结]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-07-08/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Wed, 08 Jul 2026 22:09:37 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于对人工智能驱动的需求的乐观情绪重新点燃了对半导体股票的兴趣，亚洲股市在芯片制造商的带动下上涨。 美国连续第二天袭击伊朗后，油价延续涨势。]]></description>
+            <description><![CDATA[[Bloomberg] 在美国和伊朗发动新一轮袭击、中东紧张局势升级后，油价上涨，政府债券下跌。 黄金和白银下跌。]]></description>
         </item>
         <item>
             <title><![CDATA[美国对伊朗的新打击扰乱市场，油价扩大涨幅]]></title>
@@ -198,13 +395,6 @@
             <description><![CDATA[[Bloomberg] 随着美国连续第二天袭击伊朗目标，油价延续飙升，增加了中东能源供应的风险。]]></description>
         </item>
         <item>
-            <title><![CDATA[特朗普称乌克兰可以制造爱国者导弹]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-07-08/trump-says-ukraine-can-make-patriot-missiles</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-08/trump-says-ukraine-can-make-patriot-missiles</guid>
-            <pubDate>Wed, 08 Jul 2026 21:59:52 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国企业研究所高级研究员安吉拉·斯坦特讨论了特朗普总统宣布允许乌克兰制造自己的爱国者导弹。 她说，特朗普“认为乌克兰看起来像是一个胜利者，乌克兰人正在真正反击它。”  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[迈克尔·伯里 (Michael Burry) 押注体育博彩公司 DraftKings 和 Flutter，认为预测市场受到监管限制]]></title>
             <link>https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/07/08/michael-burry-bets-on-sportsbooks-draftkings-flutter.html</guid>
@@ -212,18 +402,11 @@
             <description><![CDATA[[CNBC] 该投资者认为，在新贵的竞争给体育博彩公司的股票带来压力之后，监管机构最终将打击预测市场。]]></description>
         </item>
         <item>
-            <title><![CDATA[先生。  HUD 部长谈丰田德克萨斯州转型和墨西哥贸易]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-07-08/former-hud-secretary-on-toyota-s-plant-expansion-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-08/former-hud-secretary-on-toyota-s-plant-expansion-video</guid>
-            <pubDate>Wed, 08 Jul 2026 21:50:08 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国前住房和城市发展部部长、圣安东尼奥市前市长亨利·西斯内罗斯探讨了丰田投资圣安东尼奥的缘起和意义。 他讲述了丰田高管在达拉斯牛仔队比赛中看到大量皮卡后，如何选择圣安东尼奥作为新工厂的原因，这表明当地需求强劲。 他在“The Close”节目中与 Romaine Bostick 和 Katie Greifeld 进行了交谈。  （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美银下调2026年黄金平均预测，认为黄金长期上涨 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXhLdUtTYW15ZmlSekkyY3FCaXFmTUxNbktmSlZMMHp4eTlGTUhsQTlWMF9faWc4LWNmMExKUGhEUjVDUGV6Ry14SGVaVm94YTY0WXc1NW5jWk85UWYzR3NmSlR2TDh6SWN5eXVOeS1kcEFqemxKSkg2NVQ2NzEwb19hSnZoRHJpb3ppRjBIOHVUYUVSNHNxOVVJY1ZQbUlzeFljTFZZMVYtaUU?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXhLdUtTYW15ZmlSekkyY3FCaXFmTUxNbktmSlZMMHp4eTlGTUhsQTlWMF9faWc4LWNmMExKUGhEUjVDUGV6Ry14SGVaVm94YTY0WXc1NW5jWk85UWYzR3NmSlR2TDh6SWN5eXVOeS1kcEFqemxKSkg2NVQ2NzEwb19hSnZoRHJpb3ppRjBIOHVUYUVSNHNxOVVJY1ZQbUlzeFljTFZZMVYtaUU?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 21:43:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国银行下调 2026 年黄金平均预测，预计长期上涨空间 路透]]></description>
+            <title><![CDATA[由于俄勒冈州调查，派拉蒙不会在 7 月 22 日之前完成与华纳兄弟的交易 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDdlUFI0ZlhmRXYzUkRWWUlVV005dk9vdjJQQ3AxVUtfN0tyTXJzRGxHZ3JqQTJ1SXBqYk5IdV9NSjN1dWptYWtpRVZCdWN1TkltSFpmX3o4ZzQ0RFpRTmxyb2tNR0hmTllzNThLbGhQazBzZzhLQ2x2REpndFZjX2pDRE5RRkRsQVlNcXRoOHd1eDhNaDIxeUN2bHVEdjRTaU9EZF9KcE9maU5TSGVfRWNYWEdnei11dUE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDdlUFI0ZlhmRXYzUkRWWUlVV005dk9vdjJQQ3AxVUtfN0tyTXJzRGxHZ3JqQTJ1SXBqYk5IdV9NSjN1dWptYWtpRVZCdWN1TkltSFpmX3o4ZzQ0RFpRTmxyb2tNR0hmTllzNThLbGhQazBzZzhLQ2x2REpndFZjX2pDRE5RRkRsQVlNcXRoOHd1eDhNaDIxeUN2bHVEdjRTaU9EZF9KcE9maU5TSGVfRWNYWEdnei11dUE?oc=5</guid>
+            <pubDate>Wed, 08 Jul 2026 21:36:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 在俄勒冈州调查中，派拉蒙不会在 7 月 22 日之前完成与华纳兄弟的交易 路透]]></description>
         </item>
         <item>
             <title><![CDATA[霍尼韦尔科技公司在一换二反向股票分割后上调利润指引 - 路透中文网]]></title>
@@ -240,32 +423,11 @@
             <description><![CDATA[[Reuters Business] 加拿大寻求数据中心，大型科技公司加入卡尔加里牛仔节石油狂欢 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[【今朝の5本】仕事を始める前に読んでおきたい厳选nyusu]]></title>
-            <link>https://www.bloomberg.com/jp/news/newsletters/2026-07-08/THVJZDKGZAJE00</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/jp/news/newsletters/2026-07-08/THVJZDKGZAJE00</guid>
-            <pubDate>Wed, 08 Jul 2026 21:06:49 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] ​威吓强める、FOMC议事要旨、テック起债、BofA姿势転换、世界成长见通し]]></description>
-        </item>
-        <item>
             <title><![CDATA[监管机构称埃克森美孚将在尼日利亚油田投资10亿美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmtINU9rcWQ5ZWZUUmwxMDluOWdVbjRxQXpaOTd5ZHBSNWxpU1F2SWJURHZSN08taGhVbzFKczJEdEt1TmY0MEgxWWVnVnFMSzBHb296eEhORnFHRWhPS2UwS3RkWUtEaXNJRXNKMlJJYkI2dXlON3oyeFBkU3FGNFhxTXpXMU9EUVFEVnpERjNONndwQmdIdXVZQndXcVBTYzFhSlRtd3dqQlhJTS1CTWV3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxPRmtINU9rcWQ5ZWZUUmwxMDluOWdVbjRxQXpaOTd5ZHBSNWxpU1F2SWJURHZSN08taGhVbzFKczJEdEt1TmY0MEgxWWVnVnFMSzBHb296eEhORnFHRWhPS2UwS3RkWUtEaXNJRXNKMlJJYkI2dXlON3oyeFBkU3FGNFhxTXpXMU9EUVFEVnpERjNONndwQmdIdXVZQndXcVBTYzFhSlRtd3dqQlhJTS1CTWV3?oc=5</guid>
             <pubDate>Wed, 08 Jul 2026 21:02:09 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 监管机构称埃克森美孚将在尼日利亚油田投资 10 亿美元 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Trader Joe's 和 Lowe's 拥抱 Mini Mania 提振销量]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-07-08/trader-joe-s-lowe-s-embrace-mini-mania-to-boost-sales</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-08/trader-joe-s-lowe-s-embrace-mini-mania-to-boost-sales</guid>
-            <pubDate>Wed, 08 Jul 2026 21:00:07 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 迷你热潮正在席卷美国零售商，因为预算有限的购物者喜欢色彩鲜艳、迷人的小型普通产品。 彭博社的桑尼·金 (Sunny Kim) 还透露了更多信息。   （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伊朗战争后 GrainCorp 推动澳大利亚生物燃料授权]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-07-08/graincorp-pushes-for-australia-biofuel-mandates-after-iran-war</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/graincorp-pushes-for-australia-biofuel-mandates-after-iran-war</guid>
-            <pubDate>Wed, 08 Jul 2026 21:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] GrainCorp Ltd. 表示，在伊朗战争给澳大利亚经济带来冲击带来数月的不确定性之后，澳大利亚应该采取国家生物燃料指令来加强其能源安全。]]></description>
         </item>
         <item>
             <title><![CDATA[SpaceXAI 推出 Grok 4.5 模型用于编码和代理任务 - 路透中文网]]></title>
@@ -275,33 +437,11 @@
             <description><![CDATA[[Reuters Business] SpaceXAI 推出 Grok 4.5 模型，用于编码和代理任务 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[太阳谷媒体并购焦点]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-07-08/media-m-a-in-focus-at-sun-valley-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-08/media-m-a-in-focus-at-sun-valley-video</guid>
-            <pubDate>Wed, 08 Jul 2026 20:38:06 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 彭博社的米歇尔·戴维斯 (Michelle Davis) 与丹尼·伯格 (Dani Burger) 一起参加“彭博交易”，讨论媒体巨​​头齐聚太阳谷参加艾伦公司 (Allen & Co.) 年度会议时媒体并购的首要考虑因素。
-  （来源：彭博社）]]></description>
-        </item>
-        <item>
             <title><![CDATA[苹果将​​斥资300亿美元购买博通芯片以增加美国采购 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc21yZ0hzUlp6ZG9xcG1MY2FJbWR0UDV0R3RmX0lqV3g2WEwxUmMwWk1qT2ZWRGdJYlI3WDdvbEo0Z2dXRU1yR2E4NUNsazZENmlWV01sYTdDNnR2Z2JDM0huRkFjUF9fOEpMVEpCQmZPMFVvSllQdlFNQklkOUl5QmFfX2oyNXI5N0pSR0dseUw3X0tqNUp5TEs5aWlMR0hjUDhBX0hTdjdpZm9zZTJFSUxQV3UxTWhpTld2aVRPYzN2VW8?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc21yZ0hzUlp6ZG9xcG1MY2FJbWR0UDV0R3RmX0lqV3g2WEwxUmMwWk1qT2ZWRGdJYlI3WDdvbEo0Z2dXRU1yR2E4NUNsazZENmlWV01sYTdDNnR2Z2JDM0huRkFjUF9fOEpMVEpCQmZPMFVvSllQdlFNQklkOUl5QmFfX2oyNXI5N0pSR0dseUw3X0tqNUp5TEs5aWlMR0hjUDhBX0hTdjdpZm9zZTJFSUxQV3UxTWhpTld2aVRPYzN2VW8?oc=5</guid>
             <pubDate>Wed, 08 Jul 2026 20:31:04 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 苹果将​​斥资 300 亿美元购买博通芯片以增加美国采购 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战略与国际研究中心 (CSIS) 的威尔·托德曼 (Will Todman) 表示，美国和伊朗的经济代价太大，不适合“全面战争”]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-07-08/cost-for-us-iran-too-great-for-all-out-war-todman-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-08/cost-for-us-iran-too-great-for-all-out-war-todman-video</guid>
-            <pubDate>Wed, 08 Jul 2026 20:27:02 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国战略与国际研究中心地缘政治与外交政策部幕僚长、中东项目高级研究员威尔·托德曼表示，美国和伊朗爆发的小规模冲突比“全面”战争更有可能发生，因为两国的经济成本都太大了。 托德曼表示，伊朗“非常渴望”保持对霍尔木兹海峡的控制，将其作为经济和战略谈判工具。   （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于美国和伊朗的紧张局势，油价跃升至两周高位 结束钟声]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-07-08/oil-jumps-to-two-week-high-closing-bell-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-08/oil-jumps-to-two-week-high-closing-bell-video</guid>
-            <pubDate>Wed, 08 Jul 2026 20:26:12 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Romaine Bostick、Katie Greifeld、Carol Massar 和 Bailey Lipschultz 在 Bloomberg Television、Bloomberg Radio 和 YouTube 上对美国市场进行全面跨平台报道。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[俄罗斯禁止出口后美国柴油期货创四年来最大单日涨幅 - 路透中文网]]></title>
@@ -318,32 +458,18 @@
             <description><![CDATA[[Reuters Business] 会议纪要显示美联储政策制定者对通胀的担忧在 6 月会议上加剧 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[超大规模债务现在已成为利率问题]]></title>
-            <link>https://www.bloomberg.com/news/newsletters/2026-07-08/hyperscaler-debt-is-now-a-rates-story</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-07-08/hyperscaler-debt-is-now-a-rates-story</guid>
-            <pubDate>Wed, 08 Jul 2026 20:02:19 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 当大量供应涌入市场时。]]></description>
+            <title><![CDATA[印度预计明年电力需求将达到300吉瓦，支持当地清洁能源制造 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlprZ0Q4TFhiSWNtSTF4MjY5RjdibFMyWGMyM1V5dHRPelo5dDNiU2dzTXUzd3l5SGluNkVwdFRjT042Y0tDblViNmhXUWVBU0N5U3k2R1ZMZ2prRlV3WFVEYlA3NldmdGY4RllqNzcxbFIzUDdWdE8zMTFSR2Z1ZEVBdlFPS0dvWEhSQk5fWWVGVTNXTllhcmp4cW9DU1FWSldQM1pRdmhQUnhDb3pUME5GdEZTenkwU2hxY0RiWQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlprZ0Q4TFhiSWNtSTF4MjY5RjdibFMyWGMyM1V5dHRPelo5dDNiU2dzTXUzd3l5SGluNkVwdFRjT042Y0tDblViNmhXUWVBU0N5U3k2R1ZMZ2prRlV3WFVEYlA3NldmdGY4RllqNzcxbFIzUDdWdE8zMTFSR2Z1ZEVBdlFPS0dvWEhSQk5fWWVGVTNXTllhcmp4cW9DU1FWSldQM1pRdmhQUnhDb3pUME5GdEZTenkwU2hxY0RiWQ?oc=5</guid>
+            <pubDate>Wed, 08 Jul 2026 20:08:30 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 印度预计明年电力需求将达 300 吉瓦，支持当地清洁能源制造业 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Clear Street 分析师称 SpaceX 拥有“巨大”的盈利能力]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-07-08/spacex-has-tremendous-earnings-power-clear-street-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-08/spacex-has-tremendous-earnings-power-clear-street-video</guid>
-            <pubDate>Wed, 08 Jul 2026 19:48:34 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Clear Street 董事总经理兼高级分析师 Brian Dobson 和董事兼股票分析师 Greg Pendy 讨论了他们对 SpaceX 的买入评级，并表示他们正在将火箭业务视为 Starlink 或 xAI 等其他增长业务部分的“占位者”。   （来源：彭博社）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[雅高集团将为 Hoxton 所有者 Ennismore 的美国 IPO 寻找银行]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-07-08/accor-is-said-to-tap-banks-for-hoxton-owner-ennismore-s-us-ipo</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/accor-is-said-to-tap-banks-for-hoxton-owner-ennismore-s-us-ipo</guid>
-            <pubDate>Wed, 08 Jul 2026 19:48:32 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 据知情人士透露，雅高集团已与投资银行联系，安排 Ennismore Lifestyle Group Ltd. 在美国进行首次公开​​募股，这家法国酒店集团正在加紧分拆该部门的计划。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[长期线性估值没有希望：Lee]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-07-08/long-term-linear-valuation-not-promising-lee-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-07-08/long-term-linear-valuation-not-promising-lee-video</guid>
-            <pubDate>Wed, 08 Jul 2026 19:44:43 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Alix Partners 合伙人兼董事总经理兼媒体和娱乐业务联席主管 Grace Lee 与 Dani Burger 一起参与“彭博交易”。 他们讨论了媒体交易，高管们本周来到爱达荷州太阳谷，参加艾伦公司一年一度的媒体、技术和金融大亨聚会。   （来源：彭博社）]]></description>
+            <title><![CDATA[AEP德克萨斯州子公司获得高达32.6亿美元的美国贷款以促进电网发展 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXV2bVJ5R3hpUnRYdGhQZ25BcWNmdUVpbF95VFIzbXBoS3BLcEV6eHRxVDVVYVFYVkZwNkZBMkdUN0x1ODZ4VDEtR2RnVnhDUUY2cW9FeTZKODVBZUtmY2Z1VUtOM0ZkRW5scUw5SFVSWWVsMm9sLWVHRGxCd3o0bi03QUc3WVNtTGNycU5pbjlUQlotXzZ6THZjcHBaVmFuVWpXRWxiUFNCMmJwVjl3SVhUZkwxZVV5UU5tNVVfNA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOeXV2bVJ5R3hpUnRYdGhQZ25BcWNmdUVpbF95VFIzbXBoS3BLcEV6eHRxVDVVYVFYVkZwNkZBMkdUN0x1ODZ4VDEtR2RnVnhDUUY2cW9FeTZKODVBZUtmY2Z1VUtOM0ZkRW5scUw5SFVSWWVsMm9sLWVHRGxCd3o0bi03QUc3WVNtTGNycU5pbjlUQlotXzZ6THZjcHBaVmFuVWpXRWxiUFNCMmJwVjl3SVhUZkwxZVV5UU5tNVVfNA?oc=5</guid>
+            <pubDate>Wed, 08 Jul 2026 20:04:26 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] AEP 德克萨斯州子公司获得高达 32.6 亿美元的美国贷款以促进电网发展 路透]]></description>
         </item>
         <item>
             <title><![CDATA[周三发布的会议纪要显示，由于关税、石油和人工智能投资带来​​的通胀风险使货币政策前景变得复杂，美联储官员上个月考虑加息]]></title>
@@ -444,13 +570,6 @@
             <description><![CDATA[[Reuters Business] 委内瑞拉罗德里格斯签署石油和天然气改革框架 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[俄罗斯试图干扰马斯克的星链系统以对抗乌克兰无人机 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3pOc2pzeU1KV003U2VBOEl2OVlrbnpqenBaM0hNS1MwOFZvbWlELUdNVDA0cnFtSzBmMFl3Z3JHU1d2OXQ3eV9qZjUtR2hkLU5oVVFweTRMSlpCMDZKbnlnM3NTamFLWFRuYkdteDRYblI3Z2J4Ti1HYXNxMF9qNEZSeUdsSXduemZiNDZSckRtQ3IzN2JJemRxUHl6RVg3UVRGZ1I3TGRFMkwzcmg2NjlGQWJaVDBqV0szWFFVTEZLaWExZGc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3pOc2pzeU1KV003U2VBOEl2OVlrbnpqenBaM0hNS1MwOFZvbWlELUdNVDA0cnFtSzBmMFl3Z3JHU1d2OXQ3eV9qZjUtR2hkLU5oVVFweTRMSlpCMDZKbnlnM3NTamFLWFRuYkdteDRYblI3Z2J4Ti1HYXNxMF9qNEZSeUdsSXduemZiNDZSckRtQ3IzN2JJemRxUHl6RVg3UVRGZ1I3TGRFMkwzcmg2NjlGQWJaVDBqV0szWFFVTEZLaWExZGc?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 16:07:23 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 俄罗斯试图干扰马斯克的星链系统以对抗乌克兰无人机 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[加拿大航空任命斯堪的纳维亚航空讲法语的首席执行官为首席执行官 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE11VklFeU5BaUlXc0ZkeW9oWGkyMjhBQnF6Q3Nid09pS2xoMzNUckNXcG5odllSdFZsX21UcDlVTkxaVjlsLW1TeGNDUmNBTkZoaG01WnBXSXVCZU9lZlFpa2E0c2xLYWJqT1h4X3lyTGxlTG10Wldfeg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE11VklFeU5BaUlXc0ZkeW9oWGkyMjhBQnF6Q3Nid09pS2xoMzNUckNXcG5odllSdFZsX21UcDlVTkxaVjlsLW1TeGNDUmNBTkZoaG01WnBXSXVCZU9lZlFpa2E0c2xLYWJqT1h4X3lyTGxlTG10Wldfeg?oc=5</guid>
@@ -542,13 +661,6 @@
             <description><![CDATA[[Reuters Business] 由于成本上升挤压低价项目，印度电池存储关税预计上涨 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[伍德麦肯兹表示，亚洲造船业的主导地位可能会阻碍液化天然气扩张 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmFlSXQ5b1RJeGpITU1YbXU4SVlzOThIaGQyQTlvaFhxMXZINzc2Q3BjVlExV2x6NGNkeEt5WVV3SUs1QVF0SXFOWU1ud1VaOWF2QTdROVJwMzVjV29PN3NBVXJvek9sR0tVQlhCaXRWczRkaXVET1ZxNmlyLUFQbmtlWURWb1o3MmJCd253aHlCeXhQcm1UTXJnT3VzLXh3QUdzX1Y1WVNJNmdpS3NBeU5nZkQ1a19LOTZ6V1dwanhabEhjLXc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmFlSXQ5b1RJeGpITU1YbXU4SVlzOThIaGQyQTlvaFhxMXZINzc2Q3BjVlExV2x6NGNkeEt5WVV3SUs1QVF0SXFOWU1ud1VaOWF2QTdROVJwMzVjV29PN3NBVXJvek9sR0tVQlhCaXRWczRkaXVET1ZxNmlyLUFQbmtlWURWb1o3MmJCd253aHlCeXhQcm1UTXJnT3VzLXh3QUdzX1Y1WVNJNmdpS3NBeU5nZkQ1a19LOTZ6V1dwanhabEhjLXc?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 12:36:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 伍德麦肯齐表示，亚洲造船业的主导地位可能会阻碍液化天然气扩张]]></description>
-        </item>
-        <item>
             <title><![CDATA[西班牙市场受到特朗普新一轮贸易威胁的打击 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOWndrS0pGb3l1OEtCZ3kxOHF0ZlRPbkNwY2w1R0h1THhfZVl6OFQ1cGpCRXMtRkhiN1UxSVB2QmUyaXBYUXVOemRhdS1tcmJCeVU2bVNyYi1PVWVFZHNxajU3T3N2MS1yRFdBVzNjZ3VXREFNcE1PX2t2N3ZXaUl4VmpTUVNLV1c0dzNadXhucGlwVXlkX2lOenBqczZtTnh1NldrTjFR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxOWndrS0pGb3l1OEtCZ3kxOHF0ZlRPbkNwY2w1R0h1THhfZVl6OFQ1cGpCRXMtRkhiN1UxSVB2QmUyaXBYUXVOemRhdS1tcmJCeVU2bVNyYi1PVWVFZHNxajU3T3N2MS1yRFdBVzNjZ3VXREFNcE1PX2t2N3ZXaUl4VmpTUVNLV1c0dzNadXhucGlwVXlkX2lOenBqczZtTnh1NldrTjFR?oc=5</guid>
@@ -596,118 +708,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNZVpoUFVzdDJKYkZuTkR3dVhBYThsYmtWMnl5TEY5RkFQU2I3VDZkM1QtTThGQUZ0a3dvSnVVUTRfWTl1M2FfajBUQ0U3blBlZURfSUlaX1ZmOXRCS3BvR0NYNGFxdl9TQklzTHR4ZERBTlV1YXVBandHQ1RldkFxYndvZWlaU0l4TkY0aFdfRDJVS294VjdJMEhvVW1yT1RHdnZKM1hjYTNXbUI4a0JOVnVQNA?oc=5</guid>
             <pubDate>Wed, 08 Jul 2026 11:51:36 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 欧盟计划放慢二氧化碳减排速度，在碳市场改革中为工业提供更多免费许可证 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[京东方上半年净利润同比最高预增近七成，LCD景气修复与AMOLED放量共振向上｜财报见闻 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rcHRSOXBiMXl0WmlmTDZCZFR5MngtRllTcWZNV0dmb3lndVQ1Rk9salY4WlhyNnN0UmR0eWR3T2huZUtWcEJDNWpta1lrT3A3LUYw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rcHRSOXBiMXl0WmlmTDZCZFR5MngtRllTcWZNV0dmb3lndVQ1Rk9salY4WlhyNnN0UmR0eWR3T2huZUtWcEJDNWpta1lrT3A3LUYw?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 11:44:53 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 京东方上半年净利润同比最高预增近七成，LCD景气修复与AMOLED放量共振向上｜财报见闻  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[据英国《金融时报》报道，乐购正在考虑出售中欧业务 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGlYVEFiX3ZFcDdrMGZHdXo1YzVFOTkwRElGd3lqbEFJR3NZOXpKY1owQkMtbmdhc3EwWlZudHJBRHpLLS1OYk5SenNyempyWk5nanhhdDNrdG9xS29qV1h1Q0gxdzNWM2FkWHVIWWRmVGdpTUpCNG1uXzczeTlMQkk1eGRlZ0xIRTZjZ0ZUNXctbEpfei1HQzFkQlNnM0ktOWFSaA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGlYVEFiX3ZFcDdrMGZHdXo1YzVFOTkwRElGd3lqbEFJR3NZOXpKY1owQkMtbmdhc3EwWlZudHJBRHpLLS1OYk5SenNyempyWk5nanhhdDNrdG9xS29qV1h1Q0gxdzNWM2FkWHVIWWRmVGdpTUpCNG1uXzczeTlMQkk1eGRlZ0xIRTZjZ0ZUNXctbEpfei1HQzFkQlNnM0ktOWFSaA?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 11:41:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 据英国《金融时报》报道，特易购正在考虑出售中欧业务 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[盘前涨幅最大的股票：联合航空、美光科技、雪佛龙等]]></title>
-            <link>https://www.cnbc.com/2026/07/08/stocks-making-the-biggest-moves-premarket-ual-mu-cvx.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/07/08/stocks-making-the-biggest-moves-premarket-ual-mu-cvx.html</guid>
-            <pubDate>Wed, 08 Jul 2026 11:41:39 GMT</pubDate>
-            <description><![CDATA[[CNBC] 这些是盘前涨幅最大的股票。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伊朗战争和关税后空客下调喷气式飞机行业需求预测 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnNpSTlueVV4RVctQ2pjblRzdFl0eE5UMUI4aXY1Y1hIT3gxaDJEZndNQkVVUHhsaTdFc3p3d003VDlqamU5OENtUzdWVTVkSkxDZUtaWE4tU1BybmVTREV3bDlLaFB2SnZNd3g0TTE2aG1Qbl9kNlVYU0Y5NTRydG93TWcxRHhweUtCeVl2V2l4djRtRVhYWXBuZ1daRXNLRXlCczV3bTEwaUVham05QkNWd3NCZzBCSGRIZm5wdEFkYS1nZnc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnNpSTlueVV4RVctQ2pjblRzdFl0eE5UMUI4aXY1Y1hIT3gxaDJEZndNQkVVUHhsaTdFc3p3d003VDlqamU5OENtUzdWVTVkSkxDZUtaWE4tU1BybmVTREV3bDlLaFB2SnZNd3g0TTE2aG1Qbl9kNlVYU0Y5NTRydG93TWcxRHhweUtCeVl2V2l4djRtRVhYWXBuZ1daRXNLRXlCczV3bTEwaUVham05QkNWd3NCZzBCSGRIZm5wdEFkYS1nZnc?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 11:05:08 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 伊朗战争和关税后，空中客车公司下调了喷气式飞机行业的需求预测 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AI芯片初创公司SambaNova在10亿美元融资中估值110亿美元 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFN4Q3MyZ0picXpkUUFKamxOY1RlNktsaVVQVkVCWXVPbGNobjBKeGlWaE9HTm4xVXM0RUFOUU1vbmt1M1A1eUxRdEJ2X2lzZUQ5NDZKVDMteG5tSkk3Q1Y4WlR4SUN0WmxVd1VwUUFZNzlzVVBiRTd6R19qOFoydDJkRUJTMXFZOTc4dHRxQk5wZC1MOF9ac3lMUjY1c1Rzd05mQi1KUUU1ZkF4aHgxN1Vrbm8zZ2RLYm5paQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFN4Q3MyZ0picXpkUUFKamxOY1RlNktsaVVQVkVCWXVPbGNobjBKeGlWaE9HTm4xVXM0RUFOUU1vbmt1M1A1eUxRdEJ2X2lzZUQ5NDZKVDMteG5tSkk3Q1Y4WlR4SUN0WmxVd1VwUUFZNzlzVVBiRTd6R19qOFoydDJkRUJTMXFZOTc4dHRxQk5wZC1MOF9ac3lMUjY1c1Rzd05mQi1KUUU1ZkF4aHgxN1Vrbm8zZ2RLYm5paQ?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 10:37:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] AI 芯片初创公司 SambaNova 在 10 亿美元融资中估值 110 亿美元 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最高法院胜诉后拜耳寻求结束联邦农达诉讼 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmlJeG9hTktsTHpxY0ZlQzZQWG4yMnFaUlhsWkt2eVZ1OTE3SGlmT1F5MmFOSkJCQTZaaWY1MTNKSTdQX0ZuN29EeVFDM3NERGlETGM4SUJGcmxHVDJIdkwwUzFRZVJwQ2xvelZMRGFSdzBvVm1yTGE1OUxGbVJ6NVR1RC1GY0poS3VmdTl4Z2ZZSUFab3I5UWhrcklnMzlIMVRGRllrdHBYXy1jR1lYNA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxNbmlJeG9hTktsTHpxY0ZlQzZQWG4yMnFaUlhsWkt2eVZ1OTE3SGlmT1F5MmFOSkJCQTZaaWY1MTNKSTdQX0ZuN29EeVFDM3NERGlETGM4SUJGcmxHVDJIdkwwUzFRZVJwQ2xvelZMRGFSdzBvVm1yTGE1OUxGbVJ6NVR1RC1GY0poS3VmdTl4Z2ZZSUFab3I5UWhrcklnMzlIMVRGRllrdHBYXy1jR1lYNA?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 10:27:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 最高法院获胜后拜耳寻求结束联邦农达诉讼 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[买家出现下跌后，美国股市削减了伊朗战争造成的损失]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-07-08/us-stock-futures-slide-after-trump-says-iran-ceasefire-is-over</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/us-stock-futures-slide-after-trump-says-iran-ceasefire-is-over</guid>
-            <pubDate>Wed, 08 Jul 2026 10:07:12 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 美国股市几乎抹去了早期因美伊战争升级而导致能源价格走高的担忧所造成的损失。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[韩元单日涨1%破1500的导火索：SK海力士美股发行引发大规模美元抛售 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UWlqWXpUSWNYY2xGWTRqTkJra096NjVCU1ZubU04bllGbnpyajBQV3N3VHBUSVlnN1FZdmY1VTE5anlEMnY4MXRxSFoyZWpLSHRj?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UWlqWXpUSWNYY2xGWTRqTkJra096NjVCU1ZubU04bllGbnpyajBQV3N3VHBUSVlnN1FZdmY1VTE5anlEMnY4MXRxSFoyZWpLSHRj?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 09:48:03 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 韩元单日涨1%破1500的导火索：SK海力士美股发行引发大规模美元抛售  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[财新调查｜6月新增信贷和社融或不及去年同期 政府债券发行放缓 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XY3RZaVI5OGtDd01qSk9hTUpFLUhCNkZOamJaWDRUaEdpTjh3VkVsNktZclNlLXF0c1dMa0hxZ1RzdXZ4d041aTZYTlhyTmZTQWpIa2ZDcnIzYjZVNzkyVEFB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XY3RZaVI5OGtDd01qSk9hTUpFLUhCNkZOamJaWDRUaEdpTjh3VkVsNktZclNlLXF0c1dMa0hxZ1RzdXZ4d041aTZYTlhyTmZTQWpIa2ZDcnIzYjZVNzkyVEFB?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 09:17:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 财新调查｜6月新增信贷和社融或不及去年同期 政府债券发行放缓  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于燃料成本上涨和关税上调，美国 6 月份集装箱进口量猛增 8% - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbTVzaWpNbFQtYTgwNHZ0TXNhd3VqUC1oWktUQWtEUmNXWjNnV0tCX2JPT29RdVgyOWh0Z2VIOWtLY2tZN25XYTlRU1dhVHVvaDA2QVUwbDBPYVpFRldvZ3g1dzdrQnFQZno0RGhycnBzeVNjbk9JVU1JMHZpTHFmZmpoUUNDMVpPb3R5bmdzY05iTGJ0TllRblBhSi1vRmJjanhZTW1GOEc0M3VPelJrVXhvbGJtT0JkVWNpWXVyc0NoZXlIWWlpTElwZ19oVEpYaUE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbTVzaWpNbFQtYTgwNHZ0TXNhd3VqUC1oWktUQWtEUmNXWjNnV0tCX2JPT29RdVgyOWh0Z2VIOWtLY2tZN25XYTlRU1dhVHVvaDA2QVUwbDBPYVpFRldvZ3g1dzdrQnFQZno0RGhycnBzeVNjbk9JVU1JMHZpTHFmZmpoUUNDMVpPb3R5bmdzY05iTGJ0TllRblBhSi1vRmJjanhZTW1GOEc0M3VPelJrVXhvbGJtT0JkVWNpWXVyc0NoZXlIWWlpTElwZ19oVEpYaUE?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 09:07:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于燃料成本上涨和关税上调，美国 6 月份集装箱进口量猛增 8% 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[梅赛德斯-奔驰第二季度销量下滑，中国竞争加剧 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUljajM4bjExTjI3Nlpfaks0WWNIR2tSbGRubU1BQTBwOUd1NlBNcmZjZWtIZ00xN3JsWmdQLXBBbWZKVzVDeDFkOUhZNkgtd3BEUUZoUWhTMW1UWnlXb2ViZWI2UVVYV29kY2NiMlNRX3dyZ1NoVEZnREVTWUhGMHdielBuR0ZSNDRBV0djVlFhTzREaFVSQV8ydzhuTGxZTXZoc3dnRFNEOF9tM1dDTTF3ZVdqSy12SlhGYUEzQ1M?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQUljajM4bjExTjI3Nlpfaks0WWNIR2tSbGRubU1BQTBwOUd1NlBNcmZjZWtIZ00xN3JsWmdQLXBBbWZKVzVDeDFkOUhZNkgtd3BEUUZoUWhTMW1UWnlXb2ViZWI2UVVYV29kY2NiMlNRX3dyZ1NoVEZnREVTWUhGMHdielBuR0ZSNDRBV0djVlFhTzREaFVSQV8ydzhuTGxZTXZoc3dnRFNEOF9tM1dDTTF3ZVdqSy12SlhGYUEzQ1M?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 09:04:12 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 梅赛德斯-奔驰第二季度销量下滑，中国竞争加剧 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着美军对伊朗发动新的打击，新兴货币下跌]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-07-08/emerging-market-stocks-drop-as-iran-escalation-adds-to-ai-risks</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/emerging-market-stocks-drop-as-iran-escalation-adds-to-ai-risks</guid>
-            <pubDate>Wed, 08 Jul 2026 09:00:45 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 大多数新兴市场货币周三走软，原因是美国在威胁重新实施石油禁运后对伊朗发动了新一波打击，再次引发了人们对长期冲突的担忧并提振了油价。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国通过 Anthropic 的克劳德代码警告人工智能风险]]></title>
-            <link>https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/07/08/china-anthropic-ai-claude-code-backdoor-security-threat.html</guid>
-            <pubDate>Wed, 08 Jul 2026 08:14:28 GMT</pubDate>
-            <description><![CDATA[[CNBC] 中国表示，克劳德代码的特定版本存在后门漏洞，可以将敏感信息发送到远程服务器。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SemiAnalysis：台积电真正的护城河不在制程，而是EDA/IP生态系统 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UaHp5NnVqOUJBQ0F2QnpXSVBqdnctMDRTWHB3TDF4OFIzOXZqd1VPNHhYcG0tY1RuZm5zQmFMQk5QZlF2OFpMNlRIcTAtV1oyejYw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UaHp5NnVqOUJBQ0F2QnpXSVBqdnctMDRTWHB3TDF4OFIzOXZqd1VPNHhYcG0tY1RuZm5zQmFMQk5QZlF2OFpMNlRIcTAtV1oyejYw?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 08:12:56 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] SemiAnalysis：台积电真正的护城河不在制程，而是EDA/IP生态系统  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全球债券抛售导致两年期国债收益率接近 2026 年高点]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-07-08/german-bonds-slide-as-higher-oil-prices-reignite-inflation-fears</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-08/german-bonds-slide-as-higher-oil-prices-reignite-inflation-fears</guid>
-            <pubDate>Wed, 08 Jul 2026 08:02:25 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于油价上涨重新引发了对通胀的担忧，全球债券市场遭到抛售，两年期美国国债收益率回升至上个月的峰值。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全球开始疯抢CPU - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veTR3VlJXV3F0bExfRUMzTTRrN2VLeEhGVG11QWhNQktHbmR3UW9DcG4xWHlTNTkyT2w0UmNSa1k5UzJnVVlsOXBacEhBdUdseldB?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veTR3VlJXV3F0bExfRUMzTTRrN2VLeEhGVG11QWhNQktHbmR3UW9DcG4xWHlTNTkyT2w0UmNSa1k5UzJnVVlsOXBacEhBdUdseldB?oc=5</guid>
-            <pubDate>Wed, 08 Jul 2026 07:50:00 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 全球开始疯抢CPU  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
