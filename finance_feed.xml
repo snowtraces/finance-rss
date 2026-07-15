@@ -4,10 +4,59 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Wed, 15 Jul 2026 19:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 20:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[AST SpaceMobile股价盘后暴跌10%，公司拟发行10亿美元可转换票据]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3462987</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3462987</guid>
+            <pubDate>Wed, 15 Jul 2026 20:09:22 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[华尔街收高，因通胀数据温和且盈利强劲 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUtNV3dNS0otQllnaU9ZVG83WlpzSDB0MlB4OVJFQ0V3QjRCT1BhbjRjMkdXeTFwbUwwczE2cVFkREhxSkpwZTJvZmZLUGtPYlk5Vk53cnlxSmdXZjgwb1JEZ284QmJ2SGlUSkgzRlZSQ1k4bzhaM0wzajRMbVV4bGZEaUtSOUFZVGxtRHlNYW5ucEtuRVA1Q3NpOWRXdExXYWNr?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUtNV3dNS0otQllnaU9ZVG83WlpzSDB0MlB4OVJFQ0V3QjRCT1BhbjRjMkdXeTFwbUwwczE2cVFkREhxSkpwZTJvZmZLUGtPYlk5Vk53cnlxSmdXZjgwb1JEZ284QmJ2SGlUSkgzRlZSQ1k4bzhaM0wzajRMbVV4bGZEaUtSOUFZVGxtRHlNYW5ucEtuRVA1Q3NpOWRXdExXYWNr?oc=5</guid>
+            <pubDate>Wed, 15 Jul 2026 20:01:33 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 华尔街收高，因通胀数据温和且盈利强劲 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Piper Sandler调整保险板块策略，上调Gallagher评级并下调五家公司评级]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3462974</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3462974</guid>
+            <pubDate>Wed, 15 Jul 2026 19:54:56 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰立法者表示，泽连斯基支持能源大佬出任总理，并将更换国防部长 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVdUNXJlWnZlb19TNDVZcEN3YkFFU2FReV92VTI2RkRFM3hTNmxCZHY0bzlRcEpNb0ZhZ0M4bGRFWWsxOXBUT1VUSUszQVV6OFVPaXkzZlFvUWYyeC1POG5JeUYybjFqZUJvLUJMUHFYWThsRTRLUmlNTHBXV0F2QS1VS2hGUVNzSTV3elFIU0EzT2Y0Ym5FS201dVBJXzhyVHc5cURMUUtQRGZjYlI4UGI1TGZlUWFKeEc0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVdUNXJlWnZlb19TNDVZcEN3YkFFU2FReV92VTI2RkRFM3hTNmxCZHY0bzlRcEpNb0ZhZ0M4bGRFWWsxOXBUT1VUSUszQVV6OFVPaXkzZlFvUWYyeC1POG5JeUYybjFqZUJvLUJMUHFYWThsRTRLUmlNTHBXV0F2QS1VS2hGUVNzSTV3elFIU0EzT2Y0Ym5FS201dVBJXzhyVHc5cURMUUtQRGZjYlI4UGI1TGZlUWFKeEc0?oc=5</guid>
+            <pubDate>Wed, 15 Jul 2026 19:42:25 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 立法者表示，乌克兰泽伦斯基支持能源大佬担任总理，并将更换国防部长 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加拿大山火烟雾窒息多伦多，威胁美国城市 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzJJYm1wY0tiXzZPNGRRXzk4WVNDWDNnUklvSG5SRXAtMXhxcGRjZWtsUV9MZ1BXY09VMjZESVBjUDMtWlhab09yaU1yeTJaQXdWZHdhaXBRWWJsRnVrRS1NbzdZdmljMXBRQnVxVm41U0phQVJ5Vzl0ZWZWemlYeTBKNk5EMnlwOWk3ZC1taHdjcHU4aG11QkVUS3dpUElIbXdfMjVMOVM5VVJXSzJLb2V3QlB5emJOeXVJQkNZZw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzJJYm1wY0tiXzZPNGRRXzk4WVNDWDNnUklvSG5SRXAtMXhxcGRjZWtsUV9MZ1BXY09VMjZESVBjUDMtWlhab09yaU1yeTJaQXdWZHdhaXBRWWJsRnVrRS1NbzdZdmljMXBRQnVxVm41U0phQVJ5Vzl0ZWZWemlYeTBKNk5EMnlwOWk3ZC1taHdjcHU4aG11QkVUS3dpUElIbXdfMjVMOVM5VVJXSzJLb2V3QlB5emJOeXVJQkNZZw?oc=5</guid>
+            <pubDate>Wed, 15 Jul 2026 19:39:44 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 加拿大野火烟雾窒息多伦多，威胁美国城市 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储主席凯文·沃什向参议院银行委员会作证对经济和利率造成打击]]></title>
+            <link>https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html</link>
+            <guid isPermaLink="false">https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html</guid>
+            <pubDate>Wed, 15 Jul 2026 19:05:12 GMT</pubDate>
+            <description><![CDATA[[CNBC] 作为国会授权央行行长出席国会山的一部分，沃什周二向众议院金融服务委员会发表了讲话。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[据英国《金融时报》报道，Uber 即将以 125 亿欧元收购 Delivery Hero - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZldpUnNMbzhMcmw0WjBWZk5nMmptTjlDbXRob3ZYaVFEUVpLNkNkY3U2N1hZbUEwYXFHUEpoTUdYOC1PbVhtcVhDUnlZZUN2RndjVkRucXJaT0RFc1ZDU3lWMy14UlVLRDhKMHczSnhJV3pBcWg4SlFreVRUTWdpNmZXdTFRN3d4TTZtaUwzUW4zdGtoRDI5RjFfb3BITFIzNTJTLW1oT3R5dkE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZldpUnNMbzhMcmw0WjBWZk5nMmptTjlDbXRob3ZYaVFEUVpLNkNkY3U2N1hZbUEwYXFHUEpoTUdYOC1PbVhtcVhDUnlZZUN2RndjVkRucXJaT0RFc1ZDU3lWMy14UlVLRDhKMHczSnhJV3pBcWg4SlFreVRUTWdpNmZXdTFRN3d4TTZtaUwzUW4zdGtoRDI5RjFfb3BITFIzNTJTLW1oT3R5dkE?oc=5</guid>
+            <pubDate>Wed, 15 Jul 2026 18:50:46 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 据《金融时报》报道，Uber 接近以 125 亿欧元收购 Delivery Hero 路透]]></description>
+        </item>
         <item>
             <title><![CDATA[人工智能热潮刚刚找到了两个新的赢家：高盛和摩根大通]]></title>
             <link>https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html</link>
@@ -35,6 +84,13 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3462944</guid>
             <pubDate>Wed, 15 Jul 2026 18:28:43 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储库克表示，如果通胀不开始放缓，她准备尽快采取行动 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGtnc25yTFB2WnF3aFVfaFN4ZERFamxZbTFPSjhhek1scmM1R3FVcGo4R2hVb0NBdVZsOUI2SXVOMXBDelUtZW9INmUwZThUSVpuUDgxWEtlUHZnenVzXzI0Q2ZZemdHa2d1ODM3aDFFOEhRbTVydnJUZWFuNzV5QWF3aTMxMDItQnY3b2NsamNZUjlETmVqbG94eW5EX1QwNnhUdTVta0kxNzJiSExwV0Nzc1AtbVhE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSGtnc25yTFB2WnF3aFVfaFN4ZERFamxZbTFPSjhhek1scmM1R3FVcGo4R2hVb0NBdVZsOUI2SXVOMXBDelUtZW9INmUwZThUSVpuUDgxWEtlUHZnenVzXzI0Q2ZZemdHa2d1ODM3aDFFOEhRbTVydnJUZWFuNzV5QWF3aTMxMDItQnY3b2NsamNZUjlETmVqbG94eW5EX1QwNnhUdTVta0kxNzJiSExwV0Nzc1AtbVhE?oc=5</guid>
+            <pubDate>Wed, 15 Jul 2026 18:25:19 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美联储库克表示，如果通胀不开始放缓，她准备尽快采取行动 路透]]></description>
         </item>
         <item>
             <title><![CDATA[CME集团股票或因7月22日财报发布而波动3.8%]]></title>
@@ -65,31 +121,10 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[安大略省北部的野火给多伦多带来了世界上最糟糕的空气质量 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzJJYm1wY0tiXzZPNGRRXzk4WVNDWDNnUklvSG5SRXAtMXhxcGRjZWtsUV9MZ1BXY09VMjZESVBjUDMtWlhab09yaU1yeTJaQXdWZHdhaXBRWWJsRnVrRS1NbzdZdmljMXBRQnVxVm41U0phQVJ5Vzl0ZWZWemlYeTBKNk5EMnlwOWk3ZC1taHdjcHU4aG11QkVUS3dpUElIbXdfMjVMOVM5VVJXSzJLb2V3QlB5emJOeXVJQkNZZw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzJJYm1wY0tiXzZPNGRRXzk4WVNDWDNnUklvSG5SRXAtMXhxcGRjZWtsUV9MZ1BXY09VMjZESVBjUDMtWlhab09yaU1yeTJaQXdWZHdhaXBRWWJsRnVrRS1NbzdZdmljMXBRQnVxVm41U0phQVJ5Vzl0ZWZWemlYeTBKNk5EMnlwOWk3ZC1taHdjcHU4aG11QkVUS3dpUElIbXdfMjVMOVM5VVJXSzJLb2V3QlB5emJOeXVJQkNZZw?oc=5</guid>
-            <pubDate>Wed, 15 Jul 2026 18:13:13 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 安大略省北部的野火给多伦多带来了世界上最糟糕的空气质量 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[普尔特集团股票或将在7月22日财报发布时波动4.8%]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3462935</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3462935</guid>
             <pubDate>Wed, 15 Jul 2026 18:10:55 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[空客与飞纳斯和神鹰航空洽谈出售A330neo宽体客机]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3462931</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3462931</guid>
-            <pubDate>Wed, 15 Jul 2026 18:03:50 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊AWS高管戴夫·布朗在任职19年后宣布离职]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3462927</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3462927</guid>
-            <pubDate>Wed, 15 Jul 2026 17:45:57 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -114,6 +149,13 @@
             <description><![CDATA[[CNBC] Anthropic 正准备在 10 月份潜在的 IPO 之前召开投资者会议，这家人工智能初创公司希望在公开市场上击败竞争对手 OpenAI。]]></description>
         </item>
         <item>
+            <title><![CDATA[BP提议关闭风险投资部门并出售投资组合中的股份 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNenhhSGV2Y2NqTnFCRC1JSmNnTGVxaWtObmFvdU5EdU1rWEZtYjZGNm1CQTlVd2RsSnUtMVdtMkUzUkdNcXh1RmllankwQzRzRG5TN0g1eUpULVFpY0FjaE15TmIwRkxyZm4zX1dHVWJtc3pJZlF5b2FlclFwTlE0V0dlbE0zdEV3WjY4bktYbm5TUElIQ2VV?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMilwFBVV95cUxNenhhSGV2Y2NqTnFCRC1JSmNnTGVxaWtObmFvdU5EdU1rWEZtYjZGNm1CQTlVd2RsSnUtMVdtMkUzUkdNcXh1RmllankwQzRzRG5TN0g1eUpULVFpY0FjaE15TmIwRkxyZm4zX1dHVWJtc3pJZlF5b2FlclFwTlE0V0dlbE0zdEV3WjY4bktYbm5TUElIQ2VV?oc=5</guid>
+            <pubDate>Wed, 15 Jul 2026 17:09:20 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] BP 提议关闭风险投资部门并出售投资组合中的股份 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[美国生产者价格指数创 14 个月来最大跌幅； 通胀风险仍偏上行 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQakxCblFJX3pRLTFSM2t1Q0NXa3oxWTExeXlMREpyMU1UYlJEM29pN1ZjQUxUUVpPM2pQcWgwOU9zNTE4NUlrbmk5TWk3cm9vRWVITF9kLVo1TExxRWRfUGZVenlYSFIzdGZYZzFQMVFEaDdDWUNHVXQ3cnlJVHh5WGFNRmItVFcyajdsaG1NQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMijwFBVV95cUxQakxCblFJX3pRLTFSM2t1Q0NXa3oxWTExeXlMREpyMU1UYlJEM29pN1ZjQUxUUVpPM2pQcWgwOU9zNTE4NUlrbmk5TWk3cm9vRWVITF9kLVo1TExxRWRfUGZVenlYSFIzdGZYZzFQMVFEaDdDWUNHVXQ3cnlJVHh5WGFNRmItVFcyajdsaG1NQQ?oc=5</guid>
@@ -135,20 +177,6 @@
             <description><![CDATA[[CNBC] 这些是午盘交易中涨幅最大的股票。]]></description>
         </item>
         <item>
-            <title><![CDATA[华尔街小幅走高，盈利成为焦点； 芯片股回落 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUtNV3dNS0otQllnaU9ZVG83WlpzSDB0MlB4OVJFQ0V3QjRCT1BhbjRjMkdXeTFwbUwwczE2cVFkREhxSkpwZTJvZmZLUGtPYlk5Vk53cnlxSmdXZjgwb1JEZ284QmJ2SGlUSkgzRlZSQ1k4bzhaM0wzajRMbVV4bGZEaUtSOUFZVGxtRHlNYW5ucEtuRVA1Q3NpOWRXdExXYWNr?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxOWUtNV3dNS0otQllnaU9ZVG83WlpzSDB0MlB4OVJFQ0V3QjRCT1BhbjRjMkdXeTFwbUwwczE2cVFkREhxSkpwZTJvZmZLUGtPYlk5Vk53cnlxSmdXZjgwb1JEZ284QmJ2SGlUSkgzRlZSQ1k4bzhaM0wzajRMbVV4bGZEaUtSOUFZVGxtRHlNYW5ucEtuRVA1Q3NpOWRXdExXYWNr?oc=5</guid>
-            <pubDate>Wed, 15 Jul 2026 16:22:42 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 华尔街小幅走高，盈利成为焦点； 芯片股下跌 路透社]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席凯文·沃什向参议院银行委员会作证对经济和利率造成打击]]></title>
-            <link>https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html</link>
-            <guid isPermaLink="false">https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html</guid>
-            <pubDate>Wed, 15 Jul 2026 16:19:08 GMT</pubDate>
-            <description><![CDATA[[CNBC] 作为国会授权央行行长出席国会山的一部分，沃什周二向众议院金融服务委员会发表了讲话。]]></description>
-        </item>
-        <item>
             <title><![CDATA[摩根士丹利押注人工智能投资，交易和交易强劲，超出预期 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNSS1YZ2NFOVEtLTFaVmtvM0N2NXc3enBnUnozLW04OENJQzJoOHBrVkhQYnlOY0l0SmJWVlNUaFZzUHNna2JZMksxWFQ4NTUyeDZPNjFwNjBkOU5RdkpPT1lodzFRMU5Gb25Sa3ZGYjNDbEhjRWpISS1jSkFuUUFJbnVuRmRWTy0xeXoxWkFaal9Yc0M2bHU4RFVYNnRYZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMingFBVV95cUxNSS1YZ2NFOVEtLTFaVmtvM0N2NXc3enBnUnozLW04OENJQzJoOHBrVkhQYnlOY0l0SmJWVlNUaFZzUHNna2JZMksxWFQ4NTUyeDZPNjFwNjBkOU5RdkpPT1lodzFRMU5Gb25Sa3ZGYjNDbEhjRWpISS1jSkFuUUFJbnVuRmRWTy0xeXoxWkFaal9Yc0M2bHU4RFVYNnRYZw?oc=5</guid>
@@ -161,6 +189,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHduSHB1c2RVMC02LVFXVmRWN0RBUERNalhOQmNkWDJIbmlTV3pZVWNqUEgtYjJLYVJ1YkY1SkltdVZ6b2FwSXpUZzZISlhUOG11VWFkN3BqRXIzenJheWpCSlluY1pGY09zVWh1TWNSMFQ3aG1sVUN5WS1XWFZoblVTeGtBQlhfSHhnOTRqeHQ0NUNfaG1xMDZocXBwQzg4aFhlT0F3?oc=5</guid>
             <pubDate>Wed, 15 Jul 2026 16:14:23 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 十个国家敦促欧盟重新考虑新的燃料碳价格 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic冲刺IPO，最快10月挂牌，或抢先OpenAI登陆资本市场 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbXBwWE1SNUNxa2xtS0tRaFIyY3dmN2FlVl9HVWJiYkhqaEtiMW5CZVR1Z2xzaDJtSWR4dUg1azhzNHJUVkFac2Nzcm1FVEZJZTJn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nbXBwWE1SNUNxa2xtS0tRaFIyY3dmN2FlVl9HVWJiYkhqaEtiMW5CZVR1Z2xzaDJtSWR4dUg1azhzNHJUVkFac2Nzcm1FVEZJZTJn?oc=5</guid>
+            <pubDate>Wed, 15 Jul 2026 15:52:41 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] Anthropic冲刺IPO，最快10月挂牌，或抢先OpenAI登陆资本市场  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[据 The Information 报道，苹果正在追逐人工智能芯片公司的交易 - 路透中文网]]></title>
@@ -254,6 +289,13 @@
             <description><![CDATA[[CNBC] 与同行高盛和摩根大通一样，股票交易的大幅增长推动了本季度的巨额业绩。]]></description>
         </item>
         <item>
+            <title><![CDATA[巴菲特表示，他的孩子们已准备好分配他的财产，并称比尔·盖茨与爱泼斯坦的关系“令人厌恶” - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWRTOV80U1hYNFhDdnllVHM1TV9WbzVyYjZwbzh6ejQ2eDBsempENF9GWE1aYmNMQmNGQlpaeVpPOTd5bjdMNEFGTlJhMm1OdXByeVl4d1g0VHJ0cFBKQkF5VEo0R2h1V01vOVBodUV2dWFTRUF1aDlObnFPXzY4S3RMMi1hN1MzQ2RmMGtURzNHa2V2UmVGeUhEb3Z4WDJ0dlJEekNVTHQ3VVVLMXpScg?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWRTOV80U1hYNFhDdnllVHM1TV9WbzVyYjZwbzh6ejQ2eDBsempENF9GWE1aYmNMQmNGQlpaeVpPOTd5bjdMNEFGTlJhMm1OdXByeVl4d1g0VHJ0cFBKQkF5VEo0R2h1V01vOVBodUV2dWFTRUF1aDlObnFPXzY4S3RMMi1hN1MzQ2RmMGtURzNHa2V2UmVGeUhEb3Z4WDJ0dlJEekNVTHQ3VVVLMXpScg?oc=5</guid>
+            <pubDate>Wed, 15 Jul 2026 13:43:47 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 巴菲特称他的孩子们已准备好分配他的财产，并称比尔·盖茨与爱泼斯坦的关系“令人厌恶” 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[近一年收益176%，长城基金刘疆：谈算力过剩为时过早，AI适度调整风险不大，利于长周期发展，重点看好三个方向 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNRkxEbEN6Q3dXUGpiSXVwNEhMY0hJakM5MHJjVWpUMFAtRGxwRldkNlUtT05UQmlhYkxJY3pUOWZ2VUttS05DT3FOeEJ5RXlJdU1R?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNRkxEbEN6Q3dXUGpiSXVwNEhMY0hJakM5MHJjVWpUMFAtRGxwRldkNlUtT05UQmlhYkxJY3pUOWZ2VUttS05DT3FOeEJ5RXlJdU1R?oc=5</guid>
@@ -343,13 +385,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE90MmYyQ29OZE9qNGhsWncyNFYtVTg3ZnFFOHdmY3kzekdDc2RCSXVtRFl3MzExR21ZU0dkejdJNHVVTEN0UTdOZWZSckV6RENtek0xOHNXM1IzYnhvZVZHbFNB?oc=5</guid>
             <pubDate>Wed, 15 Jul 2026 11:07:00 GMT</pubDate>
             <description><![CDATA[[财新网] 央行年初设立1万亿元民营企业再贷款 用了多少？  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战争愈演愈烈，乌克兰改组使国防部长成为焦点 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVdUNXJlWnZlb19TNDVZcEN3YkFFU2FReV92VTI2RkRFM3hTNmxCZHY0bzlRcEpNb0ZhZ0M4bGRFWWsxOXBUT1VUSUszQVV6OFVPaXkzZlFvUWYyeC1POG5JeUYybjFqZUJvLUJMUHFYWThsRTRLUmlNTHBXV0F2QS1VS2hGUVNzSTV3elFIU0EzT2Y0Ym5FS201dVBJXzhyVHc5cURMUUtQRGZjYlI4UGI1TGZlUWFKeEc0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVdUNXJlWnZlb19TNDVZcEN3YkFFU2FReV92VTI2RkRFM3hTNmxCZHY0bzlRcEpNb0ZhZ0M4bGRFWWsxOXBUT1VUSUszQVV6OFVPaXkzZlFvUWYyeC1POG5JeUYybjFqZUJvLUJMUHFYWThsRTRLUmlNTHBXV0F2QS1VS2hGUVNzSTV3elFIU0EzT2Y0Ym5FS201dVBJXzhyVHc5cURMUUtQRGZjYlI4UGI1TGZlUWFKeEc0?oc=5</guid>
-            <pubDate>Wed, 15 Jul 2026 11:01:30 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 乌克兰改组让国防部长成为焦点，战争愈演愈烈 路透]]></description>
         </item>
         <item>
             <title><![CDATA[央行关注资管规模高增 将规范削减货币政策传导的不合理行为 - 财新]]></title>
@@ -562,6 +597,13 @@
             <description><![CDATA[[Reuters Business] 新西兰发现首例 H5N1 禽流感病例，开始为濒危物种接种疫苗 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[瑞典 Neko Health 在美国上市前筹集了 7 亿美元 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2FTbEY3Tlc3RzM1ZDUtWUFpcHh2STBkZzRjN1dmLWthN1h0SHFrSkNoQmd0T3Q4a3lKYkZRa1ZNdmJaRG04aWFGeVdRakJ5SWQwVy1RU3dLdzBRWkl2OFdGZDd4RDR3T3dXNjRuTUFQV0lDX2lEamVYTjZoZnJ3aEd2bHhQTUpkenFtTnpGY09yc3h6VEhNWXdzZWlISTlQbkJhZnROc1c4RjdrQ1BoeTVoSmVMNC1IRUl6YkVuVnNXME9I?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2FTbEY3Tlc3RzM1ZDUtWUFpcHh2STBkZzRjN1dmLWthN1h0SHFrSkNoQmd0T3Q4a3lKYkZRa1ZNdmJaRG04aWFGeVdRakJ5SWQwVy1RU3dLdzBRWkl2OFdGZDd4RDR3T3dXNjRuTUFQV0lDX2lEamVYTjZoZnJ3aEd2bHhQTUpkenFtTnpGY09yc3h6VEhNWXdzZWlISTlQbkJhZnROc1c4RjdrQ1BoeTVoSmVMNC1IRUl6YkVuVnNXME9I?oc=5</guid>
+            <pubDate>Wed, 15 Jul 2026 04:04:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 瑞典 Neko Health 在美国上市前筹集了 7 亿美元 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[独家报道：消息人士称，Stripe 和 Advent 提出以超过 530 亿美元收购 PayPal]]></title>
             <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTJ6Wng1a0VaQXRFS3dXYml0Vk1TWTZEYWxOTElCNzJhNU5xamNacW0yczJVT3RZZ2oxcnE0VVhkTEYtS1FZWFIxZTJHNjNaXzVoci00aTNGcEFpTFRXcE1xaVA1cEZ1ZmFKZWRKcm1LcU0wUGZIRXJEMDdXaUM5ektPWUhaQU5mZmMxdWZIYTB3a2hqWlpfR3d3V0tIQWs0SmhKcVpuTVdfbS1VVEx2RjI5RXVkTFk?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQeTJ6Wng1a0VaQXRFS3dXYml0Vk1TWTZEYWxOTElCNzJhNU5xamNacW0yczJVT3RZZ2oxcnE0VVhkTEYtS1FZWFIxZTJHNjNaXzVoci00aTNGcEFpTFRXcE1xaVA1cEZ1ZmFKZWRKcm1LcU0wUGZIRXJEMDdXaUM5ektPWUhaQU5mZmMxdWZIYTB3a2hqWlpfR3d3V0tIQWs0SmhKcVpuTVdfbS1VVEx2RjI5RXVkTFk?oc=5</guid>
@@ -665,48 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYbGlORVlUUlRsbmNSRHpzRzd3X0M0YlBYZ2dRLWNXRUJjV2FIdFgzNWJCcXFRcEdBZzBsUEYyNG1kTXktYzNIbG5nQlFDMUVWRk1r?oc=5</guid>
             <pubDate>Wed, 15 Jul 2026 00:06:15 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 无惧回调，巴克莱相信：海力士能翻倍！  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在内地开展业务未披露 富途在美遭集体诉讼 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kSjNRQ0h2czJMTDZ3TnBxbEFSRlRZSldsQ0FjSXVzNTBmRjVDcmF1Ui1vLS00SFRvSUFWTERmNTB0eElsMHBGSGtVR01aUGZrQ3lGMGk2ejdpVGJ1NU52X1F3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kSjNRQ0h2czJMTDZ3TnBxbEFSRlRZSldsQ0FjSXVzNTBmRjVDcmF1Ui1vLS00SFRvSUFWTERmNTB0eElsMHBGSGtVR01aUGZrQ3lGMGk2ejdpVGJ1NU52X1F3?oc=5</guid>
-            <pubDate>Tue, 14 Jul 2026 23:41:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 在内地开展业务未披露 富途在美遭集体诉讼  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[财经早知道｜人社部定调：工资向一线岗位倾斜 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FLUJ5ZWROdTF1Zk9IdjliVWZUN2FGRFdMSWRPWHE2V2VTclpuU0ZHTXFua2N0dnJhM1ZsNEZLcmxkaWlyZmE1clpjZjhBYWV5NmJXdHJ1N200cDBZRWx1ZUZR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FLUJ5ZWROdTF1Zk9IdjliVWZUN2FGRFdMSWRPWHE2V2VTclpuU0ZHTXFua2N0dnJhM1ZsNEZLcmxkaWlyZmE1clpjZjhBYWV5NmJXdHJ1N200cDBZRWx1ZUZR?oc=5</guid>
-            <pubDate>Tue, 14 Jul 2026 23:07:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 财经早知道｜人社部定调：工资向一线岗位倾斜  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国气象局称极端气候在英国变得越来越“正常” - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVhIN1hWaFozdGNLaGw0N3ZOYjQwYi11NUxjVzNxbmtRREFqQVh0MEhrUzFaWVN4WmUwRXhSOW03U04zbUsyV0dQWU1CU2UxUHFZWnFTNUIxdTZ3SVIyazNEMlQ5cWs0OGdjLU84OHBXUjFnSG5QelAtSHRkbjlDY09FMllSWHdENUJWNTVIeUxvQXJaSzk1UjUzMVdVVTVSUDQ2MzZ5X2ZRX1hUbnV3TmdQcGtzRTJp?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTVhIN1hWaFozdGNLaGw0N3ZOYjQwYi11NUxjVzNxbmtRREFqQVh0MEhrUzFaWVN4WmUwRXhSOW03U04zbUsyV0dQWU1CU2UxUHFZWnFTNUIxdTZ3SVIyazNEMlQ5cWs0OGdjLU84OHBXUjFnSG5QelAtSHRkbjlDY09FMllSWHdENUJWNTVIeUxvQXJaSzk1UjUzMVdVVTVSUDQ2MzZ5X2ZRX1hUbnV3TmdQcGtzRTJp?oc=5</guid>
-            <pubDate>Tue, 14 Jul 2026 23:02:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 英国气象局表示，极端气候在英国变得越来越“正常” 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国FDA批准Celcuity的乳腺癌药物 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlQwdGFBOVJZNDBha3U3SkdCaF9hOHE4QmxPR2YzVXdIT2ZBM3FNbG8ycHJMSVVVNHZhOHdoRU1iekp0QnowME0zMkhWdGlkdzItMF80eVNRVklWOXFUeVI3QjF4ckRoS3BFTHdLaFo3UkxNZElGQjBzNVJCajJwZHZCQzE2N2JhTDlZM0RTX2ZOXzZHNjVDU0N1TGMzQzNPaHo4enFfd191eVNuVEFMaWprZnRXQ0k?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlQwdGFBOVJZNDBha3U3SkdCaF9hOHE4QmxPR2YzVXdIT2ZBM3FNbG8ycHJMSVVVNHZhOHdoRU1iekp0QnowME0zMkhWdGlkdzItMF80eVNRVklWOXFUeVI3QjF4ckRoS3BFTHdLaFo3UkxNZElGQjBzNVJCajJwZHZCQzE2N2JhTDlZM0RTX2ZOXzZHNjVDU0N1TGMzQzNPaHo4enFfd191eVNuVEFMaWprZnRXQ0k?oc=5</guid>
-            <pubDate>Tue, 14 Jul 2026 22:36:29 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国 FDA 批准 Celcuity 的乳腺癌药物 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国司机可能很快就会看到汽油价格回升至 4 美元 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxPemxQN0hyMEV1NENLS1FXU3BWb1hwZ050UjFtcmhwSW9hUk16VGNVRmd4MmMxUVV5VlB1eUtMUy0tOWdSRGxRb1FfVWtmeTNBVHNFUkR4aEl1R1c2cVV1eDZHVkc2OS1hVDJtSndXOXVOeVU0bUFlM0FtOW5nWVZOd1EyNjk5VEpPVWNyS1JERDRRTmJIcEctUjNMV1YxQkY5Z0REeVNn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMipgFBVV95cUxPemxQN0hyMEV1NENLS1FXU3BWb1hwZ050UjFtcmhwSW9hUk16VGNVRmd4MmMxUVV5VlB1eUtMUy0tOWdSRGxRb1FfVWtmeTNBVHNFUkR4aEl1R1c2cVV1eDZHVkc2OS1hVDJtSndXOXVOeVU0bUFlM0FtOW5nWVZOd1EyNjk5VEpPVWNyS1JERDRRTmJIcEctUjNMV1YxQkY5Z0REeVNn?oc=5</guid>
-            <pubDate>Tue, 14 Jul 2026 22:05:12 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国司机可能很快就会看到汽油价格回升至 4 美元 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[莫斯科市长称有 340 架乌克兰无人机飞向首都，其中大部分被击落 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQT0pveHNodHlCSFUzNTZpMXNiRnpTREx4WlFkUTl2NlZpZ1ZsVkl2OHg0cTZNYmNhSmVfck5VQm1WZlZWampGNUp3MUtraWczdi1CZXlCQ0pLbEIycXB2RlJsZVBkaFJsR0RoRThwQjBzNk1iOHFrY0ZqMTRXX1ZtTDl4VU1WWWcyTXhMc0syc2RrWHhXRUxRMWUzdU1ydkF2ZHpxaEhnVnRDN2lMUEJPbW5veW9icUtNQWRCbEU3b0dmOUVoeU1hZG1EZjF1bFk?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxQT0pveHNodHlCSFUzNTZpMXNiRnpTREx4WlFkUTl2NlZpZ1ZsVkl2OHg0cTZNYmNhSmVfck5VQm1WZlZWampGNUp3MUtraWczdi1CZXlCQ0pLbEIycXB2RlJsZVBkaFJsR0RoRThwQjBzNk1iOHFrY0ZqMTRXX1ZtTDl4VU1WWWcyTXhMc0syc2RrWHhXRUxRMWUzdU1ydkF2ZHpxaEhnVnRDN2lMUEJPbW5veW9icUtNQWRCbEU3b0dmOUVoeU1hZG1EZjF1bFk?oc=5</guid>
-            <pubDate>Tue, 14 Jul 2026 21:53:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 莫斯科市长称 340 架乌克兰无人机飞向首都，其中大部分被击落 路透]]></description>
         </item>
     </channel>
 </rss>
