@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 18 Jul 2026 13:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 14:50:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[滴普科技(01384)正式开放DeepWorks企业智能体平台]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3467359</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3467359</guid>
+            <pubDate>Sat, 18 Jul 2026 14:05:10 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[避险退潮、金价回调，赤峰黄金（06693、600988.SH）的“成长性”能否撑起下一程？]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3467351</link>
@@ -51,7 +58,7 @@
             <description><![CDATA[[Bloomberg] 人工智能新闻继续主导市场]]></description>
         </item>
         <item>
-            <title><![CDATA[“WarshGPT”：华尔街如何适应美联储的沟通新时代]]></title>
+            <title><![CDATA[“WarshGPT”：华尔街如何适应美联储的新沟通时代]]></title>
             <link>https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html</guid>
             <pubDate>Sat, 18 Jul 2026 11:31:03 GMT</pubDate>
@@ -110,13 +117,6 @@
             <title><![CDATA[直击WAIC创业众生相：巨头夹缝中淘金，有团队称用户已超500万]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3467315</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3467315</guid>
-            <pubDate>Sat, 18 Jul 2026 09:05:45 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港贸发局钟永喜：香港拥有内联外通独特优势，可助力AI企业链接全球资本、人才和市场]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3467314</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3467314</guid>
             <pubDate>Sat, 18 Jul 2026 09:05:45 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
@@ -268,7 +268,7 @@
             <description><![CDATA[[Reuters Business] 美国取消特朗普对香港实施的部分制裁，自治地位不变 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[波音公司维持20年喷气机需求预测稳定，摆脱伊朗战争影响 - 路透中文网]]></title>
+            <title><![CDATA[波音公司维持20年喷气式飞机需求预测稳定，摆脱伊朗战争影响 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVC1qb3huZlFwTlFVOEpuUjZwWVdQMl9NNFZDQVdWXzZlSzl2UG1oTmhNeXJzeTZaYVBxcWVVQ2ZSVFFOZGp5S3k3Rkpia0tvOHZRd05nMkdBRFBWVnZlRW94WkxNSkxmQW5kYS1rbUxScUotSW8wYTY5RWthOUVLNlJCZEduN25ZT0FOUms5OEJRajRPd3ppeTdqaGs1ZEJjcnBweGJaY3NQWjVQU3BlaTdXcDJSai1GWS1vRmdrRmpBYTlST1NxQVRYUDdFeVdGX2JJ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVC1qb3huZlFwTlFVOEpuUjZwWVdQMl9NNFZDQVdWXzZlSzl2UG1oTmhNeXJzeTZaYVBxcWVVQ2ZSVFFOZGp5S3k3Rkpia0tvOHZRd05nMkdBRFBWVnZlRW94WkxNSkxmQW5kYS1rbUxScUotSW8wYTY5RWthOUVLNlJCZEduN25ZT0FOUms5OEJRajRPd3ppeTdqaGs1ZEJjcnBweGJaY3NQWjVQU3BlaTdXcDJSai1GWS1vRmdrRmpBYTlST1NxQVRYUDdFeVdGX2JJ?oc=5</guid>
             <pubDate>Fri, 17 Jul 2026 23:03:47 GMT</pubDate>
@@ -457,6 +457,13 @@
             <description><![CDATA[[华尔街见闻] 茅台为何此时再提价？解读来了  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[滚石乐队与披头士乐队争夺第 15 张英国冠军专辑 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSS0talRsdmw0WXZyTkFDVVUwdTRHVUtVXzJLTV9FT251d2VSZkJOUklSOTJ2QlJlX01RNVZKUkxpSW9mcWlpcWJjcTg2dVJHdEM0YTJOczdYRWRoZkNOZkkxOHBuOGUxZ3N3eHdJVW1VMnljM1pFM2ZhWmlkMmVuUGtRVjVwSnFrVWtmWHZ3eGw5ZmxRT3VwUlhiYWpiaW02bnYxdnVzOEhFYi1neVN2NHdVVktMMm54?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSS0talRsdmw0WXZyTkFDVVUwdTRHVUtVXzJLTV9FT251d2VSZkJOUklSOTJ2QlJlX01RNVZKUkxpSW9mcWlpcWJjcTg2dVJHdEM0YTJOczdYRWRoZkNOZkkxOHBuOGUxZ3N3eHdJVW1VMnljM1pFM2ZhWmlkMmVuUGtRVjVwSnFrVWtmWHZ3eGw5ZmxRT3VwUlhiYWpiaW02bnYxdnVzOEhFYi1neVN2NHdVVktMMm54?oc=5</guid>
+            <pubDate>Fri, 17 Jul 2026 17:15:46 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 滚石乐队与披头士乐队争夺第 15 张英国排名第一的专辑 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[消息人士称，特朗普媒体提出每月 10 万美元的费用，以最快速度推送美国总统的帖子 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXhybkhSVTZzdG9mUEw1S0ZveDNCRm81ZEJmYWl2dW1BTzdGWkMxbTM3TWhqTVRlaGN4M3ZZMWNsU21hd0lYRnhtLVBBbWxZcHFLRmpmeHFSTFBfaVZjVFItUWlXMjRlbWpBYlM5b00wYXlnbFU5bnpWX2hwSGdrTzBVWm5ySTcwZnFwNHpqbnlJRVRGQUdDUGR4NFhlVzRqZmJLN1ZPUkdremVHR3VGUkdIOTJ0OVE4dFl3aGVJUmxwYjhMcDJZWC1XTGp6SWFxVThhUg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXhybkhSVTZzdG9mUEw1S0ZveDNCRm81ZEJmYWl2dW1BTzdGWkMxbTM3TWhqTVRlaGN4M3ZZMWNsU21hd0lYRnhtLVBBbWxZcHFLRmpmeHFSTFBfaVZjVFItUWlXMjRlbWpBYlM5b00wYXlnbFU5bnpWX2hwSGdrTzBVWm5ySTcwZnFwNHpqbnlJRVRGQUdDUGR4NFhlVzRqZmJLN1ZPUkdremVHR3VGUkdIOTJ0OVE4dFl3aGVJUmxwYjhMcDJZWC1XTGp6SWFxVThhUg?oc=5</guid>
@@ -468,7 +475,7 @@
             <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVlhwQy1fNi1YajZVdFhnOEotTEp2VWNSS0h1WkgwRldJNkV0c1BzZzJLeHhvak50SjBRaGotM0xfRDFiaVBINHp6UnBGZDQxSUlidXJlREx3TWZkaGFONkQwVVoyNE1kMVR0enZMWTgyQWotdnBFMWhqSWtiNUQ4Wjd0eG9qZUZ4cUdCUVZtaVVib1RVQU1jTEtPQ1BIS3hZNkFqYUpreDlUUzJ3ZlBJdkg1cTNNNkxRdE9WT0tYdDNpN0N6WHU1SWJfU01QLW1mbUpsQk40UQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVlhwQy1fNi1YajZVdFhnOEotTEp2VWNSS0h1WkgwRldJNkV0c1BzZzJLeHhvak50SjBRaGotM0xfRDFiaVBINHp6UnBGZDQxSUlidXJlREx3TWZkaGFONkQwVVoyNE1kMVR0enZMWTgyQWotdnBFMWhqSWtiNUQ4Wjd0eG9qZUZ4cUdCUVZtaVVib1RVQU1jTEtPQ1BIS3hZNkFqYUpreDlUUzJ3ZlBJdkg1cTNNNkxRdE9WT0tYdDNpN0N6WHU1SWJfU01QLW1mbUpsQk40UQ?oc=5</guid>
             <pubDate>Fri, 17 Jul 2026 16:50:58 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 欧洲寻求更多军事自主权，法国和德国扩大防务伙伴关系 路透]]></description>
+            <description><![CDATA[[Reuters Business] 欧洲寻求更多军事自主权 法国和德国扩大防务伙伴关系 路透]]></description>
         </item>
         <item>
             <title><![CDATA[美国地区银行通过贷款激增和费用上涨消除了战争不安 - 路透中文网]]></title>
@@ -597,13 +604,6 @@
             <description><![CDATA[[华尔街见闻] 苹果市值反超英伟达！汇丰坚定看好AI换机超级周期，上调苹果目标价至366美元  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[美国6月制造业产出持平，但第二季度加速 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHUzOUV1S2RWNGtMR3ZnWnBnQ3lsRW8wc2dQT2trd1pOTjk1VnYxVlpxRUlNcElxV0NWMUctVDRiaUV5c0lzZGZYRkU5ckhwVWZ1ajdZYk9Hbk52dGJhM1FSRERQaldEMVFtdk5vR0p5WjF6eEJJaTA5dnVfSkVNNGh0QlZKc0E4YVNfYlB5QUhHaWN1MGotMUM2alVPX1k5ejBzOWpxS001S1VldFM0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHUzOUV1S2RWNGtMR3ZnWnBnQ3lsRW8wc2dQT2trd1pOTjk1VnYxVlpxRUlNcElxV0NWMUctVDRiaUV5c0lzZGZYRkU5ckhwVWZ1ajdZYk9Hbk52dGJhM1FSRERQaldEMVFtdk5vR0p5WjF6eEJJaTA5dnVfSkVNNGh0QlZKc0E4YVNfYlB5QUhHaWN1MGotMUM2alVPX1k5ejBzOWpxS001S1VldFM0?oc=5</guid>
-            <pubDate>Fri, 17 Jul 2026 14:18:29 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国 6 月制造业产出持平，但第二季度加速 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入 - 财新]]></title>
             <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5</guid>
@@ -616,6 +616,13 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUl9BZ0N3WUtwNC1Zbjc0RFJZSElGWWNjWHR3dFJkbjU4Vm9HTFNnWjUyUnhVUlZMSzJjZExnYk5PWDlrdFdqSU9rOUFfbUw2RWY2QzNqNzlGNTJselBwQmFxR0RtbGR3S0hNY1YtckRoRTdMbGJ0Q2Jrbm4xd2R5TjlwNDVoZktLSHJaaS1Zb3hQdndBUVZTWndJbmtWblZiMUw1SGNqTUlLdXM5RXp0SmJJRDJBakxrLTBzTjBQV3M4c21mMzA0bm9jb1NxcGhhdnc?oc=5</guid>
             <pubDate>Fri, 17 Jul 2026 13:48:30 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 由于增长放缓、收视率数据减少令投资者感到不安，Netflix 股价暴跌 - 路透中文网]]></description>
+        </item>
+        <item>
+            <title><![CDATA[独家：拉脱维亚总理表示，拉脱维亚正在与陷入困境的波罗的海航空的战略投资者进行谈判 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEo0WFZwdHZiU05ZNm1mbjBlYmNQbDVpWVVQUmFrbm9YSFRkV1h1d05NcFdBcGNNSlotMjUwYl9IOG1QenVJa1RBU1c0VnRsWFd1RlhuaXk3NDFIVkhlNUZNd0p0NHROTS1JVFA2SlZ3bkpJV0hCaGxUUERySWRFQWN6Z0dqcC13SjVIZVkyMTJQS0N2eE5sb3dCTzlkejRwck91S3VkZk5tU1dlcm1vaFZTMzhRTXV0ZGlDYThwRnJxUQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEo0WFZwdHZiU05ZNm1mbjBlYmNQbDVpWVVQUmFrbm9YSFRkV1h1d05NcFdBcGNNSlotMjUwYl9IOG1QenVJa1RBU1c0VnRsWFd1RlhuaXk3NDFIVkhlNUZNd0p0NHROTS1JVFA2SlZ3bkpJV0hCaGxUUERySWRFQWN6Z0dqcC13SjVIZVkyMTJQS0N2eE5sb3dCTzlkejRwck91S3VkZk5tU1dlcm1vaFZTMzhRTXV0ZGlDYThwRnJxUQ?oc=5</guid>
+            <pubDate>Fri, 17 Jul 2026 13:44:13 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 独家报道：拉脱维亚总理称，拉脱维亚正在与陷入困境的波罗的海航空的战略投资者进行谈判 路透]]></description>
         </item>
         <item>
             <title><![CDATA[苹果短暂超越英伟达成为全球最有价值公司]]></title>
@@ -686,13 +693,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxORzBSbHEtTVZiSlBVVWQ5a2lYR3ZDcFdjTHhkWWJyNWdKSE5qTTM4c3paV2Q0OGhJYndZX203LUY1Q1ViWjdOd1ZzY3NmVFo0NEhJN3ZPaUs2QjRFdWxXZk9Mc2xWRzhVT0FibDFwVEwwTFkwYlNyakNRV1lmTlk0UjJPeGNWTXotaVRIdDA2Q0FmVENwSjMxVFY4OGNJdk84V2p2VlR6UUVWaTYza2ZCUWU3VTNDODZNMUNTR1IxazYxZU9tbjh5SEV0V3I0WTFYMnhB?oc=5</guid>
             <pubDate>Fri, 17 Jul 2026 10:03:14 GMT</pubDate>
             <description><![CDATA[[Reuters Business] SpaceX 首次公开募股为美国小企业管理局局长 Kelly Loeffler 带来数百万美元收入 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紧盯AI交易最重要的风向标——美光！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNnVoMU1BSXlOSUlLdFpvdnh2SnI1Nl9RX3gwUXNQUGJtNGx5SkxNZm1zRmFVTndrdFFHY1k0eExZc3AtM3RRNlpsR3I0bVlyVXow?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNnVoMU1BSXlOSUlLdFpvdnh2SnI1Nl9RX3gwUXNQUGJtNGx5SkxNZm1zRmFVTndrdFFHY1k0eExZc3AtM3RRNlpsR3I0bVlyVXow?oc=5</guid>
-            <pubDate>Fri, 17 Jul 2026 10:00:58 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 紧盯AI交易最重要的风向标——美光！  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[外汇局优化服务贸易统计 完善国际运输和跨境电商数据 - 财新]]></title>
