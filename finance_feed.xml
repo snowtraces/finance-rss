@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 19 Jul 2026 20:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 21:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[韩国总统的股票梦想遭遇杠杆ETF强烈反对]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-07-19/korea-president-s-stock-dream-bumps-into-leveraged-etf-backlash</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-19/korea-president-s-stock-dream-bumps-into-leveraged-etf-backlash</guid>
+            <pubDate>Sun, 19 Jul 2026 21:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 韩国最受关注的股市创新正在成为令李在明总统头疼的问题。]]></description>
+        </item>
         <item>
             <title><![CDATA[策略师表示，澳元兑新西兰元的下滑将缩小利率差距]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-07-19/aussie-s-slide-versus-kiwi-to-slow-on-rate-gap-strategists-say</link>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHUzOUV1S2RWNGtMR3ZnWnBnQ3lsRW8wc2dQT2trd1pOTjk1VnYxVlpxRUlNcElxV0NWMUctVDRiaUV5c0lzZGZYRkU5ckhwVWZ1ajdZYk9Hbk52dGJhM1FSRERQaldEMVFtdk5vR0p5WjF6eEJJaTA5dnVfSkVNNGh0QlZKc0E4YVNfYlB5QUhHaWN1MGotMUM2alVPX1k5ejBzOWpxS001S1VldFM0?oc=5</guid>
             <pubDate>Fri, 17 Jul 2026 14:18:29 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 美国 6 月制造业产出持平，但第二季度加速 路透]]></description>
-        </item>
-        <item>
-            <title><![CDATA[本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5</guid>
-            <pubDate>Fri, 17 Jul 2026 14:02:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入  财新]]></description>
         </item>
     </channel>
 </rss>
