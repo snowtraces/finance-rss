@@ -4,10 +4,24 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 19 Jul 2026 21:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 22:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[俄罗斯股市收低；截至收盘MOEX Russia Index基本持平]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3467619</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3467619</guid>
+            <pubDate>Sun, 19 Jul 2026 21:20:13 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：AI投资机会正在芯片股和大盘股之外涌现]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3467618</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3467618</guid>
+            <pubDate>Sun, 19 Jul 2026 21:09:43 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
         <item>
             <title><![CDATA[韩国总统的股票梦想遭遇杠杆ETF强烈反对]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-07-19/korea-president-s-stock-dream-bumps-into-leveraged-etf-backlash</link>
@@ -121,25 +135,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[国联民生(601456.SH)筹划回购公司A股股份]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3467587</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3467587</guid>
-            <pubDate>Sun, 19 Jul 2026 13:35:08 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[世界杯期间预测市场占体育博彩的 27%]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-07-19/prediction-markets-swell-to-27-of-sports-bets-during-world-cup</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-19/prediction-markets-swell-to-27-of-sports-bets-during-world-cup</guid>
             <pubDate>Sun, 19 Jul 2026 13:30:00 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 在井喷式的世界杯期间，预测市场交易量激增，远远超过了传统体育博彩的增长速度，并凸显了像 Kalshi 这样的公司现在对体育博彩业构成的竞争威胁。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[仅限新用户、卡大专学历！实探AI信用卡发行银行：当办卡不再送行李箱而送Token，你会办吗？]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3467585</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3467585</guid>
-            <pubDate>Sun, 19 Jul 2026 13:06:13 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
             <title><![CDATA[随着预测市场利用世界杯，Kalshi 增加了 300 万新用户]]></title>
@@ -233,7 +233,7 @@
             <description><![CDATA[[华尔街见闻] 俄罗斯为何“拦不住无人机”？  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[美国宣布第三名士兵死亡，伊朗冲突升级]]></title>
+            <title><![CDATA[美国宣布另一名士兵被杀，伊朗冲突升级]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan</guid>
             <pubDate>Sun, 19 Jul 2026 06:58:45 GMT</pubDate>
@@ -275,7 +275,7 @@
             <description><![CDATA[[Bloomberg] 据英国《金融时报》报道，新加坡金融管理局已与投资公司就减免基金经理的税收进行了谈判，以保持该岛的竞争力并留住人才。]]></description>
         </item>
         <item>
-            <title><![CDATA[韩国详细计划让外国人更容易贸易]]></title>
+            <title><![CDATA[韩国详细介绍了韩元在海外自由交易的计划]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-07-19/south-korea-to-ease-fx-rules-for-foreigners-to-trade-won-easier</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-07-19/south-korea-to-ease-fx-rules-for-foreigners-to-trade-won-easier</guid>
             <pubDate>Sun, 19 Jul 2026 03:00:00 GMT</pubDate>
@@ -569,14 +569,14 @@
             <description><![CDATA[[Reuters Business] SpaceX 计划下周再次尝试发射星际飞船，因股价因中止而下滑 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[埃克森特许油轮在黑海码头附近遭无人机袭击 - 路透中文网]]></title>
+            <title><![CDATA[埃克森特许油轮在黑海码头附近遭到无人机袭击 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUJ4SWJnckhxOXZ6Sl90QUJ5YnZUYmp6NjAydlhoLTJqOFBLZm44eWZYbzNNNXFkSzdnR0RDbmhrU25JNHVJV2JOZGZMYUxhU1M1bGEtOTVEcUFfQXh5aUQ1eVBLUVRnWE9Gcnc1VFdKdVkzYjhKTGxwSHBQZlBjcFFGbmtNVG5mNE9XVDdBWVZWcDRVbUxmMDEwOGVCa3lMOFE4TjlacFNUVU1pVms4WEtnVGR2NTVPSlJvNzJnenQ0QQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUJ4SWJnckhxOXZ6Sl90QUJ5YnZUYmp6NjAydlhoLTJqOFBLZm44eWZYbzNNNXFkSzdnR0RDbmhrU25JNHVJV2JOZGZMYUxhU1M1bGEtOTVEcUFfQXh5aUQ1eVBLUVRnWE9Gcnc1VFdKdVkzYjhKTGxwSHBQZlBjcFFGbmtNVG5mNE9XVDdBWVZWcDRVbUxmMDEwOGVCa3lMOFE4TjlacFNUVU1pVms4WEtnVGR2NTVPSlJvNzJnenQ0QQ?oc=5</guid>
             <pubDate>Fri, 17 Jul 2026 17:51:57 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 埃克森特许油轮在黑海码头附近遭到无人机袭击 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[墨西哥海岸强烈地震袭击了危地马拉和萨尔瓦多，但没有造成任何损害 - 路透中文网]]></title>
+            <title><![CDATA[墨西哥海岸强烈地震震撼危地马拉和萨尔瓦多，但未造成任何损害 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHJ6aE83OVlCb0JKd0VjVGtyRDhVNFBabUQydmNHVVNSMVZPYjdBd0RMQnpKWHdsR3Y4SDJ1VVZwWHkxTVN3ZTY3Wjd5WURKTndxUDl4M1Y1bGNGcVR1eXJWekRmREczcE5aOTlBaGhINTlBSjI1bHgzYWlLNkNMSzZSWm5waXZTRGhtZ2tKUV9tek9lbVlFazlEQ1paZGtDaGZ3Q0VlWkVVMEU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHJ6aE83OVlCb0JKd0VjVGtyRDhVNFBabUQydmNHVVNSMVZPYjdBd0RMQnpKWHdsR3Y4SDJ1VVZwWHkxTVN3ZTY3Wjd5WURKTndxUDl4M1Y1bGNGcVR1eXJWekRmREczcE5aOTlBaGhINTlBSjI1bHgzYWlLNkNMSzZSWm5waXZTRGhtZ2tKUV9tek9lbVlFazlEQ1paZGtDaGZ3Q0VlWkVVMEU?oc=5</guid>
             <pubDate>Fri, 17 Jul 2026 17:36:28 GMT</pubDate>
@@ -625,13 +625,6 @@
             <description><![CDATA[[Reuters Business] 印度批准诺和诺德的肥胖药物 Wegovy 治疗脂肪肝 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[葛兰素史克因后期试验失败而停止开发慢性咳嗽药物 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOTJyXzZma0ZYNnRvRjM1c0kzLWg1eEVWSXdkNVRHTlFZR29CMzFReWlicTZiX0ZUOEdzbTB0UmM4VmlRMTdieHNHT2I5RjJPWHR3X0swbF9Ua0xLTXVfdmVCWDM4aE5mRkJHWTM3d1JOcjFxLWJsQjFVdHQtRHF0dTRud3Z4cXlyR25ZVWhkN2lGTEZrUVJJQ0FCZ0Q4SDU5SE1HcE1NTUdzaUtsQm1aWm5tVFA2SlNKU3hfSWw5R2N0SWlKSDQ0eVBxeTBMTXA3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOTJyXzZma0ZYNnRvRjM1c0kzLWg1eEVWSXdkNVRHTlFZR29CMzFReWlicTZiX0ZUOEdzbTB0UmM4VmlRMTdieHNHT2I5RjJPWHR3X0swbF9Ua0xLTXVfdmVCWDM4aE5mRkJHWTM3d1JOcjFxLWJsQjFVdHQtRHF0dTRud3Z4cXlyR25ZVWhkN2lGTEZrUVJJQ0FCZ0Q4SDU5SE1HcE1NTUdzaUtsQm1aWm5tVFA2SlNKU3hfSWw5R2N0SWlKSDQ0eVBxeTBMTXA3?oc=5</guid>
-            <pubDate>Fri, 17 Jul 2026 16:13:39 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 葛兰素史克因后期试验失败而停止开发慢性咳嗽药物 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[独家报道：消息人士称，沙特 PIF 将根据补贴规则赢得欧盟对艺电交易的认可 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3BrSTBMQ3g2aVFzcXNuQmF4bm5BeUtzUC1IZDV4LVZhby1oY19QajdQMWdtQVVlNVc5TVJ5eHdWZzM1WUN3N1RLNzBvd3k2TUdTdFRGR3FNbERWd3V5ZEZFendRSXh2cVpCbG5qclV2ZGZRRHBNYWlLTjVqc193SmVrcXBUc2Eyck9na0lzMEN6TElqbVJhUk4yTDE1cWxtM3RqU0x1TDJWUENmZnA4U1B3TTBrUVNKcDAxTXA0QQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3BrSTBMQ3g2aVFzcXNuQmF4bm5BeUtzUC1IZDV4LVZhby1oY19QajdQMWdtQVVlNVc5TVJ5eHdWZzM1WUN3N1RLNzBvd3k2TUdTdFRGR3FNbERWd3V5ZEZFendRSXh2cVpCbG5qclV2ZGZRRHBNYWlLTjVqc193SmVrcXBUc2Eyck9na0lzMEN6TElqbVJhUk4yTDE1cWxtM3RqU0x1TDJWUENmZnA4U1B3TTBrUVNKcDAxTXA0QQ?oc=5</guid>
@@ -639,7 +632,7 @@
             <description><![CDATA[[Reuters Business] 独家报道：消息人士称，沙特 PIF 将根据补贴规则赢得欧盟对艺电交易的认可 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[油价因美伊新一轮敌对行动和关闭红海的威胁而得到解决 - 路透中文网]]></title>
+            <title><![CDATA[石油价格因美伊新一轮敌对行动和关闭红海的威胁而得到解决 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnAzc0RfelUyaHNBcU5ERWVndUwxNkhxOC1sREo3M2xoeGp0Vko0MTREMXludzBTcG52UVpvSmpRdlpLV2FFU0VNT2cybFU2b3NjTkhUMkZKWlNZMmo0RWFDV0pfSEU1RDFtVURxQjAtRVBXeTB6VWZCNUpFUVRJRFRSRDA0NzJlN1d2bjl5T3VLZ2lxQndYZ29SUFB0Y05YUkxzd1pOSktyME9XMTFMVWRsVnhRV2RG?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnAzc0RfelUyaHNBcU5ERWVndUwxNkhxOC1sREo3M2xoeGp0Vko0MTREMXludzBTcG52UVpvSmpRdlpLV2FFU0VNT2cybFU2b3NjTkhUMkZKWlNZMmo0RWFDV0pfSEU1RDFtVURxQjAtRVBXeTB6VWZCNUpFUVRJRFRSRDA0NzJlN1d2bjl5T3VLZ2lxQndYZ29SUFB0Y05YUkxzd1pOSktyME9XMTFMVWRsVnhRV2RG?oc=5</guid>
             <pubDate>Fri, 17 Jul 2026 16:04:51 GMT</pubDate>
@@ -702,11 +695,18 @@
             <description><![CDATA[[华尔街见闻] 苹果市值反超英伟达！汇丰坚定看好AI换机超级周期，上调苹果目标价至366美元  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[美国6月制造业产出持平，但第二季度加速 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHUzOUV1S2RWNGtMR3ZnWnBnQ3lsRW8wc2dQT2trd1pOTjk1VnYxVlpxRUlNcElxV0NWMUctVDRiaUV5c0lzZGZYRkU5ckhwVWZ1ajdZYk9Hbk52dGJhM1FSRERQaldEMVFtdk5vR0p5WjF6eEJJaTA5dnVfSkVNNGh0QlZKc0E4YVNfYlB5QUhHaWN1MGotMUM2alVPX1k5ejBzOWpxS001S1VldFM0?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHUzOUV1S2RWNGtMR3ZnWnBnQ3lsRW8wc2dQT2trd1pOTjk1VnYxVlpxRUlNcElxV0NWMUctVDRiaUV5c0lzZGZYRkU5ckhwVWZ1ajdZYk9Hbk52dGJhM1FSRERQaldEMVFtdk5vR0p5WjF6eEJJaTA5dnVfSkVNNGh0QlZKc0E4YVNfYlB5QUhHaWN1MGotMUM2alVPX1k5ejBzOWpxS001S1VldFM0?oc=5</guid>
-            <pubDate>Fri, 17 Jul 2026 14:18:29 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国 6 月制造业产出持平，但第二季度加速 路透]]></description>
+            <title><![CDATA[本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入 - 财新]]></title>
+            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hNklPVGQ4eV8tZjBESUk4YjRmUmtpalM5MG5KcEZITHJOZ1E5b3NEdENSNFNzQ1lKTVpNdjU0bWxJbWE0b1ozdGY0LU9VcWJLT01PemhNVjgyZHpWZkZDMTJR?oc=5</guid>
+            <pubDate>Fri, 17 Jul 2026 14:02:00 GMT</pubDate>
+            <description><![CDATA[[财新网] 本周A股最牛：退市股1亿元成交额拉出260%涨幅 北交所连续两日暂停部分账户买入  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰民众连续第二天抗议，要求更换陆军参谋长 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3VCYTNCbVQ4c1NGcVBXRGlJUkkyM1N0SnBGY0hRSDkzQkFMdFlmeHlTbWYta3UxVFo2TWdvVWVoeHY3OHdMeU54eU5KbTAxbEZqYTBKQW9PUTA2UUR1U2p0VnU5MFZ4b0VCeUZoTGI0Y3p1cHpSRXFJYkhUS19FLTQ5Y0lVdV9ZcVNwSFVPWHlURW9PdWN0bnNYU3hSMG1jU3JpaThKcl9JQlc1YXF2ZVdqY1QydTM4YTdTNERLNVgyMnR6M3FKT1owaWN3QQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3VCYTNCbVQ4c1NGcVBXRGlJUkkyM1N0SnBGY0hRSDkzQkFMdFlmeHlTbWYta3UxVFo2TWdvVWVoeHY3OHdMeU54eU5KbTAxbEZqYTBKQW9PUTA2UUR1U2p0VnU5MFZ4b0VCeUZoTGI0Y3p1cHpSRXFJYkhUS19FLTQ5Y0lVdV9ZcVNwSFVPWHlURW9PdWN0bnNYU3hSMG1jU3JpaThKcl9JQlc1YXF2ZVdqY1QydTM4YTdTNERLNVgyMnR6M3FKT1owaWN3QQ?oc=5</guid>
+            <pubDate>Fri, 17 Jul 2026 13:21:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 乌克兰人连续第二天抗议，呼吁更换陆军参谋长 路透]]></description>
         </item>
     </channel>
 </rss>
