@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Fri, 07 Aug 2026 23:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 23:58:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -14,6 +14,20 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-07/sec-drops-insider-trading-suit-against-executive-trump-pardoned</guid>
             <pubDate>Fri, 07 Aug 2026 22:58:03 GMT</pubDate>
             <description><![CDATA[[Bloomberg] 美国证券交易委员会表示，将撤销对一名前医疗保健高管的内幕交易诉讼，该高管在相关刑事案件中被定罪，随后被唐纳德·特朗普总统赦免。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国7月意外失业，市场回落加息预期 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5</guid>
+            <pubDate>Fri, 07 Aug 2026 22:24:57 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国7月意外失业，市场回落加息预期 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE92ZlI0Y2FNQzBZMDJrRHdBa1ZiRHE4QjNGaVJnTUlkaTI4V3E1SUpJN3BMU0JiaUgzTV9FZFVsWUg4YjdwVkdjYUdGTmhYZ2RkQUc0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE92ZlI0Y2FNQzBZMDJrRHdBa1ZiRHE4QjNGaVJnTUlkaTI4V3E1SUpJN3BMU0JiaUgzTV9FZFVsWUg4YjdwVkdjYUdGTmhYZ2RkQUc0?oc=5</guid>
+            <pubDate>Fri, 07 Aug 2026 21:58:25 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[伊朗与阿曼已明确协议总体框架，伊朗酝酿禁美以船只通行，特朗普却说谈判“取得进展” - 华尔街见闻]]></title>
@@ -178,13 +192,6 @@
             <description><![CDATA[[华尔街见闻] OpenAI暂停部分Astra模型开发，Astra或具备发现并利用零日漏洞能力  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[伊朗战争结束的不确定性导致布伦特原油价格上涨1美元 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0Z0cU1oY1hpbHZmZ1JoanRWLXVubmFlTDlWbkpqQ3V1d2dYYlV1U18zVEJ1Zkh1QXFFYm51SVJtZ1ctNHRGYnVlZGk3X0xKcVRHdW5MMzlDM2VQWDBYcmlWc25WX2VaWEJITEJCb2lOOFJsNFRiX0NYOVhCcmxEMWVLVGZXSkJfUzJzQXB2ZTFSMlJnZTczRWVJU3ZTUHEyeWNhcFBuSlI?oc=5</guid>
-            <pubDate>Fri, 07 Aug 2026 20:05:14 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 由于伊朗战争结束的不确定性，布伦特原油价格上涨 1 美元 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[惠誉下调UWM评级至B+，因杠杆率上升]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3507031</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3507031</guid>
@@ -227,11 +234,11 @@
             <description><![CDATA[[Reuters Business] 独家报道：特朗普政府将斥资 5800 万美元支持三个矿产项目 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美国7月意外失业，市场回落加息预期 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5</guid>
-            <pubDate>Fri, 07 Aug 2026 18:26:42 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 美国7月意外失业，市场回落加息预期 路透]]></description>
+            <title><![CDATA[7月非农没给美联储清晰答案！“新美联储通讯社”：9月是否加息还得看通胀 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vV0pKSlBHZ1pNMzQxbmtyWWFxVEtNdnl1ZFNhY1g0TzFhMXA3Vlg2aTdHNWgxUlVYNUltcnZGVExFVE5pQ01rQjRCdTV4TTZaUG5V?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vV0pKSlBHZ1pNMzQxbmtyWWFxVEtNdnl1ZFNhY1g0TzFhMXA3Vlg2aTdHNWgxUlVYNUltcnZGVExFVE5pQ01rQjRCdTV4TTZaUG5V?oc=5</guid>
+            <pubDate>Fri, 07 Aug 2026 18:49:15 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 7月非农没给美联储清晰答案！“新美联储通讯社”：9月是否加息还得看通胀  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[就业数据公布后市场降低美联储加息的可能性，但经济学家仍认为有可能收紧政策 - 路透中文网]]></title>
@@ -255,11 +262,18 @@
             <description><![CDATA[[华尔街见闻] 三天涨300美元！黄金上演逼空，追涨或远未结束，瑞银喊出明年5000美元  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[非农重挫美元，日元盘中涨超1%！日本财相称与美保持密切沟通，必要时将采取行动 - 华尔街见闻]]></title>
+            <title><![CDATA[非农重挫美元，日元盘中涨超1%！日本财相称与美保持密切沟通，必要时毫不犹豫干预 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE12ektPVHUzMXc2THA0UXNOaFUtRVFJd3hWcTBRVXFZT2dKc0ZJT21zOHJuWGFiS3l5T3FjUXNjQ3pWR1lpTldqNVdHbmdweFJaRFVN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE12ektPVHUzMXc2THA0UXNOaFUtRVFJd3hWcTBRVXFZT2dKc0ZJT21zOHJuWGFiS3l5T3FjUXNjQ3pWR1lpTldqNVdHbmdweFJaRFVN?oc=5</guid>
             <pubDate>Fri, 07 Aug 2026 17:19:01 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 非农重挫美元，日元盘中涨超1%！日本财相称与美保持密切沟通，必要时将采取行动  华尔街见闻]]></description>
+            <description><![CDATA[[华尔街见闻] 非农重挫美元，日元盘中涨超1%！日本财相称与美保持密切沟通，必要时毫不犹豫干预  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[欧洲未来的水轰炸机竞相应对未来的野火 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQWURYWkFRQ0h3Sk4tWWFVUlQ2QXk5c09vaWVnSUZGWW1LVjVoT1pHejg2VHpUUUxaM185RENRc3czZjZ2VXpqTjYxRDQ0ejBHd1VMLUlONlpCYnp3UzZ4LVFnak8tdV9PTVkwcFI2TWNNZ1VCelFobU0wVDlDX2RDNmh1Yi1mWnNQd1dEN1NMaFp0LU9rbUJBamxWaE9IMUV6aFVvdG1Cb09mVTFwZ2Jsa0k1M01Qd1o3Rnh1YzhEOA?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQWURYWkFRQ0h3Sk4tWWFVUlQ2QXk5c09vaWVnSUZGWW1LVjVoT1pHejg2VHpUUUxaM185RENRc3czZjZ2VXpqTjYxRDQ0ejBHd1VMLUlONlpCYnp3UzZ4LVFnak8tdV9PTVkwcFI2TWNNZ1VCelFobU0wVDlDX2RDNmh1Yi1mWnNQd1dEN1NMaFp0LU9rbUJBamxWaE9IMUV6aFVvdG1Cb09mVTFwZ2Jsa0k1M01Qd1o3Rnh1YzhEOA?oc=5</guid>
+            <pubDate>Fri, 07 Aug 2026 16:56:02 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 欧洲未来的水轰炸机竞相应对未来的野火 路透]]></description>
         </item>
         <item>
             <title><![CDATA[AI债务狂潮遭遇“消化不良”，华尔街开始重新审视科技巨头发债热潮 - 华尔街见闻]]></title>
@@ -395,6 +409,13 @@
             <description><![CDATA[[Reuters Business] 七月份疲软的就业报告引发了人们对美联储加息可能性的怀疑 路透]]></description>
         </item>
         <item>
+            <title><![CDATA[北京楼市新政：非京籍五环内社保满1年即可购房，适度提高公积金最高贷款额度 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aRV9oZE15Nl9tUGZMNk5JamdCMkpSeFFVcW9aZlNJZlc1S1gtTVpyc1ZaQXNkTjhHemFOZks5dy1TVVlnb21Ud3U0RnY0eG1uelNv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aRV9oZE15Nl9tUGZMNk5JamdCMkpSeFFVcW9aZlNJZlc1S1gtTVpyc1ZaQXNkTjhHemFOZks5dy1TVVlnb21Ud3U0RnY0eG1uelNv?oc=5</guid>
+            <pubDate>Fri, 07 Aug 2026 13:26:32 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 北京楼市新政：非京籍五环内社保满1年即可购房，适度提高公积金最高贷款额度  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[盘前涨幅最大的股票：Atlassian Corporation、Doximity、First Solar、Airbnb 等]]></title>
             <link>https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-premarket-atlassian-corporation-wendys-vista-corp-first-solar-airbnb-more.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/08/07/stocks-making-the-biggest-moves-premarket-atlassian-corporation-wendys-vista-corp-first-solar-airbnb-more.html</guid>
@@ -528,6 +549,13 @@
             <description><![CDATA[[Reuters Business] 就业报告将对美联储主席沃什缺乏指导的立场提供新的考验 - 路透中文网]]></description>
         </item>
         <item>
+            <title><![CDATA[台风海豚逼近日本下令撤离并取消500个航班 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQWFZfc3lhZFI0Tl91RGozVldWUjlvVVV5NUY2UHhXdmVjSXhXaHRoMFQyZDhQcWhGbVZmdVJNb2ttTVlVZEhmQkkyTGl2ZlZkVzJXQjdfdUVVNlpfSVIxS0tDb09wUlhYZXRGdm1mUUVLSV96ajdxenk1R2h2YjVSaWY0OUJ2N2xyWTU5MzRlMTFLdTJIYnVBczlHaVBJc0JHOG55MC0ycUJrbTFQSFdqV2J6VWVtMDhEWVNraXZSNE5xenBWU3lv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxQWFZfc3lhZFI0Tl91RGozVldWUjlvVVV5NUY2UHhXdmVjSXhXaHRoMFQyZDhQcWhGbVZmdVJNb2ttTVlVZEhmQkkyTGl2ZlZkVzJXQjdfdUVVNlpfSVIxS0tDb09wUlhYZXRGdm1mUUVLSV96ajdxenk1R2h2YjVSaWY0OUJ2N2xyWTU5MzRlMTFLdTJIYnVBczlHaVBJc0JHOG55MC0ycUJrbTFQSFdqV2J6VWVtMDhEWVNraXZSNE5xenBWU3lv?oc=5</guid>
+            <pubDate>Fri, 07 Aug 2026 09:55:44 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 台风海豚逼近日本下令撤离并取消 500 架航班 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[空客报告7月交付量稳定，确认中国订单 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUU0WXZ6YkVtQzdoTUFwNFN3YmVVejlTVFFfSFdJVk1fT3R5RlBEN3NlT0dfc0RDNlF5VFpCaGk5SVJDVFdORFNWYjhERTlMSWtHZTVlWjFwckFDV3RfSUZheEx0YVJyS3JrbzhwQU5JRDBmSXhjNjlPelhkWkdLcTVSN2o1dkZHOXFrQUY5eUlQZU1GZDFHbjJTZDRldnN4Sjc3cGM4cjNPMG9LM04wckI4UFJVWXhzVTBaeG91TQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxPVUU0WXZ6YkVtQzdoTUFwNFN3YmVVejlTVFFfSFdJVk1fT3R5RlBEN3NlT0dfc0RDNlF5VFpCaGk5SVJDVFdORFNWYjhERTlMSWtHZTVlWjFwckFDV3RfSUZheEx0YVJyS3JrbzhwQU5JRDBmSXhjNjlPelhkWkdLcTVSN2o1dkZHOXFrQUY5eUlQZU1GZDFHbjJTZDRldnN4Sjc3cGM4cjNPMG9LM04wckI4UFJVWXhzVTBaeG91TQ?oc=5</guid>
@@ -633,13 +661,6 @@
             <description><![CDATA[[Reuters Business] 朝鲜人被敦促用狗肉汤来消暑 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[欧洲未来的水轰炸机竞相应对未来的野火 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQWURYWkFRQ0h3Sk4tWWFVUlQ2QXk5c09vaWVnSUZGWW1LVjVoT1pHejg2VHpUUUxaM185RENRc3czZjZ2VXpqTjYxRDQ0ejBHd1VMLUlONlpCYnp3UzZ4LVFnak8tdV9PTVkwcFI2TWNNZ1VCelFobU0wVDlDX2RDNmh1Yi1mWnNQd1dEN1NMaFp0LU9rbUJBamxWaE9IMUV6aFVvdG1Cb09mVTFwZ2Jsa0k1M01Qd1o3Rnh1YzhEOA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQWURYWkFRQ0h3Sk4tWWFVUlQ2QXk5c09vaWVnSUZGWW1LVjVoT1pHejg2VHpUUUxaM185RENRc3czZjZ2VXpqTjYxRDQ0ejBHd1VMLUlONlpCYnp3UzZ4LVFnak8tdV9PTVkwcFI2TWNNZ1VCelFobU0wVDlDX2RDNmh1Yi1mWnNQd1dEN1NMaFp0LU9rbUJBamxWaE9IMUV6aFVvdG1Cb09mVTFwZ2Jsa0k1M01Qd1o3Rnh1YzhEOA?oc=5</guid>
-            <pubDate>Fri, 07 Aug 2026 05:03:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 欧洲未来的水轰炸机竞相应对未来的野火 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[数据显示，贸易商于七月底从韩国向俄罗斯运送精炼燃料 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjJXR1hSUHBjX1pCLWtTUEx2cWY1LU9xUUNraFljNXdYYUVGM280bEwyMGM3emNMd2FmcElvLTZLRnp2X3NNUFZLcDhzWTVvZlp5bUdKbG0yd21Sd25aTFRWbXc5MHdHaXVEVTBmeXpwMTktc3p5RXVQOGN0LVZjMXVrY2RPZ2V1X3hmSnoxYmtDOTJWYlNaTUZER1FsdGtuYlh5aGh0VGxNazg5bFBkZ2VKWVFqRDRYQXc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjJXR1hSUHBjX1pCLWtTUEx2cWY1LU9xUUNraFljNXdYYUVGM280bEwyMGM3emNMd2FmcElvLTZLRnp2X3NNUFZLcDhzWTVvZlp5bUdKbG0yd21Sd25aTFRWbXc5MHdHaXVEVTBmeXpwMTktc3p5RXVQOGN0LVZjMXVrY2RPZ2V1X3hmSnoxYmtDOTJWYlNaTUZER1FsdGtuYlh5aGh0VGxNazg5bFBkZ2VKWVFqRDRYQXc?oc=5</guid>
@@ -675,39 +696,18 @@
             <description><![CDATA[[Reuters Business] 欧洲变得越来越热，市场正在关注路透社]]></description>
         </item>
         <item>
+            <title><![CDATA[中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5% - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tWDAtNVVjeDZuX285MXZUV185VG5pZVAwYnZ6YjloV0FtTnJ5QTJOdUk4LVRYdzB1UUdHSncya1JTMHozMkt0NnkwcVFCMXVCSXRr?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tWDAtNVVjeDZuX285MXZUV185VG5pZVAwYnZ6YjloV0FtTnJ5QTJOdUk4LVRYdzB1UUdHSncya1JTMHozMkt0NnkwcVFCMXVCSXRr?oc=5</guid>
+            <pubDate>Fri, 07 Aug 2026 03:30:50 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[白银单周暴涨8.3%，高盛警告系统性空头回补或已启动 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE0telFRX2FsbC1uUVZmZzdRcldsRDlZeEFYeWg0V0tZWlNVTjJaTVg3dXQ3NFRvdjZrOU5ackFqWndtNkQxcVg3dGlXNWFoTlZsZ1lR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE0telFRX2FsbC1uUVZmZzdRcldsRDlZeEFYeWg0V0tZWlNVTjJaTVg3dXQ3NFRvdjZrOU5ackFqWndtNkQxcVg3dGlXNWFoTlZsZ1lR?oc=5</guid>
             <pubDate>Fri, 07 Aug 2026 03:10:42 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 白银单周暴涨8.3%，高盛警告系统性空头回补或已启动  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7月非农是否会转移联储注意力 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE14cFRmT1hkNEtRQlZRQWtyWXRoV3M1V29Cb2pqRjdQWElIWHFHdzBMMWY1eDFKSmM3cUxrNkthWk9ZUVBNMGgxLVpGRmxPRnhzLWJF?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE14cFRmT1hkNEtRQlZRQWtyWXRoV3M1V29Cb2pqRjdQWElIWHFHdzBMMWY1eDFKSmM3cUxrNkthWk9ZUVBNMGgxLVpGRmxPRnhzLWJF?oc=5</guid>
-            <pubDate>Fri, 07 Aug 2026 03:09:30 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 7月非农是否会转移联储注意力  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[他预言AI将毁灭人类，却仍在全力建造它——Anthropic掌门人的矛盾与崛起 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uZ3E4TC11ZFhia1B3OEpLcmhocW5IZmdNN2pwTjNyVmFQcTJNUUlQN2JCQnpjWUFZQ3o4Ull6LVRpRnYxVXdrcnh4TVJsQ0xidGFj?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uZ3E4TC11ZFhia1B3OEpLcmhocW5IZmdNN2pwTjNyVmFQcTJNUUlQN2JCQnpjWUFZQ3o4Ull6LVRpRnYxVXdrcnh4TVJsQ0xidGFj?oc=5</guid>
-            <pubDate>Fri, 07 Aug 2026 03:07:53 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 他预言AI将毁灭人类，却仍在全力建造它——Anthropic掌门人的矛盾与崛起  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国绕开欧洲央行售欧元撑日元，欧洲人感到“遭背叛” - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqQVl2LXZnWi1mN3JiT3Q1aFhhNVc5THNncDF3VlNFaEh6d2Z4MkJ6cFN5SVBOQlU0OHV1TE8zQ0FsTlV3ZTFXdUZxelJNdjEzV2Nz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqQVl2LXZnWi1mN3JiT3Q1aFhhNVc5THNncDF3VlNFaEh6d2Z4MkJ6cFN5SVBOQlU0OHV1TE8zQ0FsTlV3ZTFXdUZxelJNdjEzV2Nz?oc=5</guid>
-            <pubDate>Fri, 07 Aug 2026 03:04:08 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 美国绕开欧洲央行售欧元撑日元，欧洲人感到“遭背叛”  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中国不再只是廉价消费品的生产国，而是出口更多支撑全球制造业的高价值产品]]></title>
-            <link>https://www.wsj.com/economy/trade/chinas-new-export-engine-supplying-the-factories-of-the-world-b8f1c176?mod=rss_socialeconomyfeed</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/trade/chinas-new-export-engine-supplying-the-factories-of-the-world-b8f1c176?mod=rss_socialeconomyfeed</guid>
-            <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] 中国不再只是廉价消费品的生产国，而是出口更多支撑全球制造业的高价值产品。]]></description>
         </item>
     </channel>
 </rss>
