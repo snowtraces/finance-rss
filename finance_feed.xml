@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 16 Aug 2026 21:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 22:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -23,7 +23,21 @@
             <description><![CDATA[[Reuters Business] 希腊萨拉米纳岛山火席卷一对老年夫妇身亡 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[随着收益率曲线变陡，美国20年期债券发行将测试需求]]></title>
+            <title><![CDATA[特朗普称要求五角大楼停止与韩国的军事演习]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-08-16/trump-says-asked-pentagon-to-cut-military-drills-with-s-korea</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-16/trump-says-asked-pentagon-to-cut-military-drills-with-s-korea</guid>
+            <pubDate>Sun, 16 Aug 2026 21:10:24 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 唐纳德·特朗普总统在《Truth Social》上发表的一篇文章中表示，“我已指示战争部长皮特·赫格斯大幅减少与韩国的联合军事演习”。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[必和必拓以有史以来最低的“买入”评级进入盈利阶段]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-08-16/bhp-heads-into-earnings-with-least-amount-of-buy-ratings-ever</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-16/bhp-heads-into-earnings-with-least-amount-of-buy-ratings-ever</guid>
+            <pubDate>Sun, 16 Aug 2026 21:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 在周二公布全年业绩之前，分析师对必和必拓集团有限公司的乐观情绪有所减弱，其在悉尼上市的股票的买入建议跌至历史新低。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着收益率曲线陡峭，美国20年期债券发行将测试需求]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-08-16/us-20-year-bond-sale-to-test-demand-as-yield-curve-steepens</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-16/us-20-year-bond-sale-to-test-demand-as-yield-curve-steepens</guid>
             <pubDate>Sun, 16 Aug 2026 19:00:00 GMT</pubDate>
@@ -112,13 +126,6 @@
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3520177</guid>
             <pubDate>Sun, 16 Aug 2026 15:01:35 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[印尼地震造成53人死亡 数千人撤离 余震阻碍救援工作 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5</guid>
-            <pubDate>Sun, 16 Aug 2026 14:50:42 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 印度尼西亚地震造成 53 人死亡，数千人撤离，余震阻碍救援工作 路透]]></description>
         </item>
         <item>
             <title><![CDATA[起底“洋马甲”保健品“澳德维海外”：详情页吹爆欧美血统，参数栏偷偷标注非进口]]></title>
@@ -237,7 +244,7 @@
             <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5</guid>
             <pubDate>Sun, 16 Aug 2026 12:14:28 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 数据显示德国企业将美国投资削减至三年来最低水平 路透]]></description>
+            <description><![CDATA[[Reuters Business] 数据显示，德国企业将美国投资削减至三年来最低水平 路透]]></description>
         </item>
         <item>
             <title><![CDATA[文件显示，亿万富翁 Peter Thiel 购买了阿根廷 Vaca Muerta 石油公司 1% 的股份 - 路透中文网]]></title>
@@ -289,13 +296,6 @@
             <description><![CDATA[[华尔街见闻] 英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[疑似俄罗斯无人机在罗马尼亚领空被击落 - 路透中文网]]></title>
-            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5</guid>
-            <pubDate>Sun, 16 Aug 2026 11:26:44 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 疑似俄罗斯无人机在罗马尼亚领空被击落 路透]]></description>
-        </item>
-        <item>
             <title><![CDATA[出路在哪里？多国央行陷入“救火-加杠杆-再救火”的循环困境 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE54Wjd3M3VlUUlyZGppMERBX21HaHdxSlBEcVNkMVA3RmZENE5SRXlfQS1LRTNXQWZFYTkyX2ZtYUdsLXNIVldWTkVzRzl3S2FIbE1N?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE54Wjd3M3VlUUlyZGppMERBX21HaHdxSlBEcVNkMVA3RmZENE5SRXlfQS1LRTNXQWZFYTkyX2ZtYUdsLXNIVldWTkVzRzl3S2FIbE1N?oc=5</guid>
@@ -324,13 +324,6 @@
             <description><![CDATA[[华尔街见闻] 华尔街“选股神话”持续褪色：过去十年仅13%跑赢指数  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[马来西亚民主行动党通过投票让安瓦尔缓刑以留在内阁]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-08-16/malaysia-s-dap-hands-anwar-reprieve-with-vote-to-stay-in-cabinet</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-16/malaysia-s-dap-hands-anwar-reprieve-with-vote-to-stay-in-cabinet</guid>
-            <pubDate>Sun, 16 Aug 2026 09:28:24 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 马来西亚民主行动党周日投票决定留在总理安瓦尔·易卜拉欣的内阁中，让他在经历了一系列选举挫折和党内动荡后得到了喘息的机会。]]></description>
-        </item>
-        <item>
             <title><![CDATA[OpenAI内部动荡加剧：重组不断，员工疲惫，管离职潮持续，上市计划悄然推迟 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTdnEwdVBvbjZ6Ty0zdEpQazBtT2ZoNU5zOV9aQmRHdlNYd0VHdFhPNm5kaThZQjZaTGdJamVva0ZDVS1CQnJrWXlldlBXYnl1QmxN?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTdnEwdVBvbjZ6Ty0zdEpQazBtT2ZoNU5zOV9aQmRHdlNYd0VHdFhPNm5kaThZQjZaTGdJamVva0ZDVS1CQnJrWXlldlBXYnl1QmxN?oc=5</guid>
@@ -350,13 +343,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiowFBVV95cUxNSDNXd2ZMVFA5LWkwZURfVkFGNWhrenYxTVdIejhWcWxCdmk2QS1TZE5yeDE4WHFBc3pwMEhPZ3dqMlNZa2dlZFd4eUpETHR3cVIzTFg3QVA4aGllSnlDN2c3NFEwMzgwT0lBa3RtOTlhNDJhNlZQQXhGVDRyMUd4VVZMRVVGQzlQR0lYcjFfLVpwakNuUnpWLXUyTnFwWnVKenhv?oc=5</guid>
             <pubDate>Sun, 16 Aug 2026 07:18:53 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 印度尼西亚过去十年来最严重的地震路透社]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于霍尔木兹海峡的不确定性挥之不去，印度准备大幅增加液化石油气产量]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-08-16/india-readies-big-lpg-output-boost-as-hormuz-uncertainty-lingers</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-16/india-readies-big-lpg-output-boost-as-hormuz-uncertainty-lingers</guid>
-            <pubDate>Sun, 16 Aug 2026 07:13:57 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 印度已指示其国有企业和私营炼油厂为大幅增加烹调用气产量做好准备，以寻求增加国内供应，因为伊朗战争延长了霍尔木兹海峡的不确定性。霍尔木兹海峡是印度约 90% 液化石油气进口的主要水道。]]></description>
         </item>
         <item>
             <title><![CDATA[两名妇女在西班牙洪水中丧生 - 路透中文网]]></title>
@@ -401,6 +387,20 @@
             <description><![CDATA[[华尔街见闻] 英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[疑似俄罗斯无人机在罗马尼亚领空被击落 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5</guid>
+            <pubDate>Sun, 16 Aug 2026 03:40:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 疑似俄罗斯无人机在罗马尼亚领空被击落 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[印尼地震造成53人死亡 数千人撤离 余震阻碍救援工作 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5</guid>
+            <pubDate>Sun, 16 Aug 2026 03:33:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 印度尼西亚地震造成 53 人死亡，数千人撤离，余震阻碍救援工作 路透]]></description>
+        </item>
+        <item>
             <title><![CDATA[五大因素叠加发酵，摩根大通：全球粮食危机或将在明年爆发 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE0taEJ1Z1VoWVdJd0pQVXc5cXVoLVpGRnJWWTRKTTRFQm1sZVNQVlNHTFZWWkRFMmdTWG9DMGdJTjJIalRqcXpsQUMyX04tVW1pTFZJ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE0taEJ1Z1VoWVdJd0pQVXc5cXVoLVpGRnJWWTRKTTRFQm1sZVNQVlNHTFZWWkRFMmdTWG9DMGdJTjJIalRqcXpsQUMyX04tVW1pTFZJ?oc=5</guid>
@@ -429,7 +429,7 @@
             <description><![CDATA[[Reuters Business] 越南航空波音 787 起飞事故后返回慕尼黑 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[据《华尔街日报》报道，英伟达缩减了对俄亥俄州 OpenAI 数据中心的资金保证 - 路透中文网]]></title>
+            <title><![CDATA[据《华尔街日报》报道，英伟达缩减了对俄亥俄州 OpenAI 数据中心的资金担保 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5</guid>
             <pubDate>Sat, 15 Aug 2026 23:33:33 GMT</pubDate>
@@ -461,7 +461,7 @@
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5</guid>
             <pubDate>Sat, 15 Aug 2026 20:14:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 强烈地震几天后，随着更多尸体被救出，哥伦比亚的希望破灭了 路透]]></description>
+            <description><![CDATA[[Reuters Business] 强烈地震几天后，随着越来越多的尸体被救出，哥伦比亚的希望破灭了 路透]]></description>
         </item>
         <item>
             <title><![CDATA[匈牙利将在核电站附近沉没两艘驳船，以提高多瑙河水位以确保冷却​​ - 路透社]]></title>
@@ -475,10 +475,10 @@
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxNZDhuLU1pS1kxTnhFbndFY2w2aHZ0UzVCRkpwT3d3Q1FocGJ2cUZqZGFUaEE3MkFNVEZ4bXd3M0RmM3ZNanV6ZVo4TUl5azlkclRhTGZKZVlEdTgybXhSYlo5MXRqUFNzU0pJTnBFOS0yWmpheEZMb01wUzhiM0s5bUx4WUVtczhJN3djRDVLbWozWkYyYnpXNWZQd1RzZmUxSThGUU9BTDU5WFB6QXhhcFUwTXlhY0FMQUN4eWV6ZUw4RzEyc2ZV?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxNZDhuLU1pS1kxTnhFbndFY2w2aHZ0UzVCRkpwT3d3Q1FocGJ2cUZqZGFUaEE3MkFNVEZ4bXd3M0RmM3ZNanV6ZVo4TUl5azlkclRhTGZKZVlEdTgybXhSYlo5MXRqUFNzU0pJTnBFOS0yWmpheEZMb01wUzhiM0s5bUx4WUVtczhJN3djRDVLbWozWkYyYnpXNWZQd1RzZmUxSThGUU9BTDU5WFB6QXhhcFUwTXlhY0FMQUN4eWV6ZUw4RzEyc2ZV?oc=5</guid>
             <pubDate>Sat, 15 Aug 2026 13:59:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 两栋建筑的故事：哥伦比亚和委内瑞拉的地震救援工作有何不同 路透]]></description>
+            <description><![CDATA[[Reuters Business] 两座建筑的故事：哥伦比亚和委内瑞拉的地震救援工作有何不同 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[乌克兰称其击中了与星链式网络相连的俄罗斯火箭中心 - 路透中文网]]></title>
+            <title><![CDATA[乌克兰称其击中了与星链网络相连的俄罗斯火箭中心 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHN6RnFQc0t3VFNmN0c0Vi15dUo0SnhJSVY1anp5OWd6RlpoRHpGbHpTYXNlZHZFUk5ZdG42eGJtUlZxeVFDSV9FMmk5UEhPbGFaSUNpQS1tb0hkNkdZNkJkSklmWWlOb3lCdmREQUxHa3lvTV8tQTNPN19kNk03NDVKU0Y4VjEzWXVvS2FqSmhVWVB5MW5OcV8wQS1POWhWbDdtTFk4NUZvd09ZWU5URzVsaHBheWFoeGdETk03dk5sNVJXSkZWV0VyQ053TG8?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxNWHN6RnFQc0t3VFNmN0c0Vi15dUo0SnhJSVY1anp5OWd6RlpoRHpGbHpTYXNlZHZFUk5ZdG42eGJtUlZxeVFDSV9FMmk5UEhPbGFaSUNpQS1tb0hkNkdZNkJkSklmWWlOb3lCdmREQUxHa3lvTV8tQTNPN19kNk03NDVKU0Y4VjEzWXVvS2FqSmhVWVB5MW5OcV8wQS1POWhWbDdtTFk4NUZvd09ZWU5URzVsaHBheWFoeGdETk03dk5sNVJXSkZWV0VyQ053TG8?oc=5</guid>
             <pubDate>Sat, 15 Aug 2026 12:19:04 GMT</pubDate>
@@ -594,7 +594,7 @@
             <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5</guid>
             <pubDate>Fri, 14 Aug 2026 22:20:15 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 印度尼西亚东部7.7级地震造成至少47人死亡 路透]]></description>
+            <description><![CDATA[[Reuters Business] 印度尼西亚东部发生 7.7 级地震，造成至少 47 人死亡 路透]]></description>
         </item>
         <item>
             <title><![CDATA[法国干旱可能导致玉米产量减半，加剧欧盟收成损失 - 路透中文网]]></title>
@@ -692,7 +692,7 @@
             <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWtWeURpNmxxSWZNSDh5Q0tpN0t4NmZpMlAwUjFaRHU3ZXhOcjVjcnFhbjdNYUp3Sk1WRXlkQWt3VlN6QWlGakoxS0lJVldOWEtJZnUtSTVwLWtDd1duaWFBZ2RvYjRad2lGcG9Wc29PUFNwTEJfcTh2WjFJRFhEZnB0WkM2UVBLTm5FY0xwSWM4VUZoZU1odGJEbGZCWjFWbmVkRnBoS3c5eDlHYjNuag?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWtWeURpNmxxSWZNSDh5Q0tpN0t4NmZpMlAwUjFaRHU3ZXhOcjVjcnFhbjdNYUp3Sk1WRXlkQWt3VlN6QWlGakoxS0lJVldOWEtJZnUtSTVwLWtDd1duaWFBZ2RvYjRad2lGcG9Wc29PUFNwTEJfcTh2WjFJRFhEZnB0WkM2UVBLTm5FY0xwSWM4VUZoZU1odGJEbGZCWjFWbmVkRnBoS3c5eDlHYjNuag?oc=5</guid>
             <pubDate>Fri, 14 Aug 2026 18:45:53 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 印度削减汽油、柴油和航空燃料出口的暴利税 路透]]></description>
+            <description><![CDATA[[Reuters Business] 印度削减汽油、柴油和航空燃料出口暴利税 路透]]></description>
         </item>
         <item>
             <title><![CDATA[山火肆虐，西班牙从修道院移走11世纪国王遗骸 - 路透中文网]]></title>
