@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 20 Aug 2026 23:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 23:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[日本通胀上升，加息押注坚定]]></title>
+            <link>https://www.wsj.com/economy/japan-inflation-picks-up-as-rate-boost-bets-firm-1d63fed4?mod=rss_socialeconomyfeed</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/japan-inflation-picks-up-as-rate-boost-bets-firm-1d63fed4?mod=rss_socialeconomyfeed</guid>
+            <pubDate>Thu, 20 Aug 2026 23:48:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 由于中东冲突造成的油价上涨的影响扩大，日本的消费者通胀上个月有所上升。]]></description>
+        </item>
         <item>
             <title><![CDATA[恒指夜期收盘(8.21)︱恒指夜期(8月)收报25696点 低水2点]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3528918</link>
@@ -65,6 +72,13 @@
             <description><![CDATA[[财新网] 财经早知道｜上海出台“沪八条”，首套房商贷首付最低15%  财新]]></description>
         </item>
         <item>
+            <title><![CDATA[英国食品公司敦促伯纳姆在干旱袭来时采取行动降低成本]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-08-20/british-food-firms-urge-burnham-to-act-on-costs-as-drought-hits</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-20/british-food-firms-urge-burnham-to-act-on-costs-as-drought-hits</guid>
+            <pubDate>Thu, 20 Aug 2026 23:01:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 由于欧洲干旱推高了关键原料的价格，食品和饮料制造商呼吁新任英国首相安迪·伯纳姆提供救济。]]></description>
+        </item>
+        <item>
             <title><![CDATA[华虹、建滔、紫金黄金或将加入港股指数]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-08-20/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-20/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index</guid>
@@ -111,14 +125,14 @@
             <link>https://www.bloomberg.com/news/articles/2026-08-20/stock-market-today-dow-s-p-live-updates</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-20/stock-market-today-dow-s-p-live-updates</guid>
             <pubDate>Thu, 20 Aug 2026 22:05:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 随着油价和基准债券收益率攀升，美国股市下跌，亚洲股市也将下跌，投资者押注美国财政部控制借贷成本的努力可能只能暂时缓解压力。]]></description>
+            <description><![CDATA[[Bloomberg] 美国国债涨势消退后，亚洲股市将跟随华尔街走低，投资者押注美国遏制借贷成本的努力可能只能暂时缓解压力。]]></description>
         </item>
         <item>
             <title><![CDATA[8 月 21 日最新石油市场新闻和分析]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-08-20/latest-oil-market-news-and-analysis-for-aug-21</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-20/latest-oil-market-news-and-analysis-for-aug-21</guid>
             <pubDate>Thu, 20 Aug 2026 22:02:51 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于美国孤立伊朗经济的举措引发了市场进一步混乱的担忧，油价本周大幅上涨。]]></description>
+            <description><![CDATA[[Bloomberg] 由于美国孤立伊朗经济的举措引发了市场进一步混乱的担忧，油价本周将大幅上涨。]]></description>
         </item>
         <item>
             <title><![CDATA[博通寻求 60B 美元的人工智能债务交易]]></title>
@@ -128,7 +142,7 @@
             <description><![CDATA[[Bloomberg] 据知情人士透露，博通公司 (Broadcom Inc.) 正在与一组贷方进行谈判，为一项人工智能芯片融资交易筹集超过 600 亿美元的债务，这将使 Anthropic PBC 和其他公司受益。 一些因信息未公开而要求匿名的人士表示，目前仍在解决的融资可能还包括约 300 亿美元的次级债务部分。 彭博新闻社交易记者 Ryan Gould 详细分析了潜在交易的重要性以及参与者可能是谁。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[Anthropic 将花旗集团纳入大型 IPO 银行行列]]></title>
+            <title><![CDATA[Anthropic 计划将花旗集团纳入大型 IPO 银行之列]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-20/anthropic-set-to-add-citigroup-to-top-ipo-banks-on-mega-listing</guid>
             <pubDate>Thu, 20 Aug 2026 21:29:58 GMT</pubDate>
@@ -198,7 +212,7 @@
             <description><![CDATA[[Reuters Business] 由于债务担忧持续存在，美国国债回购策略未能实现 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[美国将提前结束夏季混合汽油需求以降低价格 - 路透中文网]]></title>
+            <title><![CDATA[美国提前结束夏季混合汽油需求以降低价格 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdBN0hxc0xrLUhRamhRbmdpYk5ybzgyQ0hhQ2IyQVhEVWlobDcxeUY1NEJ1UXZlLVR0YVBvTkxqMkNGenZaRG5lTXZRQVZFX21kWU9ZS05RMHoxSmJwTnVkcGFQcDIzSXZRME9DV3hJckt6WHJueG4xQjE3dnNWX2hYOWN6MnN1eEthcUFKTzJvM2hDbzVmbno3UURwcUZxbl9WV2t5S2prT0dpSlhlN01QeHZUZlY2U1o4?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakdBN0hxc0xrLUhRamhRbmdpYk5ybzgyQ0hhQ2IyQVhEVWlobDcxeUY1NEJ1UXZlLVR0YVBvTkxqMkNGenZaRG5lTXZRQVZFX21kWU9ZS05RMHoxSmJwTnVkcGFQcDIzSXZRME9DV3hJckt6WHJueG4xQjE3dnNWX2hYOWN6MnN1eEthcUFKTzJvM2hDbzVmbno3UURwcUZxbl9WV2t5S2prT0dpSlhlN01QeHZUZlY2U1o4?oc=5</guid>
             <pubDate>Thu, 20 Aug 2026 20:58:12 GMT</pubDate>
@@ -366,14 +380,14 @@
             <description><![CDATA[[华尔街见闻] 贝森特放话美债回购还能加码、单次或超40亿，威胁对伊朗实施“前所未有的经济孤立”  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Meta 的扎克伯格购买了爱尔兰东南部一座 19 世纪的城堡 - 路透中文网]]></title>
+            <title><![CDATA[Meta 的扎克伯格购买了爱尔兰东南部的 19 世纪城堡 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPRFVEMTJpcVlGZDQ4Y240ZGlaNVI1dkxQNDAzclhTQ2xpemYxRWlYcGEyZGVmenZzWWx3M3U5XzdvdTlHejFia2xDS1JkNjNPalVfNklCSkpqT3lHZ2p1d1Z0YXJJZWxYam81a1lVRnpCQmNhSmlDRHlFUXRyRk9VQWxTV0lGREdrbkRhV0lkVVc0V2VHbUF4VkFnakV4dzJJbFlaWkxWQ0tKcnNCQkJ0ZGtkU0tmOWFfX0pIUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPRFVEMTJpcVlGZDQ4Y240ZGlaNVI1dkxQNDAzclhTQ2xpemYxRWlYcGEyZGVmenZzWWx3M3U5XzdvdTlHejFia2xDS1JkNjNPalVfNklCSkpqT3lHZ2p1d1Z0YXJJZWxYam81a1lVRnpCQmNhSmlDRHlFUXRyRk9VQWxTV0lGREdrbkRhV0lkVVc0V2VHbUF4VkFnakV4dzJJbFlaWkxWQ0tKcnNCQkJ0ZGtkU0tmOWFfX0pIUQ?oc=5</guid>
             <pubDate>Thu, 20 Aug 2026 16:16:39 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Meta 的扎克伯格购买了爱尔兰东南部的 19 世纪城堡 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[独家：特朗普政府将拨款 5 亿美元支持美国矿产项目 - 路透]]></title>
+            <title><![CDATA[独家报道：特朗普政府将拨款 5 亿美元支持美国矿产项目 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQdThFUDZLSTMyUHJsWGcwcS16TExSR3JHMnp1R25OQWltNmp4TGZ2R3dlbDJRQ2taWnVBODlVNXVOMUFRYmI5U3pEbHktb2xRYk5lZE00TzBqdmZqdXBzY3ZZaFVqRTdGQnhlSDdGMmpRbWpwblRkandfRmFnWUhwbUpDRmF4dk1UUVVGdmdlZGpoYWNiM1d4QUowU2x5aFhqMnM4d1E4ZEN2VVZ3LVdxYUpUQWM2bEF5dkgzSkstOA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQdThFUDZLSTMyUHJsWGcwcS16TExSR3JHMnp1R25OQWltNmp4TGZ2R3dlbDJRQ2taWnVBODlVNXVOMUFRYmI5U3pEbHktb2xRYk5lZE00TzBqdmZqdXBzY3ZZaFVqRTdGQnhlSDdGMmpRbWpwblRkandfRmFnWUhwbUpDRmF4dk1UUVVGdmdlZGpoYWNiM1d4QUowU2x5aFhqMnM4d1E4ZEN2VVZ3LVdxYUpUQWM2bEF5dkgzSkstOA?oc=5</guid>
             <pubDate>Thu, 20 Aug 2026 15:55:21 GMT</pubDate>
@@ -398,7 +412,7 @@
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVdoZ1AyLUtfUHREazZQdUFNOWV0dmdiOGdld2F0VzF2akx1SzVheHJzZjBtX19yUzJsM2gxVWppel9kbnN2dlh2a2xSQTR6S2ZMYnQ0c1ZVdFd0QWJfTTBkekZFcWxSV0JiM1YyREpKV0JmVkxyUTB0NnJtZ3lQVFA3RVVPeUtZQjFMZUFfZ043ZmR3MDVTYjJ1NVJvUlZLcnRPRXdwc0dDeVNFaHh3TFFNMEdHZ2xmWVZHb0FNUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVdoZ1AyLUtfUHREazZQdUFNOWV0dmdiOGdld2F0VzF2akx1SzVheHJzZjBtX19yUzJsM2gxVWppel9kbnN2dlh2a2xSQTR6S2ZMYnQ0c1ZVdFd0QWJfTTBkekZFcWxSV0JiM1YyREpKV0JmVkxyUTB0NnJtZ3lQVFA3RVVPeUtZQjFMZUFfZ043ZmR3MDVTYjJ1NVJvUlZLcnRPRXdwc0dDeVNFaHh3TFFNMEdHZ2xmWVZHb0FNUQ?oc=5</guid>
             <pubDate>Thu, 20 Aug 2026 15:41:39 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] 独家报道：参议院民主党人就数据错误和人员流失问题向美国农业部提出质疑 路透]]></description>
+            <description><![CDATA[[Reuters Business] 独家：参议院民主党人就数据错误和人员流失问题向美国农业部提出质疑 路透]]></description>
         </item>
         <item>
             <title><![CDATA[迪尔上调 2026 年盈利预期，人工智能建设热潮提振季度收入，股价上涨 - 路透中文网]]></title>
@@ -436,7 +450,7 @@
             <description><![CDATA[[WSJ] 世界大型企业联合会领先经济指数上涨 0.2%，至 99.5，表明温和增长可能即将到来。]]></description>
         </item>
         <item>
-            <title><![CDATA[消息人士称卫星制造商 Muon Space 估值达 15 亿美元 - 路透中文网]]></title>
+            <title><![CDATA[消息人士称卫星制造商 Muon Space 估值 15 亿美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPREF4dUllWDJ6WGtKV0l2RHZBRWNJNGc5eTNkSVRCZHhCTHVnNkNmM0Y1UDhuYmthQXlBMWk5eG9NeWdSSHNEX3FLeUZSTmNTS2FEWC12YUpsbHYxdlE0b2VIVjlXNlNDRzFMbE04d3EwaG9LZDh3dHIzeEFJNDBrSEpoTk5WOVFOV3EwN1BZdEgtYjR0aDFteW5DcTVONEFfUVdkLVVyUzBHQkFKQUxGUUVWR2lnZw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxPREF4dUllWDJ6WGtKV0l2RHZBRWNJNGc5eTNkSVRCZHhCTHVnNkNmM0Y1UDhuYmthQXlBMWk5eG9NeWdSSHNEX3FLeUZSTmNTS2FEWC12YUpsbHYxdlE0b2VIVjlXNlNDRzFMbE04d3EwaG9LZDh3dHIzeEFJNDBrSEpoTk5WOVFOV3EwN1BZdEgtYjR0aDFteW5DcTVONEFfUVdkLVVyUzBHQkFKQUxGUUVWR2lnZw?oc=5</guid>
             <pubDate>Thu, 20 Aug 2026 14:33:55 GMT</pubDate>
@@ -576,13 +590,6 @@
             <description><![CDATA[[Reuters Business] 国际货币基金组织的 Tenreyro 警告称，人工智能生产率的提高可能无法抑制通货膨胀 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[石油和收益率攀升，而沃尔玛暴跌，美国股市下跌]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-08-20/us-stock-futures-fall-as-oil-yields-climb-while-walmart-slumps</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-20/us-stock-futures-fall-as-oil-yields-climb-while-walmart-slumps</guid>
-            <pubDate>Thu, 20 Aug 2026 12:13:11 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] 由于油价和基准债券收益率上涨，美国股市周四下跌，而沃尔玛公司令人失望的业绩令这家零售巨头和同行的股价承压。]]></description>
-        </item>
-        <item>
             <title><![CDATA[大族数控上半年营收同比增长109.29%、净利润增263.45%，AI算力PCB需求爆发驱动业绩飞跃| 财报见闻 - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRGVWcGNmLU5TZzFCanZjT1BZUTNHV0lqSnNxOE5jX1lmY2NOU1N1clctUUxqVElPOVl4RFFwYmNIRG9lemNaMkg3aEdfNjk1QV9z?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRGVWcGNmLU5TZzFCanZjT1BZUTNHV0lqSnNxOE5jX1lmY2NOU1N1clctUUxqVElPOVl4RFFwYmNIRG9lemNaMkg3aEdfNjk1QV9z?oc=5</guid>
@@ -611,7 +618,7 @@
             <description><![CDATA[[Reuters Business] Boohoo 因网站上的欺骗性折扣被法国罚款 230 万欧元 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[欧盟委员会称欧盟不担心天然气供应或储存填充 - 路透中文网]]></title>
+            <title><![CDATA[欧盟委员会表示，欧盟并不担心天然气供应或储存填充 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHpENlZMLTBKaVN1cWJzcjQ4VW1lR05QS0hCbnAzbkhOOFhMS1hZNkNOQnkzQkpRNDJKa0dNRExkOTQ1anREcURtSzZjaENTZzBxcmwtSHU5S25Vcy1iNjl1SF9UbktlSFFHdEtwNlpRLW04c3dCeThlX0M0eVltek1lTWtNTkExX00xZ3BzTGp4ZjBjM3FvcU85RHNLZExFSWJrcVNxaTZnbHBQUktrNWh1NEpoWHlyNEJoSg?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHpENlZMLTBKaVN1cWJzcjQ4VW1lR05QS0hCbnAzbkhOOFhMS1hZNkNOQnkzQkpRNDJKa0dNRExkOTQ1anREcURtSzZjaENTZzBxcmwtSHU5S25Vcy1iNjl1SF9UbktlSFFHdEtwNlpRLW04c3dCeThlX0M0eVltek1lTWtNTkExX00xZ3BzTGp4ZjBjM3FvcU85RHNLZExFSWJrcVNxaTZnbHBQUktrNWh1NEpoWHlyNEJoSg?oc=5</guid>
             <pubDate>Thu, 20 Aug 2026 11:25:29 GMT</pubDate>
@@ -700,13 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEoyTlBhdlZxOEhhZFREWWpnNDdtV0RDODN4eFFTcmV5T1RfenE3eFRHYzd0VUlrclYwN0w3YUJnWGRzSWZITEx5a2xvQkdVYmVzcHJsSGxBV2JCN2pIOVlhb19pSXVJTWVHVVRFSnVmTXlZWkMwSUFhMWRQeDAzVXY1WUVoWDliVGhJNE9vN3dJV2FyZTZqYmJZc1h3TFE5WDItZFprR1Y?oc=5</guid>
             <pubDate>Thu, 20 Aug 2026 10:25:03 GMT</pubDate>
             <description><![CDATA[[Reuters Business] 人工智能公司股权收益增加标普 500 指数第二季度收益 - 路透中文网]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美财政部国债回购规模翻倍 长债收益率“挽救计划”能否成功？ - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2QnI3a2dlc3FEbXpQOHM2dm83VU1SZnBlcWRfQllESWp4SmZIeFRQbDNwZFU1WHFnMDRfRXJSVDFkVWlXQ2VreHFBQVloaTB6SjJlY3VVN3NqLVZyaWcwUk53?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2QnI3a2dlc3FEbXpQOHM2dm83VU1SZnBlcWRfQllESWp4SmZIeFRQbDNwZFU1WHFnMDRfRXJSVDFkVWlXQ2VreHFBQVloaTB6SjJlY3VVN3NqLVZyaWcwUk53?oc=5</guid>
-            <pubDate>Thu, 20 Aug 2026 10:20:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 美财政部国债回购规模翻倍 长债收益率“挽救计划”能否成功？  财新]]></description>
         </item>
     </channel>
 </rss>
