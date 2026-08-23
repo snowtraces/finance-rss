@@ -4,7 +4,7 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 23 Aug 2026 16:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 16:50:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
@@ -13,6 +13,13 @@
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3531254</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3531254</guid>
             <pubDate>Sun, 23 Aug 2026 16:07:35 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[智通港股投资日志|8月24日]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3531253</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3531253</guid>
+            <pubDate>Sun, 23 Aug 2026 16:05:10 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
@@ -205,13 +212,6 @@
             <title><![CDATA[剂泰科技-P(07666)获纳入恒生综合指数 9月7日起生效]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-3531217</link>
             <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3531217</guid>
-            <pubDate>Sun, 23 Aug 2026 11:35:10 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[华沿机器人(01021.HK)获纳入恒生综合指数 有望成为港股通标的]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3531218</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3531218</guid>
             <pubDate>Sun, 23 Aug 2026 11:35:10 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
