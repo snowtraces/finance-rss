@@ -4,10 +4,17 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sun, 23 Aug 2026 17:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 17:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
+        <item>
+            <title><![CDATA[Bloomberg This Weekend 8/23/2026]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-08-23/bloomberg-this-weekend-8-23-2026-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-08-23/bloomberg-this-weekend-8-23-2026-video</guid>
+            <pubDate>Sun, 23 Aug 2026 16:19:56 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Alexis Christoforous bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former Canadian Finance Minister Chrystia Freeland, RUV Defense and Security Correspondent Ingólfur Sigfússon, PIMCO Executive Vice President, Market Strategist and Generalist Portfolio Manager Tony Crescenzi, “London Falling” Author Patrick Radden Keefe, Ohio Rep. Greg Landsman, Georgia Rep. Rich McCormick, Veda Partners Director of Economic Policy Henrietta Treyz, IBM Senior Vice President and Chief Global Affairs Officer Jonathan Adashek, and Retired Tennis Player and “Nothing Major” Co-Host Sam Querrey. (Source: Bloomberg)]]></description>
+        </item>
         <item>
             <title><![CDATA[德国商业银行主席呼吁审查德国收购法规]]></title>
             <link>https://cn.investing.com/news/stock-market-news/article-93CH-3531254</link>
@@ -333,13 +340,6 @@
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-23/f1-reviews-china-boy-band-s-logo-for-similarities-global-times</guid>
             <pubDate>Sun, 23 Aug 2026 05:15:20 GMT</pubDate>
             <description><![CDATA[[Bloomberg] The Formula One group is reviewing and investigating information about a logo used in a concert tour by Chinese boy group Teens in Times, after fans alleged it resembled F1’s trademark, the Global Times reported on Sunday.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mexican Governor Wanted by US Over Cartel Ties Seeks Leave Again]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-08-23/mexican-governor-wanted-by-us-over-cartel-ties-seeks-leave-again</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-08-23/mexican-governor-wanted-by-us-over-cartel-ties-seeks-leave-again</guid>
-            <pubDate>Sun, 23 Aug 2026 04:54:59 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] The Mexican governor accused by the US of conspiring with a cartel and abetting drug trafficking has once again requested leave, after returning to his post on Friday.]]></description>
         </item>
         <item>
             <title><![CDATA[Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters]]></title>
