@@ -4,37 +4,66 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Sat, 05 Sep 2026 17:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 19:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[Bloomberg This Weekend 09/05/2026]]></title>
+            <title><![CDATA[特朗普重命名安大略湖，加拿大回应]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-09-05/trump-renames-lake-ontario-canada-responds-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/trump-renames-lake-ontario-canada-responds-video</guid>
+            <pubDate>Sat, 05 Sep 2026 18:42:52 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 特朗普总统将安大略湖更名为美国湖的决定在边境两侧掀起了波澜。
+ 彭博新闻社沙奎尔·奥马里 (Shaquille Omari) 关注加拿大和科技公司的应对措施。  （来源：彭博社）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI 承认“维基事件”并需要提高人工智能意外行为的透明度 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5</guid>
+            <pubDate>Sat, 05 Sep 2026 18:27:54 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] OpenAI 承认“维基事件”并需要提高人工智能意外行为的透明度 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[全球债券抛售后，瑞银看好3至5年期债券的套息机会]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3553622</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3553622</guid>
+            <pubDate>Sat, 05 Sep 2026 17:50:46 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国劳动节周末汽油价格创历史新高 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFRnN3lrWTZLMXNUSW1MWWwxemVSc1RuaDM1dnhkWlZpbDJZT2t5dGYxRWlMa1RiblhPN0ttUzRHUDcwUGRVVEsyb092RTAzR3lZeDN6dFpRVDN4SjhlYng0Y082RjJSVEVZWkg4SnZ2SGtaNW1DbExVTklPMXZHdnVWZTZqbUZ6QkRYMU1mLWhyeEF5VzQ2anpJaThuVmNxSF8xWTBDRkNJVzMybTV0Rlo5dlFiUFk?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFRnN3lrWTZLMXNUSW1MWWwxemVSc1RuaDM1dnhkWlZpbDJZT2t5dGYxRWlMa1RiblhPN0ttUzRHUDcwUGRVVEsyb092RTAzR3lZeDN6dFpRVDN4SjhlYng0Y082RjJSVEVZWkg4SnZ2SGtaNW1DbExVTklPMXZHdnVWZTZqbUZ6QkRYMU1mLWhyeEF5VzQ2anpJaThuVmNxSF8xWTBDRkNJVzMybTV0Rlo5dlFiUFk?oc=5</guid>
+            <pubDate>Sat, 05 Sep 2026 17:44:34 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 美国劳动节周末汽油价格创历史新高 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[扎波罗热核电站维修停火协议生效 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXJwQ1BPMFoxZ1JOZjRpMmJhaDktQ01QbzhoMUZsTjY4VURwSjBLQnRXNUg2dzY1MDVrbFoyeTZmMTNhTmFhV1FOaThxbEQyVmJ5VzN4ZllJTnFGOXpaMHhKNWNIM3JhY3diNG9DM3hMcC1kNlc1TTFRSXhVenRPanpaWERNVmpDNE1GVUszWklKQm5STEhpUmYwVmFCR0hrcDI0RUhVeVZCa3pfdUNfUUdURDY0U005NkE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXJwQ1BPMFoxZ1JOZjRpMmJhaDktQ01QbzhoMUZsTjY4VURwSjBLQnRXNUg2dzY1MDVrbFoyeTZmMTNhTmFhV1FOaThxbEQyVmJ5VzN4ZllJTnFGOXpaMHhKNWNIM3JhY3diNG9DM3hMcC1kNlc1TTFRSXhVenRPanpaWERNVmpDNE1GVUszWklKQm5STEhpUmYwVmFCR0hrcDI0RUhVeVZCa3pfdUNfUUdURDY0U005NkE?oc=5</guid>
+            <pubDate>Sat, 05 Sep 2026 16:25:43 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 扎波罗热核电站维修停火协议生效 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[彭博社本周末 09/05/2026]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/bloomberg-this-weekend-09-05-2026-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/bloomberg-this-weekend-09-05-2026-video</guid>
             <pubDate>Sat, 05 Sep 2026 16:17:08 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] 当市场收盘时，消息并没有停止。 主持人大卫·古拉 (David Gura)、克里斯蒂娜·鲁菲尼 (Christina Ruffini) 和丽莎·马特奥 (Lisa Mateo) 为周末最大的头条新闻“来自纽约的直播”带来了清晰、背景和幽默。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[Greek F-4 crashes during air show near Athens, two pilots dead, sources say - Reuters]]></title>
+            <title><![CDATA[消息人士称，希腊F-4在雅典附近的航展期间坠毁，两名飞行员死亡 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWDhRUjlOUEk4X20tWWV0dzFUNXZGc0RyMzM2eEpqOS0xRnpfdXpxSUdWZXdoZkJZV3VpWlI1WEJCUFZiUWFvcEFMdmxFY1dDMkNDMDBBZmdzUmhXSlVxMndZdE5yUV9ST05BOHJjc3JvajRqVUlDYk1xTVdwX2d2bnBXRzVVVWg2TUxIUnpxTzUtZGpBUHp2OW1UTE5CbVlYS1lfTXNOVk9RSXotVjFSdDBnR3Jsa0MtSzlMbk44TnI?oc=5</guid>
             <pubDate>Sat, 05 Sep 2026 15:57:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Greek F-4 crashes during air show near Athens, two pilots dead, sources say  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 消息人士称，希腊 F-4 在雅典附近的航展期间坠毁，两名飞行员死亡]]></description>
         </item>
         <item>
-            <title><![CDATA[Americans hit with record-high Labor Day Weekend gasoline prices - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFRnN3lrWTZLMXNUSW1MWWwxemVSc1RuaDM1dnhkWlZpbDJZT2t5dGYxRWlMa1RiblhPN0ttUzRHUDcwUGRVVEsyb092RTAzR3lZeDN6dFpRVDN4SjhlYng0Y082RjJSVEVZWkg4SnZ2SGtaNW1DbExVTklPMXZHdnVWZTZqbUZ6QkRYMU1mLWhyeEF5VzQ2anpJaThuVmNxSF8xWTBDRkNJVzMybTV0Rlo5dlFiUFk?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFRnN3lrWTZLMXNUSW1MWWwxemVSc1RuaDM1dnhkWlZpbDJZT2t5dGYxRWlMa1RiblhPN0ttUzRHUDcwUGRVVEsyb092RTAzR3lZeDN6dFpRVDN4SjhlYng0Y082RjJSVEVZWkg4SnZ2SGtaNW1DbExVTklPMXZHdnVWZTZqbUZ6QkRYMU1mLWhyeEF5VzQ2anpJaThuVmNxSF8xWTBDRkNJVzMybTV0Rlo5dlFiUFk?oc=5</guid>
-            <pubDate>Sat, 05 Sep 2026 15:55:30 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Americans hit with record-high Labor Day Weekend gasoline prices  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jobs Surge Raises Odds of September Fed Hike]]></title>
+            <title><![CDATA[就业激增增加了美联储九月加息的可能性]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/jobs-surge-raises-odds-of-september-fed-hike-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/jobs-surge-raises-odds-of-september-fed-hike-video</guid>
             <pubDate>Sat, 05 Sep 2026 15:37:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] On Bloomberg This Weekend, Seaport Research Partner Managing Director & Chief Equity Strategist Jonathan Golub says a stronger-than-expected US jobs report reinforces the case for the Federal Reserve to raise interest rates, despite President Donald Trump’s calls for lower borrowing costs. Golub also says to hosts Christina Ruffini and Jeff Mason that his bigger concern is longer-term bond yields as heavy AI investment and government borrowing compete for capital. (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] Seaport Research Partners董事总经理兼首席股票策略师乔纳森·戈卢布(Jonathan Golub)在彭博社本周末表示，尽管唐纳德·特朗普总统呼吁降低借贷成本，但强于预期的美国就业报告强化了美联储加息的理由。 戈卢布还对主持人克里斯蒂娜·鲁菲尼和杰夫·梅森表示，他更担心的是长期债券收益率，因为大量人工智能投资和政府借贷争夺资本。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[野村证券：尽管企业利润创历史新高，日本股市仍面临避险压力]]></title>
@@ -44,25 +73,18 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5</guid>
-            <pubDate>Sat, 05 Sep 2026 15:28:31 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Hidden Cost of America’s Bureaucracy]]></title>
+            <title><![CDATA[美国官僚主义的隐性成本]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/the-hidden-cost-of-america-s-bureaucracy-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/the-hidden-cost-of-america-s-bureaucracy-video</guid>
             <pubDate>Sat, 05 Sep 2026 15:15:03 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] In her new book The Time Tax, Atlantic staff writer Annie Lowrey examines how paperwork, delays and administrative hurdles consume Americans’ time and can make government benefits and services harder to access. Joining Christina Ruffini and Jeff Mason on Bloomberg This Weekend, Lowrey argues those burdens fall disproportionately on lower-income Americans and says simpler applications, better data sharing and streamlined tax filing could help reduce the cost. (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] 《大西洋月刊》特约撰稿人安妮·劳瑞 (Annie Lowrey) 在她的新书《时间税》中探讨了文书工作、延误和行政障碍如何消耗美国人的时间，并使政府福利和服务更难获得。 本周末，洛瑞与克里斯蒂娜·鲁菲尼和杰夫·梅森一起在彭博社上发表讲话，认为这些负担不成比例地落在低收入美国人身上，并表示更简单的申请、更好的数据共享和简化的纳税申报可能有助于降低成本。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal - Reuters]]></title>
+            <title><![CDATA[因洗钱受到美国调查的委内瑞拉亿万富翁现已与五角大楼达成石油协议 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5</guid>
             <pubDate>Sat, 05 Sep 2026 15:08:05 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 因洗钱而受到美国调查的委内瑞拉亿万富翁现已与五角大楼达成石油协议 路透]]></description>
         </item>
         <item>
             <title><![CDATA[“他胡说！”海银系诈骗案庭审现场：韩宏伟父子互指，实控权陷罗生门，650亿本金未兑付]]></title>
@@ -79,25 +101,25 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[US Strikes Iranian Tankers After Attack on US Warships]]></title>
+            <title><![CDATA[美国军舰遇袭后，美国对伊朗油轮进行打击]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/us-strikes-iranian-tankers-after-attack-on-us-warships-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/us-strikes-iranian-tankers-after-attack-on-us-warships-video</guid>
             <pubDate>Sat, 05 Sep 2026 14:34:22 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Bloomberg This Weekend has breaking news that US forces struck three Iranian crude carriers after the Islamic Revolutionary Guard Corps launched ballistic missiles toward two US Navy warships, according to US Central Command. The renewed fighting around the Strait of Hormuz adds pressure to shipping and energy markets as President Donald Trump continues to downplay the conflict as something short of war. (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] 据美国中央司令部称，在伊斯兰革命卫队向两艘美国海军军舰发射弹道导弹后，美国军队击中了三艘伊朗原油运输船。 霍尔木兹海峡周围的新一轮战斗给航运和能源市场带来了压力，唐纳德·特朗普总统继续淡化这场冲突，称其并非战争。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[Esper Raises Concern Over Pentagon Leadership Loss]]></title>
+            <title><![CDATA[埃斯珀对五角大楼领导权丧失表示担忧]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/esper-raises-concern-over-pentagon-leadership-loss-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/esper-raises-concern-over-pentagon-leadership-loss-video</guid>
             <pubDate>Sat, 05 Sep 2026 14:26:07 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] On Bloomberg This Weekend Former Defense Secretary Mark Esper calls the Pentagon’s polygraph testing of roughly 50 Joint Staff members unprecedented in scale as officials investigate leaks about US munitions stocks. Esper tells hosts Christina Ruffini and Jeff Mason that he is less concerned about immediate combat readiness than the institutional impact of leadership turnover and its potential effect on the military’s tradition of an apolitical officer corps. (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] 本周末，前国防部长马克·埃斯珀 (Mark Esper) 在彭博社上称，随着官员们调查美国弹药库存泄露事件，五角大楼对大约 50 名联合参谋部成员进行的测谎仪测试规模前所未有。 埃斯珀告诉主持人克里斯蒂娜·鲁菲尼和杰夫·梅森，他更关心的是领导层更替的制度影响及其对军队非政治军官团传统的潜在影响，而不是立即的战备状态。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[EU Envoy Urges Maximum Pressure on Russia]]></title>
+            <title><![CDATA[欧盟特使敦促对俄罗斯施加最大压力]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/eu-envoy-urges-maximum-pressure-on-russia-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/eu-envoy-urges-maximum-pressure-on-russia-video</guid>
             <pubDate>Sat, 05 Sep 2026 13:55:08 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] EU Ambassador to the United States Jovita Neliupšienė joins Bloomberg This Weekend and discusses with hosts Christina Ruffini and Jeff Mason that Europe must keep supporting Ukraine while applying “maximum pressure” on Moscow because Russia has not changed its war aims. The comments come as US envoys Steve Witkoff and Jared Kushner visit Moscow before heading to Kyiv in an effort to revive stalled peace negotiations. (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] 欧盟驻美国大使乔维塔·内柳普希恩本周末加入彭博社，与主持人克里斯蒂娜·鲁菲尼和杰夫·梅森讨论，欧洲必须继续支持乌克兰，同时对莫斯科施加“最大压力”，因为俄罗斯没有改变其战争目标。 此番言论发表之际，美国特使史蒂夫·威特科夫和贾里德·库什纳访问了莫斯科，然后前往基辅，试图恢复陷入僵局的和平谈判。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[美国电力基础设施扩张或难以跟上需求增长步伐，Barclays发出警告]]></title>
@@ -107,32 +129,32 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[By The Way: Headlines You Should See]]></title>
+            <title><![CDATA[顺便说一句：你应该看到的头条新闻]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/by-the-way-headlines-you-should-see-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/by-the-way-headlines-you-should-see-video</guid>
             <pubDate>Sat, 05 Sep 2026 13:20:13 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Canned cocktails, the science behind the Gen Z stare and the US Open becoming a food fest: Join Bloomberg's Lisa Mateo, Christina Ruffini and Jeff Mason to hear about the headlines from this week you may have missed but need to check out. Watch, on Bloomberg This Weekend! Live Saturday and Sunday, 7am - 10am EST on Bloomberg.com  (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] 罐装鸡尾酒、Z 世代目光背后的科学以及美国公开赛成为一场美食盛宴：与彭博社的 Lisa Mateo、Christina Ruffini 和 Jeff Mason 一起了解本周您可能错过但需要查看的头条新闻。 本周末请在彭博社观看！ 美国东部时间周六和周日上午 7 点至上午 10 点在 Bloomberg.com 上直播（来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[Tens of thousands rally in Zagreb over Croatia waste cleanup delays - Reuters]]></title>
+            <title><![CDATA[克罗地亚垃圾清理延误，数万人在萨格勒布集会 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5mNklNMTV1TW8zNUtJbFZldzFiUURfTzN6alhRLWRpMm1fbnV0ckE3V0hodnJBRHo4bDJ4YzVyTENYQjdaQnlFMXg2ZGx5dk16R21YNkZBWmxQUU02QmprWFRVMzlXYjQyQTBnN3VpajNSWk1QbndFc0JEbzZIcldfb1hwejhCTkNGTDF1OW9VU05MYVNBZ0UtTDNrU2EwYWhEb0hxM3BqcFZFQnR5b3pmMzJndGR6eWc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5mNklNMTV1TW8zNUtJbFZldzFiUURfTzN6alhRLWRpMm1fbnV0ckE3V0hodnJBRHo4bDJ4YzVyTENYQjdaQnlFMXg2ZGx5dk16R21YNkZBWmxQUU02QmprWFRVMzlXYjQyQTBnN3VpajNSWk1QbndFc0JEbzZIcldfb1hwejhCTkNGTDF1OW9VU05MYVNBZ0UtTDNrU2EwYWhEb0hxM3BqcFZFQnR5b3pmMzJndGR6eWc?oc=5</guid>
             <pubDate>Sat, 05 Sep 2026 12:53:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Tens of thousands rally in Zagreb over Croatia waste cleanup delays  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 克罗地亚垃圾清理延误，数万人在萨格勒布集会 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[AI May Transform How Humans Understand Animals]]></title>
+            <title><![CDATA[人工智能可能会改变人类理解动物的方式]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video</guid>
             <pubDate>Sat, 05 Sep 2026 12:46:10 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Researchers are using AI to analyze vast collections of animal vocalizations, looking for patterns that could help humans better understand how species such as crows communicate. Bloomberg Weekend Senior Writer Morgan Meaker is on Bloomberg This Weekend and says the technology could reshape humans’ relationship with animals, but researchers warn it also raises ethical questions about privacy, exploitation and how those discoveries might be used. (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] 研究人员正在使用人工智能来分析大量动物发声，寻找可以帮助人类更好地理解乌鸦等物种如何交流的模式。 彭博周末高级撰稿人摩根·米克在《彭博周末》上表示，这项技术可以重塑人类与动物的关系，但研究人员警告说，它也引发了有关隐私、剥削以及如何使用这些发现的道德问题。  （来源：彭博社）]]></description>
         </item>
         <item>
-            <title><![CDATA[Singapore Government Won’t Interfere in Decisions on Air India]]></title>
+            <title><![CDATA[新加坡政府不会干预印度航空的决定]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-09-05/singapore-government-won-t-interfere-in-decisions-on-air-india</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-05/singapore-government-won-t-interfere-in-decisions-on-air-india</guid>
             <pubDate>Sat, 05 Sep 2026 12:45:15 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] The Singapore government said it will not interfere in any decision that Singapore Airlines Ltd. makes in Air India Ltd., which is said to be seeking financial aid from its shareholders.]]></description>
+            <description><![CDATA[[Bloomberg] 新加坡政府表示，不会干预新加坡航空对印度航空的任何决定，据称该公司正在向其股东寻求财务援助。]]></description>
         </item>
         <item>
             <title><![CDATA[富士康预计第三季度业绩将超市场预期，AI需求持续强劲]]></title>
@@ -142,11 +164,18 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[Energy Markets Strained by Iran, Ukraine Wars]]></title>
+            <title><![CDATA[AI芯片撑起半壁江山，韩国今年出口剑指万亿美元！ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oOVdHZzFRMGRPRXdjY3ZSLUhtS2tuSU1vQlYxaDNQVlpOdy1BMEFfV2xMYVYxdlh1QzlJRF9rcmxKNWRCQ2JERTJBTXQ4MFMtZVEw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oOVdHZzFRMGRPRXdjY3ZSLUhtS2tuSU1vQlYxaDNQVlpOdy1BMEFfV2xMYVYxdlh1QzlJRF9rcmxKNWRCQ2JERTJBTXQ4MFMtZVEw?oc=5</guid>
+            <pubDate>Sat, 05 Sep 2026 11:54:35 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] AI芯片撑起半壁江山，韩国今年出口剑指万亿美元！  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[能源市场因伊朗和乌克兰战争而紧张]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/energy-markets-strained-by-iran-ukraine-wars-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/energy-markets-strained-by-iran-ukraine-wars-video</guid>
             <pubDate>Sat, 05 Sep 2026 11:54:03 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Renewed US-Iran fighting and uncertainty over shipping through the Strait of Hormuz are adding pressure to global energy markets, while the threat of mines continues to deter some traffic. Ukraine’s attacks on Russian refineries are compounding tight diesel supplies, creating what Bloomberg News Oil Products Reporter Will Kubzansky describes as a distillates crisis heading into peak demand season. Also joining Bloomberg This Weekend to discuss the situation is Bloomberg News Middle East Correspondent Abeer Abu Omar. (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] 美国与伊朗的新一轮战斗以及霍尔木兹海峡航运的不确定性给全球能源市场带来了更大的压力，而地雷的威胁继续阻碍了一些交通。 乌克兰对俄罗斯炼油厂的袭击加剧了柴油供应紧张，彭博新闻石油产品记者威尔·库布赞斯基(Will Kubzansky)将其描述为即将进入需求旺季的馏分油危机。 彭博新闻社中东记者阿比尔·阿布·奥马尔也在本周末加入彭博社讨论这一情况。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[花旗将美联储降息预测推迟至2027年6月，就业市场表现强劲]]></title>
@@ -156,11 +185,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[How Women Are Shaping Drag Racing]]></title>
+            <title><![CDATA[女性如何塑造直线加速赛]]></title>
             <link>https://www.bloomberg.com/news/videos/2026-09-05/opinion-how-women-are-shaping-drag-racing-video</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-09-05/opinion-how-women-are-shaping-drag-racing-video</guid>
             <pubDate>Sat, 05 Sep 2026 11:31:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Drag racing has outpaced Formula 1, NASCAR and IndyCar on inclusivity, offering a model for sports that still treat women competing at the highest level as a novelty, Bloomberg Opinion columnist Adam Minter says. (Source: Bloomberg)]]></description>
+            <description><![CDATA[[Bloomberg] 彭博社观点专栏作家亚当·明特 (Adam Minter) 表示，直线加速赛在包容性方面超越了一级方程式赛车、纳斯卡赛车和印地赛车，为仍将女性参加最高水平比赛视为新鲜事物的运动提供了一种模式。  （来源：彭博社）]]></description>
         </item>
         <item>
             <title><![CDATA[债券收益率何时会对股市构成更大威胁？]]></title>
@@ -184,25 +213,11 @@
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[“很紧张，汗都出来了！”直击2025年国家医保谈判首日：中药企业打头阵]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3553585</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3553585</guid>
-            <pubDate>Sat, 05 Sep 2026 10:06:02 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
-        </item>
-        <item>
             <title><![CDATA[OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛” - 华尔街见闻]]></title>
             <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URmwzWXBoSFBEbHRHOTY2OFcwbjNmMkJ3RWtUNmxHVnYyQUxuM3pRdlotME9GNUNmbXExanh5UEJHczBMRVJ2d3JPdkgzb09GMXpR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URmwzWXBoSFBEbHRHOTY2OFcwbjNmMkJ3RWtUNmxHVnYyQUxuM3pRdlotME9GNUNmbXExanh5UEJHczBMRVJ2d3JPdkgzb09GMXpR?oc=5</guid>
             <pubDate>Sat, 05 Sep 2026 09:55:47 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的” - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE53YkUyYmlrYk5YSnI4NTRBWDlpV0FNX1Q1M2k3WS1ERWVqMnR1XzNEbDgtLVJkTWViVE9DWU1zYUN1eUJNTUtuWGpaNnNrTmt0S2xj?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE53YkUyYmlrYk5YSnI4NTRBWDlpV0FNX1Q1M2k3WS1ERWVqMnR1XzNEbDgtLVJkTWViVE9DWU1zYUN1eUJNTUtuWGpaNnNrTmt0S2xj?oc=5</guid>
-            <pubDate>Sat, 05 Sep 2026 09:25:04 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[亚洲疯狂扫货 ，迪拜油价逼近100美元 - 华尔街见闻]]></title>
@@ -212,18 +227,18 @@
             <description><![CDATA[[华尔街见闻] 亚洲疯狂扫货 ，迪拜油价逼近100美元  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Leonardo CEO Mariani Sees Ukraine Unit as Acquisition Outpost]]></title>
+            <title><![CDATA[莱昂纳多首席执行官马里亚尼将乌克兰部门视为收购前哨]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-09-05/leonardo-ceo-mariani-sees-ukraine-unit-as-acquisition-outpost</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-05/leonardo-ceo-mariani-sees-ukraine-unit-as-acquisition-outpost</guid>
             <pubDate>Sat, 05 Sep 2026 08:09:45 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Leonardo SpA, the Italian state-controlled defense company, is aiming to deepen ties with Ukraine’s fast-growing military-technology sector through its new Kyiv unit, seeking partnership, investment or acquisition opportunities, Chief Executive Officer Lorenzo Mariani said.]]></description>
+            <description><![CDATA[[Bloomberg] 意大利国有国防公司Leonardo SpA首席执行官洛伦佐·马里亚尼(Lorenzo Mariani)表示，该公司旨在通过其新的基辅子公司加深与乌克兰快速增长的军事技术部门的联系，寻求合作、投资或收购机会。]]></description>
         </item>
         <item>
-            <title><![CDATA[Philippines’ VP Duterte Posts Bail, Says She Fears for Her Life]]></title>
+            <title><![CDATA[菲律宾副总统杜特尔特已保释，称她担心自己的生命安全]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-09-05/philippines-vp-duterte-posts-bail-says-she-fears-for-her-life</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-05/philippines-vp-duterte-posts-bail-says-she-fears-for-her-life</guid>
             <pubDate>Sat, 05 Sep 2026 08:03:53 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Philippine Vice President Sara Duterte posted bail for a criminal case accusing her of threatening to kill President Ferdinand Marcos Jr. She said she fears for her own life.]]></description>
+            <description><![CDATA[[Bloomberg] 菲律宾副总统萨拉·杜特尔特因一项刑事案件获得保释，指控她威胁要杀死小费迪南德·马科斯总统。她说她担心自己的生命安全。]]></description>
         </item>
         <item>
             <title><![CDATA[AI服务器需求强劲，鸿海8月营收同比飙升52%，创历年同期新高 - 华尔街见闻]]></title>
@@ -233,11 +248,11 @@
             <description><![CDATA[[华尔街见闻] AI服务器需求强劲，鸿海8月营收同比飙升52%，创历年同期新高  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Europe’s Wealth Managers Are Turning Their Backs on Stock Rally]]></title>
+            <title><![CDATA[欧洲财富管理机构不再理会股市上涨]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-09-05/europe-s-wealth-managers-are-turning-their-backs-on-stock-rally</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-05/europe-s-wealth-managers-are-turning-their-backs-on-stock-rally</guid>
             <pubDate>Sat, 05 Sep 2026 08:00:00 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] More European wealth managers have turned pessimistic on the region’s stocks, taking the view that this year’s rally is likely to falter while markets in the US and developing countries power ahead.]]></description>
+            <description><![CDATA[[Bloomberg] 越来越多的欧洲财富管理机构对该地区股市持悲观态度，他们认为今年的涨势可能会放缓，而美国和发展中国家的市场将强劲增长。]]></description>
         </item>
         <item>
             <title><![CDATA[AI下一轮赢家浮现？PIMCO避开美股巨头，重押亚洲“卖铲人” - 华尔街见闻]]></title>
@@ -254,32 +269,25 @@
             <description><![CDATA[[华尔街见闻] 日元反转能走多远？高盛：结构性修复“刚刚启动”，美银预测年底升至149  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[刚刚，GPT-6 Astra全量开放！ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYRlUwQVNoMjYtdnhjZldqTFdNQXpqaEd4RVByU0lEQWViamo5RjFxempKZUVoODdoQVZaNWpGeXN5ZHVxWUJjNFlodl9HY1BXb0tj?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYRlUwQVNoMjYtdnhjZldqTFdNQXpqaEd4RVByU0lEQWViamo5RjFxempKZUVoODdoQVZaNWpGeXN5ZHVxWUJjNFlodl9HY1BXb0tj?oc=5</guid>
-            <pubDate>Sat, 05 Sep 2026 05:29:02 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 刚刚，GPT-6 Astra全量开放！  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia’s PAS Party Wants Nationwide Gambling License Review]]></title>
+            <title><![CDATA[马来西亚回教党希望审查全国赌博许可证]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-09-05/malaysia-s-pas-party-wants-nationwide-gambling-license-review</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-05/malaysia-s-pas-party-wants-nationwide-gambling-license-review</guid>
             <pubDate>Sat, 05 Sep 2026 05:25:55 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Parti Islam Se-Malaysia, which leads the country’s main opposition bloc, said the government should review existing gambling licenses and stop giving new ones, its latest effort to curb social ills.]]></description>
+            <description><![CDATA[[Bloomberg] 领导该国主要反对派的马来西亚伊斯兰党表示，政府应审查现有的赌博许可证并停止发放新许可证，这是遏制社会弊病的最新努力。]]></description>
         </item>
         <item>
-            <title><![CDATA[Sydney sweats in spring hot spell, faces 'extreme' bushfire risk - Reuters]]></title>
+            <title><![CDATA[悉尼春季炎热出汗，面临“极端”丛林火灾风险 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjQzNmx1SGFvdFgtRWIxalFtQThELXZtck54UUFGRXFyT1plUTFDc05sMk5XdXdnZUNfRHhHY215TUxvX3VYbFdqSUJ6ZDgxNF85S21RRFM3aVhTa09uWHV1RHgzWGdDeUI2eVVYRF8xZGloRGN0VTU1aWhaMzFQLWZURVpYcll4QmpZVklSRm54MWxFdUpBckR0dHJZb1RIUUxRTmlwcWpxTmpxTmlyS21LVlc0dw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjQzNmx1SGFvdFgtRWIxalFtQThELXZtck54UUFGRXFyT1plUTFDc05sMk5XdXdnZUNfRHhHY215TUxvX3VYbFdqSUJ6ZDgxNF85S21RRFM3aVhTa09uWHV1RHgzWGdDeUI2eVVYRF8xZGloRGN0VTU1aWhaMzFQLWZURVpYcll4QmpZVklSRm54MWxFdUpBckR0dHJZb1RIUUxRTmlwcWpxTmpxTmlyS21LVlc0dw?oc=5</guid>
             <pubDate>Sat, 05 Sep 2026 03:19:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Sydney sweats in spring hot spell, faces 'extreme' bushfire risk  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 悉尼春季炎热出汗，面临“极端”丛林火灾风险 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[HK’s Lee Says City to Expand Offshore Yuan Usage in 5-Year Plan]]></title>
+            <title><![CDATA[香港李氏表示，香港将在五年计划中扩大离岸人民币的使用]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-05/hk-s-lee-says-city-to-expand-offshore-yuan-usage-in-5-year-plan</guid>
             <pubDate>Sat, 05 Sep 2026 02:45:07 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Hong Kong Chief Executive John Lee said the city’s first five-year plan will focus on areas including expanding offshore yuan usage and cross-border investment with the mainland.]]></description>
+            <description><![CDATA[[Bloomberg] 香港行政长官李家超表示，香港第一个五年计划将重点关注扩大离岸人民币使用和与内地跨境投资等领域。]]></description>
         </item>
         <item>
             <title><![CDATA[加拿大对美出口份额跌至66.3%，创1997年以来新低 - 华尔街见闻]]></title>
@@ -289,11 +297,11 @@
             <description><![CDATA[[华尔街见闻] 加拿大对美出口份额跌至66.3%，创1997年以来新低  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Workers across all sectors are switching jobs about as infrequently as they were in the years when the job market was still clawing its way back from the 2008-09 financial crisis]]></title>
+            <title><![CDATA[各行各业的工人更换工作的频率与就业市场仍在从 2008-09 年金融危机中恢复过来的那些年一样频繁]]></title>
             <link>https://www.wsj.com/economy/jobs/american-workers-have-slammed-the-brakes-on-switching-jobs-767c45d1?mod=rss_socialeconomyfeed</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/jobs/american-workers-have-slammed-the-brakes-on-switching-jobs-767c45d1?mod=rss_socialeconomyfeed</guid>
             <pubDate>Sat, 05 Sep 2026 01:00:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] The country is adding around 80,000 new jobs a month, an improvement from last year, but workers are still wary of job hopping.]]></description>
+            <description><![CDATA[[WSJ] 该国每月新增约8万个就业岗位，比去年有所改善，但工人们仍对跳槽持谨慎态度。]]></description>
         </item>
         <item>
             <title><![CDATA[美国非农意外强劲，9月加息概率升至约60%，市场紧盯下周CPI - 华尔街见闻]]></title>
@@ -303,11 +311,11 @@
             <description><![CDATA[[华尔街见闻] 美国非农意外强劲，9月加息概率升至约60%，市场紧盯下周CPI  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Novartis, Ionis' experimental heart drug misses key goal in closely watched trial - Reuters]]></title>
+            <title><![CDATA[诺华 (Novartis) 和 Ionis 的实验性心脏药物在密切关注的试验中未能达到关键目标 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUxoV0pmRFpRcnNRQm1TU1N0YXF1RDE2RXp1RWE2NXF6UGJqU1hRYzFLMlhPRi1FZVotdTJjU0xsMVpoMnU2ZXM5UVlQbmFfYy16NGswZzJJUjNjUEJ3MVlfaUVFUU03OVpCblBmVUpEeUhFQkdWUnhjTWI5alBpa0c0cXRVQjE1QjFTQWZDTzh4cW11TEhURC12N0M5VU5pRWNyTUZYY3pxV3lqOG1jY2d5UEYycTlKLXJ6dWRodUttQWZVY194elJkNGJMNGpjem1v?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUxoV0pmRFpRcnNRQm1TU1N0YXF1RDE2RXp1RWE2NXF6UGJqU1hRYzFLMlhPRi1FZVotdTJjU0xsMVpoMnU2ZXM5UVlQbmFfYy16NGswZzJJUjNjUEJ3MVlfaUVFUU03OVpCblBmVUpEeUhFQkdWUnhjTWI5alBpa0c0cXRVQjE1QjFTQWZDTzh4cW11TEhURC12N0M5VU5pRWNyTUZYY3pxV3lqOG1jY2d5UEYycTlKLXJ6dWRodUttQWZVY194elJkNGJMNGpjem1v?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 23:30:12 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Novartis, Ionis' experimental heart drug misses key goal in closely watched trial  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 诺华 (Novartis) 和 Ionis 的实验性心脏药物在密切关注的试验中未能达到关键目标 路透]]></description>
         </item>
         <item>
             <title><![CDATA[Lululemon创始人离婚，或引发10亿美元股权变动 - 华尔街见闻]]></title>
@@ -317,39 +325,39 @@
             <description><![CDATA[[华尔街见闻] Lululemon创始人离婚，或引发10亿美元股权变动  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Wall Street ends lower as solid jobs data fuels hawkish Fed bets - Reuters]]></title>
+            <title><![CDATA[强劲的就业数据助长美联储鹰派押注，华尔街股市收低 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 22:57:36 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Wall Street ends lower as solid jobs data fuels hawkish Fed bets  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 由于强劲的就业数据助长美联储鹰派押注，华尔街收低 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report - Reuters]]></title>
+            <title><![CDATA[美国就业报告强劲 花旗集团将美联储降息预期推迟至2027年 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnlBSDN4T3YxTDREQ3A2YnFhZ1lUN2E2dm1tZmxjb0tLaHFLUlFSN3NOdERlUFM0ZjBXZUhYOU54T2tKeU5saXBLWjk3dDZxTHl0ZXIxem40LU80bVE1V1ZwYVdUalhtMmVtSGtpRVFCX3F5NVpuUWlOR3o3UDZjcVBVd3N1SFBoR2NIT040R3VGX2xzZm91cVZEQ1JndFFoT3JqdzZWWl9PR2s0OGp2RWVsUUJteGM?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQQnlBSDN4T3YxTDREQ3A2YnFhZ1lUN2E2dm1tZmxjb0tLaHFLUlFSN3NOdERlUFM0ZjBXZUhYOU54T2tKeU5saXBLWjk3dDZxTHl0ZXIxem40LU80bVE1V1ZwYVdUalhtMmVtSGtpRVFCX3F5NVpuUWlOR3o3UDZjcVBVd3N1SFBoR2NIT040R3VGX2xzZm91cVZEQ1JndFFoT3JqdzZWWl9PR2s0OGp2RWVsUUJteGM?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 22:49:54 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 美国就业报告强劲后，花旗集团将美联储降息预期推迟至 2027 年 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[EXCLUSIVE: China's Xi seeks to bring large CEO delegation on US visit, sources say - Reuters]]></title>
+            <title><![CDATA[独家：消息人士称，中国习近平寻求率领大型首席执行官代表团访美 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxONFEycUQtWHlNWVlNdHl2S2JKX2pmMDRUYmp5V1dVN2xnWkdnOVQ2QW1VM2ZRSEdCdElaRTQ1cGlGMDkxV25PYWRfVEJJWllCRjBIVzYwZ1JjMGotd2t0YzRQQ1huRG9CNnpraXVsakw1clltekpVU1czZm9VQUhVQ3R3N2NSdEc1LTJqYWlsa3p2UGh3dWZHU0F0ek5CbEdQTUhUdGc4dVplVG5YYUxKV0xoQU9UdU9GUEZOS0dJTFZKUzg1RHRR?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxONFEycUQtWHlNWVlNdHl2S2JKX2pmMDRUYmp5V1dVN2xnWkdnOVQ2QW1VM2ZRSEdCdElaRTQ1cGlGMDkxV25PYWRfVEJJWllCRjBIVzYwZ1JjMGotd2t0YzRQQ1huRG9CNnpraXVsakw1clltekpVU1czZm9VQUhVQ3R3N2NSdEc1LTJqYWlsa3p2UGh3dWZHU0F0ek5CbEdQTUhUdGc4dVplVG5YYUxKV0xoQU9UdU9GUEZOS0dJTFZKUzg1RHRR?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 22:45:21 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] EXCLUSIVE: China's Xi seeks to bring large CEO delegation on US visit, sources say  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 独家：消息人士称，中国习近平寻求率领大型首席执行官代表团访美 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Starbucks anti-unionization case brought by NLRB narrowed by US appeals court - Reuters]]></title>
+            <title><![CDATA[美国上诉法院缩小了国家劳工委员会提起的星巴克反工会案 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3V6NlZHMGcteU5rR0s2Mng2Y3QxdnpvRkpyOUxUTE9yODdydkVSd1VMeW9sNzhaUE12RmRiSkRxV0hMeFAyWUdURGVVYXpGVlFMRWVVTWJnanRsOEliaTRpMk9qQkVoaFlfM005dk5RQ3FNLUR1LUZfYVoxb0s4aVFUYWllaC1WN2FudVlkVTIxcVB6Q1RRbkNvZG5FdzVURVllVXoxWGV2a0R4YTYzelhPZFh6dWc2YVRnV2tob0RGQlk4cEhQZ3RNc3NKZTlldHc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3V6NlZHMGcteU5rR0s2Mng2Y3QxdnpvRkpyOUxUTE9yODdydkVSd1VMeW9sNzhaUE12RmRiSkRxV0hMeFAyWUdURGVVYXpGVlFMRWVVTWJnanRsOEliaTRpMk9qQkVoaFlfM005dk5RQ3FNLUR1LUZfYVoxb0s4aVFUYWllaC1WN2FudVlkVTIxcVB6Q1RRbkNvZG5FdzVURVllVXoxWGV2a0R4YTYzelhPZFh6dWc2YVRnV2tob0RGQlk4cEhQZ3RNc3NKZTlldHc?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 22:42:47 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Starbucks anti-unionization case brought by NLRB narrowed by US appeals court  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 美国上诉法院缩小了 NLRB 提起的​​星巴克反工会案件的范围 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Wall St Week Ahead Investors to pore over inflation data for signals on rate trajectory - Reuters]]></title>
+            <title><![CDATA[华尔街未来一周投资者将仔细研究通胀数据以获取利率轨迹信号 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOSm4tQk9RbVZZMU1qVTF1Z3hxMmlDUjZwby1vWTlJdUstalo4WGdNVFB1UTZhMlhmZjRKN2pZcTNsLUlTWGZJYzJWTXpqODV3WU9xVjJaNkNramNSa25ROW1NU3ZnMm1Ma3ZidFQxQWhrODM4VFFkV2lsRzEzcTNhRnl4R3pOc0FCbEFmRHNLYlU3bFpTTWN2X0k2dDZsUnpyaWVVZzEwWTBjNnNwbHUtd2tNLVJ1Mm9TazhrZENISQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOSm4tQk9RbVZZMU1qVTF1Z3hxMmlDUjZwby1vWTlJdUstalo4WGdNVFB1UTZhMlhmZjRKN2pZcTNsLUlTWGZJYzJWTXpqODV3WU9xVjJaNkNramNSa25ROW1NU3ZnMm1Ma3ZidFQxQWhrODM4VFFkV2lsRzEzcTNhRnl4R3pOc0FCbEFmRHNLYlU3bFpTTWN2X0k2dDZsUnpyaWVVZzEwWTBjNnNwbHUtd2tNLVJ1Mm9TazhrZENISQ?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 22:27:01 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Wall St Week Ahead Investors to pore over inflation data for signals on rate trajectory  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 华尔街未来一周投资者将仔细研究通胀数据以获取利率轨迹信号 路透]]></description>
         </item>
         <item>
             <title><![CDATA[非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1% - 华尔街见闻]]></title>
@@ -359,11 +367,11 @@
             <description><![CDATA[[华尔街见闻] 非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Bloom Energy, Illumina, Everpure to Join S&P 500 This Month]]></title>
+            <title><![CDATA[Bloom Energy、Illumina、Everpure 将于本月加入标准普尔 500 指数]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-04/bloom-energy-illumina-everpure-to-join-s-p-500-in-september</guid>
             <pubDate>Fri, 04 Sep 2026 21:43:05 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Bloom Energy Corp., Illumina Inc. and Everpure Inc. will join the S&P 500 in the latest quarterly rebalance, S&P Dow Jones Indices said Friday.]]></description>
+            <description><![CDATA[[Bloomberg] 标准普尔道琼斯指数周五表示，Bloom Energy Corp.、Illumina Inc. 和 Everpure Inc. 将在最新的季度调整中加入标准普尔 500 指数。]]></description>
         </item>
         <item>
             <title><![CDATA[标普罕见拉响AI基建信用警报：7万亿美元资本开支黑洞逼近，科技巨头债务可持续性遭拷问 - 华尔街见闻]]></title>
@@ -373,53 +381,39 @@
             <description><![CDATA[[华尔街见闻] 标普罕见拉响AI基建信用警报：7万亿美元资本开支黑洞逼近，科技巨头债务可持续性遭拷问  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Acuerdo de Trump con Venezuela inquieta a petroleras de EE.UU.]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-09-04/acuerdo-de-trump-en-venezuela-inquieta-a-ejecutivos-petroleros-de-ee-uu</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-04/acuerdo-de-trump-en-venezuela-inquieta-a-ejecutivos-petroleros-de-ee-uu</guid>
-            <pubDate>Fri, 04 Sep 2026 20:52:08 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] El presidente Donald Trump se ha jactado de que su amplio acuerdo petrolero con Venezuela, que en la práctica da a Estados Unidos control sobre gran parte de la riqueza petrolera del país, es posiblemente “el mejor acuerdo jamás firmado”.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Italy's Eni doubles down in Venezuela with rising hope of recovering debt - Reuters]]></title>
+            <title><![CDATA[意大利埃尼集团加大在委内瑞拉的投资力度，收回债务的希望越来越大 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0RwVy01bkRiaG1mWDcwVURKRXhINUlmSTYxelU0M0RUSkptTFBwVF9TV20xZzZUVnhmQURYanp5QmY4d2pOUmZYdVAzQmlvR0JIVlZDWnE0ZTJEdENyYTVDdmxTZzFON2pDdjdMU1pDYWRTbTJaTXRXaVE1ZWJkbk9BRS1ET3lDeGpBd2dDV1VIcTdOcDM3ekNqMXdMeXptTE14SDczWUVQRm56VEYycjRJN0t3bGFJakE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0RwVy01bkRiaG1mWDcwVURKRXhINUlmSTYxelU0M0RUSkptTFBwVF9TV20xZzZUVnhmQURYanp5QmY4d2pOUmZYdVAzQmlvR0JIVlZDWnE0ZTJEdENyYTVDdmxTZzFON2pDdjdMU1pDYWRTbTJaTXRXaVE1ZWJkbk9BRS1ET3lDeGpBd2dDV1VIcTdOcDM3ekNqMXdMeXptTE14SDczWUVQRm56VEYycjRJN0t3bGFJakE?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 20:45:45 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Italy's Eni doubles down in Venezuela with rising hope of recovering debt  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 意大利埃尼集团加大在委内瑞拉的投资力度，收回债务的希望越来越大 - 路透中文网]]></description>
         </item>
         <item>
-            <title><![CDATA[EXCLUSIVE: Nigeria's SEC approves about $1.6bn Dangote Refinery IPO - Reuters]]></title>
+            <title><![CDATA[卢特尼克将审查五角大楼涉及 Cerberus 公司的交易]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies</guid>
+            <pubDate>Fri, 04 Sep 2026 20:27:13 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] 据一位美国官员称，国防部已任命商务部长霍华德·卢特尼克负责审查五角大楼与 Cerberus Capital Management 相关公司之间的任何交易。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[独家：尼日利亚 SEC 批准丹格特炼油厂 IPO 规模约 16 亿美元 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2c4bVpDbjdaOUhkNDFPX1dxZm5DSFoxS01TZF84NXNySlpDZkRLZFpidVMyaHB4QmlrNEpaaFo4dDFiQWIzLXptV1UtZnNVdzlQRW5kcFR2U1RoOV9tYWZUVHJWaFZqRXIwSUFabHdEMmZrSUpsNXpXOG1NUDJ0eFBQc0xUUGdqX2hTZWdXNm4wLVhGMEI2bXlpNDdVd3RTZU51eUZ4a2pQb3ZQZ21VZm1qY2E?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 20:26:16 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] EXCLUSIVE: Nigeria's SEC approves about $1.6bn Dangote Refinery IPO  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 独家报道：尼日利亚 SEC 批准丹格特炼油厂 IPO 规模约 16 亿美元 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Wall Street Risk Complex Defies Rate Threat After Jobs Data]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-09-04/wall-street-risk-complex-defies-rate-threat-after-jobs-blowout</guid>
-            <pubDate>Fri, 04 Sep 2026 20:14:30 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] The global bond selloff is proving no wrecking ball for Wall Street, repricing the cost of money without setting off the usual scramble out of risk assets.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EXCLUSIVE: Trump's bid to shield chip supply chain could backfire in Tennessee - Reuters]]></title>
+            <title><![CDATA[独家报道：特朗普保护芯片供应链的努力可能会在田纳西州适得其反 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHFyWjB0QnNONEhxOUtDV3NaZW9vNmY3d3ZGSTVQQjdRWUM5Z2gtSDVtZzl0eFdoV19YSFExaC1oOWZSck1fR1JaUVRVWjRNOUtBUWd0d21yWk9KOUxOVmpORzBqbHhaUHRFTVZjMWFjSUlZc0UzMDJlRkx4Ym4xV2ZCTlZIWFlQN1hCU1owRkJCMm5CMUp6NHl3QnM3OHhwTkdLNnNQaTE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHFyWjB0QnNONEhxOUtDV3NaZW9vNmY3d3ZGSTVQQjdRWUM5Z2gtSDVtZzl0eFdoV19YSFExaC1oOWZSck1fR1JaUVRVWjRNOUtBUWd0d21yWk9KOUxOVmpORzBqbHhaUHRFTVZjMWFjSUlZc0UzMDJlRkx4Ym4xV2ZCTlZIWFlQN1hCU1owRkJCMm5CMUp6NHl3QnM3OHhwTkdLNnNQaTE?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 20:12:12 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] EXCLUSIVE: Trump's bid to shield chip supply chain could backfire in Tennessee  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 独家报道：特朗普保护芯片供应链的努力可能会在田纳西州适得其反 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[EXCLUSIVE: India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows - Reuters]]></title>
+            <title><![CDATA[独家：文件显示，印度将 Abhayrab 狂犬病疫苗批次标记为不合格，并调查是否虚假 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxOblRHcENyWFhQYWdMZEprSnBGbE5DQzJ1SlFvM3hfRkFscWJGc1g0LTItZXhKYkx5LW9PNVJTYzMtcmIyVC1IdHp0QktBanJEN3JxczUza0tERFBueGt6V2ZJblRrN3M2bVp5c2JzYzlxX1RlSGt1SmF3cHhRSUZjM0x6WVlZV3pZdl9uY3g5MElXdUR1RmZIcTNFWC1GQXRIZkVnOWNZQ0thajVpM3B5NXdCcGlwbW1Ba3B3eFQ1Ujhyd3JTYWtIX3VMVUUtT3R6a3dSanNnT3FibFRm?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxOblRHcENyWFhQYWdMZEprSnBGbE5DQzJ1SlFvM3hfRkFscWJGc1g0LTItZXhKYkx5LW9PNVJTYzMtcmIyVC1IdHp0QktBanJEN3JxczUza0tERFBueGt6V2ZJblRrN3M2bVp5c2JzYzlxX1RlSGt1SmF3cHhRSUZjM0x6WVlZV3pZdl9uY3g5MElXdUR1RmZIcTNFWC1GQXRIZkVnOWNZQ0thajVpM3B5NXdCcGlwbW1Ba3B3eFQ1Ujhyd3JTYWtIX3VMVUUtT3R6a3dSanNnT3FibFRm?oc=5</guid>
-            <pubDate>Fri, 04 Sep 2026 19:31:08 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] EXCLUSIVE: India flags Abhayrab rabies vaccine batch as substandard, probes if spurious, document shows  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lasers down 11 cartel drones along southern border, US military says - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPdHpIMFFvNXpkb09RdC13ZlBDekcxY0dpUFUzLVE0a2M5aTNtb3ViQm1VcWoyWGp3dHZfRFlIWTZ1T2lXZVBtbEJWNVdTbHFUZzVhcXdvb0ZfR01TMF94dzVud0xiUjV1ZkJnWUVCUTN4SThQcXBiVi1mblAyTVhHTlNqUUpwMlNZYVd6a3Vhd1Uyb3NNZF9HMlQ5Y2sxRjAzUDVuWERRcWNDTk5La3cxajhSUGFRdHEtcHdLV0ZkQ0tYbEpz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxPdHpIMFFvNXpkb09RdC13ZlBDekcxY0dpUFUzLVE0a2M5aTNtb3ViQm1VcWoyWGp3dHZfRFlIWTZ1T2lXZVBtbEJWNVdTbHFUZzVhcXdvb0ZfR01TMF94dzVud0xiUjV1ZkJnWUVCUTN4SThQcXBiVi1mblAyTVhHTlNqUUpwMlNZYVd6a3Vhd1Uyb3NNZF9HMlQ5Y2sxRjAzUDVuWERRcWNDTk5La3cxajhSUGFRdHEtcHdLV0ZkQ0tYbEpz?oc=5</guid>
-            <pubDate>Fri, 04 Sep 2026 19:30:51 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Lasers down 11 cartel drones along southern border, US military says  Reuters]]></description>
+            <pubDate>Fri, 04 Sep 2026 19:29:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 独家：文件显示，印度将 Abhayrab 狂犬病疫苗批次标记为不合格，并调查是否存在虚假情况 路透]]></description>
         </item>
         <item>
             <title><![CDATA[机构：全球DRAM第二季度市场规模环比增长55.9%，创历史新高 - 华尔街见闻]]></title>
@@ -429,74 +423,74 @@
             <description><![CDATA[[华尔街见闻] 机构：全球DRAM第二季度市场规模环比增长55.9%，创历史新高  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Stocks making the biggest moves midday: Sandisk, Tesla, Lululemon, Quanex, AMC & more]]></title>
+            <title><![CDATA[中午涨幅最大的股票：Sandisk、特斯拉、Lululemon、Quanex、AMC 等]]></title>
             <link>https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-midday-sndk-tsla-nx-amc.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-midday-sndk-tsla-nx-amc.html</guid>
             <pubDate>Fri, 04 Sep 2026 19:07:16 GMT</pubDate>
-            <description><![CDATA[[CNBC] These are the stocks posting the largest moves midday.]]></description>
+            <description><![CDATA[[CNBC] 这些是午盘涨幅最大的股票。]]></description>
         </item>
         <item>
-            <title><![CDATA[Colombia's Grupo Gilinski, Geopark sign deal to develop Venezuela oil field - Reuters]]></title>
+            <title><![CDATA[哥伦比亚Grupo Gilinski与地质公园签署开发委内瑞拉油田协议 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2h1VDhJWW5hUDNWYTk0UmVoYy0zQWN0MDlxX29zVk1adk14Smc4bS05RmNFNFY3TkFxdnM5cnh0Zy1zYVdERUV1R3o3WDZWOVljS2ZtdDdvS09qU1ZOdkhueGZuY2lKRzRMQkNjaWtHNjdyZVA5WGluc3BfMTFjUGRnaFBkQmphN2czd2NDTHVZeGVubmtVTTlheXhJZ1lMdWx3N0NTNVBQQmtiMl9peE5wNVhYQ1NPLUREdlJJWQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2h1VDhJWW5hUDNWYTk0UmVoYy0zQWN0MDlxX29zVk1adk14Smc4bS05RmNFNFY3TkFxdnM5cnh0Zy1zYVdERUV1R3o3WDZWOVljS2ZtdDdvS09qU1ZOdkhueGZuY2lKRzRMQkNjaWtHNjdyZVA5WGluc3BfMTFjUGRnaFBkQmphN2czd2NDTHVZeGVubmtVTTlheXhJZ1lMdWx3N0NTNVBQQmtiMl9peE5wNVhYQ1NPLUREdlJJWQ?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 19:04:10 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Colombia's Grupo Gilinski, Geopark sign deal to develop Venezuela oil field  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 哥伦比亚 Grupo Gilinski 地质公园签署开发委内瑞拉油田协议 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters]]></title>
+            <title><![CDATA[美国8月非农就业数据超出预期； 失业率稳定在4.1% - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 18:49:58 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 美国8月非农就业数据超出预期； 失业率稳定在 4.1% 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Tunisian police arrest prominent journalist Mohamed Yousfi - Reuters]]></title>
+            <title><![CDATA[突尼斯警方逮捕著名记者穆罕默德·尤斯菲 - 路透社]]></title>
             <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQVG5pTkp0QjBNU19oQWN3NTN1Y2JXVGQ0ZWVxUHZWdDlwbHh5bVh4Z2NNbVdaNUVNMmNvbERKd1haX242UHJVSlk1a25EOXk5SWpuVWpWay1XNmJvOHRIRGlQdWY1MmVsTjZYRmZ4YnJyM3VhS2Qzc1JyNnVmdnRycGF0RmJDV0xxWEJxSmVWaHowX204Q0d0YTI3dW5lRFhIalJJOEdiSVhiN2dZeldLeDBYZ2VVZTJYS05PVmRTQTlEZjRyMTJZ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixwFBVV95cUxQVG5pTkp0QjBNU19oQWN3NTN1Y2JXVGQ0ZWVxUHZWdDlwbHh5bVh4Z2NNbVdaNUVNMmNvbERKd1haX242UHJVSlk1a25EOXk5SWpuVWpWay1XNmJvOHRIRGlQdWY1MmVsTjZYRmZ4YnJyM3VhS2Qzc1JyNnVmdnRycGF0RmJDV0xxWEJxSmVWaHowX204Q0d0YTI3dW5lRFhIalJJOEdiSVhiN2dZeldLeDBYZ2VVZTJYS05PVmRTQTlEZjRyMTJZ?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 17:58:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Tunisian police arrest prominent journalist Mohamed Yousfi  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 突尼斯警方逮捕著名记者 Mohamed Yousfi 路透社]]></description>
         </item>
         <item>
-            <title><![CDATA[White House has vetted candidates for key CFTC vacancies, sources tell CNBC. It's unclear if they will be filled]]></title>
+            <title><![CDATA[消息人士告诉 CNBC，白宫已经审查了 CFTC 关键职位的候选人。 目前尚不清楚是否会被填补]]></title>
             <link>https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/09/04/white-house-has-vetted-candidates-for-key-cftc-vacancies-sources-tell-cnbc.html</guid>
             <pubDate>Fri, 04 Sep 2026 17:53:07 GMT</pubDate>
-            <description><![CDATA[[CNBC] Filling open commissioner positions at the regulatory agency has been a sticking point in negotiations over the Clarity Act.]]></description>
+            <description><![CDATA[[CNBC] 填补监管机构空缺的专员职位一直是《澄清法案》谈判的一个症结所在。]]></description>
         </item>
         <item>
-            <title><![CDATA[The U.S. added 162,000 jobs in August, the Labor Department said Friday, well ahead of expectations]]></title>
+            <title><![CDATA[美国劳工部周五表示，美国 8 月份新增就业岗位 162,000 个，远超预期]]></title>
             <link>https://www.wsj.com/economy/jobs/august-jobs-report-unemployment-c9da2f0c?mod=rss_socialeconomyfeed</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/jobs/august-jobs-report-unemployment-c9da2f0c?mod=rss_socialeconomyfeed</guid>
             <pubDate>Fri, 04 Sep 2026 17:48:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] The unemployment rate stayed at 4.1%, a historically low level that indicates the labor market remains generally healthy.]]></description>
+            <description><![CDATA[[WSJ] 失业率保持在4.1%的历史低位，表明劳动力市场总体健康。]]></description>
         </item>
         <item>
-            <title><![CDATA[Hollywood summer box office passes $4.6 billion, best performance since the pandemic - Reuters]]></title>
+            <title><![CDATA[好莱坞夏季票房突破 46 亿美元，创疫情以来最佳表现 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbVBXemdDZWpXdmFOUEZUT1lRc2Z0SVVPcmxVaU9hMzRyaEtVdmYzQ0RnOUtudEtUeEtqQWJfT21aR1c3N0dxRlRSZlJGcjN5UDhoN0NIMm5OZmJGWG1lTTlIX2NYN1NIMVVJMnh1VldGN3phR292cldUN3RxMVNzSnhSYXJBLXZ1NWR6MnN3TC1fWUpSZVoxMF9YcTdDNnlZcV9jeDhFWkZZYW1BTWFDSVkwV3Nib1Y4QWRWbUF0ZnhjVFhLSEpVYmpSTk13dm5K?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbVBXemdDZWpXdmFOUEZUT1lRc2Z0SVVPcmxVaU9hMzRyaEtVdmYzQ0RnOUtudEtUeEtqQWJfT21aR1c3N0dxRlRSZlJGcjN5UDhoN0NIMm5OZmJGWG1lTTlIX2NYN1NIMVVJMnh1VldGN3phR292cldUN3RxMVNzSnhSYXJBLXZ1NWR6MnN3TC1fWUpSZVoxMF9YcTdDNnlZcV9jeDhFWkZZYW1BTWFDSVkwV3Nib1Y4QWRWbUF0ZnhjVFhLSEpVYmpSTk13dm5K?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 17:22:16 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Hollywood summer box office passes $4.6 billion, best performance since the pandemic  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 好莱坞夏季票房突破 46 亿美元，创疫情以来最佳表现 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Proposed EU rules would curb Airbnb, short-term rental homes, draft shows - Reuters]]></title>
+            <title><![CDATA[草案显示，欧盟拟议规则将遏制 Airbnb、短期租赁房屋 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUVScTdyaVhCbnRjUF9PMXBVOVlEbkY3UHVmbU9SeXFoZjc2MWlkc3hFcEtlZEJONzI4UFV3dlktVGFubXlDdGlRZUhwakh5eFZCd2NvN216VzNscUNIU0hjcWpFUklwSmRRNHZYT0wwbjNIWVVlN3M3SExMVHBVS0pXV3RfcHpvM3AyTkRQcGVFZktaQWdxRWN3enRIMTktZTJoRkt6dkU4R3NVVHlDdzRuMVVSRzA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUVScTdyaVhCbnRjUF9PMXBVOVlEbkY3UHVmbU9SeXFoZjc2MWlkc3hFcEtlZEJONzI4UFV3dlktVGFubXlDdGlRZUhwakh5eFZCd2NvN216VzNscUNIU0hjcWpFUklwSmRRNHZYT0wwbjNIWVVlN3M3SExMVHBVS0pXV3RfcHpvM3AyTkRQcGVFZktaQWdxRWN3enRIMTktZTJoRkt6dkU4R3NVVHlDdzRuMVVSRzA?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 17:10:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Proposed EU rules would curb Airbnb, short-term rental homes, draft shows  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 草案显示，拟议的欧盟规则将限制 Airbnb、短期租赁房屋 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[US opens probe into Tesla self-certification of Cybercab robotaxis - Reuters]]></title>
+            <title><![CDATA[美国对特斯拉 Cyber​​cab 机器人出租车自我认证展开调查 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxQck1jNEdySTN3TlpYR2lwYnp5ZmdPSE1PSVU4bnMteVQyd1BQOE8xMm1ObU9kTWV1Z0tENlBXTjY0RVZINy1YNURVYldWMEUzTGx4STNPaG5zRjJMOWpzWFpJQy1RV2VpX0NvMmVFZ1kwdWhxeDlzV0R3a3NnbTN6Nmtod3AzZkk5eVdyYm1yNHU5M0JjczhQbnQ5eFlSMUZ4RFRoQUhTZzlGVG9yZGpMR01NTDZUVk01Y0FpaFhEdXI3YmtPeTlZd2dzS2syb1Zo?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 16:16:42 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] US opens probe into Tesla self-certification of Cybercab robotaxis  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 美国对特斯拉 Cyber​​cab 机器人出租车自我认证展开调查 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Ukraine sees growing appetite for talks on Russian frozen assets, senior official says - Reuters]]></title>
+            <title><![CDATA[乌克兰高级官员称，乌克兰对俄罗斯冻结资产谈判的兴趣日益浓厚 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPSW1wWkNmS0pCLXl1MmU0eHlOVEdYcFRtbnY1T2ZXWTlQZ0tfU0d5dnFvM2RIeFhCcDhUZlRzRVl0QzBkLUxQMHNuMjQtdVN2QkhQM1F6aEh6aTFISjdMSTZXUTJncE5FZmJpMXNrNjA4NGtXcGxGSVhsTFNYM3p1Y296VTMxdVltd0RHdnBTQzh0R2FyNm1DMWlmMTZEckhXQ082T280c25SY1V1MUcyTEZtUlF0S3dhZXkyY0ZyTExTMkhjUXhRSDNzdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxPSW1wWkNmS0pCLXl1MmU0eHlOVEdYcFRtbnY1T2ZXWTlQZ0tfU0d5dnFvM2RIeFhCcDhUZlRzRVl0QzBkLUxQMHNuMjQtdVN2QkhQM1F6aEh6aTFISjdMSTZXUTJncE5FZmJpMXNrNjA4NGtXcGxGSVhsTFNYM3p1Y296VTMxdVltd0RHdnBTQzh0R2FyNm1DMWlmMTZEckhXQ082T280c25SY1V1MUcyTEZtUlF0S3dhZXkyY0ZyTExTMkhjUXhRSDNzdw?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 16:12:53 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Ukraine sees growing appetite for talks on Russian frozen assets, senior official says  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 高级官员称乌克兰对俄罗斯冻结资产谈判的兴趣日益浓厚 路透]]></description>
         </item>
         <item>
             <title><![CDATA[特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易 - 华尔街见闻]]></title>
@@ -506,18 +500,18 @@
             <description><![CDATA[[华尔街见闻] 特朗普施压沃什降息：高利率令美国陷入“不公平劣势”，否则停止与逆差国贸易  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Trump says if the Fed doesn't cut rates, he'll stop trading with some nations - Reuters]]></title>
+            <title><![CDATA[特朗普称如果美联储不降息，他将停止与一些国家的贸易 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 16:03:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Trump says if the Fed doesn't cut rates, he'll stop trading with some nations  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 特朗普称如果美联储不降息，他将停止与一些国家的贸易 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Lululemon dives on risks of prolonged turnaround under new CEO - Reuters]]></title>
+            <title><![CDATA[Lululemon 面临新任首席执行官领导下长期扭亏为盈的风险 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNQncxd2NKS1BCZEF2ZjZxVEM5NGt3eDljUXh3UE44eVRlelNzdW92Um9sZ1pjbFl3OFBKdFdlREdMcmJpbWk0VERxakJBNGhNT1I4c1p3UzAxNGhFVksxTEd4bjEyb0hraENQbmtXRGRIZkpQMWFOUGFCV3NUbWNMZjJ3b3FMUXpfcHpkWFM4UEw2bG1LNENQbkVDTUNaQm11MFkyb3dIUENHN2Zrc2JDRkZwWEV5cnVTbHZrLUdfcWZ1aHBj?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNQncxd2NKS1BCZEF2ZjZxVEM5NGt3eDljUXh3UE44eVRlelNzdW92Um9sZ1pjbFl3OFBKdFdlREdMcmJpbWk0VERxakJBNGhNT1I4c1p3UzAxNGhFVksxTEd4bjEyb0hraENQbmtXRGRIZkpQMWFOUGFCV3NUbWNMZjJ3b3FMUXpfcHpkWFM4UEw2bG1LNENQbkVDTUNaQm11MFkyb3dIUENHN2Zrc2JDRkZwWEV5cnVTbHZrLUdfcWZ1aHBj?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 15:55:01 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Lululemon dives on risks of prolonged turnaround under new CEO  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] Lululemon 在新任首席执行官的领导下深入研究长期扭亏为盈的风险 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[Moderna点燃希望之火，肿瘤疫苗时代真的来了吗？ - 华尔街见闻]]></title>
@@ -527,32 +521,32 @@
             <description><![CDATA[[华尔街见闻] Moderna点燃希望之火，肿瘤疫苗时代真的来了吗？  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Canadian Employment Retreats in August, Though Jobless Rate Holds Steady]]></title>
+            <title><![CDATA[尽管失业率保持稳定，但加拿大八月份就业人数下降]]></title>
             <link>https://www.wsj.com/economy/jobs/canada-unemployment-holds-at-6-4-though-employment-falls-821342b6?mod=rss_socialeconomyfeed</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/jobs/canada-unemployment-holds-at-6-4-though-employment-falls-821342b6?mod=rss_socialeconomyfeed</guid>
             <pubDate>Fri, 04 Sep 2026 15:20:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] The unemployment rate remained at 6.4%, despite employers in the country cutting a net 41,700 jobs last month.]]></description>
+            <description><![CDATA[[WSJ] 尽管该国雇主上个月净裁员 41,700 人，但失业率仍保持在 6.4%。]]></description>
         </item>
         <item>
-            <title><![CDATA[China rare earth firms halt some US shipments over geopolitical worries, sources say - Reuters]]></title>
+            <title><![CDATA[消息人士称，由于地缘政治担忧，中国稀土公司暂停了部分美国稀土出口 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDN1dWNKT01aNWd3OWc5WGpVc2FRYk5TTEpfUXdHRkFxeEwyYmxlRGxtQUtXRlVkbHZzbkFOd1VndGxSMWh4anJ3RDc0eFRVNjlEM3ZJZGRKUEsxQ1V5bWtPNUdjNG9ocGhmRXVMcnhNZ1pkSnBmbDRBcjlfdXJGWGJ3ZngzaTVzNFIwem1FQ0tPUUdkc3F6WEdNS3dGSDkxOVFHRVAtR2wzajR5bndEbjNWRlhTU2JhcDAwUzFBbjBVdTZNQmZyZHQ4c3hnWEhpV3hpTm1lNnVWdw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDN1dWNKT01aNWd3OWc5WGpVc2FRYk5TTEpfUXdHRkFxeEwyYmxlRGxtQUtXRlVkbHZzbkFOd1VndGxSMWh4anJ3RDc0eFRVNjlEM3ZJZGRKUEsxQ1V5bWtPNUdjNG9ocGhmRXVMcnhNZ1pkSnBmbDRBcjlfdXJGWGJ3ZngzaTVzNFIwem1FQ0tPUUdkc3F6WEdNS3dGSDkxOVFHRVAtR2wzajR5bndEbjNWRlhTU2JhcDAwUzFBbjBVdTZNQmZyZHQ4c3hnWEhpV3hpTm1lNnVWdw?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 15:15:39 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] China rare earth firms halt some US shipments over geopolitical worries, sources say  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 消息人士称，由于地缘政治担忧，中国稀土公司暂停了部分美国稀土出口业务 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say - Reuters]]></title>
+            <title><![CDATA[独家：消息人士称对冲基金巨头 Citadel 寻求购买美国页岩油生产资产 - 路透]]></title>
             <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHcxbUxjUE8tUFJjekxwekEyZ3hzRzVwUExkWWdiVF9UdmtXeXVWTkp1UnQxQy1ZMWVmeEQzVkRsM19YcmhBOGRjLWt3YmNveFBUczUtQVM1a3N4WFhlb1BjTnJ0VTNuNG9GWlAxaGVEZWFrZGZRLWg3QmlHcmhWdENCbE5mTmZlZWFFTEtVSktReGp0Vmt0OXljc2k2UzRlOHBuMjhBb3V2U3FDcXNOSmlEeFFoUVpmQmV5aXZpcURxQ0NfUDBXQmExOA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxNRHcxbUxjUE8tUFJjekxwekEyZ3hzRzVwUExkWWdiVF9UdmtXeXVWTkp1UnQxQy1ZMWVmeEQzVkRsM19YcmhBOGRjLWt3YmNveFBUczUtQVM1a3N4WFhlb1BjTnJ0VTNuNG9GWlAxaGVEZWFrZGZRLWg3QmlHcmhWdENCbE5mTmZlZWFFTEtVSktReGp0Vmt0OXljc2k2UzRlOHBuMjhBb3V2U3FDcXNOSmlEeFFoUVpmQmV5aXZpcURxQ0NfUDBXQmExOA?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 15:12:09 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] EXCLUSIVE: Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 独家报道：消息人士称，对冲基金巨头 Citadel 寻求购买美国页岩油生产资产 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates]]></title>
+            <title><![CDATA[外汇、债券未来一周：美国通胀数据成为焦点； 欧洲央行预计将加息]]></title>
             <link>https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-inflation-data-in-focus-ecb-expected-to-raise-rates-2e8f240b?mod=rss_socialeconomyfeed</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-inflation-data-in-focus-ecb-expected-to-raise-rates-2e8f240b?mod=rss_socialeconomyfeed</guid>
             <pubDate>Fri, 04 Sep 2026 15:09:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] Focus in the coming week will center firmly on U.S. inflation data as investors gauge whether the Federal Reserve could raise interest rates in the coming months, and possibly as early as this month.]]></description>
+            <description><![CDATA[[WSJ] 未来一周的焦点将集中在美国通胀数据上，因为投资者将评估美联储是否可能在未来几个月内加息，最早可能在本月加息。]]></description>
         </item>
         <item>
             <title><![CDATA[三星与Arm联手杀入端侧AI！2nm定制芯片启动，OpenAI或成关键客户 - 华尔街见闻]]></title>
@@ -562,25 +556,25 @@
             <description><![CDATA[[华尔街见闻] 三星与Arm联手杀入端侧AI！2nm定制芯片启动，OpenAI或成关键客户  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Israeli investors in crosshairs of Argentina's Milei over Falklands oil project - Reuters]]></title>
+            <title><![CDATA[以色列投资者关注阿根廷米莱岛福克兰群岛石油项目 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU29KY3QwS2dTMUt1QWphZlphcERlOHkzdEtQVlhYVGd0R0hiQU90dExRWHRLbnpPb2VpRDMxSWI5WTM2SDFwNXZFeG1RUGg1NDlCeU9fVDQxOVpZMm5rZ0hyTjQ5b29NMklkMmkxVEJmcEJiclhmOTlEall6bFJyRzdQUkRlUEVPdExwTTRLTGROSHpwXzVYVXYtT2l3aURxbXhad1p4NlIzbmd5Q2VTZHpXTXVxVzl2V1ZaZkJNMzNrUQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU29KY3QwS2dTMUt1QWphZlphcERlOHkzdEtQVlhYVGd0R0hiQU90dExRWHRLbnpPb2VpRDMxSWI5WTM2SDFwNXZFeG1RUGg1NDlCeU9fVDQxOVpZMm5rZ0hyTjQ5b29NMklkMmkxVEJmcEJiclhmOTlEall6bFJyRzdQUkRlUEVPdExwTTRLTGROSHpwXzVYVXYtT2l3aURxbXhad1p4NlIzbmd5Q2VTZHpXTXVxVzl2V1ZaZkJNMzNrUQ?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 14:52:40 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Israeli investors in crosshairs of Argentina's Milei over Falklands oil project  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 以色列投资者关注阿根廷 Milei 福克兰群岛石油项目 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Bitcoin heads for third winning week in a row as macro pressures mount]]></title>
+            <title><![CDATA[随着宏观压力加大，比特币将连续第三周上涨]]></title>
             <link>https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html</guid>
             <pubDate>Fri, 04 Sep 2026 14:36:48 GMT</pubDate>
-            <description><![CDATA[[CNBC] Bitcoin headed for its third straight winning week, as traders searched for refuge amid volatile moves in equities, currencies and bond markets.]]></description>
+            <description><![CDATA[[CNBC] 比特币连续第三周上涨，交易员在股票、货币和债券市场的波动中寻找避难所。]]></description>
         </item>
         <item>
-            <title><![CDATA[Strong job gains signal Fed hike as Trump levels new rate-cut demand - Reuters]]></title>
+            <title><![CDATA[特朗普提出新的降息要求，就业强劲增长预示美联储加息 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxOOF9yZEh3LUNwbXhOOE05b01rVHlLVld4OXkwYXdOczZxZF9DUTUxVU9Ta3pCTGRla0RfMXZTR1phZEx6aVU0VmRWcGVZZzlsd3dhZF9yYjc0UHFfaUZMNEoxaElSSE1YSzY5aEExTEMzNV9oOVpSSEc1SXlsZ0R5UkF4cFFMTWVxQi1SYk43cDlhU204aklNNzhB?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 14:31:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Strong job gains signal Fed hike as Trump levels new rate-cut demand  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 随着特朗普提出新的降息要求，强劲的就业增长预示着美联储加息 - 路透中文网]]></description>
         </item>
         <item>
             <title><![CDATA[私募基金募集细化规则 合格投资者认定标准生变 - 财新]]></title>
@@ -590,46 +584,46 @@
             <description><![CDATA[[财新网] 私募基金募集细化规则 合格投资者认定标准生变  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[Stellantis in talks with Huawei, JAC over Maserati partnership, sources say - Reuters]]></title>
+            <title><![CDATA[消息人士称，Stellantis正在与华为、江淮汽车就玛莎拉蒂合作伙伴关系进行谈判 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2pNMVNndkFsT2VSX0lkV1c5OWppekNkMEx4bDc5T0l0X1h6Um02Zjd5NXFZS1N5ZC1iLVZSU1NRT2ZKR25oWi04Y1NKcFd3YmpteGhKc3h4dXNvcFA0Yml0ekZHbXR6akpjandGX0twNHh4bFVEUlU1TVpJUXBJaGV3QWZ4ck1IMGgxV2JIeXdHNktMNjBOeEtJMjRvV2VBVjF2NUtBelM2ZUJVYThhOU5nclRBV01Tc2RYS0t6aXllb0w5aHB2NUdaM1laZmlXNFE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV2pNMVNndkFsT2VSX0lkV1c5OWppekNkMEx4bDc5T0l0X1h6Um02Zjd5NXFZS1N5ZC1iLVZSU1NRT2ZKR25oWi04Y1NKcFd3YmpteGhKc3h4dXNvcFA0Yml0ekZHbXR6akpjandGX0twNHh4bFVEUlU1TVpJUXBJaGV3QWZ4ck1IMGgxV2JIeXdHNktMNjBOeEtJMjRvV2VBVjF2NUtBelM2ZUJVYThhOU5nclRBV01Tc2RYS0t6aXllb0w5aHB2NUdaM1laZmlXNFE?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 14:17:47 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Stellantis in talks with Huawei, JAC over Maserati partnership, sources say  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 消息人士称，Stellantis 正在与华为、江淮汽车就玛莎拉蒂合作伙伴关系进行谈判 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Volkswagen flags 50,000 job cuts across group as board approves turnaround plan - Reuters]]></title>
+            <title><![CDATA[董事会批准扭亏为盈计划 大众汽车集团宣布裁员 5 万人 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHJWZnhzWG5faWZEaUhXbDE4aUFUZ3JNWlp0SjB1RzRXS1JZT1hmSy10WDJFbE9kSVhUSE9YVzZ2NkRTY2REMEk3UHFadFp5UUgtVEdMcXowcnlmZGhjNTBVS01DQWJ4UUQ3OHhnakZjdm5IRzBaVlhQMzFaa0lVbW05X0RpRFZuV29SX0MyYVpkZGpCQ3psSlpuc0tLajZJTUIzc1hEdGdWV2swR2pQblJQZHQ2dkVmVkpkZWlFZVM?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHJWZnhzWG5faWZEaUhXbDE4aUFUZ3JNWlp0SjB1RzRXS1JZT1hmSy10WDJFbE9kSVhUSE9YVzZ2NkRTY2REMEk3UHFadFp5UUgtVEdMcXowcnlmZGhjNTBVS01DQWJ4UUQ3OHhnakZjdm5IRzBaVlhQMzFaa0lVbW05X0RpRFZuV29SX0MyYVpkZGpCQ3psSlpuc0tLajZJTUIzc1hEdGdWV2swR2pQblJQZHQ2dkVmVkpkZWlFZVM?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 13:53:05 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Volkswagen flags 50,000 job cuts across group as board approves turnaround plan  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 董事会批准扭亏为盈计划后，大众汽车集团将裁员 5 万人 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Stocks making the biggest moves premarket: AMC, USA Rare Earth, Lululemon, Adobe & more]]></title>
+            <title><![CDATA[盘前涨幅最大的股票：AMC、USA Rare Earth、Lululemon、Adobe 等]]></title>
             <link>https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-premarket-.html</link>
             <guid isPermaLink="false">https://www.cnbc.com/2026/09/04/stocks-making-the-biggest-moves-premarket-.html</guid>
             <pubDate>Fri, 04 Sep 2026 13:52:56 GMT</pubDate>
-            <description><![CDATA[[CNBC] These are the stocks posting the largest moves in the premarket.]]></description>
+            <description><![CDATA[[CNBC] 这些是盘前涨幅最大的股票。]]></description>
         </item>
         <item>
-            <title><![CDATA[Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data]]></title>
+            <title><![CDATA[美国就业数据强劲后，美国国债收益率和美联储加息押注上升]]></title>
             <link>https://www.wsj.com/economy/global/u-s-european-bond-yields-little-changed-ahead-of-key-jobs-data-6528bb59?mod=rss_socialeconomyfeed</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/global/u-s-european-bond-yields-little-changed-ahead-of-key-jobs-data-6528bb59?mod=rss_socialeconomyfeed</guid>
             <pubDate>Fri, 04 Sep 2026 13:43:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] U.S. Treasury yields jump after significantly stronger-than-expected employment data for August lifted expectations of a Federal Reserve rate hike at the Sept. 16 meeting.]]></description>
+            <description><![CDATA[[WSJ] 8 月就业数据明显强于预期，提振了美联储在 9 月 16 日会议上加息的预期，美国国债收益率大幅上涨。]]></description>
         </item>
         <item>
-            <title><![CDATA[Strong August jobs report sends yields higher - Reuters]]></title>
+            <title><![CDATA[强劲的八月就业报告推高收益率 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNdTJNUkhrZnFtcjZwZmtHcGNSYTBCNkZKZFBlUy1IS3BiTlhBYzRNSm1VRWlLRFhHdmVjUEt4ajZmWFRHOGUzWHBKeFhWSlllYzdoc3g3dmFDVFpfLXQ5d19GRmtiT2UtT0gyV0d1cnpaQmY4RElYZzBBY0pfY2I5Q01HRjhxak1pOHo2c0JiUlJIWmdiX0NZX3Z1Zw?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxNdTJNUkhrZnFtcjZwZmtHcGNSYTBCNkZKZFBlUy1IS3BiTlhBYzRNSm1VRWlLRFhHdmVjUEt4ajZmWFRHOGUzWHBKeFhWSlllYzdoc3g3dmFDVFpfLXQ5d19GRmtiT2UtT0gyV0d1cnpaQmY4RElYZzBBY0pfY2I5Q01HRjhxak1pOHo2c0JiUlJIWmdiX0NZX3Z1Zw?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 13:41:25 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Strong August jobs report sends yields higher  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 强劲的八月就业报告推高收益率 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Take Five: Good evening, Mr Bond - Reuters]]></title>
+            <title><![CDATA[第五点：晚上好，邦德先生 - 路透社]]></title>
             <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0steE9LaDhWRWV0MjJBYTNGcWJTVldmOXNsekxXZWw2b1Y2NzBTU1VWVE11elpWbGVwcTZlZ2lkSldqMUtkNXh4c2RSc0FKeW5CcjRrdjFqRnhJcG00OE5wdVR1UVctcWZuMVpKZ2ZyM245UGVjZElNRlUwNTBZVWxn?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxPb0steE9LaDhWRWV0MjJBYTNGcWJTVldmOXNsekxXZWw2b1Y2NzBTU1VWVE11elpWbGVwcTZlZ2lkSldqMUtkNXh4c2RSc0FKeW5CcjRrdjFqRnhJcG00OE5wdVR1UVctcWZuMVpKZ2ZyM245UGVjZElNRlUwNTBZVWxn?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 13:06:10 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Take Five: Good evening, Mr Bond  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 第五点：晚上好，邦德先生路透社]]></description>
         </item>
         <item>
             <title><![CDATA[独家｜香港证监赴华泰金控香港办公室调查 - 财新]]></title>
@@ -646,39 +640,25 @@
             <description><![CDATA[[财新网] 《保险法》修订意见稿出炉 聚焦股东监管、风险处置  财新]]></description>
         </item>
         <item>
-            <title><![CDATA[How engineers in a WhatsApp group are guiding Nepal's tunnel rescue efforts - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0E3MkZHX3BnbHVnNUJTODJyc0JsYmlCdk9PSlJzcW8zTXM4V0tBQnotb0JDZ0Z0YS1KMlJMR1gwb2tTZTEyN1YzTE9rai02MnBNc2JZcVlIWjlta25tOUFFeFRWYmZJWmRNYmpMWFIwYmQtZ2VJSVBTMWNuQ2J0a2NoMU13aUxxLW5JT1QyU3QwTjRELWxZdXF2cFMtWUxlc1RYSUFLeHBRc0wxbWo1M1BnTFp1b0xyS2N3WjZNeFZoX0k?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ0E3MkZHX3BnbHVnNUJTODJyc0JsYmlCdk9PSlJzcW8zTXM4V0tBQnotb0JDZ0Z0YS1KMlJMR1gwb2tTZTEyN1YzTE9rai02MnBNc2JZcVlIWjlta25tOUFFeFRWYmZJWmRNYmpMWFIwYmQtZ2VJSVBTMWNuQ2J0a2NoMU13aUxxLW5JT1QyU3QwTjRELWxZdXF2cFMtWUxlc1RYSUFLeHBRc0wxbWo1M1BnTFp1b0xyS2N3WjZNeFZoX0k?oc=5</guid>
-            <pubDate>Fri, 04 Sep 2026 11:27:14 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] How engineers in a WhatsApp group are guiding Nepal's tunnel rescue efforts  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Soft Retail Sales Reveal Cracks in Eurozone Resilience to Energy Shock]]></title>
+            <title><![CDATA[疲软的零售销售揭示欧元区应对能源冲击的抵御能力存在缺陷]]></title>
             <link>https://www.wsj.com/economy/german-factory-orders-climb-for-third-straight-month-dd9bc5de?mod=rss_socialeconomyfeed</link>
             <guid isPermaLink="false">https://www.wsj.com/economy/german-factory-orders-climb-for-third-straight-month-dd9bc5de?mod=rss_socialeconomyfeed</guid>
             <pubDate>Fri, 04 Sep 2026 10:31:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] Eurozone retail sales fell unexpectedly in July, a sign that the currency area’s resilience in the face of high energy prices might be faltering even as separate figures pointed to a continued recovery in German industry.]]></description>
+            <description><![CDATA[[WSJ] 欧元区 7 月份零售销售意外下降，这表明该货币区面对高能源价格的弹性可能会动摇，尽管个别数据表明德国工业持续复苏。]]></description>
         </item>
         <item>
-            <title><![CDATA[Wildfires spread near Indonesia's new capital, prompting calls for action - Reuters]]></title>
+            <title><![CDATA[印尼新首都附近野火蔓延，呼吁采取行动 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNREx2czNrOGt1b1dYcXRsTUtTYmF6M2RGYXNvX0I1Wjc5TmVhRUs3dkgydWFHUklPN3ppZXVnWjk3ODFrMm9IZ0wyLU82M3RrcHB6eFdYTXQ2UjljSFFVWUZpVkotRnFwbWkzQnBHSkpycU5oUG5PUnZuVGkwU1BIV2FsNjFEV1I3eFNWZjk5Z1k2VkJGUWFSRHVwN29mME5VUzkxRGJiZ2NUeVVLcnF0dVNKeS1CRUYwVVhRUHlFWGtBQQ?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwgFBVV95cUxNREx2czNrOGt1b1dYcXRsTUtTYmF6M2RGYXNvX0I1Wjc5TmVhRUs3dkgydWFHUklPN3ppZXVnWjk3ODFrMm9IZ0wyLU82M3RrcHB6eFdYTXQ2UjljSFFVWUZpVkotRnFwbWkzQnBHSkpycU5oUG5PUnZuVGkwU1BIV2FsNjFEV1I3eFNWZjk5Z1k2VkJGUWFSRHVwN29mME5VUzkxRGJiZ2NUeVVLcnF0dVNKeS1CRUYwVVhRUHlFWGtBQQ?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 10:21:03 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Wildfires spread near Indonesia's new capital, prompting calls for action  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 印度尼西亚新首都附近野火蔓延，呼吁采取行动 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Rebel-held eastern Congo records new Ebola case after declaring outbreak over - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTkk0aWRuSnZDUXJXQndXLVB4cDkzUk5SNC0tMnQwN2lvN0dQLVN4eWVpNWtoR2E1SVZ0WVhwYXNEWUlZcUF0RHk1cmItR2Rta09kVDRXRDhhTFVtSVQta1FVcWNMcGRuSkEtdjBVUjF2QnBZQnBCUTRWTFdUWFVMYmk2OTBGaXoxXzhWMml3SWtURUR4X3FsZEUyMUpFaWZDSkNQYnR2QmZ1TmJVeDB5ZFBlcWFpZnBlVFRxbUNUN3d3MndfTkN2Nk92Um5RN1ctSHo5UDZZU3F6TUlFbk1MTE1Mbw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTkk0aWRuSnZDUXJXQndXLVB4cDkzUk5SNC0tMnQwN2lvN0dQLVN4eWVpNWtoR2E1SVZ0WVhwYXNEWUlZcUF0RHk1cmItR2Rta09kVDRXRDhhTFVtSVQta1FVcWNMcGRuSkEtdjBVUjF2QnBZQnBCUTRWTFdUWFVMYmk2OTBGaXoxXzhWMml3SWtURUR4X3FsZEUyMUpFaWZDSkNQYnR2QmZ1TmJVeDB5ZFBlcWFpZnBlVFRxbUNUN3d3MndfTkN2Nk92Um5RN1ctSHo5UDZZU3F6TUlFbk1MTE1Mbw?oc=5</guid>
-            <pubDate>Fri, 04 Sep 2026 10:03:43 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Rebel-held eastern Congo records new Ebola case after declaring outbreak over  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EXCLUSIVE: US military turns off ad trackers on devices amid Middle East targeting reports - Reuters]]></title>
+            <title><![CDATA[独家：美国军方在中东目标报告中关闭了设备上的广告跟踪器 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjdmUFN3Ymp3TUZ5dnBMQnpFQzV4dGNNTlF1RWVnY0VScUZwU2RXZXh2LWQ1aElYUHdaTFFFNVp1VG5JN0xYdGdrZVhCQ1RDT0I4b0JUeXp1b29EYjcyMGt4bFlxdmdzUWN5ay1DaW5EX2NDQ2F5U3hHREZvUFEwVGdqNFI4Qzg3NDN5WmQxaGFZUl9HU2hwTGd0Qi1pWFE1YjRybjRWVnE2d0dJNEJNMGtZYjBFUmZUSkJpYVBrRlFQYnhoS0tYWnI1Xy1NbWVB?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjdmUFN3Ymp3TUZ5dnBMQnpFQzV4dGNNTlF1RWVnY0VScUZwU2RXZXh2LWQ1aElYUHdaTFFFNVp1VG5JN0xYdGdrZVhCQ1RDT0I4b0JUeXp1b29EYjcyMGt4bFlxdmdzUWN5ay1DaW5EX2NDQ2F5U3hHREZvUFEwVGdqNFI4Qzg3NDN5WmQxaGFZUl9HU2hwTGd0Qi1pWFE1YjRybjRWVnE2d0dJNEJNMGtZYjBFUmZUSkJpYVBrRlFQYnhoS0tYWnI1Xy1NbWVB?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 10:02:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] EXCLUSIVE: US military turns off ad trackers on devices amid Middle East targeting reports  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 独家：根据中东目标报告，美国军方关闭了设备上的广告跟踪器 路透]]></description>
         </item>
         <item>
             <title><![CDATA[20年超长特别国债溢价续发 240亿元债券引来2800亿元资金竞购 - 财新]]></title>
@@ -695,18 +675,39 @@
             <description><![CDATA[[华尔街见闻] 黄金将再次闪耀？法兴重启多头、德银称“骑兵已至”，头部资管正加速建仓  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings - Reuters]]></title>
+            <title><![CDATA[挪威2万亿美元主权基金提议大幅削减美国国债持有量 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmxGOEpiUDZLcDdndTZmQVVRblBRSzBzTmV4V0lQbGFOQUNJRGt6NW11MTNSZHdzdGtfZ3Fzc2FlVEN0akRuREtUYkNqMUcxME1aRVhYYmtOWjRnekxlaW52M2ZvZmhJSHN4ZE9qUy1xcTdNNDBKd2Z5OTlpYjJ1SHh0V2dUVUNQU2RKV3kzSWFKZjRHWnRmZ1ZCUXpia19iNVNWRl9CM0FTcTFCWWRaVXJuOHB4UFZlWnc?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmxGOEpiUDZLcDdndTZmQVVRblBRSzBzTmV4V0lQbGFOQUNJRGt6NW11MTNSZHdzdGtfZ3Fzc2FlVEN0akRuREtUYkNqMUcxME1aRVhYYmtOWjRnekxlaW52M2ZvZmhJSHN4ZE9qUy1xcTdNNDBKd2Z5OTlpYjJ1SHh0V2dUVUNQU2RKV3kzSWFKZjRHWnRmZ1ZCUXpia19iNVNWRl9CM0FTcTFCWWRaVXJuOHB4UFZlWnc?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 09:28:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Norway's $2 trillion sovereign fund proposes deep cuts to US Treasury holdings  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 挪威2万亿美元主权基金提议大幅削减美国国债持有量 路透]]></description>
         </item>
         <item>
-            <title><![CDATA[Malaysia declares emergency in Serian district in Sarawak state due to haze - Reuters]]></title>
+            <title><![CDATA[马来西亚因雾霾宣布砂拉越州西连地区进入紧急状态 - 路透中文网]]></title>
             <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPd182SnFNM0YycldXZWRxV2xJdGN0Q0ZQUGNjTmw2a2FqRkVVbmhvUExhdVNpcGI0UVMweW1KX1pTck56LWZOY3c0OUhKdVhZck42VHJJU3d6MFhrWS1uY0l1R1B0eGllaGNUYUVPb05Tcjk2d0VYZW1mWnZfcnF1TEV2ZXpOS2RFWmg4UVExVXZwbi1SVTJxNU4yV005LW1jcjhuNEwtNEIwR1VUUzZOR2tsa01KYWczeUE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiugFBVV95cUxPd182SnFNM0YycldXZWRxV2xJdGN0Q0ZQUGNjTmw2a2FqRkVVbmhvUExhdVNpcGI0UVMweW1KX1pTck56LWZOY3c0OUhKdVhZck42VHJJU3d6MFhrWS1uY0l1R1B0eGllaGNUYUVPb05Tcjk2d0VYZW1mWnZfcnF1TEV2ZXpOS2RFWmg4UVExVXZwbi1SVTJxNU4yV005LW1jcjhuNEwtNEIwR1VUUzZOR2tsa01KYWczeUE?oc=5</guid>
             <pubDate>Fri, 04 Sep 2026 09:27:18 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Malaysia declares emergency in Serian district in Sarawak state due to haze  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] 马来西亚因雾霾宣布砂拉越州西连地区进入紧急状态 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英国央行调查显示价格压力正在降温]]></title>
+            <link>https://www.wsj.com/economy/global/boe-survey-points-to-cooling-price-pressures-5fab77b9?mod=rss_socialeconomyfeed</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/global/boe-survey-points-to-cooling-price-pressures-5fab77b9?mod=rss_socialeconomyfeed</guid>
+            <pubDate>Fri, 04 Sep 2026 09:09:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] 企业预计未来 12 个月他们收取的价格将上涨 3.8%，低于 7 月份预期的 3.9%。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[解释者：印度九月降雨量低于平均水平如何加剧了人们对农作物的担忧 - 路透中文网]]></title>
+            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUY5MFpLdVNXOTA2ZmJEcklsbXVqcFNWUDZVM2xnU09FQ092cFJEWnV2WGJsUFpJa1ZfNGJieTlhV2cxdW1yLUozZmg0V0M1eV8tU0JfRUdtRUlHejgyb2pQOExNY1Y3aURkbmZSbV9Ubkp5TUFxRDEyaTRyY0VKbGVHU3ZwRlA3NXJ6WGw4eURiOFNwQ1F0aDVRcmFJSWNaQll0Z0sxX0xGNkF1X0xmUDNiUmw1VWNIX2g0azE0b05FNjEx?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUY5MFpLdVNXOTA2ZmJEcklsbXVqcFNWUDZVM2xnU09FQ092cFJEWnV2WGJsUFpJa1ZfNGJieTlhV2cxdW1yLUozZmg0V0M1eV8tU0JfRUdtRUlHejgyb2pQOExNY1Y3aURkbmZSbV9Ubkp5TUFxRDEyaTRyY0VKbGVHU3ZwRlA3NXJ6WGw4eURiOFNwQ1F0aDVRcmFJSWNaQll0Z0sxX0xGNkF1X0xmUDNiUmw1VWNIX2g0azE0b05FNjEx?oc=5</guid>
+            <pubDate>Fri, 04 Sep 2026 08:17:09 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] 解释者：印度 9 月降雨量低于平均水平如何引发人们对农作物的担忧 路透]]></description>
+        </item>
+        <item>
+            <title><![CDATA[野村：若日元持续走弱，日本央行或连续三次加息 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EdzRrNXNkbjA0TnlPelRVM0RWeDhJbGZlTjRwcnZKM19rUFZSckFoVmdZeVVtbXU5UWwyejM0SWQ3TEhZT2NqcEdiaWpDZXlXT3kw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EdzRrNXNkbjA0TnlPelRVM0RWeDhJbGZlTjRwcnZKM19rUFZSckFoVmdZeVVtbXU5UWwyejM0SWQ3TEhZT2NqcEdiaWpDZXlXT3kw?oc=5</guid>
+            <pubDate>Fri, 04 Sep 2026 07:33:41 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 野村：若日元持续走弱，日本央行或连续三次加息  华尔街见闻]]></description>
         </item>
     </channel>
 </rss>
