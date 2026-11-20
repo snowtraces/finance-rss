@@ -4,121 +4,415 @@
         <title>Finance News Summary</title>
         <link>https://rss.snowtraces.com/finance_feed.xml</link>
         <description>Merged global finance news feed</description>
-        <lastBuildDate>Thu, 19 Nov 2026 18:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 00:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Finance-RSS Generator</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[Coinbase Global计划于2027年上半年推出自营预测市场]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3677635</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677635</guid>
-            <pubDate>Thu, 19 Nov 2026 18:03:23 GMT</pubDate>
+            <title><![CDATA[The Federal Reserve is limiting pay raises at its 12 regional banks to 1% next year as it seeks to rein in costs and streamline operations]]></title>
+            <link>https://www.wsj.com/economy/central-banking/fed-cuts-pay-raises-for-regional-bank-staff-e3184f2d?mod=rss_socialeconomyfeed</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/fed-cuts-pay-raises-for-regional-bank-staff-e3184f2d?mod=rss_socialeconomyfeed</guid>
+            <pubDate>Fri, 20 Nov 2026 00:26:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] Employees at the 12 regional banks were told to expect 1% annual raises, down from 3% this year.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团欧洲子公司错误记录交易，风险加权资产低估约350亿美元]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3678000</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3678000</guid>
+            <pubDate>Fri, 20 Nov 2026 00:21:39 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[Barclays首予新思科技"增持"评级，看好AI研发需求与EDA市场主导地位]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3677630</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677630</guid>
-            <pubDate>Thu, 19 Nov 2026 17:56:47 GMT</pubDate>
+            <title><![CDATA[特朗普网络安全主任肖恩·凯恩克罗斯即将离职]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3677999</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3677999</guid>
+            <pubDate>Fri, 20 Nov 2026 00:21:33 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[独家专访：Upstart首席执行官谈业务转型与高增长路径]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3677626</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677626</guid>
-            <pubDate>Thu, 19 Nov 2026 17:54:12 GMT</pubDate>
+            <title><![CDATA[Dollar Heads for Fourth Week of Gains Following Anthropic IPO]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-20/dollar-heads-for-fourth-week-of-gains-following-anthropic-ipo</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-20/dollar-heads-for-fourth-week-of-gains-following-anthropic-ipo</guid>
+            <pubDate>Fri, 20 Nov 2026 00:20:47 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] The dollar is headed for a fourth straight weekly gain as demand tied to the Anthropic PBC IPO further lifts the currency that has been supported by expectations of further Federal Reserve interest-rate hikes and elevated US Treasury yields.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet(GOOGL.US)挂钩市政债需求遇冷，30亿美元预付能源交易推迟定价]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3677995</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677995</guid>
+            <pubDate>Fri, 20 Nov 2026 00:16:12 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[Wall St falls sharply as Anthropic debut fails to reignite AI trade - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 17:48:27 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Wall St falls sharply as Anthropic debut fails to reignite AI trade  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果相机软件主管麦科马克在任八年后宣布退休]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3677616</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3677616</guid>
-            <pubDate>Thu, 19 Nov 2026 17:36:15 GMT</pubDate>
+            <title><![CDATA[参议院共和党人否决终止对伊朗战争的立法]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3677984</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3677984</guid>
+            <pubDate>Fri, 20 Nov 2026 00:12:24 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[苹果相机软件主管麦科马克在任职逾八年后退休]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3677615</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3677615</guid>
-            <pubDate>Thu, 19 Nov 2026 17:36:02 GMT</pubDate>
+            <title><![CDATA[Japan Tobacco Shares Fall After Russia-Related Charges]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-20/japan-tobacco-shares-set-to-fall-after-russia-related-charges</guid>
+            <pubDate>Fri, 20 Nov 2026 00:10:10 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Japan Tobacco Inc. shares declined after the cigarette maker said it expects to swing to an operating loss and slashed its dividend forecast after losing control of its Russian business.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[India’s Stock Rally Faces Valuation Test as Bond Allure Grows]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-20/india-s-stock-rally-faces-valuation-test-as-bond-allure-grows</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-20/india-s-stock-rally-faces-valuation-test-as-bond-allure-grows</guid>
+            <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] India’s stock rebound is approaching a crucial valuation test as rising bond yields make sovereign debt an increasingly viable alternative to equities.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Gold Set for Worst Week Since March on Hawkish Fed, AI Selloff]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff</guid>
+            <pubDate>Thu, 19 Nov 2026 23:56:03 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Gold fell and was heading for the biggest weekly decline since March, as a hawkish Federal Reserve signaled more interest-rate hikes and a selloff in AI stocks pushed investors to sell the metal to cover losses.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Japan Consumer Inflation Accelerates Amid Rate-Hike Views]]></title>
+            <link>https://www.wsj.com/economy/japan-consumer-inflation-accelerates-amid-rate-hike-views-15cf7577?mod=rss_socialeconomyfeed</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/japan-consumer-inflation-accelerates-amid-rate-hike-views-15cf7577?mod=rss_socialeconomyfeed</guid>
+            <pubDate>Thu, 19 Nov 2026 23:52:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] Consumer prices excluding fresh food climbed 2.2% from a year earlier, following September’s 2.1% gain, reinforcing expectations for another interest-rate increase by the central bank.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[传苹果(AAPL.US)开发自主AI智能体：能写代码、浏览网页、控制应用，正面与OpenAI与Meta等竞争]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3677972</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677972</guid>
+            <pubDate>Thu, 19 Nov 2026 23:45:36 GMT</pubDate>
             <description><![CDATA[[英为财情] ]]></description>
         </item>
         <item>
-            <title><![CDATA[BlackRock’s New Proposal Looks to Mix Ease of Trading With Private Market Access]]></title>
-            <link>https://www.bloomberg.com/news/newsletters/2026-11-19/blackrock-s-new-proposal-looks-to-mix-ease-of-trading-with-private-market-access</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/newsletters/2026-11-19/blackrock-s-new-proposal-looks-to-mix-ease-of-trading-with-private-market-access</guid>
-            <pubDate>Thu, 19 Nov 2026 17:33:42 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] The proposed fund structure brings together two things investors are obsessed with.]]></description>
+            <title><![CDATA[Anthropic IPO Raises Only $110 Million From Australian Investors]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors</guid>
+            <pubDate>Thu, 19 Nov 2026 23:35:17 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Australian investors were allocated less than 1% of total shares from Anthropic PBC’s record-breaking initial public offering.]]></description>
         </item>
         <item>
-            <title><![CDATA[Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX's June listing - Reuters]]></title>
+            <title><![CDATA[纽约市议员就Amazon.com外卖司机法案寻求妥协方案]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3677947</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677947</guid>
+            <pubDate>Thu, 19 Nov 2026 23:17:13 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic Becomes World’s 7th Most Valuable Company After IPO]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo</guid>
+            <pubDate>Thu, 19 Nov 2026 23:16:20 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Anthropic PBC’s blockbuster IPO lifted the company into the ranks of the most valuable in the world, with shares closing 17% from the offer price to give it a $1.8 trillion fully diluted market value.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[或成生物制药行业近年来最大交易！赛诺菲(SNY.US)酝酿重磅收购 Insmed(INSM.US)股价应声暴涨逾20%!]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3677940</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677940</guid>
+            <pubDate>Thu, 19 Nov 2026 23:15:06 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[罗斯百货(ROST.US)Q3营收、利润超预期 Q4指引不及预期]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3677941</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677941</guid>
+            <pubDate>Thu, 19 Nov 2026 23:15:06 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[黑客经第三方泄露Visa、万事达和摩根大通部分客户数据，三家称支付网络未中断 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuQjhNNVZHWk5DMU56aGFhQjRwRjB6M3VwOTZZamF1enhaM1Z2cUQtUXViUWxqVGw1UXI0VmxrOXNjNUtvZ1g4V2I2S0VXeFhnZkF3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuQjhNNVZHWk5DMU56aGFhQjRwRjB6M3VwOTZZamF1enhaM1Z2cUQtUXViUWxqVGw1UXI0VmxrOXNjNUtvZ1g4V2I2S0VXeFhnZkF3?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 23:14:43 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 黑客经第三方泄露Visa、万事达和摩根大通部分客户数据，三家称支付网络未中断  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[BILL Holdings将以60亿美元全现金交易被TPG和Corpay私有化]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3677925</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677925</guid>
+            <pubDate>Thu, 19 Nov 2026 23:08:44 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Latest Oil Market News and Analysis for Nov. 20]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/latest-oil-market-news-and-analysis-for-nov-20</guid>
+            <pubDate>Thu, 19 Nov 2026 23:05:51 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Oil edged higher after a volatile session on Thursday, with futures on track for a third weekly decline as traders weigh the risk of renewed US strikes on Iran against ample supply.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[财经早知道｜中俄美元首发表和平宣言 - 财新]]></title>
+            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qUjZKRS1BcG5FS2h6Z2lNQURzVlh6MktLQWlYWS1IWFFlRXZ2ZUVZbDE5R24tSFl2S1B1bDVtOWFLTEhmbXRobVJ2M2xxM2pUTGZ0TmlVRmoyM0pRUlVteWRR?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qUjZKRS1BcG5FS2h6Z2lNQURzVlh6MktLQWlYWS1IWFFlRXZ2ZUVZbDE5R24tSFl2S1B1bDVtOWFLTEhmbXRobVJ2M2xxM2pUTGZ0TmlVRmoyM0pRUlVteWRR?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 23:02:00 GMT</pubDate>
+            <description><![CDATA[[财新网] 财经早知道｜中俄美元首发表和平宣言  财新]]></description>
+        </item>
+        <item>
+            <title><![CDATA[博士伦眼部止痛药临床试验未达主要终点，股价盘后下跌]]></title>
+            <link>https://cn.investing.com/news/stock-market-news/article-3677920</link>
+            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677920</guid>
+            <pubDate>Thu, 19 Nov 2026 22:57:53 GMT</pubDate>
+            <description><![CDATA[[英为财情] ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Procter & Gamble targets up to $10 billion in productivity savings as costs stack up - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQakdXUjRrWjlvbzF6UXAxRVFJanhvT0dJMmplX2hNZUIybjNpWTdmU1dhdGNMMXY1cnNxaEw1WWZaaFlEcmxZcWtRV1lZc1o4UWhPQ3lTY3g0V3RIOElob1dRYmZtQUVrWjV2bzRqUm02Z1JRRzNGa09SMVdRb1ZWQ19nQnRqMTNqMXktQW41MHB6VHFHY212VU5EczJ6d1F0SnVnenFzdHhEeGlkN1Itb2xTSTVqWm9Xc21pLW5KeHFhNEd0amc?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxQakdXUjRrWjlvbzF6UXAxRVFJanhvT0dJMmplX2hNZUIybjNpWTdmU1dhdGNMMXY1cnNxaEw1WWZaaFlEcmxZcWtRV1lZc1o4UWhPQ3lTY3g0V3RIOElob1dRYmZtQUVrWjV2bzRqUm02Z1JRRzNGa09SMVdRb1ZWQ19nQnRqMTNqMXktQW41MHB6VHFHY212VU5EczJ6d1F0SnVnenFzdHhEeGlkN1Itb2xTSTVqWm9Xc21pLW5KeHFhNEd0amc?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 22:41:12 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Procter & Gamble targets up to $10 billion in productivity savings as costs stack up  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Treasury Official Renews Warning on Wave of Tax-Saving Trades]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades</guid>
+            <pubDate>Thu, 19 Nov 2026 22:31:50 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] A senior US Treasury official reiterated concerns Thursday about Wall Street’s tax-efficient investing boom, saying firms should win clients on the merits of their investments, not on how far they’ll go to minimize a tax bill.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[EXCLUSIVE: US should restrict investments in China's aerospace sector, not certify Chinese aircraft, lawmakers say - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWI3Zy1rQ1RPOXd0YVJXTXlxNUFoY1N5VlRtcWNBRnFNdXgybGIxdV96SmRSVnpPbFU1RzJnQTRtMC1BUGpfbXAwNGlwMTBITGJTNUdBZGlXVXc3MW1GRU1rVGxueFg1RG9PSzl4UW92TjdDRGpWT2Z6MTBwb05mZi1kY3haRkxzZkE3X09XYmFtWG9uNFZFWHlEQTd3UTRYZXZxYTdtOHZucHVRdXVQdm44TUJRaDB4WWpobWQ5dlVpVThlRFo3NzJ5SmxmQkxKcXlkaHJsMTBmdw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQWI3Zy1rQ1RPOXd0YVJXTXlxNUFoY1N5VlRtcWNBRnFNdXgybGIxdV96SmRSVnpPbFU1RzJnQTRtMC1BUGpfbXAwNGlwMTBITGJTNUdBZGlXVXc3MW1GRU1rVGxueFg1RG9PSzl4UW92TjdDRGpWT2Z6MTBwb05mZi1kY3haRkxzZkE3X09XYmFtWG9uNFZFWHlEQTd3UTRYZXZxYTdtOHZucHVRdXVQdm44TUJRaDB4WWpobWQ5dlVpVThlRFo3NzJ5SmxmQkxKcXlkaHJsMTBmdw?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 22:21:13 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] EXCLUSIVE: US should restrict investments in China's aerospace sector, not certify Chinese aircraft, lawmakers say  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美联储官员再放鹰，Goolsbee：通胀居高不下，不排除单次加息超常规可能 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MjlqUEJrbmNackJxczNDNkM1SkY0cTZMbXQ3LVFoRnZkUXNsU0Rtdnl4Wl9qcmtqZmVGZjkyaUM2VzJmNkd4SmFocUtJQTRuTFJv?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MjlqUEJrbmNackJxczNDNkM1SkY0cTZMbXQ3LVFoRnZkUXNsU0Rtdnl4Wl9qcmtqZmVGZjkyaUM2VzJmNkd4SmFocUtJQTRuTFJv?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 22:19:07 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 美联储官员再放鹰，Goolsbee：通胀居高不下，不排除单次加息超常规可能  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic's blockbuster debut tests Wall Street's faith in AI boom - Reuters]]></title>
             <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 17:29:48 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Anthropic blows past $2 trillion in Nasdaq debut, tops SpaceX's June listing  Reuters]]></description>
+            <pubDate>Thu, 19 Nov 2026 22:18:33 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Anthropic's blockbuster debut tests Wall Street's faith in AI boom  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[MoonPay申请银行牌照，谋求扩大稳定币业务]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-93CH-3677612</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-93CH-3677612</guid>
-            <pubDate>Thu, 19 Nov 2026 17:27:59 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[Anthropic IPO is About Capital, Says Kathryn Thompson]]></title>
+            <link>https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-is-about-capital-says-kathryn-thompson-video</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-is-about-capital-says-kathryn-thompson-video</guid>
+            <pubDate>Thu, 19 Nov 2026 22:17:51 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Anthropic’s long-awaited debut marks the first ever by a frontier AI lab, a cohort of firms building the most advanced models to tackle difficult problems and assist users in complex tasks. While enthusiasm over AI’s business potential have spurred massive investments in infrastructure such as chips and data centers, Anthropic and its competitors now need to grow revenue fast enough to outpace those ambitious spending plans.  Kathryn Thompson, CEO, Thompson Research Group, says that much of the AI play is about access to capital, but the biggest change for data centers is the political landscape. (Source: Bloomberg)]]></description>
         </item>
         <item>
-            <title><![CDATA[BP Said to Weigh Divesting Its Key West Africa LNG Plant GTA]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/bp-said-to-weigh-divesting-its-key-west-africa-lng-plant-gta</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/bp-said-to-weigh-divesting-its-key-west-africa-lng-plant-gta</guid>
-            <pubDate>Thu, 19 Nov 2026 17:20:54 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] BP Plc has been considering divesting its majority stake and operatorship of its liquefied natural gas facility off the coast of West Africa, people familiar with the matter said, as chief executive officer Meg O’Neill aims to narrow the energy major’s portfolio.]]></description>
+            <title><![CDATA[Asian Stocks Fall, Anthropic Slips in After-Hours: Markets Wrap]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates</guid>
+            <pubDate>Thu, 19 Nov 2026 22:03:40 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Asian stocks sold off as pessimism over the artificial-intelligence trade hammered technology shares, with global equities set for their longest losing streak in three years. Anthropic PBC fell in after-hours trading after jumping on its market debut.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[NY’s Largest Mall Debt Now Controlled by Billionaire Namdar]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/ny-s-largest-mall-debt-now-controlled-by-billionaire-namdar</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/ny-s-largest-mall-debt-now-controlled-by-billionaire-namdar</guid>
+            <pubDate>Thu, 19 Nov 2026 21:51:06 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] The debt on Destiny USA, New York state’s largest shopping center, has been acquired by Namdar Realty Group, a Long Island-based real estate firm known for distressed retail real estate deals.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AI surge could strain US capacity and overheat economy, Fed's Goolsbee says - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2V1TTUwaFZ4T1pYN3VBVDlqZThZVHBvQ0VhNnRNNlpWVlZXLUYtVWh5T096NmxYbEsxdjF6T0JmZmZCM0lHQ01CT2NUcTdrUzJ0djdFbWRteWlNTWF4enhqajdoY2ZWcjBmc0lMYkpYczV1RDJVdmxZWFctNDI3bHFxOTBySmZvbHNDRXM5QmxqWUtieXFJYjZnUmNONVUzUnBTYTlMdlNqaDdzdkYweVRHZ2w?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2V1TTUwaFZ4T1pYN3VBVDlqZThZVHBvQ0VhNnRNNlpWVlZXLUYtVWh5T096NmxYbEsxdjF6T0JmZmZCM0lHQ01CT2NUcTdrUzJ0djdFbWRteWlNTWF4enhqajdoY2ZWcjBmc0lMYkpYczV1RDJVdmxZWFctNDI3bHFxOTBySmZvbHNDRXM5QmxqWUtieXFJYjZnUmNONVUzUnBTYTlMdlNqaDdzdkYweVRHZ2w?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 21:35:29 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] AI surge could strain US capacity and overheat economy, Fed's Goolsbee says  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Shenkman, Blackstone, GDA Among Lenders to Take Over Vivid]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/blackstone-among-lenders-taking-over-ticket-reseller-vivid-seats</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/blackstone-among-lenders-taking-over-ticket-reseller-vivid-seats</guid>
+            <pubDate>Thu, 19 Nov 2026 21:22:45 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] A group of lenders including Blackstone Inc. and Shenkman Capital Management are set to take over Vivid Seats Inc. in a deal that would reduce the ticket reseller’s net debt by more than $200 million, according to people familiar with the matter.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Treasury Yields Fall as Anthropic Fails to Sustain Risk Appetite]]></title>
+            <link>https://www.wsj.com/economy/central-banking/treasury-eurozone-bond-yields-edge-higher-47e08817?mod=rss_socialeconomyfeed</link>
+            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/treasury-eurozone-bond-yields-edge-higher-47e08817?mod=rss_socialeconomyfeed</guid>
+            <pubDate>Thu, 19 Nov 2026 21:00:00 GMT</pubDate>
+            <description><![CDATA[[WSJ] U.S. Treasury yields ended lower following the Anthropic IPO, which wasn’t enough to revive risk appetite across financial markets.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fed's Barr worried regulatory changes may increase financial sector risks - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGNlZHpfREZsS2VzTkI1dGxhQ1FLYk9ta0YzRHp6Wl9JRlF2ZVBFZTlJTmo3NjNoZXkyYUdQeFVwYVdGRW9wM25ldlozX3ZnRncyNktWTkk4RGdILXFaWGxnaVRMSUJvY0IzYUhuVGw3VmVyWGl2bmFXTVFZZ1FiblBqLXBsNThZMFRiRWxwYkg4Z2Y5Mk9YYkpWcHoyT1JhdnVXM01KeTYzaVBsUk9TUmZueTEzbU44?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGNlZHpfREZsS2VzTkI1dGxhQ1FLYk9ta0YzRHp6Wl9JRlF2ZVBFZTlJTmo3NjNoZXkyYUdQeFVwYVdGRW9wM25ldlozX3ZnRncyNktWTkk4RGdILXFaWGxnaVRMSUJvY0IzYUhuVGw3VmVyWGl2bmFXTVFZZ1FiblBqLXBsNThZMFRiRWxwYkg4Z2Y5Mk9YYkpWcHoyT1JhdnVXM01KeTYzaVBsUk9TUmZueTEzbU44?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 20:56:48 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Fed's Barr worried regulatory changes may increase financial sector risks  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meta to price Muse Charm gadget at $300, The Information reports - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjFzUjFCeHZYcEpLU1B4X0MzcWw1MTRZUjJYZHdYTmUzOGxEdEFYdHZMQ0ZDUk9Uc0JnV2JPVWZVMWZMekxGTmlQT3I5ODkzSjdtQXNFemUyaTZ5Q09mUEZZQ1h1c0FtcW53WEJ2eFYzS2Y1VlhnYmxuekhDVHJsa2dyZkRicWJrYW41ZmhjdjJiNnFfaE5mbWxjeWRtLWEwc0xfaUNlT21XMlFINGVKQw?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjFzUjFCeHZYcEpLU1B4X0MzcWw1MTRZUjJYZHdYTmUzOGxEdEFYdHZMQ0ZDUk9Uc0JnV2JPVWZVMWZMekxGTmlQT3I5ODkzSjdtQXNFemUyaTZ5Q09mUEZZQ1h1c0FtcW53WEJ2eFYzS2Y1VlhnYmxuekhDVHJsa2dyZkRicWJrYW41ZmhjdjJiNnFfaE5mbWxjeWRtLWEwc0xfaUNlT21XMlFINGVKQw?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 20:27:07 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Meta to price Muse Charm gadget at $300, The Information reports  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Japanese investors sought $9.4 billion of shares in Anthropic IPO, sources say - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzA3aGxPN3dWWXpGQ0NxUkVUdm9md2JpZnZQSjFtY0ZTeG1sazJtSUxMZHliR2Z2Rm5paDM2UjRwa3VXRDNUb2JCV0JOQkdiUnBnek50RTEtMGlCUmRsMTNaTkVfcklXVWk4SjZSRnFGN1BmblVxdVhfLVU3MkFkd3JYd21IY0ozME1KUjZUMjNXeHZGZzJxU3VrYWVkODc1RF9wZzA1UnBCRzBSY3dlQWllcEZaQzZGNXp6Z0JWTQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzA3aGxPN3dWWXpGQ0NxUkVUdm9md2JpZnZQSjFtY0ZTeG1sazJtSUxMZHliR2Z2Rm5paDM2UjRwa3VXRDNUb2JCV0JOQkdiUnBnek50RTEtMGlCUmRsMTNaTkVfcklXVWk4SjZSRnFGN1BmblVxdVhfLVU3MkFkd3JYd21IY0ozME1KUjZUMjNXeHZGZzJxU3VrYWVkODc1RF9wZzA1UnBCRzBSY3dlQWllcEZaQzZGNXp6Z0JWTQ?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 20:07:44 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Japanese investors sought $9.4 billion of shares in Anthropic IPO, sources say  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[彭博经济学家：Anthropic的IPO或标志AI行情终结 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5maFNERGZadzRHMUg2M0EzSUZKSjdKczVzNXpjeUs2VEVtSHloQ0tyRUc0TzhXdFBma0xLcmttN0dhdjRHcFlYaDdCbWFxMGxKdmM0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5maFNERGZadzRHMUg2M0EzSUZKSjdKczVzNXpjeUs2VEVtSHloQ0tyRUc0TzhXdFBma0xLcmttN0dhdjRHcFlYaDdCbWFxMGxKdmM0?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 19:57:26 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 彭博经济学家：Anthropic的IPO或标志AI行情终结  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027</guid>
+            <pubDate>Thu, 19 Nov 2026 19:14:11 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] The Federal Reserve has warned employees at its regional outposts to expect lower pay increases next year, according to a memo viewed by Bloomberg News.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特朗普9月高位买入英伟达站岗，SpaceX也加仓了 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE14c2VfcDRoY1plR25EZUctZUpEbVFQd2M0ZENXcWlkVzc0RkIyN3hZWnhFaWJjYWdCdHNUVXJ0RVR0Qzd0LWFGNmV0SUp4bnYyZm1R?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE14c2VfcDRoY1plR25EZUctZUpEbVFQd2M0ZENXcWlkVzc0RkIyN3hZWnhFaWJjYWdCdHNUVXJ0RVR0Qzd0LWFGNmV0SUp4bnYyZm1R?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 19:02:40 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 特朗普9月高位买入英伟达站岗，SpaceX也加仓了  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Commerzbank job cuts will start from the top and HVB can help, UniCredit CEO says - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3lydXNIUGxRWHNRN0ZJTFd2WjJLcmQ4RnZoVDRqaHFlUnRhWWN1aE41LXZrWXgxblZrcU1CTnVKWHkzTEg3MTdVRUxPbGtYWGliV0xoc3ljT2plZEluS0J4ZGFfT3gxOFh2YVRuekdHOGRfb2tzdUkyV2t3ZzBsNmpDMXRRUFhsbjhuZ1VXU29MRjB5YXZ1VXNuVVNrS3FLVzFaVUtwdEl4S1U?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb3lydXNIUGxRWHNRN0ZJTFd2WjJLcmQ4RnZoVDRqaHFlUnRhWWN1aE41LXZrWXgxblZrcU1CTnVKWHkzTEg3MTdVRUxPbGtYWGliV0xoc3ljT2plZEluS0J4ZGFfT3gxOFh2YVRuekdHOGRfb2tzdUkyV2t3ZzBsNmpDMXRRUFhsbjhuZ1VXU29MRjB5YXZ1VXNuVVNrS3FLVzFaVUtwdEl4S1U?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 19:00:25 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Commerzbank job cuts will start from the top and HVB can help, UniCredit CEO says  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Walmart says US shoppers stocked up after tech outages - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2xQTy03dlU5bzBXZEhoMTh3S0FVLW1xSVZxbktMcVJsSW9RRENvVUx2TU9IU2FEWWlnU1QwNk5JaVR3SUwyd2pSYl9UUTNBdXRXSVFScXRZOW5vcS1SX2tPRWhVOEZ1cmFHS2tfS3VsU0ZrbG5sYkw2SW9fR1NMRTJiblgwb3lEcFk2YjJMY0c0TFhVMk1CaFBIa2tVeVlYQ21vbVZJM3VqOVE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2xQTy03dlU5bzBXZEhoMTh3S0FVLW1xSVZxbktMcVJsSW9RRENvVUx2TU9IU2FEWWlnU1QwNk5JaVR3SUwyd2pSYl9UUTNBdXRXSVFScXRZOW5vcS1SX2tPRWhVOEZ1cmFHS2tfS3VsU0ZrbG5sYkw2SW9fR1NMRTJiblgwb3lEcFk2YjJMY0c0TFhVMk1CaFBIa2tVeVlYQ21vbVZJM3VqOVE?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:53:43 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Walmart says US shoppers stocked up after tech outages  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:53:15 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Novartis trims medium-term growth target, shares fall - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVdaWVhLVkFxVm5hdk5WSHJnWnp2NEFiS3M2VWh2ZTNpbU0yTl9USDRyblpsMk51VmFUNkY2ZENhZnAxNzZNZnFMZThUUElONmVOWHRlV3g0c1VxeFlKVi1iMWthM0NnYmpmZDUwWWI2cFFNNWwySUI5ZmNTbHJJdXo5SlluWmY3dlNVRnNkR1A5UmJEaWJDLWdkdG5IX2NkWmRrOTdUSlVYQ1N3NUJvdno2dUNRbnRwQ0E1Si1sMURuMGk5Z01YYWNySQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxQTVdaWVhLVkFxVm5hdk5WSHJnWnp2NEFiS3M2VWh2ZTNpbU0yTl9USDRyblpsMk51VmFUNkY2ZENhZnAxNzZNZnFMZThUUElONmVOWHRlV3g0c1VxeFlKVi1iMWthM0NnYmpmZDUwWWI2cFFNNWwySUI5ZmNTbHJJdXo5SlluWmY3dlNVRnNkR1A5UmJEaWJDLWdkdG5IX2NkWmRrOTdUSlVYQ1N3NUJvdno2dUNRbnRwQ0E1Si1sMURuMGk5Z01YYWNySQ?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:46:11 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Novartis trims medium-term growth target, shares fall  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Amazon warns NYC delivery bill could add up to $5 per order - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkFtMjlFYVZtVmJXQWlvMGtSdGNFZm5xd3JHSlJPaGR4ektBbEZUdWltOGhnbGpPTmNRblVaRFFnSU5KTWxZREdqVmpwTGREOTF0ajFtWkVMcURwY19tX1FkWndWOFlkMVYxTm85N2tjbno0TTNhWDV3VmRqSnJLSWdtUnRFOWxNYWFlWmRxelI2VjhPNkxxaWhIQ1JtYzJaZ0dQNmlxREd4dDY3S0o5N28zbkk0NXM?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkFtMjlFYVZtVmJXQWlvMGtSdGNFZm5xd3JHSlJPaGR4ektBbEZUdWltOGhnbGpPTmNRblVaRFFnSU5KTWxZREdqVmpwTGREOTF0ajFtWkVMcURwY19tX1FkWndWOFlkMVYxTm85N2tjbno0TTNhWDV3VmRqSnJLSWdtUnRFOWxNYWFlWmRxelI2VjhPNkxxaWhIQ1JtYzJaZ0dQNmlxREd4dDY3S0o5N28zbkk0NXM?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:43:01 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Amazon warns NYC delivery bill could add up to $5 per order  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[US gas exporters more comfortable signing European deals after EU delays methane regulation - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0ZuUlpxWkdlajd2bGh6anB2TWphTmU2TVVLR21rWnViZnNEUmNMOVRVLXItNjNxTWZ2RUlDa04xdXU3OTNwXzlyVk90cEhGX3RvM1lSYW5LU0E3NnFvZ2dSTmQxUl9tUktzcGh0NEhZOE9RdDQ2WXVvbUdma1UtN3h6eEF1REdXSGtaTHVoNVJOOTd4WFdveE0tT2tBWjlYNkZEakJJbTZRbEw0dmF0cmFmQkQ5Yy1jTE1YZ2xwS0dQWDVqTXFlRDdpeGU?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0ZuUlpxWkdlajd2bGh6anB2TWphTmU2TVVLR21rWnViZnNEUmNMOVRVLXItNjNxTWZ2RUlDa04xdXU3OTNwXzlyVk90cEhGX3RvM1lSYW5LU0E3NnFvZ2dSTmQxUl9tUktzcGh0NEhZOE9RdDQ2WXVvbUdma1UtN3h6eEF1REdXSGtaTHVoNVJOOTd4WFdveE0tT2tBWjlYNkZEakJJbTZRbEw0dmF0cmFmQkQ5Yy1jTE1YZ2xwS0dQWDVqTXFlRDdpeGU?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:42:45 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] US gas exporters more comfortable signing European deals after EU delays methane regulation  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[France's OVHcloud launches AI cloud products hosted in Europe - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnV6Z1NtSzlGTWp0ZnVxTjBKbUF3U011RmtiMDRFcmNNbFU2LTltRmViZHUtbjFjSWJVdGw0ckpmWUZ3WVNfbWFEUi13NkVoVC1TaXNFVkdDRnNPZGh3S0NsaEt2WU95RnRrOXZvbFRtTTk2Y2JtVFVpbHFMOVhheE9fWVZrSWZuUV9FUkYyNm5WR3pCWm9VdEZn?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnV6Z1NtSzlGTWp0ZnVxTjBKbUF3U011RmtiMDRFcmNNbFU2LTltRmViZHUtbjFjSWJVdGw0ckpmWUZ3WVNfbWFEUi13NkVoVC1TaXNFVkdDRnNPZGh3S0NsaEt2WU95RnRrOXZvbFRtTTk2Y2JtVFVpbHFMOVhheE9fWVZrSWZuUV9FUkYyNm5WR3pCWm9VdEZn?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:41:08 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] France's OVHcloud launches AI cloud products hosted in Europe  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Walmart warns of fuel cost pressure, lifts annual targets ahead of holidays - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3ZKVDljUTZKZEU5MktmTTRoOUR2ZHZFaVVqRWF6VENlNG9DSXV4aUJNcW1SVXRmRWpZVVQ1dmhjVHpsRkE5S3EwdGpFZHdQR3Y5ZHRxcUxGbHU4UFFoTzZibUpCUVU3cDU3RldZSnVnZHR2R2dtc3BhRFRlTDl4UXJoWXBXUy1OSVpwU0VEX01FVll3UWRNNTNpZkJQWk9jaGVTelBIOE84RG5v?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3ZKVDljUTZKZEU5MktmTTRoOUR2ZHZFaVVqRWF6VENlNG9DSXV4aUJNcW1SVXRmRWpZVVQ1dmhjVHpsRkE5S3EwdGpFZHdQR3Y5ZHRxcUxGbHU4UFFoTzZibUpCUVU3cDU3RldZSnVnZHR2R2dtc3BhRFRlTDl4UXJoWXBXUy1OSVpwU0VEX01FVll3UWRNNTNpZkJQWk9jaGVTelBIOE84RG5v?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:38:53 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Walmart warns of fuel cost pressure, lifts annual targets ahead of holidays  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[UK tribunal confirms government order demanding access to Apple data - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQenZpeUVpaFZLYklnRUUyX1M2WUFiLUE1VFNSQmZLWHdmaDB2a2Q1WXBOeDliUExJbzZ0eVFPLVJ2ekNKRVhBSFVSRXo4d2RxRG1XMjAzTkI3SjNmRGFGMVptQXQ4UFI3VklnanpvaEpXQnlYN0RxMHJXVGpXNWJMZnZDRWFRX0ZGQWNJT2xIdl9OUlpMci1FVUdMYnRORktIQjR4WmdGWWpUTnFBclBqbkdCYTZvMnNIY3FpN1RSdEFiQ2Rm?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixAFBVV95cUxQenZpeUVpaFZLYklnRUUyX1M2WUFiLUE1VFNSQmZLWHdmaDB2a2Q1WXBOeDliUExJbzZ0eVFPLVJ2ekNKRVhBSFVSRXo4d2RxRG1XMjAzTkI3SjNmRGFGMVptQXQ4UFI3VklnanpvaEpXQnlYN0RxMHJXVGpXNWJMZnZDRWFRX0ZGQWNJT2xIdl9OUlpMci1FVUdMYnRORktIQjR4WmdGWWpUTnFBclBqbkdCYTZvMnNIY3FpN1RSdEFiQ2Rm?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:38:26 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] UK tribunal confirms government order demanding access to Apple data  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[US energy chief Wright sees no sign Europe wants return to Russia energy - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNZE1wRjV3NXNuaVRoWmVQcE5aZ2xTS2daTWgtcE5mWnpaWFBudTdCT2RwelhTLVRaU2pJZVFWa3dxR0NtRjg3cHRuZGhnQ0V1c3FGZWhqWGJMTGVEWC10eFlqVmozMl91dDlNTmduOU9oMEpNOVM5NzFLZ1dtVllZRndqU01IQms1WHRlNXFFLTlMYWdSejRvYTdfU2pPSzlqRTVBOGZBamROdmFyVFIzbXozQlZhSmVlZTZiME9B?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNZE1wRjV3NXNuaVRoWmVQcE5aZ2xTS2daTWgtcE5mWnpaWFBudTdCT2RwelhTLVRaU2pJZVFWa3dxR0NtRjg3cHRuZGhnQ0V1c3FGZWhqWGJMTGVEWC10eFlqVmozMl91dDlNTmduOU9oMEpNOVM5NzFLZ1dtVllZRndqU01IQms1WHRlNXFFLTlMYWdSejRvYTdfU2pPSzlqRTVBOGZBamROdmFyVFIzbXozQlZhSmVlZTZiME9B?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:38:07 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] US energy chief Wright sees no sign Europe wants return to Russia energy  Reuters]]></description>
         </item>
         <item>
             <title><![CDATA[Trump bought up to $265,000 of Nvidia stock in September, disclosure shows - Reuters]]></title>
             <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaEEyX3UxZFhLMmpFRWRWYzlUdTBRMnB1VmFiczhiYWwtZXFPeGd1dTJhMU14SXMyLWZPRGJyQjlkTlFva1hTS3FyVUtCMDhJZnJOU0ZiRzJlV3ctc05uM3ltMzh2UVdGQzlXQ05nOXRKT1ZfRUZvQjY4ak4wWFZmODlDa1MwRnFQTFBLcDYwNWZZQURaWkgtNEN0cVg3a19aQ2dwMGdjelNRLUU?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 17:20:46 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2026 18:37:35 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Trump bought up to $265,000 of Nvidia stock in September, disclosure shows  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[麦当劳任命前麦肯锡合伙人主导美国战略重组]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3677608</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677608</guid>
-            <pubDate>Thu, 19 Nov 2026 17:17:21 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:34:39 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[美股异动 | Anthropic(ANT.US)登陆美股市场 开盘股价暴涨超33%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3677599</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677599</guid>
-            <pubDate>Thu, 19 Nov 2026 17:09:41 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[Trump unveils $17 billion of Southeast Asia deals for US firms, White House says - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlRBdU1MbG9haFIzV3RrZEx0YkN0R0FvdEtnaWVrdWV1Q0FRUFRiVTdQalV4d3p2UDVrUWFHZUZsMV9QMGtTM2VnUHUtSzhtZXlRXzhFbEdocGExeXhKRXZZbU91NjNSNVlVNklWQS1pcGlzeDdSOWxJaWFPQ1hMT1c0a2pyU01jU0pfUzR0WXByakIyYU01eVNJaTFURWZaeVFTYnBLV3lrMmpGWi1peUVOUnlTeldYcGgzeVU1WjhwSXFmQThNMW43RV9VVXM?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlRBdU1MbG9haFIzV3RrZEx0YkN0R0FvdEtnaWVrdWV1Q0FRUFRiVTdQalV4d3p2UDVrUWFHZUZsMV9QMGtTM2VnUHUtSzhtZXlRXzhFbEdocGExeXhKRXZZbU91NjNSNVlVNklWQS1pcGlzeDdSOWxJaWFPQ1hMT1c0a2pyU01jU0pfUzR0WXByakIyYU01eVNJaTFURWZaeVFTYnBLV3lrMmpGWi1peUVOUnlTeldYcGgzeVU1WjhwSXFmQThNMW43RV9VVXM?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:33:19 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Trump unveils $17 billion of Southeast Asia deals for US firms, White House says  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[英国股市收低；截至收盘Investing.com 英国 100下跌0.85%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3677597</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677597</guid>
-            <pubDate>Thu, 19 Nov 2026 17:09:16 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[Euro zone banks' data centre exposure small but growing, ECB says - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOcm5Wc0JWdU5keDRHeFRNV0Izdl9IY3pCVzYwaEExN2F0cmo5MTAzMnZ5S3pFSW9zeU5ITVo1bF92OExlbmU0OW55cWR1b09NdGZWU29FTi1kVXBzTHBoSUtNdmRONlVaMUV1XzN5QTUwSWNWQm80YkV0NGpzcjNES195c1VVaS1sRElPVUU2RWJHZ0N3T3I2RGhfVGdTRTlnMkdJeTM0V21lczRyV054R3h3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxOcm5Wc0JWdU5keDRHeFRNV0Izdl9IY3pCVzYwaEExN2F0cmo5MTAzMnZ5S3pFSW9zeU5ITVo1bF92OExlbmU0OW55cWR1b09NdGZWU29FTi1kVXBzTHBoSUtNdmRONlVaMUV1XzN5QTUwSWNWQm80YkV0NGpzcjNES195c1VVaS1sRElPVUU2RWJHZ0N3T3I2RGhfVGdTRTlnMkdJeTM0V21lczRyV054R3h3?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:33:07 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Euro zone banks' data centre exposure small but growing, ECB says  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[西班牙股市收低；截至收盘西班牙IBEX35指数下跌0.97%]]></title>
-            <link>https://cn.investing.com/news/stock-market-news/article-3677595</link>
-            <guid isPermaLink="false">https://cn.investing.com/news/stock-market-news/article-3677595</guid>
-            <pubDate>Thu, 19 Nov 2026 17:08:49 GMT</pubDate>
-            <description><![CDATA[[英为财情] ]]></description>
+            <title><![CDATA[UK's FTSE 100 hits six-week low in broad risk-off move - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNNC1tMnlsQ3lld2Jqd0w2V2ZFYkhySVJtNjgzMW95SjVVMndhRUVMd2ZvcE9jekNVWk01T213a2VEbTl5V3g5NVhDa2JwMUN4ZFV3cHNTbE1SVXhPbUU3ZThFQWZWN3gzQ2tYY1VOUzYtQkFKTW1XQmpUTTdnblRzS3EyeXl4RkhWOVlMb0F5ckdJNDNYZElia0R3VkFYMlNLT01XN09JT3hXLTdxb2VkOFFRd1AwSWs?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNNC1tMnlsQ3lld2Jqd0w2V2ZFYkhySVJtNjgzMW95SjVVMndhRUVMd2ZvcE9jekNVWk01T213a2VEbTl5V3g5NVhDa2JwMUN4ZFV3cHNTbE1SVXhPbUU3ZThFQWZWN3gzQ2tYY1VOUzYtQkFKTW1XQmpUTTdnblRzS3EyeXl4RkhWOVlMb0F5ckdJNDNYZElia0R3VkFYMlNLT01XN09JT3hXLTdxb2VkOFFRd1AwSWs?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:31:10 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] UK's FTSE 100 hits six-week low in broad risk-off move  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[Life Insurers Are Lagging in Private Markets Risk Assessments]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-11-19/life-insurers-lagging-in-private-market-risk-assessments-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-11-19/life-insurers-lagging-in-private-market-risk-assessments-video</guid>
-            <pubDate>Thu, 19 Nov 2026 17:03:40 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Life insurers haven't built up the same kind of skills to analyze private market investments in the same way as banks have and the lag compared with deployment is ``fairly significant'' in areas like credit risk assessment, valuation and capital allocation, according to Lukas Ziewer, a researcher and former Chief Risk Officer at Athora. Axa IM's Deborah Shire said investing in the power needed for data centers is a less risky way of playing the artificial intelligence boom as there is less downside peril. Regulators should be much more public on their views on rating agencies, said Nicholas Bamber, global head of private credit at L&G's asset management business. (Source: Bloomberg)]]></description>
+            <title><![CDATA[Accenture launches plan to cut 950 Meta-linked jobs in Portugal - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPQl82R1NQaEttYmk0WWpabkRNRUVCYWFvSDBwVjFJWXEtUi1RNklzaDd3cWx4a01aWUxoZVZvR0JmYmNvRWhyMzlkQS1BYUNDeUVlMGhYMHZIcTc3TkxYYTh3SEFvYmZjYWJ3UHRCTzRpRkotTEliWEstSkd4MDhQZ19DWGdPOWVSS3NQQ0RRQndsNnZ2bHl6b3ZrTngzUk4tamJla2R3SzZZa3dGTGtNSl9icThRRFU?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPQl82R1NQaEttYmk0WWpabkRNRUVCYWFvSDBwVjFJWXEtUi1RNklzaDd3cWx4a01aWUxoZVZvR0JmYmNvRWhyMzlkQS1BYUNDeUVlMGhYMHZIcTc3TkxYYTh3SEFvYmZjYWJ3UHRCTzRpRkotTEliWEstSkd4MDhQZ19DWGdPOWVSS3NQQ0RRQndsNnZ2bHl6b3ZrTngzUk4tamJla2R3SzZZa3dGTGtNSl9icThRRFU?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:30:27 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Accenture launches plan to cut 950 Meta-linked jobs in Portugal  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[EDF to buy Britain's Utilita Energy parent Luxion, EDF says - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFhWOFRLMkc4TVozaUc2bWtkQVJsaXBpemdxZEdWY1d6b0xvYVpUTGtwb080UmpvcXAtSGJlREdVWFNQUFNFNGpxMFZOdUhTdDZzbWZJQmJ5TEptRFN2c2x6RjNkbE1GSU1rc05td3UwTF9xOEpKMzVsOXNNcmhvNXdRTTdVVHRJOFpsRE9fTlhuVzVHcTZ4TmViQ29GOUdicDNMY2xzdWtDUQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFhWOFRLMkc4TVozaUc2bWtkQVJsaXBpemdxZEdWY1d6b0xvYVpUTGtwb080UmpvcXAtSGJlREdVWFNQUFNFNGpxMFZOdUhTdDZzbWZJQmJ5TEptRFN2c2x6RjNkbE1GSU1rc05td3UwTF9xOEpKMzVsOXNNcmhvNXdRTTdVVHRJOFpsRE9fTlhuVzVHcTZ4TmViQ29GOUdicDNMY2xzdWtDUQ?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:15:31 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] EDF to buy Britain's Utilita Energy parent Luxion, EDF says  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic IPO火爆：超半数机构分文未获，配售向美国投资者高度倾斜 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pQ3RVQ3Q3NHpxNU1Fd2J2QkVQM0oyR3NSRW5GLW1Zb1ZNc3hVSjdQdklEZ1lLWlM0WXFHdkYyX1JoSDFaYzFBeGdJbHNjck5KdTE0?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pQ3RVQ3Q3NHpxNU1Fd2J2QkVQM0oyR3NSRW5GLW1Zb1ZNc3hVSjdQdklEZ1lLWlM0WXFHdkYyX1JoSDFaYzFBeGdJbHNjck5KdTE0?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 18:03:18 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] Anthropic IPO火爆：超半数机构分文未获，配售向美国投资者高度倾斜  华尔街见闻]]></description>
+        </item>
+        <item>
+            <title><![CDATA[German auto, steel workers to strike as IG Metall union presses pay demands - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXRYUnlyTUhjLUlLeGZkUnFHdFZCNElKV3k0QndxblNhaHgwZVNnbE9qeDhlb001THNzcFl0UFVqLU52VnlRc2JuQ0pXUExyUkM3bWUzSW1ZV3lsUjVyRzZoQm9qVUZxcWlBOG50dFloYk55T1o5T0swU1B5RjZ6dHBfR1dvWW1EOXRrLTNEcWhTdzlzMUlELTNCU2FMNXlOcDM2MC1PeVNFSG80ekxBQmIxNmctalpfb1NlZ3hFTlQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXRYUnlyTUhjLUlLeGZkUnFHdFZCNElKV3k0QndxblNhaHgwZVNnbE9qeDhlb001THNzcFl0UFVqLU52VnlRc2JuQ0pXUExyUkM3bWUzSW1ZV3lsUjVyRzZoQm9qVUZxcWlBOG50dFloYk55T1o5T0swU1B5RjZ6dHBfR1dvWW1EOXRrLTNEcWhTdzlzMUlELTNCU2FMNXlOcDM2MC1PeVNFSG80ekxBQmIxNmctalpfb1NlZ3hFTlQ?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 17:52:04 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] German auto, steel workers to strike as IG Metall union presses pay demands  Reuters]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nintendo Gains as ‘Roaring Kitty’ Posts Mario Character on X]]></title>
+            <link>https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x</link>
+            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/nintendo-jumps-after-roaring-kitty-posts-mario-character-on-x</guid>
+            <pubDate>Thu, 19 Nov 2026 17:15:50 GMT</pubDate>
+            <description><![CDATA[[Bloomberg] Nintendo Co.’s American depositary receipts soared Thursday after an account associated with Keith Gill, the online persona known as “Roaring Kitty,” posted an image of the firm’s mascot on X.]]></description>
         </item>
         <item>
             <title><![CDATA[Anthropic draws bullish Wall Street calls ahead of Nasdaq debut - Reuters]]></title>
@@ -128,53 +422,11 @@
             <description><![CDATA[[Reuters Business] Anthropic draws bullish Wall Street calls ahead of Nasdaq debut  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[US Sour Crude’s War Premium Vanishes as Supply Surges]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/us-sour-crude-s-war-premium-vanishes-as-supply-surges</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/us-sour-crude-s-war-premium-vanishes-as-supply-surges</guid>
-            <pubDate>Thu, 19 Nov 2026 16:45:06 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] The price of US sour oil has plunged, as a surge of oil from Venezuela, Canada and the Middle East gives refiners ample barrels to choose from.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Banks Swap Battered Brazil for Mexico in Regional Equity Picks]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/banks-swap-battered-brazil-for-mexico-in-regional-equity-picks</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/banks-swap-battered-brazil-for-mexico-in-regional-equity-picks</guid>
-            <pubDate>Thu, 19 Nov 2026 16:43:48 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Banks from Wall Street to Brazil’s Faria Lima financial hub are switching their stock preferences to Mexico and away from Brazil as diverging growth, rates and earnings outlooks reshape the investment case across Latin America.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Walmart warns of fuel cost pressure, lifts annual targets ahead of holidays - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3ZKVDljUTZKZEU5MktmTTRoOUR2ZHZFaVVqRWF6VENlNG9DSXV4aUJNcW1SVXRmRWpZVVQ1dmhjVHpsRkE5S3EwdGpFZHdQR3Y5ZHRxcUxGbHU4UFFoTzZibUpCUVU3cDU3RldZSnVnZHR2R2dtc3BhRFRlTDl4UXJoWXBXUy1OSVpwU0VEX01FVll3UWRNNTNpZkJQWk9jaGVTelBIOE84RG5v?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3ZKVDljUTZKZEU5MktmTTRoOUR2ZHZFaVVqRWF6VENlNG9DSXV4aUJNcW1SVXRmRWpZVVQ1dmhjVHpsRkE5S3EwdGpFZHdQR3Y5ZHRxcUxGbHU4UFFoTzZibUpCUVU3cDU3RldZSnVnZHR2R2dtc3BhRFRlTDl4UXJoWXBXUy1OSVpwU0VEX01FVll3UWRNNTNpZkJQWk9jaGVTelBIOE84RG5v?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 16:32:11 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Walmart warns of fuel cost pressure, lifts annual targets ahead of holidays  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[South Africa Port Operator Blames Delays on Old Equipment]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/south-africa-port-operator-blames-delays-on-old-equipment</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/south-africa-port-operator-blames-delays-on-old-equipment</guid>
-            <pubDate>Thu, 19 Nov 2026 16:19:02 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] The operator of South Africa’s biggest shipping container terminal blamed poor equipment upkeep for severe delays that have caused medical supply shortages and hit car exports, triggering threats it could lose its license.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Algebris Hedges Against AT1 Volatility by Avoiding Tight Spreads]]></title>
-            <link>https://www.bloomberg.com/news/videos/2026-11-19/algebris-hedges-against-at1-volatility-video</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/videos/2026-11-19/algebris-hedges-against-at1-volatility-video</guid>
-            <pubDate>Thu, 19 Nov 2026 16:17:48 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Algebris Investments is taking a cautious approach to AT1 bonds as spreads remain historically tight, avoiding the most expensive parts of the market and keeping buffers against a potential downturn. Other investors remain positive on the asset class, arguing that banks are well capitalized and that even French lenders remain fundamentally sound despite political and sovereign-market volatility. (Source: Bloomberg)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Alphabet to Raise Up to $4.2 Billion in Latest Canada Bond Sale]]></title>
+            <title><![CDATA[Alphabet Raises $4.2 Billion From Latest Canada Bond Sale]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/alphabet-to-raise-at-least-3-5-billion-with-canadian-debt-sale</guid>
             <pubDate>Thu, 19 Nov 2026 16:16:50 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Alphabet Inc. is poised to raise as much as C$6 billion ($4.2 billion) from the sale of Canadian bonds, six months after its debut in the market.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AMD Falls on Hunterbrook Short Call That Cites China Risks]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals</guid>
-            <pubDate>Thu, 19 Nov 2026 16:12:28 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Advanced Micro Devices Inc. shares slid after Hunterbrook Capital said it shorted the stock, following a report by its media affiliate that the chipmaker is reliant on a potentially risky business in China.]]></description>
+            <description><![CDATA[[Bloomberg] Alphabet Inc. sold C$6 billion ($4.2 billion) of Canadian bonds, six months after its market debut.]]></description>
         </item>
         <item>
             <title><![CDATA[EU countries, Parliament agree to delay EU methane regulation by two years - Reuters]]></title>
@@ -184,11 +436,25 @@
             <description><![CDATA[[Reuters Business] EU countries, Parliament agree to delay EU methane regulation by two years  Reuters]]></description>
         </item>
         <item>
+            <title><![CDATA[SpaceX经济学：一艘星舰=4亿美元收入，回本周期不到20周，远快于AI云！ - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWX2ppSjY4YVl3NkFzUVV1M0gyaE80R1lzT1ZPZzZMWVFhVWZqOXB6eUFtS1JEYXNsWkNGVHFDU21iUDEyWWtGWURTRXJZWWVHTjVN?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWX2ppSjY4YVl3NkFzUVV1M0gyaE80R1lzT1ZPZzZMWVFhVWZqOXB6eUFtS1JEYXNsWkNGVHFDU21iUDEyWWtGWURTRXJZWWVHTjVN?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 15:56:18 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] SpaceX经济学：一艘星舰=4亿美元收入，回本周期不到20周，远快于AI云！  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[Mexican Peso Rout Deepens as Banxico, Fed Policies Diverge]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/mexican-peso-hits-17-month-low-as-fed-outlook-rattles-markets</guid>
             <pubDate>Thu, 19 Nov 2026 15:34:06 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] The Mexican peso sank past the 19-per-dollar mark to its lowest in over a year, as the prospect of further Federal Reserve interest-rate hikes intensified a selloff fueled by Mexico’s dovish monetary policy.]]></description>
+            <description><![CDATA[[Bloomberg] The Mexican peso sank past the 19-per-dollar mark to its lowest in over a year, as the prospect of further Federal Reserve interest-rate hikes intensified a selloff triggered by Mexico’s dovish monetary policy.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[拼多多电话会：千亿扶持计划仍在投入期，持续加码商家扶持与供应链建设 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mMzdZVjgwR0RrUUd3N004ZzZWUlJPM3ZVcFlBRGZZVmpFTkl2WFR5NkdxLUF1UUpsemdlV0RFWWdGZHpFdzlNQ01LVTBzTTIyQ2JN?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mMzdZVjgwR0RrUUd3N004ZzZWUlJPM3ZVcFlBRGZZVmpFTkl2WFR5NkdxLUF1UUpsemdlV0RFWWdGZHpFdzlNQ01LVTBzTTIyQ2JN?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 15:32:08 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 拼多多电话会：千亿扶持计划仍在投入期，持续加码商家扶持与供应链建设  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[US plans to announce cause of outage that led to nationwide ground stop, FAA says - Reuters]]></title>
@@ -205,32 +471,11 @@
             <description><![CDATA[[Reuters Business] Ubisoft to cut 166 jobs in Montréal and Québec City  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[Accenture launches plan to cut 950 Meta-linked jobs in Portugal - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPQl82R1NQaEttYmk0WWpabkRNRUVCYWFvSDBwVjFJWXEtUi1RNklzaDd3cWx4a01aWUxoZVZvR0JmYmNvRWhyMzlkQS1BYUNDeUVlMGhYMHZIcTc3TkxYYTh3SEFvYmZjYWJ3UHRCTzRpRkotTEliWEstSkd4MDhQZ19DWGdPOWVSS3NQQ0RRQndsNnZ2bHl6b3ZrTngzUk4tamJla2R3SzZZa3dGTGtNSl9icThRRFU?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPQl82R1NQaEttYmk0WWpabkRNRUVCYWFvSDBwVjFJWXEtUi1RNklzaDd3cWx4a01aWUxoZVZvR0JmYmNvRWhyMzlkQS1BYUNDeUVlMGhYMHZIcTc3TkxYYTh3SEFvYmZjYWJ3UHRCTzRpRkotTEliWEstSkd4MDhQZ19DWGdPOWVSS3NQQ0RRQndsNnZ2bHl6b3ZrTngzUk4tamJla2R3SzZZa3dGTGtNSl9icThRRFU?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 15:18:31 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Accenture launches plan to cut 950 Meta-linked jobs in Portugal  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sanofi Weighs Takeover of US Drugmaker Insmed]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/sanofi-weighs-takeover-of-us-drugmaker-insmed</guid>
-            <pubDate>Thu, 19 Nov 2026 15:05:37 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Sanofi SA is weighing an acquisition of US drugmaker Insmed Inc., people familiar with the matter said, as the French pharmaceuticals company hunts for its next blockbuster treatment under a new CEO.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Anthropic Shares Jump 21% After $107.3 Billion IPO Breaks Record]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/anthropic-poised-to-surge-after-107-3-billion-ipo-tops-spacex</guid>
-            <pubDate>Thu, 19 Nov 2026 14:52:54 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Anthropic PBC shares soared 21% above their IPO price after the artificial intelligence lab’s blockbuster $107.3 billion debut broke SpaceX’s record for the biggest-ever offering.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 14:47:04 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains  Reuters]]></description>
+            <title><![CDATA[Volkswagen seeks pay freeze, flexible hours in showdown with union - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnJaX3pNVzZnQURyeHVEbU13X05JNXVBcDZzWUdaWV9qT01yZEctV0d0VGZXclFaQWE2cGZMZFRGQkduVlpQdEE4cEZjVzdJSTI0bWU1R3RDZldEQTc4WkJqMGJVakM3UUxPMkpSZUNMc3FOMGJNNVFNUkhJTFFweDVkeUhZNW5XaUctbGI2NlhXMmdKTFYzWEI0clg2RXhaY1NrNGFvQklUYzJsVUxlMzJucEFJM3dKOWIxaVRrUEk0WkRmSXZobnc0VQ?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiywFBVV95cUxPcnJaX3pNVzZnQURyeHVEbU13X05JNXVBcDZzWUdaWV9qT01yZEctV0d0VGZXclFaQWE2cGZMZFRGQkduVlpQdEE4cEZjVzdJSTI0bWU1R3RDZldEQTc4WkJqMGJVakM3UUxPMkpSZUNMc3FOMGJNNVFNUkhJTFFweDVkeUhZNW5XaUctbGI2NlhXMmdKTFYzWEI0clg2RXhaY1NrNGFvQklUYzJsVUxlMzJucEFJM3dKOWIxaVRrUEk0WkRmSXZobnc0VQ?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 15:23:13 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Volkswagen seeks pay freeze, flexible hours in showdown with union  Reuters]]></description>
         </item>
         <item>
             <title><![CDATA[Canada Producer Prices Rise Again in October, Buoyed by Energy Products]]></title>
@@ -275,46 +520,18 @@
             <description><![CDATA[[Reuters Business] Dutch privacy watchdog AP advises consumers not to purchase smart glasses  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[India Customs Dispute Holds Up $66 Million of Scotch Whisky]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/india-customs-dispute-holds-up-66-million-of-scotch-whisky</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/india-customs-dispute-holds-up-66-million-of-scotch-whisky</guid>
-            <pubDate>Thu, 19 Nov 2026 13:45:34 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Indian customs authorities are holding up bulk Scotch whisky shipments worth more than £50 million ($65.8 million) at various ports over an import duty dispute, said a person familiar with the matter.]]></description>
+            <title><![CDATA[Temu owner PDD beats third-quarter profit estimates as marketing spending falls - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOUVlDMFN1aGI1Y2JyeWxMX1Y4V1BOQlBHU3d6Y3YxYWNCbkFXRzhPMDc5TndhWWkyZzRmamRJX21zMnVjVmR1Ynd5TTEwWUpmNzNLbVdHbVBHQkpsVWJwN1d0d1R3bW5fSE8zUVdEWW9KWFBWZWNsckdFWHZRTnpOVTdQMjhtY3FIdGpqRTJuYW15SW1ET3QzVzJVYmctTjFLMzJPdy00MmZpMDRNc0xYNkxkbU8?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitAFBVV95cUxOUVlDMFN1aGI1Y2JyeWxMX1Y4V1BOQlBHU3d6Y3YxYWNCbkFXRzhPMDc5TndhWWkyZzRmamRJX21zMnVjVmR1Ynd5TTEwWUpmNzNLbVdHbVBHQkpsVWJwN1d0d1R3bW5fSE8zUVdEWW9KWFBWZWNsckdFWHZRTnpOVTdQMjhtY3FIdGpqRTJuYW15SW1ET3QzVzJVYmctTjFLMzJPdy00MmZpMDRNc0xYNkxkbU8?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 13:50:24 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Temu owner PDD beats third-quarter profit estimates as marketing spending falls  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[US energy chief Wright sees no sign Europe wants return to Russia energy - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxNZE1wRjV3NXNuaVRoWmVQcE5aZ2xTS2daTWgtcE5mWnpaWFBudTdCT2RwelhTLVRaU2pJZVFWa3dxR0NtRjg3cHRuZGhnQ0V1c3FGZWhqWGJMTGVEWC10eFlqVmozMl91dDlNTmduOU9oMEpNOVM5NzFLZ1dtVllZRndqU01IQms1WHRlNXFFLTlMYWdSejRvYTdfU2pPSzlqRTVBOGZBamROdmFyVFIzbXozQlZhSmVlZTZiME9B?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivgFBVV95cUxNZE1wRjV3NXNuaVRoWmVQcE5aZ2xTS2daTWgtcE5mWnpaWFBudTdCT2RwelhTLVRaU2pJZVFWa3dxR0NtRjg3cHRuZGhnQ0V1c3FGZWhqWGJMTGVEWC10eFlqVmozMl91dDlNTmduOU9oMEpNOVM5NzFLZ1dtVllZRndqU01IQms1WHRlNXFFLTlMYWdSejRvYTdfU2pPSzlqRTVBOGZBamROdmFyVFIzbXozQlZhSmVlZTZiME9B?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 13:28:04 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] US energy chief Wright sees no sign Europe wants return to Russia energy  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Trump unveils $17 billion of Southeast Asia deals for US firms, White House says - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlRBdU1MbG9haFIzV3RrZEx0YkN0R0FvdEtnaWVrdWV1Q0FRUFRiVTdQalV4d3p2UDVrUWFHZUZsMV9QMGtTM2VnUHUtSzhtZXlRXzhFbEdocGExeXhKRXZZbU91NjNSNVlVNklWQS1pcGlzeDdSOWxJaWFPQ1hMT1c0a2pyU01jU0pfUzR0WXByakIyYU01eVNJaTFURWZaeVFTYnBLV3lrMmpGWi1peUVOUnlTeldYcGgzeVU1WjhwSXFmQThNMW43RV9VVXM?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizwFBVV95cUxPMlRBdU1MbG9haFIzV3RrZEx0YkN0R0FvdEtnaWVrdWV1Q0FRUFRiVTdQalV4d3p2UDVrUWFHZUZsMV9QMGtTM2VnUHUtSzhtZXlRXzhFbEdocGExeXhKRXZZbU91NjNSNVlVNklWQS1pcGlzeDdSOWxJaWFPQ1hMT1c0a2pyU01jU0pfUzR0WXByakIyYU01eVNJaTFURWZaeVFTYnBLV3lrMmpGWi1peUVOUnlTeldYcGgzeVU1WjhwSXFmQThNMW43RV9VVXM?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 13:26:38 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Trump unveils $17 billion of Southeast Asia deals for US firms, White House says  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Amazon warns NYC delivery bill could add up to $5 per order - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkFtMjlFYVZtVmJXQWlvMGtSdGNFZm5xd3JHSlJPaGR4ektBbEZUdWltOGhnbGpPTmNRblVaRFFnSU5KTWxZREdqVmpwTGREOTF0ajFtWkVMcURwY19tX1FkWndWOFlkMVYxTm85N2tjbno0TTNhWDV3VmRqSnJLSWdtUnRFOWxNYWFlWmRxelI2VjhPNkxxaWhIQ1JtYzJaZ0dQNmlxREd4dDY3S0o5N28zbkk0NXM?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkFtMjlFYVZtVmJXQWlvMGtSdGNFZm5xd3JHSlJPaGR4ektBbEZUdWltOGhnbGpPTmNRblVaRFFnSU5KTWxZREdqVmpwTGREOTF0ajFtWkVMcURwY19tX1FkWndWOFlkMVYxTm85N2tjbno0TTNhWDV3VmRqSnJLSWdtUnRFOWxNYWFlWmRxelI2VjhPNkxxaWhIQ1JtYzJaZ0dQNmlxREd4dDY3S0o5N28zbkk0NXM?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 13:23:45 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Amazon warns NYC delivery bill could add up to $5 per order  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[German auto, steel workers to strike as IG Metall union presses pay demands - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXRYUnlyTUhjLUlLeGZkUnFHdFZCNElKV3k0QndxblNhaHgwZVNnbE9qeDhlb001THNzcFl0UFVqLU52VnlRc2JuQ0pXUExyUkM3bWUzSW1ZV3lsUjVyRzZoQm9qVUZxcWlBOG50dFloYk55T1o5T0swU1B5RjZ6dHBfR1dvWW1EOXRrLTNEcWhTdzlzMUlELTNCU2FMNXlOcDM2MC1PeVNFSG80ekxBQmIxNmctalpfb1NlZ3hFTlQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXRYUnlyTUhjLUlLeGZkUnFHdFZCNElKV3k0QndxblNhaHgwZVNnbE9qeDhlb001THNzcFl0UFVqLU52VnlRc2JuQ0pXUExyUkM3bWUzSW1ZV3lsUjVyRzZoQm9qVUZxcWlBOG50dFloYk55T1o5T0swU1B5RjZ6dHBfR1dvWW1EOXRrLTNEcWhTdzlzMUlELTNCU2FMNXlOcDM2MC1PeVNFSG80ekxBQmIxNmctalpfb1NlZ3hFTlQ?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 12:59:49 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] German auto, steel workers to strike as IG Metall union presses pay demands  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[France's OVHcloud launches AI cloud products hosted in Europe - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnV6Z1NtSzlGTWp0ZnVxTjBKbUF3U011RmtiMDRFcmNNbFU2LTltRmViZHUtbjFjSWJVdGw0ckpmWUZ3WVNfbWFEUi13NkVoVC1TaXNFVkdDRnNPZGh3S0NsaEt2WU95RnRrOXZvbFRtTTk2Y2JtVFVpbHFMOVhheE9fWVZrSWZuUV9FUkYyNm5WR3pCWm9VdEZn?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnV6Z1NtSzlGTWp0ZnVxTjBKbUF3U011RmtiMDRFcmNNbFU2LTltRmViZHUtbjFjSWJVdGw0ckpmWUZ3WVNfbWFEUi13NkVoVC1TaXNFVkdDRnNPZGh3S0NsaEt2WU95RnRrOXZvbFRtTTk2Y2JtVFVpbHFMOVhheE9fWVZrSWZuUV9FUkYyNm5WR3pCWm9VdEZn?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 12:58:58 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] France's OVHcloud launches AI cloud products hosted in Europe  Reuters]]></description>
+            <title><![CDATA[美股多头迎来新麻烦：通胀、加息与盈利增长放缓同时来袭 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sTnZyNWJLbTlFaFZ4S0cxVWpXZmhDRXpoZWMxaDl0UlowMG5PeDFwc2pNeGlKVHhNR0JFY2l6T1d5R1M5S3JkakhPV0hseGZaTGNj?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sTnZyNWJLbTlFaFZ4S0cxVWpXZmhDRXpoZWMxaDl0UlowMG5PeDFwc2pNeGlKVHhNR0JFY2l6T1d5R1M5S3JkakhPV0hseGZaTGNj?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 13:25:01 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 美股多头迎来新麻烦：通胀、加息与盈利增长放缓同时来袭  华尔街见闻]]></description>
         </item>
         <item>
             <title><![CDATA[Oil tanker loads Iranian crude in Gulf, TankerTrackers.com says - Reuters]]></title>
@@ -324,11 +541,11 @@
             <description><![CDATA[[Reuters Business] Oil tanker loads Iranian crude in Gulf, TankerTrackers.com says  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[Latin American Currencies Tumble on Fed-Rate Hike Repricing]]></title>
+            <title><![CDATA[Latin America Currencies Sink on Rate Worries; Brazil Intervenes]]></title>
             <link>https://www.bloomberg.com/news/articles/2026-11-19/south-africa-s-rand-ticks-higher-as-most-emerging-fx-steadies</link>
             <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/south-africa-s-rand-ticks-higher-as-most-emerging-fx-steadies</guid>
             <pubDate>Thu, 19 Nov 2026 12:41:16 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] A sell-off in Latin American currencies deepened Thursday, sending the Mexican peso to its lowest since June 2025 and forcing Brazil’s central bank to step in to prop up the real, adding to a sour mood as traders reprice the odds of US interest-rate hikes.]]></description>
+            <description><![CDATA[[Bloomberg] A selloff in Latin American currencies extended to a second session on Thursday, sending the Mexican peso to its lowest since June 2025 and pushing Brazil’s central bank to step in to prop up the real, amid the mounting prospects for more rate hikes in the US.]]></description>
         </item>
         <item>
             <title><![CDATA[中俄美元首和平宣言 - 华尔街见闻]]></title>
@@ -336,27 +553,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnNVRWbXZOcXJ1YzdlSkxWbUY3RjZDMUJzVDZQRUVzX3FFWmxNTFFFODlubGdLZGx0TE1TSEU2WHMwS3ZtZEpRaDVlNjc0YVdUYnpR?oc=5</guid>
             <pubDate>Thu, 19 Nov 2026 11:57:46 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 中俄美元首和平宣言  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[UK's FTSE 100 slips to six-week low as defensive stocks drag - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNNC1tMnlsQ3lld2Jqd0w2V2ZFYkhySVJtNjgzMW95SjVVMndhRUVMd2ZvcE9jekNVWk01T213a2VEbTl5V3g5NVhDa2JwMUN4ZFV3cHNTbE1SVXhPbUU3ZThFQWZWN3gzQ2tYY1VOUzYtQkFKTW1XQmpUTTdnblRzS3EyeXl4RkhWOVlMb0F5ckdJNDNYZElia0R3VkFYMlNLT01XN09JT3hXLTdxb2VkOFFRd1AwSWs?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxNNC1tMnlsQ3lld2Jqd0w2V2ZFYkhySVJtNjgzMW95SjVVMndhRUVMd2ZvcE9jekNVWk01T213a2VEbTl5V3g5NVhDa2JwMUN4ZFV3cHNTbE1SVXhPbUU3ZThFQWZWN3gzQ2tYY1VOUzYtQkFKTW1XQmpUTTdnblRzS3EyeXl4RkhWOVlMb0F5ckdJNDNYZElia0R3VkFYMlNLT01XN09JT3hXLTdxb2VkOFFRd1AwSWs?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 11:39:45 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] UK's FTSE 100 slips to six-week low as defensive stocks drag  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Euro zone banks' data centre exposure small but growing, ECB says - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOcm5Wc0JWdU5keDRHeFRNV0Izdl9IY3pCVzYwaEExN2F0cmo5MTAzMnZ5S3pFSW9zeU5ITVo1bF92OExlbmU0OW55cWR1b09NdGZWU29FTi1kVXBzTHBoSUtNdmRONlVaMUV1XzN5QTUwSWNWQm80YkV0NGpzcjNES195c1VVaS1sRElPVUU2RWJHZ0N3T3I2RGhfVGdTRTlnMkdJeTM0V21lczRyV054R3h3?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMisgFBVV95cUxOcm5Wc0JWdU5keDRHeFRNV0Izdl9IY3pCVzYwaEExN2F0cmo5MTAzMnZ5S3pFSW9zeU5ITVo1bF92OExlbmU0OW55cWR1b09NdGZWU29FTi1kVXBzTHBoSUtNdmRONlVaMUV1XzN5QTUwSWNWQm80YkV0NGpzcjNES195c1VVaS1sRElPVUU2RWJHZ0N3T3I2RGhfVGdTRTlnMkdJeTM0V21lczRyV054R3h3?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 11:34:48 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Euro zone banks' data centre exposure small but growing, ECB says  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[What will last week’s string of techruptions mean for the economy going forward? Read more in today’s WSJ Economics newsletter:]]></title>
-            <link>https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_socialeconomyfeed</link>
-            <guid isPermaLink="false">https://www.wsj.com/finance/investing/four-ways-techruptions-may-shape-the-economy-a848efc9?mod=rss_socialeconomyfeed</guid>
-            <pubDate>Thu, 19 Nov 2026 10:50:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] Plus, the real debate at the Fed, more on Medicare for All, and could Congress cut tariffs?]]></description>
         </item>
         <item>
             <title><![CDATA[Orlen, Carlyle sign MoU on joint energy investments - Reuters]]></title>
@@ -373,18 +569,18 @@
             <description><![CDATA[[华尔街见闻] 最高50亿元！长鑫科技大幅上调回购金额  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Treasury, Eurozone Bond Yields Edge Higher]]></title>
-            <link>https://www.wsj.com/economy/central-banking/treasury-eurozone-bond-yields-edge-higher-47e08817?mod=rss_socialeconomyfeed</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/central-banking/treasury-eurozone-bond-yields-edge-higher-47e08817?mod=rss_socialeconomyfeed</guid>
-            <pubDate>Thu, 19 Nov 2026 09:40:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] Treasury yields rose as Federal Reserve minutes showed readiness to raise interest rates further, potentially at a faster pace.]]></description>
+            <title><![CDATA[阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大｜财报见闻 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wVF94ejllLXdDR0g2SlpDaThJZ29nRDdqTEM5MS1nYXc5RmZpOFJtN2IyTUkzRzh4SUp6VDdkSlN1RFozM1ZDY2laQ2R1NU96emhz?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wVF94ejllLXdDR0g2SlpDaThJZ29nRDdqTEM5MS1nYXc5RmZpOFJtN2IyTUkzRzh4SUp6VDdkSlN1RFozM1ZDY2laQ2R1NU96emhz?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 10:15:18 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] 阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大｜财报见闻  华尔街见闻]]></description>
         </item>
         <item>
-            <title><![CDATA[Amundi Sees Buying Opportunity If French Bond Ructions Resume]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/amundi-not-seeing-panic-selling-in-french-debt-mortier-says</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/amundi-not-seeing-panic-selling-in-french-debt-mortier-says</guid>
-            <pubDate>Thu, 19 Nov 2026 09:05:34 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] France’s Amundi SA said a renewed selloff in the nation’s beaten-down bonds could create buying opportunities.]]></description>
+            <title><![CDATA[Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor - Reuters]]></title>
+            <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 09:03:00 GMT</pubDate>
+            <description><![CDATA[[Reuters Business] Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor  Reuters]]></description>
         </item>
         <item>
             <title><![CDATA[Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage]]></title>
@@ -401,18 +597,18 @@
             <description><![CDATA[[华尔街见闻] 超级IPO前的市场  华尔街见闻]]></description>
         </item>
         <item>
+            <title><![CDATA[Anthropic创纪录IPO提振市场，美股期指涨幅扩大，纳指100期货涨2%，金铜油走高 - 华尔街见闻]]></title>
+            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JYWU2enpTd1lJYjU4TGduMHRQQnBncENPLUJkZ0VQZk1kYi00RllPZEpQRXU2cFlFS1hkZjlwLXZQQVFYZGVaMzlqc1ZlQkhLT3F3?oc=5</link>
+            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JYWU2enpTd1lJYjU4TGduMHRQQnBncENPLUJkZ0VQZk1kYi00RllPZEpQRXU2cFlFS1hkZjlwLXZQQVFYZGVaMzlqc1ZlQkhLT3F3?oc=5</guid>
+            <pubDate>Thu, 19 Nov 2026 07:32:48 GMT</pubDate>
+            <description><![CDATA[[华尔街见闻] Anthropic创纪录IPO提振市场，美股期指涨幅扩大，纳指100期货涨2%，金铜油走高  华尔街见闻]]></description>
+        </item>
+        <item>
             <title><![CDATA[Taiwan reports two Russian military aircraft nearby, second time this week - Reuters]]></title>
             <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnpIWnMxVUtEZmIybkVXR29nSWNpWXRqRVo3dXZoYmdTcE91Q2MtZW1oSTZ2X3REWjUyZ1JNYlJSclJZX09TY0FNNllNVFdQUU5TV2lVN083QnN3aXB4U2tTMGN4TmY5U1FJbG9zSnE4bEstV215amRrZ2hpTlZ3UFRnU3dJOWZ5M0I3ZGpmU2sxZVk3bE96MWlGblVnMV9XRHk3NF84bmxGb2t6d2JBbXhNY1BrWHhlRVkxanIwMmN0OHJ6eTE0Nzg5dkV0VDhTc3c?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnpIWnMxVUtEZmIybkVXR29nSWNpWXRqRVo3dXZoYmdTcE91Q2MtZW1oSTZ2X3REWjUyZ1JNYlJSclJZX09TY0FNNllNVFdQUU5TV2lVN083QnN3aXB4U2tTMGN4TmY5U1FJbG9zSnE4bEstV215amRrZ2hpTlZ3UFRnU3dJOWZ5M0I3ZGpmU2sxZVk3bE96MWlGblVnMV9XRHk3NF84bmxGb2t6d2JBbXhNY1BrWHhlRVkxanIwMmN0OHJ6eTE0Nzg5dkV0VDhTc3c?oc=5</guid>
             <pubDate>Thu, 19 Nov 2026 07:10:00 GMT</pubDate>
             <description><![CDATA[[Reuters Business] Taiwan reports two Russian military aircraft nearby, second time this week  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[US Stocks Drop for Sixth Day as Dow Jones Index Eyes Correction]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo</guid>
-            <pubDate>Thu, 19 Nov 2026 07:09:16 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] US equity indexes extended losses to a sixth straight day as a rally in technology stocks fizzled following the stock-market debut of Anthropic PBC.]]></description>
         </item>
         <item>
             <title><![CDATA[Bill Ackman：黄仁勋，带着华尔街，干回去！ - 华尔街见闻]]></title>
@@ -499,11 +695,11 @@
             <description><![CDATA[[Reuters Business] 'GTA VI' to supercharge Sony — but not so much in Japan  Reuters]]></description>
         </item>
         <item>
-            <title><![CDATA[Oil prices rise as Middle East shipping attacks counter supply surplus outlook - Reuters]]></title>
+            <title><![CDATA[Oil settles flat as Hormuz disruptions offset global surplus fears - Reuters]]></title>
             <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5</link>
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnV0bXBXX1ZzNHpkcHFmanlPQ2FmczM3Z2xCcXRqRjYwTVB6SlFhZ29vbGcyM3V5a3lOMHZ3OXprMDM0ang4RVEwQmhFMTZ2QU1GT2lQN0ZPUXQyZWJ4MHR1S0JQTmE5Y0Z5dkZlemdFU0V6TWFId0pZZlFtbHVzaU1EeVl1S2RiSFdrcE95d1ZqQW9NRWlZUFNHWU9QVHNXRlZiTmEtckdWZEpScFREcVpPQ0x3MDNQeFhiZHJHMUlVQXFRNkE?oc=5</guid>
             <pubDate>Thu, 19 Nov 2026 02:47:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Oil prices rise as Middle East shipping attacks counter supply surplus outlook  Reuters]]></description>
+            <description><![CDATA[[Reuters Business] Oil settles flat as Hormuz disruptions offset global surplus fears  Reuters]]></description>
         </item>
         <item>
             <title><![CDATA[德鲁肯米勒访谈全文：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本 - 华尔街见闻]]></title>
@@ -511,202 +707,6 @@
             <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzVjdEMEJrUFM2QVRxb2Zpd3lRM3hST2k3eXpRaDEzMlFmcGxxcGZZMHdUYzg1bXMzSnpOTmd5Nzdfak15QXRlMENRX003bG9uNXJF?oc=5</guid>
             <pubDate>Thu, 19 Nov 2026 02:43:02 GMT</pubDate>
             <description><![CDATA[[华尔街见闻] 德鲁肯米勒访谈全文：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[华尔街解读腾讯季报：游戏增速放缓、AI成本大增与转负的现金流 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tVndwMkFaa0JLLWxiY2ZwRTFYVWRJQ1EtdjdGSXc1UC1lZjBWRmRnZ0lOOEJxaVFIcV91ZFdnaE9teVVDY2tfU2U4NFIwNG1wal9N?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tVndwMkFaa0JLLWxiY2ZwRTFYVWRJQ1EtdjdGSXc1UC1lZjBWRmRnZ0lOOEJxaVFIcV91ZFdnaE9teVVDY2tfU2U4NFIwNG1wal9N?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 02:05:51 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 华尔街解读腾讯季报：游戏增速放缓、AI成本大增与转负的现金流  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[From cigarettes and denim to supersonic jets: an industrial North Carolina region reinvents its economy]]></title>
-            <link>https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_socialeconomyfeed</link>
-            <guid isPermaLink="false">https://www.wsj.com/economy/jobs/north-carolina-piedmont-triad-manufacturing-0835f741?mod=rss_socialeconomyfeed</guid>
-            <pubDate>Thu, 19 Nov 2026 02:00:00 GMT</pubDate>
-            <description><![CDATA[[WSJ] A North Carolina region once known for tobacco and denim made big investments to court new industries.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[今日开盘：两市双双低开 沪指跌幅0.13% - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EVUVGSTVTRWhua1hUbXR1ODlYRzNkWU9RQ0NyVXpEeHJiekpIZGZ0VE5FTGpVck5MZS1ZUGJnMHpXeEd0emFGNlVxeG12N19OOTZmWHJBNFdSMkwtVVNhME1R?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EVUVGSTVTRWhua1hUbXR1ODlYRzNkWU9RQ0NyVXpEeHJiekpIZGZ0VE5FTGpVck5MZS1ZUGJnMHpXeEd0emFGNlVxeG12N19OOTZmWHJBNFdSMkwtVVNhME1R?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 01:29:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 今日开盘：两市双双低开 沪指跌幅0.13%  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[两度折戟后，“AI股神”启动第三次重建计划，Anthropic IPO成最大底牌 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQkFrU0lUYkpHaERVSmVFay00ZzZ2eHJoZWZsTlZpN0swd3ZZUUQ3Y1pYT1R3N0ZBQ1dIRWF2ajV4Y25yUXJ0VGlwQXJpekZ5Qjhv?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sQkFrU0lUYkpHaERVSmVFay00ZzZ2eHJoZWZsTlZpN0swd3ZZUUQ3Y1pYT1R3N0ZBQ1dIRWF2ajV4Y25yUXJ0VGlwQXJpekZ5Qjhv?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 01:08:34 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 两度折戟后，“AI股神”启动第三次重建计划，Anthropic IPO成最大底牌  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fiji declares state of disaster amid El Nino-driven drought - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1dfbGxkWnZxMTdBR2tnVW9OMDVBcTRtLWw3TUJjRDBzbHpHcjEyamZRdWR1bjdocXhpUDFlMjdTN3pkdVZkOVg2UEF6a3pyNzBkMTFoeDJrMjl0WGszbTE3TnBPRU5PLXBBc216MlItU1JzZ01WRGpJdTlJRHF3cWZxa1FjaGRWRmFKVmpnbFBKRUx4R2l3U054dzFNX1U4eVl0UVo2bXRBRzdlem8taUtybw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1dfbGxkWnZxMTdBR2tnVW9OMDVBcTRtLWw3TUJjRDBzbHpHcjEyamZRdWR1bjdocXhpUDFlMjdTN3pkdVZkOVg2UEF6a3pyNzBkMTFoeDJrMjl0WGszbTE3TnBPRU5PLXBBc216MlItU1JzZ01WRGpJdTlJRHF3cWZxa1FjaGRWRmFKVmpnbFBKRUx4R2l3U054dzFNX1U4eVl0UVo2bXRBRzdlem8taUtybw?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 01:07:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Fiji declares state of disaster amid El Nino-driven drought  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Musk says he felt 'pretty foolish' about scale of midterm spending after Republican rout - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTl9SMXVYalFha1V6ZW9BWWRQTUl5TDE3cUlRcjVFTVdSM3VmNUFxbFhkUWlleTFyaG5KUl9ObFE5dkM1NXk1UkNMZHFVRTNHLXVxdF9DRTN0NUdENEtVbUthWTNHVWkwQk1uZUFIWkp4Z21EVkZmdmRLd1FNUHpMSEIxNzY3b29fTWtsMTduYXJveEhPZmVBdjBPWXFPSXg0bjc0bUU5ZWQyck1QZTltSUdPdE5sLTk1cGZacjY0QVRjTWVTdFctMHYtX3NUdnFHVGIw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTl9SMXVYalFha1V6ZW9BWWRQTUl5TDE3cUlRcjVFTVdSM3VmNUFxbFhkUWlleTFyaG5KUl9ObFE5dkM1NXk1UkNMZHFVRTNHLXVxdF9DRTN0NUdENEtVbUthWTNHVWkwQk1uZUFIWkp4Z21EVkZmdmRLd1FNUHpMSEIxNzY3b29fTWtsMTduYXJveEhPZmVBdjBPWXFPSXg0bjc0bUU5ZWQyck1QZTltSUdPdE5sLTk1cGZacjY0QVRjTWVTdFctMHYtX3NUdnFHVGIw?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 00:56:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Musk says he felt 'pretty foolish' about scale of midterm spending after Republican rout  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center</guid>
-            <pubDate>Thu, 19 Nov 2026 00:54:52 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Blue Owl Capital Inc. is preparing to sell $513 million of commercial mortgage backed securities to fund the acquisition of a Northern Virginia data center that’s fully leased to Amazon.com Inc., according to people with knowledge of the matter.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GTA 6--“史上最火爆游戏”来了？ - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MX0lsQURUV1c5SGs3QjVua0hYTUFuODJrbUh3SF9ZQUsyTTlyMnBSNWRRRzlfWEliMllFSk1tNEU4NHZGRllJTTZJd2JuTm1jdlhV?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MX0lsQURUV1c5SGs3QjVua0hYTUFuODJrbUh3SF9ZQUsyTTlyMnBSNWRRRzlfWEliMllFSk1tNEU4NHZGRllJTTZJd2JuTm1jdlhV?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 00:38:15 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] GTA 6--“史上最火爆游戏”来了？  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[异常强势！美元与利差“脱钩” - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GbDFHalpzR3ZvRW5MajdYNlZnTXExcnBzSzhGWXdmTWs4UXZIcHFWbER6WnRaNkM1Qk9hNDVvY3RyRFVpWDFaSGZ5NEtxSlN0aWc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GbDFHalpzR3ZvRW5MajdYNlZnTXExcnBzSzhGWXdmTWs4UXZIcHFWbER6WnRaNkM1Qk9hNDVvY3RyRFVpWDFaSGZ5NEtxSlN0aWc?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 00:31:00 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 异常强势！美元与利差“脱钩”  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Weight-loss drugs' hit to UK grocery spending tops £1 billion, Worldpanel says - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdl9SUHdFaGc4a3dfUWc1bXRoS2NWWHF5cDhIUmFuZVYzamxZOFdLUTE3T0ZKaUdhX2QxVWxBSm5xdENxM0FNbmJpQ3BqcHl5RGtyLVlxekx1aWZUWElBbk5CUGpJamNKclBsQzdtcmNPRTdKUkY1cWtDLWtseUlISXZzQWdVVHBOTzQ3RlBQaHJuSXZZdGNEVjN6QlUyWUtyZUllRHY0MjVReGFXNWpZalN3eHEtRXBwVVp2MnVRS19rYlAzOThvWDRpcUI2M2YwUWhyaS1CbURyR2FX?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdl9SUHdFaGc4a3dfUWc1bXRoS2NWWHF5cDhIUmFuZVYzamxZOFdLUTE3T0ZKaUdhX2QxVWxBSm5xdENxM0FNbmJpQ3BqcHl5RGtyLVlxekx1aWZUWElBbk5CUGpJamNKclBsQzdtcmNPRTdKUkY1cWtDLWtseUlISXZzQWdVVHBOTzQ3RlBQaHJuSXZZdGNEVjN6QlUyWUtyZUllRHY0MjVReGFXNWpZalN3eHEtRXBwVVp2MnVRS19rYlAzOThvWDRpcUI2M2YwUWhyaS1CbURyR2FX?oc=5</guid>
-            <pubDate>Thu, 19 Nov 2026 00:03:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Weight-loss drugs' hit to UK grocery spending tops £1 billion, Worldpanel says  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[China's Jetour to start Brazil car production in 2027, plans $69 million investment - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMmhuWVVOSEVONDBWOVZVMnphYTRrbGF4X29mQVVOblBIczhrbmRiYXBRVmd0eHd6ZnFwOUh1N2gzR1M5Q2pNZFFDMlZlUUVJNzRzWm92dXNFUm40eWc4bk00YndoSnpWTkgyTS1uLXU4M1dFbFJIeXhkd3JQTHlNeTBXcENyT2xQQzdhY2FFdU5CR3VfTW9yS3ZGRVYwd0JId3h5dUppX3dKTlNobjV3RWtVNGZ2Q0JZN1RpaFp3TnVDZ2hHR3k4T1JJMHJHdzlER1N3Wm5LOA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMmhuWVVOSEVONDBWOVZVMnphYTRrbGF4X29mQVVOblBIczhrbmRiYXBRVmd0eHd6ZnFwOUh1N2gzR1M5Q2pNZFFDMlZlUUVJNzRzWm92dXNFUm40eWc4bk00YndoSnpWTkgyTS1uLXU4M1dFbFJIeXhkd3JQTHlNeTBXcENyT2xQQzdhY2FFdU5CR3VfTW9yS3ZGRVYwd0JId3h5dUppX3dKTlNobjV3RWtVNGZ2Q0JZN1RpaFp3TnVDZ2hHR3k4T1JJMHJHdzlER1N3Wm5LOA?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 23:53:47 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] China's Jetour to start Brazil car production in 2027, plans $69 million investment  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：下调英伟达评级展望，治理隐患盖过财务实力 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jQmgzbjFsbUIzUlBjNEt1cm9DNEh1MEJYZDM3T0ZKOGd5aDhJUVU3cTZ5SlltX1M4WjdrQVRhQ0dhQklkRjRzSWJaUmYzTGZCbkFz?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jQmgzbjFsbUIzUlBjNEt1cm9DNEh1MEJYZDM3T0ZKOGd5aDhJUVU3cTZ5SlltX1M4WjdrQVRhQ0dhQklkRjRzSWJaUmYzTGZCbkFz?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 23:42:49 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 穆迪：下调英伟达评级展望，治理隐患盖过财务实力  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gold Declines for Fourth Day on Hawkish Fed, AI-Trade Fading]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-18/gold-steadies-near-14-month-low-as-fed-signals-more-rate-hikes</guid>
-            <pubDate>Wed, 18 Nov 2026 23:24:06 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Gold fell for a fourth straight day as a hawkish Federal Reserve pushed the dollar and Treasury yields higher, while an unraveling of AI trade forced investors to sell the precious metal to raise cash.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFyUlh5WE5VSFRRSWxnVGRUXzlROFRSb0VOdmZwamRWYjJ2SWhvTGp4ZTB3eGNYYWZtdkR0WkJLMDIxX2RZa20wOG4yY2xjdVhuTFpWakVUVDJ3X0NJQURrVkNuR0xPZmxtMm56NDQ0OHl2TzdZVDVSc04yYUlmY2hPSHJ1U2JLamhzallLeEZDVWozbGVObjBEWWNvY205Rmh3Rk9lTWE?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnFyUlh5WE5VSFRRSWxnVGRUXzlROFRSb0VOdmZwamRWYjJ2SWhvTGp4ZTB3eGNYYWZtdkR0WkJLMDIxX2RZa20wOG4yY2xjdVhuTFpWakVUVDJ3X0NJQURrVkNuR0xPZmxtMm56NDQ0OHl2TzdZVDVSc04yYUlmY2hPSHJ1U2JLamhzallLeEZDVWozbGVObjBEWWNvY205Rmh3Rk9lTWE?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 23:19:26 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] EXCLUSIVE: Anthropic clinches biggest-ever IPO with $81 billion offering  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[US FDA approves Regeneron's drug for generalized myasthenia gravis - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDRQczEtLVVNQktZdUFFUG9SSHYzaWlHTUlvMUwwOTNWZGtRNEV2X0lway0wUzVubjlCRnA2dlFMbDU3R0xyb0N6X2JtMjZIYmVmdEozeWh3RGRDWXU5eHRJcTlTbGZFRWFrLXNYZmd2UElLeDJ5eDdVTk1wUlp4MzNNRm5lR3JWUF9XNTdSWFJiOVY1RzhDYmVoVnZabkNqdFdIdEJWeTMxMlZidGROdW5FbGE3YzNGTGxYWk5Qck92aDR1VEZNbWl2QWlZZw?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDRQczEtLVVNQktZdUFFUG9SSHYzaWlHTUlvMUwwOTNWZGtRNEV2X0lway0wUzVubjlCRnA2dlFMbDU3R0xyb0N6X2JtMjZIYmVmdEozeWh3RGRDWXU5eHRJcTlTbGZFRWFrLXNYZmd2UElLeDJ5eDdVTk1wUlp4MzNNRm5lR3JWUF9XNTdSWFJiOVY1RzhDYmVoVnZabkNqdFdIdEJWeTMxMlZidGROdW5FbGE3YzNGTGxYWk5Qck92aDR1VEZNbWl2QWlZZw?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 23:16:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] US FDA approves Regeneron's drug for generalized myasthenia gravis  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌发布Gemini 4 Neon：智能指数升至全球第三，任务成本降17%、耗时缩短四成 - 华尔街见闻]]></title>
-            <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE50Sk5Vb0ZEVXY0WWhodXR6MWVqZ3ZETzBYal9hM0ZwNUNvbFRYZnZzMjl0VzhIU3BlWlA5UW81VXMzVF9CRy0wUERRQ0dFZGw5ejVV?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiU0FVX3lxTE50Sk5Vb0ZEVXY0WWhodXR6MWVqZ3ZETzBYal9hM0ZwNUNvbFRYZnZzMjl0VzhIU3BlWlA5UW81VXMzVF9CRy0wUERRQ0dFZGw5ejVV?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 23:14:35 GMT</pubDate>
-            <description><![CDATA[[华尔街见闻] 谷歌发布Gemini 4 Neon：智能指数升至全球第三，任务成本降17%、耗时缩短四成  华尔街见闻]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzY3bmFvcDFWWmUtWmRlTkg1OElfODl6Z1BCWG1LQlp3U0xsbXktUlo3SXRKczAxdEI2bGRSTmxLRDUwMXRMZU9LOGJuX0QyTkxLNHVnS254WkF6MVNRNmNsUkxZRXZreWh2d0R5M2JmZk1pUWZHYVg0R1BjUDBXNVlFOXpZRGhtRUxLd1F6UnViV0VQcHBGSWw0VjF4ZUU2dk9zQ3liMzNmY3k0TExRXzlVMA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzY3bmFvcDFWWmUtWmRlTkg1OElfODl6Z1BCWG1LQlp3U0xsbXktUlo3SXRKczAxdEI2bGRSTmxLRDUwMXRMZU9LOGJuX0QyTkxLNHVnS254WkF6MVNRNmNsUkxZRXZreWh2d0R5M2JmZk1pUWZHYVg0R1BjUDBXNVlFOXpZRGhtRUxLd1F6UnViV0VQcHBGSWw0VjF4ZUU2dk9zQ3liMzNmY3k0TExRXzlVMA?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 23:09:00 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] EXCLUSIVE: UniCredit and Germany reach broad agreement on Commerzbank takeover  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中加金融合作迎来工作规范 探索扩大双边贸易和投资的本币使用 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxRjczVFJ2TV9hZGVLWWtnVGlpMHpBOEdMTGQ1cGk1QVAwMVMxc2tSaXo4TUZOa1dVTkllS2JzV1g2c2lqTG1xUWt2RFpjd0hlOFFoVHQ3bnhOSC1RNE5EWGRR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxRjczVFJ2TV9hZGVLWWtnVGlpMHpBOEdMTGQ1cGk1QVAwMVMxc2tSaXo4TUZOa1dVTkllS2JzV1g2c2lqTG1xUWt2RFpjd0hlOFFoVHQ3bnhOSC1RNE5EWGRR?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 23:04:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 中加金融合作迎来工作规范 探索扩大双边贸易和投资的本币使用  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[财经早知道｜外交部：中俄美三国元首将就事关全球和平的重要问题深入交换意见 - 财新]]></title>
-            <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMdjJETlVVRTVGMjhpQTZtQW1xTUIyS052Szl1eThjemxCVTREYUlzcktTU01ieUY0UXV0Z1RJUzFYZlctR2RiSjFtR010b2pXLUtzcDE1M3JTaU5hc0Z3TE9n?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMdjJETlVVRTVGMjhpQTZtQW1xTUIyS052Szl1eThjemxCVTREYUlzcktTU01ieUY0UXV0Z1RJUzFYZlctR2RiSjFtR010b2pXLUtzcDE1M3JTaU5hc0Z3TE9n?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 23:03:00 GMT</pubDate>
-            <description><![CDATA[[财新网] 财经早知道｜外交部：中俄美三国元首将就事关全球和平的重要问题深入交换意见  财新]]></description>
-        </item>
-        <item>
-            <title><![CDATA[How the Anthropic IPO stacks up against SpaceX - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkdlbW1ReWtyUXdHSHFPaWw0Q25WdThvUlFSTDY3cGI2THcyNUtSNzVhNVZUdFVkcVF1Rzh3SWl4dVRiTEk3Z3JyLWpGeEx2aGFCYWZ3bTA2SXBia1lXcVBFd2xrRFdNQTllNUV4RGxVOWZreFlLWENXNzF5Njdsa1ZLZ0NWcEVRbzRJdnNuSm0tLTVUY280clRCaXVzOGhSekhNMkhBdGF2Wmc?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkdlbW1ReWtyUXdHSHFPaWw0Q25WdThvUlFSTDY3cGI2THcyNUtSNzVhNVZUdFVkcVF1Rzh3SWl4dVRiTEk3Z3JyLWpGeEx2aGFCYWZ3bTA2SXBia1lXcVBFd2xrRFdNQTllNUV4RGxVOWZreFlLWENXNzF5Njdsa1ZLZ0NWcEVRbzRJdnNuSm0tLTVUY280clRCaXVzOGhSekhNMkhBdGF2Wmc?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 22:54:09 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] How the Anthropic IPO stacks up against SpaceX  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Skydance Skips FIFA World Cup Bid as Netflix, Fox Eye $4 Billion Deal]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-18/skydance-skips-fifa-world-cup-bid-as-netflix-fox-eye-4-billion-deal</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-18/skydance-skips-fifa-world-cup-bid-as-netflix-fox-eye-4-billion-deal</guid>
-            <pubDate>Wed, 18 Nov 2026 22:52:49 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] Skydance Corp. and Walt Disney Co.’s ESPN have declined to bid for the US media rights for the next FIFA Men’s World Cup tournament in what could be one of the costliest and competitive auctions in the global soccer event’s history, according to people familiar with the matter.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nvidia retreats as strong outlook fails to dispel uncertainty - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlVnb2FaQlk2WUUtQ3dtaUlBRF9oSnFadkhYVUNwSzRKdnFQNENDUmgyMXBFV1NKaDhUcXJYTGF3Z21LM1F0OEZMVTJZU0lhWHlhOHBCb0t5WVRmMVRMU1ZCRTlJRUpYRlFCZ3RBYVV4WlF0Nms2Q1NvbkVjU0p5NVVQbmFrdzdfZmdLdVgxZnZBUkRGbkpZMTNR?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 22:17:53 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Nvidia retreats as strong outlook fails to dispel uncertainty  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stocks Fall as Anthropic Debut Not an AI All-Clear: Markets Wrap]]></title>
-            <link>https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates</link>
-            <guid isPermaLink="false">https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates</guid>
-            <pubDate>Wed, 18 Nov 2026 22:07:41 GMT</pubDate>
-            <description><![CDATA[[Bloomberg] A rally in stocks fizzled out as Anthropic PBC’s solid market debut failed to sustain enthusiasm for the artificial-intelligence trade.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Alberta unveils data center limits, drops oil sands emissions cap - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2h2OEdzVDdOQkdXN1QyM09iZG9td3RuZ0tzSW4zLWJLTU1IdlZjZEF2VjFob0hSTHpSd2lYMllaeFlUTmg1UnhpSWJ6YndrcTVSajRSMWxmZ2Y0VlE4aFBqVUUxb0JoV3VVZTg2N0VvOUU4QWU5cDQ1czBMbUk4MlJQMWRUSnhmT2FTUzJVVVRMV2xSaUwwczZUTU52YzBhc2pkdDFqdnRNNmExLXRmTDZNM3cxd2M?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMitwFBVV95cUxPN2h2OEdzVDdOQkdXN1QyM09iZG9td3RuZ0tzSW4zLWJLTU1IdlZjZEF2VjFob0hSTHpSd2lYMllaeFlUTmg1UnhpSWJ6YndrcTVSajRSMWxmZ2Y0VlE4aFBqVUUxb0JoV3VVZTg2N0VvOUU4QWU5cDQ1czBMbUk4MlJQMWRUSnhmT2FTUzJVVVRMV2xSaUwwczZUTU52YzBhc2pkdDFqdnRNNmExLXRmTDZNM3cxd2M?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 21:38:47 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Alberta unveils data center limits, drops oil sands emissions cap  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Data watchdog probes massive Deutsche Bank leak - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUs3dGNkUWtlLXg5WGdnMVhya2NRY3FLWmdXQkdXZjRCZl9LWklodUZsTE9YZVZNUmpyS3VxUWFRZEJmcjRGdW8zQnRpTEhMZllnZUJQT09jQ3dEenduR1NfRXBYTGJPUG9VUnVTQzlMYi1qWFprWnRqSms0ejh2QWlsNHdCV0V1dnFkaFhvYm55bHBYWExVcTgtaWpRaUhKbHRrMUk4SDFGMk9SN1pXNjJCWQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUs3dGNkUWtlLXg5WGdnMVhya2NRY3FLWmdXQkdXZjRCZl9LWklodUZsTE9YZVZNUmpyS3VxUWFRZEJmcjRGdW8zQnRpTEhMZllnZUJQT09jQ3dEenduR1NfRXBYTGJPUG9VUnVTQzlMYi1qWFprWnRqSms0ejh2QWlsNHdCV0V1dnFkaFhvYm55bHBYWExVcTgtaWpRaUhKbHRrMUk4SDFGMk9SN1pXNjJCWQ?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 21:32:20 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Data watchdog probes massive Deutsche Bank leak  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[UAE court orders freeze on crypto tokens stolen from Binance wallets - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlN6ZktkUTBHWUpjSTdjUmFSZUVMZlBwb05IaVdWX1FzVGlHdnF4cUpYVkNTMHVnYTlLZ0w1M01xTnlVNDV4dWg4SDNtRDJIYjNzOFBiTDBOODhVcDFzY0tQa2d6YV9Oc3BDTXNYLTNSOTNtaEcxZTRESmxfcXdxS0VtZnRPdzBFNW1LYThBdlRsc0ZmYXZtQXRGMlFCdHk2ak1rRml1TUpobFdGNnJwY0pDUGl6dVBXUjBMYThwOA?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlN6ZktkUTBHWUpjSTdjUmFSZUVMZlBwb05IaVdWX1FzVGlHdnF4cUpYVkNTMHVnYTlLZ0w1M01xTnlVNDV4dWg4SDNtRDJIYjNzOFBiTDBOODhVcDFzY0tQa2d6YV9Oc3BDTXNYLTNSOTNtaEcxZTRESmxfcXdxS0VtZnRPdzBFNW1LYThBdlRsc0ZmYXZtQXRGMlFCdHk2ak1rRml1TUpobFdGNnJwY0pDUGl6dVBXUjBMYThwOA?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 21:26:59 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] UAE court orders freeze on crypto tokens stolen from Binance wallets  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWp0U1B6TG9KQU5oY25mQTRtbk5hTUZxNnI3azdIZDNNcU9iN1hzSndVckt3eU5ReUZockwxa1JOMVYyNTQ5d281c3NnU1pEU3pKaEZMSUZEdFQ3bG9DaXk4Umx1NG5WQ3ZvMko2VzBYdlgwYUI0Rm9ud1kzU1VMeWdZNXlkd3FJWTBvc25qV1ROWDZubGV4SF9QUk1EcG9BWGprZzRxcU9xa2g5TmRiUDRqR0FoYmNreUNicmFiWQ?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 21:15:02 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike  Reuters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EXCLUSIVE: Orlen, QatarEnergy in talks on new LNG deal days after contract termination, sources say - Reuters]]></title>
-            <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNN09ma2xvQVVUbWJDcFlLNWNXVUZJQmk4YnJNRkZIODF5VkNxX1BMemVKR3FxYTNMeEM1MEtGemYtQ0NrY2QwbWlDbV9YcGVrX3VuaUtXX040X2xET1JqckxHSWdUdUhXTE1YVE1lMUZabWotTnBlM2NFMDZrSFRZOGR4RTllNm5sUzM5ZkEwUm9jc0tYajk4U0RYYWxqaXJodW5rN1hMcWZ1WEtTZE5FQWRXQ2dMWVZYSWk0OTBCX2VUWkNONHQ0NWJYeWQ?oc=5</link>
-            <guid isPermaLink="false">https://news.google.com/rss/articles/CBMizAFBVV95cUxNN09ma2xvQVVUbWJDcFlLNWNXVUZJQmk4YnJNRkZIODF5VkNxX1BMemVKR3FxYTNMeEM1MEtGemYtQ0NrY2QwbWlDbV9YcGVrX3VuaUtXX040X2xET1JqckxHSWdUdUhXTE1YVE1lMUZabWotTnBlM2NFMDZrSFRZOGR4RTllNm5sUzM5ZkEwUm9jc0tYajk4U0RYYWxqaXJodW5rN1hMcWZ1WEtTZE5FQWRXQ2dMWVZYSWk0OTBCX2VUWkNONHQ0NWJYeWQ?oc=5</guid>
-            <pubDate>Wed, 18 Nov 2026 20:57:46 GMT</pubDate>
-            <description><![CDATA[[Reuters Business] EXCLUSIVE: Orlen, QatarEnergy in talks on new LNG deal days after contract termination, sources say  Reuters]]></description>
         </item>
     </channel>
 </rss>
